@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Overcoming Black Screen Issues in FaceTime Sessions"
-date: 2024-08-02 18:38:26
-updated: 2024-08-05 12:38:42
+date: 2024-08-05T02:03:10.527Z
+updated: 2024-08-06T02:03:10.527Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Overcoming Black Screen Issues in FaceTime Sessions"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  For quick reference,[802.11be (Wi-Fi 7)](https://www.lifewire.com/what-is-wi-fi-7-6950913) , approved in 2024, is the most recent standard. However, just because a standard is approved does not mean it is available to you or is the standard you need for your particular situation. These are routinely updated, much like how software is updated on smartphones or computers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## What Is 802.11?
 
  In 1997, the Institute of Electrical and Electronics Engineers created the first WLAN standard. They called it_802.11_ after the name of the group formed to oversee its development. Unfortunately, 802.11 only supported a maximum[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) of 2 Mbps—too slow for most applications. For this reason, ordinary 802.11 wireless products are no longer manufactured. However, an entire family has sprung up from this initial standard.
@@ -34,6 +37,10 @@ Lifewire
 
  While final ratification of this standard isn't expected until the end of 2024, Wi-Fi 7 devices are already available.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 802.11ax (Wi-Fi 6)
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
@@ -54,6 +61,9 @@ Lifewire
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 802.11ac (Wi-Fi 5)
 
  The generation of Wi-Fi that first signaled popular use,[802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , uses[dual-band wireless](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) technology, supporting simultaneous connections on both 2.4 GHz and 5 GHz Wi-Fi devices. 802.11ac offers backward compatibility to 802.11a/b/g/n and bandwidth rated up to 1300 Mbps on the 5 GHz band plus up to 450 Mbps on 2.4 GHz. Most home wireless routers are compliant with this standard.
@@ -62,6 +72,9 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
@@ -76,6 +89,10 @@ Lifewire
 
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 802.11a (Wi-Fi 2)
 
  While 802.11b was in development, IEEE created a second extension to the original 802.11 standard called_802.11a_ . Because 802.11b gained popularity much faster than 802.11a, some folks believe that 802.11a was created after 802.11b. In fact, 802.11a was created at the same time. Due to its higher cost, 802.11a is usually found on business networks, whereas 802.11b better serves the home market.
@@ -86,6 +103,9 @@ Lifewire
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.

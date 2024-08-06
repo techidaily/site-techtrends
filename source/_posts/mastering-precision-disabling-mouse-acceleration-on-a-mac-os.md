@@ -1,7 +1,7 @@
 ---
 title: "Mastering Precision: Disabling Mouse Acceleration on a Mac OS"
-date: 2024-08-03 15:42:16
-updated: 2024-08-05 10:31:23
+date: 2024-08-05T02:03:01.924Z
+updated: 2024-08-06T02:03:01.924Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Precision: Disabling Mouse Acceleration on a Mac OS"
@@ -26,6 +26,9 @@ Close
  As of macOS Sonoma (14.0), Apple has added additional settings, including mouse acceleration. To turn mouse acceleration off entirely on Mac, you'll need to locate the Pointer acceleration setting.
 
 1. Select the Apple icon on the menu bar.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)
@@ -34,8 +37,14 @@ Close
 4. Select**Advanced** .  
 ![Mac Mouse settings with the Advanced button highlighted.](https://www.lifewire.com/thmb/aZuMxe9WaT-jr67FrjH4JsVCgK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macmouseadvancedcopy-019af83909d84639893a747caaa1ea2a.jpg)
 5. Toggle**Pointer acceleration** and select**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac Pointer acceleration toggle highlighted.](https://www.lifewire.com/thmb/tWPpzXhQJG6vRArC33uSrCYe5DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mousepointeraccelerationcopy-70baf408c7d64fc1bb54ea11c6352054.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Turn Mouse Acceleration Off on Older macOS 
 
  To turn mouse acceleration off entirely on Mac prior to Sonoma, you'll need to change a command within Mac's Terminal. Here's what to type:  
@@ -49,6 +58,9 @@ Close
 3. Press**Enter** .
 4. Mouse acceleration has now been switched off until the next time you restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Reduce Mouse Acceleration on a Mac 
 
  If you don't feel comfortable using Terminal, or you would prefer to adjust and reduce mouse acceleration, there's a different method. This way uses System Preferences, which is more user-friendly.
@@ -56,11 +68,20 @@ Close
 1. Select the Apple icon on the menu bar.  
 ![Mac Desktop with the Apple icon highlighted.](https://www.lifewire.com/thmb/E4tPDXQgM-t3BVe-1vqkzuOx1V0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-off-mouse-acceleration-on-mac-65030473-7ea31658e2f349e2b79c78c81e46b05f.jpg)
 2. Select**System Settings.**  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac Desktop with System Settings highlighted.](https://www.lifewire.com/thmb/4upgb2uoG_udrV7nkf8yxSdMftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSystemSettingscopy-e6d9512a7b5546b3bee7dc28eb422de1.jpg)
 3. Select**Mouse** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac System Settings with Mouse highlighted.](https://www.lifewire.com/thmb/LLKtiC5lcSV-tRI1LLT6KKw-xQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacMouseoption-b7641b2454394154a6c8e58c7334728e.jpg)  
  If you don't see your mouse, you may need to re-pair it with your Mac or plug it back in.
 4. Adjust the tracking speed to something that feels more comfortable for your needs.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac Mouse options with Tracking Speed highlighted.](https://www.lifewire.com/thmb/QLyrbbIdv2vcihkbQFo6HGO9Jfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Macmousetrackingspeedcopy-4c1c86eaa9b1456885d8071ad32de3ed.jpg)
 5. Adjust the scrolling speed for similar effect when scrolling.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers"
-date: 2024-08-02 22:42:47
-updated: 2024-08-05 10:52:28
+date: 2024-08-05T02:03:02.963Z
+updated: 2024-08-06T02:03:02.963Z
 categories:
   - BestProducts
 description: "This Article Describes Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers"
@@ -86,6 +86,9 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -140,6 +143,9 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -167,6 +173,9 @@ PHOTO: Walmart
 
  Mounting is simple, and the rack has optional casters for easy transportation, or it's ready for wall-mounting right out of the box.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best On Wheels
 
 [Navepoint 22U](https://www.amazon.com/NavePoint-4-Post-Network-Rolling-Casters/dp/B01A6JQO4A/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB01A6JQO4A)
@@ -196,6 +205,9 @@ PHOTO: Amazon
 
  Unfortunately, NavePoint has no cable management accessories, but those are available online.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Extra Large
 
 [Navepoint 45U](https://www.amazon.com/dp/B07F4653D4?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7C)
@@ -249,6 +261,11 @@ PHOTO: Amazon
 
  Fortunately, all the cables that result from 4.5 feet of floor-standing server space are managed well with attachable cable mounts that can easily organize and keep your[network cables](https://www.lifewire.com/introduction-to-network-cables-817868) out of the way while servers are in use. You can use it with castors or bolted to the floor.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## What to Look For in Network Server Racks and Enclosures
 
  If you have even a couple of network servers in your office, a good rack can be indispensable in helping keep things organized, and it's important to remember that these aren't just for servers either; network switches and hubs, telecom equipment, and even uninterruptible power supplies can all be neatly organized into a rack or enclosure to keep them under control.
@@ -263,6 +280,9 @@ PHOTO: Amazon
 
  Hero Images / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Why Buy a Network Server Rack?**
 
  You may think that network server racks are the kind of equipment that only large enterprise organizations need. After all, they bring to mind images of sprawling data centers, with endless rows of servers and other networking gear lined up like a robot army, and there's certainly no doubt that organizations with that kind of equipment need a way to keep it all properly and efficiently organized and managed.
@@ -295,6 +315,9 @@ PHOTO: Amazon
 
  Alextov via Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### **Installation Location**
 
  Where you plan to install your rack will also impact what kind of rack you choose and may even limit your choices. You'll not likely be picking up a full-sized 42U rack if you only have a cubbyhole available, and you may not want an open rack if you're installing it in an area that's more highly trafficked, like a photocopier room or supply room.
@@ -309,6 +332,9 @@ PHOTO: Amazon
 
  It's also possible to buy rack-mountable fans that generally fit into a 1U space to provide additional cooling support, but you'll still need to leave room around these for airflow.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### **Physical Security**
 
  While large businesses can deal with physical security at the server room door, most smaller organizations don't have that luxury, and chances are that you'll be installing your servers and other network equipment in a location that other people will have access to.
@@ -333,6 +359,9 @@ PHOTO: Amazon
 
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### **Mounting Parts**
 
  Not all racks are created equally regarding what comes in the box, so you'll want to read the fine print. Some of the more inexpensive racks give you threaded holes and expect you to come up with the mounting screws yourself.
@@ -359,6 +388,9 @@ PHOTO: Amazon
 
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.

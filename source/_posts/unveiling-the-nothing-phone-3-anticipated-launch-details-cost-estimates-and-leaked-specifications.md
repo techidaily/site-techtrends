@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the 'Nothing Phone 3': Anticipated Launch Details, Cost Estimates & Leaked Specifications"
-date: 2024-08-03 23:38:10
-updated: 2024-08-05 10:30:16
+date: 2024-08-05T02:03:16.056Z
+updated: 2024-08-06T02:03:16.056Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the 'Nothing Phone 3': Anticipated Launch Details, Cost Estimates & Leaked Specifications"
@@ -49,6 +49,9 @@ Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
@@ -57,6 +60,9 @@ Lifewire / Rob LeFebvre
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### A Newer Chip (but Just How New)?
 
  It’s still early stages, but a lot of buzz surrounds the processor Nothing will land on for its third-generation flagship phone.
@@ -65,18 +71,30 @@ Lifewire / Rob LeFebvre
 
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Better Battery
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Improved Camera
 
  The dual-camera design of the Phone 1 and Phone 2 will likely carry over.[Phone Arena reports that the Phone 3 might get Sony's latest LYTIA sensor lineup](https://www.phonearena.com/nothing-phone-3-release-date-price-upgtades) , which could mean even more control and a richer photo-taking experience in various lighting conditions and environments.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Signature Glyph, Improved
 
  While the overall look is likely going to remain untouched, If we had to put our money on one sure thing for the Phone 3, we’d say the signature Nothing Phone Glyph interface will see improvements akin to what we’ve seen from the Phone 1 to Phone 2\. The Phone 2 added six more LED panels, customizable notifications, and a composer for arranging ringtones.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
 Nothing OS 2.0.
@@ -89,6 +107,9 @@ Nothing
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Integrated AI
 
  Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .

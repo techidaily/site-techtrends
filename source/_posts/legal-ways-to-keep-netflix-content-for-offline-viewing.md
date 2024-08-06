@@ -1,7 +1,7 @@
 ---
 title: Legal Ways to Keep Netflix Content for Offline Viewing
-date: 2024-08-02 10:56:55
-updated: 2024-08-05 11:35:33
+date: 2024-08-05T02:02:53.166Z
+updated: 2024-08-06T02:02:53.166Z
 categories:
   - BestProducts
 description: This Article Describes Legal Ways to Keep Netflix Content for Offline Viewing
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/8yh01orzw685GMPatK66uAeVAfI=/400x300/fi
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix an iPhone That Won't Ring
 
  Try these common fixes in the order that we present them:
@@ -31,9 +34,15 @@ thumbnail: https://www.lifewire.com/thmb/8yh01orzw685GMPatK66uAeVAfI=/400x300/fi
    1. Tap**Settings** \>**Phone** \>**Blocked Contacts** .  
    2. Tap**Edit** .  
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
@@ -41,16 +50,26 @@ thumbnail: https://www.lifewire.com/thmb/8yh01orzw685GMPatK66uAeVAfI=/400x300/fi
    1. Tap**Contacts** .  
    2. Tap the name of the person whose calls you're missing, and then tap**Edit** .  
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
 
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:

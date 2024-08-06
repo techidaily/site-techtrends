@@ -1,7 +1,7 @@
 ---
 title: The Leading Small Form Factor Desktops for Gamers
-date: 2024-08-03 21:29:45
-updated: 2024-08-06 10:41:43
+date: 2024-08-05T02:03:14.409Z
+updated: 2024-08-06T02:03:14.409Z
 categories:
   - BestProducts
 description: This Article Describes The Leading Small Form Factor Desktops for Gamers
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 ---
 
 ## Perfect Order for Enjoying All the Superman Feature Films
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * In release order:_Superman: The Movie_ \>_Superman II_ \>_Superman III_ \>_Superman IV_ \>_Superman Returns_ \>_Man of Steel_ \>_Batman v. Superman_ \>_Justice League._
@@ -18,16 +21,25 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
 
  The whole gang is there: ambitious Lois Lane who inexplicably can’t spell, Clark Kent’s gee-whiz disguise marked by oversized glasses and his hair parted on the opposite side, Jimmy Olsen’s trusty camera and enthusiasm, and the no-nonsense_Daily Planet_ editor Perry White.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Christopher Reeve as Superman in Superman: The Movie](https://www.lifewire.com/thmb/ZHL-RJQzh5JTDa7wGAkoe9HBn2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-watch-the-superman-movies-in-order-5089046-f2fb55ac5c7c456787e9e5f545bc3a8f.jpg)
 
  Keystone / Getty Images
@@ -91,6 +103,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Compare Origin Stories
 
  Origin stories are a quintessential part of superhero anything. Watch the original_Superman: The Movie_ and_Man of Steel_ to see where the two meet and diverge. There’s a considerable time gap between the two, 1978 versus 2013, but all things considered, the special effects from 1978 still hold up in their own (often comical) way.
@@ -103,6 +118,9 @@ thumbnail: https://www.lifewire.com/thmb/_3Lcb6g9p_BNUl0BY1aqOs55bQ0=/300x200/fi
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .

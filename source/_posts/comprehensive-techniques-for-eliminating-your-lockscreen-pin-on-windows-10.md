@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Techniques for Eliminating Your Lockscreen Pin on Windows 10
-date: 2024-08-03 12:26:38
-updated: 2024-08-06 11:46:49
+date: 2024-08-05T02:03:01.205Z
+updated: 2024-08-06T02:03:01.205Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Techniques for Eliminating Your Lockscreen Pin on Windows 10
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 ---
 
 ## Windows 11 Screen Shot Techniques - Learn the Four Key Strategies
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -36,10 +39,16 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 
  The fullscreen screenshot will be saved to your**Pictures** \>**Screenshots** folder. One way to navigate to that folder is to quickly search for**folders: screenshots** .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -53,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 * **Full screen** : Press to capture the whole screen. It's identical to using**PrtScr** .
 * **Freeform** : You draw a shape that contains what you'd like to capture. This is useful if the rectangular snip is too restrictive to capture what you need.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -61,8 +73,14 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.

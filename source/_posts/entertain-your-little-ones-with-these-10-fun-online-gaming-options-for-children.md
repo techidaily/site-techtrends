@@ -1,7 +1,7 @@
 ---
 title: Entertain Your Little Ones with These 10 Fun Online Gaming Options for Children
-date: 2024-08-05 13:22:15
-updated: 2024-08-06 10:25:53
+date: 2024-08-05T02:03:21.861Z
+updated: 2024-08-06T02:03:21.861Z
 categories:
   - BestProducts
 description: This Article Describes Entertain Your Little Ones with These 10 Fun Online Gaming Options for Children
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/7BqRA_o6U4UHMaJAw4hLs7zq-N8=/540x405/fi
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## NETGEAR Default Passwords (Valid July 2024)
 
  Below is a list of default usernames, passwords, and IP addresses for different NETGEAR models that I've obtained directly from official sources: user manuals and support pages. If you don't see your NETGEAR device listed here, the listed default data doesn't work, you need help changing the password once you're in or have other questions, more help is below the table.
@@ -259,6 +262,9 @@ thumbnail: https://www.lifewire.com/thmb/7BqRA_o6U4UHMaJAw4hLs7zq-N8=/540x405/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -269,6 +275,9 @@ thumbnail: https://www.lifewire.com/thmb/7BqRA_o6U4UHMaJAw4hLs7zq-N8=/540x405/fi
 
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -279,6 +288,10 @@ thumbnail: https://www.lifewire.com/thmb/7BqRA_o6U4UHMaJAw4hLs7zq-N8=/540x405/fi
 
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.

@@ -1,7 +1,7 @@
 ---
 title: "How to Easily Screen Capture in Windows 11: A 4-Step Guide"
-date: 2024-08-03 11:23:38
-updated: 2024-08-06 12:12:48
+date: 2024-08-05T02:03:24.544Z
+updated: 2024-08-06T02:03:24.544Z
 categories:
   - BestProducts
 description: "This Article Describes How to Easily Screen Capture in Windows 11: A 4-Step Guide"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
 
  Any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) could experience a Code 39 Device Manager error including[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) ,[Windows 7](https://www.lifewire.com/windows-7-2626265) ,[Windows Vista](https://www.lifewire.com/windows-vista-2626311) ,[Windows XP](https://www.lifewire.com/windows-xp-2626354) , and more.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a Code 39 Error
 
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
@@ -35,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
  If you're convinced there is still an operating system component to this Code 39 error, you could try a[repair install of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) and if that doesn't work, a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either_before_ you try replacing the hardware, but they may be necessary if you've exhausted all of your other options.
 7. Your error should now be fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a whole lot more.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cause of Code 39 Error Message
 
  The Code 39 error is one of several[Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . In most cases, it's caused by either a missing[driver](https://www.lifewire.com/what-is-a-device-driver-2625796) for that particular piece of[hardware](https://www.lifewire.com/computer-hardware-2625895) or by a[Windows Registry](https://www.lifewire.com/windows-registry-2625992) issue.
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
 
  Details on Device Manager error codes like this one are available in the_Device Status_ area in the device's properties. See[How to View a Device's Status in Device Manager](https://www.lifewire.com/how-do-i-view-a-devices-status-in-device-manager-in-windows-2619211) if you're not sure how to do that.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of the Code 39 Device Manager error code that reads Windows cannot load the device driver for this hardware. The driver may be corrupted or missing](https://www.lifewire.com/thmb/JQ0REJgQXosmbOzFwTzkgyKr59s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/device-manager-code-39-error-cannot-load-the-device-driver-59a045040d327a001007b10c.png)
 
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) only. If you see the Code 39 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) , which you should not troubleshoot as a Device Manager issue.

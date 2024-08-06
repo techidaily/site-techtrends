@@ -1,7 +1,7 @@
 ---
 title: How to Pair a Fire Stick Remote
-date: 2024-08-02 16:29:28
-updated: 2024-08-05 12:21:51
+date: 2024-08-05T02:03:16.241Z
+updated: 2024-08-06T02:03:16.241Z
 categories:
   - BestProducts
 description: This Article Describes How to Pair a Fire Stick Remote
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
 
  This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Can Android Stream to Fire TV Sticks?
 
  Android smartphones and tablets can stream or cast to Amazon’s Fire TV Stick devices. Before Fire Sticks can receive a wireless broadcast from your Android device, you need to set them up properly.
@@ -25,13 +28,22 @@ thumbnail: https://www.lifewire.com/thmb/bBnc1OCDT50I6uVWBEWLEmBlWIk=/400x300/fi
  Here’s how to prepare a Fire TV Stick for Android casting.
 
 1. Turn your Amazon Fire TV Stick on as usual and then press the**Home** button on the remote until a menu appears.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
 2. Highlight**Mirroring** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
 3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
 Enter is the large circle button on the remote.  
 ![Fire Stick menu with Mirroring tile highlighted from the shortcut menu.](https://www.lifewire.com/thmb/HHKPByl6ZToAKKsraJQX_cC2-Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_cast-to-firestick-from-android-5203940-699056d65c4445a68aba96493d4c6f19.jpg)
 4. The screen should now change and your Fire Stick is now primed and ready to receive a wireless casting signal.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
 
 ## How to Cast to Amazon Fire TV Stick From Android  
@@ -41,10 +53,18 @@ Enter is the large circle button on the remote.
 6. Open**Settings** and select**Connected devices** .  
 ![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
 7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
 8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
  If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
 9. Select the name of your Fire TV Stick.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
 10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
 ![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)

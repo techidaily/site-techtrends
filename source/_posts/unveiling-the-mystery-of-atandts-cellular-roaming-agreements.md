@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Mystery of AT&T's Cellular Roaming Agreements
-date: 2024-08-03 12:35:56
-updated: 2024-08-06 11:59:50
+date: 2024-08-05T02:02:57.866Z
+updated: 2024-08-06T02:02:57.866Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Mystery of AT&T's Cellular Roaming Agreements
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 ---
 
 ## Discover the History and Impact of Netflix's Former DVD Rental Program
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Note
 
  Netflix ended its DVD rental service on September 29, 2023\. See[Netflix's FAQ](https://dvd.netflix.com/Faq) for more information. This article remains for archival purposes.
@@ -34,15 +37,24 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 
  These directions are for using a desktop web browser, but you can also sign up with the DVD Netflix mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Existing Users
 
 1. Visit DVD Netflix and sign in with your Netflix information.
 2. Choose**Add DVD Plan** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Netflix Add DVD Plan button](https://www.lifewire.com/thmb/Uh6KVZq2Icc6DLgr76WSO5J6VpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-add-dvd-plan-239476fd7dbc48c398d157361b9b4dba.png)
 3. Select the plan you want to subscribe to, and then choose**Get Started** .  
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### New Users
 
  If you don’t currently have a Netflix account, follow these steps instead:
@@ -51,6 +63,9 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 2. Select**Sign Up** .  
 ![DVD Netflix sign up button](https://www.lifewire.com/thmb/NCQ1shSEvKeXqCYIEdWZYEWasfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-2b9f1a1370d042f7bbc87dde135db231.png)
 3. Choose the plan you want, and then select**Get Started** .  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
 4. Enter your email address, choose a password, and then select**Continue** .
 5. Enter your shipping information, and then press**Continue** .
@@ -67,6 +82,9 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 ### From a Computer
 
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Netflix Add to Queue button](https://www.lifewire.com/thmb/3_4_AW0IsPIrCM861X44RVIPLxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-to-queue-d48f9e0f986242f98683ce1ee0581732.png)  
  To add a whole season of a TV show, pick the season you want to rent and choose**Add All to Queue** .  
 ![DVD Netflix Add All to Queue button](https://www.lifewire.com/thmb/4jU-S_bFoGdZ4nf5ZGnyf6fxTY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-all-to-queue-bdfdf210723748faaac13e57e6679b7e.png)  
@@ -74,10 +92,16 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
 ![DVD Netflix Queue](https://www.lifewire.com/thmb/x6QarMAaIe0NyqowLEYhKYw2Z1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-queue-ab624110eea644f1b0b4d462894431ea.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### With the Mobile App
 
  Mobile users can manage the DVD Netflix queue as well. Tap the plus sign to add a movie to TV show to the queue, and use the disc icon at the top right to edit the order or remove DVDs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DVD Netflix Android app](https://www.lifewire.com/thmb/ii9vuANqrg_bkNWRzzL_j3kfJ0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-app-android-7a1276941cdd4127bdefa7be8a7bc832.png)
 
 ## How to Return Netflix DVDs
@@ -86,6 +110,9 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 
  Returning your rented DVDs to Netflix is easy. Just put the disc into the sleeve and envelope that came with it when you received it, and then put it in your mailbox or drop it off at a local post office.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Cancel DVD Netflix
 
  You can leave the DVD Netflix program at any time to stop getting DVDs from Netflix.
@@ -96,6 +123,9 @@ thumbnail: https://www.lifewire.com/thmb/9Oay80SZKOR2luRashN83cv5mZg=/400x300/fi
 
 1. Log in to Netflix at[netflix.com](https://www.netflix.com/) or with the Netflix or DVD Netflix mobile app.
 2. Hover your mouse over the profile image at the top right of the screen, and then choose**Account** . If you're using the app, go to**More** \>**Account** to open your account information in your browser.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Netflix menu](https://www.lifewire.com/thmb/sPdef-efDhFlukhsT5ZIKGE9cn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-menu-a50af54ed942494580a71dbfa10aa482.png)
 3. Select**Cancel DVD plan** from the**PLAN DETAILS** section.  
 ![Netflix account settings](https://www.lifewire.com/thmb/Q80vAniZ2Rz4sOJ9lBPx1R7Etj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-cancel-dvd-plan-1b525410df38448e9513aa48f77c3729.png)

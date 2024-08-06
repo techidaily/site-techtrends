@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Revolutionary AI: Unveiling the Owners of ChatGPT"
-date: 2024-08-03 12:33:32
-updated: 2024-08-05 11:19:43
+date: 2024-08-05T02:03:22.056Z
+updated: 2024-08-06T02:03:22.056Z
 categories:
   - BestProducts
 description: "This Article Describes Microsoft's Revolutionary AI: Unveiling the Owners of ChatGPT"
@@ -15,6 +15,9 @@ Close
 
  This article provides a look at OpenAI and ChatGPT, who made them, and who's in charge today.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Made ChatGPT? 
 
  OpenAI is one of the latest mega-companies to come out of the[ artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) boom, with its flagship products,[ ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) ,[ Dall-E](https://www.lifewire.com/openai-dall-e-3-ai-art-tools-7974653) , and lately,[ Sora](https://www.lifewire.com/openai-sora-ai-video-8585062) , making major splashes for their advanced natural-language processing and ability to converse and respond to humans in realistic ways.
@@ -29,10 +32,16 @@ Close
 
  Although there was some turmoil in the OpenAI board in the Fall of 2023, where CEO Sam Altman was temporarily ousted, he soon returned after an exodus of OpenAI staff. Altman and OpenAI's president, Greg Brockman, also work as part of an advanced AI research team at Microsoft despite OpenAI continuing to be their main focus.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Did ChatGPT Come Out? 
 
  Although OpenAI developed a number of GPT language models internally as part of its AI research efforts, it only released its first commercial ChatGPT service in December 2022\. This first version of the AI chatbot was based on its GPT-3.5 language model,
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT main page.](https://www.lifewire.com/thmb/NHebqSA2n4TcEKIMK_5Uig6pAKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chatgpt0111-4c3933ae2610433489dcbf124c7f8872.jpg) 
 
  The ChatGPT window as it is seen in 2024, with the GPT-4o language model. 
@@ -43,6 +52,9 @@ Close
 
  OpenAI launched the latest version of ChatGPT in May 2024\. GPT-4o introduced multi-modality to the AI in a much broader array of capabilities than ever before. This version is faster than its predecessor and offers more functionality to both free and paid users.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Who Invented ChatGPT? 
 
  ChatGPT was created by OpenAI, although the concept of AI chatbots has existed for far longer.
@@ -51,6 +63,9 @@ Close
 
  Symbolic efforts were made to develop NLP models over the ensuing decades, but it wasn't until the integration with big data and machine learning, along with the advanced computing power of the 2010s, that its development really accelerated. This led to the first viable NLM commercial product in ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  What Else Does OpenAI Make? 
 
  OpenAI is also behind the development and release of all new versions of ChatGPT, including the more advanced GPT-4 language model that has been available as part of ChatGPT Plus since March 2023 and the latest GPT-4o language model, launched in May 2024.

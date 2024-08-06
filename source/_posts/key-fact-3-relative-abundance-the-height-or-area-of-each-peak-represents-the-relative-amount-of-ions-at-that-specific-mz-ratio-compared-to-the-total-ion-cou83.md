@@ -1,7 +1,7 @@
 ---
 title: "Key Fact #3: Relative Abundance - The Height or Area of Each Peak Represents the Relative Amount of Ions at that Specific M/Z Ratio Compared to the Total Ion Count, Expressed as a Percentage."
-date: 2024-08-04 12:22:26
-updated: 2024-08-06 12:49:29
+date: 2024-08-05T02:03:04.431Z
+updated: 2024-08-06T02:03:04.431Z
 categories:
   - BestProducts
 description: "This Article Describes Key Fact #3: Relative Abundance - The Height or Area of Each Peak Represents the Relative Amount of Ions at that Specific M/Z Ratio Compared to the Total Ion Count, Expressed as a Percentage."
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## NETGEAR Default Passwords (Valid July 2024)
 
  Below is a list of default usernames, passwords, and IP addresses for different NETGEAR models that I've obtained directly from official sources: user manuals and support pages. If you don't see your NETGEAR device listed here, the listed default data doesn't work, you need help changing the password once you're in or have other questions, more help is below the table.
@@ -259,6 +262,9 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -269,6 +275,9 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -279,6 +288,9 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.

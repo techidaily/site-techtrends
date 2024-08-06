@@ -1,7 +1,7 @@
 ---
 title: "July 2 Großer Kinderfilm-Highlights Auf Disney+: Unser Top 5"
-date: 2024-08-03 12:35:24
-updated: 2024-08-06 12:59:12
+date: 2024-08-05T02:02:59.815Z
+updated: 2024-08-06T02:02:59.815Z
 categories:
   - BestProducts
 description: "This Article Describes July 2 Großer Kinderfilm-Highlights Auf Disney+: Unser Top 5"
@@ -23,8 +23,18 @@ Close
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## [ The Little Mermaid (2023): Best Adventure of Self-Discovery](https://www.imdb.com/title/tt5971474/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Halle Bailey portraying the Little Mermaid talking to Sebastian, the talking crab.](https://www.lifewire.com/thmb/4iyvhoVhQqd7EXLxfpEwub-sQVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LittleMermaid2023-ab184200dea44c86a122c2db1e34379d.jpg) 
 
 **IMDB Rating** : 7.2/10
@@ -103,6 +113,9 @@ _Frozen_ was a mega-hit for Disney due to its ground-breaking digital animation,
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Elemental](https://www.imdb.com/title/tt15789038/) 
 
 ![A promotional still from the Disney/Pixar movie Elemetenal focusing on the main characters of Wade and Ember.](https://www.lifewire.com/thmb/pW010CJYbwG0SLFLkYSm3aEE8Ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Elemental-19fb8cd2976f4df1b1d5a5eefd97bec2.jpg) 
@@ -189,6 +202,9 @@ of 21
 
 ## [ Lego Star Wars Summer Vacation (2022): The Empire Strikes Back at the Beach](https://www.imdb.com/title/tt20784210/) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Darth Vader and Emperor Palpatine in Lego Star Wars Summer Vacation](https://www.lifewire.com/thmb/SYHTmZTuGTHR6y48BQ_nWbAZqEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-august-2022-5112564-dc7412d172104738a4671ed2d35cdfcf.jpg) 
 
 Disney Plus
@@ -215,8 +231,14 @@ Disney Plus
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Cruella (2021): A Classic Disney Villain Gets an Origin Story](https://www.imdb.com/title/tt3228774/) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Emma Stone in 'Cruella'](https://www.lifewire.com/thmb/Q-d9I4AaElW1xpIaO3oTgLxcshc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cruella-efd843b9614b4863bf55722e8eb1a061.jpg) 
 
 Disney
@@ -243,8 +265,19 @@ Disney
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Lightyear (2022): To Infinity and Beyond, Again](https://www.imdb.com/title/tt10298810/) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Buzz Lightyear in Lightyear](https://www.lifewire.com/thmb/AoQ0Rxp27RNHqjW-u42bL6VEugI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-kids-movies-on-disney-plus-september-2022-5112564-7dad5e03ba724fed8957c404028dbc31.jpg) 
 
 Disney Plus
@@ -273,6 +306,9 @@ of 21
 
 ## [ The Slumber Party (2023): A Kid-Friendly Movie About Partying the Night Away](https://www.imdb.com/title/tt22375620/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![The cast of The Slumber Party](https://www.lifewire.com/thmb/axvmlw2dsaWTzwmpr0xJIgymeEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-august-2023-5112564-a5efaf7c1bf14dad9b56834d21745859.jpeg) 
 
 Disney
@@ -329,6 +365,9 @@ of 21
 
 ## [ Raya and the Last Dragon (2021): A Sassy Girl and Her Sassier Dragon BFF](https://www.imdb.com/title/tt5109280/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Kelly Marie Tran and Awkwafina in 'Raya and the Last Dragon'](https://www.lifewire.com/thmb/lF1qr78UWJL8dVZmxt7bVNocLh8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RayaandtheLastDragon-f9778427bf534b13b8606145fa6e0a56.jpg) 
 
 Disney
@@ -353,8 +392,14 @@ _Raya and the Last Dragon_ is a fantasy story about a mythical world called Kuma
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## [ Pinocchio (2022): What You Get When You Wish Upon a Star](https://www.imdb.com/title/tt4593060/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Tom Hanks in Pinocchio 2022](https://www.lifewire.com/thmb/rdGQ4RNlt-5-gZvcQa1CaVFrgXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-october-2022-5112564-7d8a88ee63d047fe8653de3534c14a51.jpg) 
 
 Disney
@@ -381,6 +426,9 @@ Disney
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## [ Luca (2021): Best Film About Sea Monsters on an Adventure](https://www.imdb.com/title/tt12801262/) 
 
 ![Jacob Tremblay in Luca](https://www.lifewire.com/thmb/m2tC0L3U5Pe6Hc6rsAwM2Gd8VA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-march-2023-5112564-0d895c398b8b4122b558cfc992220cd8.jpg) 
@@ -407,6 +455,9 @@ _Luca_ is a whimsical tale about a pair of sea monsters in human form having an 
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Chip ‘n Dale: Rescue Rangers (2022): Most Creative Chipmunk Comeback Story](https://www.imdb.com/title/tt3513500/) 
 
 ![Chip ân Dale: Rescue Rangers (2022)](https://www.lifewire.com/thmb/bvLFs0zdE6jiaOOaDMRxEQgbdBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2022-5112564-469d7a989d2545a692ff660d0af29cbe.jpg) 
@@ -493,6 +544,9 @@ of 21
 
 ## [ Schoolhouse Rock! 50th Anniversary Singalong (2023): Learn to Love Learning](https://www.imdb.com/title/tt26231144/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Schoolhouse Rock! 50th Anniversary Singalong](https://www.lifewire.com/thmb/VWm-jED5ZD2ZxiS0Dqkk_SeIEhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-march-2023-5112564-852de247c4d04cb7b777ed64f8fcfed0.jpg) 
 
 Disney Plus
@@ -517,8 +571,14 @@ _Schoolhouse Rock! 50th Anniversary Singalong_ introduces a new generation to ch
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Jungle Cruise (2021): Disney's Latest Theme Park Ride Turned Feature Film](https://www.imdb.com/title/tt0870154/) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dwayne Johnson and Emily Blunt in 'Jungle Cruise' ](https://www.lifewire.com/thmb/dAZCib-dtDHPeYw46ftxCP3k8vg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/JungleCruise-a1e4666f91f841c7b2821611519c1f63.jpg) 
 
 Disney
@@ -545,8 +605,14 @@ Disney
 
 of 21
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Peter Pan & Wendy (2023): A Reimaging of a Retelling of a Childhood Classic](https://www.imdb.com/title/tt5635026/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Peter Pan & Wendy on Disney Plus](https://www.lifewire.com/thmb/YYV-6ATvAnoIUasjkePdf7cv7ZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-may-2023-5112564-d533392bbb1249969a9d0228486c1065.jpg) 
 
 Amazon Prime Video

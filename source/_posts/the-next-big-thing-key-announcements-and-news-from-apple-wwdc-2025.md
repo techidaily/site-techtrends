@@ -1,7 +1,7 @@
 ---
 title: "The Next Big Thing: Key Announcements and News From Apple WWDC 2025"
-date: 2024-08-03 22:32:24
-updated: 2024-08-06 10:35:11
+date: 2024-08-05T02:02:56.584Z
+updated: 2024-08-06T02:02:56.584Z
 categories:
   - BestProducts
 description: "This Article Describes The Next Big Thing: Key Announcements and News From Apple WWDC 2025"
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 * macOS
 * tvOS
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## When Is WWDC 2025?
 
  WWDC 2024 was June 10 to June 14\. Most of the conference is hosted online, but Apple will also hold a limited-attendance special event at Apple Park.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Register and Attend WWDC
 
  The Worldwide Developer Conference (WWDC) is always free to attend online, with a free stream of the event directly from Apple's website.
@@ -83,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9ca
 
 Apple, Inc
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### iOS 18
 
  The big updates to[iOS 18](https://www.lifewire.com/ios-18-8552216) include the ability to personalize your Home screen, including app layout, icon size, and color, along with a hugely updated Control Center.
@@ -95,6 +104,9 @@ Apple, Inc
 
  The iPad is getting the same updates to Photos, Messages, and more as iOS.[iPadOS 18](https://www.lifewire.com/ipados-18-8558715) also has its own upgrades, like a Notes app that will clean up your handwriting. The refined Calculator app will also show a history of your calculations and solves equations as you type or write them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### macOS 15 (Sequoia)
 
  Macs will also get some new abilities with[macOS 15, named Sequoia](https://www.lifewire.com/macos-15-8557761) . The big news here is iPhone integration. You can get app notifications directly on your Mac and even run your phone directly from the bigger screen.
@@ -107,6 +119,9 @@ Apple, Inc
 
  Another big feature in tvOS 18 is InSight. If you're watching a show or movie on Apple TV+ and wonder who an actor is or need help identifying a song that's playing, a swipe will provide you that information. From there, you can add songs you like to an Apple Music playlist or see what else actors were in.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### visionOS 2
 
  The second version of[the software that runs the Vision Pro headset](https://www.lifewire.com/visionos-2-8604723) focuses on spatial photos. It'll make your 2D images look 3D and place them dynamically in your background.
@@ -123,6 +138,9 @@ Apple, Inc
 
  Finally, the Training Load option is for athletes preparing for events. It keeps an eye on your workouts and identifies trends to make sure you're making progress and not overdoing it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Apple
 
  While you can always [read the latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest involving Apple in particular.

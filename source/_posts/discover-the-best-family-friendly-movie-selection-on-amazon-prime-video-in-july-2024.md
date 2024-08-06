@@ -1,15 +1,18 @@
 ---
 title: Discover the Best Family-Friendly Movie Selection on Amazon Prime Video in July 2024
-date: 2024-08-04 19:52:44
-updated: 2024-08-05 11:28:56
+date: 2024-08-05T02:03:21.416Z
+updated: 2024-08-06T02:03:21.416Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Best Family-Friendly Movie Selection on Amazon Prime Video in July 2024
 excerpt: This Article Describes Discover the Best Family-Friendly Movie Selection on Amazon Prime Video in July 2024
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/fi
 2. Click**Off** . Subtitles are now turned off.  
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -37,14 +43,26 @@ thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/fi
  Here’s how to turn off subtitles on the Amazon Prime app:
 
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 ## How Do I Permanently Turn Off Subtitles?

@@ -1,7 +1,7 @@
 ---
 title: "Immerse Yourself in Middle-Earth: Watching ‘Lord of the Rings’ In Correct Progression"
-date: 2024-08-04 13:24:28
-updated: 2024-08-05 12:14:56
+date: 2024-08-05T02:02:57.337Z
+updated: 2024-08-06T02:02:57.337Z
 categories:
   - BestProducts
 description: "This Article Describes Immerse Yourself in Middle-Earth: Watching ‘Lord of the Rings’ In Correct Progression"
@@ -59,6 +59,9 @@ Whether you’re setting up an entire data center or need to tidy up the corner 
 
 [Jump to Review](https://www.lifewire.com/#toc-best-floor-standing-navepoint-25u-2-post-open-frame-server-rack)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Full-Size
 
 [Navepoint 42U](https://www.amazon.com/dp/B071WQSDYX/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB071WQSDYX)
@@ -113,6 +116,9 @@ PHOTO: Amazon
 
  There are also venting slots and dual built-in fans for maintaining equipment cooling on the removable side panels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Best for Adjustability
 
 [Startech 4POSTRACK25U](https://www.amazon.com/dp/B00O6GNLQE/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00O6GNLQE)
@@ -140,6 +146,9 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -263,6 +272,9 @@ PHOTO: Amazon
 
  Hero Images / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Why Buy a Network Server Rack?**
 
  You may think that network server racks are the kind of equipment that only large enterprise organizations need. After all, they bring to mind images of sprawling data centers, with endless rows of servers and other networking gear lined up like a robot army, and there's certainly no doubt that organizations with that kind of equipment need a way to keep it all properly and efficiently organized and managed.
@@ -295,6 +307,9 @@ PHOTO: Amazon
 
  Alextov via Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### **Installation Location**
 
  Where you plan to install your rack will also impact what kind of rack you choose and may even limit your choices. You'll not likely be picking up a full-sized 42U rack if you only have a cubbyhole available, and you may not want an open rack if you're installing it in an area that's more highly trafficked, like a photocopier room or supply room.
@@ -317,6 +332,9 @@ PHOTO: Amazon
 
  Also, remember that physical security is often just as much about preventing mistakes by non-technical employees as it is about preventing attacks by malicious hackers. True story: We once visited a remote office where a well-meaning employee had turned off the server to save electricity because they never saw anybody using it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Rack Holes: Threaded or Unthreaded?**
 
  While you'd think a hole would be standardized, there are at least three types of screw holes you'll find in modern server racks: threaded round holes, unthreaded round holes, and unthreaded square holes.
@@ -333,6 +351,9 @@ PHOTO: Amazon
 
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### **Mounting Parts**
 
  Not all racks are created equally regarding what comes in the box, so you'll want to read the fine print. Some of the more inexpensive racks give you threaded holes and expect you to come up with the mounting screws yourself.
@@ -341,6 +362,9 @@ PHOTO: Amazon
 
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Top Brands**
 
 **Navepoint**
@@ -351,6 +375,9 @@ PHOTO: Amazon
 
  Startech is a well-known “jack-of-all-trades” Canadian company that’s been making a wealth of computer accessories since the mid-eighties, ranging from cables to docking stations, USB hubs, mounts, video adapters, and pretty much every other accessory you could imagine needing for your computer system. Naturally, this includes server management hardware, too. While they don’t offer quite the same wealth of higher-end racks and enclosures, they provide some great, affordable options for smaller businesses that aren’t looking to outfit a large, dedicated server room.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Accessories**
 
  In addition to the mounting gear that you’ll need to get your equipment into your rack, you’ll find that several other rack-mountable components can be used to make for a smoother installation, and depending on your setup, you’ll want to consider at least some of these, too.
@@ -359,6 +386,9 @@ PHOTO: Amazon
 
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.

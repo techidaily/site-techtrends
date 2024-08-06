@@ -1,7 +1,7 @@
 ---
 title: How To Activate Siri's Read Aloud Capability for iOS and macOS Systems
-date: 2024-08-02 20:10:58
-updated: 2024-08-05 12:51:47
+date: 2024-08-05T02:03:27.775Z
+updated: 2024-08-06T02:03:27.775Z
 categories:
   - BestProducts
 description: This Article Describes How To Activate Siri's Read Aloud Capability for iOS and macOS Systems
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 
  Text to speech on the iPhone and the Mac is an accessibility feature for the visually challenged. They also can be productivity boosters if you prefer listening over reading. This article explains how to make Siri read text on your iPhone and Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make Siri Read Text on iPhone
 
  Siri can read most text on the screen. The personal voice assistant works on almost all apps while your free hands can work on other things. To make the iPhone read text, go into the Accessibility settings and set up the feature first.
@@ -25,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 1. Go to**Settings** \>**Accessibilit** y >**Spoken Content** .
 2. Enable**Speak Selection** to display a**Speak** button on top of any selected text.
 3. Enable**Speak Screen** to hear the entire screen with a two-finger swipe from the top to the bottom of the screen.  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An iOS user accesses the Spoken Content settings](https://www.lifewire.com/thmb/Bjn_gbyvBF3yjtHF41HyJxb4Qso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOSSpokenContent-0e71ddcbef89402b8ec0cbc5f1a3329f.jpg)
 4. Select**Speech Controller** and enable the**Show Controller** toggle button. The Speak Controller gives you quick access to the Speak Screen and Speak on Touch features with the help of an overlay on the screen.  
 ![Spoken content settings in iOS](https://www.lifewire.com/thmb/ylf2BNsi37DP0v0NYOn9kvBA30E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOSSpokenContent2-09a5b83596ff4e6989b85938657427ad.jpg)
@@ -33,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 
  Enabling**Highlight Content** in the**Spoken Content** settings helps you follow the words as Siri read them. Change the highlight colors if you don’t like the default blue. It’s a handy feature for reviewing documents on the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How to Make Siri Read Text on macOS
 
  Spoken content works a bit differently on macOS. It's again an accessibility feature that uses text to speech to read what’s on the screen. On the macOS, it's activated by a keyboard shortcut instead of a direct Siri command.
@@ -40,10 +49,23 @@ thumbnail: https://www.lifewire.com/thmb/Pu8Qc_ne-xLo2nqTKEia1Gu6sBc=/400x300/fi
 1. Select**Apple menu** \>**System Preferences.**  
 ![A Mac desktop with System Preferences displayed on a menu](https://www.lifewire.com/thmb/JePVkwZGU-m6dF4Y0a30lGySjqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent-7d71e81fd5954ab2afde7e7e9a5a9784.jpg)
 2. Select**Accessibility** \>**Spoken Content** . Check the**Speak selection** box.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Mac accessibility settings with the Spoken Content option highlighted](https://www.lifewire.com/thmb/c0bq7RNNBDrxDv0vfw_qc6WWYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent2-9f3887c708684f8b9cfec0b0e387a86f.jpg)
 3. Select**Options** to change the keyboard shortcut if required.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![macOS Accessibility Options](https://www.lifewire.com/thmb/I7B33RXXHsUmsee6IPS_Ab4Rq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Accessibility-Options-978adbae8c8049ee8577a2f30724ffe4.jpg)
 4. Leave the other options to their defaults or change them to have words, sentences, or both highlighted as your Mac speaks. Underlined or highlighted sentences mark the spoken sentences to help your eyes track them. Select the pop-up menu for**Highlight content** and choose**Never** to disable highlighted text.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![The Highlight Content options in Mac with "Never" highlighted](https://www.lifewire.com/thmb/0jTMxiH3ijI6Sd2taHnCjACVvGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent3-bea1792702df4aacbd9dadfd0458b9e1.jpg)
 5. Select the**Show controller** pop-up menu to choose the behavior of the controller. By default, the controller will appear with the spoken content and allow you to set the speed. Use the buttons to play, pause, skip ahead or back, or stop the narration. The**turtle** icon on the left slows down the speaking rate while the**rabbit** boosts it.  
 ![Mac Show Controller menu options with 'Automatically' highlighted](https://www.lifewire.com/thmb/0Sz__njRMCAB-J-Y3iumEA-7bSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MacSpokenContent4-aefe0f45f6be477c9210d77742d541ce.jpg)

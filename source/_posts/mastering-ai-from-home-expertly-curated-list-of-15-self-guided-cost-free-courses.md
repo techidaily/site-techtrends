@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI From Home: Expertly Curated List of 15 Self-Guided, Cost-Free Courses"
-date: 2024-08-05 15:14:19
-updated: 2024-08-06 11:22:31
+date: 2024-08-05T02:03:03.509Z
+updated: 2024-08-06T02:03:03.509Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering AI From Home: Expertly Curated List of 15 Self-Guided, Cost-Free Courses"
@@ -50,6 +50,10 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## [ Career Essentials in Generative AI](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) 
 
 ![Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.lifewire.com/thmb/wcAh4NlQzXVTLzR1ccXNcRKLf_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Career-Essentials-LinkedIn-4d70a6826cee4ce89d30864ecb15d775.jpg) 
@@ -117,6 +121,9 @@ of 15
 
 ## [ AI Chatbots without Programming](https://www.edx.org/learn/chatbots/ibm-ai-chatbots-without-programming) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AI Chatbots without Programming course from IBM](https://www.lifewire.com/thmb/r0IhHWXg8ZSkSCO1vfv_CR8jYYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIChatbotswithoutProgramming-d7b03ca0c0e547da83e2cec9d662b759.jpg) 
 
  What We Like
@@ -138,6 +145,9 @@ of 15
 
 ## [ AI Ready Initiative](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses?tag=lifewire-onsite-prod-20&ascsubtag=8575868%7Cnf48ede0a4e0141ad80cc84b2294cc77115%7C) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Amazon's AI courses](https://www.lifewire.com/thmb/0FqNgfgmrnxaR1Phyf7V47hjeR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon-Courses-e5afbe12985c4fe5b8d739e9c02344e2.jpg) 
 
  What We Like
@@ -160,6 +170,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) 
 
 ![AI for Everyone](https://www.lifewire.com/thmb/uXdCF2h3mYWdy3XvWHHXBJ3-PL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Everyone-a40263502d1444d2804ccb21deb0d032.jpg) 
@@ -184,6 +197,23 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## [ ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) 
 
 ![ChatGPT Prompt Engineering for Developers](https://www.lifewire.com/thmb/KLUhWSO4cL9fMo35fVLsesJZDCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPT-Prompt-Engineering-00496292b31c4d80a2bb1fc350a7a296.jpg) 
@@ -205,8 +235,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt Engineering for ChatGPT course from Vanderbilt University](https://www.lifewire.com/thmb/z5QMbLQA_EwxdkvRe07hUO2bMqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Prompt-Engineering-Vanderbilt-a229458f0d2244738281b5b40fd6ad36.jpg) 
 
  What We Like
@@ -230,6 +266,10 @@ of 15
 
 ## [ Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning/2023-10) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Data Science Course on HarvardX](https://www.lifewire.com/thmb/JPjYF-w_m3VTVTOOfauQ8cufIvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HarvardX-Data-Science-b2acd196a04f441c9251b84cc82536fa.jpg) 
 
  What We Like
@@ -249,6 +289,9 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## [ Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) 
 
 ![Introduction to Artificial Intelligence with Python from Harvard](https://www.lifewire.com/thmb/WuzT3Q6Pq2kMEgvrauc2wNJ9QSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligencewithPython-8726503fd1224ddcae74c036178cd94e.jpg) 
@@ -271,6 +314,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## [ Transform Your Business With AI](https://videos.microsoft.com/transform-your-business-with-ai) 
 
 ![Transform Your Business With AI](https://www.lifewire.com/thmb/-_UDuyj5xT9qAkPTwftzbP1QB7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TransformYourBusinessWithAI-792f16f6420e406884dcad67cf744b40.jpg) 
@@ -293,6 +344,9 @@ of 15
 
 ## [ AI For Business Specialization](https://www.coursera.org/specializations/ai-for-business-wharton#courses) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AI For Business Specialization from Penn University](https://www.lifewire.com/thmb/8bIek6HAlnBX4qgN4C0PCqV_Yw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Business-5f0f14f5ce7344c197fa4b79313eff64.jpg) 
 
  What We Like
@@ -313,8 +367,14 @@ of 15
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![AI for Good from Deeplearning](https://www.lifewire.com/thmb/7jVB69zddjKCFVOuhIAbSTM5PeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AI-For-Good-bac696068bf843ab8ddc5e66d112103c.jpg) 
 
  What We Like
@@ -336,6 +396,9 @@ of 15
 
 ## [ Responsible AI: Applying AI Principles with Google Cloud](https://www.cloudskillsboost.google/course%5Ftemplates/388) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Responsible AI](https://www.lifewire.com/thmb/a9vc7kQgryt3ejJXOopCw09mSbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ResponsibleAI-c73e9beb6d2c44b0b0e1906ad4d8f43f.jpg) 
 
  What We Like

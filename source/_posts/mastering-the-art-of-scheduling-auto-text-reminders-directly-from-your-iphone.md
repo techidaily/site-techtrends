@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Scheduling Auto-Text Reminders Directly From Your iPhone
-date: 2024-08-02 15:17:42
-updated: 2024-08-05 12:27:48
+date: 2024-08-05T02:03:24.671Z
+updated: 2024-08-06T02:03:24.671Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Scheduling Auto-Text Reminders Directly From Your iPhone
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 ---
 
 ## Mastering the Art of Scheduling Auto-Text Reminders Directly From Your iPhone
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * You can use the Shortcuts action to schedule text messages to be sent later and regularly.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 
  This article explains how to schedule a text message to send later on your iPhone. Instructions apply to devices running iOS 12 and later.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Schedule a Text on iPhone
 
  Since iMessage won't let you schedule a text message to be sent at a later time, you'll need to use a workaround solution.
@@ -34,12 +40,23 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
  If you have previously created an automation, you won't see this option. Instead, tap the**+** in the upper right corner, and then tap**Create Personal Automation** .  
  In newer versions of iOS, you'll go straight to the Personal Automations options after you tap the**+** .
 4. Select the**Time of Day** option.  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshots of the process to build an automation shortcut to schedule an iMesage.](https://www.lifewire.com/thmb/UfrDRTY-BByYedEzj0Xy95M_7Iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01_Automated_iMessage-9da308b8cbcb4bd0b48faa59327bf27b.jpg)
 5. Adjust the time for when you would like to send the message.
 6. Select**Monthly** in the**Repeat** section and scroll down to adjust the date you want the message sent on. When you're finished, tap**Next** .  
  Scheduling messages in iMessage this way will set up an automatically recurring message to go out on the same date at the same time each month. If you plan for this to be a one-time event, you'll need to go in and delete the automation (or turn it off) once your scheduled message has been sent.
 7. On the next screen, tap**Add Action** .  
  In newer versions of iOS, you can search directly for the**Send Message** action.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshots of the process to build an automation shortcut to schedule an iMesage.](https://www.lifewire.com/thmb/2dGNqnlCpokJX3LUXFqXodMJfNM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/02_Automated_iMessage-3fd9f320529b4053be09009acf9435d3.jpg)
 8. On the**Actions** menu, check a contact from the**Send Message** section and then tap**Next** .  
  You may also just tap**Recipients** in the preview window at the top of the screen.
@@ -48,6 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
  Tap the toggle next to**Ask Before Running** to turn that option off to let the automation run automatically without any input from you.
 11. When you're satisfied, tap**Done,** and the automation will be set up to run according to the settings you chose when completing the steps above.  
  Remember, this method sets up an automation that will send the same text message to the same person on the same day and time**every month** . If this is not what you intend, you should remember to go back and delete the automation once it has run. To delete it, slide your finger from right to left on the automation and tap**Delete** .  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshots of the process to build an automation shortcut to schedule an iMessage.](https://www.lifewire.com/thmb/LN8SRiIMnGZrpc4Yz__fGK5CqOc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03_Automated_iMessage-62945f47ce9d4c58b973075ec45316fb.jpg)
 
 ## How to Send a Delayed Text on iPhone
@@ -62,6 +82,9 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 
  However, they should work similarly by giving you the option to create and schedule messages to anyone in your contacts list or for whom you have a phone number.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Can You Schedule an iMessage?
 
  The short answer is no. You cannot use iMessage to schedule a text message to be sent at a later time. However, some workarounds will let you send messages at a future time. Those require using either the Shortcuts app or a third-party application designed specifically for scheduling text messages.

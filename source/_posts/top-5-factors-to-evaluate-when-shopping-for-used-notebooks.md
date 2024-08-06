@@ -1,7 +1,7 @@
 ---
 title: Top 5 Factors to Evaluate When Shopping for Used Notebooks
-date: 2024-08-03 22:17:10
-updated: 2024-08-06 11:44:10
+date: 2024-08-05T02:03:07.240Z
+updated: 2024-08-06T02:03:07.240Z
 categories:
   - BestProducts
 description: This Article Describes Top 5 Factors to Evaluate When Shopping for Used Notebooks
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 9 Ways to Fix the Problem
 
  A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
@@ -38,6 +41,10 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -49,6 +56,9 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 Bryan Natanael / Unsplash

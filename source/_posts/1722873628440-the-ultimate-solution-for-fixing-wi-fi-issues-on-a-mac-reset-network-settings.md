@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Solution for Fixing Wi-Fi Issues on a Mac? Reset Network Settings
-date: 2024-08-03 21:13:15
-updated: 2024-08-06 12:49:24
+date: 2024-08-05T02:03:22.035Z
+updated: 2024-08-06T02:03:22.035Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Solution for Fixing Wi-Fi Issues on a Mac? Reset Network Settings
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 ---
 
 ## The Ultimate Solution for Fixing Wi-Fi Issues on a Mac? Reset Network Settings
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * **Wi-Fi** icon > your Wi-Fi name >**Details** \>**Forget This Network** \>**Remove** \> re-add your connection settings.
@@ -24,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  The second process for resetting your network settings is safe, though it is a bit more complex and only recommended if the first method didn’t work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Reset Mac Network Settings: The Easy Way
 
  The first way to reset a Mac’s network settings is to delete your Wi-Fi connection and then add it again. Here’s how to do it.
@@ -38,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 3. Select**Details** beside the network to forget.  
 ![Details button beside a network connection from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/FNdDQZBdPQIHnN_v6Yd40aZSEaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_reset-network-settings-on-mac-5184072-a10316d0d1fa4b5e85f2b1516cdaece4.jpg)
 4. Choose**Forget This Network** at the bottom left.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Forget This Network option from a connected network in macOS Wi-Fi settings.](https://www.lifewire.com/thmb/g_e1r5-LZ5pTqtOVemfyL7io_yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_reset-network-settings-on-mac-5184072-550c670121d048ad9b36bf5c3711f38f.jpg)
 5. Click**Remove** to confirm the deletion.  
 ![The Remove option when deleting a connected network from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/7sXgyQ4pvZ0APV5IYNb9a0YbIVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_reset-network-settings-on-mac-5184072-d33999e98f4f41a9b5865dca38234821.jpg)  
@@ -51,12 +60,22 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 1. Click the**Wi-Fi internet symbol** in the menu bar.  
 ![Mac desktop with Wi-Fi symbol highlighted](https://www.lifewire.com/thmb/xVX119_v-qCR6mDaxc3cjPMV4LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201-reset-network-settings-on-mac-5184072-1b8173aa3f1143f8b8271be3a2086896.jpg)
 2. Click the switch to turn Wi-Fi off.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
    * **com.apple.airport.preferences.plist**  
@@ -65,13 +84,23 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
    * **NetworkInterfaces.plist**  
    * **preferences.plist**  
  Depending on your macOS version, you may not see all of the above files.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
 ![Mac selected files with Move to Trash highlighted](https://www.lifewire.com/thmb/Sn7RQOe_p_Sep46jpbpmtSngU3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/208-reset-network-settings-on-mac-5184072-f136a9e1ab444832a681b2f7bb014497.jpg)
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
 

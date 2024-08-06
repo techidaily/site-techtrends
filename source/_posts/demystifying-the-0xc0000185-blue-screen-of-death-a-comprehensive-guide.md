@@ -1,7 +1,7 @@
 ---
 title: Demystifying the 0xC0000185 Blue Screen of Death - A Comprehensive Guide
-date: 2024-08-02 21:55:56
-updated: 2024-08-05 12:47:30
+date: 2024-08-05T02:03:13.505Z
+updated: 2024-08-06T02:03:13.505Z
 categories:
   - BestProducts
 description: This Article Describes Demystifying the 0xC0000185 Blue Screen of Death - A Comprehensive Guide
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 ---
 
 ## Boost Productivity with Triple Monitor PC Setups - Comprehensive Guide and Troubleshooting Tips
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Connect the video cable for the first monitor to the PC and monitor. Wait for an image to display, then repeat for the other monitors.
@@ -18,6 +21,9 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -32,9 +38,15 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 5. Right-click on the Windows desktop and click**Display Settings** .  
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
 8. Close the**Display** menu.
 
@@ -54,6 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
 
  You can use an HDMI splitter to connect three monitors, but the results likely won't be what you hope.
@@ -74,6 +89,9 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 
  Your PC must support this feature. Most PCs sold in the last few years will, but older models often don't. Check the PC manufacturer's website or the company's website, which made your graphics card, to see if daisy chains are supported.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
 
 LanaStock / Getty Images

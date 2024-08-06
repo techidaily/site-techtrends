@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Joining an iTunes Shared Album with Your iPhone"
-date: 2024-08-02 14:56:39
-updated: 2024-08-05 12:16:39
+date: 2024-08-05T02:03:11.174Z
+updated: 2024-08-06T02:03:11.174Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Joining an iTunes Shared Album with Your iPhone"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 ---
 
 ## Step-by-Step Guide: Joining an iTunes Shared Album with Your iPhone
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * To accept a shared album invitation, tap notification >**For You** \>**Accept** .
@@ -28,13 +31,22 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
  Depending on your notification settings, you may see a badge on the Photos app icon when there's a pending invitation.
 3. If you're not taken to it right away, tap**For You** .
 4. The shared album invitation details appear on this screen. Tap**Accept** to join the album.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![iPhone with photo album notification, badge, and accept highlighted](https://www.lifewire.com/thmb/5FOEsgyOhpxg5kgqG3RIx3-3-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accept-b061220ac8b84f79b2192c518b8eb653.jpg)
 5. The shared album is added to the top of the screen. Tap the name of the album to view its photos.
 6. All of the photos in the album are displayed here. Depending on the settings of the album, you may be able to add your own photos to it by tapping the**\+ (Plus)** sign.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![iPhone Shared Album with album name and "add" highlighted](https://www.lifewire.com/thmb/JdOT4mhtqybWV8lem-ocSCTWK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharedalbums-e918328c14cb40f381fe193804936cf1.jpg)
 
  Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Leave a Shared Photo Album on iPhone
 
  If you've decided you no longer want to be part of a shared album, you can leave the album by following these steps:
@@ -43,9 +55,15 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 2. Tap**For You** .
 3. Tap the album you want to leave.
 4. Tap the person icon (or**...** \>**Shared Album Details** ).  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
 5. Tap**Unsubscribe** .
 6. In the confirmation pop-up, tap**Unsubscribe** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
 
  Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .

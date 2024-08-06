@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Release of Samsung Z Fold 4 - Detailed Specs, Cost Estimates & Official Debut Timing
-date: 2024-08-05 18:26:27
-updated: 2024-08-06 11:27:26
+date: 2024-08-05T02:02:54.504Z
+updated: 2024-08-06T02:02:54.504Z
 categories:
   - BestProducts
 description: This Article Describes Anticipating the Release of Samsung Z Fold 4 - Detailed Specs, Cost Estimates & Official Debut Timing
@@ -22,16 +22,25 @@ thumbnail: https://www.lifewire.com/thmb/KOAHbOFq4IyWlRN5kX22WJu6RDI=/400x300/fi
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 January or February 2025 is our best guess right now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Price Rumors
 
  Nobody knows for sure what Samsung will charge for the Galaxy S25 and S25+. Official prices won't be revealed until the phones are formally announced next year. However, if we look at the pricing trend of the latest phones, we can estimate how much the Galaxy S25 might cost:
@@ -47,12 +56,18 @@ January or February 2025 is our best guess right now.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
 
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Features
 
 [Android 15 will arrive later this year](https://www.lifewire.com/android-15-7547471) , so the Galaxy S25 will run that version of the Android OS (with the[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7 skin). Samsung will likely support the S25 for the same length of time as in past years, meaning you'll get major Android operating system updates and security fixes for seven years.
@@ -98,6 +113,9 @@ January or February 2025 is our best guess right now.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.

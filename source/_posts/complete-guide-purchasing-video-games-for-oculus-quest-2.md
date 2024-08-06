@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Purchasing Video Games for Oculus Quest 2"
-date: 2024-08-04 13:15:12
-updated: 2024-08-05 11:37:46
+date: 2024-08-05T02:03:10.369Z
+updated: 2024-08-06T02:03:10.369Z
 categories:
   - BestProducts
 description: "This Article Describes Complete Guide: Purchasing Video Games for Oculus Quest 2"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  This article explains how to download and set up the free[WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) desktop application for Mac as well as basic usage of the app. The instructions apply to macOS Sonoma 14.2 or later.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download WhatsApp Desktop for Mac
 
  You have two ways to download and install the WhatsApp desktop app for the Mac. You can get the app from the[Mac App Store](https://www.lifewire.com/using-mac-app-store-4171845) or the WhatsApp website. Both app versions are the same, so you can use whichever method is best for you.
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 3. Open the**Downloads** folder for the web browser you’re using and select the WhatsApp installer file.  
 ![The downloaded file for WhatsApp highlighted in the Safari Downloads section of Safari.](https://www.lifewire.com/thmb/KGV29Z4y7mXFgXvoecpTGSlFUNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-UseWhatsApponaMac-ANNOTATED-3c52c7f820934c1faf0d7d9c0b900856.jpg)
 4. When the installer opens, drag the**WhatsApp** icon to the**Applications** folder icon.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Window to drag WhatsApp to the Applications folder](https://www.lifewire.com/thmb/4OA6eBJFWdwnRFDtmhBs0jMuQ8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Move-WhatsApp-Applications-Folder-Mac-8424741-09a2410211e74966a44313b49e72582a.jpg)
 5. Close the installer window if necessary.
 
@@ -53,17 +59,36 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 1. Open**WhatsApp** on your mobile phone and tap**Menu** or**Settings** at the bottom, depending on your device.
 2. Select**Linked Devices** .
 3. Tap**Link a Device** and grant camera access if prompted.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Initial steps highlighted when linking devices to one WhatsApp account.](https://www.lifewire.com/thmb/6Urvb4zpOiY_cYMwVjyp0r8mzbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-UseWhatsApponaMac-annotated-f0db92b826e5489a86d328d092096e54.jpeg)
 4. Open the**Applications** folder on your Mac and select**WhatsApp** to launch the app.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![WhatsApp app highlighted in the Mac's Applications folder.](https://www.lifewire.com/thmb/VhpS9c3Qw6durOje6aLOIqj8LBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-UseWhatsApponaMac-annotated-120d4b37bd114436b08d864c2cbaf99a.jpg)
 5. Click**Get Started** on the WhatsApp welcome screen.  
 ![Get Started button in WhatsApp on Mac](https://www.lifewire.com/thmb/AMTQ4PTTb4xVp4vGxV0wT_ESEL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Get-Started-Mac-8424741-7d6071ea62a141789730bb4687e2a878.jpg)
 6. You’ll see a QR code along with instructions to capture the code.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![QR code in WhatsApp on Mac.](https://www.lifewire.com/thmb/jesVFrWj80lQIN9cVQLqLFhquUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-UseWhatsApponaMac-4e2a152ae0f64281bff535b781e9c752.jpeg)
 7. Use your mobile device to capture the QR code in the WhatsApp window on your Mac.
 8. You should see a brief “logging in” message and your Mac display as a linked device on your mobile phone. You can then close WhatsApp on your mobile device.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The steps of logging into a WhatsApp account on an iPhone.](https://www.lifewire.com/thmb/dZY_CI649d0REHdA9WXRIY4_17w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-UseWhatsApponaMac-annotated-a7b98253e694476392cc859e192eb876.jpeg)
 9. Choose how you would like to see notifications for WhatsApp on your Mac by enabling the toggles and selecting**Done** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Toggles to enable WhatsApp notifications on Mac](https://www.lifewire.com/thmb/uGdXRRVovDGesk26M4MQADNoRME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Enable-Notifications-Mac-8424741-8a05e64f8da244a6ae9959dad9251b05.jpg)  
  You’ll then see the main WhatsApp screen where you can start communicating with your contacts.
 
@@ -82,12 +107,26 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 * **Starred Messages** : See your starred messages and their connected conversations.
 * **Settings** : View your account or adjust your notification, chat, privacy, and storage preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![WhatsApp tabs and Settings on Mac](https://www.lifewire.com/thmb/ThxEFDgMmx5FOH0YZn1RWm12nIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Tabs-Settings-Mac-8424741-4e241ee7436b49b780ee38a0511cc7a3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Use WhatsApp With the Menu Bar
 
  In keeping with other[apps you use on macOS](https://www.lifewire.com/best-mac-apps-4589256) , you can navigate and perform actions in WhatsApp using the Mac menu bar.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Note
 
  Menu items are grayed out if they aren’t applicable at the time. For example, if you’re on the WhatsApp Calls tab, the Chat menu actions are unavailable.

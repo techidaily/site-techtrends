@@ -1,7 +1,7 @@
 ---
 title: Unplugged & Unresponsive? Get Your Roku TV Running Again with Our Quick Fixes!
-date: 2024-08-03 11:38:59
-updated: 2024-08-05 12:55:46
+date: 2024-08-05T02:03:01.861Z
+updated: 2024-08-06T02:03:01.861Z
 categories:
   - BestProducts
 description: This Article Describes Unplugged & Unresponsive? Get Your Roku TV Running Again with Our Quick Fixes!
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 ## Unplugged & Unresponsive? Get Your Roku TV Running Again with Our Quick Fixes
  For a variety of reasons, you may have trouble turning your Roku TV on. This article offers suggestions for troubleshooting the problem and getting your Roku TV up and running again.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Why Is My TCL Roku TV Not Turning On?
 
  If your TCL Roku TV doesn’t turn on, your issue could stem from several causes, such as:
@@ -23,6 +27,9 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 
  If your Roku TV won’t turn on, but you see a solid or blinking red indicator light, you most likely have a power supply or other hardware issue.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Fix My Roku That Won’t Turn On?
 
  When your Roku TV won't turn on, try these troubleshooting steps, arranged from simplest to more complex, before seeking guidance from your Roku TV manufacturer.  

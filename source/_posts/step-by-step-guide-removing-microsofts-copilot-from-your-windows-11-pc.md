@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Microsoft's Copilot From Your Windows 11 PC"
-date: 2024-08-04 10:37:57
-updated: 2024-08-05 12:58:23
+date: 2024-08-05T02:03:06.575Z
+updated: 2024-08-06T02:03:06.575Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Removing Microsoft's Copilot From Your Windows 11 PC"
@@ -19,15 +19,28 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Is Eligible for Microsoft's Student Discount?
 
  The Microsoft student discount is available to a wide range of people, including students, faculty, and even parents. Here are the general requirements:
@@ -36,8 +49,14 @@ thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550
 * Parent of a K-12 student or college student.
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.

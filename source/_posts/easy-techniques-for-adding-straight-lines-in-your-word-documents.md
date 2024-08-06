@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques for Adding Straight Lines in Your Word Documents
-date: 2024-08-04 13:44:44
-updated: 2024-08-06 11:48:55
+date: 2024-08-05T02:03:13.415Z
+updated: 2024-08-06T02:03:13.415Z
 categories:
   - BestProducts
 description: This Article Describes Easy Techniques for Adding Straight Lines in Your Word Documents
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/KbR0CZ2KlKaE-nsJy3Z6VykagFU=/400x300/fi
 
  Instructions in this article apply to Windows 11, Windows 10, Windows 8.1, and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Clean up Junk Files and Programs
 
  Getting rid of unnecessary files, applications, and other "junk" is an effective way to speed up any computer. Freeing your computer of these unnecessary items opens up storage for your important things and helps with overall performance.
@@ -26,6 +29,9 @@ thumbnail: https://www.lifewire.com/thmb/KbR0CZ2KlKaE-nsJy3Z6VykagFU=/400x300/fi
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Defrag Your Hard Drive
 
  Another way you can speed up a computer is by defragging the hard drive. This consolidates all the empty spaces that you create in the[file system](https://www.lifewire.com/what-is-a-file-system-2625880) structure as you add and remove files. These empty spaces make your hard drive take longer to think, which in turn causes files, folders, and programs to open slowly.
@@ -34,6 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/KbR0CZ2KlKaE-nsJy3Z6VykagFU=/400x300/fi
 
 [How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Remove Viruses, Malware, Spyware, Adware, etc
 
  Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
@@ -44,12 +53,18 @@ thumbnail: https://www.lifewire.com/thmb/KbR0CZ2KlKaE-nsJy3Z6VykagFU=/400x300/fi
 
 [How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix Windows System Errors
 
  Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
 
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Adjust Visual Effects
 
  Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
@@ -76,6 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/KbR0CZ2KlKaE-nsJy3Z6VykagFU=/400x300/fi
 
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Why Is My Computer So Slow?
 
  Over time, as you download files, browse the internet, remove programs, leave applications open, and do pretty much anything else on your computer, it slowly collects junk and causes behind-the-scenes problems that aren't always so easy to catch at first.

@@ -1,7 +1,7 @@
 ---
 title: "All Eyes on Apple's Next Move: Previewing Series X, Its Estimated Launch Date & Price Point Amidst Rising Rumors"
-date: 2024-08-05 16:42:47
-updated: 2024-08-06 12:24:21
+date: 2024-08-05T02:02:55.291Z
+updated: 2024-08-06T02:02:55.291Z
 categories:
   - BestProducts
 description: "This Article Describes All Eyes on Apple's Next Move: Previewing Series X, Its Estimated Launch Date & Price Point Amidst Rising Rumors"
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
  Whether it's called the Apple Watch Series X or Series 10, a refresh is coming. There are several[ Apple events](https://www.lifewire.com/apple-event-5097169) throughout the year, but it'll undoubtedly be the September event that will unveil the next smartwatch.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  We think the Apple Watch X release date will be either September 20 or September 27\. It should launch alongside the[ iPhone 16](https://www.lifewire.com/iphone-16-news-and-rumors-7111749) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Apple Watch X Price Rumors 
 
  There have been two case sizes for the Apple Watch in past years, and we expect that to continue this year. The Apple Watch X lineup should cost the same as last year's watches:
@@ -43,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
 [ Should You Buy an Apple Watch? ](https://www.lifewire.com/should-you-buy-apple-watch-5248207) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Apple hasn't announced this watch yet, but when they do we'll drop the Apple Watch X pre-order link here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Apple Watch X Features 
 
  In his March 2024 newsletter, Mark Gurman reported that "all signs point to the new Apple Watch gaining a blood-pressure checker this fall." He adds that[ this feature will probably be exclusive to this watch](https://www.bloomberg.com/news/newsletters/2024-03-17/apple-aapl-revamped-carplay-becomes-last-hope-after-apple-car-is-canceled-ltvif8zt) and won't be available for current models.
@@ -57,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
  Every new Apple Watch features the latest version of watchOS.[ watchOS 11](https://www.lifewire.com/watchos-11-8552217) will power the Apple Watch X. It's poised to introduce some cool AI features, including a smarter version of Siri.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Apple Watch X Specs and Hardware 
 
  If the rumors about the Apple Watch Series X prove true, they suggest the 2024 Apple Watch is undergoing substantial upgrades this year.[ Bloomberg's Mark Gurman says](https://www.bloomberg.com/tosv2.html?vid=&uuid=44629e2e-db54-11ee-b5c8-949810984427&url=L25ld3MvbmV3c2xldHRlcnMvMjAyMy0wOC0xMy9hcHBsZS1ldmVudC1zZXB0ZW1iZXItMTItMjAyMy1hcHBsZS13YXRjaC1zZXJpZXMtOS11bHRyYS0yLXdhdGNoLXgtbGF0ZXItbGw5Z2ViM24=) the Watch X model "promises to be the biggest overhaul yet."
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
  There's still a lot of time for leaks and rumors to pour in before the September Apple event. We'll update this section as we learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About Apple Watch X 
 
  You can [ get more Smart and Connected Life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are some stories about this Apple Watch and related articles you might like.

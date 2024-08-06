@@ -1,7 +1,7 @@
 ---
 title: Keyboard Troubles? Here's How to Make It Start Typing Again!
-date: 2024-08-03 19:31:27
-updated: 2024-08-05 11:14:56
+date: 2024-08-05T02:03:07.002Z
+updated: 2024-08-06T02:03:07.002Z
 categories:
   - BestProducts
 description: This Article Describes Keyboard Troubles? Here's How to Make It Start Typing Again!
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9 Ways to Fix the Problem
 
  A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
@@ -38,6 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -49,6 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 Bryan Natanael / Unsplash

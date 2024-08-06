@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Scanning Paper Copies Into Digital Format on Your Computer
-date: 2024-08-04 18:54:55
-updated: 2024-08-06 10:12:39
+date: 2024-08-05T02:03:14.124Z
+updated: 2024-08-06T02:03:14.124Z
 categories:
   - BestProducts
 description: This Article Describes Seamlessly Scanning Paper Copies Into Digital Format on Your Computer
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
  This information applies to televisions from a variety of manufacturers, including, but not limited to, those made by LG, Samsung, Panasonic, Sony, and Vizio.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## What Causes Bad TV Antenna Reception?
 
  The antenna may have difficulty picking up your favorite stations over the air for several reasons.
@@ -26,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 [Get TV Without Cable or Antenna: Learn More](https://www.lifewire.com/get-tv-reception-without-cable-or-an-antenna-5073463)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Fix Bad TV Antenna Reception
 
  Follow these potential fixes in the order presented to troubleshoot the problem:
@@ -53,6 +60,9 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 7. [Consider an alternative](https://www.lifewire.com/what-is-cutting-the-cord-4145351) . You can supplement your TV watching with programming on the internet. Consider going in with someone on a satellite service package and splitting the cost, or paying for the cheapest basic cable service.
 8. Get help. Contact your local broadcast stations to see if they can help. They may be having technical difficulties you're unaware of.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/y1uD8h4CfgnGjif7krZiU2EsTt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
 
  Special thanks to Hank Caskey, vice-president of antenna reception for[Audiovox](https://www.voxxelectronics.com/) , who helped shape this article with his valuable insight on antenna reception.

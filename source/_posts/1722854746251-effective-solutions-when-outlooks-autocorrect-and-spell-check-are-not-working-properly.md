@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions When Outlook's AutoCorrect and Spell Check Are Not Working Properly
-date: 2024-08-04 11:13:26
-updated: 2024-08-05 10:56:25
+date: 2024-08-05T02:03:06.961Z
+updated: 2024-08-06T02:03:06.961Z
 categories:
   - BestProducts
 description: This Article Describes Effective Solutions When Outlook's AutoCorrect and Spell Check Are Not Working Properly
@@ -17,6 +17,9 @@ Close
 
  These solutions apply to Outlook for Microsoft 365, Outlook 2021, Outlook 2019, Outlook 2016, Outlook 2013, and Outlook 2010.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why the Spell Check in Outlook Is Not Working 
 
  This handy feature saves you from embarrassing misspelling blunders, but only when it works. Here are some factors that can make Outlook's spell check tool misfire or stop working:
@@ -29,6 +32,9 @@ Close
 
  If you're using Outlook in your web browser, you should know that[ Outlook.com does not have a built-in spell checker](https://www.lifewire.com/hotmail-spell-checker-1174278) . Instead, install a browser extension like Grammarly or enable the spell checker built into your computer (in Windows, search Settings for**Highlight misspelled words** ).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  How to Fix Outlook Spell Check Not Working 
 
  Follow these solutions in the order we've listed them to try the easier fixes first.
@@ -36,6 +42,9 @@ Close
 1. Close Outlook and then reopen it. This is a good first step because it doesn't take long. A temporary glitch in the software or on your computer can break the spell check functionality.
 2. Check Outlook's AutoCorrect options. Spell check won't work if something is misconfigured or turned off. Go to**File** \>**Options** \>**Mail** to review these settings.  
  For example, if spell check didn't catch a mistake when you sent a message, ensure**Always check spelling before sending** is turned on. In the**Spelling and Autocorrect** options are several other settings that, if turned off, will make spell check stop working, like**Check spelling as you type** and**Mark grammar errors as you type** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Spell check and other proofing options in Outlook for Windows](https://www.lifewire.com/thmb/7aJakEF1RoFUzmRdKy98rLjw4oI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-proofing-options-cf0374fcf9dd4a8a83c71944367a8088.png)
 3. Change the proofing language. A language variation could make it seem as though the spell check tool is not working correctly. For instance, UK English and US English spell many words slightly differently. Go to**File** \>**Options** \>**Language** section to see how your app is set up.
 4. Run spell check manually. Enter multiple misspelled words into a new message, then select**Review** \>**Spelling and Grammar** . This lets you see if spell check is working at all.

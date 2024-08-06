@@ -1,7 +1,7 @@
 ---
 title: "Retrieve Past Alerts: A Guide to Viewing Old Notifications on Your iPhone"
-date: 2024-08-03 23:14:28
-updated: 2024-08-05 11:16:43
+date: 2024-08-05T02:02:55.301Z
+updated: 2024-08-06T02:02:55.301Z
 categories:
   - BestProducts
 description: "This Article Describes Retrieve Past Alerts: A Guide to Viewing Old Notifications on Your iPhone"
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 
  Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to Make an Awkward Potion in Minecraft
 
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
@@ -21,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 1. Craft **Blaze Powder** with a**Blaze Rod** .  
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
@@ -29,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
@@ -36,8 +45,14 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Awkward Potion Recipe  
 
  Here are the materials required to brew an Awkward Potion in Minecraft:  
@@ -48,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 * 1 Water Bottle  
 * 1 Nether Wart  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  

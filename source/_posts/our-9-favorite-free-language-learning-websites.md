@@ -1,7 +1,7 @@
 ---
 title: Our 9 Favorite Free Language Learning Websites
-date: 2024-08-05 15:43:23
-updated: 2024-08-06 12:20:53
+date: 2024-08-05T02:03:14.603Z
+updated: 2024-08-06T02:03:14.603Z
 categories:
   - BestProducts
 description: This Article Describes Our 9 Favorite Free Language Learning Websites
@@ -16,16 +16,25 @@ thumbnail: https://www.lifewire.com/thmb/VpY1fdBph6NYVSGDdUbcOXtXzJA=/400x300/fi
 
 _If you click on links we provide, we may receive compensation._
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Free Online Sign Language Classes
 
  Some of these are huge courses with many units to teach you the complete sign language, and others are smaller that will just teach you the basics. Whatever class you choose, you'll have a great time building up your skills.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### American Sign Language University's Free Sign Language Classes
 
  There are plenty of great resources available from American Sign Language University (ASLU). On top of the 60 lessons, dictionary search, and numbers guide, you can find a fingerspelling practice tool, quizzes, and several word search puzzles, among other things.
 
  You'll find many videos on sign language here, and the lessons are in order of difficulty, so you can progressively learn to sign like you would with any other language.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![American Sign Language University home page](https://www.lifewire.com/thmb/MbyvJ8pc2SNxySxyCAAZ7MPY6Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-lifeprint-e4a6466dac7c4ede9439817885d46cf5.png)
 
  Be sure to check out the[First 100 Signs](https://www.lifeprint.com/asl101/pages-layout/concepts.htm) videos for a great introduction to common signs used between parents and younger children. There are also some sentences you can practice using the signs you learned from the videos.
@@ -70,6 +79,10 @@ _If you click on links we provide, we may receive compensation._
 
 ### SignSchool
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![SignSchool ](https://www.lifewire.com/thmb/ft580gMAjRqg3I-Rrj3Az29_9gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/signschool-f8c1e95018da49a7b94d28cac6470349.png)
 
  SignSchool is a free online sign language class that steps you through the basics (starting with how to spell your name) and then moves you through lessons that progress in difficulty.
@@ -84,8 +97,14 @@ _If you click on links we provide, we may receive compensation._
 
  Apps are available for mobile devices that let you learn sign language anywhere, a benefit if you don't use a computer often or if you like to squeeze in some courses on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The ASL App
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The ASL App on Android](https://www.lifewire.com/thmb/UD13c1fqTbfIeHrRS5iuAwwe3Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-asl-app-android-e6b51ca3ce1249bfa82ab1d271e1e6a1.png)
 
  Learn sign language on the go with the free ASL App that makes it easy to understand new signs and practice ones you already know. You get to set the pace, and you can jump in and out of learning sign language whenever you want.
@@ -108,6 +127,9 @@ _If you click on links we provide, we may receive compensation._
 
 ### Marlee Signs for iOS
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Marlee Signs iPhone app](https://www.lifewire.com/thmb/kN9d-f10xRdExwwsBkk-UZGIZP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/marlee-signs-iphone-67131d891bd642cea45b2fe49bf881a5.png)
 
  This video-based app shows you how to sign any word, letter-by-letter. There's also a library of conversation starters, numbers, letters, and other common words.
@@ -116,6 +138,9 @@ _If you click on links we provide, we may receive compensation._
 
 [Download Marlee Signs](https://apps.apple.com/us/app/marlee-signs/id566054855)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Printable Sign Language Charts
 
 ![Sign language letters and numbers](https://www.lifewire.com/thmb/3F4ZkvdgO6Xxhrfp-TxQ4GlUcHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sign-language-numbers-letters-lifeprint-7e6dac833d4e44deb202b7b269cdd7e6.png)
@@ -127,8 +152,15 @@ _If you click on links we provide, we may receive compensation._
 * [These numbers/common words/letters](https://www.dummies.com/article/academics-the-arts/language-language-arts/learning-languages/american-sign-language/signing-for-dummies-cheat-sheet-208315/) : This cheatsheet is similar to the other printables here with four images you can print for keywords, such as "how," "which," "where," "yes," "please," "thanks," "goodbye," etc. There are also printables for the alphabet and numbers one through 10.
 * [Print individual letters in sign language](https://www.teachersprintables.net/category/sign%5Flanguage) : These printables includes large letters of the alphabet represented in sign language. One way to use these is to print them off and place them next to objects that start with that letter for passive learning.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Online Sign Language Games
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Deafsign sign language game](https://www.lifewire.com/thmb/IQalTEok0f9rsq2T7BbkUjCQIPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/deafsign-game-aa058ef7a9864e928cc4f1e12053e33a.png)
 
  Online games can make learning sign language fun. If you've completed a few courses or spent some time with a sign language app or worksheet, play a game to test what you've learned.

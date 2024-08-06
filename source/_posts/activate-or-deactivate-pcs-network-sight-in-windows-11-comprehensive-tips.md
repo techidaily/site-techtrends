@@ -1,7 +1,7 @@
 ---
 title: Activate or Deactivate PC's Network Sight in Windows 11 – Comprehensive Tips
-date: 2024-08-04 12:13:23
-updated: 2024-08-05 10:35:18
+date: 2024-08-05T02:03:10.889Z
+updated: 2024-08-06T02:03:10.889Z
 categories:
   - BestProducts
 description: This Article Describes Activate or Deactivate PC's Network Sight in Windows 11 – Comprehensive Tips
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -26,15 +29,33 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 2. Examine the ports on your PC to determine the video outputs you have available.
 3. Examine the video inputs available on the three monitors you'll be using. The ports on your PC don't have to match the ones on your monitors, but you'll need a cable or adapter with the appropriate connections if they are different.  
 [HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) are the most common video connections.  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DisplayPort vs HDMI Connections and Cables](https://www.lifewire.com/thmb/2-bsARM73bRRMi4TApr7ApRFBCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/display-port-vs-hdmi-c2g-ccc-1697f356c33b4313bf4f239ef56856e4.jpg)  
  Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
 4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
 5. Right-click on the Windows desktop and click**Display Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
 8. Close the**Display** menu.
 
@@ -54,6 +75,9 @@ thumbnail: https://www.lifewire.com/thmb/qM1nNnmQahuj0QFb4ZrHH5hMw1k=/400x300/fi
 
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
 
  You can use an HDMI splitter to connect three monitors, but the results likely won't be what you hope.

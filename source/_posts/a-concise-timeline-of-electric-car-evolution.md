@@ -1,7 +1,7 @@
 ---
 title: A Concise Timeline of Electric Car Evolution
-date: 2024-08-04 14:13:59
-updated: 2024-08-06 10:41:52
+date: 2024-08-05T02:03:15.774Z
+updated: 2024-08-06T02:03:15.774Z
 categories:
   - BestProducts
 description: This Article Describes A Concise Timeline of Electric Car Evolution
@@ -17,8 +17,14 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 
  The wide availability of inexpensive gas in the early part of the 20th century helped push EVs out of the public consciousness, but various automakers continued working on related technology throughout the years. Thanks to further advances in battery technology, and a drive to lower vehicle emissions, the modern electric vehicle was poised to reemerge near the turn of the 21st century. 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The First EVs 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) ![A roadmap view of the electric car's history, complete with years and a timeline below the images.](https://www.lifewire.com/thmb/i6n8ETrPqpUKwyoccGxriaRUxLA=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVHistorymap-ea3166bf8f704818a614b4f53320ceb5.png) 
 
  PHOTO:
@@ -27,6 +33,9 @@ Alex Dos Diaz
 
  Electric vehicles have driven a long and winding road over the course of two centuries. It’s difficult to pin down exactly where the history of electric vehicles begins, but the basic idea showed up right alongside the first electric motors.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 1828 - 1839 
 
  Hungarian physicist Anyos Jedlik is credited with building some of the first practical DC motors around 1827, and by 1828 he used one of his early electric motors to build what could be called a model electric car.
@@ -41,6 +50,10 @@ Alex Dos Diaz
 
  The lead acid battery is the same basic battery technology that’s still used by gas-powered vehicles today.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### 1890 - early 1900s 
 
  Gustave Trouve of France demonstrated an electric tricycle in 1881 while Thomas Parker of England built the first production electric car to resemble the traditional horseless carriage in 1884.
@@ -63,6 +76,9 @@ Smithsonian/Museum of American History
 
  Electric vehicles remained quite popular at the dawn of the 20th century. About one-third of all vehicles on the road were electric around the year 1900, but that popularity began to wane as the years went by. Despite advances in battery technology, the availability of inexpensive gasoline and lack of electricity outside big cities helped bolster the popularity of gas-powered vehicles instead. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![An electric runabout used from 1906 to the early 1930s.](https://www.lifewire.com/thmb/ax2boBkX7o17b8u2EOnPmJZ8vtc=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Electricrunaboutagainstfadedbackground-4c68dce7cce04681a1b30fb07fbf5d95.png) 
 
  An electric runabout used from 1906 to the early 1930s. 
@@ -73,6 +89,9 @@ Smithsonian/Museum of American History
 
  The automotive industry never forgot about electric vehicles though, and research into batteries and other related technologies quietly continued.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1959: A Key Year 
 
  The invention of the[ MOSFET](https://www.elprocus.com/mosfet-as-a-switch-circuit-diagram-free-circuits/) (a semiconductor) at Bell Labs in 1959 is considered to be one of the key turning points in the history of modern electric vehicles. This led to the creation of the power MOSFET by Hitachi, microprocessors, and microcontrollers, all of which are essential components in modern electric vehicles. 
@@ -107,6 +126,9 @@ Smithsonian/Museum of American History
 
  Tesla, launched by Elon Musk, showed up on the scene in 2003 as a startup aimed at creating an affordable and practical electric vehicle. Prototypes of the Tesla Roadster were revealed in 2006, and the first Roadsters were delivered to customers in 2008\. Powered by NCA battery technology, the Roadster had a range of 244 miles, which was significantly higher than previous all-electric vehicles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![An early yellow Tesla Roadster with black stripes.](https://www.lifewire.com/thmb/bmr_9NPoJ_wMl9NhKypYTo-j4l4=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Tesla_Roadster_edit2-3c087f9a02a44e85b92ea2d0c090f3f6.jpg) 
 
 Cherubino/Wikimedia Commons
@@ -119,6 +141,9 @@ Cherubino/Wikimedia Commons
 
  More than 18,000 charging stations were installed through this program, though the build-out of charging infrastructure continues to this day through other public and private initiatives.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of EVs 
 
  The history of the electric vehicle has been driven largely by battery technology, and that’s likely to continue into the future unless a new technology comes along that can effectively replace them. With the overall cost of batteries dropping and the technology continuing to advance, electric vehicles are likely to match gas-powered vehicles in terms of cost, range, and other factors.

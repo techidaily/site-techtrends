@@ -1,7 +1,7 @@
 ---
 title: "Effortless Beauty: Top Strategies for Capturing Stunning Self-Portraits Using a Selfie Ring Light"
-date: 2024-08-05 11:56:59
-updated: 2024-08-06 10:47:29
+date: 2024-08-05T02:03:16.330Z
+updated: 2024-08-06T02:03:16.330Z
 categories:
   - BestProducts
 description: "This Article Describes Effortless Beauty: Top Strategies for Capturing Stunning Self-Portraits Using a Selfie Ring Light"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 ---
 
 ## Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Go to**Insert** \>**Object** \>**Microsoft Word Document** \>**OK** to prepare a new document.
@@ -18,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/7d954d5ef5beb31b578dcda4509d16e23f0ef0d1b
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Insert Code in Word With an Embedded Document
 
  While there isn't an 'insert code' option or a dedicated code block in Word, there is a way to insert one document into another. This effectively creates an isolated section that houses all the code. Here's how to make this work with your code:
@@ -27,11 +33,17 @@ These instructions only work with a single page of code.
 1. Open the document you want the code to appear in, and select**Insert** .  
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
 4. Clear the**Display as icon** check box.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
@@ -39,9 +51,15 @@ These instructions only work with a single page of code.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.

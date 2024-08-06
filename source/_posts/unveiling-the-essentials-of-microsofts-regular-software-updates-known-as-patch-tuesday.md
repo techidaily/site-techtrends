@@ -1,12 +1,12 @@
 ---
 title: Unveiling The Essentials Of Microsoft's Regular Software Updates – Known As Patch Tuesday
-date: 2024-08-05 15:56:36
-updated: 2024-08-06 12:25:11
+date: 2024-08-05T02:03:06.323Z
+updated: 2024-08-06T02:03:06.323Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling The Essentials Of Microsoft's Regular Software Updates – Known As Patch Tuesday
 excerpt: This Article Describes Unveiling The Essentials Of Microsoft's Regular Software Updates – Known As Patch Tuesday
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Unveiling The Essentials Of Microsoft's Regular Software Updates – Known As Patch Tuesday
@@ -21,6 +21,9 @@ Close
 
  This article explains what Patch Tuesday is and what was included in the latest set of updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Why Is Patch Tuesday Important? 
 
  Patch Tuesday is the name given to the day each month that Microsoft releases security and other [ patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems and other software. It's always the second Tuesday of each month and is sometimes referred to as_Update Tuesday_ .
@@ -33,6 +36,9 @@ Close
 
  If you're currently using Windows 8.1 but have not yet applied the Windows 8.1 Update package or updated to Windows 10 or Windows 11, you_must_ do so to continue to receive these important security patches! See our [ Windows 8.1 Update](https://www.lifewire.com/windows-8-1-update-2626250) piece for more on what this is and how to upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Do These Patch Tuesday Updates Do? 
 
  These patches from Microsoft update several individual files involved in making Windows and other Microsoft software work.
@@ -48,6 +54,9 @@ Close
 
  These files were determined by Microsoft to have security issues, meaning that they have "bugs" that could provide a means to do something malicious to your computer without your knowledge.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Do I Know If I Need These Security Updates? 
 
  You need these updates if you're running any supported edition of Microsoft's operating systems, 32-bit or 64-bit. This includes Windows 11 and Windows 10, plus supported Server versions of Windows.
@@ -62,6 +71,9 @@ Close
 
  In case you're curious: Windows 11 v22H2 support is slated to end on October 8, 2024; Windows 11 v23H2 support will end on November 11, 2025; and Windows 10 support will end on October 14, 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Are There Any Non-Security Updates This Patch Tuesday? 
 
  Yes, a number of non-security updates are being made available for all supported versions of Windows including, as usual, this month's update to the Windows Malicious Software Removal Tool.
@@ -80,6 +92,10 @@ Close
 
  Updates are typically not available to consumers for individual installation. When they are, or if you're a business or enterprise user, please know that most of these downloads come in a choice of [ 32-bit or 64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) versions. See[ Do I Have 32-bit or 64-bit Windows?](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475) if you're not sure which downloads to choose.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Patch Tuesday Problems 
 
  While updates from Microsoft rarely result in widespread problems with Windows itself, they do frequently cause specific issues with software or drivers provided by other companies.
@@ -93,6 +109,9 @@ Close
 
  See[ Windows Updates & Patch Tuesday FAQ](https://www.lifewire.com/windows-updates-patch-tuesday-faq-2625777) for answers to other common questions, including_"Does Microsoft test these updates before they push them out?"_ and _"Why hasn't Microsoft fixed the problem that their update caused on my computer?!"_ 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Patch Tuesday & Windows 11/10 
 
  Microsoft has publicly commented that beginning with Windows 10, they will no longer be pushing updates solely on Patch Tuesday, instead pushing them more frequently, essentially ending the idea of _Patch Tuesday_ altogether.

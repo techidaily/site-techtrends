@@ -1,7 +1,7 @@
 ---
 title: How To Troubleshoot Mac Computers Failing to Connect with Peripheral Displays
-date: 2024-08-03 13:46:55
-updated: 2024-08-06 10:26:11
+date: 2024-08-05T02:03:20.040Z
+updated: 2024-08-06T02:03:20.040Z
 categories:
   - BestProducts
 description: This Article Describes How To Troubleshoot Mac Computers Failing to Connect with Peripheral Displays
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/CY05fc7Wa9aQXq_XT_vWRAew9X4=/400x300/fi
 ---
 
 ## IPhone Users' Ultimate How-To: Jumping Into Shared Photo Collections with Ease
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * To accept a shared album invitation, tap notification >**For You** \>**Accept** .
@@ -28,13 +31,22 @@ thumbnail: https://www.lifewire.com/thmb/CY05fc7Wa9aQXq_XT_vWRAew9X4=/400x300/fi
  Depending on your notification settings, you may see a badge on the Photos app icon when there's a pending invitation.
 3. If you're not taken to it right away, tap**For You** .
 4. The shared album invitation details appear on this screen. Tap**Accept** to join the album.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![iPhone with photo album notification, badge, and accept highlighted](https://www.lifewire.com/thmb/5FOEsgyOhpxg5kgqG3RIx3-3-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accept-b061220ac8b84f79b2192c518b8eb653.jpg)
 5. The shared album is added to the top of the screen. Tap the name of the album to view its photos.
 6. All of the photos in the album are displayed here. Depending on the settings of the album, you may be able to add your own photos to it by tapping the**\+ (Plus)** sign.  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Shared Album with album name and "add" highlighted](https://www.lifewire.com/thmb/JdOT4mhtqybWV8lem-ocSCTWK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharedalbums-e918328c14cb40f381fe193804936cf1.jpg)
 
  Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## How to Leave a Shared Photo Album on iPhone
 
  If you've decided you no longer want to be part of a shared album, you can leave the album by following these steps:
@@ -43,9 +55,24 @@ thumbnail: https://www.lifewire.com/thmb/CY05fc7Wa9aQXq_XT_vWRAew9X4=/400x300/fi
 2. Tap**For You** .
 3. Tap the album you want to leave.
 4. Tap the person icon (or**...** \>**Shared Album Details** ).  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
 5. Tap**Unsubscribe** .
 6. In the confirmation pop-up, tap**Unsubscribe** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
 
  Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .

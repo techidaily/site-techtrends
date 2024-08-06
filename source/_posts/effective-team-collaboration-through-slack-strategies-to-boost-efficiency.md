@@ -1,7 +1,7 @@
 ---
 title: "Effective Team Collaboration Through Slack: Strategies to Boost Efficiency"
-date: 2024-08-05 21:17:46
-updated: 2024-08-06 12:46:10
+date: 2024-08-05T02:03:04.876Z
+updated: 2024-08-06T02:03:04.876Z
 categories:
   - BestProducts
 description: "This Article Describes Effective Team Collaboration Through Slack: Strategies to Boost Efficiency"
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  This article explains how to set up a[Slack](https://www.lifewire.com/what-is-slack-4685683) workspace and perform functions like assembling a team, creating channels, adding users, sending messages, placing calls, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set up a Slack Workspace for Your Team
 
  Slack can be used on a computer via your[web browser](https://www.lifewire.com/what-is-a-browser-446234) of choice or through a mobile app, but the setup process is complicated enough that you may want to consider using a web browser. For the purposes of these instructions, we will show you exactly how to set up your first Slack workspace from scratch.
@@ -29,23 +32,42 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 1. Navigate to[slack.com](http://www.slack.com) , and select**Get Started** in the upper right corner of the page.  
 ![A screenshot of the Slack website.](https://www.lifewire.com/thmb/TW1umbAqhzPxD8XfyFjGT-NnrL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start1-d91e21220d5b4b7c9ded220e269149fe.JPG)
 2. Select**My team isn't using Slack yet** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Slack setup process.](https://www.lifewire.com/thmb/Un35yi6KD0Hyfjo9EpY2tHJu-dM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start2-186dace115ed469eb65f064436fb1593.JPG)  
  These instructions are for setting up a brand new Slack workspace. If you aren't responsible for setting up Slack for your organization, click**My team is on Slack** to search for a workspace that was set up by one of your coworkers.
 3. Enter your email, and select**Confirm** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of the Slack setup process.](https://www.lifewire.com/thmb/xDNZrJrCGlycwgXwkPLWpWw555E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start3-e2eb90a183d149a1ae1da6ff7cd5947f.JPG)  
  Use your business email, or the email you normally use to communicate with the people on your team.
 4. Check your email for a confirmation code. When it arrives, enter the code.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of the Slack email confirmation screen.](https://www.lifewire.com/thmb/QJ8d6cdkFfIigLJ5kHyF0t-mq3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start4-656dce615e834e9dbbf77af3e02f77d6.JPG)
 5. Enter the name of your company or team, then select**Next** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![A screenshot of the Slack company or team name entry screen.](https://www.lifewire.com/thmb/GEHI6XE1uoH0EwYXMvs2Ofi8wU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start5-a92af61d68944f5ba7810ef321f04da4.JPG)
 6. Enter the name of a project your team is currently working on, then select**Next** .  
 ![A screenshot of setting up Slack.](https://www.lifewire.com/thmb/NGqC3lEA88-BxWBmJvDSUvBF0VE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start6-97966effd188458ab6783367ecdcd758.JPG)
 7. Enter the email addresses for each of the people on your team, then select**Add Teammates** .  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![A screenshot of adding team members on Slack.](https://www.lifewire.com/thmb/X3Nin30NpTJEikc-gxozsgq0I9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start7-615c9290e67b4a27806e5a3a0bf070a2.JPG)  
  You will be able to add more teammates later on if you don't get everyone on this step.
 8. Your Slack channel has been set up at this point. Select**See Your Channel in Slack** to start using it.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/AlJ4Lk_uAFtjCpQMd4xOt-JNg_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/start8-d2ade54cf6d443f18fb61d4739ed2d17.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Assemble a Team in Slack
 
  Once you have created your workspace, you still have a handful of tasks to complete before Slack sets you loose. You'll need to finish assembling your team, create a welcome message, send your first message, and finalize some important settings.
@@ -59,12 +81,26 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 4. Select**Start using Slack for the #your-channel-name project** .  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/WxJs8k2SWkLHBNYCig6BQY_esHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startusing-6eae99795f0c46f9bb6e7138a46436d4.jpg)
 5. Enter your first message, then select**Send** . When your invitees start filtering in, this is one of the first things they'll see.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![A screenshot of setting up Slack.](https://www.lifewire.com/thmb/GEVf9tMlcLSNqw4Kj7dSzDraSK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/firstmessage-c1e924aee79e4ee68658df371d70b03b.jpg)
 6. Select**Finish setup** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of setting up Slack.](https://www.lifewire.com/thmb/qXvTF6DsH5uF8HhsUfaQAvn6QFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam4-c6373750dc1a447aace86e1802b1949f.JPG)
 7. Enter your name, choose a password that you will use to access Slack, then select**Next** .  
 ![A screenshot of finalizing a Slack team.](https://www.lifewire.com/thmb/3PtapeD_Fw0R4oTdGDHuM5_7NdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam5-a5d1b18c2bd04c4f9f130e67acc7cc39.JPG)
 8. Change your workspace name or URL if you want, or just select**Finish** if you're satisfied.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of setting up a Slack team.](https://www.lifewire.com/thmb/x4weyNdeqaSeM84LGRAdPO_EoLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupteam6-e3b0543b3ed049068af74d026e720d36.JPG)
 9. Your Slack workspace is ready, and your team is all set up. You can add more team members if you like, or just start using your workspace to coordinate with your team.  
 ![A screenshot of Slack setup.](https://www.lifewire.com/thmb/9aHShK3HwCYU4U1sICXzr2Qi3ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/setupfinal-716709e5b3014af58f89904663fa88d6.JPG)
@@ -74,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
  You created one channel during the initial setup process, but additional channels can really help your team focus on specific projects. This is really useful if you have a large team, since you can restrict channels to just the people who really need the information, but it's still a good idea to use this organizational tool even if you have a smaller team.
 
 1. Select the**+** located to the right of the main Channels heading.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/nEjqjxeimvwaK6wHAWnyhrgi1KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel1-6fc4851e0ccd41efa8d676f6068e1ae8.JPG)
 2. Select**Create a channel** in the drop down menu.  
 ![A screenshot of adding a channel in Slack.](https://www.lifewire.com/thmb/JyoRU_QxUl_wFg8shCSZzJfEuQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel2-1abf1d5c6d4b42beb5a062e3c52d4c23.JPG)
@@ -81,11 +120,17 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 ![A screenshot of creating a channel in Slack.](https://www.lifewire.com/thmb/vMWT4GOEZfgKtPRcKBHJhOaeDyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel3-8b2c9cb8b08041929787fc8f30df81bb.JPG)  
  Select the**Make private** slider if you want to control who can join the channel. With this option off, anyone can read and add themselves to the channel. Private channels are noted with a lock icon to the left of their name in your Channels list. Open channels will have a hashtag in that spot.
 4. Enter the names of the people you want in the group, and select**Done** , or select**Skip for now** to add people later.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![A screenshot of adding people to a channel on Slack.](https://www.lifewire.com/thmb/NjGuIPbSvy9_31iy26divSY2l1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel4-e695011a85304823bffeb9f5fe1fe968.JPG)  
  To add people later, select the channel, then select**Add People** .
 5. Your channel is now ready to use.  
 ![A screenshot of a new channel in Slack.](https://www.lifewire.com/thmb/Qfsi8ziO8BTEdzsMQUaxBMz4jAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/newchannel5-26edbc89e139419285e33988bfe3f9b9.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Send Direct Messages in Slack
 
  In Slack, every message that isn't sent within a channel is considered a direct message. You can send messages to anyone on your team, or create a group direct message with multiple team members to fill everyone in at the same time.
@@ -95,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 2. Type your message into the text field, then press**Enter** .  
 ![A DM in Slack.](https://www.lifewire.com/thmb/aU8Y68_hi2i8HtQyg_WUI3BL4Lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm2-9f2a72fa70f24a2cabb12135aa852a5f.JPG)
 3. To add emojis, select the**smiley face** below the text box, then select one or more emojis.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![A screenshot of emojis in Slack.](https://www.lifewire.com/thmb/FHo-Uc8Skae8BaAF5wHPABRlvTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dm3-e32526e8c4cd41d9b5ff0f743e125dad.JPG)  
  You can even[create custom Slack emojis](https://www.lifewire.com/how-to-create-custom-slack-emojis-4771679) for your workspace.
 4. To send a document, select the**paperclip** icon, then select a file from your computer.  
@@ -110,12 +158,21 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 1. Select the**+** next to the Direct messages section heading.  
 ![A screenshot of Slack.](https://www.lifewire.com/thmb/eQfe9J2Ba4RAvcPFJ4frCB_dcLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm1-bc42dbe8904144ed883bcbff84f03d34.JPG)
 2. Select the people you want to add to the group direct message, then select**Go** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![A screenshot of creating a group DM in Slack.](https://www.lifewire.com/thmb/3oaz249VWc5bCDkBj1fiWJodYjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm2-19066c2217cd455b9c6bf7981353c614.JPG)
 3. The group direct message functions exactly like your one-on-one direct messages. You can return to this group direct message at any time by selecting it in the menu.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of a group direct message in Slack.](https://www.lifewire.com/thmb/6NqqDDgkRfQVN7l4PLyRcOZBzk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm3-14ee09ca6e2940ffb1bfa35ee2d2d220.JPG)
 4. If you ever want to delete this group direct message, right-click it in the menu, then select**Close conversation** . You can also star it to highlight it or mute it to stop receiving email and push notifications.  
 ![A screenshot showing how to delete a group DM in Slack.](https://www.lifewire.com/thmb/XA-eO0sH2pyvxVsJCWkOUThDVuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gdm4-d5a29fbf66de47f5ae057e0b7ee550fa.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to Place Calls in Slack
 
  Slack allows you to call your team members individually or in a group, and you have the option to use voice or video chat. This makes it really easy to make sure you're always on the same page as your team, rapidly share ideas and confirm plans, and hold remote meetings without the need for any additional teleconferencing software.
@@ -138,18 +195,33 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 2. Select**preferences** .  
 ![A screenshot of Slack preferences.](https://www.lifewire.com/thmb/WOv7IGT1QkRU_yuGnhBAiPUsjwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide2-f53eb57f85fe42808e0d762feef702b9.JPG)
 3. Select**Sidebar** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of Slack sidebar preferences.](https://www.lifewire.com/thmb/ukAdjP7Y9hPjLCAdpNdIzLWyIWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide3-600f01d4b8c44ab7b5698053aca41f5b.JPG)
 4. Select the radial next to**unread conversations only** , or**unread conversations plus your starred section** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of Slack with hidden channels.](https://www.lifewire.com/thmb/NzeUyFXp04_auQ-pnx9f8OgGwL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide4-9f1ffc90916640fe88aab7444c6b8094.JPG)
 5. If you prefer to mute just a single channel or conversation at a time, just right-click that channel, then select**mute channel** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of muting a channel in Slack.](https://www.lifewire.com/thmb/J6GCX7xrD0S44ySgxSFGf9zINaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hide5-ef89e21b02fd4fdfb2633467c277d0b8.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Slack Privacy Settings
 
  If you're using Slack for business purposes, it's a good idea to avoid saying anything you wouldn't normally say in the office in front of your boss. That isn't because your boss can use Slack to snoop on you, but there is a chance that the head of your workspace might be able to export your direct messages and read them.
 
  To check whether or not this is an option on your workspace, log into Slack, navigate to**slack.com/account/team** , then select**Retentions and Exports** . If you see the following message, you're secure:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of Slack data security.](https://www.lifewire.com/thmb/vfjO2rTX8SW1V0HOwKGNjHDp4dQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/data-0b78e06fdc0649aebd91d9eea4400a54.JPG)
 
  If admins also have access to your direct messages, the message will read like this:
@@ -160,12 +232,18 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Workspace retention settings are only available if your organization has a paid plan.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Prevent Outside Sites From Seeing Your Traffic
 
  If you or your team members ever link to outside websites, they will be able to see the full web address of your Slack workspace in the referral. If you want to prevent this from happening, log in to Slack and then navigate to slack.com/admin/settings.
 
  Scroll down and locate**Hide your workspace URL form external sites' logs** , then select**Expand** . Remove the check mark from the box, then select**Save** .
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot of hiding a URL in Slack.](https://www.lifewire.com/thmb/JNWdTvFDMZSXmg7SkcN7Bm_q5jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/url2-490fa0483a424a1d9c458218d5060923.JPG)
 
  If you have a paid plan, as the administrator, you can also adjust global message and file retention and deletion settings from this page.
@@ -181,10 +259,19 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 2. Locate an app you want to integrate with Slack, then select**Add** .  
 ![A screenshot of Slack apps.](https://www.lifewire.com/thmb/0Xx7-IXg4ZZLO5y8yzzLCEFbx-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int2-081d5960e89444b2b32d8939432126e5.JPG)
 3. Select**Add to Slack** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![A screenshot of a Slack app.](https://www.lifewire.com/thmb/zS4-of4fTCB6DaM3P87Sk3Qeb7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int3-06cdd2f2c5794ab7bd3eb347d2478827.JPG)
 4. Continue with the on-screen prompts. In this case, select**Add X Integration** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A screenshot of adding an app to Slack.](https://www.lifewire.com/thmb/9Y4QCgcK-UyqRwny2GdJgNXzuoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int4-095e4977fde44f25b017373ff5489e3c.JPG)
 5. If requested, authorize Slack to access your account with the app you are trying to integrate.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![A screenshot of integrating Twitter with Slack.](https://www.lifewire.com/thmb/koUdxJ-TH65tqDc1bW56BTFRHw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int5-666c3338e13f44d4820ae3b3aeeb5297.JPG)
 6. Adjust the settings to your liking, then select**Save Settings** . The app is now integrated with your Slack workspace.  
 ![A screenshot of integrating an app with Slack.](https://www.lifewire.com/thmb/MlTz9qmFiTdrThZ6dwuQB4Eu5MU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/int6-3841fa9a02e54312ada37ede92cb2970.JPG)
@@ -205,12 +292,20 @@ thumbnail: https://thmb.techidaily.com/93cb6ac8ec609718de42842a42295e1ee84908cc0
 
  Notification options also allow you to choose how desktop push notifications appear, and whether or not to send a ping to your mobile device via the Slack app if you aren't at your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Theme
 
  If you want to[adjust your Slack theme](https://www.lifewire.com/change-customize-slack-themes-4582482) , just select**Themes** or**Messages & media** in the preferences menu. Selecting Themes opens a basic menu that allows you to choose between Slack's dark and light themes. If your eyes have trouble with bright, white websites, the dark theme is great.
 
  Continue scrolling, and you'll find that Slack has a number of other themes that switch up the way the app looks and feels. You can also customize your theme and share it with others if you're feeling creative.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Messages & Media
 
  Select**Messages & media** , and you'll have even greater control over the way different elements of the site are rendered. These options allow you to choose whether user icons are displayed, how messages appear, whether full or display names are shown, and more.

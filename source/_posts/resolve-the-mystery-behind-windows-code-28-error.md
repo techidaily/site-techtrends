@@ -1,7 +1,7 @@
 ---
 title: Resolve the Mystery Behind Windows 'Code 28' Error
-date: 2024-08-04 11:10:30
-updated: 2024-08-05 10:17:55
+date: 2024-08-05T02:02:59.582Z
+updated: 2024-08-06T02:02:59.582Z
 categories:
   - BestProducts
 description: This Article Describes Resolve the Mystery Behind Windows 'Code 28' Error
@@ -16,6 +16,9 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 
  In fact, beginning in[Windows 8](https://www.lifewire.com/windows-8-2626235) , the service pack, as we know it from previous versions of Windows, is essentially a dead idea. Much like updates on your smartphone, Microsoft is continually adding major features through automatic patching.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Latest Major Updates to Windows 11
 
  As of July 2024, the latest major update to [Windows 11](https://www.lifewire.com/windows-11-5188930) is Windows 11 Version 23H2, referred to as the_Windows 11 2023 Update_ . Updating is automatic through Windows Update.
@@ -26,12 +29,18 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 
 [Windows 12](https://www.lifewire.com/windows-12-news-and-rumors-6753587) is the next major operating system expected from Microsoft.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Latest Major Updates to Windows 10
 
  The last major update to [Windows 10](https://www.lifewire.com/windows-10-2626217) is Windows 10 Version 22H2, referred to as the_Windows 10 2022 Update_ . Updating, like in Windows 11, is automatic through Windows Update.
 
  See more about the individual fixes and improvements on Microsoft's[What's New in Windows 10 Version 22H2](https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2) page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Latest Major Updates to Windows 8
 
  The last major update for Windows 8 is the confusingly named Windows 8.1 Update.
@@ -42,6 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 
  Microsoft isn't planning another big update to Windows 8, like a_Windows 8.2_ or_Windows 8.1 Update 2_ . New features, if available, will instead be pushed through updates on[Patch Tuesday](https://www.lifewire.com/patch-tuesday-2625783) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Latest Microsoft Windows Service Packs (Windows 7, Vista, XP)
 
  The last[Windows 7](https://www.lifewire.com/windows-7-2626265) service pack is SP1, but a _Convenience Rollup_ for Windows 7 SP1 (basically an otherwise-named Windows 7 SP2) is also available which installs all[patches](https://www.lifewire.com/what-is-a-patch-2625960) between the release of SP1 (February 22, 2011) through April 12, 2016.

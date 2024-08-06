@@ -1,7 +1,7 @@
 ---
 title: What's Inside ChatGPT? An In-Depth Look at Microsoft’s AI Creation
-date: 2024-08-03 16:14:51
-updated: 2024-08-05 10:38:47
+date: 2024-08-05T02:03:13.998Z
+updated: 2024-08-06T02:03:13.998Z
 categories:
   - BestProducts
 description: This Article Describes What's Inside ChatGPT? An In-Depth Look at Microsoft’s AI Creation
@@ -15,6 +15,9 @@ Close
 
  ChatGPT is an[ artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) (AI) powered[ chatbot](https://www.lifewire.com/twitch-chatbots-4154888) that’s designed to simulate natural human conversation. It's a project of OpenAI, which is the AI research company that’s also responsible for the DALL-E AI art generator.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is It? 
 
  ChatGPT is an AI language model that answers questions and generates text based on prompts. It’s built on a generative[ machine learning](https://www.lifewire.com/artificial-intelligence-vs-machine-learning-5112807) model, which means that it was provided with a large dataset of information and trained to create new text based on the original information.
@@ -23,10 +26,16 @@ Close
 
  It can engage in conversations, answer questions, summarize and condense text, translate between multiple different languages, and even analyze text for emotional subtexts. Its knowledge base is considerable, and it can answer questions on a variety of subjects, and even write and debug computer code.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![The interface for ChatGPT](https://www.lifewire.com/thmb/lPeIxrV65phF3f0tENgwD9xMZAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPTInterface-95912d3e22404cf0a4ce6b6381d97432.jpg) 
 
 OpenAI
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Who Built This? 
 
  ChatGPT was built by OpenAI, which is a research company dedicated to developing and experimenting with artificial intelligence systems. In addition to ChatGPS, OpenAI also has a number of other AI projects in the works.
@@ -35,6 +44,9 @@ OpenAI
 
 [ Who Owns ChatGPT? ](https://www.lifewire.com/who-owns-chatgpt-8659181) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  When Was ChatGPT Released? 
 
  OpenAI launched ChatGPT on November 30, 2022, but it’s built on earlier generative pre-training (GPT) models that OpenAI has been working on since 2018\. The version released in November 2022 was a prototype intended for training and feedback, which is why OpenAI made it available to the public for free.
@@ -45,6 +57,9 @@ OpenAI
 
  The most recent version is Chat-GPT 4o, released in May 2024\. This version returns results more quickly (an average of 320 ms, which OpenAI claims is similar to human response time).
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does It Impact Me? 
 
  ChatGPT probably won’t have any direct impact on your daily life right away, but artificial intelligence systems like this will have wide-ranging consequences in the future. You can use it in a lot of different ways right now, though. You can ask it questions, have conversations, ask it to assist you in writing emails and other documents, and even find bugs in computer code.
@@ -75,6 +90,9 @@ OpenAI
 
 [ How to Use ChatGPT ](https://www.lifewire.com/how-to-use-chatgpt-7197760) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Can I Do With ChatGPT? 
 
  ChatGPT can do a lot of different things, and it will even give you a rundown of its various capabilities if you ask. If you’re excited to get started with ChatGPT, but you aren’t quite sure what to do with it, here are some of its most important capabilities:

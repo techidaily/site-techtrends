@@ -1,7 +1,7 @@
 ---
 title: Are Discord Lag Issues Due to Local Network Errors, or Is the Platform Experiencing Wider Server Outages?
-date: 2024-08-04 22:58:12
-updated: 2024-08-06 12:52:15
+date: 2024-08-05T02:03:15.355Z
+updated: 2024-08-06T02:03:15.355Z
 categories:
   - BestProducts
 description: This Article Describes Are Discord Lag Issues Due to Local Network Errors, or Is the Platform Experiencing Wider Server Outages?
@@ -86,6 +86,9 @@ PHOTO: Amazon
 
  The sturdy four-post design ensures that everything will stay in place, with an 881-pound weight capacity, and you can either floor-mount it in your server room or use the included four casters to keep it more mobile, although the 82-inch height means that you likely won’t be able to move it from room to room.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Wall Mount
 
 [Navepoint 12U](https://www.amazon.com/dp/B00JZVUDLQ/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00JZVUDLQ)
@@ -113,6 +116,9 @@ PHOTO: Amazon
 
  There are also venting slots and dual built-in fans for maintaining equipment cooling on the removable side panels.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best for Adjustability
 
 [Startech 4POSTRACK25U](https://www.amazon.com/dp/B00O6GNLQE/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00O6GNLQE)
@@ -140,6 +146,9 @@ PHOTO: Amazon
 
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
 [Tripp Lite SRW6U](https://www.walmart.com/ip/SRW6U-SmartRack-6U-Low-Profile-Switch-Depth-Wall-Mount-Rack-Enclosure-Cabinet/23502131)
@@ -196,6 +205,9 @@ PHOTO: Amazon
 
  Unfortunately, NavePoint has no cable management accessories, but those are available online.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Extra Large
 
 [Navepoint 45U](https://www.amazon.com/dp/B07F4653D4?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7C)
@@ -269,6 +281,9 @@ PHOTO: Amazon
 
  However, even small businesses can benefit from a server rack to keep their equipment organized and uncluttered while ensuring its safety and security. A good network server rack or enclosure will provide enough room for the equipment that you need while keeping both your gear and the accompanying cables out of harm's way, and they're not just for dedicated server rooms either; in fact, if you have your servers and network equipment in a shared space like a supply room or utility closet, a good server rack or enclosure can be even more critical. We can't count the stories we've heard where a delivery person or office worker has brought down an entire company's network by tripping over a cable.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Size and Type of Equipment**
 
  The first and most obvious thing you'll want to consider is how much you want to put into your rack, not just now but into the future.
@@ -301,6 +316,9 @@ PHOTO: Amazon
 
  Most racks can also be secured to a wall or floor for added stability, which you should consider doing, especially with taller racks. Still, on the other hand, if you have the space and a relatively isolated area, some racks offer support for wheels to allow you to move them around your server room when necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### **Cooling Options**
 
  In considering where your rack will be located, remember that computer equipment generates a lot of heat, and the more you have, the hotter it gets. If you have a climate-controlled server room, then an open rack will be fine, but since most small businesses can't afford to dedicate a whole room just for networking equipment, you'll probably need to give this a bit more thought.
@@ -309,6 +327,9 @@ PHOTO: Amazon
 
  It's also possible to buy rack-mountable fans that generally fit into a 1U space to provide additional cooling support, but you'll still need to leave room around these for airflow.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Physical Security**
 
  While large businesses can deal with physical security at the server room door, most smaller organizations don't have that luxury, and chances are that you'll be installing your servers and other network equipment in a location that other people will have access to.
@@ -329,6 +350,9 @@ PHOTO: Amazon
 
  Don't worry if you're mixing and matching rail-mounted and non-rail-mounted equipment in the same rack, as you can easily snap cage nuts into square rack holes to effectively convert them into threaded holes for your equipment that doesn't use rails. Alternatively, you could use rails to mount everything to avoid cage nuts altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images.jpg](https://www.lifewire.com/thmb/rc_q9ofTd5pecAGouEFQSLea2-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images-56a6f9905f9b58b7d0e5ca48.jpg)
 
  © Maciej Frolow / Photographer's Choice RF / Getty Images
@@ -341,6 +365,9 @@ PHOTO: Amazon
 
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Top Brands**
 
 **Navepoint**
@@ -359,6 +386,9 @@ PHOTO: Amazon
 
  If you’re installing servers into a rack, you’ll also want to add a keyboard and a monitor. While you can use a shelf for this if you have the space, rack-mountable keyboard trays and even flatscreen LCD panels can fold down into a 1U rack space when not in use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
 
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.

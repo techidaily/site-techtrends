@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to 32 Ranked and Analyzed Free Backup Programs Available Today
-date: 2024-08-02 10:26:33
-updated: 2024-08-05 11:51:45
+date: 2024-08-05T02:02:54.389Z
+updated: 2024-08-06T02:02:54.389Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Guide to 32 Ranked and Analyzed Free Backup Programs Available Today
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/M-OesrxYf1IBjpqMMWVgu70IwJg=/540x405/fi
 ---
 
 ## Easy Ways to Schedule a Trip to the Apple Store Today
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Using the Apple Store App is the easiest way to get in and get your device fixed at the Genius Bar.
@@ -25,12 +28,18 @@ thumbnail: https://www.lifewire.com/thmb/M-OesrxYf1IBjpqMMWVgu70IwJg=/540x405/fi
 2. Choose the device you're having trouble with under**My Devices** .
 3. Choose the issue you're facing. For this example, we'll act like our screen is broken, which falls under**Repairs & Physical Damage** , but you might also use**Device Performance** if you think you have a software issue.
 4. Select the specific problem from the next screen.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
 6. Select an Apple Store from the map, and then choose**Schedule** .  
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 ## Using the Apple Store App to Make Appointments
@@ -40,15 +49,24 @@ thumbnail: https://www.lifewire.com/thmb/M-OesrxYf1IBjpqMMWVgu70IwJg=/540x405/fi
 1. Tap your**profile image** on the**Shop** tab in the Apple Store app.
 2. Select**Reservations** .
 3. On the next screen, tap**Find a store** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .

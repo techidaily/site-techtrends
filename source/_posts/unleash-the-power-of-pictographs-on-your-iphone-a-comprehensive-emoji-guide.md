@@ -1,7 +1,7 @@
 ---
 title: Unleash the Power of Pictographs on Your iPhone – A Comprehensive Emoji Guide
-date: 2024-08-02 19:41:49
-updated: 2024-08-05 12:27:59
+date: 2024-08-05T02:03:19.342Z
+updated: 2024-08-06T02:03:19.342Z
 categories:
   - BestProducts
 description: This Article Describes Unleash the Power of Pictographs on Your iPhone – A Comprehensive Emoji Guide
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 
  We have several guides here at Lifewire that might address the specific problem you're trying to fix. Use the search bar at the top of this page to see if we've already covered the topic before you jump into these user guides.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## iPhone User Guide for iOS
 
  This extensive iPhone user guide includes full instructions on how to use your iPhone. If you're looking for a traditional manual, this is it.
@@ -70,6 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 * [iPhone 14 Pro overview](https://support.apple.com/111849)
 * [iPhone 14 Pro Max overview](https://support.apple.com/111846)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## iPhone 13 Series
 
  The[iPhone 13 series](https://www.lifewire.com/iphone-13-news-5084086) was unveiled in September 2021\. It included the iPhone 13, iPhone 13 mini, iPhone 13 Pro, and iPhone 13 Pro Max. The collection mirrored the 12 series with its four variants and brought camera upgrades, generous additional storage, an A15 Bionic Processor, new design elements (a bit thicker and heavier but with a smaller notch), and more.
@@ -81,6 +87,9 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 * [iPhone 13 Pro overview](https://support.apple.com/111871)
 * [iPhone 13 Pro Max overview](https://support.apple.com/111870)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## iPhone 12 Series
 
  The[iPhone 12](https://www.lifewire.com/iphone-12-news-5078515) was similar to previous models, especially the [iPhone 11 series](https://www.lifewire.com/iphone-11-vs-iphone-11-pro-4770054) , in many ways. It also introduced some significant changes, including 5G integration, a LIDAR sensor, improved photos and videos, Super Retina XDR, design enhancements, new processors, etc.
@@ -92,6 +101,9 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 * [iPhone 12 Pro overview](https://support.apple.com/111875)
 * [iPhone 12 Pro Max overview](https://support.apple.com/111874)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## iPhone 11 Series
 
  The 2019 version of the iPhone added more cameras and features to the smartphone.
@@ -102,6 +114,9 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 * [iPhone 11 Pro overview](https://support.apple.com/111879)
 * [iPhone 11 Pro Max overview](https://support.apple.com/111878)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPhone X Series
 
  The iPhone X and the iPhone XR and XS marked a full decade of Apple smartphones.
@@ -149,6 +164,10 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 * [iPhone 6s overview](https://support.apple.com/111952)
 * [iPhone 6s Plus overview](https://support.apple.com/111996)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## iPhone 5 Series (5, 5S, and 5C)
 
  The iPhone 5 was the first iPhone with a screen larger than the 3.5 inches the original models sported. This one has a 4-inch screen. At the same time the phone debuted, Apple introduced its new EarPods, replacing the old earbuds that came with earlier iPhones. Documents here include some quick tips for using the iPhone 5 and instructions for using the EarPods.
@@ -161,6 +180,9 @@ thumbnail: https://www.lifewire.com/thmb/DaXItK8sSsEwaEX_XCJ97xPwtBg=/400x300/fi
 * [iPhone 5s overview](https://support.apple.com/111973)
 * [iPhone 5c overview](https://support.apple.com/111917)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## iPhone 4 Series (4 and 4S)
 
  The iPhone 4 became famous—or, more rightly, infamous—for the "death grip" problem with its antenna. You probably won't find mention of that in either of these downloads.

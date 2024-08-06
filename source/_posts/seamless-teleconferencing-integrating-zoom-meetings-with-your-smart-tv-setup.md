@@ -1,7 +1,7 @@
 ---
 title: "Seamless Teleconferencing: Integrating Zoom Meetings with Your Smart TV Setup"
-date: 2024-08-03 11:49:42
-updated: 2024-08-05 12:31:13
+date: 2024-08-05T02:02:59.206Z
+updated: 2024-08-06T02:02:59.206Z
 categories:
   - BestProducts
 description: "This Article Describes Seamless Teleconferencing: Integrating Zoom Meetings with Your Smart TV Setup"
@@ -13,6 +13,9 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * Chromecast: Select Chrome's**three-dot menu** and then go to**Save and share** \>**Cast** \>**Sources** \>**Cast screen** .
@@ -21,6 +24,9 @@ Close
 
  This article outlines how to cast a Zoom meeting from your computer or smartphone using Chromecast, Roku, and AirPlay.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Cast Zoom to a TV With Chromecast 
 
  One of the easiest ways to do a Zoom cast is with a[ Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) . Some TVs have Chromecast built-in, but it's also available as a separate streaming device. It lets you cast your whole computer, a single browser tab, or your phone screen.
@@ -36,6 +42,9 @@ Close
 ![The Cast Screen option selected on the Zoom website](https://www.lifewire.com/thmb/7z_JqKyGRJg1d0REYQDHSwZq_-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zoom-cast-screen-e894e6db218d4e28aff76b5883311fc9.png)  
  Choose**Cast tab** if you're using the Zoom web client (i.e., the meeting exists in your Chrome browser). The**Cast screen** option will[ cast your whole desktop to your TV](https://www.lifewire.com/use-chromecast-to-show-windows-desktop-4129536) , which is necessary if Zoom is running through the desktop app.
 4. You’ll see a pop-up window where you can select which monitor to cast. Choose the one that’s displaying the Zoom meeting and select**Share** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of sharing Zoom meeting in Windows.](https://www.lifewire.com/thmb/m5r5LnQNLNNwLyy4STK8APeSud8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-CastaZoomMeetingtoYourTV-annotated-48252d1f6ed4401390d9607a9837b372.jpg)
 
  Although you can watch the TV to see everyone in the meeting, your laptop webcam is still the one participants use to see you, so try to keep your computer in front of you to appear more natural during the meeting. Alternatively, you could[ get an external webcam](https://www.lifewire.com/before-you-buy-a-webcam-2640480) for some flexibility with where you sit.
@@ -51,10 +60,16 @@ Close
 ![Screenshot of the steps to take to cast a screen on Google Home app.](https://www.lifewire.com/thmb/Wggr1xhBnB-1ye16xuglB-7u0G0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B4-CastaZoomMeetingtoYourTV-annotated-031297447e9f4f07b1703d0bda0a41ec.jpg)  
  Turn your phone to landscape mode so the call fills the entire screen. Also, consider[ going into Do Not Disturb mode](https://www.lifewire.com/use-do-not-disturb-on-android-4688870) to avoid alerts that might go off during the meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Use Roku for Casting Zoom to a TV 
 
  Roku users are in luck! Much like Chromecast, the[ screen mirroring feature built-in to Roku](https://www.lifewire.com/cast-to-roku-from-another-device-4176162) can display a Zoom call on the TV via a phone or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Cast Zoom From a Computer 
 
  Here's how it works in Windows 11 and Windows 10:
@@ -63,8 +78,14 @@ Close
  If you're on Windows 10, go to**Settings** \>**Devices** \>**Bluetooth & other devices** , and then select**Add Bluetooth or other device** .  
 ![Screenshot of bluetooth settings on Windows 10.](https://www.lifewire.com/thmb/jJU6RCF6ww0UcCDSK1xyeFYqaxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-CastaZoomMeetingtoYourTV-annotated-ba722614ac3a4a4386cf7314f980f67b.jpg)
 2. Select**Wireless display or dock** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Screenshot of Wireless display or dock setting in Windows 10.](https://www.lifewire.com/thmb/B0RCz1FLiBy1d1lxw10tKUgE80M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-CastaZoomMeetingtoYourTV-annotated-e38604814ec7479d934a252a3bbfba4f.jpg)
 3. Select your**Roku** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of Roku device detected from Windows 10.](https://www.lifewire.com/thmb/b15vBIpL3ELHibLzIRXFplIEQus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-CastaZoomMeetingtoYourTV-annotated-1d00c19380d741a7b49ea04b827205ae.jpg)  
  Depending on your Roku's screen mirroring options, you may need to accept the casting prompt on the TV.
 4. Select**Change projection mode** \>**Duplicate** to have Roku duplicate the screen that’s displaying your Zoom meeting.  
@@ -83,6 +104,9 @@ Close
 4. You might need to select**Allow** on the TV to accept the request.
 5. Switch to the Zoom app and position your device in landscape mode to see Zoom cast on your TV.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using AirPlay to Cast Zoom 
 
  You can[ mirror your device using AirPlay](https://www.lifewire.com/use-airplay-mirroring-1999190) and Apple TV from macOS or iOS.

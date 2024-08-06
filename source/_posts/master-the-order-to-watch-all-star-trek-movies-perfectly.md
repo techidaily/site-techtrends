@@ -1,7 +1,7 @@
 ---
 title: Master the Order to Watch All Star Trek Movies Perfectly
-date: 2024-08-04 20:53:11
-updated: 2024-08-06 10:39:15
+date: 2024-08-05T02:03:04.153Z
+updated: 2024-08-06T02:03:04.153Z
 categories:
   - BestProducts
 description: This Article Describes Master the Order to Watch All Star Trek Movies Perfectly
@@ -18,10 +18,16 @@ thumbnail: https://www.lifewire.com/thmb/-c66fCJdegsiMXdoA8hqzm5FQQ0=/400x300/fi
 
  This article explains how to watch all the_Superman_ movies in order of release and by series, along with some non-linear ways to watch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Note
 
  While they’re not featured on this list, several serials were created in 1948 and 1950, which you can find on YouTube. And in 1951, Superman appeared in an independent black-and-white film called_Superman and the Mole Men_ , and that’s available on Amazon.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Watch the 'Superman' Movies in Release Order
 
  If you have a healthy chunk of time to spare for a movie marathon, you could easily get through the original four_Superman_ movies in a weekend.
@@ -56,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/-c66fCJdegsiMXdoA8hqzm5FQQ0=/400x300/fi
 
  You could also break up your viewing with a couple of strategic groupings by series.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### The Christopher Reeve Era
 
  These films feature many fans' favorite Superman, Christopher Reeve, who played both the strong and confident Man of Steel and the bumbling, mild-mannered Clark Kent perfectly.
@@ -70,6 +79,10 @@ thumbnail: https://www.lifewire.com/thmb/-c66fCJdegsiMXdoA8hqzm5FQQ0=/400x300/fi
 | _Superman IV: The Quest for Peace_ | Max                |
 | _Superman Returns_                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### DC Extended Universe
 
  The DCEU ran from 2013 (_Man of Steel_ ) to 2023 (_Aquaman and the Lost Kingdom_ ). Henry Cavill plays Superman in this franchise, and the character appears in several installments.
@@ -87,6 +100,9 @@ thumbnail: https://www.lifewire.com/thmb/-c66fCJdegsiMXdoA8hqzm5FQQ0=/400x300/fi
 | _Peacemaker_ (TV-2022)                      | Brad Abramenko plays Superman in a non-speaking role.                                                | Max                |
 | _The Flash_ (2023)                          | Cavill–along with several other former Superman actors–appears in a multiversal hub.                 | Max                |
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternate Ways to View the 'Superman' Movies
 
  If you’re less concerned about chronological order or release order and more interested in comparing similar storylines, here are a few suggested non-linear pairings.
@@ -103,6 +119,9 @@ thumbnail: https://www.lifewire.com/thmb/-c66fCJdegsiMXdoA8hqzm5FQQ0=/400x300/fi
 
  As for the newer options, you have your pick between a few. You could opt for the stand-alone retelling in the mid-aughts or a_Man of Steel_ /_Batman v. Superman_ /_Justice League_ triple-feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ‘Superman’ (2025)?
 
  The upcoming_Superman_ , directed by_The Suicide Squad_ writer-director James Gunn, is the start of the next franchise of DC movies: the DCU. It was formerly called_Superman: Legacy_ .

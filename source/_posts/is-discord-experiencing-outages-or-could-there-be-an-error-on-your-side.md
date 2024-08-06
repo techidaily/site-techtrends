@@ -1,7 +1,7 @@
 ---
 title: Is Discord Experiencing Outages? Or Could There Be an Error on Your Side?
-date: 2024-08-03 19:55:59
-updated: 2024-08-05 11:12:27
+date: 2024-08-05T02:03:14.615Z
+updated: 2024-08-06T02:03:14.615Z
 categories:
   - BestProducts
 description: This Article Describes Is Discord Experiencing Outages? Or Could There Be an Error on Your Side?
@@ -47,8 +47,14 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Use Your Apple Pencil to Create Notes and Random Doodles: Nebo](https://www.nebo.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screen Shot of iPad Note-Taking App, by MyScript Nebo Note Taking for Apple Pencil MyScript](https://www.lifewire.com/thmb/sU5EreLEah9rV3MqdHzdXWnYjmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.57.47PM-5b4421d6c9e77c00540a7c4b.png)
 
  What We Like
@@ -101,8 +107,14 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## [The Tools You Need to Finally Finish That Novel: Transom](https://apps.apple.com/us/app/transom-note-taking-for-writers/id927983947)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
 
  What We Like
@@ -129,6 +141,9 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
 
 ![Screen Shot of iPad app, Notes Plus by Viet Tran](https://www.lifewire.com/thmb/CdWqVs7w56VEyDvNrM4DKZLuBUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at7.51.16PM-5b4546d0c9e77c00372e65a0.png)
@@ -159,6 +174,9 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
@@ -191,6 +209,9 @@ of 07
 
 ## [Protect Your Thoughts, Ideas, Files: GoodNotes 6](https://www.goodnotes.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GoodNotes 5](https://www.lifewire.com/thmb/MjU51U1vy_MrNO2GF679jhCRDLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-01-20at6.25.22PM-9a3a3db8275544498ecbcf8db5bb5c98.jpg)
 
  What We Like

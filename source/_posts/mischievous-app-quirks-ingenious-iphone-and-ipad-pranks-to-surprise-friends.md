@@ -1,7 +1,7 @@
 ---
 title: "Mischievous App Quirks: Ingenious iPhone & iPad Pranks to Surprise Friends"
-date: 2024-08-04 14:37:19
-updated: 2024-08-06 12:32:31
+date: 2024-08-05T02:03:15.684Z
+updated: 2024-08-06T02:03:15.684Z
 categories:
   - BestProducts
 description: "This Article Describes Mischievous App Quirks: Ingenious iPhone & iPad Pranks to Surprise Friends"
@@ -16,8 +16,14 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## [Use Siri to Set Reminders, Alarms, Events, Etc.](https://www.lifewire.com/what-is-siri-help-1994303)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Woman uses voice recognition with smart phone](https://www.lifewire.com/thmb/nCoMZ6heVUND0wk1Jvc09Sezux0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1068618284-32b8bee5ac544f198c5fe6e8c10dee35.jpg)
 
  metamorworks / Getty Images
@@ -38,6 +44,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## [The Screenshot Background](https://www.lifewire.com/take-screenshot-on-any-device-5087162)
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
@@ -69,6 +78,9 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
@@ -85,6 +97,10 @@ of 06
 
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
 
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
@@ -99,6 +115,9 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)

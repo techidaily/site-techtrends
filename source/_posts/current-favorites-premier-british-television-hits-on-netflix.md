@@ -1,7 +1,7 @@
 ---
 title: "Current Favorites: Premier British Television Hits on Netflix"
-date: 2024-08-05 15:40:51
-updated: 2024-08-06 12:15:31
+date: 2024-08-05T02:03:24.834Z
+updated: 2024-08-06T02:03:24.834Z
 categories:
   - BestProducts
 description: "This Article Describes Current Favorites: Premier British Television Hits on Netflix"
@@ -14,22 +14,41 @@ thumbnail: https://thmb.techidaily.com/e0d972d2fcbdfdcba3e132e48f8036c4f80fa7e20
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
 
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :

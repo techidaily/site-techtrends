@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Restoring Connection with Your Alexa-Enabled Device
-date: 2024-08-05 21:52:41
-updated: 2024-08-06 12:43:56
+date: 2024-08-05T02:03:13.730Z
+updated: 2024-08-06T02:03:13.730Z
 categories:
   - BestProducts
 description: This Article Describes Essential Guide to Restoring Connection with Your Alexa-Enabled Device
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/Oa9ssmoGq8igFyTtMNVTCaMz28c=/540x405/fi
 ---
 
 ## How-To Article: Successfully Pairing Your Phone or Tablet with an LG Screen Mirroring Function
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * There are several ways to do[screen mirroring](https://www.lifewire.com/what-is-screen-mirroring-4154335) on LG TVs, including using Screen Share and casting.
@@ -42,11 +45,20 @@ thumbnail: https://www.lifewire.com/thmb/Oa9ssmoGq8igFyTtMNVTCaMz28c=/540x405/fi
 3. Select your TV to initiate the connection. It might take a few moments for the phone to detect the TV. Both devices will display their connection status.  
 ![Example of Android phone establishing screen mirroring connection with LG Smart TV](https://www.lifewire.com/thmb/mpy75cW_zM7zcsj8V9wWwfQWP1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-home-screen-mirroring-connect-lg-tv-altbbb-9f7601ec0edf4860981c734e2794e301.jpg)
 4. Your smartphone's or tablet's screen will be displayed on the LG TV when the process is completed.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Example of Android phone screen mirroring connection established with LG Smart TV](https://www.lifewire.com/thmb/cMdkY1DAmwFibIsK-EKfdFhF0Jk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-now-connected-2150-dark-yellow-XXX-5a4de59a88c44948b426de00c63f429a.jpg)
 5. Here's how mirrored content from a smartphone looks on an LG Smart TV with Screen Share.  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Mirroring Smartphone to LG TV with Miracast](https://www.lifewire.com/thmb/ruHP7IIx9N-BcA725jjrtPQJAjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-lg-tv-screen-mirroringexample-xxbb-841baa900fec41bdab2998235167f774.jpg)
 6. To end a screen mirroring session, tap**Disconnect** in your phone's screen mirroring settings (if provided), turn the device off, change to a different function on the TV, or turn the TV off. If you're playing content from a specific app, it will cease playing if you use another function on your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Screen Mirroring With iPhones and iPads
 
  If you have an[LG TV that supports Apple AirPlay 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lg.com%2Fus%2Fsupport%2Fhelp-library%2Fhow-to-use-airplay-what-lg-tvs-support-airplay-2-CT10000020-20151097893431) , you can[stream directly from your iPhone or iPad](https://www.lifewire.com/airplay-from-iphone-to-tv-5194877) . Just open**Home Dashboard** on your TV and go to**AirPlay** \>**AirPlay and HomeKit Settings** \>**AirPlay** .
@@ -63,6 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/Oa9ssmoGq8igFyTtMNVTCaMz28c=/540x405/fi
  You can also mirror a PC or laptop to an LG TV by searching for the TV from your computer.
 
 1. Open the**Screen Share** app on your TV.  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![LG Smart TV Screen Share Option](https://www.lifewire.com/thmb/kHtO3vP7h9ZFrngIqtX4T75_Q0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-screen-share-page-test-1500-XXX-f0f1dfe7cfce4e088e91b4dfafde5ac7.jpg)
 2. On your PC, open**Settings** and then go to**Bluetooth & devices** (Windows 11) or**Devices** (Windows 10).  
 ![Window Settings on PC – Devices Highlighted](https://www.lifewire.com/thmb/9PeiuIQccHykMbh2DA1BCdgmvlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-settings-yellow-aaa-8de67d373ba54a53b4d8d0491d32a618.jpg)
@@ -71,10 +87,19 @@ thumbnail: https://www.lifewire.com/thmb/Oa9ssmoGq8igFyTtMNVTCaMz28c=/540x405/fi
 4. Choose**Add device** (Windows 11) or**Add a device** (Windows 10), then select**Wireless display or dock** .  
 ![PC/LG TV Mirroring – Choose a Device](https://www.lifewire.com/thmb/1c4dzWS071ZzmcGBd7RHxKYEUJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-device-type-dark-wc-e-8d2b6aa322af4219ac846991525ea656.jpg)
 5. Select your LG TV and wait for confirmation.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![PC Connecting to LG TV Screen Mirroring](https://www.lifewire.com/thmb/9lwYMBlwtr4T0jtgl0uLgQ6I9bk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-connectiing-640-dark-yellow-d-ba969575c6254a22b5009b2ee77d5d99.jpg)
 6. Once your connection is confirmed, make sure the projection mode is set to**Duplicate** so that you will get an exact mirror of your PC screen on the TV.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![PC/LG TV Mirroring – Device Connection Confirmed](https://www.lifewire.com/thmb/DdqNIFKjpoJwGTVMlMB7NnRy4-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/device-ready-to-go-2-dark-yellow-3e33344164384c48b1325945f03f0406.jpg)
 7. Once the PC steps are complete, everything visible on your PC screen is mirrored on the LG Smart TV.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PC Screen Mirroring to LG TV with Miracast](https://www.lifewire.com/thmb/olpSOMHbRQoMziI_46ZqaneUjX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pc-on-lg-tv-flowers-1500-xxx-30f2b584940b421da1c8a21fb4079ed3.jpg)
 8. To end a screen mirroring session, select the**Disconnect** prompt in the small black rectangular box on the top of the PC screen, change to a different function on the TV, or turn the TV off.
 
@@ -103,14 +128,23 @@ thumbnail: https://www.lifewire.com/thmb/Oa9ssmoGq8igFyTtMNVTCaMz28c=/540x405/fi
 ![Cast YouTube to LG Smart TV](https://www.lifewire.com/thmb/jWT5sXqTMWE8Bg-V39yWX-CCogc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cast-you-tube-to-lg-smart-tv-1-2-yellow-efd95f194cdb4908a3321b98e97bb2de.jpg)  
  If you see the cast icon but your TV isn't listed as an available device, then the content can't be cast to the LG TV without an external Chromecast device.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Content Share Option
 
  While Screen Share is the most direct way to mirror a smartphone or PC screen on your smart TV, LG provides additional options via the TV's Device Connector settings.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![LG Smart TV – Device Connector Icon on Home Screen](https://www.lifewire.com/thmb/Qw-X7F8OC8KOcavYDWXwN4HFSGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-device-connect-home-screen-app-icon1900-dark-yellow-bbb-1ddcb6818a5b4532bea7ebd0ab894c6b.jpg)
 
  When the Device Connector is selected from the home screen, you're taken to a menu that includes connection options for all devices, including a smartphone or PC.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![LG TV Device Connector Menu – Smartphone and PC Highlighted](https://www.lifewire.com/thmb/UcrKTZRJKkxZfNIqdbkvv8ublUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-device-connector-alt-a-31cba54fe9934fd6b86358d1f57037b6.jpg)
 
  The Screen Share app can also be accessed by the LG TV's Device Connector in addition to direct access from the home menu. However, since its function was discussed earlier, the following focuses on the**Content Share** option, which can only be accessed within the Device Connector.
@@ -123,12 +157,19 @@ thumbnail: https://www.lifewire.com/thmb/Oa9ssmoGq8igFyTtMNVTCaMz28c=/540x405/fi
 
  When the steps are completed, you'll see a photo, music, and video file sharing menu on your LG TV screen. This allows you to play compatible files in those categories from your smartphone on your LG TV.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![LG Smart TV Content Share – HTC Media Share](https://www.lifewire.com/thmb/mhpEm7CV8AqoRFqO4BMEncu8b_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-tv-htc-media-share-bb-1800-fb271df2b1f74df09d9c3c081fba7d66.jpg)
 
 ### Device Connector PC Connection Prompt
 
  Content Share also allows an LG Smart TV to access and play compatible music, photo, and video files stored on a PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![LG TV Device Connector – Content Share with PC](https://www.lifewire.com/thmb/cgEUq5sdk24ffJnIwoSHgPoZxHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pc-lg-content-share-device-connector-www-506d81421b50422ba45c569c197bc22b.jpg)
 
  The[LG Smart Share App](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lg.com%2Fus%2Fsupport%2Fhelp-library%2Fsmart-share-downloads-CT10000018-1427120133847) needs to be installed on your computer for the Content Share feature to work with both the PC and TV.

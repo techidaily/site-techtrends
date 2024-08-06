@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop: What's Next for the New M4 Mac Mini – Price Estimates and Specs Unveiled"
-date: 2024-08-05 15:52:54
-updated: 2024-08-06 12:37:30
+date: 2024-08-05T02:03:08.510Z
+updated: 2024-08-06T02:03:08.510Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop: What's Next for the New M4 Mac Mini – Price Estimates and Specs Unveiled"
@@ -21,20 +21,34 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 
  Apple's next-generation Mac Mini is expected to be built around the[ Apple M4 chip](https://www.lifewire.com/apple-m4-chip-8640914) , come in two versions, and cost the same as current models. This article collects all of the news and rumors about the Mac Mini M4, including its features, price, release date, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  What Is the M4 Mac Mini Release Date? 
 
  We don't know the M4 Mac Mini release date just yet, and Apple doesn't release new Mac Minis on a consistent schedule[ the way it does iPhones](https://www.lifewire.com/iphone-17-8612548) .
 
  That said, Marc Gurman of Bloomberg—the most plugged-in of Apple reporters—[ says that the M4 Mac Mini will debut](https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew) in late 2024 or early 2025\. Apple often introduces new Macs in the fall (usually in October or November, after the latest iPhone has gone on sale), so this is a safe bet.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Mac Mini M4 Price Rumors 
 
  The Mac Mini M4 will likely cost about the same as current models. Apple often keeps the prices of new models of existing products the same year after year, so this makes sense.
@@ -57,10 +71,22 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Latest News About the Mac Mini M4 
 
  Stay up to date on all the latest news, rumors, and opinions with Lifewire's[ coverage of desktop and laptop computers](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . You might be interested in these articles about other Apple products:

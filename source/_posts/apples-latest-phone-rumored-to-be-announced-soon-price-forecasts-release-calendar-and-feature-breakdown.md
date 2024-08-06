@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Phone Rumored to Be Announced Soon: Price Forecasts, Release Calendar & Feature Breakdown"
-date: 2024-08-03 13:43:12
-updated: 2024-08-05 11:32:25
+date: 2024-08-05T02:03:22.965Z
+updated: 2024-08-06T02:03:22.965Z
 categories:
   - BestProducts
 description: "This Article Describes Apple's Latest Phone Rumored to Be Announced Soon: Price Forecasts, Release Calendar & Feature Breakdown"
@@ -37,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
 A September 2025 release date seems like a lock.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -47,6 +52,9 @@ A September 2025 release date seems like a lock.
 
  So, the iPhone 17 price might vary a little, but a starting price around $799 is a safe bet, with the cost going up based on screen size and storage. And of course, the Pro version will be more expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
@@ -84,6 +92,9 @@ A September 2025 release date seems like a lock.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Camera
 
  Rumors suggest at least three key improvements to the iPhone 17 series cameras.
@@ -96,14 +107,24 @@ A September 2025 release date seems like a lock.
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About iPhone 17
 
  We'll update this page regularly, as more news about the iPhone 17 becomes available. In the meantime, Lifewire has you covered for[smartphone news](https://www.lifewire.com/mobile-phones-4781509) and advice such as helping you decide[Which iPhone Should You Buy?](https://www.lifewire.com/pick-best-iphone-for-you-1999293)

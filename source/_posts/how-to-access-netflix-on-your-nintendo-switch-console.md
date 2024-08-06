@@ -1,7 +1,7 @@
 ---
 title: How to Access Netflix on Your Nintendo Switch Console
-date: 2024-08-03 15:57:45
-updated: 2024-08-06 11:39:47
+date: 2024-08-05T02:03:15.809Z
+updated: 2024-08-06T02:03:15.809Z
 categories:
   - BestProducts
 description: This Article Describes How to Access Netflix on Your Nintendo Switch Console
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/izMfZpjd8xOgqjVZm8JL_Z4sWyc=/400x300/fi
 
  Fixes in this article apply to all Wi-Fi-enabled[smart televisions](https://www.lifewire.com/what-is-a-smart-tv-4140172) .
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of Vizio TV Not Connecting to Wi-Fi
 
  When you first set up your smart TV, you must[connect the Vizio TV to Wi-Fi](https://www.lifewire.com/how-to-connect-vizio-tv-to-wi-fi-4589237) before you can use any of the[Vizio apps](https://www.lifewire.com/add-manage-apps-vizio-tv-4172016) like Netflix and Hulu. If the TV can't access the internet, it could be due to a few reasons:
@@ -25,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/izMfZpjd8xOgqjVZm8JL_Z4sWyc=/400x300/fi
 
  To test the connection, go to**Menu** \>**Network** , or**Settings** , and then select**Test Connection** . If a download speed appears, it means the TV is connected to the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix It When a Vizio TV Can't Connect to Wi-Fi
 
  Try these steps in order until your Vizio smart TV connects to your Wi-Fi network:

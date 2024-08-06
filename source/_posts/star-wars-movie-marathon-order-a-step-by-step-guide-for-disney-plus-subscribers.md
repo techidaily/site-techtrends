@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Movie Marathon Order: A Step-by-Step Guide for Disney Plus Subscribers"
-date: 2024-08-03 22:41:12
-updated: 2024-08-06 11:24:21
+date: 2024-08-05T02:03:18.785Z
+updated: 2024-08-06T02:03:18.785Z
 categories:
   - BestProducts
 description: "This Article Describes Star Wars Movie Marathon Order: A Step-by-Step Guide for Disney Plus Subscribers"
@@ -19,6 +19,9 @@ Close
 
  This article only covers_Star Wars_ movies that were released theatrically. It doesn't include TV movies, animation like_Clone Wars_ , or TV series like_The Mandalorian_ .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ##  How to Watch ‘Star Wars’ in Chronological Order 
 
  Want to watch Star Wars movies in the order that the story takes place in the world of the characters? Then here's the order you should follow.
@@ -39,10 +42,17 @@ Close
 
  Want to watch these movies all in one long, amazing binge? Well, you better set aside a whole weekend. Altogether, the movies run a total of 1,489 minutes or just under 25 hours. Add in some time for meals, bathroom breaks, and maybe a little sleep and it will take you the better part of two days to watch all of the_Star Wars_ movies.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Donnie Yen in 'Rogue One'](https://www.lifewire.com/thmb/o5nESGsaaE5Tn28YPePDta4pRE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rogue-one-teaser-35-570679e35f9b581408cda910.jpg) 
 
 Lucasfilm Ltd. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  How to Watch ‘Star Wars’ in Order of Release 
 
  Prefer to watch_Star Wars_ movies in release order, starting with the original_Star Wars trilogy_ , so you can get the feeling of what it was like to go to the theater to see them? Then this is the order you use.

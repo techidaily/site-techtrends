@@ -1,7 +1,7 @@
 ---
 title: What Is Aether? Comprehensive Overview & How to Participate in Its Community
-date: 2024-08-03 23:23:31
-updated: 2024-08-05 12:42:46
+date: 2024-08-05T02:03:13.094Z
+updated: 2024-08-06T02:03:13.094Z
 categories:
   - BestProducts
 description: This Article Describes What Is Aether? Comprehensive Overview & How to Participate in Its Community
@@ -15,6 +15,9 @@ Close
 
  Aether is a distributed, peer-to-peer discussion platform similar to Reddit, but with a stronger focus on privacy, resisting censorship, and giving more control to users. Because[ Aether's platform](https://aether.app) is peer-to-peer, each user is a publisher and server unto themselves, giving them maximum control over what's published, what they see, and what communities they join. This article explains Aether, looks at how to sign up and what it costs, and how Aether compares to Reddit and X (formerly Twitter).
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Aether? 
 
 ![A screenshot of the Aether app on a Mac](https://www.lifewire.com/thmb/7w6CZUfKL5XADA7AEjQn1Ovy8-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aether-app-3f2bd81e290a4e17bd56810bbda6f362.jpg) 
@@ -31,10 +34,16 @@ Close
 
  Aether is intended for a much more technical audience. It's best for people who know what "globs" or stars are when it comes to allow-lists for domains, and who understand crypto and[ blockchain](https://www.lifewire.com/what-is-web3-5271876#toc-are-there-any-examples-of-web3-today) well enough to grasp the explanation of why Aether isn't based on the blockchain.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ###  Aether Pro
 
  The company touts Aether Pro, "a private, team-based version of Aether as a collaboration tool, like Slack." This version of the platform offers live chat rooms, structured discussion threads, email newsletters, and more. However, nothing on the site indicates what it costs or how to sign up for it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Many People Use Aether? 
 
  The company doesn't publish this information. In[ a 2021 interview with a co-founder of the platform](https://thenewstack.io/aether-a-decentralized-reddit-with-self-moderation-and-privacy/) , he said Aether has about 2,000 users. By contrast, Reddit claims 52 million users.
@@ -45,6 +54,9 @@ Close
 
  Aether does not use blockchain. For the technical reader, Aether provides[ a long, very detailed explanation of the technology used to create and operate](https://getaether.net/docs/faq/aether%5Fcryptography/) the platform.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  How Do I Join Aether? 
 
  Joining Aether is easy: Just[ download the peer-to-peer desktop app](https://getaether.net) (it's available for Windows, Mac, and Linux).
@@ -59,6 +71,9 @@ Close
 
  While the app and website both mention that users can support the platform via[ Patreon](https://www.patreon.com) , those links are broken and a search at Patreon doesn't return anything relevant.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How Does Aether Compare to Reddit and X? 
 
 ###  Aether vs. Reddit and X
@@ -83,6 +98,10 @@ Close
 * Algorithmic delivery of content (on X)
 * Unique usernames
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Conclusion 
 
  Aether may be of interest to a certain kind of user. The promise of a decentralized, unmoderated discussion space is just what some people are looking for. However, with such a small user base, it remains to be seen if the service catches on with more people. As of right now, its small user base can't come close to matching the breadth of Reddit or X.

@@ -1,7 +1,7 @@
 ---
 title: "Futureproof Your Device: Elite List of Immune Smartphone Cases Against Water Damage"
-date: 2024-08-05 18:53:17
-updated: 2024-08-06 12:30:27
+date: 2024-08-05T02:03:07.760Z
+updated: 2024-08-06T02:03:07.760Z
 categories:
   - BestProducts
 description: "This Article Describes Futureproof Your Device: Elite List of Immune Smartphone Cases Against Water Damage"
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Advanced Techniques for Fixing a Wet iPhone
 
  The simplest and probably safest method to save a wet iPhone is to let it dry out naturally. But there are a couple of advanced options you can try to speed up the process:
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 2. **Put it in rice.** This is the most famous technique (though not necessarily the best). Get a ziplock bag big enough to hold the wet iPhone or iPod and some rice. Re-insert the SIM card, put the device in the bag, and fill most of the bag with uncooked rice. Leave it in the bag for a couple of days. The rice should draw the moisture out of the device. Many a wet iPhone has been saved this way. Just watch out for pieces of rice getting inside the phone.  
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -48,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -55,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -63,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Efficiency: The Ultimate Guide to Setting Up Slack Notifications"
-date: 2024-08-02 14:40:17
-updated: 2024-08-05 10:10:46
+date: 2024-08-05T02:03:01.961Z
+updated: 2024-08-06T02:03:01.961Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Efficiency: The Ultimate Guide to Setting Up Slack Notifications"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/514117a3021a33f37a1de87989ac5aafb2c56d537
 ---
 
 ## Mastering Efficiency: The Ultimate Guide to Setting Up Slack Notifications
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * In the comment field, type**/remind** followed by the person you want to remind, the reminder, and the date for the reminder.
@@ -18,14 +21,24 @@ thumbnail: https://thmb.techidaily.com/514117a3021a33f37a1de87989ac5aafb2c56d537
 
  If you work with remote team members, you're probably familiar with Slack as a collaboration tool. But did you know that Slack also has a powerful, built-in task reminder system? Slack reminders are a great way to remember things like work tasks, personal appointments, or birthdays. Here's how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Add a Reminder in Slack
 
  The correct syntax to add a reminder in slack is simple. There are three parts to the command, and once you add it, Slack will remind either you or someone else with the reminder text you specify, at the time that you've stated.
 
 1. To see how the command needs to be set up, log in to Slack and, in the comment field, type**/remind** . A pop-up will show you how to structure the command.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![/remind in comment field](https://www.lifewire.com/thmb/JfagLg56YIHsOoAPjrF9H7yGFrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremind-5f0ca162e03b45e4aaf16a79ff623134.jpg)
 2. Always precede the name of the person with the**@** symbol or the name of the channel with the**#** symbol. If you're reminding yourself, just use**me** without the @ symbol. Follow the /remind command with the person you want to set the reminder for, the reminder, and the date for the reminder. Like this:  
 _/remind me "reminder" 4/29/2020 9:15 PM_  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reminder in Slack comment field](https://www.lifewire.com/thmb/Y_JaemDUyAZIyqIKuDZj3PtsRqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslackcommentfield-65f035cb01d248c89a768e5c87c5f919.jpg)  
  You can use a number of formats to define the time. Specify only the time for today, state the date in most formats, or write any day of the week. You can also use recurring terms like "every Monday and Friday" or "every weekday". If you don't specify time, it'll default to 9:00 AM on the day you specify.
 3. When you press**Enter** , you'll see a message confirming that Slack will remind you at the date and time you specified. You'll also see buttons to**Delete** the reminder or**View Reminders** that you've already set.  
@@ -34,11 +47,17 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## How to Edit a Reminder in Slack
 
  Editing or updating a reminder takes a few extra steps, because you can't edit reminders directly. First, you need to find the reminder you want to edit, delete it, and then recreate it with your update.
 
 1. Recall your list of reminders. To do this, select your own slack channel (select your name) and type**/remind list** . This will display a list of all of your currently set reminders.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![List of reminders](https://www.lifewire.com/thmb/93fmPOaAUZSyg_r2w9V_Eko55e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-78e950d238934f26bea0fad0dc6c6106.jpg)
 2. Select**Delete** next to the task you want to remove.  
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)

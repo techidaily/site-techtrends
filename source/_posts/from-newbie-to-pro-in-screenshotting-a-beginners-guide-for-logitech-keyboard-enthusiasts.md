@@ -1,7 +1,7 @@
 ---
 title: "From Newbie to Pro in Screenshotting: A Beginner's Guide for Logitech Keyboard Enthusiasts"
-date: 2024-08-05 19:47:40
-updated: 2024-08-06 12:28:56
+date: 2024-08-05T02:03:05.846Z
+updated: 2024-08-06T02:03:05.846Z
 categories:
   - BestProducts
 description: "This Article Describes From Newbie to Pro in Screenshotting: A Beginner's Guide for Logitech Keyboard Enthusiasts"
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 2. To remove crumbs or dust from your keyboard, turn it upside down, hold it firmly with one hand while tapping it with the other.  
  You may want to do this over the kitchen sink or outside to avoid making a mess of your work space.
 3. If you have one, use an air gun or compressed air device to blast dust out from under your mechanical keyboard’s keys.  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A man cleaning a mechanical keyboard with a can of compressed air.](https://www.lifewire.com/thmb/8E-6Wq5AowjC7H03KmC-itSoPRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-06-a7038d6944764e43b54b70bb803b699a.jpg)  
 ronstik / iStock / Getty Images Plus
 4. A small hand vacuum cleaner can also be a great way to remove dirt from a keyboard. Special keyboard vacuums are also available from most electronic store chains.  
@@ -33,12 +36,18 @@ ronstik / iStock / Getty Images Plus
 venus photo / iStock / Getty Images Plus
 5. If water, coffee, or some another liquid has been[spilled on your keyboard](https://www.lifewire.com/steps-to-laptop-spill-repair-2378134) , use a cloth to absorb as much of it as possible. Dab slowly and leave for several seconds to absorb the moisture.  
  If using a paper towel, avoid making any wiping gestures as this can leave paper residue in the keyboard’s gaps.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Keyboard with liquid spilled on the keys](https://www.lifewire.com/thmb/pakHbIqX1ehoX_DD4SXMhmnE1i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_clean-a-mechanical-keyboard-5184956-bb470dad626942a7a88caa34dd2fdf90.jpg)  
 Jeffrey Coolidge / Getty Images
 6. After absorbing as much of the liquid as you can, place the keyboard upside down over a bucket or sink for at least two days for all of the moisture to completely dry out. Also, immediately remove the keys from the keyboard to ensure nothing sticky dries in them.  
  Avoid placing the keyboard in a room with high humidity levels such as the bathroom or laundry.
 7. Wet a clean cloth slightly and gently wipe the keyboard down.  
  A microfiber cloth is incredibly effective at cleaning grime from mechanical keyboards.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A woman wearing yellow gloves wiping down a black mechanical keyboard.](https://www.lifewire.com/thmb/-aAfcGZQrQSDx91_Rz4ke4rLUEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-05-47c90bbd5fd94759b1a9c9d2151717d0.jpg)  
 Anton Petrus / Moment / Getty Images
 8. If your keyboard is sticky, you may want to spray a small amount of all-purpose house cleaner onto the cloth to help neutralize whatever’s stuck on the keys.  
@@ -46,10 +55,16 @@ Anton Petrus / Moment / Getty Images
 ![Person wiping a backlit keyboard with a disinfecting wipeh](https://www.lifewire.com/thmb/J-5S3yzNGIlJc_Wu2_NzgqrVr3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_clean-a-mechanical-keyboard-5184956-e5882697b74745a5b718e8304ac9c911.jpg)  
 Maridav / iStock / Getty Images Plus
 9. Try using keyboard cleaning gel. Cleaning gel can be a really effective way to clean mechanical keyboards as it conforms to the shape of the keyboard to reach areas not reachable by a cloth.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Blue keyboard cleaning gel being removed from a black mechanical keyboard.](https://www.lifewire.com/thmb/eEFuLrBZR8erPugctz2TqAKO40s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-02-35c3fb16479c44bcb0ae56ad33751e8b.jpg)  
 Tostace
 10. Clean the keycaps individually. If the mechanical keyboard is incredibly dirty or sticky, you can use a keycap puller tool to individually remove each keycap for cleaning. You may also want to clean the keyboard base some more with a pipe cleaner or cloth while the keycaps are off.  
  Keycap pullers are fairly affordable and can be found in most online electronic stores.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keyboard keys being removed by a keycap puller tool.](https://www.lifewire.com/thmb/TrXOa83gAjRtBiVTJrkOq_YiRwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-clean-a-mechanical-keyboard-01-e4350a0df5ed4635881a233eb527c3f3.jpg)  
 NewFashionKingdom  
 
@@ -65,6 +80,9 @@ NewFashionKingdom
  Using a damp cloth to clean the keycaps and the exterior of the keyboard base can be effective in removing sticky residue and grime but it’s not recommended for cleaning any of the interior and its exposed electrical parts.  
  Even if a keyboard’s marketed as being water resistant or water proof, it’s much safer to attempt cleaning it with dry methods such as an air gun, vacuum cleaner, pipe cleaner, cloth, or cleaning gel.  
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Clean a Sticky Mechanical Keyboard?  
 
  To clean a sticky mechanical keyboard, it’s best to use a damp microfiber cloth, a regular cloth, or a cleaning wipe. Only a little bit of cleaning agent should be applied to whichever type of cloth you use and brands which contain acid or bleach should be avoided.  

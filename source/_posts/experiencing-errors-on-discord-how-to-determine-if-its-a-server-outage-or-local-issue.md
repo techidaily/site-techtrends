@@ -1,7 +1,7 @@
 ---
 title: Experiencing Errors on Discord? How to Determine if It's a Server Outage or Local Issue
-date: 2024-08-04 14:55:27
-updated: 2024-08-05 11:22:20
+date: 2024-08-05T02:02:58.458Z
+updated: 2024-08-06T02:02:58.458Z
 categories:
   - BestProducts
 description: This Article Describes Experiencing Errors on Discord? How to Determine if It's a Server Outage or Local Issue
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -22,14 +25,27 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -46,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:

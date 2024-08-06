@@ -1,7 +1,7 @@
 ---
 title: "PS VR2 Revelations: Discovering The Latest News on Price, Release Date & Hardware Specifications"
-date: 2024-08-02 20:35:24
-updated: 2024-08-05 11:41:23
+date: 2024-08-05T02:03:20.705Z
+updated: 2024-08-06T02:03:20.705Z
 categories:
   - BestProducts
 description: "This Article Describes PS VR2 Revelations: Discovering The Latest News on Price, Release Date & Hardware Specifications"
@@ -15,6 +15,9 @@ Close
 
  The[ PlayStation VR](https://www.lifewire.com/playstation-vr-4157636) system for the[ PS5](https://www.lifewire.com/playstation-5-4778089) , known as the PSVR 2, was released in early 2023\. Here's the price and information on the hardware specs and features. In addition, we have a list of all the games for the PSVR 2.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony PlayStation VR2](https://www.lifewire.com/thmb/dDqAhnaebJhS671khyOJD8smvwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr2-39b455c5374f47c5a302fdbfe92011f0.jpg) 
 
 Sony Interactive Entertainment
@@ -25,12 +28,18 @@ Sony Interactive Entertainment
 
  You can[ order PlayStation VR2](https://direct.playstation.com/en-us/consoles/console/playstationvr2.1000033579) through PlayStation’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## PSVR 2 Price 
 
  The PlayStation VR2 starts at $549.99\. This includes the headset, PSVR 2 Sense controller, stereo headphones, and USB cable.
 
  The $599.99 option is identical, but includes a PlayStation Store voucher code for_Horizon Call of the Mountain_ .
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PSVR 2 Features 
 
  Sony calls the PlayStation VR2 a "true next-gen experience with high-fidelity visuals, new sensory features, and enhanced tracking – along with a simplified single-cord setup." Their[ PlayStation VR2: The Ultimate FAQ](https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/) is a great source for all things PSVR 2\. Below are some of these notable features.
@@ -83,6 +92,9 @@ Sony
 
 [ Sony revealed the PS5 VR controller](https://blog.playstation.com/2021/03/18/next-gen-vr-on-ps5-the-new-controller/) in 2021\. The orb-like design looks ergonomic and will, according to Sony, allow developers more freedom to create unique gameplay experiences. The controllers have exciting new features like adaptive triggers, haptic feedback, and finger touch detection for smoother and more realistic gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Hands in the PSVR 2 controllers](https://www.lifewire.com/thmb/10YFeOcuuE8u308PEiKqtTNmyyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr-controllers-216b1d9a6fd1492ebdcbfc8a1b40e847.png) 
 
 Sony
@@ -96,6 +108,10 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .
@@ -124,6 +140,9 @@ Sony
 
  It's worth noting here that[ there's no backwards compatibility for PSVR games](https://www.playstation.com/en-us/support/hardware/ps-vr2-compatibility/) , so you can't play original PSVR games on the PSVR 2\. The[ PlayStation Store website lists PSVR 2 games](https://store.playstation.com/en-us/category/c0fce398-e580-4d7d-b952-c6594517a8b6/1) that you can filter by price, genre, and more. Sony says games that work with the PSVR 2 have prominent branding elements to indicate compatibility.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Latest News About the PSVR 2 
 
  You can [ get more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) on all kinds of topics; here are more stories and some of the early rumors about Sony's PSVR 2.

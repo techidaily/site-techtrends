@@ -1,7 +1,7 @@
 ---
 title: "YouTube Premium on a Budget: Tips and Tricks for Students"
-date: 2024-08-02 23:41:58
-updated: 2024-08-05 12:14:49
+date: 2024-08-05T02:02:53.021Z
+updated: 2024-08-06T02:02:53.021Z
 categories:
   - BestProducts
 description: "This Article Describes YouTube Premium on a Budget: Tips and Tricks for Students"
@@ -12,6 +12,9 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 ## Cutting Costs on YouTube Premium? Here's How Students Can Save
  This article explains how to sign up for a YouTube Premium Student Discount.  
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## How to Sign Up for the YouTube Premium Student Discount
 
  YouTube uses a service called SheerID to confirm eligibility. You can check if your school is included by going to the student membership landing page for[YouTube Premium](https://www.lifewire.com/is-youtube-premium-worth-it-8584585 ) or[YouTube Music Premium](https://www.lifewire.com/what-is-youtube-music-4799054 ) .
@@ -21,18 +24,30 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 2. A message will pop-up warning that you'll be redirected to SheerID for verification. Click**CONTINUE** .  
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/krc_P8NRwLzkc5h633qem4DYpjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent2-ac9d06f65a8a46d8958e9682d297a560.jpg)
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
 4. Click**NEXT** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/7tGfuyn3esdJ6s8C_cTF0COO_i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent4-7c7525111bd04feca4169668a01cd7fa.jpg)
 5. Sometimes SheerID needs more information like a scan of your student ID, transcript, or other documentation from your university. Upload the files and click**SUBMIT** . YouTube says you'll get an email notification about your status within 20 minutes if you live in the U.S., and within 48 hours if you live elsewhere.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/07ZCByqXzt1wu2K99BIv8tMj010=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent5-2a7e2d362d164245b62e94a36e7b923b.jpg)
 6. If the verification is successful, SheerID will redirect you back to the YouTube Premium sign-up page. You might need to log into your YouTube account.
 7. Click your profile picture.
 8. Select**Paid memberships** and follow the on-screen prompts.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/-WpwGJr3fmxf4xJ9IARe9kgVYiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent6-1b4b0214a68a4ab9849880fcedaff3b3.jpg)
 9. Click**LEARN MORE** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
@@ -44,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## What Happens When You Finish School?
 
  The YouTube Premium Student discount is only available if you attend an eligible school and is limited to four years total. Whichever comes first—graduation or four years in school—is when your discount expires.

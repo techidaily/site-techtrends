@@ -1,7 +1,7 @@
 ---
 title: "Get the Lowdown on iPadOS v18: Free Distribution, Arrival Periods, and Notable New Functions"
-date: 2024-08-02 20:49:45
-updated: 2024-08-05 12:19:53
+date: 2024-08-05T02:03:19.378Z
+updated: 2024-08-06T02:03:19.378Z
 categories:
   - BestProducts
 description: "This Article Describes Get the Lowdown on iPadOS v18: Free Distribution, Arrival Periods, and Notable New Functions"
@@ -21,24 +21,40 @@ In This Article
 
  Samsung Galaxy Z Fold 7 rumors are already making the rounds on the heels of the[Galaxy Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) debut. We don't know much this early, but we're hearing that next year's foldable could be lighter in your pocket and bigger in your hands.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## When Will Samsung Galaxy Z Fold 7 Be Released?
 
  Samsung, unsurprisingly, comes out with a new phone every year. That simple fact, coupled with a few early rumors, has us confident that the Z Fold 7 is in the works. Since the company announces new phones at their Unpacked events, the Samsung Galaxy Z Fold 7 release date will fall in line with[next year's Samsung Unpacked event](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 July or August 2025 is our best guess for now.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Samsung Galaxy Z Fold 7 Price Rumors
 
  How much the Z Fold 7 will cost isn't something we can determine this far out. If we assume Samsung will stick with the same pricing as the Z Fold 6, it'll start at $1,899.99\. However, this year's phone is priced $100 higher than last year's, so we could be looking at a $2,000 phone next year.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  The Galaxy Z Fold 7 should be open for pre-ordering following the Unpacked event.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy Z Fold 7 Specs & Features
 
  We're still_very_ early, so there really isn't much in the way of leaks. All we've heard so far is that the next Galaxy Z Fold might have a larger screen and be slimmer and lighter.
@@ -53,6 +69,9 @@ July or August 2025 is our best guess for now.
 
  Given its purported release date, the Z Fold 7 will likely run the[Android 15](https://www.lifewire.com/android-15-7547471) \-based One UI 7 operating system. Leaker_Ice Universe_ claims that when compared to[all the other versions of One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) , this one will be the most changed. We could see a huge overhaul to the UI, including new icons, menus, and animations, plus a[vertical app drawer](https://www.sammobile.com/news/one-ui-7-vertical-app-drawer-hint/) .
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy Z Fold 7
 
  You can read[more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are some stories specifically about Android and Samsung products.

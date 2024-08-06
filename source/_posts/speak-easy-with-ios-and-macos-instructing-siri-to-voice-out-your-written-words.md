@@ -1,7 +1,7 @@
 ---
 title: "Speak Easy with iOS and macOS: Instructing Siri to Voice Out Your Written Words"
-date: 2024-08-04 15:53:19
-updated: 2024-08-05 12:39:49
+date: 2024-08-05T02:03:11.738Z
+updated: 2024-08-06T02:03:11.738Z
 categories:
   - BestProducts
 description: "This Article Describes Speak Easy with iOS and macOS: Instructing Siri to Voice Out Your Written Words"
@@ -33,27 +33,45 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 2. Select **Settings** .  
 ![Settings highlighted in the Windows 11 taskbar](https://www.lifewire.com/thmb/B8OhsIohMqNI9NSU9l6pEE_MGIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_pair-and-connect-airpods-to-windows-11-5192307-4c22bbf9c296495195d8268eccea4b9d.jpg)
 3. Select **Bluetooth & devices** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bluetooth & devices highlighted in the Windows 11 settings menu](https://www.lifewire.com/thmb/n8u9hKDM1oUGrLuqflomAJ6r-Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_pair-and-connect-airpods-to-windows-11-5192307-c04bde50d90a42d0be55a9ea042b3989.jpg)
 4. Select the **Bluetooth** toggle if it isn’t already on.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The disabled Bluetooth toggle highlighted in Bluetooth & devices in Windows 11.](https://www.lifewire.com/thmb/h4k6mw0n_YxJIJhhoCxdXY1OFmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_pair-and-connect-airpods-to-windows-11-5192307-e44a77b5669d4402b9a89799c3dd4f0d.jpg)
 5. Select **Add device** .  
 ![+ Add device highlighted in Bluetooth & devices in Windows 11](https://www.lifewire.com/thmb/cVz4b2iZgiWBL0gr6nfzxek2oPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_pair-and-connect-airpods-to-windows-11-5192307-f13da8ef1814432f99e9e6e25013ef40.jpg)
 6. Place the AirPods in their case, and then open the case.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![AirPods Pro in an open case.](https://www.lifewire.com/thmb/UiVWGQkHV7jWVh-SFulpsgo6Huk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PXL_20210624_222601443-888a9f489f924079b1ae89ece9bf0534.jpg)  
  Jeremy Laukkonen / Lifewire
 7. Press and hold the button on your AirPods case.  
 ![The pairing button on an AirPods Pro case](https://www.lifewire.com/thmb/RHKysTqD5NNOy1m-T3NTjq9DTYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodcasebutton-ebcdeb485b784db2bb1aed3d479503d5.jpg)  
  Jeremy Laukkonen / Lifewire
 8. When the light flashes white, release the button.  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The white flashing light on an AirPods Pro case](https://www.lifewire.com/thmb/4T-HCDgRKZKbxjiQtwoPmd94QaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodlight-cc989d4e72c7465295927ce987b3d51d.jpg)  
  Jeremy Laukkonen / Lifewire
 9. On your Windows 11 PC, select **Bluetooth** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bluetooth highlighted in the add a device menu in Windows 11](https://www.lifewire.com/thmb/vGQlZKKA2iIdcAgYl59Tp1fXTp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_pair-and-connect-airpods-to-windows-11-5192307-c5372d9013d146b09d0485aaa31d4072.jpg)
 10. Wait for your PC to search for devices, then choose your AirPods when they appear in the list.  
 ![Jeremy Laukkonen's AirPods Pro highlighted in the Windows 11 add a device menu](https://www.lifewire.com/thmb/qRcnY3Gu12UNV_c3wuJ_9Ega9Qs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_pair-and-connect-airpods-to-windows-11-5192307-0acf384a41174bfeb40a3d7fef42e546.jpg)
 11. Wait for the connection to be established, then select **Done** .  
 ![Done highlighted in the Windows 11 add a device menu](https://www.lifewire.com/thmb/JHCcaEnkTu1Von1ohrSr7ifPNi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_pair-and-connect-airpods-to-windows-11-5192307-022af48afcc54305b0303acae7507131.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Windows 10
 
  Here’s how to connect your AirPods to a Windows 10 laptop:
@@ -67,10 +85,19 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 4. If the**Bluetooth toggle** is off, select it to turn it**On** .  
 ![The Bluetooth Off toggle highlighted in Windows 10 Bluetooth settings.](https://www.lifewire.com/thmb/dABsOBqkUk6Tob0uTc5uvRQVXFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Bluetoothtoggleannotated-06b017d76aa845e2b8675ebab45b5733.jpg)
 5. Select**Add Bluetooth or other device** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![+ Add Bluetooth or other device highlighted in Windows Bluetooth settings.](https://www.lifewire.com/thmb/XB4psc-YmhNww46REGkau5oLlrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Addbluetoothannotated-8c1748fc7d96461eb10b7551743be841.jpg)
 6. Select**Bluetooth** .  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bluetooth highlighted in the add a device menu in Windows 10.](https://www.lifewire.com/thmb/OAtDAs0yXkYFznlLxUPPNEZuN0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickBluetoothannotated-4491b472992b4261abc5e240dac05aa0.jpg)
 7. Open your AirPods case and press-and-hold the button.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![The pairing button on an AirPods Pro case](https://www.lifewire.com/thmb/RHKysTqD5NNOy1m-T3NTjq9DTYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Airpodcasebutton-ebcdeb485b784db2bb1aed3d479503d5.jpg)  
  Jeremy Laukkonen / Lifewire
 8. When the light flashes white, release the button.  
@@ -83,26 +110,45 @@ The light may be inside your case or on the front.
 10. Wait for the AirPods to pair, then select**Done** .  
 ![Done highlighted in Bluetooth settings.](https://www.lifewire.com/thmb/5pOEeFoPzW1s1X7-yPjx4rGm9yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CLickdoneannotated-fd2fc707ad5a4158985535cb36ff3332.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use AirPods With an HP Laptop
 
  Connecting AirPods to an HP laptop isn’t the same as actually using the AirPods with the laptop. If you want to use your AirPods to listen to music or videos, or video chat, or anything else, you’ll need to switch the audio output to be your earbuds. This may happen automatically the first time your AirPods connect, but you can also do it manually if you find that audio isn't coming through.
 
  Your laptop may have multiple audio options if you’ve connected a variety of devices in the past, but an HP laptop will show Speaker / Headphone (Realtek(R) Audio) at a minimum. Switching from that output to your AirPods will let you use your AirPods with your laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### Windows 11
 
  Here’s how to use AirPods with a Windows 11 laptop:
 
 1. Take your AirPods out of the case.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![AirPods Pro removed from their case next to an HP laptop.](https://www.lifewire.com/thmb/XhAWRQW8hzydBA8Ee0G-PzQoi8A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PXL_20210624_222544253-7f355ab0a6ae4ebbb9a2a9e54194c8f2.jpg)  
  Jeremy Laukkonen / Lifewire  
  If your laptop automatically switches audio outputs and your AirPods work at this point, you don’t need to perform the rest of the steps. This process is only necessary if another device prevents the automatic switching of the audio output.
 2. Select the **Speaker** icon on the taskbar.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The speaker icon highlighted on the Windows 11 taskbar](https://www.lifewire.com/thmb/e9ATuIbExHw4WwD_zdEaWBaGdKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_pair-and-connect-airpods-to-windows-11-5192307-63f29a42fe554c439f8d3bada43bdc1b.jpg)
 3. Select the **\>** icon to the right of the volume control.  
  If the Bluetooth button is grayed out, it means Bluetooth has been turned off. Select the **Bluetooth** button to turn it on.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The > icon to the right of the volume control highlighted in Windows 11](https://www.lifewire.com/thmb/XwmMuYjwsZQNxx3ZG-2B6GmMHwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013_pair-and-connect-airpods-to-windows-11-5192307-2a98dcfff11a4510af746ca309eef607.jpg)
 4. Select **Headphones (AirPods)** in the list of devices.  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Headphones (AirPods Pro) highlighted in the Windows 11 audio device menu](https://www.lifewire.com/thmb/j1WsK5ekPeWzA08uVmHlc3Sp5Wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015_pair-and-connect-airpods-to-windows-11-5192307-8434c4e62efd4af090e74eddbdf8d021.jpg)  
  When your AirPods are selected in this menu, it means they’re connected, ready to use, and set as the default audio source on your Windows 11 PC.
 
@@ -117,8 +163,14 @@ The light may be inside your case or on the front.
 3. Select the**dropdown menu** .  
 ![Speaker / Headphone (realtek audio) highlighted in the Windows audio selection menu.](https://www.lifewire.com/thmb/8U1hxk4nT3Yot5U_gkGG1AKDGTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dropdownmenuannotated-e027a6f07cb848adb6f1f105a5b5d14e.jpg)
 4. Select**Headphones (AirPods Stereo)** . You can now use your AirPods with your laptop.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Headphones (Jeremy Laukkonen's AirPods Pro Stereo) highlighted in Windows playback device options.](https://www.lifewire.com/thmb/9sm3Es3aKEo1TYpqWScORUwXrHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Headphonesannotated-d222541710f8403e95dc626065bd25d2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Do AirPods Work With Laptops?
 
  AirPods work with any device designed to connect to an audio output or input device via Bluetooth. This means most laptops will work, especially brand-new ones. Since all modern HP laptops are equipped with Bluetooth, you can use AirPods with an HP laptop the same way you can use any other Bluetooth earbuds, headphones, or headset.

@@ -1,7 +1,7 @@
 ---
 title: How to Wirelessly Connect and Use Your PS4's Control Gadget
-date: 2024-08-04 21:45:55
-updated: 2024-08-06 11:38:37
+date: 2024-08-05T02:03:23.812Z
+updated: 2024-08-06T02:03:23.812Z
 categories:
   - BestProducts
 description: This Article Describes How to Wirelessly Connect and Use Your PS4's Control Gadget
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/C6ymYD4-2pdltAqlftXj-nGC4tA=/400x300/fi
 ---
 
 ## No Ejector Tool? Here's How to Safely Open Your iPhone SIM Case
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Hands down the best non-standard tool: a paper clip.
@@ -18,14 +21,23 @@ thumbnail: https://www.lifewire.com/thmb/C6ymYD4-2pdltAqlftXj-nGC4tA=/400x300/fi
 
  This article explains how to open an iPhone[SIM card](https://www.lifewire.com/what-are-sim-cards-577532) without an ejector tool. Instructions in this article apply to all iPhone models with a physical SIM tray.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## How to Open iPhone SIM Card Tray With a Paper Clip
 
  A paper clip is one of the easiest and most common objects to use when you don't have an ejector tool.
 
 1. Start with a small or medium-size paper clip.
 2. Unfold one straight side, so it's sticking out.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/thmb/-Cei-ZtcOHFD1_vvyW4hWsvCZyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IMG_4468-5c490d70c9e77c0001da2190.JPG)
 3. Stick the straight side of the paper clip into the SIM card ejector hole as far as it will go.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.lifewire.com/thmb/wPvlp_BAHTsX6iOUxdekQTHDDlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IMG_0212-5c490d7fc9e77c00018b7166.JPG)
 4. With the paper clip in the hole, use your thumb to press firmly until the tray protrudes. It should slide out slowly rather than pop out.
 
@@ -37,6 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/C6ymYD4-2pdltAqlftXj-nGC4tA=/400x300/fi
 
  If you can't find the tool or bought an iPhone secondhand, there are other ways to open the SIM tray to add or replace a SIM card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try These Items to Eject a SIM Tray
 
  The opening used to eject a SIM card tray is tiny. Although plenty of straight objects might work, the SIM hole requires something sturdy with a narrow dimension.
@@ -55,6 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/C6ymYD4-2pdltAqlftXj-nGC4tA=/400x300/fi
 
  Many cellphone carrier stores have extra SIM card ejector tools if you'd prefer to stay with a proven and guaranteed method of extraction.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## iPhone Models and SIM Tray Locations
 
  The SIM tray, a narrow oval with a tiny circle beneath it, is on the phone's right side on most iPhones and sits flush with the side of the phone and isn't visible if you're using a phone case. On the earliest models, it's on the bottom edge of the phone.

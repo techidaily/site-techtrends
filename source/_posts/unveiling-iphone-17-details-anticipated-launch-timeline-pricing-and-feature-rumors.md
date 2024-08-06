@@ -1,7 +1,7 @@
 ---
 title: "Unveiling iPhone 17 Details: Anticipated Launch Timeline, Pricing & Feature Rumors"
-date: 2024-08-04 17:18:30
-updated: 2024-08-06 10:12:37
+date: 2024-08-05T02:03:05.198Z
+updated: 2024-08-06T02:03:05.198Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling iPhone 17 Details: Anticipated Launch Timeline, Pricing & Feature Rumors"
@@ -64,6 +64,10 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -74,16 +78,25 @@ A September 2025 release date seems like a lock.
 
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### Camera
 
  Rumors suggest at least three key improvements to the iPhone 17 series cameras.
@@ -100,10 +113,16 @@ A September 2025 release date seems like a lock.
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Latest News About iPhone 17
 
  We'll update this page regularly, as more news about the iPhone 17 becomes available. In the meantime, Lifewire has you covered for[smartphone news](https://www.lifewire.com/mobile-phones-4781509) and advice such as helping you decide[Which iPhone Should You Buy?](https://www.lifewire.com/pick-best-iphone-for-you-1999293)

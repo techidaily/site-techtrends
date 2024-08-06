@@ -1,7 +1,7 @@
 ---
 title: "Cat5 Versus Cat6 Cables: Advantages, Limitations, and When to Use Each"
-date: 2024-08-04 14:17:36
-updated: 2024-08-06 11:43:29
+date: 2024-08-05T02:03:14.531Z
+updated: 2024-08-06T02:03:14.531Z
 categories:
   - BestProducts
 description: "This Article Describes Cat5 Versus Cat6 Cables: Advantages, Limitations, and When to Use Each"
@@ -12,10 +12,18 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 ## Cat5 Versus Cat6 Cables: Advantages, Limitations, and When to Use Each
  Cat5 and Cat6[Ethernet](https://www.lifewire.com/what-is-ethernet-3426740#:~:text=Ethernet%20is%20a%20network%20protocol,than%20a%20gigabit%20per%20second.) cables are both popular options for wired networking, but there are some important differences between them and reasons why you're probably better off picking the newer Cat6 standard for your next network upgrade.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Cat5 vs Cat6 cables](https://www.lifewire.com/thmb/ogAH3QMWuw-C1z5jn6jx7y0JaH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cat5-vs-Cat6-2f777fcbf2c64bf8bd24039074314422.jpg)
 
 Monoprice
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Overall Findings
 
  Cat5
@@ -45,6 +53,9 @@ Monoprice
 
  They gave broader options for shielding, too, though the thicker cables in those cases can make them a little harder to route through narrower gaps or in larger quantities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Performance: Cat6 Is Faster and Better Made
 
  Cat5
@@ -67,6 +78,9 @@ Monoprice
 
  Cat6 Ethernet cables support Gigabit Ethernet (1,000 Mbps) for cables up to 100 m long, but if you keep the cable running under 55 m, you can enjoy 10,000 Mbps. You'll need hardware that supports that speed in your router/switch and connected devices to take full advantage, but the option is there for those transferring massive data collections around a local network.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shielding: Cat6 Has More Options, but It's Thicker
 
  Cat5
@@ -90,6 +104,9 @@ Monoprice
 
  This protection is only really relevant in busy apartment buildings, offices, and data centers where there are many other electronic devices and Ethernet cables around. It doesn't really hurt, either, but that additional shielding and wire thickness can make the installation and transport of Cat6 a little more tricky.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Futureproofing: Cat6 Will Eventually Replace Cat5
 
  Cat5
@@ -111,6 +128,9 @@ Monoprice
 
  Cat6 is also backward compatible with Cat5, so you can just start replacing your cables with Cat6 piecemeal if you prefer. It'll all function just fine, but when you finally replace all networking hardware with faster gear, you'll be able to use the new Cat6 speed to its full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Verdict
 
  There are real performance and shielding reasons to choose the newer standard, though if you look at many of the network cables you use today, you may find that many of them are Cat5.

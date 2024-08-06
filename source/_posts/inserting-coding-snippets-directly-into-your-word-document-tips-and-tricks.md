@@ -1,7 +1,7 @@
 ---
 title: Inserting Coding Snippets Directly Into Your Word Document - Tips & Tricks
-date: 2024-08-05 15:41:45
-updated: 2024-08-06 11:34:10
+date: 2024-08-05T02:03:25.354Z
+updated: 2024-08-06T02:03:25.354Z
 categories:
   - BestProducts
 description: This Article Describes Inserting Coding Snippets Directly Into Your Word Document - Tips & Tricks
@@ -10,6 +10,9 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 ---
 
 ## Navigating to Your Personalized Apple Support Session - Booking Tips Inside
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What to Know
 
 * Using the Apple Store App is the easiest way to get in and get your device fixed at the Genius Bar.
@@ -28,11 +31,17 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 ![The "My Devices," "Repairs & Physical Damage," and problem options in the Apple Support app](https://www.lifewire.com/thmb/UlwcbBbGGUKP7TBki_iBvOT4Dgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-01-26333c8d674d49e19071966928058213.jpg)
 5. Select**View Locations** under**Bring in for Repair** .
 6. Select an Apple Store from the map, and then choose**Schedule** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The "View Locations" and "Schedule" buttons in the Apple Support app](https://www.lifewire.com/thmb/cB9ItxxAZXnwcwJmMXziGbxmnUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-02-2194ff8238d744b4a17213561151e3b2.jpg)
 7. On the next screen, pick an available date and time.
 8. Then, enter your phone number for text reminders about your appointment (you'll still get email notifications if you don't). Choose**Reserve** to finish booking.  
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -40,6 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 1. Tap your**profile image** on the**Shop** tab in the Apple Store app.
 2. Select**Reservations** .
 3. On the next screen, tap**Find a store** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
 5. Choose**Make a reservation** under**Genius Bar** .
@@ -49,10 +61,16 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
 

@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Differences: EVs (BEV), PHEVs, FCEVs & Traditional Hybrs Compared"
-date: 2024-08-03 11:47:41
-updated: 2024-08-05 11:12:35
+date: 2024-08-05T02:03:03.142Z
+updated: 2024-08-06T02:03:03.142Z
 categories:
   - BestProducts
 description: "This Article Describes Deciphering the Differences: EVs (BEV), PHEVs, FCEVs & Traditional Hybrs Compared"
@@ -31,6 +31,9 @@ Julie Bang
 
  Battery electric vehicles are purely electric. Unlike other types of EVs, BEVs rely only on battery power. These vehicles don’t have internal combustion engines, don’t have tailpipes, and produce zero emissions during operation. Since there is no internal combustion engine, the battery needs to be charged by plugging it in.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
  Close up of electric motor. 
@@ -43,6 +46,9 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
@@ -71,6 +77,9 @@ cipango27/iStock/Getty Images Plus
 
  PHEVs are referred to as parallel because the electric motor and the ICE work in parallel. They’re both connected to the drivetrain mechanically, which allows the ICE to work by itself, the electric motor to work by itself, or for one to assist the other. You can think of this type of PHEV as the combination of an ICE vehicle and a BEV, with both systems capable of working separately or in unison with the other.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
@@ -91,6 +100,9 @@ Boy\_Anupong/Moment/Getty
 
  Since fuel cells rely on hydrogen to operate, they need to be periodically charged with hydrogen similar to the way you have to fuel up an ICE vehicle with gasoline or diesel. The difference is that while gas stations are abundant, hydrogen fueling stations are only found in a small handful of markets in California.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
  HydroGen 3 Fuel Cell Minivan Engine. 
@@ -101,6 +113,9 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -115,6 +130,9 @@ Arctic-Images/The Image Bank Unreleased
 
  Other zero emission options, like FCEVs, provide a tantalizing alternative, but the infrastructure is already more or less in place to support BEVs, while FCEVs remain a small-scale experiment.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ##  All the EV Variations At a Glance 
 
 | BEV                                                 | FCEV                                             | HEV                                                          | PHEV                            | EREV                                                       |                                                            |

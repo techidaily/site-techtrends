@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Tracking and Analyzing Your Internet Consumption"
-date: 2024-08-04 14:22:32
-updated: 2024-08-05 10:11:37
+date: 2024-08-05T02:03:04.267Z
+updated: 2024-08-06T02:03:04.267Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Tracking and Analyzing Your Internet Consumption"
@@ -10,6 +10,9 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ---
 
 ## No More Distractions: A Step-By-Step Guide to Blocking Unwanted SMS on iPhone
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### What To Know
 
 * To block text messages, tap the text > icon or number >**Info** \>**Block Caller** \>**Block Contact** .
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 1. In Messages, tap a text from the sender you want to block.
 2. Tap the sender's icon at the top.
 3. Select**Info** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
 5. In the confirmation pop up, tap**Block Contact** .  
@@ -40,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
  For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
@@ -52,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 ## How to Stop Unwanted Group Texts on an iPhone
@@ -63,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 3. To completely leave the group text, there are two paths.  
  If there is a mix of iPhones and Android phones in that chat (you'll know because the message bubbles will be green), tap**Delete and Block this Conversation,** and then tap the confirmation pop-up.  
  If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.

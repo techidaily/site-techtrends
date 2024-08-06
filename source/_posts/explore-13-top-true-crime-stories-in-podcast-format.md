@@ -1,7 +1,7 @@
 ---
 title: Explore 13 Top True Crime Stories in Podcast Format
-date: 2024-08-03 19:33:27
-updated: 2024-08-06 10:16:23
+date: 2024-08-05T02:02:57.743Z
+updated: 2024-08-06T02:02:57.743Z
 categories:
   - BestProducts
 description: This Article Describes Explore 13 Top True Crime Stories in Podcast Format
@@ -20,6 +20,9 @@ of 06
 
 ## [GIMP](https://www.gimp.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GIMP free photoshop alternative](https://www.lifewire.com/thmb/RJaS9jqIkEMBw6cIrRcjeBZIiGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linux_mixer-593adc983df78c537b3b14a5.jpg)
 
 The GIMP Team
@@ -79,8 +82,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## [Pixlr](https://pixlr.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![An image open for editing on the Pixlr Express website](https://www.lifewire.com/thmb/m2zjpcDwIwyZ_z4tIl8WG340lGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixlr-ai-photo-editor-f2fd3ca074b941419a4af675fe46fdc0.png)
 
  What We Like
@@ -112,8 +121,14 @@ of 06
 
 of 06
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [SumoPaint](https://sumopaint.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Two layers visible in the Sumopaint online image editor](https://www.lifewire.com/thmb/6_H3Jd8mH-zb8zOPkwVRGfJyzXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sumopaint-4cbe441867c5489aa19835730fec4765.png)
 
  What We Like
@@ -144,6 +159,9 @@ of 06
 
 ## [Krita](https://krita.org/en/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Krita free photoshop alternative](https://www.lifewire.com/thmb/MGp2TLNkYLlp5AB7bPbv3oXO7cY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/user-interface30-592db40f3df78cbe7e66bc22.png)
 
 The Krita Foundation

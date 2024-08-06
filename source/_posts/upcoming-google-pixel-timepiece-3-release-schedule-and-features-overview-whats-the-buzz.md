@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Google Pixel Timepiece 3: Release Schedule & Features Overview – What's the Buzz?"
-date: 2024-08-03 14:54:47
-updated: 2024-08-05 11:50:58
+date: 2024-08-05T02:03:22.504Z
+updated: 2024-08-06T02:03:22.504Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Google Pixel Timepiece 3: Release Schedule & Features Overview – What's the Buzz?"
@@ -25,10 +25,17 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
  Based on how Google released the first two Pixel watches, we can expect the Pixel Watch 3 release date to coincide with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch. It will likely be revealed at[the next Made by Google event](https://www.lifewire.com/google-event-5205756) on August 13.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 Look for an official Pixel Watch 3 announcement on August 13.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Google Pixel Watch 3 Price Rumors
 
  The first two Pixel Watches started at $349.99\. This is likely how Google will price its next smartwatch. And, of course, you can expect to pay around $50 more for LTE.
@@ -42,12 +49,18 @@ Look for an official Pixel Watch 3 announcement on August 13.
 * **Pixel Watch 3 XL (45 mm)** : $379.99
 * **Pixel Watch 3 XL (45 mm / LTE)** : $429.99
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pre-Order Information
 
  You'll be able to pre-order the Pixel Watch 3 from the[Google Store](https://store.google.com/category/watches) . We'll drop the link here when pre-ordering starts.
 
 [The Best-Looking Smartwatches](https://www.lifewire.com/best-looking-smart-watches-3441410)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Pixel Watch 3 Specs & Features
 
  The battery life in the[Pixel Watch 2](https://www.lifewire.com/google-pixel-watch-2-7498464) received a bump over the first edition. This update was much needed, but it can still be improved. For example,[Samsung's Galaxy Watch 6](https://www.lifewire.com/samsung-galaxy-watch-6-news-and-rumors-7371704) lasts around 30 hours with Always-on Display enabled, while Google claims the Pixel Watch 2 can sustain 24 hours of use.
@@ -64,6 +77,10 @@ Look for an official Pixel Watch 3 announcement on August 13.
 
  According to a patent filing called[Gesture Recognition on Watch Bezel Using Strain Gauges](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11775167) , Google could even do away with all buttons on their smartwatch. If this technology makes its way into the Pixel Watch 3, you might be able to trigger specific actions or open apps using a gesture, like a tap, swipe, or squeeze on the side of the watch. The patent supports this not only for user-friendly reasons but also for aesthetic purposes and to make waterproofing easier.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![An illustration of a finger touching the edge of a smartwatch from US Patent 11775167](https://www.lifewire.com/thmb/-Lv4nrmDdZKHX1WluU4VTS0ae7A=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-watch-patent-11775167-86bd6ece12bb4c90b0534dc5223df168.png)
 
 Google
@@ -76,6 +93,9 @@ Google
 
  We'll know more about the Pixel Watch 3 hardware as images leak (hopefully) and reports surface closer to the August event. There's also Wear OS 5 to watch on the software front.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Latest News About the Pixel Watch 3
 
  You can [get the latest smart and connected news on Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are the latest stories about Google and smartwatches.

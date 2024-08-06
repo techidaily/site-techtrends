@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Horizontal Streaks in Monitor Images
-date: 2024-08-04 23:19:20
-updated: 2024-08-05 10:23:16
+date: 2024-08-05T02:03:23.869Z
+updated: 2024-08-06T02:03:23.869Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Correcting Horizontal Streaks in Monitor Images
@@ -14,6 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/OuA41iSJEuM_vb0FdIEEawE-sYY=/400x300/fi
 
 [How to Fix Vertical Lines on a Computer Screen](https://www.lifewire.com/fix-vertical-lines-on-computer-screen-5216945)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Causes Lines on a Monitor?
 
  Horizontal lines on a computer monitor are often caused by the following:
@@ -27,6 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/OuA41iSJEuM_vb0FdIEEawE-sYY=/400x300/fi
 
  Some of these are easy to fix, while others might require a trip to the repair shop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Lines on a Computer Screen
 
  Here are all the best solutions for eliminating horizontal lines on your screen:  
@@ -51,6 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/OuA41iSJEuM_vb0FdIEEawE-sYY=/400x300/fi
 16. [Update your Windows device drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . Check for driver updates for profiles associated with your monitor and screen.  
  Some users have found that_downgrading_ their video card driver was the fix. If you recently upgraded your drivers, consider[rolling back to the previous version](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 17. Run a troubleshooter. Search your computer for a video troubleshooter or program compatibility tool. If you get presented with recommendations for other troubleshooters, run those too. Your computer will attempt to fix any problems automatically.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![A list of troubleshooting tools in the Windows 11 Settings app](https://www.lifewire.com/thmb/3KPXvydo1SLKOAZps2w8Bvd5Elk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-troubleshooters-d3ad51582dc64ca7aba11bccc265a231.png)
 18. Reset your monitor to its factory settings. If you’re using an external screen, use its built-in settings, not your computer’s. You can access these settings via a physical Settings or Menu button on the monitor.
 19. Contact the support team for your computer to ask about repair, replacement, or device-specific troubleshooting steps for the lines on the screen.

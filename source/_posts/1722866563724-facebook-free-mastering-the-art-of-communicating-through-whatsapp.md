@@ -1,7 +1,7 @@
 ---
 title: "Facebook-Free: Mastering the Art of Communicating Through WhatsApp"
-date: 2024-08-03 12:14:52
-updated: 2024-08-05 10:24:38
+date: 2024-08-05T02:03:23.037Z
+updated: 2024-08-06T02:03:23.037Z
 categories:
   - BestProducts
 description: "This Article Describes Facebook-Free: Mastering the Art of Communicating Through WhatsApp"
@@ -13,6 +13,13 @@ thumbnail: https://thmb.techidaily.com/b7b1a27d1ec7d492ee38fae4ae064cccff7a07bb8
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ###  What to Know
 
 * You must have a Facebook password to use Messenger. But, you can pause/deactivate Facebook and keep Messenger.
@@ -21,22 +28,37 @@ Close
 
  This article covers how you can stop using Facebook but keep using Messenger. We'll go over how to get Messenger back if you've already deactivated Facebook and how to sign up for a new Messenger account if you don't yet have Facebook.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use Messenger With a Deactivated Facebook Account 
 
  If you've deactivated Facebook, you can keep using Messenger by logging in to Messenger with your Facebook account information. This works on Messenger.com and through the Messenger app; just enter your Facebook login details and then press**Log in** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The login screen for Messenger](https://www.lifewire.com/thmb/MoMJxokuOYj8nV9A4C7RMIdizzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/messenger-login-29e385dc323042808ac2b15fb5cf526f.png) 
 
  There was a time when you only needed a phone number to get on Messenger, but a Facebook account is necessary these days.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Make a New Messenger Account Without Facebook 
 
  Did you permanently delete Facebook or have you never had a Facebook account? It's easy to make a Messenger account because you get one automatically when you create a Facebook account. Then, you can turn off Facebook and keep using Messenger. Here's how:
 
 1. [ Make a Facebook account](https://www.lifewire.com/tutorial-how-facebook-works-2654610) . You can do this through the website, the Messenger app, or the Facebook app. Select**Create new account** and then follow the on-screen steps.  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The new account creation screens for a Facebook account through the Messenger app](https://www.lifewire.com/thmb/JgxteUDRoYoIZXGxpPwUJvjpiiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-facebook-account-2f32e7a5993d40a09d7c490608bf32f9.png)
 2. [ Deactivate your Facebook account](https://www.lifewire.com/deactivate-facebook-5072237) . This is like a pause, so you can reactivate any time. Messenger will still work if you do this, but nobody will be able to find you on Facebook and your timeline will be inaccessible.  
  Deleting your account is very different. Play close attention to the option you choose. Deleting Facebook**will** delete Messenger.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The 'Taking a break from Facebook' prompt when deactivating an account](https://www.lifewire.com/thmb/3V1MpDklDKk8m0LTka88sHt75nE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/take-break-from-facebook-6c35586aa6504674821b03fa9547685e.png)
 3. Log in to Messenger with your Facebook email and password. This will not reactivate Facebook.  
  If you want to reactivate Facebook in the future, just log in to Facebook with the same password you used to use.

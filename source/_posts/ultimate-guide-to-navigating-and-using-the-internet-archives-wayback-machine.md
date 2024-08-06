@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Navigating and Using the Internet Archive's Wayback Machine
-date: 2024-08-02 16:47:49
-updated: 2024-08-05 10:38:35
+date: 2024-08-05T02:03:17.100Z
+updated: 2024-08-06T02:03:17.100Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to Navigating and Using the Internet Archive's Wayback Machine
@@ -18,15 +18,24 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  The internet is constantly evolving. Websites and their information disappear to give place to the new. The Wayback Machine is a digital time capsule that preserves snapshots of websites across the years. This article will show you how to use this invaluable historical resource.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Search the Wayback Machine
 
  The Wayback Machine search engine is where you should head first to look for archived webpages and sites. The search box is also prominent on The Internet Archive's homepage. Click the Wayback Machine logo to go to its[main page](https://web.archive.org/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### Find Websites With a URL
 
  The Wayback Machine search field works like any other search engine. The site ranks search results by how often the site was saved and how many related links each homepage has.
 
 1. In the Wayback Machine's search bar, type the URL of the website you're interested in. You can use the domain URL (e.g.,[www.example.com](http://www.example.com/) ) or a specific page on the site.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![The search bar on the WayBack Machine site](https://www.lifewire.com/thmb/IgHw28Kscr3NKqqVR6O0fRMl3x8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WayBack-Machine-Search-Bar-b38b8ded832b472499450450ad2a53fb.jpg)
 2. The result is displayed as a Calendar with a timeline with years on the top and the monthly view of that specific year.  
 ![Wayback Machine Calendar View](https://www.lifewire.com/thmb/vBQyXPQg5ozxehCxof0HN4YPGKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WaybackMachine-CalendarView-66a466e6111640959a1ef75fe1aa2fc0.jpg)  
@@ -48,6 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  You can't download a snapshot from the Wayback Machine directly; their[Terms of Use](https://archive.org/about/terms.php) do not allow it.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Find Archived Sites With Keywords
 
  Although the Wayback Machine works only with URLs, it has a limited ability to search with keywords. However, these keywords are for entire sites and not ones buried in an individual webpage.
@@ -62,6 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  Wayback Machine also supports[multilingual keyword searches](https://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search/) along with the site search operator (e.g., site:nytimes.com "global warming").
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## How to Save Pages in the Wayback Machine
 
  With the**Save Page Now** feature, you can add and archive webpages to the Wayback Machine. However, you can't save entire websites yet, just a related number of pages (via the outlinks on your target page).
@@ -69,11 +84,20 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 1. Go to the[Wayback Machine home page](https://web.archive.org) .
 2. Type the URL of the page you want to archive in the**Save Page Now** field.  
  If you don't see this field, make sure you're at**web.archive.org** and not just**archive.org** .  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The 'Save Page Now' option on the WayBack Machine website](https://www.lifewire.com/thmb/XMiBKXjO58hMYAKKHcYUbQaAKOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Save-Page-WayBack-Machine-0fa9827d32e84795a3ac3d43eab13bce.jpg)
 3. Select**Save Page** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The "Save Page" button on the WayBack Machine](https://www.lifewire.com/thmb/fE_zr_NaZdnSpCZWXkui8bb2MQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Save-Page-button-on-WayBack-Machine-bbd0d186952342f492bc9a83aa68882f.jpg)
 4. Registering and logging in with a free account gives a few more options, like saving screenshots of a page, keeping a personal web archive, the ability to email search results to yourself, and use of WACZ files.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip
 
  If you regularly use the Wayback Machine, consider their[Chrome extension](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) . The extension is an indirect way to "search" the Wayback Machine, as you can automatically view archived pages of a site by clicking on it. It's a helpful way to see cached pages if the webpage you are trying to access does not exist or displays a 404 Not Found Error. Check the extension's Settings for extra features. Extensions and add-ons are also available for Safari, Edge, and Firefox.

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate List of 11 Cinematic Gems: Stories That Inspire"
-date: 2024-08-04 23:48:49
-updated: 2024-08-06 11:27:41
+date: 2024-08-05T02:03:01.300Z
+updated: 2024-08-06T02:03:01.300Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate List of 11 Cinematic Gems: Stories That Inspire"
@@ -22,6 +22,9 @@ of 12
 
 ## [YouTube](https://www.lifewire.com/youtube-s-free-streaming-movies-and-tv-shows-1357439)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Free movies on the Android YouTube app](https://www.lifewire.com/thmb/EClY1xqgKEwOfDYInQ87aygsAJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-app-fre-movies-0e0c7249ec954f5a88b1980b1e8b70a1.png)
 
  What We Like
@@ -57,6 +60,9 @@ of 12
 
 ## [Tubi](https://www.lifewire.com/free-online-tubi-tv-1357455)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Tubi free movie app for Android](https://www.lifewire.com/thmb/mcGsR0WxKnMuBdiclgNvCjrVCpU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movies-tubi-app-865ec1767bb142859726ed3612efec06.png)
 
  What We Like
@@ -126,8 +132,15 @@ of 12
 
 of 12
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Prime Video (Freevee)](https://www.amazon.com/gp/video/splash/getTheApp?tag=lifewire-onsite-prod-20&ascsubtag=1357452%7Cne78f4c9980784fb9b8eeb3f76aa15ffd02%7C)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prime video freevee films from android app](https://www.lifewire.com/thmb/i7C4zw-X3Jsl7FS4qaJbVneH60w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/prime-video-freevee-movies-android-28e16a7b7fb64d818a26c7c6805866d0.png)
 
  What We Like
@@ -161,6 +174,9 @@ of 12
 
 of 12
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## [Plex](https://www.plex.tv/apps-devices/)
 
 ![A list of free movies in the Plex Android app](https://www.lifewire.com/thmb/p3PWx2oWZ7ytRoLSR7mGT4LKL7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/plex-movie-app-e5d865cddfb04296bfaeae5281888deb.png)
@@ -230,6 +246,9 @@ of 12
 
 of 12
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## [Pluto TV](https://www.lifewire.com/what-is-pluto-tv-4774389)
 
 ![Pluto TV free movie app for Android](https://www.lifewire.com/thmb/vNpzCbsth7DRT7CHVuknr98LCQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pluto-tv-android-movie-app-cb6977d3da6a40bd8eed9a008a5643e6.png)
@@ -266,8 +285,14 @@ of 12
 
 of 12
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Crackle](https://www.lifewire.com/crackle-free-streaming-1357440)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Crackle free movie app for Android](https://www.lifewire.com/thmb/IKmqm62KoKLr1JsXFyp6lfFjnBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crackle-movie-app-d8e964a46e464e5d9d1afa7c83ade17d.png)
 
  What We Like
@@ -303,6 +328,9 @@ of 12
 
 ## [Filmrise](https://filmrise.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmrise movie streaming app for Android](https://www.lifewire.com/thmb/F4MY7hE8FL8-klhhlLKT9mlE32o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/filmrise-movie-app-b4d429382e1d4d139565b73dda98897b-f3b7acbb7c3f406c973aecffc6498d88.jpg)
 
  What We Like
@@ -334,6 +362,9 @@ of 12
 
 of 12
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [The Roku Channel](https://www.lifewire.com/what-is-the-roku-channel-4766581)
 
 ![Roku's free movie app for Android](https://www.lifewire.com/thmb/DQBY6ZNSBdyiHAnBA3vPcif4scE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-movie-app-436d957fa1044268baac2bd0fe022f24.png)
@@ -406,6 +437,11 @@ of 12
 
 ## [Kanopy](https://www.kanopy.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Kanopy free movies on Android](https://www.lifewire.com/thmb/g6MJ_1-A8Thw86aW-wV3YM_4jls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kanopy-free-movie-app-android-a6cc6a4c2c154ffb844bdb772bc4e6ae-f53110aaed914b3e80c769f65882f7e0.jpg)
 
  What We Like

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to NVIDIA's RTX Technology Explained
-date: 2024-08-04 20:42:26
-updated: 2024-08-06 12:20:18
+date: 2024-08-05T02:03:11.570Z
+updated: 2024-08-06T02:03:11.570Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to NVIDIA's RTX Technology Explained
@@ -15,6 +15,9 @@ Close
 
  Nvidia's RTX[ graphics cards](https://www.lifewire.com/what-is-a-video-card-2618161) offer the pinnacle of its consumer-facing features and performance; they even compare to some high-end professional cards. RTX cards inform buyers that they have onboard RT and Tensor cores; that's the dedicated hardware to accelerate[ ray tracing](https://www.lifewire.com/what-is-ray-tracing-5097484) and artificial intelligence calculations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is RTX? 
 
  RTX is a brand name introduced by Nvidia, with its RTX 2000-series graphics cards, in 2018\. The name describes the hardware itself and marks it as separate from the previous-generation, "GTX" options.
@@ -27,10 +30,16 @@ Close
 
 [  How to Buy a Graphics Card For Your Gaming PC ](https://www.lifewire.com/things-to-consider-before-buying-graphics-card-5225912) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Is the Newest RTX Card? 
 
  Although there some third-party vendors still sell aftermarket versions of Nvidia's GTX graphics cards, only Nvidia presently sells RTX-branded graphics cards. The latest generation at the time of writing is the RTX 4000-series, which includes the RTX 4060, 4070 Super, 4080 Super, and the fastest graphics card in the world for gaming, the RTX 4090, among others.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nvidia RTX 4060 Ti](https://www.lifewire.com/thmb/f_w9H_iH7cmVmkOpj_QlwotKpl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4060ti-97b597332b72483db1f0165c4a4f449b.jpg) 
 
  The RTX 400 Ti is a more mid-tier, mainstream graphics card at a more affordable price than the top cards. 
@@ -43,6 +52,13 @@ Nvidia
 
 [  Should I Upgrade to an RTX Graphics Card? ](https://www.lifewire.com/upgrade-to-rtx-graphics-card-8642868) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ##  What Are RTX Quadro Cards? 
 
  Nvidia's RTX Quadro cards are professional-level graphics cards designed for 3D design work, 3D effects, video editing, and various other applications. They can technically play games, but they aren't designed for it. They don't perform particularly well for this use, especially against more specialized graphics cards like the RTX 4070 Super or RTX 4090.

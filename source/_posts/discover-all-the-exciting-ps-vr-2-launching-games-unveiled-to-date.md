@@ -1,7 +1,7 @@
 ---
 title: Discover All the Exciting PS VR 2 Launching Games Unveiled to Date
-date: 2024-08-04 19:18:21
-updated: 2024-08-05 11:50:41
+date: 2024-08-05T02:03:25.734Z
+updated: 2024-08-06T02:03:25.734Z
 categories:
   - BestProducts
 description: This Article Describes Discover All the Exciting PS VR 2 Launching Games Unveiled to Date
@@ -53,6 +53,9 @@ These games have all been announced, but some may not be out yet.
 * _Before Your Eyes_
 * _Behind the Frame: The Finest Scenery VR_
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Fisherman's Tale](https://www.lifewire.com/thmb/SQvLDa9twYc17O5BjVy1iRN_KZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AFishermansTale-23a53ec805f74de8a12a4fa77770b6e8.jpeg) 
 
 * _Big Shots_
@@ -223,6 +226,10 @@ These games have all been announced, but some may not be out yet.
 * _Towers and Powers_
 * _Townsmen VR_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Moss and Moss: Book II](https://www.lifewire.com/thmb/XHm_pq0PpO7m8zV3JrhsjJbTcvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossandMossBookII-85eab45d6e6a44b985478d1b2b0467f0.jpg) 
 
 * _Toy Trains_
@@ -270,18 +277,27 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 **Release Date** : March 2023
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Resident Evil: Village 
 
  Capcom did PSVR 2 owners a huge service by making the entirety of 2021's_Resident Evil: Village_ playable in virtual reality. This version features manual reloads, the ability to dual-wield weapons, and a new perspective on just how tall internet-favorite vampire Lady Dimitrescu is.
 
 **Release Date** : February 2023 (VR mode)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Phasmophobia 
 
  Console owners can finally play this previously PC-only title, in which you and up to three friends form a ghost-hunting team and explore a variety of cursed locations. Your goal is to investigate, identify the entities haunting the site, and then escape before the spirits add you to their ranks.
 
 **Release Date** : August 2023  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Cosmodread 
 
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
@@ -292,10 +308,16 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
  PlayStation VR 2 has a variety of games for people who want a more immersive version of their favorite sports or even a real workout. Here are some of the best.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gran Turismo 7](https://www.lifewire.com/thmb/2IloMRqyYwZJGkYuG2qezVvq02E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gran-turismo-7-psvr2-screenshot-eyetracking-display-en-14feb23-8e143b334e9f46329010b96db4526f72.jpeg) 
 
 Polyphony Digital
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ###  Creed: Rise to Glory – Championship Edition 
 
  Fans of the_Creed_ movie series will have a blast stepping into the virtual ring._Rise to Glory: Championship Edition_ includes levels and fighters based on all three_Creeds_ , along with the ability to face off against legendary fighters like Apollo Creed, Rocky Balboa, and Ivan Drago.
@@ -304,20 +326,32 @@ Polyphony Digital
 
 **Release Date** : April 2023
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Gran Turismo 7 
 
  The_Gran Turismo_ series aims to be the most accurate racing simulator, so letting players feel like they're behind the wheel is a great match.
 
 **Release Date** : March 2022
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ###  2MD: VR Football Unleashed All-Star 
 
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games to Relax With 
 
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
 
 ### Puzzling Places 
@@ -328,6 +362,9 @@ Polyphony Digital
 
 **Release Date** : December 2021
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Tetris Effect: Connected 
 
  With this update, the legendary line-clearing game got a complete sensory overhaul, in which every move, flip, drop, and cleared line adds to the soundscape. It's also available "flat," but obviously the fully immersive musical world of_Tetris_ is the better way to play.
@@ -336,18 +373,29 @@ Polyphony Digital
 
 **Release Date** : February 2023
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Kayak VR: Mirage 
 
 _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, Norway, and other locations in a tiny, virtual boat. You don't have many goals (although you can do races and speed trials), so you're free to paddle around and say hi to all the penguins.
 
 **Release Date** : February 2023
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Best PSVR 2 Action Games 
 
  PlayStation VR 2 owners who want to push their action skills should check out these games.
 
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ###  Horizon: Call of the Mountain 
 
  The_Horizon_ series tasks players with navigating a post-apocalyptic world filled with a bunch of dangerous, animal-themed robots. This VR entry tells a new story with more challenges, and you're still fighting cybernetic dinosaurs with a bow and arrow, so the spirit is still there.
@@ -360,6 +408,9 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 **Release Date** : March 2023
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Resident Evil 4 
 
  While it's also a horror title in one of the most successful gaming franchises of all time,_Resident Evil 4_ turns up the action with hero Leon S. Kennedy's increased firepower, ability to parry a chainsaw with a knife, and knack for suplexing the undead. The VR edition of this previously flat game brings the battles, scares, and monsters into full 3D.

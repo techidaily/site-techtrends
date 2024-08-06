@@ -1,7 +1,7 @@
 ---
 title: "From Serial Killers to Unsolved Mysteries: A Selection of the 13 Best Podcasts"
-date: 2024-08-05 11:54:59
-updated: 2024-08-06 11:51:51
+date: 2024-08-05T02:03:11.595Z
+updated: 2024-08-06T02:03:11.595Z
 categories:
   - BestProducts
 description: "This Article Describes From Serial Killers to Unsolved Mysteries: A Selection of the 13 Best Podcasts"
@@ -46,6 +46,9 @@ of 13
 
 ## [ A True-Crime Podcast With a Humorous Twist: My Favorite Murder](https://www.myfavoritemurder.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![My Favorite Murder podcast website](https://www.lifewire.com/thmb/8dVlNrSToxApwH1T-JonjRcx0lE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/my-favorite-murder-podcast-b4d1868a5f0c4387b3a61f04d4644f96.png) 
 
  What We Like
@@ -68,8 +71,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [ Best Podcast for White-Collar Crime: Swindled](http://swindledpodcast.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![The Swindled podcast's website](https://www.lifewire.com/thmb/zv5iLpTvW-Y0MzVY3p1Q6iTgH4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/swindled-podcast-f1c82a2d461d4898abf8343a667421f3.png) 
 
  What We Like
@@ -93,6 +102,9 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [ A True-Crime Podcast That Tackles Flawed Investigations: In the Dark](https://features.apmreports.org/in-the-dark/) 
 
 ![In the Dark podcast](https://www.lifewire.com/thmb/gxNL1Azu-uAiaQDsrx4nYVNnq04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-best-true-crime-podcasts-4165864-d225bd426fa94284bf65f6bc977dbeb5.jpg) 
@@ -141,6 +153,9 @@ _Crimetown_ is a true-crime podcast with an original, wide-lensed angle from the
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## [ A Fascinating Podcast for Unsolved Crime Fans: Atlanta Monster](https://atlantamonster.com/) 
 
 ![Atlanta Monster podcast](https://www.lifewire.com/thmb/2WOtojt5iuS-sYghn21faxnzs6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-05-30at12.37.05-5b0e8cfb1d6404003786c847.png) 
@@ -169,6 +184,9 @@ of 13
 
 ## [ Best Crime Podcast for Variety: Criminal](https://www.thisiscriminal.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![An episode summary from the Criminal podcast](https://www.lifewire.com/thmb/zLNjw6soLyvbLZa7jrf6D1sMmZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/this-is-criminal-podcast-30107282d992486a85459bb9e6137f1f.png) 
 
  What We Like
@@ -194,6 +212,9 @@ of 13
 
 ## [ Unsettling Murder Stories for Horror Enthusiasts: Casefile](https://casefilepodcast.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Casefile podcast](https://www.lifewire.com/thmb/rAL5zZT5hA44_2JRex5nGWHBXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012-best-true-crime-podcasts-4165864-d9f60f77e6a44b44a9ddc212ef2267bf.jpg) 
 
  What We Like
@@ -217,8 +238,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  A Crime Podcast for Armchair Psychologists: Dirty John 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Dirty John podcast](https://www.lifewire.com/thmb/gP5q3bdvuxMrXQPKsMcWF7B_9EY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-best-true-crime-podcasts-4165864-ca843260508948309252205119fde4dd.jpg) 
 
  What We Like
@@ -242,8 +269,14 @@ of 13
 
 of 13
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## [ Another Cold Case Podcast for Armchair Sleuths: Someone Knows Something](https://www.cbc.ca/radio/sks/about-someone-knows-something-1.4348243) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Someone Knows Something podcast](https://www.lifewire.com/thmb/qqW8Ovofhf_gPGcvZgkK3kIEsUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-best-true-crime-podcasts-4165864-54a03eda837541c1aa84d206e311f31d.jpg) 
 
  What We Like
@@ -269,6 +302,9 @@ of 13
 
 ## [ A True-Crime Podcast on the Extreme End of the Spectrum: Sword and Scale](https://www.swordandscale.com/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Sword and Scale podcast](https://www.lifewire.com/thmb/NDAu7ZuFnnxs6aKohAbmVkV7Q5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-best-true-crime-podcasts-4165864-85cb78cdfe2e400bbfc9f8194ccaa3df.jpg) 
 
  What We Like

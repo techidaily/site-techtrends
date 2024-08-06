@@ -1,7 +1,7 @@
 ---
 title: "Insights Into the New PS5 Slim Model: Pricing Info, Launch Schedule & Hardware Specifications"
-date: 2024-08-03 22:54:47
-updated: 2024-08-06 10:39:55
+date: 2024-08-05T02:03:12.633Z
+updated: 2024-08-06T02:03:12.633Z
 categories:
   - BestProducts
 description: "This Article Describes Insights Into the New PS5 Slim Model: Pricing Info, Launch Schedule & Hardware Specifications"
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
  The PS5 Slim is now the standard model of the PlayStation 5 that is 30% smaller than the launch edition. Here's everything we know.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ##  When Was the PS5 Slim Released? 
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## PS5 Slim Price 
 
  The PlayStation 5 Slim comes in two versions, just like the original. One has a disc drive, and the other is digital-only. We thought it would see a price cut over the original MSRP, but that doesn't seem to be the case.
@@ -32,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
  While the PS5 will come with a horizontal stand, you can pick up one to display your PS5 vertically separately. That costs $29.99.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![The vertical stand for the PS5 Slim](https://www.lifewire.com/thmb/I89FBnF0oUfSqfSpcHdX3A8Vv3c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-Vertical-Stand-7ab6640af9a94338978badf7bbe2c816.jpg) 
 
 Sony
@@ -40,6 +49,9 @@ Sony
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  PlayStation 5 Slim Features & Specs 
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -50,6 +62,9 @@ Sony
 
  The general specs remain basically the same; the chips may just be slightly smaller to allow for the slimmer form factor.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
 Sony
@@ -68,6 +83,9 @@ Sony
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### PS5 Slim Digital Edition 
 
  Orig.$450 [ $399 at Amazon ](https://www.amazon.com/PlayStation%C2%AE5-Digital-slim-PlayStation-5/dp/B0CL5KNB9M/ref=sr%5F1%5F1?rnid=2528832011&s=videogames&crid=3K7X5HLPOFM3N&keywords=ps5+slim&sprefix=ps5+slim%2Cvideogames%2C193&dib%5Ftag=se&ufe=app%5Fdo%3Aamzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685&tag=lifewire-onsite-prod-20&dib=eyJ2IjoiMSJ9.CuKLfIhDdkg5mAyBeIsW8W184dwhEUzNMW1LWJQEoD1X7kthQsfrW9wtlrzivIgIGGSsFl-e9vuWt2vc10e5QdZFo2hsLYqMfv8TqPWEjIlwj1RkoJiPFp1VL7dCSUjiH1p24NEtZ5AwHhvp975VZYqpocHmbAENpvl9vLAsdk-AG7tw55aza78qmxCfAh3oY%5FDmPdi4E5ADmJ%5Frmv4N9cFHi7pZKxvgdThaE5gmTb4.XtoZjoBunoajSRe8SuP%5FTI9elmQ6UYuqrxHbVzJvUoM&qid=1717701937&refinements=p%5F89%3APlayStation&sr=1-1&ascsubtag=7966360%7Cn0d86891ff0e04630ae542ea8bcce785e08%7C)

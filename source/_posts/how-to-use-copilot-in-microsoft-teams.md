@@ -1,7 +1,7 @@
 ---
 title: How to Use Copilot in Microsoft Teams
-date: 2024-08-02 19:56:18
-updated: 2024-08-05 12:57:47
+date: 2024-08-05T02:03:25.468Z
+updated: 2024-08-06T02:03:25.468Z
 categories:
   - BestProducts
 description: This Article Describes How to Use Copilot in Microsoft Teams
@@ -23,13 +23,22 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
  Directions vary slightly between the different versions of Outlook. Below are instructions for recalling an email in the desktop and web versions.
 
 1. Open Outlook and go to the**Sent Items** folder.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sent Items side panel button in Outlook](https://www.lifewire.com/thmb/4BnADBRohOFqzovsge-fHOaPo4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_recall-a-message-in-outlook-4161319-c7834046614d4d83ac415bb4b7145b8b.jpg)
 2. Double-click the sent message you want to recall to open it in a separate window.  
  The options to recall a message are not available when the message is displayed in the Reading Pane.  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Email opened in a separate window in Outlook](https://www.lifewire.com/thmb/XNP-I5zN7JlTMoJ36H2aMcQiwr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_recall-a-message-in-outlook-4161319-74861f0552094a7e8215d2fcae8c39ec.jpg)
 3. If you're using the latest version of Outlook for Windows or you're on the web version, select**Recall Message** in the toolbar and then choose**OK** . Skip down to Step 7.  
  For older versions of Outlook, go to the**Message** tab, select the**Actions** dropdown arrow, and choose**Recall This Message** .  
  If you don't see those options, select the**three-dot** menu and go to**Actions** \>**Recall This Message** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Recall This Message menu item in Outlook](https://www.lifewire.com/thmb/XnrsAKAkhegnZiJl3-wRh82zXLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_recall-a-message-in-outlook-4161319-01e67a25438345789124c6cb9f2ef5c9.jpg)
 4. In the dialog box, select one of the following:  
    * **Delete unread copies of this message** to recall the message.  
@@ -40,6 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 6. If you selected**Delete unread copies and replace with a new message** , modify the original message and select**Send** .
 7. You'll receive an Outlook notification message regarding the success or failure of your attempt to retract or replace the email.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Requirements for Recalling an Email Message
 
  Recalling emails in Outlook comes with some caveats:
@@ -51,6 +63,9 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 
  If any of these requirements are not met, your recall will fail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Possible Results When You Recall an Outlook Email
 
  Depending on the settings of the recipient's email client, whether the original email has already been read, and several other factors, the results of your attempt to recall a message can vary. Following are some of the potential results of an Outlook recall.
@@ -70,6 +85,10 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 
  In addition, if you use Outlook on a mobile device and attempt to recall a message, the process will likely fail.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to Delay Sending Messages
 
  Sending an incorrect email can be counterproductive and even embarrassing. While Outlook’s recall feature might save you in a pinch, you can alleviate some stress by[scheduling or delaying emails](https://www.lifewire.com/schedule-emails-in-outlook-1173683) . This gives you time to recognize errors or update information before your email lands in your recipient’s inbox.

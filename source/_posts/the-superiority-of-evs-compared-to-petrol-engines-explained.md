@@ -1,7 +1,7 @@
 ---
 title: The Superiority of EVs Compared to Petrol Engines Explained
-date: 2024-08-05 23:56:43
-updated: 2024-08-06 11:24:45
+date: 2024-08-05T02:02:58.984Z
+updated: 2024-08-06T02:02:58.984Z
 categories:
   - BestProducts
 description: This Article Describes The Superiority of EVs Compared to Petrol Engines Explained
@@ -13,6 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/FT3NgmOuy0N16EEGK682NHUHJ6Y=/400x300/fi
 
  Electric vehicles have received a bit of a bad rap over the years in some ways. But electric doesn’t mean poor performance. In fact, it can mean quite the opposite. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Torque, Horsepower, and Other Engine Talk 
 
  Mention ‘low emissions’ and ‘high performance’ in the same sentence and you’ll likely get strange looks. Be honest: In over 100 years of cars, have you ever seen a muscle car with good fuel economy? Still, electric vehicles offer just that: exceptional performance and low emissions, even though it might be hard to believe.
@@ -35,6 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/FT3NgmOuy0N16EEGK682NHUHJ6Y=/400x300/fi
 
 Julie Bang
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Quiet Acceleration 
 
  It's true that sportscars sound pretty good when revved up but there’s a beautiful simplicity in the way an EV sounds with so few moving parts. 
@@ -49,6 +55,9 @@ Some EVs can hit 60 mph from a stop in under 2.5 seconds.
 
  Of course, depending on EV configuration, sprint time can vary, but some can hit 60 mph from a stop in under 2.5 seconds without scaring your neighbors. Whether you can do it without scaring yourself is another matter.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## The Efficiency Factor 
 
  Ugh, there’s that “e-word” again, but what does efficiency have to do with performance? The real question is: How much energy in the fuel gets to the ground? To illustrate, let’s think about Usain Bolt, the world-renowned sprinter.

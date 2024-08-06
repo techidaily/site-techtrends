@@ -1,7 +1,7 @@
 ---
 title: "From Fast to Slow: Decoding the Varied Speeds of EV Charging - Level 1, 2 & 3 Explained"
-date: 2024-08-02 19:30:16
-updated: 2024-08-05 11:11:59
+date: 2024-08-05T02:03:15.830Z
+updated: 2024-08-06T02:03:15.830Z
 categories:
   - BestProducts
 description: "This Article Describes From Fast to Slow: Decoding the Varied Speeds of EV Charging - Level 1, 2 & 3 Explained"
@@ -21,26 +21,41 @@ thumbnail: https://thmb.techidaily.com/0fffdaf6b0345d8277ec9fafebd3429c28f703cd8
 
  If you’re going to drive an electric vehicle (EV), you’re going to need to recharge it. That can get a little complicated if you're not clear on how the different charging options work for electric vehicles. To help clarify, here's a quick guide to the terms to know and the three EV charging levels you need to know.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  What Are EV Charging Levels, Anyway? 
 
  Charging levels L1, L2, and L3 are three general terms that refer to how fast you can charge your EV battery.
 
  Think of charging your EV like filling up a pool. You probably wouldn’t use a fire hose to fill a kiddie pool or a standard garden hose to fill an inground pool. Recharging an EV is kind of like that: It can take minutes to days, depending on the car's battery capacity, electric vehicle supply equipment (EVSE), and vehicle on-board charger (OBC) capabilities. In other words, how you charge your EV is similar to understanding the size of your EV's 'pool' and the 'hose' used to fill it. 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Illustration outlining the three EV charging levels.](https://www.lifewire.com/thmb/ShuYJeZmjU_AqL43KB-y9hsmMEU=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/charging-stations-levels-04-f5ca10a8b0354dd28bb59b1c1f004680.jpeg) 
 
 Joshua Seong
 
  Here are the basic terms to know:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  The Charging Station Equipment: EVSE 
 
  Charging station power is rated in kilowatts (kW). Higher kW numbers mean faster charging. If the charging station is rated in amps (A), kW can easily be calculated by multiplying by voltage (V) and dividing by 1,000.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ###  The 'Hose' for Receiving Power: OBC 
 
  The EVSE delivers power to the OBC, which can only deliver up to its maximum rating to the battery. For example, a 12-kW charger can only charge a maximum of 7.2 kW if the OBC is rated for 7.2 kW, but it may only charge at 6 kW if the battery is too hot or cold.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  The Car's Capacity (or Pool): kWh 
 
  Battery capacity is given in kilowatt-hours (kWh).
@@ -94,6 +109,9 @@ Joshua Seong
 
 _Times shown in hours (h) and minutes (m)._   
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## A Final Plug About Chargers 
 
  In the end, finding the right charger will come down to the capabilities of your EV and how much you want to drive it. Generally, do not count on the L1 charging cable that came with the vehicle, unless you don’t drive much.

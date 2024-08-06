@@ -1,7 +1,7 @@
 ---
 title: How to Know If Someone Has Seen Your SMS – A Guide
-date: 2024-08-05 17:29:38
-updated: 2024-08-06 12:44:40
+date: 2024-08-05T02:03:10.609Z
+updated: 2024-08-06T02:03:10.609Z
 categories:
   - BestProducts
 description: This Article Describes How to Know If Someone Has Seen Your SMS – A Guide
@@ -18,6 +18,18 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 
  Here's how to tell if someone read your text on Android and iOS smartphones. This article also covers WhatsApp, Facebook Messenger, and Instagram.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Read Receipts on iPhone
 
  On an iPhone, read receipts are the only way to tell if someone read a text you sent from Messages,[the default texting app for iOS](https://www.lifewire.com/imessage-apples-free-texting-app-1999185) . If you and your recipient activate read receipts, the word**Read** will be seen under the most recent message, along with the time the message was read.
@@ -34,6 +46,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -47,6 +62,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 3. Tap the toggle next to the read receipts options, which might be called**Send read receipts** ,**Read receipts** , or**Request receipt** , depending on the device you have.  
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -55,6 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -73,9 +94,15 @@ thumbnail: https://www.lifewire.com/thmb/WGXcV5iJLLtCvP9k0MhN7Wkdvj0=/400x300/fi
 1. Tap the**three-line** menu at the top of the app.
 2. Select the**settings/gear** button at the top of the menu.
 3. Scroll down and tap**Privacy & safety** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
 5. Tap the toggle next to**Show read receipts** so it turns on.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
 
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.

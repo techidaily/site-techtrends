@@ -1,7 +1,7 @@
 ---
 title: Top Free & Open Source DNS Services You Can Use
-date: 2024-08-02 18:18:35
-updated: 2024-08-05 12:13:16
+date: 2024-08-05T02:03:22.840Z
+updated: 2024-08-06T02:03:22.840Z
 categories:
   - BestProducts
 description: This Article Describes Top Free & Open Source DNS Services You Can Use
@@ -28,14 +28,23 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  Those are my top choices. A list of additional free DNS servers can be found in the table near the bottom of the page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Top Free & Public DNS Servers
 
  Below are more details on these free DNS servers that you can use instead of the ones assigned to your device automatically.
 
  DNS servers are referred to as all sorts of names, like DNS server addresses, internet DNS servers, internet servers, DNS IP addresses, etc., but they all mean the same thing.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Google: 8.8.8.8 & 8.8.4.4
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Public DNS website](https://www.lifewire.com/thmb/qWj4pMgWHD-gbazU6kh9AaxjDBY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-public-dns-383e413f3f374b509aec7d6c195bbbae.png)
 
 [Google Public DNS](https://developers.google.com/speed/public-dns/) promises three core benefits: a faster browsing experience, improved security, and accurate results without redirects. It's what I use on my devices.
@@ -52,6 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  As you can see above,[IPv6](https://www.lifewire.com/ipv4-vs-ipv6-4780834) IP addresses use colons. If you're not sure which one to use for Google's servers or any of the others on this page, stick with IPv4.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Control D: 76.76.2.0 & 76.76.10.0
 
 ![A list of free DNS options at Control D](https://www.lifewire.com/thmb/W1PoIB20e3W5hSR-CYEJ_oBCo-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/control-d-free-dns-2f558b21cde84ae5a686dece15e913c0.png)
@@ -84,6 +97,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  Quad9 doesn't filter content—only domains that are phishing or contain malware will be blocked.[There's also an unsecured IPv4 public DNS](https://www.quad9.net/service/service-addresses-and-features/#unsec) (i.e., no malware blocking) at 9.9.9.10 (2620:fe::10 for IPv6). Quad9 also supports DoH.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### OpenDNS: 208.67.222.222 & 208.67.220.220
 
 ![OpenDNS public DNS server website](https://www.lifewire.com/thmb/5votPFdjy1TRMp-5wxWdB3e_74c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/opendns-518a9ef00d6a4215964245aa4dfd6688.png)
@@ -104,6 +120,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
 ### Cloudflare: 1.1.1.1 & 1.0.0.1
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cloudflare 1.1.1.1 public DNS server website](https://www.lifewire.com/thmb/8O47Sc85B2ywZWpyfsbqiBMLIEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-and-public-dns-servers-2626062-cloudflare-1111-7977c2b8a42e408c81b0d59694bd634f.jpg)
 
 [Cloudflare](https://one.one.one.one/dns/) built 1.1.1.1 to be the "internet’s fastest DNS directory" ([here's how DNSPerf ranks them](https://www.dnsperf.com/#!dns-resolvers) ). I like them for the privacy commitment—they will never log your IP address, never sell your data, and never use your data to target ads.
@@ -118,6 +137,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  There are setup directions for all your devices through the link above. Another way to use it is through the[1.1.1.1 app](https://one.one.one.one/) , which provides quick DNS setup on mobile and desktop devices; it also doubles as a VPN.[1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) can block malware (1.1.1.2) or malware and adult content (1.1.1.3). It[supports DNS over HTTPS and TLS](https://developers.cloudflare.com/1.1.1.1/encryption/) as well.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### AdGuard DNS: 94.140.14.14 & 94.140.15.15
 
 ![AdGuard DNS website](https://www.lifewire.com/thmb/VGFWb-Sg7jSxs7MM04dHcD40dbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adguard-dns-b78348dab9e240bc94d94fd9be62e8e6.png)
@@ -152,6 +174,15 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
 ### Alternate DNS: 76.76.19.19 & 76.223.122.150
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Alternate DNS website](https://www.lifewire.com/thmb/-4LtpRDVaV8Hg2TKADqt1kg7jSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alternate-dns-b37b229caddf47a3b4808394e1d80350.png)
 
 [Alternate DNS](https://alternate-dns.com/) is a free public DNS service that blocks ads before they reach your network. It works pretty well in my experience, but it's not 100 percent perfect.
@@ -166,6 +197,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  You can[sign up with Alternate DNS for free](https://alternate-dns.com/registration%5Ffree.php) , but there's also a[Family Premium DNS](https://alternate-dns.com/family-premium.php) option that blocks adult content.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Why Use Different DNS Servers?
 
  One reason you might want to change the DNS servers assigned by your ISP is if you suspect there's a problem with the ones you're using now. An easy way to test for a DNS server issue is by typing a[website's IP address](https://www.lifewire.com/find-the-ip-address-of-a-web-site-818155) into the browser. If you can reach the website with the IP address, but not the name, then the DNS server is likely having issues.
@@ -197,6 +231,9 @@ thumbnail: https://www.lifewire.com/thmb/RsJ_jTsXC7VCxwY9oKXsv7Uq4JM=/540x405/fi
 
  Some of these providers have several DNS servers. Visit the link above and select a server that's geographically nearby for the optimal performance, or one that has the features you're interested in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## What Are DNS Servers?
 
  DNS servers translate the friendly domain name you enter into a browser (like_lifewire.com_ ) into the[public IP address](https://www.lifewire.com/what-is-a-public-ip-address-2625974) that's needed for your device to actually communicate with that site.
