@@ -1,0 +1,214 @@
+---
+title: The Ultimate List of Must-Have Classroom Technology Essentials for Pupils
+date: 2024-08-12T03:27:59.750Z
+updated: 2024-08-13T03:27:59.750Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate List of Must-Have Classroom Technology Essentials for Pupils
+excerpt: This Article Describes The Ultimate List of Must-Have Classroom Technology Essentials for Pupils
+thumbnail: https://www.lifewire.com/thmb/UGIPmED_0u7kcdLpAyJvzw-6n7Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/studentplan-5b4ee20d46e0fb005b931ed4.jpg
+---
+
+## Ultimate List of Gmail's Fastest Typing Tricks: Discover the Top 30 Shortcuts
+ Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
+
+ Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## How to Enable Gmail Shortcuts
+
+ To use Gmail shortcuts, you must first enable them in the **Settings** menu.
+
+1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
+![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
+2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
+3. Scroll to the bottom of the page and select **Save Changes** .  
+![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+## How to Create, Send, and Forward Email
+
+ With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
+
+* **Create a new message (C)** : Press the**C** key to create a new message.
+* **Create a new message in a new tab (D)** : Press the**D** key to create a new message in a new browser tab.
+* **Send an email (Ctrl** +**Enter)** : Press**Ctrl** +**Enter** to send an open message.
+* **Forward a message (F)** : Press**F** to forward an open message.
+
+ On Macs, use the**Command** key in place of the**Ctrl** key.
+
+## How to Reply to Email
+
+ By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
+
+* **Reply to a message (R)** : Press**R** to reply to an open message.
+* **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+## How to Scroll Through Emails
+
+ These shortcuts are handy for navigating through your messages and long email threads:
+
+* **Scroll down an email list (J)** : Press the**J** key to scroll down.
+* **Scroll up an email list (K)** : Press the**K** key to scroll up.
+* **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+## How to Select Multiple Emails
+
+ Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
+
+* **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Add Formatting to Email Text
+
+ Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
+
+* **Bold text (Ctrl** +**B)** : Highlight the text you wish to bold, and then press**Ctrl** +**B** .
+* **Italicize text (Ctrl** +**I)** : Highlight the text you wish to italicize, and then press**Ctrl** +**I** .
+* **Underline text (Ctrl** +**U)** : Highlight the text you wish to underline, and then press**Ctrl** +**U** .
+* **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to Add Elements to an Email
+
+ Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
+
+* **Insert a hyperlink (Ctrl** +**K)** : To insert a URL link, highlight the desired text and press**Ctrl** +**K** .
+* **Insert a numbered list (Ctrl** +**Shift** +**7)** : Insert the cursor where you want the numbered list to appear, then press**Ctrl** +**Shift** +**7** .
+* **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+## Email Maintenance Shortcuts
+
+ Use these shortcuts to help manage your inbox:
+
+* **Find an email (/)** : Press**/** to place the cursor in the search bar.
+* **Archive an email (E)** : Open an email or select it by clicking the box beside the sender's name, then press**E** to archive it.
+* **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
+* **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
+* **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+## "Go to" Shortcuts in Gmail
+
+ The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
+
+* **Go to Tasks (G, then K)** : Press the **G** key, then press **K** to open[Google Tasks](https://www.lifewire.com/google-tasks-4149414) .
+* **Go to Contacts (G, then C)** : Press the**G** key, then press**C** to open your contacts list.
+* **Go to Starred conversations (G, then S)** : Press the**G** key, then press**S** to see your[starred Gmail messages](https://www.lifewire.com/how-to-mark-messages-using-stars-in-gmail-1172088) .
+* **Go to Sent messages (G, then T)** : Press the**G** key, then press**T** to see sent messages.
+* **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
+* **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
+* **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to View All Gmail Shortcuts
+
+ Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
+
+* **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premium-online-audio-solutions-guide/"><u>[New] 2024 Approved  Premium Online Audio Solutions Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-becoming-an-instagram-reel-prodigy/"><u>[Updated] Becoming an Instagram Reel Prodigy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>2024 Approved  Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipated-apple-household-assistant-bot-projected-cost-and-launch-timeline-unveiled/"><u>Anticipated Apple Household Assistant Bot - Projected Cost & Launch Timeline Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/coming-soon-to-google-store-the-pixel-buds-pro-2-leak-what-we-know-about-price-and-specs/"><u>Coming Soon to Google Store? The Pixel Buds Pro 2 Leak – What We Know About Price and Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-syncing-and-viewing-your-icloud-images-on-all-devices/"><u>Complete Guide: Syncing and Viewing Your iCloud Images on All Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-for-when-the-openal32dll-file-is-missing/"><u>Comprehensive Strategies for When the openal32.dll File Is Missing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/defeating-blue-screen-of-death-expert-techniques-for-windows-users/"><u>Defeating Blue Screen of Death: Expert Techniques for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-our-picked-best-offline-racing-games-for-pc/"><u>Discover Our Picked Best Offline Racing Games for PC !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-5-automation-tools-to-boost-your-pinterest-presence/"><u>Discover the Best 5 Automation Tools to Boost Your Pinterest Presence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-next-home-key-sites-to-streamline-apartment-searches/"><u>Discovering Your Next Home: Key Sites to Streamline Apartment Searches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-guide-updating-microsoft-powerpoint-step-by-step-tutorial/"><u>Easy Guide: Updating Microsoft PowerPoint - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-schedule-a-technical-support-session-with-apples-experts/"><u>Easy Ways to Schedule a Technical Support Session with Apple's Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-dbghelpdll-errors-effective-solutions-for-windows-users/"><u>Eliminate 'dBghelp.dll' Errors: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-strategies-for-conquering-a-lynel-encounter-in-zelda-breath-of-the-wild/"><u>Essential Strategies for Conquering a Lynel Encounter in Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-identifying-your-ideal-phone-enclosure/"><u>Expert Advice on Identifying Your Ideal Phone Enclosure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-free-streaming-options-similar-to-netflix-ranked/"><u>Explore the Best Free Streaming Options Similar To Netflix, Ranked!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-elusive-binkw32dll-file-missing-dilemma-for-uninterrupted-viewing/"><u>Fixing the Elusive BinkW32.dll File Missing Dilemma for Uninterrupted Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-windows-11s-search-back-on-track-effective-fixes-for-common-glitches/"><u>Getting Windows 11'S Search Back on Track: Effective Fixes for Common Glitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/googles-latest-device-unveiled-release-timeline-and-comprehensive-specs-for-the-new-pixel-tablet/"><u>Google's Latest Device Unveiled! Release Timeline and Comprehensive Specs for the New Pixel Tablet</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-the-best-fitness-tracker-top-5-considerations-every-buyer-needs-to-know/"><u>How To Choose the Best Fitness Tracker - Top 5 Considerations Every Buyer Needs to Know</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y100t-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y100t</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-use-ken-burns-effect-in-final-cut-pro-with-detailed-steps/"><u>How to Use Ken Burns Effect in Final Cut Pro with Detailed Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hulu-or-hulu-plus-understanding-their-key-distinctions/"><u>Hulu or Hulu Plus: Understanding Their Key Distinctions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-se-2022-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone SE (2022) The Right Way</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-2023-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 2023 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-snaptube-downloader-snag-twitter-videos-on-iphone/"><u>In 2024, SnapTube Downloader  Snag Twitter Videos on iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-basics-how-to-perform-a-factory-reset-on-your-samsung-tv/"><u>Mastering the Basics: How to Perform a Factory Reset on Your Samsung TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-laptop-lifespan-decoding-the-windows-11-battery-report-feature/"><u>Maximizing Laptop Lifespan: Decoding the Windows 11 Battery Report Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-blues-with-nintendo-switch-online-outage-or-user-error/"><u>Navigating the Blues with Nintendo Switch Online - Outage or User Error?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722880633571-restoring-calling-functionality-on-your-android-expert-tips-and-solutions/"><u>Restoring Calling Functionality on Your Android – Expert Tips and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/roku-express-vs-stick-a-comprehensive-comparison-guide/"><u>Roku Express vs Stick - A Comprehensive Comparison Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-your-email-how-to-set-up-gmail-verification-process/"><u>Securing Your Email: How to Set Up Gmail Verification Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-moving-pictures-from-google-photos-to-icloud-storage/"><u>Step-by-Step Tutorial on Moving Pictures From Google Photos to iCloud Storage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-on-utilizing-selfie-illumination-techniques/"><u>The Beginner's Handbook on Utilizing Selfie Illumination Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-champions-guide-to-martial-arts-gaming-for-2024/"><u>The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-monitoring-and-contributing-to-hashtags-via-twitter-apps/"><u>The Ultimate Guide to Monitoring and Contributing to Hashtags via Twitter Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-of-free-multilingual-learning-tools-thriving-this-year/"><u>The Ultimate Selection of Free Multilingual Learning Tools Thriving This Year</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-impressive-srt-converters-for-mac-and-windows/"><u>Top 10 Impressive SRT Converters for Mac and Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-strategies-for-securely-backing-up-your-digital-files/"><u>Top 5 Strategies for Securely Backing Up Your Digital Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-the-future-with-artificnial-intelligence/"><u>Transforming the Future with Artificnial Intelligence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-zlibdll-files-on-your-pc/"><u>Troubleshooting Missing 'zlib.dll' Files on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-android-users-who-cant-get-texts-delivered/"><u>Troubleshooting Steps for Android Users Who Can’t Get Texts Delivered</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-restoring-and-repairing-a-lost-winhttpdll-component-in-windows-systems/"><u>Troubleshooting Techniques: Restoring and Repairing a Lost Winhttp.dll Component in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-navigating-and-using-the-internet-archives-wayback-machine/"><u>Ultimate Guide to Navigating and Using the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-selection-of-wi-fi-repeaters-to-broaden-network-accessibility-2024-edition/"><u>Ultimate Selection of Wi-Fi Repeaters to Broaden Network Accessibility - 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-does-a-dvr-do-demystifying-digital-video-recorders-for-consumers/"><u>What Does a DVR Do? Demystifying Digital Video Recorders for Consumers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-a-dvr-digital-video-recorder/"><u>What Is a DVR (Digital Video Recorder)?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-might-you-encounter-problems-with-video-playback-on-youtube/"><u>Why Might You Encounter Problems with Video Playback on YouTube?</u></a></li>
+</ul></div>

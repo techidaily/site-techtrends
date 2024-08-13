@@ -1,0 +1,198 @@
+---
+title: Rescue Techniques for Missing Emails in Google's Mail Service
+date: 2024-08-12T03:24:02.491Z
+updated: 2024-08-13T03:24:02.491Z
+categories:
+  - BestProducts
+description: This Article Describes Rescue Techniques for Missing Emails in Google's Mail Service
+excerpt: This Article Describes Rescue Techniques for Missing Emails in Google's Mail Service
+thumbnail: https://www.lifewire.com/thmb/ZaJQCCpXkhbfmc3M_SkIeSf-RAc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmailscreen01-29256c0afe4a4ea89db447ff60e14302.jpg
+---
+
+## The Ultimate Guide to Using Quick-Keyboard Techniques in Gmail - Top 30 Tips and Tricks
+ Managing and organizing your email can work just fine using drag and drop. But if you have a lot of email, learning Gmail's keyboard commands (along with some[Gmail tricks and tips](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146) ) can save you hours. Here are more than two dozen to pick from. Oh, don't be intimidated. Just pick one and try it out for a bit. Then come back to learn more.
+
+ Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
+
+## How to Enable Gmail Shortcuts
+
+ To use Gmail shortcuts, you must first enable them in the **Settings** menu.
+
+1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
+2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
+3. Scroll to the bottom of the page and select **Save Changes** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Create, Send, and Forward Email
+
+ With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
+
+* **Create a new message (C)** : Press the**C** key to create a new message.
+* **Create a new message in a new tab (D)** : Press the**D** key to create a new message in a new browser tab.
+* **Send an email (Ctrl** +**Enter)** : Press**Ctrl** +**Enter** to send an open message.
+* **Forward a message (F)** : Press**F** to forward an open message.
+
+ On Macs, use the**Command** key in place of the**Ctrl** key.
+
+## How to Reply to Email
+
+ By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
+
+* **Reply to a message (R)** : Press**R** to reply to an open message.
+* **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## How to Scroll Through Emails
+
+ These shortcuts are handy for navigating through your messages and long email threads:
+
+* **Scroll down an email list (J)** : Press the**J** key to scroll down.
+* **Scroll up an email list (K)** : Press the**K** key to scroll up.
+* **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+## How to Select Multiple Emails
+
+ Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
+
+* **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+## How to Add Formatting to Email Text
+
+ Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
+
+* **Bold text (Ctrl** +**B)** : Highlight the text you wish to bold, and then press**Ctrl** +**B** .
+* **Italicize text (Ctrl** +**I)** : Highlight the text you wish to italicize, and then press**Ctrl** +**I** .
+* **Underline text (Ctrl** +**U)** : Highlight the text you wish to underline, and then press**Ctrl** +**U** .
+* **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+## How to Add Elements to an Email
+
+ Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
+
+* **Insert a hyperlink (Ctrl** +**K)** : To insert a URL link, highlight the desired text and press**Ctrl** +**K** .
+* **Insert a numbered list (Ctrl** +**Shift** +**7)** : Insert the cursor where you want the numbered list to appear, then press**Ctrl** +**Shift** +**7** .
+* **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
+
+ On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## Email Maintenance Shortcuts
+
+ Use these shortcuts to help manage your inbox:
+
+* **Find an email (/)** : Press**/** to place the cursor in the search bar.
+* **Archive an email (E)** : Open an email or select it by clicking the box beside the sender's name, then press**E** to archive it.
+* **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
+* **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
+* **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## "Go to" Shortcuts in Gmail
+
+ The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
+
+* **Go to Tasks (G, then K)** : Press the **G** key, then press **K** to open[Google Tasks](https://www.lifewire.com/google-tasks-4149414) .
+* **Go to Contacts (G, then C)** : Press the**G** key, then press**C** to open your contacts list.
+* **Go to Starred conversations (G, then S)** : Press the**G** key, then press**S** to see your[starred Gmail messages](https://www.lifewire.com/how-to-mark-messages-using-stars-in-gmail-1172088) .
+* **Go to Sent messages (G, then T)** : Press the**G** key, then press**T** to see sent messages.
+* **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
+* **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
+* **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+## How to View All Gmail Shortcuts
+
+ Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
+
+* **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
+
+![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4/"><u>[New] In 2024, Unlocking Content  Easy Downloads of Vimeo HD Videos (MP4)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-your-pictures-focus-with-gaussian-blur/"><u>[New] Perfect Your Picture's Focus with Gaussian Blur</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-time-warp-with-snapchat-reversing-videos-simplified/"><u>[New] Time Warp with Snapchat  Reversing Videos Simplified</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-x-tape-maker-desktop-compatible/"><u>[Updated] 2024 Approved  X-Tape Maker  Desktop Compatible</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[Updated] In 2024, Channel Visualization  Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-audio-playwright-craftsmanship/"><u>[Updated] Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-wedding-countdown-the-best-androidios-clock-apps-guide/"><u>[Updated] Streamline Your Wedding Countdown  The Best Android/iOS Clock Apps Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-pc-vr-headsets-ranked/"><u>2024 Approved  Best PC VR Headsets Ranked</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-fix-for-errors-when-windows-cant-locate-gsdll32dll-file/"><u>Complete Fix for Errors when Windows Can't Locate gsdll32.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-restoring-or-replacing-the-lost-msvcrtdll-library-file/"><u>Comprehensive Guide: Restoring or Replacing the Lost Msvcrt.dll Library File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquer-technical-glitches-restoring-clarity-to-facetimes-blackened-interface/"><u>Conquer Technical Glitches: Restoring Clarity to FaceTime's Blackened Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/current-must-watch-british-tv-programs-on-netflix/"><u>Current Must-Watch British TV Programs on Netflix</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-best-8-3d-realms-with-glossy-text-effects/"><u>Discover Best 8 3D Realms with Glossy Text Effects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-your-view-on-ios-devices-a-guide-to-zooming-inout/"><u>Enhancing Your View on iOS Devices: A Guide to Zooming In/Out</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-technology-gadgets-for-students-a-must-have-list/"><u>Essential Technology Gadgets for Students: A Must-Have List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-error-when-your-system-cant-find-jvmdll-comprehnensive-solutions-and-tips/"><u>Fixing the Error: When Your System Can't Find JVM.dll - Comprehnensive Solutions and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-soggy-to-secure-effective-steps-to-dry-out-and-repair-a-wet-iphone-or-ipod/"><u>From Soggy to Secure: Effective Steps to Dry Out and Repair a Wet iPhone or iPod</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-resolving-lcd-issues-fixing-screen-flicker-on-surface-devices/"><u>Guide to Resolving LCD Issues: Fixing Screen Flicker on Surface Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correct-the-cannot-be-opened-developer-not-verified-issue-in-macos/"><u>How to Correct the 'Cannot Be Opened, Developer Not Verified' Issue in macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-repair-cygwin1dll-not-found-on-your-computer/"><u>How to Repair 'cygwin1.dll Not Found' On Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrate-email-on-the-go-how-to-add-gmail-to-apple-watch/"><u>Integrate Email on the Go: How To Add Gmail to Apple Watch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-new-features-a-guide-to-using-live-activities-in-ios-16/"><u>Mastering the New Features: A Guide to Using Live Activities in iOS 16</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-graphics-card-potential-with-newly-available-nvidia-rtx-2n80-super-driver-software-optimal-for-win10win11/"><u>Maximize Your Graphics Card Potential with Newly Available NVIDIA RTX 2N80 Super Driver Software - Optimal for Win10/Win11!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-facetime-display-errors-fixing-the-elusive-black-screen-challenge/"><u>Overcoming FaceTime Display Errors: Fixing the Elusive Black Screen Challenge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snappy-driver-installer-v113-review/"><u>Snappy Driver Installer v1.13 Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-correcting-http-401-forbidden-errors/"><u>Step-by-Step Solution: Correcting HTTP 401 Forbidden Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-connecting-your-smartphone-with-chromecast-master-the-art-of-casting/"><u>The Ultimate Guide to Connecting Your Smartphone with Chromecast: Master the Art of Casting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-7-exceptional-alarm-clock-apps-for-you/"><u>The Ultimate List: 7 Exceptional Alarm Clock Apps for You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolving-missing-mfc42dll-errors-effectively/"><u>Troubleshooting and Resolving Missing mfc42.dll Errors Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-echo-is-offline-on-your-amazon-alexa-device/"><u>Troubleshooting Steps: Resolving 'Echo Is Offline' On Your Amazon Alexa Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-resolve-mscorwksdll-is-not-detected-or-absent-error-easily/"><u>Troubleshooting: Resolve 'mscorwks.dll' Is Not Detected or Absent Error Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-rumors-decoded-meta-quest-prototypes-projected-price-and-expected-arrival/"><u>Upcoming Rumors Decoded: Meta Quest Prototype's Projected Price & Expected Arrival</u></a></li>
+</ul></div>
