@@ -1,0 +1,130 @@
+---
+title: The Ultimate Fixes to Correct an Avcodec.dll Error on Your PC
+date: 2024-08-18T22:29:40.288Z
+updated: 2024-08-19T22:29:40.288Z
+categories:
+  - BestProducts
+description: This Article Describes The Ultimate Fixes to Correct an Avcodec.dll Error on Your PC
+excerpt: This Article Describes The Ultimate Fixes to Correct an Avcodec.dll Error on Your PC
+thumbnail: https://www.lifewire.com/thmb/zddE-ZrMv8XmI6WpA1UmCGq2XPQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/avcodec-dll-error-message-5a9ef721eb97de003642bfa1.png
+---
+
+## Fix the 'Not Found' Error for msvcr80.dll on Your PC Easily
+ Msvcr80.dll errors occur when the msvcr80 [DLL file](https://www.lifewire.com/what-is-a-dll-file-2625852) is removed or corrupted. In some cases, msvcr80.dll errors could be due to problems with the [registry](https://www.lifewire.com/windows-registry-2625992) , a[virus](https://www.lifewire.com/what-is-a-computer-virus-4799053) , or a[hardware](https://www.lifewire.com/computer-hardware-2625895) failure.
+
+ This article is about fixing msvcr80.dll errors, not to be confused with[msvcr90.dll errors](https://www.lifewire.com/how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807) .
+
+## How to Fix Msvcr80.dll Errors
+
+ Follow the steps in the order they're listed below to try the more likely fixes first.
+
+ There are lots of[reasons to never download DLL files](https://www.lifewire.com/important-reasons-not-to-download-dll-files-2624455) like this one from a "DLL download website." If you need a copy of this file, it's best to obtain it from its original, legitimate source.
+
+1. Install the[Microsoft Visual C++ 2005 Service Pack 1 Redistributable Package MFC Security Update](https://www.microsoft.com/en-us/download/details.aspx?id=26347) to restore the msvcr80.dll file with the most recent copy provided by Microsoft.  
+[How to Tell if You Have Windows 64-Bit or 32-Bit](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475)  
+![Download and install the Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package MFC Security Update.](https://www.lifewire.com/thmb/y0cJF8YcT7jUhoYHa6I2MLkUK34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-d6779f27587a4e7e82f12da8733de903.jpg)  
+ If you're unable to access Windows normally due to the error, try[starting Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) .
+2. [Restore msvcr80.dll from the Recycle Bin](https://www.lifewire.com/how-to-restore-deleted-files-from-the-recycle-bin-2624515) if you accidentally deleted it. If you've already emptied the Recycle Bin, you might have luck using a[free file recovery program](https://www.lifewire.com/free-data-recovery-software-tools-2622893) to undelete it.  
+![Recycle bin on the Windows 10 desktop](https://www.lifewire.com/thmb/4ut5BIE7nDWKwmd_W4aHzm-d8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-2bce627cec6b462da3ff837017f14eb4.jpg)
+3. [Run a virus/malware scan](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) if you think the msvcr80.dll error could be caused by a hostile program masquerading as the DLL file.
+4. [Use System Restore to undo recent system changes](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you suspect that the msvcr80.dll error was caused by recent changes made to an important file or configuration,[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) might be able to restore it.  
+![System Restore in the Windows System Properties menu](https://www.lifewire.com/thmb/_-1sJ8p4CJYlFzHdYO59LHYJa6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807-eba3b628271e4185b41ac1cdbd6c661f.jpg)
+5. [Reinstall the program that uses the msvcr80.dll file](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if you encounter these errors when using a particular program. Doing so should replace the missing DLL file.  
+![Uninstall apps in the Windows settings](https://www.lifewire.com/thmb/aR4ZlFW-s9gwHqMKvW-W07CQYKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-1c4381251a3f4f778657b0bc91aef6cb.jpg)
+6. [Install any available Windows updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Some[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and [patches](https://www.lifewire.com/what-is-a-patch-2625960) installed through Windows Update include important updates that could be related to this DLL file.
+7. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . This should restore all Windows DLL files to their working versions, which might include the msvcr80.dll file.
+8. Use a [registry cleaner program](https://www.lifewire.com/free-registry-cleaners-2626176) to repair msvcr80.dll related issues in the registry. This will remove invalid msvcr80.dll [registry entries](https://www.lifewire.com/what-is-a-registry-key-2625999) that might be causing the DLL error.  
+ Only really specific "fix it" solutions call for a registry cleaner. You can read more on what they do and when you might need one in our[Registry Cleaners FAQ](https://www.lifewire.com/registry-cleaner-faq-2625124) .
+9. [Perform a clean installation of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . As a last resort, this step will erase everything from the hard drive and install a fresh copy of the operating system.  
+![Windows installation screen](https://www.lifewire.com/thmb/UHym4EqxQc8zrcXcggydWXdpQWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-00d097c0975044eb84b2d6b6908e5a15.jpg)  
+ All the information on your hard drive will be erased during a clean installation.
+10. Use a [free memory testing tool](https://www.lifewire.com/free-memory-test-programs-2626178) or a [hard drive testing program](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) to check for [hardware-related DLL errors](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) . If the hardware fails any of your tests, [replace the memory](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) or [replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) as soon as possible, or take your PC to a professional [computer repair service](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) .
+
+## Causes of Msvcr80.dll Errors
+
+ There are several ways msvcr80.dll errors can show up on your computer. Here are some of the more common messages you might see:
+
+* **Msvcr80.dll Not Found**
+* **This application failed to start because msvcr80.dll was not found. Re-installing the application may fix this problem.**
+* **APSDaemon.exe - System Error - MSVCR80.dll is missing from your computer.**
+* **Cannot find \[PATH\]\\msvcr80.dll**
+* **The file msvcr80.dll is missing.**
+* **Cannot start \[APPLICATION\]. A required component is missing: msvcr80.dll. Please install \[APPLICATION\] again.**
+
+ These error messages might appear while using certain programs, or when Windows first starts up or shuts down. Errors could be related to any program that uses this file in Microsoft[operating systems](https://www.lifewire.com/operating-systems-2625912) like Windows 11, Windows 10, Windows 8, etc.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-binge-worthy-music-reaction-videos-on-youtube/"><u>[New] In 2024, How to Binge-Worthy Music Reaction Videos on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlock-ez-grabbers-potential-with-a-simple-tutorial/"><u>[New] In 2024, Unlock EZ Grabber's Potential with a Simple Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-iphoneandroid-integrating-playlists-into-your-fb-music/"><u>[Updated] In 2024, IPhone/Android  Integrating Playlists Into Your FB Music</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>[Updated] Transform Your Speech  Access to No-Cost Voice Manipulation Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-16-unveiled-app-reviews-anticipated-costs-official-release-info-and-buzzworthy-tech-details-inside/"><u>Android 16 Unveiled: App Reviews, Anticipated Costs, Official Release Info & Buzzworthy Tech Details Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-guide-to-configuring-a-new-meta-vr-headset-profile-for-questquest-2/"><u>Beginner's Guide to Configuring a New Meta VR Headset Profile for Quest/Quest 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bringing-tiktok-videos-directly-to-your-living-room-screen/"><u>Bringing TikTok Videos Directly to Your Living Room Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/client-and-server-error-resolution-tackling-vpn-error-800-successfully/"><u>Client and Server Error Resolution: Tackling VPN Error 800 Successfully</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-7-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-12-favorite-voip-calls-apps-to-download-for-free/"><u>Explore The Best - 12 Favorite VoIP Calls Apps to Download for Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-iphone-volume-trouble-making-sure-you-dont-miss-calls/"><u>Fixing iPhone Volume Trouble: Making Sure You Don't Miss Calls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/going-off-grid-connect-online-without-cables-or-telephone-services/"><u>Going Off-Grid: Connect Online without Cables or Telephone Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-i-get-my-alexa-speaker-working-again-when-it-stops-answering/"><u>How Can I Get My Alexa Speaker Working Again When It Stops Answering?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-6s-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 6s?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-safely-delete-photos-from-icloud-and-preserve-your-iphones-collection/"><u>How to Safely Delete Photos From iCloud & Preserve Your iPhone's Collection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-moto-g04-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Moto G04 to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbelievable-evaluation-and-alternative-choices/"><u>In 2024, Unbelievable Evaluation & Alternative Choices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-and-external-displays-corrective-actions-when-its-not-working-right/"><u>Mac and External Displays: Corrective Actions When It's Not Working Right</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-a-step-by-step-method-for-logitech-keyboard-users/"><u>Mastering the Art of Screenshots: A Step-by-Step Method for Logitech Keyboard Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip4-unveiled-launch-details-and-feature-breakdown/"><u>Samsung Galaxy Z Flip4 Unveiled - Launch Details & Feature Breakdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-viewing-hook-up-disney-plus-to-chromecast-effortlessly/"><u>Seamless Viewing: Hook Up Disney Plus to Chromecast Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-resolving-issues-with-non-ejecting-audio-and-video-drives/"><u>Step-by-Step Tutorial: Resolving Issues with Non-Ejecting Audio and Video Drives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-achieving-official-verification-status-on-instagram/"><u>Steps to Achieving Official Verification Status on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-kid-friendly-websites-with-free-movie-downloads/"><u>Top 6 Kid-Friendly Websites with Free Movie Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-hdcp-issues-identification-and-remedies-explained/"><u>Troubleshooting HDCP Issues: Identification & Remedies Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-non-functional-amazon-prime-captions-a-step-by-step-guide/"><u>Troubleshooting Non-Functional Amazon Prime Captions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-or-not-found-msvcr100dll-error-on-your-pc/"><u>Troubleshooting the 'Missing' Or 'Not Found' MSVCR100.DLL Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-correctly-addressing-the-wininetdll-cant-be-found-problem/"><u>Troubleshooting Tips: Correctly Addressing the 'wininet.dll Can't Be Found' Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-issues-with-non-responsive-mozilla-thunderbird/"><u>Troubleshooting Tips: Resolving Issues with Non-Responsive Mozilla Thunderbird</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-on-the-power-again-strategies-for-diagnosing-and-fixing-code-10-error-causes/"><u>Turn On the Power Again: Strategies for Diagnosing and Fixing Code 10 Error Causes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-linking-your-pc-with-bluetooth-audio-devices/"><u>Ultimate Guide: Linking Your PC with Bluetooth Audio Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-levels-with-ease-a-gamers-guide-to-ps4-video-capture/"><u>Unlocking Levels With Ease: A Gamer's Guide to PS4 Video Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-power-of-wrist-technology-understanding-smartwatches-and-their-functions/"><u>Unveiling the Power of Wrist Technology: Understanding Smartwatches & Their Functions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-launch-of-google-pixel-tablet-full-details-on-specifications-and-announcement-timeline/"><u>Upcoming Launch of Google Pixel Tablet: Full Details on Specifications & Announcement Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-samsung-galaxy-z-fold-6-explore-pricing-info-releasing-dates-and-cutting-edge-specs/"><u>Upcoming Samsung Galaxy Z Fold 6 - Explore Pricing Info, Releasing Dates & Cutting-Edge Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-all-james-bond-films-in-chronological-order-a-comprehensive-list/"><u>Watch All James Bond Films in Chronological Order - A Comprehensive List</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->

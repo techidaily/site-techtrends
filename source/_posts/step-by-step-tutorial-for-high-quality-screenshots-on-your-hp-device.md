@@ -1,0 +1,130 @@
+---
+title: Step-by-Step Tutorial for High-Quality Screenshots on Your HP Device
+date: 2024-08-18T22:38:01.745Z
+updated: 2024-08-19T22:38:01.745Z
+categories:
+  - BestProducts
+description: This Article Describes Step-by-Step Tutorial for High-Quality Screenshots on Your HP Device
+excerpt: This Article Describes Step-by-Step Tutorial for High-Quality Screenshots on Your HP Device
+thumbnail: https://www.lifewire.com/thmb/O1w3yTZr-vobCfDFUrt_FSOawbA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-screenshot-on-an-hp-laptop-5113272-795821d7ca3f4efe9e389737f59551f4.jpg
+---
+
+## Access Hidden Notifications in Your iPhone's History - Tutorial Included
+### What to Know
+
+* **Swipe up** from the middle on your iPhone’s Lock Screen to pull up the Notification Center.
+* Unlocked iPhone:**Swipe down** from the**top-left** corner of the screen.
+* There is no way to recall deleted notifications.
+
+ This article explains how to find and interact with older notifications on your iPhone.
+
+## How Do I View Past Notifications on iPhone?
+
+ Notifications that have recently popped up on your iPhone’s lock screen should remain visible for some time. However, eventually, they will disappear or be replaced by more recent ones. If you happen to miss any notifications, recalling them is simple.
+
+ Attempting to view older (but still active) notifications on your iPhone’s lock screen uses the same steps regardless of whether you allow notifications to display on a locked iPhone.
+
+1. If your iPhone’s screen is turned off, turn it on by tapping it or, depending on which iPhone you have, pressing either the**Power** or**Home** button.
+2. Swipe up from the middle of your iPhone’s Lock Screen to pull up a list of notifications. If there are no notifications, you’ll see**No Older Notifications** appear instead.
+3. Depending on the number of pending notifications, you may see all of them or be organized into groups based on the apps that generated the notifications.  
+![Swiping up to view the Notification Center on the iPhone Lock screen](https://www.lifewire.com/thmb/2ChwjgKfHw6LD0SO3AW-Th9tN2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_view-old-notifications-on-iphone-5212339-4141b55e71b9428ebdaaa0b9896fa5fd.jpg)
+4. Tap a notification, such as a text, to open the connected app.  
+ If your iPhone is locked, you must unlock it with Face ID, Touch ID, or your password to continue.
+5. Swipe left on a notification (or grouping of notifications) to pull up the**Options** and**Clear/Clear All** buttons.
+6. Tap**Options** to pull up a small menu to adjust notification settings for the app the notification originated from. If desired, you can use the menu to mute or turn off notifications for the app.  
+![iPhone Notification screen with Open, Options, Clear All highlighted and swipe left indicated](https://www.lifewire.com/thmb/n7FbKDAPSdoyav7UQdba-igvm4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swipeleft-959079301a7c4079b70a47f7333c8676.jpg)
+7. Tap**Clear** or**Clear All** (depending on if there's one or several notifications in one category) to delete notifications from an organized group.  
+ This action will remove existing notifications from your Lock Screen until new ones appear but will not affect anything from within the app itself. It will also not affect notifications badges appearing on the app’s icon.
+8. If you want to delete all current notifications at once, tap**X** (next to Notification Center), then tap**Clear All Notifications** . As with**Clear All** , this will remove existing notifications from your iPhone’s lock screen.  
+![iPhone Notifications with Clear, X, and Clear all Notifications highlighted](https://www.lifewire.com/thmb/dT2FzzX1qo2wc0Gk4zYO2_dqzVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clearallnotifications-9ad9e652a6994a3fa1de4b4e0c619980.jpg)
+9. To view notifications when your phone is not on the Lock Screen, swipe down from the top-left corner of the screen. This will reveal your iPhone’s Lock Screen (though it won’t actually lock your phone).
+10. The (unlocked) Lock Screen will display any available notifications, which will be organized by app.
+11. If there are no notifications to view, the screen will display No Older Notifications instead.  
+![Swipe down on screen indicated and No Older Notifications highlighted](https://www.lifewire.com/thmb/sEg6zvpTFl35ttLCCfbt5RA4LHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nonotifications-0fff2883c9f84963a4281cb840be5617.jpg)
+12. You can interact with any available notifications in the same way as above.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+## How Do I See Deleted Notifications?
+
+ Unfortunately, you cannot view notifications once you've deleted them. If you delete, clear, or open one, it will no longer appear on your iPhone's lock screen, and there's no way to retrieve it.  
+
+ If the notifications have not been deleted and can't be seen when you first turn on your iPhone's screen, you should be able to view them by following the same steps as above.
+
+[How to Turn Off Do Not Disturb on an iPhone 15](https://www.lifewire.com/iphone-15-turn-off-do-not-disturb-8629346)
+
+ FAQ
+
+* How do I turn off notifications on an iPhone?  
+ To[turn off notifications on an iPhone](https://www.lifewire.com/turn-off-notification-on-iphone-5191021) , open the Settings app and tap**Notifications** . Tap any app you want to disable notifications for, and then toggle off**Allow Notifications** . To temporarily disable notifications, put your iPhone in Do Not Disturb mode.
+* Why am I not getting text notifications on my iPhone?  
+ If you aren’t getting notifications about texts on your iPhone, check your notification permissions. Open**Settings** and tap**Notifications** , then scroll down and tap**Messages** . Ensure that**Allow Notifications** is toggled on (green).
+* How do I turn on Instagram notifications on my iPhone?  
+ You'll enable Instagram notifications via**Settings** . Open settings, tap**Notifications,** and then tap**Instagram** . Toggle on**Allow Notifications** .
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-innovative-mc-shelter-design-tips/"><u>[New] 2024 Approved  Innovative MC Shelter Design Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-interactive-image-merging-for-desktop-enthusiasts/"><u>[New] Interactive Image Merging for Desktop Enthusiasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-optimizing-call-recording-on-facetime-platforms/"><u>[Updated] In 2024, Optimizing Call Recording on FaceTime Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A2 Activity | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dissecting-the-importance-of-using-itop-for-capture/"><u>2024 Approved  Dissecting the Importance of Using ITop for Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-x50iplus-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor X50i+ Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-guide-to-selecting-ipads-with-pre-installed-gps-technology/"><u>A Guide to Selecting iPads With Pre-Installed GPS Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-gear-to-include-in-your-summer-essential-travel-set/"><u>Discover the Best Gear to Include in Your Summer Essential Travel Set</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-writing-companions-6-exceptional-journal-apps/"><u>Discover the Best Writing Companions: 6 Exceptional Journal Apps!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-correct-the-missing-winhttpdll-issue-on-your-pc/"><u>Easy Steps to Correct the Missing Winhttp.dll Issue on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-icloud-email-security-with-dual-step-verification/"><u>Enhancing iCloud Email Security with Dual-Step Verification</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-selection-of-premium-video-editors-to-elevate-your-work/"><u>Explore Our Selection of Premium Video Editors to Elevate Your Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-boot-problems-with-a-functional-computer-but-no-output/"><u>Fixing Boot Problems with a Functional Computer but No Output</u></a></li>
+<li><a href="https://techtrends.techidaily.com/google-home-detachment-process-how-to-safely-remove-connected-devices/"><u>Google Home Detachment Process: How to Safely Remove Connected Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-6-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-nfts-a-novices-quick-start-strategy/"><u>In 2024, Mastering NFTs  A Novice's Quick-Start Strategy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instagram-insights-how-to-spot-the-admirers-of-your-shared-moments/"><u>Instagram Insights: How to Spot the Admirers of Your Shared Moments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-tweaks-for-the-visually-inclined-altering-folder-colors/"><u>MacOS Tweaks for the Visually Inclined: Altering Folder Colors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-see-movies-on-demand-a-guide-from-lifewire/"><u>Must-See Movies on Demand - A Guide From Lifewire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcome-operating-errors-fixing-coredll-issues-for-smoother-system-performance/"><u>Overcome Operating Errors: Fixing Core.dll Issues for Smoother System Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-order-for-watching-dragon-ball-series-expert-advice/"><u>Perfect Order for Watching Dragon Ball Series: Expert Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-nokia-105-classic-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia 105 Classic Black and White | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974889342-solve-video-stuttering-issues-quickly-and-easily/"><u>Solve Video Stuttering Issues. Quickly & Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-games-to-multiple-ps5s/"><u>Streaming Games to Multiple PS5s</u></a></li>
+<li><a href="https://techtrends.techidaily.com/teslas-robotaxi-revealed-unveiling-the-anticipated-cost-launch-timeline-and-feature-set-inside-scoop-on-latest-buzz/"><u>Tesla's Robotaxi Revealed! Unveiling the Anticipated Cost, Launch Timeline & Feature Set – Inside Scoop on Latest Buzz</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-the-most-enjoyable-shows-on-discovery-plus-july-edition/"><u>The Ultimate Guide to the Most Enjoyable Shows on Discovery Plus - July Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-error-0x80004005-on-windows/"><u>Troubleshooting Guide: Resolving Error 0X80004005 on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-complete-step-by-step-instructions-for-hard-rebooting-your-ipad-every-model/"><u>Ultimate Guide: Complete Step-by-Step Instructions for Hard Rebooting Your iPad (Every Model)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mystery-understanding-bsod-and-its-implications/"><u>Unveiling the Mystery: Understanding BSOD and Its Implications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-does-duckduckgo-offer-for-online-security-a-comprehensive-guide/"><u>What Does DuckDuckGo Offer for Online Security? A Comprehensive Guide</u></a></li>
+</ul></div>

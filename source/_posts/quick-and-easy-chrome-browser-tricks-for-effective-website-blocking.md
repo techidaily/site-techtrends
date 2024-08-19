@@ -1,7 +1,7 @@
 ---
 title: Quick & Easy Chrome Browser Tricks for Effective Website Blocking
-date: 2024-08-13 16:22:29
-updated: 2024-08-16 12:40:24
+date: 2024-08-18T21:14:09.347Z
+updated: 2024-08-19T21:14:09.347Z
 tags:
   - win11
   - win10
@@ -103,6 +103,9 @@ Please follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b4e95c5b1b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) You should then see the extension page. Scroll down to the bottom, then click **Get more extensions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b4ed6848e4.png)
@@ -111,10 +114,16 @@ Please follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b4f49327d1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
  4) Click **Add extension**  to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b507d2c323.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  5) Back on the extension page and click **F5**  to reload the site. Then click **Options**  under **Block site** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5150d390d.png)
@@ -129,10 +138,16 @@ Please follow these:
 
 **Note:**  Next time when you want to access the websites you’ve blocked, go to the Options of Block site, click the delete icon ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5336754c9.png) next to the site.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b52e7b43b7.png)
 
  If you want to keep your children surfing safely, the following Way 4 and Way 5 are your best choice to own parental control on your children’s accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 4: Creating a supervised account in Chrome
 
  If you want to set family safty settings on your kid’s Google account, you can make a supervised profile to limit the websites he can access.
@@ -145,14 +160,23 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df0c32bf9a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  3) Click **ADD PERSON** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df148651d9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
  4) On the **Add person**  page, you can set the name for your kid’s Google account, and his profile image. Then tick on   **Supervise the person to control and view the websites then visit from your Google account**  and choose your Google account from the drop-down menu. Click **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df1d9d52ea.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
  5) Click **<www.chrome.com/manage>**  to manage the account you set.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df37f1fe13.jpg)
@@ -161,8 +185,14 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df47e9043b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df4a827b6b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  7) Enter the domain or the website address into the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df5cc48f43.jpg)
@@ -191,3 +221,48 @@ Follow these:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs/"><u>[New] Rotating Reality in Visuals  The Art of Spinning Images for Instagram Triumphs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-vrecorder-how-to-download-and-install-for-2024/"><u>[Updated] VRecorder - How to Download and Install for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-thrills-in-the-sky-holy-stone-hs1/"><u>Affordable Thrills in the Sky: Holy Stone HS1</u></a></li>
+<li><a href="https://techtrends.techidaily.com/common-solutions-for-a-non-functional-macbook-pro-keyboard/"><u>Common Solutions for a Non-Functional MacBook Pro Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-sound-systems-how-do-home-theaters-and-stereo-receivers-stack-up/"><u>Comparing Sound Systems: How Do Home Theaters and Stereo Receivers Stack Up?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-remove-windows-restore-partition/"><u>Complete Guide: Steps to Remove Windows Restore Partition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crack-the-code-to-affordable-tech-securing-your-dell-student-price-advantage/"><u>Crack the Code to Affordable Tech: Securing Your Dell Student Price Advantage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-a-multi-speaker-bluetooth-network-with-just-one-gadget/"><u>Creating a Multi-Speaker Bluetooth Network with Just One Gadget</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-future-with-the-new-tesla-robot-price-predictions-specs-deep-dive-and-launch-window-insights/"><u>Decoding the Future with the New Tesla Robot: Price Predictions, Specs Deep Dive & Launch Window Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-realtek-sound-drivers-for-windows-11-10-and-7-pcs-today/"><u>Download Updated Realtek Sound Drivers for Windows 11, 10 & 7 PCs Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-background-camouflage-on-google-meet-a-comprehensive-walkthrough/"><u>Effortless Background Camouflage on Google Meet – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-mobile-tools-4-apps-that-revolutionize-diy-house-painting/"><u>Essential Mobile Tools: 4 Apps That Revolutionize DIY House Painting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-tesla-bot-insights-into-price-forecasts-release-timeline-and-feature-breakdown/"><u>Exploring the Tesla Bot: Insights Into Price Forecasts, Release Timeline, & Feature Breakdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/handling-and-repairing-missing-or-corrupted-coredll-issues-effectively/"><u>Handling and Repairing Missing or Corrupted Core.dll Issues Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enjoy-music-together-on-spotify-with-a-friend/"><u>How to Enjoy Music Together on Spotify with a Friend</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-culminating-sound-merging-music-with-vimeo-media-assets/"><u>In 2024, Culminating Sound  Merging Music with Vimeo Media Assets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-opting-for-a-wi-fi-mesh-system-a-reliable-choice/"><u>Is Opting for a Wi-Fi Mesh System a Reliable Choice?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-gamers-choices-top-rated-consoles-of-2024-revealed/"><u>Mastering Gamers' Choices: Top-Rated Consoles of 2024 Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-hero5-black-pro-photography-and-cinematography-techniques/"><u>Mastering Hero5 Black  Pro Photography & Cinematography Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-organization-select-the-best-of-our-top-free-online-calendar-options/"><u>Mastering Organization: Select the Best of Our Top Free Online Calendar Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-academic-success-with-our-top-6-pick-of-homework-apps-for-parents-and-students/"><u>Navigating Academic Success with Our Top 6 Pick of Homework Apps for Parents and Students</u></a></li>
+<li><a href="https://techtrends.techidaily.com/neo-qled-and-oled-technology-compared-know-your-choices/"><u>Neo QLED and OLED Technology Compared – Know Your Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-challenge-of-a-non-existent-msxml4dll-effective-fixes-revealed/"><u>Overcoming the Challenge of a Non-Existent MsXML4.dll – Effective Fixes Revealed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-writing-hurdles-in-corporate-memos-aided-by-gpt/"><u>Overcoming Writing Hurdles in Corporate Memos, Aided by GPT</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/realtek-net-adapter-non-operational-post-win11-update-fixed/"><u>Realtek Net Adapter Non-Operational Post Win11 Update (Fixed)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-the-new-default-password-secrets-of-linksys-models-july-review/"><u>Revealing the New Default Password Secrets of Linksys Models - July Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionize-your-eating-habits-with-these-6-food-tracker-app-recommendations/"><u>Revolutionize Your Eating Habits with These 6 Food Tracker App Recommendations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-nspr4dll-file-is-missing-a-comprehensive-guide/"><u>Solving the 'Nspr4.dll' File Is Missing - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stay-in-the-loop-with-top-ncaa-boys-basketball-matches-radio-broadcast-for-march-madness-and-final-four-fever/"><u>Stay in the Loop with Top NCAA Boys' Basketball Matches - Radio Broadcast for March Madness & Final Four Fever</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-correcting-vpn-issue-with-error-800-in-client-and-server-environments/"><u>Step-by-Step Solution for Correcting VPN Issue with Error 800 in Client and Server Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-with-system-recovery-learn-how-to-overcome-the-pc-reset-issue/"><u>Trouble with System Recovery? Learn How to Overcome the 'PC Reset Issue'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unverifiable-developer-messages-for-mac-users/"><u>Troubleshooting 'Unverifiable Developer' Messages for Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-ipados-16-launch-timeline-cost-free-access-and-comprehensive-feature-list/"><u>Unveiling iPadOS 16: Launch Timeline, Cost-Free Access & Comprehensive Feature List</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-best-mobile-video-editors-with-special-effects-free-download/"><u>Updated 2024 Approved S Best Mobile Video Editors with Special Effects Free Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-dragon-ball-sagas-sequentially-a-comprehensive-tutorial/"><u>Watch Dragon Ball Sagas Sequentially - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-sets-ipads-apart-in-the-wide-world-of-tablets/"><u>What Sets iPads Apart in the Wide World of Tablets?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Refresh and Enhance Your Windows 10 Experience with an Update
-date: 2024-08-15 10:22:38
-updated: 2024-08-16 11:42:47
+date: 2024-08-18T21:08:33.831Z
+updated: 2024-08-19T21:08:33.831Z
 tags:
   - win11
   - win10
@@ -53,6 +53,9 @@ Once done, restart your game and check the performance.
 
 If you don’t see any changes, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check for system updates
 
  Windows 11 is fairly new, and the devs are still working on some major bugs. If you want to get the latest system updates, you can get one step ahead of the schedule checking and check for updates manually.
@@ -60,6 +63,9 @@ If you don’t see any changes, simply continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the system updates, restart your PC and check the gameplay.
@@ -85,6 +91,9 @@ If the performance is still crappy, take a look at the next method.
 
  If the latest drivers don’t give you luck, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Disable Virtualization-Based Security (VBS)
 
  If your computer ships with a pre-installed Windows 11, you may want to turn off Virtualization-Based Security (VBS). It’s a feature that **isolates part of the memory and uses it to host other security features** .
@@ -96,15 +105,30 @@ If the performance is still crappy, take a look at the next method.
 1. On your keyboard, press Win+R (the Windows logo key and the R key) to open the Run dialog. Type**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-run.jpg)
 2. Scroll down to check if**Virtualization-based security** is running. If it is, continue to the next step.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/msinfo32-vbs-1.jpg)
 3. On your keyboard, press the**Windows logo key** . Type core isolation and select**Core isolation** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs.jpg)
 4. Make sure**Memory integrity** is set to**Off** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/core-isolation-vbs-2.jpg)
 5. Restart your computer and test the gameplay again.
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If this trick doesn’t do the charm for you, check out the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Run the game as a new user
 
  In some cases, your local settings, services and apps would slow down your system. To check if this is your case, you can run the game as a new user. This would isolate most of the settings and give you a fresh Windows 11 experience.
@@ -149,3 +173,40 @@ If the performance is still crappy, take a look at the next method.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/subway-surfers-cheatsheet-unleash-the-power-of-these-10-advanced-tips/"><u>'Subway Surfers' Cheatsheet: Unleash the Power of These 10 Advanced Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unbeatable-titles-the-creme-de-la-liste-of-10-vimeo-extractors/"><u>[Updated] 2024 Approved  Unbeatable Titles  The Crème De La Liste of 10 Vimeo Extractors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-dungeons-and-dragons-with-chatgpt-a-step-by-step-guide/"><u>Boosting Dungeons & Dragons with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-screen-captures-on-an-hp-device/"><u>Easy Methods for Screen Captures on an HP Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-cinema-magic-in-3d-comfortably-master-fandangos-online-viewing/"><u>Enjoy Cinema Magic in 3D Comfortably: Master Fandango's Online Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-anyone-fast-a-guide-to-searching-people-on-facebook-with-these-6-tips/"><u>Find Anyone Fast: A Guide to Searching People on Facebook with These 6 Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-repair-msvcrt10dll-malfunction-on-windows-operating-systems/"><u>How to Repair 'Msvcrt10.dll' Malfunction on Windows Operating Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A15 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-guide-for-unifying-your-music-collections-in-spotify-playlists/"><u>How-To Guide for Unifying Your Music Collections in Spotify Playlists</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-youtube-premium-worth-it-a-user-guide-for-2024/"><u>Is YouTube Premium Worth It  A User Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-rumors-and-facts-on-the-new-macbook-with-touch-functionality-expected-costs-launch-window-and-detailed-tech-overview/"><u>Latest Rumors and Facts on the New MacBook with Touch Functionality: Expected Costs, Launch Window, and Detailed Tech Overview</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-video-quality-on-periscope-live-streams/"><u>Maximizing Video Quality on Periscope Live Streams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-education-perks-steps-to-obtain-a-microsoft-student-reduction/"><u>Maximizing Your Education Perks: Steps to Obtain a Microsoft Student Reduction</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-a-booking-with-apple-support-the-genius-bar-experience/"><u>Navigating a Booking with Apple Support - The Genius Bar Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pairing-instructions-how-to-use-a-different-wireless-receiver-with-your-logitech-mouse/"><u>Pairing Instructions: How to Use a Different Wireless Receiver with Your Logitech Mouse</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photobooth-hiccups-resolving-frozen-playback-issues-for-2024/"><u>Photobooth Hiccups  Resolving Frozen Playback Issues for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps4-gameplay-hd-video-creation-a-comprehensive-how-to-guide-for-gamers/"><u>PS4 Gameplay HD Video Creation: A Comprehensive How-To Guide for Gamers</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconciled-printer-not-responding/"><u>Reconciled: Printer Not Responding</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remote-control-mastery-for-samsung-smart-tv-owners-a-step-by-step-guide/"><u>Remote Control Mastery for Samsung Smart TV Owners: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-laptop-the-definitive-method-to-resetting-your-lenovo-device-back-to-defaults/"><u>Revive Your Laptop: The Definitive Method to Resetting Your Lenovo Device Back to Defaults</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-your-connection-tips-to-overcome-ssl-certificate-issues/"><u>Securing Your Connection: Tips to Overcome SSL Certificate Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-an-idle-windows-control-panel/"><u>Solutions for an Idle Windows Control Panel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-securing-your-apple-genius-bar-appointment/"><u>Step-by-Step Guide: Securing Your Apple Genius Bar Appointment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-curing-your-facetime-black-display-problem/"><u>Step-by-Step Troubleshooting: Curing Your FaceTime Black Display Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-final-say-on-yahoo-mail-permanent-account-removal-explained/"><u>The Final Say on Yahoo Mail: Permanent Account Removal Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-adding-emoticons-and-emojis-to-texts-on-apples-iphone/"><u>The Ultimate Tutorial: Adding Emoticons and Emojis to Texts on Apple's iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-free-uninstaller-programs-you-must-try-today/"><u>Top 15 Free Uninstaller Programs You Must Try Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722889394060-unbeatable-discounts-on-the-latest-ipads-shop-now/"><u>Unbeatable Discounts on the Latest iPads - Shop Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-samsung-smart-tv-software-and-its-multitude-of-apps/"><u>Understanding Samsung Smart TV Software and Its Multitude of Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-difference-to-retweet-vs-to-rethweet/"><u>Understanding the Difference: To Retweet Vs. To Rethweet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlock-the-secrets-achieving-facebooks-prestige-marker/"><u>Unlock the Secrets  Achieving Facebook's Prestige Marker</u></a></li>
+</ul></div>

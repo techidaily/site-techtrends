@@ -1,7 +1,7 @@
 ---
 title: Effortless Repair Tips for a Malfunctioning Logitech K520 Keyboard | Step-by-Step Solutions
-date: 2024-08-13 16:56:27
-updated: 2024-08-16 11:24:41
+date: 2024-08-18T21:11:07.500Z
+updated: 2024-08-19T21:11:07.500Z
 tags:
   - win11
   - win10
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can I set up a VPN on Xbox One?
 
  There are two methods to set up a VPN for Xbox One: through either your Wi-Fi router or your computer. The step-by-step guides for both ways will be shown below.  
@@ -93,12 +96,18 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
@@ -122,10 +131,16 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
@@ -135,6 +150,9 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c33250282eb8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  3) **Buy a VPN subscription and install its software to configure it on your computer.** You can review[how to choose a VPN service through the method above](https://tools.techidaily.com/drivereasy/download/) .
 
  We recommend[NordVPN](https://tools.techidaily.com/drivereasy/download/) as your best pick. And here’s how you can use it on your computer:
@@ -175,3 +193,56 @@ Enjoy playing Xbox One games!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[New] 2024 Approved  From Dull to Delightful  How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-enjoy-classic-games-anywhere-with-the-top-5-pc-based-gb-emulators/"><u>[New] In 2024, Enjoy Classic Games Anywhere with the Top 5 PC-Based GB Emulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-5-for-high-speed-video-capture-tech/"><u>[Updated] Best 5 for High-Speed Video Capture Tech</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-must-have-notetaking-apps-redefining-productivity-trends/"><u>10 Must-Have Notetaking Apps Redefining Productivity Trends</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-adding-youtube-media-to-google-slides/"><u>2024 Approved  The Ultimate Guide to Adding YouTube Media to Google Slides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>2024 Approved  Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-full-scope-on-netflix-your-go-to-source-for-understanding-the-modern-tv-service/"><u>A Full Scope on Netflix - Your Go-To Source for Understanding the Modern TV Service</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-x6-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Poco X6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-meta-quest-3-upcoming-features-cost-breakdown-and-release-timeline/"><u>All About Meta Quest 3: Upcoming Features, Cost Breakdown & Release Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-next-google-pixel-explore-projections-for-its-price-tag-availability-date-and-technical-details/"><u>Anticipating the Next Google Pixel – Explore Projections for Its Price Tag, Availability Date & Technical Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/arranging-the-dragon-tales-watching-how-to-train-your-dragon-chronologically/"><u>Arranging the Dragon Tales: Watching How to Train Your Dragon Chronologically</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-iphone-gps-tools-our-pick-of-the-top-5-choices/"><u>Best iPhone GPS Tools: Our Pick of the Top 5 Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-news-compilation-services-our-picks-s-standouts/"><u>Best News Compilation Services: Our Picks 'S Standouts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-resolve-directxdirectinputdll-problems-on-windows-pcs/"><u>Comprehensive Solutions to Resolve directx.directinput.dll Problems on Windows PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-digital-to-analog-converters-are-they-essential-for-quality-sound/"><u>Demystifying Digital-to-Analog Converters – Are They Essential for Quality Sound?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-the-secret-to-character-customization-vocal-variety-in-free-fire/"><u>Discover the Secret to Character Customization  Vocal Variety in Free Fire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-free-alternatives-to-skype/"><u>Discover the Ultimate Free Alternatives to Skype</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-automatic-download-of-latest-amd-drivers/"><u>Easy Install: Automatic Download of Latest AMD Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-you-cant-locate-opengl32dll-file/"><u>Effective Solutions for When You Can't Locate OpenGL32.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-range-of-ipads-that-offer-onboard-gps-tracking/"><u>Exploring the Range of iPads that Offer Onboard GPS Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-top-10-alternatives-to-chatgpt-that-will-amaze-you/"><u>Exploring the Top 10 Alternatives to ChatGPT That Will Amaze You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-backup-software-showdown-top-32-tools-reviewed-for-your-convenience/"><u>Free Backup Software Showdown: Top 32 Tools Reviewed for Your Convenience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freshly-updated-d-link-default-passwords-for-enhanced-security-july-2024/"><u>Freshly Updated D-Link Default Passwords for Enhanced Security (July 2024)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-behringer-usb-driver-now-exclusive-installer-links-available-here/"><u>Get Your Behringer USB Driver Now! Exclusive Installer Links Available Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-turning-off-wireless-emergency-alerts-wea-for-amber-on-andriod-phones/"><u>Guide to Turning Off Wireless Emergency Alerts (WEA) for AMBER on Andriod Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-11-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme 11 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/incorporating-pinterest-into-facebook-enhance-visual-appeal-and-traffic/"><u>Incorporating Pinterest Into Facebook: Enhance Visual Appeal and Traffic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-dealing-with-pc-rebooting-problems-effective-strategies/"><u>Master the Art of Dealing with PC Rebooting Problems: Effective Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-powerpoint-updates-tips-and-tricks/"><u>Mastering the Art of PowerPoint Updates - Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-vr-gaming-a-resolve-for-steamvr-error-code-308/"><u>Mastering VR Gaming: A Resolve for SteamVR Error Code 308</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-and-tips-to-overcome-the-notorious-netflix-error-1-19-nw/"><u>Quick Fixes and Tips to Overcome the Notorious Netflix Error 1-19 (NW)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-realme-narzo-n55-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Realme Narzo N55 has been deleted</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-missing-libxml2dll-file-a-comprehensive-guide/"><u>Resolving the Missing libxml2.dll File: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/should-you-buy-into-minecraft-realms-an-seo-insight-into-its-true-worth/"><u>Should You Buy Into Minecraft Realms? An SEO Insight Into Its True Worth</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sonys-roadmap-to-innovation-key-releases-news-highlights-and-expert-analysis/"><u>Sony's Roadmap to Innovation – Key Releases, News Highlights, and Expert Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-your-playstation-4-gaming-sessions/"><u>Step-by-Step Guide: Capturing Your PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-starting-your-macbook-pro-from-scratch/"><u>Step-by-Step Guide: Starting Your MacBook Pro From Scratch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-fixing-problems-with-uploading-instagram-stories/"><u>Step-by-Step Solutions for Fixing Problems with Uploading Instagram Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-configuring-your-universal-remote-with-simple-steps/"><u>The Ultimate How-To: Configuring Your Universal Remote with Simple Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-premium-twitter-toolkits-and-suites/"><u>The Ultimate List of Premium Twitter Toolkits and Suites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-funny-apple-device-prank-ideas-for-your-buddies/"><u>Top 10 Funny Apple Device Prank Ideas for Your Buddies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-usb-tethering-connection/"><u>Troubleshooting Guide: How to Fix a Non-Functional USB Tethering Connection</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-poco-x5-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Poco X5 FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-leveraging-copilot-within-your-microsoft-teams-experience/"><u>Ultimate Tips for Leveraging Copilot Within Your Microsoft Teams Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-xlive-dll-file-not-found-issues-easily/"><u>Understanding and Fixing XLive DLL File Not Found Issues Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-difference-do-tweets-get-shared-as-retweets-or-re-tweets/"><u>Understanding the Difference: Do Tweets Get Shared as 'Retweets' Or 'Re-Tweets'?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-xs-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone XS Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+</ul></div>

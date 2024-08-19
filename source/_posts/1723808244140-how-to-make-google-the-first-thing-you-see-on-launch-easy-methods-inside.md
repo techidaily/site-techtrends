@@ -1,7 +1,7 @@
 ---
 title: "How To Make Google The First Thing You See on Launch: Easy Methods Inside"
-date: 2024-08-13 10:53:46
-updated: 2024-08-16 12:34:46
+date: 2024-08-18T21:14:21.758Z
+updated: 2024-08-19T21:14:21.758Z
 tags:
   - win11
   - win10
@@ -92,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  3) Click**Update** next to any device to download the correct version of its driver, and then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
@@ -165,6 +168,9 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -175,6 +181,23 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -183,18 +206,28 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -205,6 +238,9 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
  3) Before you download updates, you need to**check the system type** of your Windows OS. If you don’t know how to do it, follow the instructions below to view your system type:
 
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
@@ -215,6 +251,10 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -229,10 +269,16 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 Restart your PC to see if this issue persists. If not, congratulations!
@@ -255,3 +301,66 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-dial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos-for-2024/"><u>[New] Dial in the Ideal Aspect Ratio for Stunning YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscovering-all-in-youtube-shorts-guide-for-2024/"><u>[New] Discovering All in YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-next-level-recording-discover-budget-friendly-choices/"><u>[New] In 2024, Next-Level Recording  Discover Budget-Friendly Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>[New] Lens Leaderships  Top Ten Camera Lens Selections for Photographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-maximum-memory-accessory-for-sony-a7s-ii/"><u>[New] Maximum Memory Accessory for Sony A7S II</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mics-and-more-discovering-the-audio-essential-that-matches-your-yt-vision/"><u>[Updated] 2024 Approved  Mics & More  Discovering the Audio Essential That Matches Your YT Vision</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-free-youtube-intro-makers-for-2024/"><u>[Updated] Best Free YouTube Intro Makers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-confronting-cameras-the-face-id-face-unlock-duel/"><u>2024 Approved  Confronting Cameras  The Face ID-Face Unlock Duel</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>2024 Approved  Ultimate ScreenRecorder  Comprehensive, Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-learning-applications-our-picks-edition/"><u>Best Learning Applications: Our Picks Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-chatgpt-an-introduction-to-advanced-ai-communication-tools/"><u>Demystifying ChatGPT: An Introduction to Advanced AI Communication Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-places-to-get-free-downloads-of-ebooks-online/"><u>Discover the Best Places to Get Free Downloads of Ebooks Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-mastery-crafting-the-perfect-projector-screen-for-movie-nights/"><u>DIY Mastery: Crafting the Perfect Projector Screen for Movie Nights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-for-building-an-oculus-quest-and-quest-2-username-and-password/"><u>Easy Tutorial for Building an Oculus Quest & Quest 2 Username and Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-iphone-text-messages-imessage-on-android-phones/"><u>Enabling iPhone Text Messages (iMessage) on Android Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-hands-on-hot-tech-deals-this-years-amazon-prime-day-extravaganza/"><u>Get Your Hands on Hot Tech Deals – This Year's Amazon Prime Day Extravaganza</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hololens-breakthrough-by-microsoft-a-3d-reality-revolution/"><u>HoloLens Breakthrough by Microsoft – A 3D Reality Revolution</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-coredll-not-found-or-missing-errors/"><u>How to Fix Core.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-lenovo-t430-drivers-for-smooth-performance-on-windows-1187/"><u>How to Get the Latest Lenovo T430 Drivers for Smooth Performance on Windows 11/8/7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-copilot-in-microsoft-teams/"><u>How to Use Copilot in Microsoft Teams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-engaging-video-teasers-for-youtube-success/"><u>In 2024, Crafting Engaging Video Teasers for YouTube Success</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-c55-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco C55 FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-a38-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo A38?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-a05s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel A05s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y100i-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y100i FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-11-proplus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme 11 Pro+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inserting-coding-snippets-directly-into-your-word-document-tips-and-tricks/"><u>Inserting Coding Snippets Directly Into Your Word Document - Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-15-restart-methods-a-detailed-instructional-guide/"><u>IPhone 15 Restart Methods: A Detailed Instructional Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-time-to-switch-to-an-rtx-gpu-for-your-pc/"><u>Is It Time to Switch to an RTX GPU for Your PC?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-microsoft-teams-experiencing-downtime-or-is-your-internet-connection-at-fault/"><u>Is Microsoft Teams Experiencing Downtime - Or Is Your Internet Connection at Fault?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/key-techniques-for-smooth-screen-sharing-on-mobiledesktop-for-2024/"><u>Key Techniques for Smooth Screen Sharing on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-connection-setting-up-pc-bluetooth-speaker-linkage-without-a-glitch/"><u>Master the Connection: Setting Up PC-Bluetooth Speaker Linkage Without a Glitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-editing-eliminating-lameencdll-errors-for-flawless-mp3-output-with-audacity/"><u>Mastering Audio Editing: Eliminating lame_enc.dll Errors for Flawless MP3 Output with Audacity</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-10-anime-movies-of-all-time/"><u>New In 2024, Top 10 Anime Movies of All Time</u></a></li>
+<li><a href="https://extra-support.techidaily.com/painting-with-light-an-experts-guide-to-color-grading-for-2024/"><u>Painting with Light  An Expert's Guide to Color Grading for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps4-controllers-unleashed-mastering-the-pair-up-process/"><u>PS4 Controllers Unleashed: Mastering the Pair-Up Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedies-for-broken-gmail-synchronization/"><u>Remedies for Broken Gmail Synchronization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/roku-tv-takedown-operating-without-the-remote/"><u>Roku TV Takedown: Operating without the Remote</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-canon-scanner-installation-for-windows-systems/"><u>Simplified Canon Scanner Installation for Windows Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/simply-save-your-streamed-content-with-these-premium-tools-for-2024/"><u>Simply Save Your Streamed Content with These Premium Tools for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-oleaut32dll-file-not-found-a-step-by-step-guide/"><u>Solving oleAut32.dll File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-strategies-for-correcting-propsysdll-file-absence-issues/"><u>Solving the Mystery: Strategies for Correcting PropSys.dll File Absence Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speed-vs-latency-unlocking-the-secrets-to-optimizing-memory-for-peak-pc-functionality/"><u>Speed vs Latency: Unlocking the Secrets to Optimizing Memory for Peak PC Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-when-zlibdll-is-nowhere-to-be-found/"><u>Step-by-Step Fixes for When 'Zlib.dll' Is Nowhere to Be Found</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-images-of-your-ps4-gameplay/"><u>Step-by-Step Guide: Capturing Images of Your PS4 Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-not-found-mfc42dll-error/"><u>Step-by-Step Guide: Correcting the 'Not Found' MFC42.dll Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/subtitle-making-from-compressed-file-extraction-for-2024/"><u>Subtitle Making From Compressed File Extraction for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-m4-mac-mini-latest-insights-on-release-timeline-costs-and-technical-specifications/"><u>The Next-Gen M4 Mac Mini - Latest Insights on Release Timeline, Costs & Technical Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-premier-collection-of-samsung-smart-tv-applications-in-2e24/"><u>The Premier Collection of Samsung Smart TV Applications in 2E24</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-affordable-home-theater-setup-essentials/"><u>Top Affordable Home Theater Setup Essentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-restore-your-iphones-ringtones/"><u>Troubleshooting Steps to Restore Your iPhone's Ringtones</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-bypassing-your-iphones-lock-screen-without-a-code/"><u>Ultimate Guide: Bypassing Your iPhone's Lock Screen Without a Code</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-how-to-get-back-deleted-texts-on-all-kind-of-phones/"><u>Unlock the Secrets: How To Get Back Deleted Texts on All Kind of Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-hierarchy-the-number-of-tiers-within-royal-match-revealed/"><u>Unveiling the Hierarchy: The Number of Tiers Within 'Royal Match' Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-are-we-shifting-towards-electric-automobiles-an-in-depth-guide/"><u>Why Are We Shifting Towards Electric Automobiles? An In-Depth Guide</u></a></li>
+</ul></div>

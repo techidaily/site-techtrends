@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: The Ultimate Guide to Restarting a Frozen Google Chrome Browser"
-date: 2024-08-13 10:51:11
-updated: 2024-08-16 11:46:47
+date: 2024-08-18T21:08:52.436Z
+updated: 2024-08-19T21:08:52.436Z
 tags:
   - win11
   - win10
@@ -68,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -139,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -159,12 +165,18 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -173,6 +185,9 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
 ### Fix 5: Run System File Checker
@@ -189,6 +204,9 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
@@ -211,10 +229,16 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471.png)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ii. Type the command line**systeminfo** and press **Enter** to view your system type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
  4) Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -229,10 +253,16 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  8)**Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 Restart your PC to see if this issue persists. If not, congratulations!
@@ -255,3 +285,61 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebook-newsletter-the-most-recent-changes/"><u>[New] 2024 Approved  Facebook Newsletter - The Most Recent Changes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-ace-the-sky-best-drones-and-their-precision-editing-companions/"><u>[New] Ace the Sky  Best Drones & Their Precision Editing Companions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-fifa-visuals-key-youtube-video-trends/"><u>[New] In 2024, FIFA Visuals  Key YouTube Video Trends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-best-of-gopro-cameras-side-by-side/"><u>[Updated] Exploring the Best of GoPro Cameras Side by Side</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>[Updated] The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-counteracting-loss-of-live-streams-on-twitch/"><u>2024 Approved  Counteracting Loss of Live Streams on Twitch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-nocostcam-the-infinite-gaming-screen-record-tool/"><u>2024 Approved  NoCostCam  The Infinite Gaming Screen Record Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-x50iplus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor X50i+ without App | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/507-stunning-and-unique-instagram-captions-to-use/"><u>507 Stunning and Unique Instagram Captions to Use</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-8-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 8 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-your-twitter-game-tips-to-skyrocket-your-follower-count/"><u>Ace Your Twitter Game: Tips to Skyrocket Your Follower Count</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/clear-facebook-broadcast-laptops-and-phones-included-for-2024/"><u>Clear Facebook Broadcast  Laptops and Phones Included for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-how-to-find-and-download-user-manuals-for-all-iphone-models/"><u>Complete Guide: How to Find and Download User Manuals for All iPhone Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-x-men-series-experience-watching-order-and-timeline-explained/"><u>Complete X-Men Series Experience: Watching Order and Timeline Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-auto-gpt-vs-chatgpt-key-technological-variations/"><u>Dissecting Auto-GPT vs ChatGPT – Key Technological Variations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-to-resolve-the-xinput13dll-file-not-found-problem/"><u>Easy Solutions to Resolve the xinput1_3.dll File Not Found Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/electric-cars-unveiled-gain-exclusive-benefits-like-hov-lanes-and-priority-parking-spots/"><u>Electric Cars Unveiled: Gain Exclusive Benefits Like HOV Lanes and Priority Parking Spots</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-viewing-experience-enable-av1-on-youtube/"><u>Elevate Viewing Experience – Enable AV1 on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-the-text-to-speech-functionality-in-siri-across-ios-and-macos-platforms/"><u>Enabling the Text-to-Speech Functionality in Siri Across iOS and macOS Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-cinema-from-home-stream-blockbusters-and-originals-on-crackle-free-of-cost/"><u>Enjoy Cinema From Home: Stream Blockbusters and Originals on Crackle - Free of Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-80s-flicks-a-selection-of-timeless-movies-to-watch-today/"><u>Essential 80S Flicks: A Selection of Timeless Movies to Watch Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tools-and-platforms-for-successful-twitch-streaming/"><u>Essential Tools and Platforms for Successful Twitch Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-premium-free-video-calling-apps-the-top-picks-for-replacing-skype/"><u>Exploring Premium-Free Video Calling Apps: The Top Picks for Replacing Skype</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gmail-two-factor-security-setup-easy-instructions-to-boost-email-safety/"><u>Gmail Two-Factor Security Setup: Easy Instructions to Boost Email Safety</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-installing-imessage-functionality-on-your-android-device/"><u>Guide: Installing iMessage Functionality on Your Android Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-sync-oculus-quest-2-with-a-smartphone-best-practices/"><u>How To Sync Oculus Quest 2 With A Smartphone - Best Practices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>In 2024, How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-solution-8-best-slow-mo-video-enhancers/"><u>In 2024, Speedy Solution  8 Best Slow-Mo Video Enhancers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unearthing-inshots-video-magic-for-editors/"><u>In 2024, Unearthing InShot’s Video Magic for Editors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-messaging-a-step-by-step-guide-to-sending-texts-from-your-ipad/"><u>Mastering Messaging: A Step-by-Step Guide to Sending Texts From Your iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-skype-connection-problems-a-list-of-key-fixes-and-hacks/"><u>Mastering Skype Connection Problems: A List of Key Fixes and Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-devices-energy-efficiency-with-windows-11s-battery-information-tool/"><u>Mastering Your Device's Energy Efficiency with Windows 11'S Battery Information Tool</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motio/"><u>New 2024 Approved Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-remote-navigation-innovative-ways-to-manage-your-roku-television/"><u>No-Remote Navigation: Innovative Ways to Manage Your Roku Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-challenges-effective-ways-to-address-chatgpt-moderation-issues/"><u>Overcoming Challenges: Effective Ways to Address ChatGPT Moderation Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-your-social-feed-the-ultimate-guide-to-uploading-multiple-pics-on-facebook/"><u>Simplify Your Social Feed: The Ultimate Guide to Uploading Multiple Pics on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-issues-encountered-in-bios-power-on-self-test-post/"><u>Solving Issues Encountered in BIOS Power-On Self Test (POST)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-of-unresponsive-mozilla-thunderbird-a-comprehensive-guide/"><u>Solving the Issue of Unresponsive Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adjusting-your-amazon-kindle-paperwhites-display-clock/"><u>Step-by-Step Guide: Adjusting Your Amazon Kindle Paperwhite's Display Clock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-customizing-your-windows-11-taskbar-appearance/"><u>Step-by-Step Guide: Customizing Your Windows 11 Taskbar Appearance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-dealing-with-errors-caused-by-ftd2xxdll-absence/"><u>Step-by-Step Solution: Dealing with Errors Caused by ftd2xx.dll Absence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-correcting-avcodecdll-absence-and-detection-failures/"><u>The Ultimate Guide to Correcting Avcodec.dll Absence & Detection Failures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-infamous-cmos-checksum-mismatch/"><u>Ultimate Guide: Resolving the Infamous CMOS Checksum Mismatch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleashing-the-power-of-siri-how-to-enable-text-to-speech-on-iphone-and-mac/"><u>Unleashing the Power of Siri: How to Enable Text-to-Speech on iPhone & Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-your-device-removing-a-pin-from-windows-11-without-hitches/"><u>Unlocking Your Device: Removing a Pin From Windows 11 Without Hitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-usb-20-techinsight-learn-about-fast-transfers-versatile-cables-and-compatible-connectors/"><u>Unveiling the Secrets of USB 2.0 | TechInsight - Learn About Fast Transfers, Versatile Cables, and Compatible Connectors!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-tesla-smartphone-anticipated-launch-timeline-and-pricing-details-unveiled/"><u>Upcoming Tesla Smartphone: Anticipated Launch Timeline & Pricing Details Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978034794-upgrade-your-audio-experience-on-windows-with-the-new-dolby-drivers-downloads/"><u>Upgrade Your Audio Experience on Windows with the New Dolby Drivers Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-next-for-samsung-exploring-potential-leaks-about-the-galaxy-s25s-features-and-market-arrival/"><u>What's Next for Samsung? Exploring Potential Leaks About the Galaxy S25's Features and Market Arrival</u></a></li>
+</ul></div>

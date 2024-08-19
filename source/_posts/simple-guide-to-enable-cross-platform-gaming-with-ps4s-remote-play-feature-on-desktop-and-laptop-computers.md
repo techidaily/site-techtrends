@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Enable Cross-Platform Gaming with PS4's Remote Play Feature on Desktop & Laptop Computers
-date: 2024-08-13 20:27:33
-updated: 2024-08-16 10:38:40
+date: 2024-08-18T21:08:11.633Z
+updated: 2024-08-19T21:08:11.633Z
 tags:
   - win11
   - win10
@@ -96,10 +96,16 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -147,6 +153,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
 **Dism /Online /Cleanup-Image /ScanHealth**
@@ -159,12 +168,24 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image has corruptions or not. This command line also doesn’t repair the corrupted files. It may take several minutes for this command operation to be completed.
 
 **Dism /Online /Cleanup-Image /RestoreHealth**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official sources online. It may take several minutes for this command operation to be completed.
 
  It may take several minutes for this command operation to be completed.
@@ -173,8 +194,14 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -189,6 +216,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 It may take some time for the command operation to be completed.
 
  3) When this command operation is completed, close**Command Prompt** .
@@ -223,12 +253,18 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7) In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475.png)
@@ -255,3 +291,63 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-share-and-celebrate-with-instagram-videos/"><u>[New] 2024 Approved  Share & Celebrate with Instagram Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[New] Camera Editing Showdown  Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-make-every-minute-count-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>[New] Make Every Minute Count with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-prominent-comment-spotlights/"><u>[Updated] In 2024, Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-foodie-hits-top-tiktok-chefs-and-cooks/"><u>[Updated] In 2024, Foodie Hits  Top TikTok Chefs & Cooks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-must-have-notetaking-apps-redefining-productivity-trends/"><u>10 Must-Have Notetaking Apps Redefining Productivity Trends</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-decoding-macbook-airs-screen-capture-a-detailed-walkthrough-guide/"><u>2024 Approved  Decoding MacBook Air's Screen Capture  A Detailed Walkthrough Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-format-switching-srt-to-advanced-standards/"><u>2024 Approved  Expertise in Format Switching  SRT to Advanced Standards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-full-scope-on-netflix-your-go-to-source-for-understanding-the-modern-tv-service/"><u>A Full Scope on Netflix - Your Go-To Source for Understanding the Modern TV Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-meta-quest-3-upcoming-features-cost-breakdown-and-release-timeline/"><u>All About Meta Quest 3: Upcoming Features, Cost Breakdown & Release Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-next-google-pixel-explore-projections-for-its-price-tag-availability-date-and-technical-details/"><u>Anticipating the Next Google Pixel – Explore Projections for Its Price Tag, Availability Date & Technical Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/arranging-the-dragon-tales-watching-how-to-train-your-dragon-chronologically/"><u>Arranging the Dragon Tales: Watching How to Train Your Dragon Chronologically</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-iphone-gps-tools-our-pick-of-the-top-5-choices/"><u>Best iPhone GPS Tools: Our Pick of the Top 5 Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-news-compilation-services-our-picks-s-standouts/"><u>Best News Compilation Services: Our Picks 'S Standouts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-and-share-your-digital-world-effortlessly/"><u>Capture and Share Your Digital World Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-resolve-directxdirectinputdll-problems-on-windows-pcs/"><u>Comprehensive Solutions to Resolve directx.directinput.dll Problems on Windows PCs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/content-compromise-rapid-deletion-dilemma-for-2024/"><u>Content Compromise  Rapid Deletion Dilemma for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-digital-to-analog-converters-are-they-essential-for-quality-sound/"><u>Demystifying Digital-to-Analog Converters – Are They Essential for Quality Sound?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-7-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-free-alternatives-to-skype/"><u>Discover the Ultimate Free Alternatives to Skype</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-you-cant-locate-opengl32dll-file/"><u>Effective Solutions for When You Can't Locate OpenGL32.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-range-of-ipads-that-offer-onboard-gps-tracking/"><u>Exploring the Range of iPads that Offer Onboard GPS Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-top-10-alternatives-to-chatgpt-that-will-amaze-you/"><u>Exploring the Top 10 Alternatives to ChatGPT That Will Amaze You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-backup-software-showdown-top-32-tools-reviewed-for-your-convenience/"><u>Free Backup Software Showdown: Top 32 Tools Reviewed for Your Convenience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freshly-updated-d-link-default-passwords-for-enhanced-security-july-2024/"><u>Freshly Updated D-Link Default Passwords for Enhanced Security (July 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888770245-get-ahead-of-the-curve-learn-about-the-new-samsung-galaxy-z-fold-6-specs-and-news-now/"><u>Get Ahead of the Curve - Learn About the New Samsung Galaxy Z Fold 6 Specs and News Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-turning-off-wireless-emergency-alerts-wea-for-amber-on-andriod-phones/"><u>Guide to Turning Off Wireless Emergency Alerts (WEA) for AMBER on Andriod Phones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y17s-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y17s Phone that is Locked?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-solve-unreceived-text-messages-problem-in-android-devices/"><u>How to Solve Unreceived Text Messages Problem in Android Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a15-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A15 5G Fingerprint Lock</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a05-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A05 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smartphone-photographers-guide-to-top-5-android-editors/"><u>In 2024, Smartphone Photographers' Guide to Top 5 Android Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-humor-kapwings-meme-crafting-app/"><u>In 2024, Unleash Humor  Kapwing's Meme Crafting App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/incorporating-pinterest-into-facebook-enhance-visual-appeal-and-traffic/"><u>Incorporating Pinterest Into Facebook: Enhance Visual Appeal and Traffic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-dealing-with-pc-rebooting-problems-effective-strategies/"><u>Master the Art of Dealing with PC Rebooting Problems: Effective Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-powerpoint-updates-tips-and-tricks/"><u>Mastering the Art of PowerPoint Updates - Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-and-tips-to-overcome-the-notorious-netflix-error-1-19-nw/"><u>Quick Fixes and Tips to Overcome the Notorious Netflix Error 1-19 (NW)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-corrupted-audio-tracks-within-mov-files-for-mac/"><u>Repairing Corrupted Audio Tracks Within MOV Files for Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-missing-libxml2dll-file-a-comprehensive-guide/"><u>Resolving the Missing libxml2.dll File: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/should-you-buy-into-minecraft-realms-an-seo-insight-into-its-true-worth/"><u>Should You Buy Into Minecraft Realms? An SEO Insight Into Its True Worth</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-why-your-mac-doesnt-recognize-your-external-monitor/"><u>Solving the Issue: Why Your Mac Doesn't Recognize Your External Monitor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sonys-roadmap-to-innovation-key-releases-news-highlights-and-expert-analysis/"><u>Sony's Roadmap to Innovation – Key Releases, News Highlights, and Expert Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-your-playstation-4-gaming-sessions/"><u>Step-by-Step Guide: Capturing Your PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-starting-your-macbook-pro-from-scratch/"><u>Step-by-Step Guide: Starting Your MacBook Pro From Scratch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-fixing-problems-with-uploading-instagram-stories/"><u>Step-by-Step Solutions for Fixing Problems with Uploading Instagram Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stream-in-stunning-detail-hitachis-4k-uhd-smart-tvs-featuring-roku-integration/"><u>Stream in Stunning Detail: Hitachi's 4K UHD Smart TVs Featuring Roku Integration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-generation-of-wearables-foretelling-the-google-pixel-watchs-price-tag-launch-window-and-hardware-specs/"><u>The Next Generation of Wearables: Foretelling the Google Pixel Watch's Price Tag, Launch Window & Hardware Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-configuring-your-universal-remote-with-simple-steps/"><u>The Ultimate How-To: Configuring Your Universal Remote with Simple Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-premium-twitter-toolkits-and-suites/"><u>The Ultimate List of Premium Twitter Toolkits and Suites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-funny-apple-device-prank-ideas-for-your-buddies/"><u>Top 10 Funny Apple Device Prank Ideas for Your Buddies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-usb-tethering-connection/"><u>Troubleshooting Guide: How to Fix a Non-Functional USB Tethering Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-leveraging-copilot-within-your-microsoft-teams-experience/"><u>Ultimate Tips for Leveraging Copilot Within Your Microsoft Teams Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-xlive-dll-file-not-found-issues-easily/"><u>Understanding and Fixing XLive DLL File Not Found Issues Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-difference-do-tweets-get-shared-as-retweets-or-re-tweets/"><u>Understanding the Difference: Do Tweets Get Shared as 'Retweets' Or 'Re-Tweets'?</u></a></li>
+</ul></div>

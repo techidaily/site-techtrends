@@ -1,7 +1,7 @@
 ---
 title: Jiří Vobližka (Founder) – Crystal Microphone for His Contribution to Czech Culture by Radio Prague;
-date: 2024-08-05T02:03:03.649Z
-updated: 2024-08-06T02:03:03.649Z
+date: 2024-08-18T21:43:18.741Z
+updated: 2024-08-19T21:43:18.741Z
 categories:
   - BestProducts
 description: This Article Describes Jiří Vobližka (Founder) – Crystal Microphone for His Contribution to Czech Culture by Radio Prague;
@@ -326,3 +326,43 @@ Tell us why!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-make-the-most-of-your-gaming-experience-top-methods-to-document-minecraft-on-mac/"><u>[Updated] 2024 Approved  Make the Most of Your Gaming Experience - Top Methods to Document Minecraft on Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-bridge-gaps-in-distance-mastering-xbox-one-zooming-for-2024/"><u>[Updated] Bridge Gaps in Distance  Mastering Xbox One Zooming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>[Updated] Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-innovations-and-hacks-every-content-creator-should-know-about-reels-for-2024/"><u>[Updated] Innovations and Hacks Every Content Creator Should Know About Reels for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-keyboard-warriors-guide-games-similar-to-gta-v/"><u>2024 Approved  Keyboard Warriors' Guide  Games Similar to GTA V</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bring-hollywood-blockbusters-directly-into-your-living-room-with-fandango-and-apple-tv/"><u>Bring Hollywood Blockbusters Directly Into Your Living Room with Fandango and Apple TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-your-external-hdd-to-xbox-one-a-comprehensive-guide/"><u>Connecting Your External HDD to Xbox One: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-netflix-streaming-hiccups-get-your-favorite-shows-playing-smoothly-again/"><u>Easy Fixes for Netflix Streaming Hiccups – Get Your Favorite Shows Playing Smoothly Again!</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-address-xlivedll-file-absentnotfound-issues/"><u>Effective Solutions to Address 'Xlive.dll' File Absent/NotFound Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ensuring-child-safety-online-with-discord-a-how-to-guide/"><u>Ensuring Child Safety Online with Discord - A How-To Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-resolving-gmail-synchronization-problems-what-to-do-next/"><u>Essential Tips for Resolving Gmail Synchronization Problems – What To Do Next?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-for-a-stable-experience-of-robocop-rogue-city-without-any-crashing-issues/"><u>Expert Advice for a Stable Experience of Robocop: Rogue City Without Any Crashing Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-recommendations-top-public-and-gratis-dns-servers-for-enhanced-privacy/"><u>Expert Recommendations: Top Public and Gratis DNS Servers for Enhanced Privacy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/impact-of-memory-speeds-and-latencies-on-pc-performance/"><u>Impact of Memory Speeds & Latencies on PC Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-s17-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo S17 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17e-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17e Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-selection-of-websites-for-youtube-video-intro-download/"><u>In 2024, Prime Selection of Websites for YouTube Video Intro Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2-grosser-kinderfilm-highlights-auf-disneyplus-unser-top-5/"><u>July 2 Großer Kinderfilm-Highlights Auf Disney+: Unser Top 5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-tweaking-time-settings-on-an-amazon-kindle-paperwhite/"><u>Master the Art of Tweaking Time Settings on an Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-minecraft-faster-with-the-ultimate-teleport-command-tutorial/"><u>Navigate Minecraft Faster with the Ultimate Teleport Command Tutorial</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-10-trending-memes-right-now-include-image-gifvideo/"><u>New 2024 Approved 10 Trending Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18 Phone Now with These Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-fold-2-unveiled-anticipated-costs-and-launch-timeline-latest-leaks-revealed/"><u>Pixel Fold 2 Unveiled: Anticipated Costs & Launch Timeline - Latest Leaks Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-network-not-registered-issue-on-your-samsung-galaxy-device/"><u>Resolving the 'Network Not Registered' Issue on Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-correcting-a-500-http-status-code-issue/"><u>Step-by-Step Solution: Correcting a 500 HTTP Status Code Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-toggle-smartscreen-filters-in-windows-11/"><u>Steps to Toggle SmartScreen Filters in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-apple-mac-mini-m4-anticipated-costs-release-schedule-and-comprehensive-specs-revealed/"><u>The Next Apple Mac Mini (M4): Anticipated Costs, Release Schedule & Comprehensive Specs Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-top-8-apps-for-handling-multiple-phone-ids/"><u>The Ultimate List of Top 8 Apps for Handling Multiple Phone IDs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-best-notetaking-software/"><u>The Ultimate Selection: Best Notetaking Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-when-vcompdll-is-not-found/"><u>Troubleshooting Techniques for When Vcomp.dll Is Not Found</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-mfcdll-is-not-detected-or-lost/"><u>Troubleshooting Tips for When mfc지오.dll Is Not Detected or Lost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-reasons-behind-a-malfunctioning-youtube-experience/"><u>Understanding the Reasons Behind a Malfunctioning YouTube Experience</u></a></li>
+</ul></div>

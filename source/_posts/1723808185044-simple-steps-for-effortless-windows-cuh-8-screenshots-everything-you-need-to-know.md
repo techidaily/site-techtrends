@@ -1,7 +1,7 @@
 ---
 title: Simple Steps for Effortless Windows Cuh 8 Screenshots - Everything You Need to Know!
-date: 2024-08-13 13:48:20
-updated: 2024-08-16 11:19:21
+date: 2024-08-18T21:05:08.643Z
+updated: 2024-08-19T21:05:08.643Z
 tags:
   - win11
   - win10
@@ -58,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
  Be sure to check your computer monitor. If your computer seems to power on but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer’s case is plugged in securely at both ends.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 2: Remove External Devices
 
  1) Remove or disconnect all unnecessary discs and devices from the computer. Make sure that the computer is**off** , and then remove any discs and USB devices and the memory cards from the card reader slot. Disconnect non-essential devices such as camera, MP3-playersprinters, scanners, external hard drives etc., and leave**mouse** ,**keyboard** and**monitor** connected.
@@ -82,14 +85,23 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
  6) Then you will be seeing a page similar to the following one. You could choose**Startup Repair** since your computer refuse to load. (You can also do a[system restore](https://tools.techidaily.com/drivereasy/download/) if you have previously created a system restore point.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
@@ -98,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Step 4: Perform a system restore
 
  When you have successfully booted into the Advanced repair option page, there is another thing that you can do: do a system restore, on the basis that you have turned this feature on previously. Here is how you do it:
@@ -106,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
@@ -134,6 +152,9 @@ chkdsk c: /r /x
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -148,10 +169,17 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
@@ -176,3 +204,50 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mjolnirs-legacy-new-era-dawned/"><u>[New] 2024 Approved  Mjolnir's Legacy  New Era Dawned</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-quick-quirks-recording-presentations/"><u>[New] 2024 Approved  Quick Quirks  Recording Presentations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-5-gaming-earbuds-for-video-creators/"><u>[New] In 2024, Essential 5 Gaming Earbuds for Video Creators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fearless-filming-mastering-your-first-10-clips/"><u>[New] In 2024, Fearless Filming  Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-fast-track-to-find-insta-follower-lapses/"><u>[New] In 2024, The Fast Track to Find Insta Follower Lapses</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>[New] In the Ring with Video Recording  Who Will Triumph, OBS or Bandicam?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-infuse-vibes-into-photos-via-ig-sounds/"><u>[Updated] 2024 Approved  Infuse Vibes Into Photos via IG Sounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagram-reels-10-surprising-insights/"><u>[Updated] 2024 Approved  Unveiling Instagram Reels  10 Surprising Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-25-top-free-tips-to-stream-online-learning-events-effectively-for-2024/"><u>[Updated] 25 Top Free Tips to Stream Online Learning Events Effectively for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-precision-editing-on-inshot-mastering-the-art-of-transitioning/"><u>[Updated] Precision Editing on Inshot  Mastering the Art of Transitioning</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-fantastic-free-streaming-options-for-netflix-fans/"><u>10 Fantastic Free Streaming Options for Netflix Fans</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-retrieving-wi-fi-credentials-in-windows-11/"><u>A Step-by-Step Guide to Retrieving Wi-Fi Credentials in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternative-methods-for-linking-your-logitech-optical-mouse-with-a-non-original-receiver/"><u>Alternative Methods for Linking Your Logitech Optical Mouse with a Non-Original Receiver</u></a></li>
+<li><a href="https://techtrends.techidaily.com/an-introduction-to-the-functionality-of-play-fi-by-dts/"><u>An Introduction to the Functionality of Play-Fi by DTS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-ssd-and-hdd-evaluation-software-july-update-2024-edition/"><u>Discover the Ultimate List of FREE SSD & HDD Evaluation Software - July Update, 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-fixing-a-lost-or-hidden-launchdll-component/"><u>Effective Solutions for Fixing a Lost or Hidden Launch.dll Component</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-lost-xinput13dll-errors-detailed-steps-for-a-smooth-resolution/"><u>Fixing Lost xinput1_3.dll Errors: Detailed Steps for a Smooth Resolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-libcurldll-not-found-or-missing-errors/"><u>How to Fix Libcurl.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-oneplus-12r-devices-by-drfone-android/"><u>How to Reset Gmail Password on OnePlus 12R Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-for-preserving-youtube-videos/"><u>Innovative Methods for Preserving YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-vatican-walls-is-email-usage-common-for-pope-francis-in-his-daily-activities/"><u>Inside the Vatican Walls: Is Email Usage Common for Pope Francis in His Daily Activities?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meet-your-match-the-5-most-effective-apps-for-finding-and-making-friends/"><u>Meet Your Match: The 5 Most Effective Apps for Finding and Making Friends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-twitch-streams-top-mysteries-for-beginner-viewers/"><u>Navigating Twitch Streams: Top Mysteries for Beginner Viewers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-ranked-internet-mp3-trimmer-and-merger-tool/"><u>New In 2024, Top-Ranked Internet MP3 Trimmer & Merger Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/newest-netgear-device-codes-july-2024-your-definitive-list-of-factory-credentials/"><u>Newest NETGEAR Device Codes (July 2024): Your Definitive List of Factory Credentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-easy-methods-to-deactivate-facebook-on-your-android-tablet-or-phone/"><u>Quick and Easy Methods to Deactivate Facebook on Your Android Tablet or Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-fold-6-unveiled-find-out-the-cost-launch-timeline-features-and-latest-updates/"><u>Samsung Galaxy Z Fold 6 Unveiled: Find Out the Cost, Launch Timeline, Features, and Latest Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-z-fold-4-launch-details-pricing-availability-and-key-features-revealed/"><u>Samsung Z Fold 4 Launch Details: Pricing, Availability & Key Features Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/six-must-have-study-tools-innovative-apps-to-aid-student-achievement-and-assist-caregivers/"><u>Six Must-Have Study Tools: Innovative Apps to Aid Student Achievement and Assist Caregivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-configuring-any-universal-remote-easily/"><u>Step-by-Step Instructions on Configuring Any Universal Remote Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-correcting-malfunctions-within-your-iphones-remote-app/"><u>Step-by-Step Tutorial: Correcting Malfunctions Within Your iPhone's Remote App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722848629417-step-by-step-tutorial-watching-fubotv-with-your-firestick/"><u>Step-by-Step Tutorial: Watching FuboTV with Your Firestick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-students-handbook-on-selecting-the-perfect-laptop-for-education/"><u>The Complete Student's Handbook on Selecting the Perfect Laptop for Education</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ipados-versions-guide/"><u>The iPadOS Versions Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-thrilling-journey-ahead-with-verizons-revolutionary-5g-network/"><u>The Thrilling Journey Ahead with Verizon's Revolutionary 5G Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-rescue-plan-repairing-and-reviving-a-water-damaged-apple-phoneplayer/"><u>The Ultimate Rescue Plan: Repairing and Reviving a Water-Damaged Apple Phone/Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-factors-you-must-evaluate-when-selecting-your-next-desktop-computer/"><u>Top 8 Factors You Must Evaluate When Selecting Your Next Desktop Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-the-elusive-mfc42dll-file-not-found-problem/"><u>Troubleshooting Techniques for the Elusive MFC42.DLL File Not Found Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-free-movie-streaming-apps-you-cant-miss/"><u>Ultimate List of Free Movie Streaming Apps You Can't Miss</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-for-adding-audio-to-your-ig-videos/"><u>Ultimate Tutorial for Adding Audio to Your IG Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-frozen-windows-enter-button-function/"><u>Unblocking the Frozen Windows 'Enter' Button Function</u></a></li>
+<li><a href="https://techtrends.techidaily.com/verizon-and-the-horizon-of-5g-innovation-a-glimpse-into-whats-coming-next/"><u>Verizon and the Horizon of 5G Innovation: A Glimpse Into What's Coming Next</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-cant-i-answer-calls-solutions-for-samsung-galaxy-watch-owners/"><u>Why Can't I Answer Calls? Solutions for Samsung Galaxy Watch Owners</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Convert and Redirect Http to Https Using Nginx
-date: 2024-08-15 11:34:26
-updated: 2024-08-16 10:17:29
+date: 2024-08-18T21:12:53.192Z
+updated: 2024-08-19T21:12:53.192Z
 tags:
   - win11
   - win10
@@ -68,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -80,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -94,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Method 5: Disable then enable card reader (from other users)
 
  Thanks Alan Darlington for sharing this method, which has worked for many users. So if your SD card is still not showing up on your PC, try this method.
@@ -116,6 +126,10 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
@@ -124,10 +138,20 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -146,3 +170,75 @@ If you’re not sure how to do that, refer steps below:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-with-stylish-mac-made-youtube-vids/"><u>[New] 2024 Approved  Getting Started with Stylish Mac-Made YouTube Vids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transformative-tips-making-an-indelible-mark-in-the-digital-world/"><u>[New] 2024 Approved  Transformative Tips  Making an Indelible Mark in the Digital World</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-clockwise-conversions-transform-your-instagram-posts-through-rotation-for-2024/"><u>[New] Clockwise Conversions  Transform Your Instagram Posts Through Rotation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[New] In 2024, Cultivating a Community  Building Followers on YouTube Without Spending</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-interactive-visual-exchange-android-iphone/"><u>[New] Interactive Visual Exchange  Android-iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rhythmic-resonance-how-to-choose-music-for-online-fame/"><u>[Updated] In 2024, Rhythmic Resonance  How to Choose Music for Online Fame</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[Updated] Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-uniting-youtube-videos-a-comprehensive-approach/"><u>[Updated] Uniting YouTube Videos  A Comprehensive Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-free-video-chatting-software-for-windowsmac-users-uncovered/"><u>2024 Approved  Free Video Chatting Software for Windows/Mac Users Uncovered</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>2024 Approved  Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-leading-combo-deals-cable-modems-meet-routers/"><u>2024'S Leading Combo Deals: Cable Modems Meet Routers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-approach-to-correcting-missing-d3dx940dll-errors/"><u>A Step-by-Step Approach to Correcting Missing d3dx9_40.dll Errors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-20-non-copyrighted-pubg-image-gems-for-2024/"><u>Best 20 Non-Copyrighted PUBG Image Gems for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/budget-friendly-must-have-items-for-creating-the-perfect-at-home-theatre-vibe/"><u>Budget-Friendly Must-Have Items for Creating the Perfect At-Home Theatre Vibe</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/canon-mx340-printer-driver-downloads-find-your-matching-version-for-windows-os-7810/"><u>Canon MX340 Printer Driver Downloads - Find Your Matching Version for Windows OS 7/8/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capture-your-gaming-moments-on-ps4-screenshot-tips-and-tricks/"><u>Capture Your Gaming Moments on PS4: Screenshot Tips & Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-the-motorola-mg7700-swift-and-steady-connectivity/"><u>Comprehensive Test of the Motorola MG#7700 - Swift and Steady Connectivity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-nintendo-switch-to-tv-made-easy-a-comprehensive-walkthrough/"><u>Connecting Nintendo Switch to TV Made Easy - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-board-the-definitive-techniques-of-royal-match-mastery/"><u>Conquering the Board: The Definitive Techniques of Royal Match Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/critique-on-splitcam-does-it-top-video-tech-for-2024/"><u>Critique on SplitCam  Does It Top Video Tech for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decode-and-remedy-a-408-error-comprehensive-tips-for-uninterrupted-access/"><u>Decode and Remedy a 408 Error: Comprehensive Tips for Uninterrupted Access</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-13-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 13 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-these-12-free-apps-for-unlimited-movie-viewing-anytime-anywhere/"><u>Discover These 12 Free Apps for Unlimited Movie Viewing Anytime, Anywhere</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dive-into-the-future-with-xbox-vr-insider-speculations-on-pricing-strategy-availability-schedule-and-cutting-edge-specifications/"><u>Dive Into the Future with Xbox VR: Insider Speculations on Pricing Strategy, Availability Schedule & Cutting-Edge Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-iphones-handbooks-comprehensive-source-for-each-version-explained/"><u>Download iPhones Handbooks - Comprehensive Source for Each Version Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-for-deactivating-facebook-from-android-handsets-and-tablets/"><u>Effective Methods for Deactivating Facebook From Android Handsets and Tablets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-correcting-mss32dll-not-detected-issues/"><u>Effective Strategies for Correcting 'mss32.dll' Not Detected Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-powering-down-the-latest-iphones-iphone-15-pro-and-pro-max-tips/"><u>Efficiently Powering Down the Latest iPhones: IPhone 15 Pro and Pro Max Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-accurately-use-the-in-built-measurement-application-on-android-devices/"><u>Expert Advice: How To Accurately Use The In-Built Measurement Application On Android Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-quintessential-collection-5-unbeatable-free-cross-border-chat-services/"><u>Explore the Quintessential Collection: 5 Unbeatable Free Cross-Border Chat Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-soggy-screen-to-success-story-effective-techniques-for-fixing-water-damaged-ios-devices/"><u>From Soggy Screen to Success Story: Effective Techniques for Fixing Water-Damaged iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-linking-your-samsung-wireless-in-ear-buds-with-your-pc/"><u>Guide: Linking Your Samsung Wireless In-Ear Buds with Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone XS Max without Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-eliminate-discoloration-and-distortion-on-a-pc-screen/"><u>How to Eliminate Discoloration and Distortion on a PC Screen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-camon-20-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Camon 20 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-g54-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola G54 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-yuva-3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Yuva 3 Through Google Earth?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-blaze-2-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-tips-to-overcome-mute-in-obs-streaming/"><u>In 2024, Tips to Overcome Mute in OBS Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722844396954-leading-gps-solutions-for-your-iphone-here-are-our-favorites/"><u>Leading GPS Solutions for Your iPhone - Here Are Our Favorites!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-return-calls-on-hidden-phone-lines/"><u>Mastering the Art of Return Calls on Hidden Phone Lines</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-to-past-notifications-a-step-by-step-iphone-guide/"><u>Navigating to Past Notifications: A Step-by-Step iPhone Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-obstacle-effective-fixes-for-halted-operations-due-to-halinitializationfailed-stop-code-0x0000005c/"><u>Overcoming the Obstacle: Effective Fixes for Halted Operations Due to HAL_INITIALIZATION_FAILED (STOP Code 0X0000005C)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/perfecting-your-screen-recording-during-games/"><u>Perfecting Your Screen Recording During Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-lcd-best-practices-for-dust-free-and-smudge-less-television-displays/"><u>Protecting Your LCD: Best Practices for Dust-Free and Smudge-Less Television Displays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/public-and-private-ais-unpacked-usage-spectrum-analysis/"><u>Public and Private AIs Unpacked: Usage Spectrum Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-sound-problems-during-your-powerpoint-presentation/"><u>Resolving Sound Problems During Your PowerPoint Presentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/retrieve-removed-phone-numbers-essential-tips-for-android-users/"><u>Retrieve Removed Phone Numbers: Essential Tips for Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-streaming-made-simple-configuring-your-chromecast-remote-device/"><u>Seamless Streaming Made Simple: Configuring Your Chromecast Remote Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-shopping-what-criteria-should-guide-your-projector-buying-decision/"><u>Smart Shopping: What Criteria Should Guide Your Projector Buying Decision?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-reset-failure-issues-on-windows-a-comprehensive-guide/"><u>Solving 'Reset Failure Issues on Windows: A Comprehensive Guide'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-updating-your-amd-radeon-driver-v2410/"><u>Step-by-Step Guide to Updating Your AMD Radeon Driver V24.10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-bootmgr-is-absent-errors-in-windows-operating-systems/"><u>Step-by-Step Solutions for 'BOOTMGR Is Absent' Errors in Windows Operating Systems ✅</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-tips-to-repair-stuck-image-or-ghosting-effects-on-screens/"><u>Step-by-Step Troubleshooting Tips to Repair Stuck Image or Ghosting Effects on Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-engaging-in-chats-via-mozilla-thunderbird-platform/"><u>Step-by-Step Tutorial: Engaging in Chats via Mozilla Thunderbird Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-superiority-of-evs-compared-to-petrol-engines-explained/"><u>The Superiority of EVs Compared to Petrol Engines Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-have-note-taking-applications-for-2e4-streamlined-organization-and-productivity/"><u>Top 10 Must-Have Note-Taking Applications for 2E4 | Streamlined Organization and Productivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-assassins-creed-odyssey-from-freezing-on-your-pc-updated-guide/"><u>Troubleshooting Steps to Stop Assassin's Creed Odyssey From Freezing on Your PC (Updated Guide)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-purchasing-the-perfect-television-for-your-living-space/"><u>Ultimate Guide: Purchasing the Perfect Television for Your Living Space</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-vizio-televisions-wi-fi-connection-issues/"><u>Ultimate Guide: Resolving Vizio Television's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-from-apples-new-household-robot-price-forecast-debut-date-and-specs-unveiled/"><u>What to Expect From Apple's New Household Robot: Price Forecast, Debut Date, and Specs Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-next-from-apple-in-depth-analysis-of-upcoming-foldable-iphones-cost-estimates-release-windows-and-cutting-edge-specs-covered/"><u>What's Next From Apple? In-Depth Analysis of Upcoming Foldable iPhones - Cost Estimates, Release Windows & Cutting-Edge Specs Covered</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-how-to-switching-your-computers-network-discovery-onoff/"><u>Windows 11 How-To: Switching Your Computer's Network Discovery On/Off</u></a></li>
+</ul></div>

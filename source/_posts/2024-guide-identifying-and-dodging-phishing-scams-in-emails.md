@@ -1,7 +1,7 @@
 ---
 title: "2024 Guide: Identifying and Dodging Phishing Scams in Emails"
-date: 2024-08-14 15:23:47
-updated: 2024-08-16 11:16:19
+date: 2024-08-18T21:05:10.899Z
+updated: 2024-08-19T21:05:10.899Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/3c3e9aebd6b49c0af91473b8783124a08a04e227f
 
 To address this, follow these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Manually update your drivers
 
 1. Identify your graphics card model by pressing the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter to open the Task Manager.
@@ -50,6 +53,9 @@ To address this, follow these steps:
 [Intel](http://downloadcenter.intel.com/)
 4. Install the new driver and restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automatically update your drivers
 
  If you do not have the time or patience to update your drivers manually or you think it is error-prone, you can utilize an**automatic driver updater** – **[Drive Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you automatically identify any missing or outdated driver, and install the most updated one, direct from the manufacturers. With Driver Easy, having driver updates is just a matter of a few mouse clicks.
@@ -86,6 +92,9 @@ Below is the simple three-step guide:
 
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Disable background applications
 
  Background applications can consume system resources and lead to FPS drops. Close unnecessary programs running in the background, particularly those utilizing high CPU or GPU usage, such as video players or web browsers with multiple tabs.
@@ -95,9 +104,15 @@ Below is the simple three-step guide:
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Click on the**Processes** tab. Observe the**CPU** and**GPU** columns to identify any processes consuming a significant amount of resources.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/close-unnecessary-processes-1.png)
 4. Right-click the applications you want to close and select**End task** .
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 Then restart your game and test your gameplay.
 
@@ -117,6 +132,9 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
 ## 5\. Adjust your in-game settings
@@ -134,11 +152,17 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 3. Under the**GRAPHICS** section, select**Windowed (Fullscreen)** from the dropdown. Then scroll down and find**Vertical Syncb** . Make sure it’s off.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
 After applying changes, relaunch your game and check if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 6\. Enable hardware-accelerated GPU scheduling
 
  Hardware-Accelerated GPU Scheduling is a feature introduced in Windows 10 version 2004 and later. It allows the GPU to manage its video memory directly. And that can reduce the burden on the CPU and potentially improve graphics performance in games and applications.
@@ -154,6 +178,9 @@ After applying changes, relaunch your game and check if it works.
 
 Restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Repair missing or corrupted system files
 
  If all else fails, it’s suggested that you check if any of your system files are missing or corrupted.
@@ -171,11 +198,17 @@ Restart your computer to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Once the scan is finished, the Command Prompt will display the results. If any issues are found, the tool will attempt to repair the corrupted files automatically.
 5. After the repair process is complete, restart your computer to apply the changes.
 
  While the System File Checker (SFC) is a useful built-in tool for repairing missing or corrupted system files, there are situations where it may not be sufficient. If SFC fails to resolve the issues, seeking professional help or using reputable online tools could be considered. Here you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , an award-winning and user-friendly software designed to streamline PC repair. It’s legit and comes in handy when you encounter any critical issues on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Automatically scan and repair your system files
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -184,6 +217,9 @@ Restart your computer to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll need to have the premium package for unlimited automatic repairs. Should you require any assistance, feel free to contact the support team.
 
 ---
@@ -204,3 +240,51 @@ Restart your computer to apply the changes.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-initiate-impactful-engagement-configuring-and-assessing-instream-ads-in-fb/"><u>[New] 2024 Approved  Initiate Impactful Engagement  Configuring and Assessing Instream Ads in FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-hacks-to-record-video-of-your-playtime/"><u>[New] Hacks to Record Video of Your Playtime</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-liberating-laughter-through-limitations-funniest-facebook-detainment-tales-for-2024/"><u>[New] Liberating Laughter Through Limitations  Funniest Facebook Detainment Tales for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-the-power-of-windows-11s-auto-hdr-enhancement/"><u>[Updated] Leveraging the Power of Windows 11'S Auto HDR Enhancement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-twilight-assessment-diverse-ideas/"><u>[Updated] Twilight Assessment  Diverse Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlock-the-full-potential-of-skype-written-in-spanish-but-not-widely-known-among-english-speakers-it-was-used-as-a-basis-for-creating-new-mode/"><u>2024 Approved  Unlock the Full Potential of Skype’ Written in Spanish, but Not Widely Known Among English Speakers. It Was Used as a Basis for Creating New Models Like BERT and GPT-3. How Can I Access This Model? Is It Free to Use?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-handbook-to-resolving-drive-errors-leveraging-the-power-of-chkdsk-command/"><u>A Beginner’s Handbook to Resolving Drive Errors: Leveraging the Power of Chkdsk Command</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-driven-content-optimization-leveraging-meta-tags-on-instagram-for-better-visibility/"><u>AI-Driven Content Optimization: Leveraging Meta Tags on Instagram for Better Visibility</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-analysis-and-performance-review-nikon-sb-700/"><u>Cost Analysis and Performance Review: Nikon SB-700</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-our-choice-of-top-5-professional-grade-video-editing-applications/"><u>Discover Our Choice of Top 5 Professional-Grade Video Editing Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-opaque-or-darkened-mobile-screens-on-your-android-smartphone/"><u>Effective Fixes for Opaque or Darkened Mobile Screens on Your Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-resolve-haldll-error-issues-on-windows-11108vista/"><u>Effective Solutions to Resolve hal.dll Error Issues on Windows 11/10/8/Vista</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/efficient-protocols-for-high-quality-iptv-screening-for-2024/"><u>Efficient Protocols for High-Quality IPTV Screening for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-combine-the-power-of-different-bluetooth-speakers-using-one-controller-a-how-to-guide/"><u>Effortlessly Combine the Power of Different Bluetooth Speakers Using One Controller: A How-To Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-facebook-game-discover-5-productivity-hacks-for-social-media-success/"><u>Elevate Your Facebook Game: Discover 5 Productivity Hacks for Social Media Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/empower-your-viewing-experience-with-funimate/"><u>Empower Your Viewing Experience with Funimate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-anti-malware-solutions-for-safe-browsing-our-expert-picks-for-free-tools-in-202/"><u>Essential Anti-Malware Solutions for Safe Browsing: Our Expert Picks for Free Tools in 202</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-to-overcome-a-lynel-in-zelda-botw-a-comprehensive-guide/"><u>Essential Strategies to Overcome a Lynel in Zelda: BOTW - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-the-7-best-strategies-for-speeding-up-your-pc/"><u>Expert Advice on the 7 Best Strategies for Speeding Up Your PC</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-for-monitors-now-displays-fullscreen-on-win11/"><u>Fix for Monitors: Now Displays Fullscreen on Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-a38-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo A38? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-an-online-compatible-tv-work-understanding-the-basics-and-benefits/"><u>How Does an Online-Compatible TV Work? Understanding the Basics and Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-factory-reset-a-lenovo-laptop/"><u>How to Factory Reset a Lenovo Laptop</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-v29e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo V29e Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improving-system-speed-in-windows-11-expert-strategies-for-a-smoother-experience/"><u>Improving System Speed in Windows 11: Expert Strategies for a Smoother Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-12-mini-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 12 mini or iPad?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c65-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco C65 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-poco-c50-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Poco C50 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rhythmripper-software-overview-and-testing/"><u>In 2024, RhythmRipper Software Overview & Testing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-sophisticated-screenshot-options-for-gamers/"><u>In 2024, Sophisticated Screenshot Options for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/learn-languages-effectively-at-no-cost-our-highly-recommended-top-9-websites/"><u>Learn Languages Effectively at No Cost: Our Highly-Recommended Top 9 Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-speed-control-for-elite-pc-users/"><u>Precision Speed Control for Elite PC Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-audio-how-to-resolve-problems-with-the-xbox-series-xs-headphones/"><u>Reviving Your Audio: How to Resolve Problems with the Xbox Series X/S Headphones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-streaming-your-computer-view-to-a-tv-via-the-chrome-cast-device/"><u>Steps for Streaming Your Computer View to a TV via the Chrome Cast Device</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-30-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 30 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892884287-the-new-era-of-computing-with-apples-rumored-touchscreen-macbook-price-estimates-and-unveiling-date/"><u>The New Era of Computing with Apple’s Rumored Touchscreen MacBook – Price Estimates & Unveiling Date</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-science-of-audience-retention-on-tweets-for-2024/"><u>The Science of Audience Retention on Tweets for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-12-amazing-free-online-calling-services/"><u>The Ultimate List: 12 Amazing Free Online Calling Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-solving-your-ipads-wi-fi-connection-issues/"><u>Troubleshooting Steps: Solving Your iPad's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-iphone-15s-resistance-how-effective-is-its-waterproofing/"><u>Understanding iPhone 15'S Resistance: How Effective Is Its Waterproofing?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-endless-entertainment-without-spending-our-picks-for-free-streams-like-netflix/"><u>Unlock Endless Entertainment Without Spending: Our Picks for Free Streams Like Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-the-5-key-points-for-choosing-the-right-smartwatch/"><u>What You Need To Know: The 5 Key Points for Choosing the Right Smartwatch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-and-network-visibility-on-and-off-options-explained/"><u>Windows 11 and Network Visibility: On and Off Options Explained</u></a></li>
+</ul></div>
