@@ -1,0 +1,164 @@
+---
+title: How to Change Your Gmail Notification Tone?
+date: 2024-08-21T17:29:57.258Z
+updated: 2024-08-22T17:29:57.258Z
+categories:
+  - BestProducts
+description: This Article Describes How to Change Your Gmail Notification Tone?
+excerpt: This Article Describes How to Change Your Gmail Notification Tone?
+thumbnail: https://www.lifewire.com/thmb/av1h-ZZrU8CSu4aC37M08iMdVXk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/singled-out-687864396-593c83153df78c537b5d9e50.jpg
+---
+
+## Seamless Smartphone Casting: Connect and Watch on Your Fire Stick Now
+### What to Know
+
+* On your Fire TV, hold the**Home** button to bring up a new menu and select**Mirroring** .
+* On your Android smartphone, select**Settings** \>**Connected devices** \>**Cast** \> your Fire TV’s name.
+* To cast to Fire TV from a Samsung phone, swipe down and select**Smart View** \> your Fire TV’s name.
+
+ This page will walk you through the setup process to get your Amazon Fire TV Stick ready for casting, the instructions for casting from an Android mobile, and some additional options for Samsung phone users.
+
+## Can Android Stream to Fire TV Sticks?
+
+ Android smartphones and tablets can stream or cast to Amazon’s Fire TV Stick devices. Before Fire Sticks can receive a wireless broadcast from your Android device, you need to set them up properly.
+
+ Here’s how to prepare a Fire TV Stick for Android casting.
+
+1. Turn your Amazon Fire TV Stick on as usual and then press the**Home** button on the remote until a menu appears.  
+![Amazon Fire TV Stick Home screen.](https://www.lifewire.com/thmb/5jHRQ5T_KkfuawTO2i9KJ1TC97s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_cast-to-firestick-from-android-5203940-471dbdb7861344b69af918a7d2b1361b.jpg)
+2. Highlight**Mirroring** .  
+![Fire TV Stick menu with Mirroring highlighted.](https://www.lifewire.com/thmb/qKvb3gx91cEcIS_1ZuQVtyIHV8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_cast-to-firestick-from-android-5203940-07ee8331644e40548b51b0d8db7d6639.jpg)
+3. Press**Enter** on the Fire Stick remote to activate the**Mirroring** option.  
+Enter is the large circle button on the remote.  
+![Fire Stick menu with Mirroring tile highlighted from the shortcut menu.](https://www.lifewire.com/thmb/HHKPByl6ZToAKKsraJQX_cC2-Cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_cast-to-firestick-from-android-5203940-699056d65c4445a68aba96493d4c6f19.jpg)
+4. The screen should now change and your Fire Stick is now primed and ready to receive a wireless casting signal.  
+![Fire Stick Display Mirroring screen.](https://www.lifewire.com/thmb/UkfPkJTnj7o6Ibuc-AHVIGhFHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_cast-to-firestick-from-android-5203940-2717553df30541fb871ee1fef9b28d68.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## How to Cast to Amazon Fire TV Stick From Android  
+
+ The process for casting to an Amazon Fire TV Stick from an Android smartphone or tablet varies depending on the device and[Android version](https://www.lifewire.com/android-versions-4173277) . Overall, the steps aren’t too different, though, and should like something like the following with maybe just a few visual changes here and there.
+5. Ensure that your Android smartphone or tablet is[connected to the same Wi-Fi network](https://www.lifewire.com/connecting-android-device-to-wifi-577618) as the Fire Stick.
+6. Open**Settings** and select**Connected devices** .  
+![Android home screen and Settings app with Connected devices highlighted.](https://www.lifewire.com/thmb/ES2KOfu0oXU9_Ki2t4Wm5jNy-aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_cast-to-firestick-from-android-5203940-5b429840ed1a4f74baeeecc9087bf277.jpg)
+7. Select**Cast** . If your Fire TV Stick is visible on the list of devices, tap it to begin casting. If it's not, select the ellipsis icon in the top-right corner.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![Android cast settings.](https://www.lifewire.com/thmb/_Hx3qqBZLyPwefeoz5hE17tXPpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_cast-to-firestick-from-android-5203940-952a7999d83442378f321bf6c95bdf14.jpg)
+8. Check the box next to**Enable wireless display** . This will make additional devices such as the Amazon Fire TV Stick visible in the Cast list.  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you ever have trouble finding your Fire Stick when casting, repeat this step to make it visible again.
+9. Select the name of your Fire TV Stick.  
+![Android wireless display cast settings.](https://www.lifewire.com/thmb/YABRvBSzh5daotOFpjkzKZqaZ1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_cast-to-firestick-from-android-5203940-467c4af4f85948bbbcacf596028705d2.jpg)
+10. Your Android mobile device should now have its screen mirrored on your Fire TV on your TV. To end the casting session, tap the Fire TV Stick's name from the Cast menu once again.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Fire TV and smart TV in the Android Cast settings.](https://www.lifewire.com/thmb/Rp1cb2dP4xTjlf6U0S9jQB6CBOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_cast-to-firestick-from-android-5203940-38efe25a67b64beab712699c9261c55b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+## Can You Cast to a Fire Stick From Samsung Phones?
+
+ The method for casting to a Fire Stick from a Samsung device is slightly different than the normal Android process as it uses[Samsung’s Smart View casting technology](https://www.lifewire.com/how-samsung-allshare-simplifies-media-streaming-1847358) .
+
+1. Make sure your Samsung device and your Fire TV Stick are on the same Wi-Fi network.
+2. Swipe down from the top of the screen to open the**Notifications** bar.
+3. Swipe left until you see the**Smart View** icon, and then tap it.
+4. Select your Fire TV Stick from the list of devices.  
+![Samsung Android cast options from Smart View.](https://www.lifewire.com/thmb/EHQGxcmXXyZ3MqSl-Sxz9IQi_4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_cast-to-firestick-from-android-5203940-96ac9e50f9964506aba90c5212958d70.jpg)  
+ If you don't see your Fire TV Stick from the list of available displays, try using the above steps for regular Android devices. The Fire TV may be hidden.
+5. Your Samsung device's screen should now be mirrored on your TV via your Amazon Fire TV Stick. To stop the mirroring, tap your Fire TV's name from the Smart View list again.
+
+[Do I Need a Streaming Device With a Smart TV?](https://www.lifewire.com/streaming-device-with-smart-tv-5209499)
+
+ FAQ
+
+* How do I cast to Fire Stick from an iPhone?  
+ One option is to use a screen-mirroring app like AirScreen to[AirPlay to a Fire Stick](https://www.lifewire.com/how-to-airplay-to-firestick-5202962) . Search for the AirScreen app from the Appstore and select**Get** \>**Open** . Next, download the AirScreen app on your iPhone and follow the instructions to choose your Fire Stick from the Control Center and mirror your iPhone.
+* How do I cast to a Fire Stick from my PC?  
+ First, activate mirroring on your Fire TV from**Settings** \>**Display & Audio** \>**Enable Display Mirroring** . On your Windows 10 PC, select the**Notifications** icon in the taskbar >**Expand** \>**Connect** \> and choose your Fire TV Stick from the list of available displays. On Windows 11, enter**Windows key + K** to open this menu.
+* How do I cast to Fire Stick from a Mac?  
+ To[cast to a Fire Stick](https://www.lifewire.com/cast-to-firestick-5190042) from a Mac, you need the help of a third-party mirroring app such as AirPlayMirror Receiver or AirScreen. Ensure both your Mac and Fire Stick are connected to the same Wi-Fi network and download your chosen mirroring app on both devices. On your Mac, click the AirPlay icon in the menu bar and choose your Fire Stick from the list of available devices.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-perfect-snapchat-video-maximizing-mac-capabilities/"><u>[New] 2024 Approved  Perfect Snapchat Video  Maximizing Mac Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-igtv-insights-key-measures-for-effective-content/"><u>[New] 2024 Approved  Unveiling IGTV Insights  Key Measures for Effective Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-sandbox-experience-playlist/"><u>[New] The Ultimate Sandbox Experience Playlist</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-google-meet-mastery-for-free-hostparticipants-ultimate-handbook-for-2024/"><u>[Updated] Google Meet Mastery for Free  Host/Participant's Ultimate Handbook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-insearchofimprovedcameratech-beyond-mycam/"><u>[Updated] In 2024, InSearchOfImprovedCameraTech Beyond MyCam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-and-optimize-google-for-podcasters/"><u>2024 Approved  Streamline & Optimize  Google for Podcasters</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-updating-hp-officejet-pro-8620-printer-drivers-on-your-windows-device/"><u>Complete Guide to Downloading and Updating HP OfficeJet Pro 8620 Printer Drivers on Your Windows Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-10-premium-video-players-for-ultimate-hd-vids-android/"><u>Discover 10 Premium Video Players for Ultimate HD Vids, Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-a-simple-guide-for-deactivating-and-deleting-your-tiktok-username/"><u>DIY: A Simple Guide for Deactivating and Deleting Your TikTok Username</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-malfunctioning-application-startups-on-mac-devices/"><u>Effective Fixes for Malfunctioning Application Startups on Mac Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/epic-journey-through-hogwarts-watching-every-harry-potter-movie-properly/"><u>Epic Journey Through Hogwarts: Watching Every Harry Potter Movie Properly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-film-picks-lifewires-top-movie-recommendations-for-instant-viewing/"><u>Exclusive Film Picks: Lifewire's Top Movie Recommendations for Instant Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-next-generation-apples-cutting-edge-iphone-unveiled/"><u>Experience the Next Generation: Apple's Cutting-Edge iPhone Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-8-leading-applications-to-simplify-handling-multiple-cellphone-contacts/"><u>Explore the 8 Leading Applications to Simplify Handling Multiple Cellphone Contacts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-new-galaxy-z-flip-6-what-you-need-to-know-about-price-availability-and-specs/"><u>Exploring the New Galaxy Z Flip 6 - What You Need to Know About Price, Availability and Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-on-fixing-when-your-system-cant-find-msvcr80dll-file/"><u>Guide on Fixing When Your System Can't Find MSVCR80.DLL File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-integrating-a-pinterest-button-on-your-facebook-business-page/"><u>Guide: Integrating a Pinterest Button on Your Facebook Business Page</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-audio-output-when-your-chromecast-is-mute-or-silent/"><u>How to Restore Audio Output When Your Chromecast Is Mute or Silent</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-meizu-21-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/linking-multiple-bluetooth-audio-systems-a-step-by-step-guide/"><u>Linking Multiple Bluetooth Audio Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-using-your-chromecast-remote-efficiently/"><u>Master the Art of Using Your Chromecast Remote Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-resolution-of-error-code-0x00000078-phase0exception/"><u>Mastering the Resolution of Error Code 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-photography-mastering-the-art-of-screenshots-and-shares/"><u>Nintendo Switch Photography: Mastering the Art of Screenshots and Shares</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-in-page-kernel-data-error-and-blue-screen-of-death-comprehensive-fix-guide/"><u>Resolved: In-Page Kernel Data Error and Blue Screen of Death - Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-smart-living-accessing-and-controlling-google-home-via-desktop-interface/"><u>Seamless Smart Living: Accessing and Controlling Google Home via Desktop Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-your-snapsphere-effective-strategies-for-removing-multiples-friends-simultaneeusly-on-snapchat/"><u>Simplify Your Snapsphere: Effective Strategies for Removing Multiples Friends Simultaneeusly on Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-d3dx927dll-file-not-detected-a-comprehensive-guide/"><u>Solving d3dx9_27.dll File Not Detected - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-building-time-lapse-shots-on-samsung-gear-for-2024/"><u>Step-by-Step  Building Time Lapse Shots on Samsung Gear for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-disconnecting-devices-from-your-google-home-network/"><u>Step-by-Step Guide: Disconnecting Devices From Your Google Home Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-how-to-deal-with-a-stuck-macbook-air/"><u>Step-by-Step Solutions: How To Deal With A Stuck MacBook Air</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-users-manual-to-zoom-meeting-recordings/"><u>The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-guide-for-roku-closed-captioning-issues/"><u>The Ultimate Fix Guide for Roku Closed Captioning Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-step-by-step-path-to-watch-dragon-ball-chronologically/"><u>The Ultimate Step-by-Step Path to Watch Dragon Ball Chronologically</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-of-2024-explore-the-best-free-standalone-car-racing-experiences-without-an-internet-connection/"><u>Top Picks of 2024: Explore the Best Free, Standalone Car Racing Experiences Without an Internet Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-puzzle-adventures-on-ios-the-best-alternatives-to-the-room-and-myst/"><u>Top Puzzle Adventures on iOS: The Best Alternatives to 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-a-blank-screen-fixing-no-signal-on-xbox-one/"><u>Troubleshooting a Blank Screen - Fixing No Signal on Xbox One</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-gathering-insights-on-latest-developments-and-speculations/"><u>Upcoming Google Gathering: Insights on Latest Developments & Speculations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-launch-of-the-google-pixel-tablet-official-announcement-and-key-features/"><u>Upcoming Launch of the Google Pixel Tablet - Official Announcement & Key Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722855339094-wireless-audio-harmony-pairing-guide-for-samsung-earbuds-to-laptops-across-platforms/"><u>Wireless Audio Harmony: Pairing Guide for Samsung Earbuds to Laptops Across Platforms</u></a></li>
+</ul></div>

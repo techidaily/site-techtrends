@@ -1,7 +1,7 @@
 ---
 title: "Amélioration De La Suite Deloitte eDiscovery : Intégration D'ABBYY OCR Server Pour Une Reconnaissance Avancée"
-date: 2024-08-21 18:15:52
-updated: 2024-08-22 11:51:54
+date: 2024-08-21T17:14:18.199Z
+updated: 2024-08-22T17:14:18.199Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7e4fb5de060add9d7faf8df5.jpg
@@ -92,6 +92,9 @@ Avec cette nouvelle solution fluide, les documents dans la suite eDiscovery qui 
 
 Partager  True ?  : "" 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -112,3 +115,38 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/1723808331516-fixed-internet-running-slow-speed-up-internet-easily/"><u>[Fixed] Internet Running Slow - Speed Up Internet Easily</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unlimited-visual-potential-free-themes-for-channels/"><u>[New] In 2024, Unlimited Visual Potential – Free Themes for Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-iphones-simple-methods-for-effective-screening/"><u>[New] IPhone's Simple Methods for Effective Screening</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-screenshotting-handbook-by-professionals-using-zd-softs-software/"><u>[Updated] 2024 Approved  The Ultimate Screenshotting Handbook by Professionals Using ZD Soft’s Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boost-your-video-impact-expert-tips-on-using-wm-maker/"><u>[Updated] Boost Your Video Impact  Expert Tips on Using WM Maker</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-automating-video-display-in-facebook-feeds/"><u>2024 Approved  Automating Video Display in Facebook Feeds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-download-essential-video-intros-for-beginners/"><u>2024 Approved  Download Essential Video Intros for Beginners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accessing-the-built-in-on-screen-keyboard-on-pcs-a-guide-for-windows-10-8-and-7-users/"><u>Accessing the Built-In On-Screen Keyboard on PCs: A Guide for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-pcs-performance-expert-strategies-for-window-10-enhancement/"><u>Boost Your PC's Performance: Expert Strategies for Window 10 Enhancement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/csrssexe-client-server-runtime-process-what-is-it-and-should-i-remove-it/"><u>csrss.exe (Client Server Runtime Process) – What Is It and Should I Remove It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tricks-to-sync-a-bluetooth-mouse-on-microsoft-windows-and-apple-macos/"><u>Easy Tricks to Sync a Bluetooth Mouse on Microsoft Windows & Apple macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-using-a-dvd-player-application-on-windows-10-for-film-enjoyment/"><u>Easy Tutorial: Using a DVD Player Application on Windows 10 for Film Enjoyment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-revive-a-dysfunctional-lenovo-keyboard-glow/"><u>Effective Solutions to Revive a Dysfunctional Lenovo Keyboard Glow</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-lowering-processor-load-on-your-windows-pc/"><u>Effective Strategies for Lowering Processor Load on Your Windows PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-guide-to-identifying-your-current-windows-11-system-version/"><u>Effortless Guide to Identifying Your Current Windows 11 System Version</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-workspace-with-dual-monitors-compatible-with-windows-7-8-and-10-instructions/"><u>Expanding Workspace with Dual Monitors: Compatible With Windows 7, 8 & 10 Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-wasteland-of-fallout-3-installation-guide-for-windows-11-gamers/"><u>Experience the Wasteland of Fallout 3: Installation Guide for Windows 11 Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-non-responsive-logitech-mice-after-upgrading-to-windows-11/"><u>Fixing Non-Responsive Logitech Mice After Upgrading to Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723807910471-fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-failed-windows-11-installation-attempts/"><u>How to Address and Fix Failed Windows 11 Installation Attempts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-camera-error-code-0xa00f4244-on-your-pc-running-windows-11/"><u>How to Fix the 'Camera Error Code 0xA00F4244' On Your PC Running Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-windows-10-performance-by-deleting-browser-and-system-cache/"><u>How to Optimize Windows 10 Performance by Deleting Browser and System Cache</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-tackle-the-persistent-black-screen-when-starting-valorant-a-step-by-step-solution/"><u>How to Tackle the Persistent Black Screen When Starting Valorant: A Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/learn-how-to-create-distortion-effects-in-photoshop/"><u>Learn How to Create Distortion Effects in Photoshop</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-without-cc/"><u>New How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-ultimate-csgo-speed-top-strategies-for-optimizing-frames-per-second-fps/"><u>Unlock Ultimate CS:GO Speed: Top Strategies for Optimizing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-video-cutters-for-mov-file-editing-for-2024/"><u>Updated The Best Free Video Cutters for MOV File Editing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-isnt-my-logitech-mouse-working-step-by-step-fix-guide/"><u>Why Isn't My Logitech Mouse Working? Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-7-end-of-lifesupport-everything-you-need-to-know/"><u>Windows 7 End of Life/Support: Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-in-2024/"><u>YouTube Shorts Revenue Sharing Explained  How Much Will I Make, In 2024</u></a></li>
+</ul></div>

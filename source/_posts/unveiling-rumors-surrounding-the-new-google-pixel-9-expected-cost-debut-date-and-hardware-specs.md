@@ -1,0 +1,182 @@
+---
+title: Unveiling Rumors Surrounding the New Google Pixel 9 - Expected Cost, Debut Date & Hardware Specs
+date: 2024-08-21T17:22:44.065Z
+updated: 2024-08-22T17:22:44.065Z
+categories:
+  - BestProducts
+description: This Article Describes Unveiling Rumors Surrounding the New Google Pixel 9 - Expected Cost, Debut Date & Hardware Specs
+excerpt: This Article Describes Unveiling Rumors Surrounding the New Google Pixel 9 - Expected Cost, Debut Date & Hardware Specs
+thumbnail: https://www.lifewire.com/thmb/Jo4mnrs5lS0gqULHjPpUT9FYXk0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pixel-phone-37530f0d59de468fb1a7f6345bd7a276.png
+---
+
+## Unveiling Rumors Surrounding the New Google Pixel 9 - Expected Cost, Debut Date & Hardware Specs
+
+ In This Article
+
+* [Release Date Estimate](https://www.lifewire.com/#toc-when-will-the-google-pixel-9-be-released)
+* [Price Rumors](https://www.lifewire.com/#toc-google-pixel-9-price-rumors)
+* [Pre-Order Information](https://www.lifewire.com/#toc-pre-order-information)
+* [Possible Features](https://www.lifewire.com/#toc-google-pixel-9-features)
+* [Specs and Hardware](https://www.lifewire.com/#toc-google-pixel-9-specs-and-hardware)
+* [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-google-pixel-9)
+
+ Like clockwork, Google's next Pixel phones will hit the shelves later this year. They're expected to come with new software features, better hardware, and a new, pill-shaped camera design. And rumor has it there will be a larger XL model and a successor to the[Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) , all released simultaneously.
+
+## When Will the Google Pixel 9 Be Released?
+
+ Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
+
+### Lifewire's Release Date Estimate
+
+We anticipate an August 2024 event to showcase the Pixel 9 phones.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Google Pixel 9 Price Rumors
+
+ We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
+
+ Here's how this year's phones might be priced:
+
+* **Pixel 9** \- $699
+* **Pixel 9 Pro** \- $999
+* **Pixel 9 Pro XL** \- $1,199
+* **Pixel 9 Pro Fold** \- $1,799
+
+## Pre-Order Information
+
+ You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
+
+[The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
+
+## Google Pixel 9 Features
+
+ The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
+
+* **Adaptive Touch** : This feature automatically adjusts touch sensitivity to make your phone respond better in certain cases, like when your fingers are wet or there's a screen protector present.
+* **AI tools** : New software features like text-to-image conversion and smart auto-reply abilities are expected to come with the Pixel 9, although these functions might be reserved for the Pro models. A few of these AI capabilities might process on the device, meaning more privacy and quicker results.
+* **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
+* **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
+
+## Google Pixel 9 Specs and Hardware
+
+ Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### Display
+
+ Interestingly, the Pixel 9's screen might be a little smaller than the one on the Pixel 8\. It's not a huge change—6.03 inches versus 6.1 inches—but it does seem a bit weird when you think about it. One might assume an upgraded phone means it'll be bigger (or at least stay the same size), but not get_smaller_ .
+
+ It makes more sense considering that the Pixel 9 will be the tiniest in the lineup. There's also the Pixel 9 Pro, which will undoubtedly come in a bigger size (we're hearing 6.1 inches). And with the possible inclusion of the 6.7-inch Pixel 9 Pro XL and 8.02-inch Pixel 9 Pro Fold, you definitely have other options if you want a larger display.
+
+ We've also heard that Google could borrow from Apple this year and[use the same display the company will use in the iPhone 16 Pro](https://9to5google.com/2024/07/01/google-pixel-9-display-samsung-iphone-report/) . According to the report's source, the Samsung OLED display is supposed to be brighter and last longer and will be used across the whole lineup, including the Pixel 9 Pro Fold.  
+
+ Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
+
+### Performance
+
+ The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
+
+### Cameras
+
+ This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
+
+![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+MySmartPrice
+
+ Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
+
+ At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+### Battery
+
+ There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
+
+ Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Other Specs
+
+ Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
+
+ The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
+
+ There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+## The Latest News About the Google Pixel 9
+
+ You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are stories about Google devices specifically.
+
+[Google Pixel 10: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/google-pixel-10-8664345)
+
+[Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-captivating-narratives-the-best-of-the-best-10-igtv-strategies-for-brands-for-2024/"><u>[New] Craft Captivating Narratives  The Best of the Best 10 IGTV Strategies for Brands for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-full-breakdown-dji-inspire-2-analysis/"><u>[New] In 2024, Full Breakdown  DJI Inspire 2 Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-reducing-loudness-gradually-techniques-for-logic-pro-users-for-2024/"><u>[New] Reducing Loudness Gradually  Techniques for Logic Pro Users for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-use-screencastify-recorder/"><u>2024 Approved  How to Use Screencastify Recorder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/brightening-up-your-android-display-a-guide-to-resolving-black-screen-issues/"><u>Brightening Up Your Android Display: A Guide to Resolving Black Screen Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-address-dll-files-not-found-specifically-d3dx930dll-problems/"><u>Comprehensive Guide to Address DLL Files Not Found, Specifically D3DX9_30.dll Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-deleting-a-twitch-account/"><u>Comprehensive Instructions for Deleting a Twitch Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/curated-collection-the-ultimate-picks-for-discovery-plus-viewers-in-july-2024/"><u>Curated Collection: The Ultimate Picks for Discovery Plus Viewers in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-selection-of-no-cost-driver-updaters-for-july-2024/"><u>Discover the Ultimate Selection of No-Cost Driver Updaters for July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-resolving-your-televisions-top-issues/"><u>DIY Solutions: Resolving Your Television's Top Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-guide-mastering-splitting-your-screen-in-macos/"><u>Easy Guide: Mastering Splitting Your Screen in macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-installing-the-latest-zoom-update-on-windowsmac-os/"><u>Easy Steps for Installing the Latest Zoom Update on Windows/Mac OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-with-asrock-and-amd-ryzen-9000-mothboards/"><u>Experience Next-Level Gaming with ASRock and AMD Ryzen 9000 Mothboards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-metas-artificial-intelligence-an-in-depth-guide/"><u>Exploring the World of Meta's Artificial Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-lameencdll-malfunction-tips-and-techniques-for-audacity-users/"><u>Fixing the lame_enc.dll Malfunction: Tips and Techniques for Audacity Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freshly-compiled-netgear-device-passwords-access-guide-july-2024/"><u>Freshly Compiled NETGEAR Device Passwords: Access Guide (July 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-setting-up-bots-on-your-discord-platform/"><u>Guide: Setting Up Bots on Your Discord Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2010-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2010 document online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-canons-spectral-conversion-paid-and-gratis-lut-tools/"><u>In 2024, Canon's Spectral Conversion  Paid & Gratis LUT Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-23-exclusive-list-of-best-disneyplus-family-flicks/"><u>July 2^3: Exclusive List of Best Disney+ Family Flicks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-ipad-genre-unveiled-discover-the-most-recent-advancements/"><u>Latest iPad Genre Unveiled: Discover the Most Recent Advancements</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-11f-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 11F 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-insta-without-an-account-a-comprehensive-tutorial/"><u>Navigating Insta Without an Account – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-the-xlivedll-file-goes-missing-on-windows-computers/"><u>Quick Fixes for When the Xlive.dll File Goes Missing on Windows Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-modern-warfare-3-fixes-memory-issue-code-12707/"><u>Resolved: Modern Warfare 3 - Fixes Memory Issue Code 12707</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-secrets-unveiled-the-art-of-crafting-reverse-video-content-easily/"><u>Snapchat Secrets Unveiled: The Art of Crafting Reverse Video Content Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-the-black-screen-in-rainbow-six-siege-a-complete-guide/"><u>Solving the Mystery of the Black Screen in Rainbow Six Siege: A Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-guide-to-repairing-msvcrtdll-file-absence-issues/"><u>Solving the Mystery: A Guide to Repairing MSVCRT.DLL File Absence Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-catalog-of-livestreaming-cameras-review-for-2024/"><u>The Complete Catalog of Livestreaming Cameras Review for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ongoe-cycle-of-existence-key-takeaways-from-the-intriguing-black-survival/"><u>The Ongoe Cycle of Existence – Key Takeaways From the Intriguing 'Black Survival'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-mac-and-pc-what-sets-them-apart/"><u>The Ultimate Breakdown of Mac and PC - What Sets Them Apart?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ups-solutions-the-ultimate-guide-to-power-protection/"><u>Top Rated UPS Solutions: The Ultimate Guide to Power Protection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/understanding-facebooks-policy-on-media-content-sharing/"><u>Understanding Facebook's Policy on Media Content Sharing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-ps5-face-off-comparing-dimensions-designs-and-capabilities/"><u>Unveiling the PS5 Face-Off: Comparing Dimensions, Designs, and Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G34 5G | Dr.fone</u></a></li>
+</ul></div>

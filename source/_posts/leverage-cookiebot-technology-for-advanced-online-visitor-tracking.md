@@ -1,7 +1,7 @@
 ---
 title: Leverage Cookiebot Technology for Advanced Online Visitor Tracking
-date: 2024-08-21 16:29:51
-updated: 2024-08-22 11:10:21
+date: 2024-08-21T17:13:49.930Z
+updated: 2024-08-22T17:13:49.930Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a9f379346dab6d9afc35fd26439e264f20b751a6d300caec81d8cb92afef3805.jpg
@@ -33,6 +33,9 @@ Passer à :
 
 **La Process intelligence est une combinaison de fonctionnalités reposant sur les données, dédiée à l’analyse et à l’amélioration des opérations de l’entreprise.** Elle utilise les données tirées des propres systèmes d’information de l’entreprise pour dévoiler des schémas et des renseignements qui indiquent la voie vers une nouvelle efficacité opérationnelle. **Les cinq piliers essentiels d’une process intelligence soutenable sont la découverte des processus (process discovery), l’analyse des processus (process analysis), le suivi des processus (process monitoring), la prédiction des résultats des processus (process prediction), et la simulation des processus (process simulation).**  Les entreprises peuvent utiliser ces renseignements pour découvrir, comprendre et gérer plus efficacement l’exécution de leurs processus.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Les cinq piliers de la process intelligence
 
 #### 1\. Découverte des processus (Process Discovery)
@@ -73,18 +76,31 @@ En tirant le meilleur parti de la process intelligence, les entreprises peuvent 
 
 **Économies.** En identifiant et en éliminant les inefficacités des processus, les organisations peuvent faire baisser leurs frais de fonctionnement. La Process intelligence permet d’allouer les ressources de façon rentable et d’éviter les dépenses inutiles liées aux interventions manuelles ou aux erreurs.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exemples d’utilisation de la process intelligence
 
 Dans tout secteur d’activité, incorporer la [process intelligence à la stratégie de transformation numérique](https://tools.techidaily.com/abbyy/products/) permet aux organisations d’évaluer le futur impact des changements proposés, de gérer les transitions plus efficacement, de garantir la performance des étapes d’automatisation mises en place et de mettre en place une boucle de rétroaction pour une amélioration continue. Les entreprises, quel que soit leur secteur d’activité, utilisent la process intelligence pour booster leurs résultats dans de nombreuses situations.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Santé
 
 Les hôpitaux et d’autres prestataires de santé peuvent tirer le meilleur parti de la process intelligence pour améliorer l’expérience des patients et l’efficacité clinique, maintenir les normes de qualité, et éviter les risques de conformité. Ils peuvent être plus facilement en conformité en suivant les opérations en temps réel, tout en alertant le personnel de manière proactive lorsque les protocoles ne sont pas respectés ou que des écarts dans la trajectoire du processus sont détectés.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Banque
 
 La Process intelligence permet aux banques et autres institutions financières de piloter leur transformation numérique et de gérer les risques et les priorités de conformité réglementaire. Elles peuvent analyser les données des transactions quasiment en temps réel pour améliorer le service aux clients, accroître la précision du reporting, et réduire les risques d’erreurs coûteuses. Le suivi des processus les aide à garantir que le niveau de service (SLA), les exigences de conformité et les exigences législatives sont maintenus, ce qui limite les risques d’erreurs coûteuses qui pourraient autrement être négligées.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Assurance
 
 Les compagnies d’assurance peuvent utiliser l’analyse prédictive pour entreprendre une évaluation et une sélection des risques, ainsi que pour faire des arbitrages. Elles peuvent améliorer leur conformité grâce au suivi automatisé et aux mesures de remédiation. Elles peuvent en même temps gagner en productivité grâce au traitement direct des données. La Process analytics permet de dégager de la valeur commerciale, pour le personnel en interne, pour les experts, pour les organismes tiers d’assistance et pour les autres partenaires.
@@ -113,6 +129,9 @@ Dans le monde entier, des organisations automatisent les processus métier chron
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Foire aux questions
 
 [Qu’est-ce qu’une stratégie de process intelligence ?](https://tools.techidaily.com/abbyy/products/)
@@ -207,3 +226,62 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-edge-top-10-webcams-in-the-latest-os/"><u>[New] 2024 Approved  Leading Edge  Top 10 Webcams in the Latest OS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-asmr-microphones/"><u>[New] Best ASMR Microphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork-for-2024/"><u>[New] Brand Makeover Made Easy  Revel in Our Array of over 50 Free Online Promotional Artwork for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-secure-periscope-streaming-techniques-and-strategies/"><u>[New] Unlocking Secure Periscope Streaming Techniques & Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-profitable-videos-on-demand-leveraging-analytics-and-ad-revenue-everywhere/"><u>[Updated] In 2024, Profitable Videos on Demand  Leveraging Analytics & Ad Revenue Everywhere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-20-core-strategies-for-effective-facebook-video-ads/"><u>[Updated] Unveiling the 20 Core Strategies for Effective Facebook Video Ads</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-boosting-brand-visibility-through-instagram-videos-effective-strategies/"><u>2024 Approved  Boosting Brand Visibility Through Instagram Videos  Effective Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>2024 Approved  Crafting Spectacular HDR Images  Blending Tips in Adobe Lightroom</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-crucial-aspects-you-need-to-assess-prior-to-purchasing-a-smartwatch/"><u>5 Crucial Aspects You Need to Assess Prior to Purchasing a Smartwatch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-no-fee-html-design-software-for-pc-a-guide-to-8-options/"><u>Best No-Fee HTML Design Software for PC: A Guide to 8 Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-of-western-digitals-data-lifeguard-a-diagnostic-software-review/"><u>Comprehensive Analysis of Western Digital's Data Lifeguard: A Diagnostic Software Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-coolest-gifts-for-young-gamers-picking-out-convenient-console-choices-and-essential-add-ons/"><u>Discover the Coolest Gifts for Young Gamers: Picking Out Convenient Console Choices and Essential Add-Ons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-read-a-pages-file-on-any-pc-a-comprehensive-tutorial/"><u>Easy Ways to Read a Pages File on Any PC – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-repairs-for-magic-mouse-touch-sensitivity-issues/"><u>Effortless Repairs for Magic Mouse Touch Sensitivity Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/embracing-tomorrow-the-power-of-verizon-5g-networks/"><u>Embracing Tomorrow: The Power of Verizon 5G Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-the-roku-channel-without-owning-a-roku-alternative-ways-for-streaming-enthusiasts/"><u>Enjoy the Roku Channel Without Owning a Roku: Alternative Ways for Streaming Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-ev-lifespan-a-comparative-look-to-conventional-car-years/"><u>Evaluating EV Lifespan: A Comparative Look to Conventional Car Years</u></a></li>
+<li><a href="https://facebook.techidaily.com/exclude-acquaintances-from-on-this-day-highlights/"><u>Exclude Acquaintances From On This Day Highlights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-libcea32dll-not-found-issues-a-stepwise-approach-for-users/"><u>Fix libcea32.dll Not Found Issues – A Stepwise Approach for Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A05 FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-fixing-wireless-network-connectivity-on-the-microsoft-surface-series/"><u>Guide to Fixing Wireless Network Connectivity on the Microsoft Surface Series</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-your-multitasking-with-androids-picture-in-picture-mode/"><u>How to Optimize Your Multitasking with Android's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-issues-with-a-non-functional-tiktok-application/"><u>How to Resolve Issues with a Non-Functional TikTok Application</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-the-tracert-command-in-windows/"><u>How to Use the Tracert Command in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/imessage-on-the-go-expert-instructions-for-texting-from-your-ipad/"><u>IMessage on the Go: Expert Instructions for Texting From Your iPad</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s23plus-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S23+ FRP Bypass Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-gt-5-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme GT 5 Pro Through Google Earth?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-pixelpuzzle-pro-crafting-videos-for-instagallery/"><u>In 2024, PixelPuzzle Pro  Crafting Videos for InstaGallery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-upcoming-playstation-5s-release-timing-cost-analysis-news-highlights-and-hardware-features/"><u>Inside the Upcoming PlayStation 5S: Release Timing, Cost Analysis, News Highlights, and Hardware Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/making-waves-in-the-social-media-world-via-fb/"><u>Making Waves in the Social Media World via FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-automating-tweets-a-step-by-step-guide/"><u>Mastering the Art of Automating Tweets: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-use-top-5-resources-for-elevating-your-presence-as-a-twitch-content-creator/"><u>Must-Use Top 5 Resources for Elevating Your Presence as a Twitch Content Creator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-response-from-your-date-on-bumble-learn-what-to-do-and-why-it-happened/"><u>No Response From Your Date on Bumble? Learn What To Do and Why It Happened.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-android-listening-helpers-for-2024/"><u>Premium Android Listening Helpers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restarting-your-dead-computer-machine-techniques-for-bringing-back-power/"><u>Restarting Your Dead Computer Machine: Techniques for Bringing Back Power</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-apple-watch-6-methods-to-troubleshoot-connection-issues/"><u>Revive Your Apple Watch: 6 Methods to Troubleshoot Connection Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rumors-surrounding-the-impending-arrival-of-google-pixel-10-price-forecasts-launch-dates-and-hardware-breakdown/"><u>Rumors Surrounding the Impending Arrival of Google Pixel 10: Price Forecasts, Launch Dates & Hardware Breakdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-the-disappearing-shell32dll-a-step-by-step-guide/"><u>Solving the Mystery of the Disappearing shell32.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tech-must-haves-for-students-9-indispensable-items-for-educational-excellence/"><u>Tech Must-Haves for Students: 9 Indispensable Items for Educational Excellence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-art-of-dual-and-triple-monitor-configuration-expert-tips-and-tricks-for-optimal-performance/"><u>The Art of Dual & Triple Monitor Configuration: Expert Tips and Tricks for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-walkthrough-for-downloading-fonts-onto-an-iphone/"><u>The Comprehensive Walkthrough for Downloading Fonts Onto an iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-latest-on-sony-exploring-product-launches-and-developments-at-the-2024-state-of-play/"><u>The Latest on Sony - Exploring Product Launches and Developments at the 2024 State of Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-hide-textual-transcripts-during-your-amazon-prime-watches/"><u>Tips: Hide Textual Transcripts During Your Amazon Prime Watches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-best-free-movie-streaming-applications/"><u>Top 12 Best Free Movie Streaming Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-zero-cost-disk-defragmenters-reviewed-july-2024-edition/"><u>Top 12 Zero-Cost Disk Defragmenters Reviewed - July 2024 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-xr21-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia XR21 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-calendar-apps-for-managing-family-schedules/"><u>Top 7 Calendar Apps for Managing Family Schedules</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ten-note-taking-solutions-you-should-try-our-review/"><u>Top Ten Note Taking Solutions You Should Try : Our Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turbocharge-playstation-5-storage-capacity-by-installing-an-nvme-m2-ssd/"><u>Turbocharge PlayStation 5 Storage Capacity by Installing an NVMe M.2 SSD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-the-model-numbers-of-your-apple-macbook-with-ease/"><u>Uncover the Model Numbers of Your Apple MacBook with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-overseeing-your-internet-data-spending-key-insights-and-tools/"><u>Understanding & Overseeing Your Internet Data Spending: Key Insights & Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unleash-the-power-of-slow-mo-top-10-video-players-for-2024/"><u>Unleash the Power of Slow Mo Top 10 Video Players for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-ultra-smooth-graphics-secrets-to-hitting-120fps-in-ps5-games/"><u>Unleash Ultra-Smooth Graphics: Secrets to Hitting 120FPS in PS5 Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtual-adventures-await-learn-to-establish-your-oculus-questquest-2-presence-online/"><u>Virtual Adventures Await! Learn to Establish Your Oculus Quest/Quest 2 Presence Online</u></a></li>
+</ul></div>

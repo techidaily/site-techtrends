@@ -1,7 +1,7 @@
 ---
 title: "Two Key Practices for Optimal Health: Embrace Online Fitness Guidance & Unplug Regularly – Learn Why on the AABBY Blog"
-date: 2024-08-19 16:37:10
-updated: 2024-08-22 12:13:32
+date: 2024-08-21T17:13:13.414Z
+updated: 2024-08-22T17:13:13.414Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21efbb35cbfda2026996e2400a4.jpg
@@ -40,10 +40,16 @@ If you have the developer options enabled:
 
 ![Developer options android switch on monochrome mode](https://static1.abbyy.com/abbyycommedia/26172/08oqc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 Here’s how your screen will look like from now on:
 
 ![monochrome mode switched on android](https://static1.abbyy.com/abbyycommedia/26173/pic2-e1517223380832.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **ABBYY Tip: FineScanner vs Regular Camera**
 
 “How is your app different from the pre-installed camera app?” This question has popped up now and then in your comments on the [FineScanner](http://qrs.ly/pl4x25p) page. Read on to find out.
@@ -56,6 +62,13 @@ Unlike your regular camera app:
 4. In [FineScanner](http://qrs.ly/pl4x25p), you can have your documents recognized by means of OCR technology, so you end up with an editable Word, Excel, or PowerPoint document. Many other document formats are also supported. [FineScanner](http://qrs.ly/pl4x25p) can recognize texts in 193 languages.
 5. [FineScanner](http://qrs.ly/pl4x25p) has a unique book scanning mode, where you scan an open book and the app will automatically split the photo into two pages and straighten out any curved lines!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## **App of the Week: Freeletics, Your Personal Fitness Coach** 
 
 [Freeletics](https://www.freeletics.com/en) is a fitness training program designed to make you stronger, fitter and generally more healthy. It will also help you keep your weight under control. Inside [Freeletics](https://www.freeletics.com/en), you will find all those basic gym exercises that even a novice can do. What sets [Freeletics](https://www.freeletics.com/en) apart is a cleverly devised system for monitoring and motivating athletes. The main statistic the program uses to assess your fitness and effort is the time you spend on each set of exercises. Exercise times are used to monitor your progress and to compare your results against those of other members of the program all over the world.
@@ -75,12 +88,18 @@ You can start training with [Freeletics](https://www.freeletics.com/en) for free
 
 Available on [iOS](https://itunes.apple.com/us/app/freeletics-bodyweight/id654810212?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=ru).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **First-Hand Experience: Advice From a Colleague**
 
 _Shared by Catherine Matantseva, international PR manager_
 
 ![abbyy advice digital detox no gadgets](https://static1.abbyy.com/abbyycommedia/26176/j5avporlfvq-e1517235977250.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 Those working in media and communications will know how important it is to be able to handle large amounts of unstructured data. Of course, when we chose this profession we knew what we were in for. Any PR specialist worth his/her salt needs to soak up and assimilate huge swathes of data on a daily basis, separating the wheat from the chaff, sifting out the important from the unimportant.
 
 However, there’s only so much information our brain can hold at any given moment, and the more data we get in the harder it is to process. Therefore, it is absolutely crucial that you give yourself a break now and then, giving yourself time to assimilate what you have learnt so far. Some people will turn off their phone or switch it into flight mode for some time, or put away all their mobile devices to create a digital free zone where they have time to rest and think.
@@ -95,6 +114,9 @@ That’s it from us for today. Until next Monday, have a great week! P.S. You ca
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -158,3 +180,41 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>[New] Tailoring Your Vtuber's Tone  Best App Recommendations Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-android-photo-enhancement-5-top-apps-for-2024/"><u>[New] The Ultimate Guide to Android Photo Enhancement  5 Top Apps for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevating-tiktok-engagement-through-effective-hashtags/"><u>[Updated] Elevating TikTok Engagement Through Effective Hashtags</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-screenshot-tools-for-youtube-live-sharing/"><u>[Updated] Ultimate Screenshot Tools for YouTube Live Sharing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieve-perfect-audio-on-windows-10-expert-tips-for-eq-adjustment/"><u>Achieve Perfect Audio on Windows 10: Expert Tips for EQ Adjustment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-and-redirect-http-to-https-using-nginx/"><u>Convert and Redirect Http to Https Using Nginx</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-and-managing-dual-or-multi-monitor-configurations-on-your-windows-10-pc/"><u>Creating and Managing Dual or Multi-Monitor Configurations on Your Windows 10 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-actual-ram-velocity-a-guide-for-windows-11-users/"><u>Discovering Your Actual RAM Velocity: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722879084442-dive-into-devices-and-reads-laptops-mobile-marvels-and-must-read-books-galore/"><u>Dive Into Devices and Reads: Laptops, Mobile Marvels, and Must-Read Books Galore!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-epson-printer-setup-instructions-a-comprehensive-walkthrough/"><u>DIY Epson Printer Setup Instructions - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fast-tracking-intel-graphics-update-for-windows-11/"><u>Fast-Tracking Intel Graphics Update for Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-connection-how-to-resolve-oculus-quest-2s-issues-with-pc-sync/"><u>Fixing the Connection: How to Resolve Oculus Quest 2'S Issues with PC Sync</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-dilemma-of-non-responsive-sleep-function-on-windows-11/"><u>Fixing the Dilemma of Non-Responsive Sleep Function on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-preventing-unwanted-windows-11-updates-without-hitches/"><u>Guide: Preventing Unwanted Windows 11 Updates Without Hitches!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-asus-rog-phone-7-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Asus ROG Phone 7 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-connection-issue-between-your-oculus-quest-2-and-computer/"><u>How to Fix the Connection Issue Between Your Oculus Quest 2 and Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-open-disk-management-in-windows-10/"><u>How to Open Disk Management in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-project-your-computer-display-onto-the-big-screen-with-an-hdmi-cable-clear-diagrams/"><u>How To Project Your Computer Display Onto the Big Screen With an HDMI Cable [Clear Diagrams]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-speed-up-your-windows-10-boot-time/"><u>How to Speed Up Your Windows 10 Boot Time</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-install-and-configure-two-screens-with-windows-7-a-comprehensive-guide/"><u>How to Successfully Install and Configure Two Screens with Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-reinstall-realtek-hd-audio-driver-in-windows-11/"><u>How to Successfully Reinstall Realtek HD Audio Driver in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hxtsrexe-in-windows-10-what-is-it-and-how-to-fix-it-solved/"><u>HxTsr.exe in Windows 10 - What Is It and How to Fix It? [Solved]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter-for-2024/"><u>Leading iPhone Apps  The Ultimate Guide to Removing Photo Clutter for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/measuring-true-system-memory-velocity-a-guide-for-windows-11-users/"><u>Measuring True System Memory Velocity: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mobile-sharing-strategies-bytes-and-vids-not-retweets-for-2024/"><u>Mobile Sharing Strategies  Bytes & Vids, Not Retweets for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/netflix-audio-out-of-sync-on-pc-solved/"><u>Netflix Audio Out of Sync on PC [SOLVED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pubg-gaming-guide-ultimate-techniques-for-enhancing-frame-rate-speed-pro-tips-from-2n20/"><u>PUBG Gaming Guide: Ultimate Techniques for Enhancing Frame Rate Speed - Pro Tips From 2N20</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pubg-nvidia-settings/"><u>PUBG NVIDIA Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808228029-revamp-your-display-experience-with-our-step-by-step-window-11-driver-update-tutorial/"><u>Revamp Your Display Experience with Our Step-by-Step Window 11 Driver Update Tutorial!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-tutorial-configuring-adb-for-your-windows-machine/"><u>Simple Tutorial: Configuring ADB for Your Windows Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808316530-stop-nuisance-phone-calls-in-their-tracks-a-step-by-step-blocking-tutorial-for-iphone-and-android-users/"><u>Stop Nuisance Phone Calls in Their Tracks – A Step-by-Step Blocking Tutorial for iPhone & Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-your-msi-webcam-issues-expert-advice-from-2024/"><u>Ultimate Guide: Troubleshooting Your MSI Webcam Issues - Expert Advice From 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-and-bios-update-tutorial-improve-your-computers-performance-safely/"><u>Windows 11 and BIOS Update Tutorial – Improve Your Computer's Performance Safely</u></a></li>
+</ul></div>

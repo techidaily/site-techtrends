@@ -1,0 +1,142 @@
+---
+title: "Discovering Your Hidden Gems: A Guide to Finding Saved Instagram Reels"
+date: 2024-08-21T17:31:38.467Z
+updated: 2024-08-22T17:31:38.467Z
+categories:
+  - BestProducts
+description: "This Article Describes Discovering Your Hidden Gems: A Guide to Finding Saved Instagram Reels"
+excerpt: "This Article Describes Discovering Your Hidden Gems: A Guide to Finding Saved Instagram Reels"
+thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c90f2ad47957b85620005c06.png
+---
+
+## Understanding Discord Downtime: Identifying If You're Alone in Facing Outages or if It's a Widespread Problem
+ If you can't log in to[Discord](https://www.lifewire.com/discord-4174046) , the chat service might be down, or it could just be an issue with your computer, the Discord app, or even your Discord account. It can sometimes be difficult to know if there's a Discord outage for everyone or if it's just you, but there are usually signs about which it is. Here's how to know if Discord is down or if it's an issue with your tech.
+
+ Instructions in this article apply broadly to all devices that are able to connect to Discord.
+
+## How to Tell If Discord Is Down
+
+ If you think the Discord servers are down for everyone, try these steps to check:
+
+1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
+![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
+ This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
+![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
+3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
+ If you can't open X either, then the problem is likely on your end or with your ISP.
+4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
+![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
+ If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+## What to Do When You Can't Connect to Discord
+
+ There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
+
+1. Make sure you're really visiting <www.discord.com>. If you're using a Discord app, make sure it's the[official Discord app](https://discord.com/download) for PC, Linux, Mac, iOS and Android.
+2. If you're unable to access Discord from your web browser, try using the Discord app. If the app isn't working, try using the browser instead. Pinpoint if there's a specific device or method that isn't working.
+3. [Close all of your browser windows](https://www.lifewire.com/close-all-tabs-computer-android-browsers-4173831) , wait 30 seconds, open one window, and then try accessing Discord again. Do the same to your Discord app if you're on a tablet or smartphone, but make sure you're actually closing down the app; learn how to[close Android apps](https://www.lifewire.com/close-apps-on-android-4164116) and how to[quit apps on iPhone](https://www.lifewire.com/quit-apps-on-iphone-2000287) .  
+ If you think that the browser or app isn't closing properly, or it gets stuck,[restart your device](https://www.lifewire.com/why-does-restarting-seem-to-fix-most-computer-problems-2624569) and try again.
+4. [Clear your browser's cache.](https://www.lifewire.com/how-to-clear-cache-2617980) Clearing your cache will likely clear out any errors that may have been introduced while you were browsing around the internet.
+5. [Clear your browser's cookies.](https://www.lifewire.com/how-to-delete-cookies-2617981) In the same way that clearing the cache works, clearing your browser's cookies does, too. These tiny bits of information can sometimes cause errors, so clearing them out and starting again is helpful.
+6. [Scan your computer for malware.](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) Malware can cause all manner of problems that wouldn't seem to be related to malware. Even if you've scanned recently, try scanning for viruses and other malware again, just to be sure.
+7. [Restart your computer.](https://www.lifewire.com/how-to-reboot-a-computer-2624568) Isn't it funny how restarting seems to fix so many things? Restarting your computer can fix numerous problems that are temporary. Give it a shot. You might be surprised at how well this works.
+8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
+
+ If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Discord Error Messages
+
+ Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
+
+* **Discord No Route** . This error occurs when trying to connect to a voice channel and your network can't join it. It's usually caused by an overenthusiastic VPN, firewall or antivirus. Sometimes a restart fixes it, other times you need to make Discord an exception on your firewall or antivirus.
+* **Discord Won't Open.** This happens when there's an issue with your app. Reinstall the app or switch to using the browser-based version.
+
+ If Discord is down with a message about maintenance, wait it out is your only option. The service should resume at some point soon.
+
+[How to Fix It When a Discord Update Fails: Learn More](https://www.lifewire.com/fix-failed-discord-update-5080924)
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-deciding-on-your-ideal-virtual-reality-experience-is-wireless-freedom-worthwhile-or-a-tethered-tech-is-better/"><u>[New] 2024 Approved  Deciding on Your Ideal Virtual Reality Experience  Is Wireless Freedom Worthwhile, Or a Tethered Tech Is Better?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[New] In 2024, Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-viral-victory-hot-talk-highlights/"><u>[New] In 2024, Twitter's Viral Victory  Hot Talk Highlights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professional-tips-rotate-and-flip-iphone-imagery/"><u>[New] Professional Tips  Rotate and Flip iPhone Imagery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-ranking-the-very-best-top-9-free-logo-design-software/"><u>[New] Ranking the Very Best  Top 9 Free Logo Design Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-hitpaw-screen-recorder-review-and-alternative/"><u>[Updated] 2024 Approved  HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ideal-ios-companions-best-ps2-game-simulators/"><u>[Updated] 2024 Approved  Ideal iOS Companions  Best PS2 Game Simulators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mental-agility-triumphs-in-premier-escape-venues/"><u>[Updated] In 2024, Mental Agility Triumphs in Premier Escape Venues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-shine-a-light-on-your-content-creation/"><u>[Updated] Shine a Light on Your Content Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-hd-chronicles-of-twitters-visual-content/"><u>[Updated] The HD Chronicles of Twitter's Visual Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-edge-2023-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Edge 2023 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-movies-with-dolby-atmos-sound-enjoy-cinematic-excellence-in-your-living-room-top-15/"><u>Best Movies with Dolby Atmos Sound - Enjoy Cinematic Excellence in Your Living Room (Top 15)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-complimentary-email-providers-top-picks/"><u>Discover the Best Complimentary Email Providers, Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-advanced-technology-solutions-through-toms-eye/"><u>Discovering Advanced Technology Solutions Through Tom's Eye</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-removing-unwanted-horizontal-or-vertical-lines-from-tv-screens/"><u>DIY Solutions: Removing Unwanted Horizontal or Vertical Lines From TV Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-the-libxml2dll-file-missing-errors/"><u>Effective Solutions to the libxml2.dll File Missing Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-solutions-to-handle-the-error-missing-or-not-found-wmvcoredll-file/"><u>Efficient Solutions to Handle the Error: Missing or Not Found Wmvcore.dll File</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/enhancing-gaming-experience-tools-beyond-microsofts-recorder/"><u>Enhancing Gaming Experience  Tools Beyond Microsoft's Recorder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-picks-the-13-best-no-cost-tools-to-evaluate-your-hard-drives/"><u>Expert Picks: The 13 Best No-Cost Tools to Evaluate Your Hard Drives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-sound-with-dts-virtual-x/"><u>Exploring the World of Sound with DTS Virtual X</u></a></li>
+<li><a href="https://techtrends.techidaily.com/group-music-sessions-on-spotify-connect-and-jam-with-friends/"><u>Group Music Sessions on Spotify: Connect and Jam with Friends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-access-a-wide-range-of-free-tunes-our-ultimate-list-of-sites/"><u>How to Access a Wide Range of Free Tunes: Our Ultimate List of Sites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-fix-a-missing-or-non-existent-coredll-error/"><u>How to Correctly Fix a Missing or Non-Existent Core.dll Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-a-wi-fi-mesh-network-worth-it/"><u>Is a Wi-Fi Mesh Network Worth It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-watch-athletic-dramas-our-picks-for-the-perfect-film-selection/"><u>Must-Watch Athletic Dramas: Our Picks for the Perfect Film Selection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-icmp-protocol-mastering-website-pings-for-optimal-performance/"><u>Navigating ICMP Protocol: Mastering Website Pings for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-market-5-tips-for-selecting-a-high-quality-video-game-console/"><u>Navigating the Market: 5 Tips for Selecting a High-Quality Video Game Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-wireless-networking-demystifying-the-evolution-of-ieee-80211nbgstandard-to-80211ax-advancements/"><u>Navigating Through Wireless Networking: Demystifying the Evolution of IEEE 802.11nB/gStandard to 802.11Ax Advancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snap-save-and-share-expert-tips-for-screen-capture-on-computers/"><u>Snap, Save & Share: Expert Tips for Screen Capture on Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-links-secure-your-network-with-linksys-wrt32x-firmware-download-now/"><u>Speedy Links: Secure Your Network with Linksys WRT32X Firmware - Download Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence/"><u>The Ideal Companion  15 Tripods and Mounts for GoPro Excellence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-for-successfully-charging-your-electric-car-at-home/"><u>The Ultimate Checklist for Successfully Charging Your Electric Car at Home</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-taskbar-how-to-personalize-colors-on-windows-10-for-a-fresh-look/"><u>Transform Your Taskbar: How to Personalize Colors on Windows 10 for a Fresh Look</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-phase0exception-error-stop-code-0x00000078/"><u>Ultimate Guide: Resolving the PHASE0_EXCEPTION Error (STOP Code 0X00000078)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-why-your-automobiles-power-source-may-keep-depleting-a-closer-look-at-6-common-factors/"><u>Understanding Why Your Automobile's Power Source May Keep Depleting: A Closer Look at 6 Common Factors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-efficiency-discover-18-key-shortcuts-for-apples-ios-automation-tool/"><u>Unlock Efficiency: Discover 18 Key Shortcuts for Apple's iOS Automation Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-past-strategies-for-tracking-down-erased-contact-information-on-android-devices/"><u>Unveiling the Past: Strategies for Tracking Down Erased Contact Information on Android Devices</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Savings with Promo Codes: Insights From the ABBEYY Blog"
-date: 2024-08-19 22:54:54
-updated: 2024-08-22 11:35:58
+date: 2024-08-21T17:14:07.783Z
+updated: 2024-08-22T17:14:07.783Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7079de538a777b736a226ef7753a657beca0fed6327389062bff5d10d904ed3d.jpg
@@ -55,6 +55,9 @@ Here’s how you do it:
 
 3\. Enter your account password once again, then paste your promo code into the field at the bottom and you’re done.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Android Tip: How to Redeem Your Google Play Promo Code**
 
 The procedure is similar for Android-powered devices. Here again, you are most likely to get a promo link, which can be easily activated with a mere tap on your device. If you all you have is a string of digits and letters, please follow the steps below (there’re also a detailed guide from Google [here](https://support.google.com/googleplay/answer/3422659?hl=en)):
@@ -70,6 +73,9 @@ The procedure is similar for Android-powered devices. Here again, you are most l
 4\. Tap **Redeem** and you will see a window prompting you to install the app.  
 ![redeem FineScanner Google Play](https://static1.abbyy.com/abbyycommedia/31174/3.png)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 There’s also an alternative route: you can use the web version of Google Play to install the app on your (or your grandparent’s) smartphone via your desktop computer. Simply log in with your Gmail account at [play.google.com](https://play.google.com/store) to find apps and install them on your mobile device. To redeem your promo code on a desktop computer:
 
 1\. In your browser, open this address: [google.com/redeem](https://play.google.com/redeem).
@@ -78,6 +84,9 @@ There’s also an alternative route: you can use the web version of Google Play 
 
 ![redeem activate promo code android](https://static1.abbyy.com/abbyycommedia/25940/f445d31baebfda3cef1cda1b51f7860f-e1505142714275.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **ABBYY Tip: How to Take Photos Like a Pro**
 
 Unsurprisingly, the quality of OCR is heavily dependent on the quality of document photos you feed to the system. Smart robots, Big Data and even deep machine learning are helpless if the text on the photo is downright illegible. The good news is that it only takes one minute of careful preparation, and then ABBYY technology will work its magic to complete the process. There are several common image defects that make the OCR engine wince from pain. Here’s a few tips how you can keep the recognition engine happy and get excellent results.
@@ -85,6 +94,9 @@ Unsurprisingly, the quality of OCR is heavily dependent on the quality of docume
 1\. **Poor lighting.** The more light you have, the better. It also helps if the light is evenly distributed. Taking snapshots at night while sitting in a car with business cards or documents placed in your lap will almost certainly not work. No technology, however intelligent, will be able to capture text which you can hardly read yourself. Naturally, there are occasions when you just have no choice, but if there’s no urgency, you’d do wise to wait for daylight and take a picture in a less shaky environment.  
 ![abbyy ocr poor lighting](https://static1.abbyy.com/abbyycommedia/25941/4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 2\. **Wrong focus point** is another image defect that may make you want to rip your hair out. Why is it that sometimes the camera will focus on any object in sight save the text that you need to capture? Digital cameras use special technology to determine the distance to the subject. To perform reliably, it needs sufficient lighting and high-contrast objects. Besides, it is often fine-tuned for portraits and common indoor and outdoor scenes. If your camera has hard time focusing on the text, give it a helping hand by pointing the lens to some high-contrast (e.g. black and white) area. It’s best to give the camera some time to focus on the text instead of taking a few hasty snapshots in the hope that you can improve their sharpness later.  
 ![fix wrong focus point taking photos](https://static1.abbyy.com/abbyycommedia/31175/5.jpg)
 
@@ -94,9 +106,15 @@ Unsurprisingly, the quality of OCR is heavily dependent on the quality of docume
 4\. **Shadows and glare.** These, too, are also caused by uneven or insufficient lighting. Using the flash may help, but its trickier with small objects like business cards. Hot spots may occur where you least expect them. If your text is printed on glossy paper, position the camera so that you don’t see the direct reflection of the lamp on the document. Light should be evenly distributed over the document. Look out for shadows. Remember that your arms can obstruct the light and cause shadows too. If this is the case, you may want to reposition the camera, move to another room or add an extra light source.  
 ![textgrabber ocr abbyy glare](https://static1.abbyy.com/abbyycommedia/25943/7.jpg)![finescanner text recognition image shadows](https://static1.abbyy.com/abbyycommedia/25944/8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 5\. **“Difficult” backgrounds.** These can cause some headache. The background is not the subject, but it often attempts to pull the focus to itself. The general rule of thumb is to shoot against uniform backgrounds and have as few other objects in the frame as possible. Avoid white backgrounds, though.  
 ![finescanner text analyse background](https://static1.abbyy.com/abbyycommedia/25945/img_5353-e1505149724965.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 6\. **Poor angle.** If you shoot at an angle, rather than positioning the camera directly above the document, make sure that the angle is not too steep. Otherwise, the image correction algorithms may become helpless. The trapezoid correction mechanism can work wonders, but it’s not omnipotent and won’t be able to restore the document to its normal rectangular self if you shoot it from a prone position.  
 ![finescanner text analyse poor angle](https://static1.abbyy.com/abbyycommedia/25946/9.jpg)
 
@@ -107,10 +125,19 @@ To sum up: uniform non-white backgrounds, even natural lighting and steady hands
 
 ![TextGrabber FineScanner OCR](https://static1.abbyy.com/abbyycommedia/25948/11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **App of the Week: Keeping Track of Your Tasks with Asana**
 
 ![Asana on mobile](https://static1.abbyy.com/abbyycommedia/31182/12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 There has never been a shortage of task managing apps, but my app of choice is [Asana](https://asana.com/). It’s the task managing app that I always recommend to my colleagues and that I would like to tell you about today. Here’s what I consider its strong points that make it worthy of your attention:
 
 1\. The app is available on many platforms, including iOS, Android, and the web. For Android users, there’s a handy widget where you can create tasks. If your phone battery runs out, you can always log in to the web version on any desktop computer you have access to.
@@ -128,6 +155,9 @@ _The author of this week’s column is Anna Koltsova, Head of the Mobile Marketi
 
 ![ABBYY Advice from colleague Marketing Management](https://static1.abbyy.com/abbyycommedia/25950/img_20170611_160245_1024-2-e1505144205494.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 I’ve spent quite some time managing projects and assigning tasks and one thing I know for certain — the more specific you are when setting a task, the more likely you are to get the result that you’re expecting. This is even truer when you assign a task to a new member of your team, especially if they lack the necessary experience. Better spend an extra five minutes on explaining everything at the outset than losing hours ironing out defects at the final stages. This rule equally applies outside your work environment. When setting a task, be sure to commit the following to paper:
 
 1. What it is exactly that you want done, specified in excruciating detail. As you write things down, numerous finer points pop up that could easily escape your attention in spoken communication. If you already have some good examples of what you want to get, as a result, share them with the person who will be doing the work for you this time (“Good artists copy; great artists steal” **©** Pablo Picasso).
@@ -201,3 +231,41 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-illuminate-images-top-3-methods-for-captivating-comments/"><u>[New] 2024 Approved  Illuminate Images  Top 3 Methods for Captivating Comments</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-3-efficient-methods-for-saving-youtubes-standardized-images/"><u>[New] 3 Efficient Methods for Saving YouTube's Standardized Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>[New] In 2024, Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-decoding-the-art-of-successful-fb-cover-videos-for-2024/"><u>[Updated] Decoding the Art of Successful FB Cover Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-online-gallery-guide-sites-and-plugins-for-superb-photoframes/"><u>2024 Approved  Online Gallery Guide  Sites & Plugins for Superb Photoframes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-address-dll-files-not-found-specifically-d3dx930dll-problems/"><u>Comprehensive Guide to Address DLL Files Not Found, Specifically D3DX9_30.dll Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-deleting-a-twitch-account/"><u>Comprehensive Instructions for Deleting a Twitch Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/curated-collection-the-ultimate-picks-for-discovery-plus-viewers-in-july-2024/"><u>Curated Collection: The Ultimate Picks for Discovery Plus Viewers in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-selection-of-no-cost-driver-updaters-for-july-2024/"><u>Discover the Ultimate Selection of No-Cost Driver Updaters for July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-guide-mastering-splitting-your-screen-in-macos/"><u>Easy Guide: Mastering Splitting Your Screen in macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-installing-the-latest-zoom-update-on-windowsmac-os/"><u>Easy Steps for Installing the Latest Zoom Update on Windows/Mac OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-metas-artificial-intelligence-an-in-depth-guide/"><u>Exploring the World of Meta's Artificial Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-lameencdll-malfunction-tips-and-techniques-for-audacity-users/"><u>Fixing the lame_enc.dll Malfunction: Tips and Techniques for Audacity Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freshly-compiled-netgear-device-passwords-access-guide-july-2024/"><u>Freshly Compiled NETGEAR Device Passwords: Access Guide (July 2024)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576725998-from-beginner-to-fluent-learn-afrikaans-efficiently-on-mondly-heres-why/"><u>From Beginner to Fluent: Learn Afrikaans Efficiently on Mondly - Here’s Why!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-setting-up-bots-on-your-discord-platform/"><u>Guide: Setting Up Bots on Your Discord Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-swapping-out-your-handheboxs-transparent-security-screen-film/"><u>Guide: Swapping Out Your Handhebox's Transparent Security Screen Film</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-ace-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus Ace 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-ipad-genre-unveiled-discover-the-most-recent-advancements/"><u>Latest iPad Genre Unveiled: Discover the Most Recent Advancements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-logitech-keyboard-the-ultimate-guide-to-screen-clipping-techniques/"><u>Mastering Your Logitech Keyboard: The Ultimate Guide to Screen Clipping Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-insta-without-an-account-a-comprehensive-tutorial/"><u>Navigating Insta Without an Account – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/photography-fixes-removing-pet-eye-haze-with-simple-techniques/"><u>Photography Fixes: Removing Pet Eye Haze with Simple Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-and-reliability-install-hp-projector-8710-printer-software-windows/"><u>Precision & Reliability - Install HP Projector 8710 Printer Software (Windows)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-the-xlivedll-file-goes-missing-on-windows-computers/"><u>Quick Fixes for When the Xlive.dll File Goes Missing on Windows Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g13-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G13 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-secrets-unveiled-the-art-of-crafting-reverse-video-content-easily/"><u>Snapchat Secrets Unveiled: The Art of Crafting Reverse Video Content Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-address-dying-function-keys-adjusting-screen-brightness/"><u>Solutions to Address Dying Function Keys Adjusting Screen Brightness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-guide-to-repairing-msvcrtdll-file-absence-issues/"><u>Solving the Mystery: A Guide to Repairing MSVCRT.DLL File Absence Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-mac-and-pc-what-sets-them-apart/"><u>The Ultimate Breakdown of Mac and PC - What Sets Them Apart?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ups-solutions-the-ultimate-guide-to-power-protection/"><u>Top Rated UPS Solutions: The Ultimate Guide to Power Protection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-ps5-face-off-comparing-dimensions-designs-and-capabilities/"><u>Unveiling the PS5 Face-Off: Comparing Dimensions, Designs, and Capabilities</u></a></li>
+</ul></div>

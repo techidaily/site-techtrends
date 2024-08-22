@@ -1,7 +1,7 @@
 ---
 title: Gartner Recognizes ABBYY as Premier Vendor on Magic Quadrant for Process Mining Solutions
-date: 2024-08-20 22:43:22
-updated: 2024-08-22 11:46:48
+date: 2024-08-21T17:16:35.136Z
+updated: 2024-08-22T17:16:35.136Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/880ddd263e214c3b4ae0eb5fd84c0b63be50232aa4ce3a994c19ff834b47aa92.jpg
@@ -69,3 +69,48 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/"><u>[New] 2024 Approved  The Path to Success  Integrating Past Recordings in Real Time on Social Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-free-youtube-intro-makers/"><u>[Updated] 2024 Approved  Best Free YouTube Intro Makers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>[Updated] The Elevation of Professional Display  An In-Depth Examination of the BL2711U</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-check-your-channels-revenue-flow/"><u>2024 Approved  Check Your Channel's Revenue Flow</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-skills-for-capturing-soundless-videography/"><u>2024 Approved  Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-comment-management-turn-it-on-or-off/"><u>2024 Approved  YouTube Comment Management  Turn It On or Off</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-galaxy-ring-costs-arrival-dates-specifications-and-recent-news/"><u>All You Need to Know About Samsung Galaxy Ring – Costs, Arrival Dates, Specifications & Recent News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crucial-cross-platform-tools-windows-meets-android/"><u>Crucial Cross-Platform Tools: Windows Meets Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-restorative-action-by-nvidia/"><u>Display Driver Restorative Action by Nvidia</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-watch-netflix-on-your-roku-tv-or-streaming-stick/"><u>Easy Fixes for When You Can't Watch Netflix on Your Roku TV or Streaming Stick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-refreshing-your-presentations-in-microsoft-powerpoint/"><u>Easy Steps: Refreshing Your Presentations in Microsoft PowerPoint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722886550186-electric-vehicle-charging-basics-at-home-what-every-owner-should-know/"><u>Electric Vehicle Charging Basics at Home: What Every Owner Should Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-twitch-presence-with-these-5-indispensable-services/"><u>Elevate Your Twitch Presence with These 5 Indispensable Services</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhance-your-browsing-fixing-fuzzy-videos-in-chrome-and-phone-apps/"><u>Enhance Your Browsing  Fixing Fuzzy Videos in Chrome and Phone Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-inception-to-innovation-unpacking-the-history-and-development-of-ios-versions-10-180/"><u>From Inception to Innovation: Unpacking the History and Development of iOS Versions 1.0-18.0</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-install-and-execute-android-applications-on-your-windows-10-pc/"><u>Guide: Install and Execute Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-ais-potential-to-transform-and-improve-our-lives/"><u>Harnessing AI's Potential to Transform and Improve Our Lives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-a-connected-tv-revolutionize-your-viewing-experience/"><u>How Does a Connected TV Revolutionize Your Viewing Experience?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enjoy-fubotv-content-with-an-amazon-firestick-step-by-step-instructions/"><u>How to Enjoy FuboTV Content with an Amazon Firestick - Step-by-Step Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pair-airpods-with-your-nintendo-switch-is-it-possible/"><u>How to Pair AirPods with Your Nintendo Switch: Is It Possible?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-repair-dll-could-not-be-located-and-similar-windows-problems/"><u>How to Repair DLL Could Not Be Located and Similar Windows Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/implementing-photography-snippets-from-videos/"><u>Implementing Photography Snippets From Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/independent-internet-access-a-guide-to-ditching-traditional-phone-and-cable-services-for-a-wire-free-web/"><u>Independent Internet Access: A Guide to Ditching Traditional Phone and Cable Services for a Wire-Free Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-your-audio-truly-experiencing-the-magic-of-dolby-atmos-technology/"><u>Is Your Audio Truly Experiencing the Magic of Dolby Atmos Technology?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macbook-pro-reboot-tactics-effortless-steps-unveiled/"><u>MacBook Pro Reboot Tactics: Effortless Steps Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-on-an-xbox-one-a-comprehensive-tutorial/"><u>Mastering the Art of Screenshots on an Xbox One - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/outlook-lifesaver-how-to-rescind-and-recover-accidentally-deleted-emails/"><u>Outlook Lifesaver: How to Rescind and Recover Accidentally Deleted Emails</u></a></li>
+<li><a href="https://techtrends.techidaily.com/projecting-tiktok-content-to-your-television-for-easy-access/"><u>Projecting TikTok Content to Your Television for Easy Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-repair-unresponsive-apps-on-your-mac-computer/"><u>Step-by-Step Guide to Repair Unresponsive Apps on Your Mac Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-complete-checklist-for-pureaudioextract-2024-usage/"><u>The Complete Checklist for PureAudioExtract 2024 Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-smart-rings-dive-into-latest-rumors-on-price-release-date-and-specs-for-apples-next-innovation/"><u>The Future of Smart Rings? Dive Into Latest Rumors on Price, Release Date, and Specs for Apple's Next Innovation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unverified-developer-messages-on-your-mac-computer/"><u>Troubleshooting Unverified Developer Messages on Your Mac Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tv-repair-guide-expert-solutions-for-frequent-electronic-hitches/"><u>TV Repair Guide: Expert Solutions for Frequent Electronic Hitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-solutions-for-a-blackout-on-android-phones-expert-fixes/"><u>Unlocking Solutions for a Blackout on Android Phones - Expert Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-game-pass-ultimate-users-manual-for-seamless-cloud-gaming/"><u>Xbox Game Pass Ultimate User's Manual for Seamless Cloud Gaming</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
