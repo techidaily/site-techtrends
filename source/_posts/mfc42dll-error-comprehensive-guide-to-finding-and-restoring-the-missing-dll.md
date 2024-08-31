@@ -1,0 +1,139 @@
+---
+title: "Mfc42.dll Error: Comprehensive Guide to Finding and Restoring the Missing DLL"
+date: 2024-08-30T15:21:12.752Z
+updated: 2024-08-31T15:21:12.752Z
+categories:
+  - BestProducts
+description: "This Article Describes Mfc42.dll Error: Comprehensive Guide to Finding and Restoring the Missing DLL"
+excerpt: "This Article Describes Mfc42.dll Error: Comprehensive Guide to Finding and Restoring the Missing DLL"
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
+---
+
+## Inside Look at Google's Newest Tech: A Comprehensive Guide to the Rumored Google TV Box – Pricing & More
+
+In This Article
+
+* [Release Date Estimate](https://www.lifewire.com/#toc-when-will-the-google-tv-streamer-be-released)
+* [Price Rumors](https://www.lifewire.com/#toc-google-tv-streamer-price-rumors)
+* [Pre-Order Information](https://www.lifewire.com/#toc-pre-order-information)
+* [Specs & Features](https://www.lifewire.com/#toc-google-tv-streamer-specs--features)
+* [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-the-google-tv-streamer)
+
+ A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
+
+## When Will the Google TV Streamer Be Released?
+
+ Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
+
+### Lifewire's Release Date Estimate
+
+August 13 is our best guess.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Google TV Streamer Price Rumors
+
+ The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+## Pre-Order Information
+
+ Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
+
+[The Best Streaming Devices of 2024](https://www.lifewire.com/best-streaming-devices-8682806)
+
+![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+9to5Google
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Google TV Streamer Specs & Features
+
+ In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
+
+ According to_9to5Google_ , the source of this leak, the Google TV Streamer has a slanted surface that sort of resembles the Charging Speaker Dock used by the Pixel Tablet. Instead of a dongle that hangs off the TV, this one sits on a surface and uses dedicated power and data cables. There might also be an Ethernet port for wired internet connectivity and[Thread support for smart home connections](https://9to5google.com/2024/07/28/google-tv-streamer-fcc/) .
+
+ The remote will get some much-needed improvements. Some of the buttons have shifted around, but most of them remain in this new design.
+
+ One big difference is the volume buttons, which have moved from the side of the remote to the face. The other noticeable change is under the YouTube and Netflix shortcuts, where there appears to be a customizable button, which we assume can be programmed to launch any app.
+
+ The device doesn't look that much bigger than the remote, so we're not sure what, if anything, is different about the internal hardware.  
+
+![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+9to5Google
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+## The Latest News About the Google TV Streamer
+
+ You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
+
+[Google Podcasts Is Gone, and That's Great News](https://www.lifewire.com/google-podcasts-is-gone-8628147)
+
+[Waymo’s Self-Driving Tech Could Get Another $5B from Alphabet](https://www.lifewire.com/alphabets-5-billion-dollar-waymo-investment-8682877)
+
+[Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-to-excellent-1080p-content-on-fb/"><u>[New] 2024 Approved  Secrets to Excellent 1080P Content on FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-photo-to-cartoon-software-for-windows-and-mac/"><u>[Updated] Best Photo to Cartoon Software for Windows & Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-imagery-topiary-techniques-for-stellar-iphone-photos/"><u>[Updated] Innovating Imagery  Topiary Techniques for Stellar iPhone Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-list-efficient-mac-screen-recording-tools/"><u>[Updated] The Ultimate List  Efficient Mac Screen Recording Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-enriching-youtube-channels-amp-up-with-songs/"><u>2024 Approved  Enriching Youtube Channels  Amp up with Songs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-acknowledgement-guide-correct-referencing-techniques-explained/"><u>ChatGPT Acknowledgement Guide: Correct Referencing Techniques Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/d3dx924dll-not-found-quick-fixes-for-common-graphics-library-issues/"><u>d3dx9_24.dll Not Found? Quick Fixes for Common Graphics Library Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-twitch-chat-secrets-a-guide-for-new-viewers/"><u>Deciphering Twitch Chat Secrets: A Guide for New Viewers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-file-and-folder-removal-with-the-new-stellar-file-eraser-for-windows/"><u>Efficient File & Folder Removal with the New Stellar File Eraser for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-keeping-an-eye-on-your-macbooks-heat-levels-for-optimal-performance/"><u>Expert Advice on Keeping an Eye on Your MacBook's Heat Levels for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-repairing-the-bios-checksum-error-in-your-pc/"><u>Expert Advice on Repairing the BIOS Checksum Error in Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-adding-subtitles-to-your-insta-stories-effortlessly/"><u>Guide: Adding Subtitles to Your Insta-Stories Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-take-a-screenshot-on-ps4/"><u>How to Take a Screenshot on PS4</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-fistn-balumbu-your-go-to-midmarket-sales-strategist-at-leading-software-giant-abbyy/"><u>Meet Fistn Balumbu - Your Go-To Midmarket Sales Strategist at Leading Software Giant, ABBYY</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-tech-evolution-stay-ahead-with-toms-comprehve-hardware-reviews/"><u>Navigate Tech Evolution: Stay Ahead with Tom's Comprehve Hardware Reviews</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-pc-a-step-by-step-guide-when-it-powers-on-but-wont-show-anything/"><u>Reviving Your PC: A Step-by-Step Guide When It Powers On But Won't Show Anything</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-startup-failure-a-guide-to-overcoming-code-10-issues/"><u>Solving the Mystery of Startup Failure: A Guide to Overcoming Code #10 Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/star-trek-saga-the-ultimate-viewing-guide-watch-every-movie-sequel/"><u>Star Trek Saga: The Ultimate Viewing Guide - Watch Every Movie Sequel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-discovering-contact-information-on-the-internet/"><u>Step-by-Step Guide: Discovering Contact Information on the Internet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-finding-ideal-surge-protection-devices/"><u>Step-by-Step Tips on Finding Ideal Surge Protection Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-connecting-and-setting-up-your-logitech-mouse/"><u>Step-by-Step Tutorial on Connecting and Setting Up Your Logitech Mouse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stop-receiving-intrusive-amber-alerts-on-android-tips-and-tricks/"><u>Stop Receiving Intrusive AMBER Alerts on Android - Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategies-for-reactivating-a-disabled-instagram-profile/"><u>Strategies for Reactivating a Disabled Instagram Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-for-wlanapidll-not-found-problems/"><u>The Ultimate Fixes for 'wlanapi.dll Not Found' Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-electric-vehicles-diving-into-the-nuances-between-bevs-phevs-fcevs-and-hybrids/"><u>The Ultimate Guide to Electric Vehicles: Diving Into the Nuances Between BEVs, PHEVs, FCEVs and Hybrids</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-your-selfie-game-expert-advice-on-harnessing-self-lighting-techniques/"><u>Transforming Your Selfie Game: Expert Advice on Harnessing Self-Lighting Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-history-with-wayback-machine-techniques-and-tricks-to-navigate-archived-pages/"><u>Unlocking History with Wayback Machine: Techniques and Tricks to Navigate Archived Pages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/verizons-role-and-achievements-in-advancing-todays-5g-infrastructure/"><u>Verizon's Role and Achievements in Advancing Today's 5G Infrastructure</u></a></li>
+</ul></div>

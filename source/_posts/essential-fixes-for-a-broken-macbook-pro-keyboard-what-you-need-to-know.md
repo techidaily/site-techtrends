@@ -1,0 +1,142 @@
+---
+title: Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know
+date: 2024-08-30T15:16:25.503Z
+updated: 2024-08-31T15:16:25.503Z
+categories:
+  - BestProducts
+description: This Article Describes Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know
+excerpt: This Article Describes Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know
+thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbookkeyboarddoesntwork-bce5ae119176465f8a1353121aa8ffa9.JPG
+---
+
+## MacBook Pro Keyboard Woes? Here’s How to Bring It Back to Life
+ When a MacBook Pro keyboard stops working, you may find none of the keys work at all, or some keys work. If the[Touch Bar](https://www.lifewire.com/apples-touch-bar-idea-was-cool-but-didnt-work-out-5209079) doesn't work, a software issue is likely the cause.
+
+ You'll need to attempt fixes such as cleaning it, checking for updates, and removing potential problem apps to get your keyboard working again. Most of these fixes also work for MacBook Air keyboards.
+
+ Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
+
+## How to Fix a MacBook Pro Keyboard That Isn't Working
+
+ If your keyboard stops working, the first step is to clean it. If that doesn’t work, you need to connect a spare keyboard and try a handful of other fixes.
+
+ In a worst-case scenario, contact Apple for professional assistance. Don’t attempt any advanced repairs or disassembly yourself, as Apple fixes some of these problems at no charge.
+
+ Some of these fixes require a working keyboard. If you don't have a spare keyboard, borrow one. If you connect a second keyboard and it doesn't work either, your Mac probably needs a professional repair.
+
+ Here’s how to fix a MacBook Pro keyboard that has stopped working:
+
+1. [Clean the keyboard](https://www.lifewire.com/how-to-clean-macbook-keyboard-4179083) . Dust and other debris represent the most common cause of malfunctioning MacBook keyboards, so start by cleaning your keyboard to the best of your ability with compressed air.  
+ If you see any visible debris on the keyboard at this point, use a vacuum with a soft-bristled attachment to finish cleaning.
+2. Plug in the MacBook. If your battery is low, the keyboard may not work, and you may not see a low battery alert. Wait for the MacBook to charge and then check to see if the keyboard works.
+3. [Check for updates](https://www.lifewire.com/update-macos-macbook-pro-4178508) . Connect a USB or wireless keyboard and perform the standard procedure of checking for updates. If your MacBook needs any driver or operating system updates, update them, and then see if the keyboard works.
+4. [Remove recent apps](https://www.lifewire.com/uninstall-apps-on-mac-4159740) . If you installed one or more apps right before this problem started, it might be causing a conflict. Uninstall any apps you recently installed, restart your MacBook, and then check to see if the keyboard works.
+5. [Restart the Touch Bar using terminal](https://www.lifewire.com/mac-terminal-commands-4774997) . Open terminal and type**sudo pkill TouchBarServer;** \> press**enter** \> type**sudo killall “ControlStrip”;** \> press**enter** . Enter your password and press**enter** .  
+ If the Touch Bar is the part of your MacBook Pro keyboard that isn’t working, you can usually use the terminal to get it working again.
+6. Turn off Slow Keys. If this function is on, you have to hold down each key longer than usual before it registers. That can make it seem like the keyboard doesn’t work at all if you’re only pressing each key for a short amount of time.  
+ Here’s how to turn it off: Select the**Apple menu** \>**System Settings** \>**Accessibility** \>**Keyboard** and make sure**Slow Keys** isn't on.  
+ Depending on your operating system, you may need to follow this sequence to view the Slow Keys setting:**Apple menu** \>**System Preferences** \>**Accessibility** \>**Keyboard** \>**Hardware** .
+7. Turn off Mouse Keys. This setting can cause problems if it’s accidentally turned on.  
+ To turn off Mouse Keys, go to**System Settings** or**System Preferences** \>**Accessibility** \>**Pointer Control** \>**Alternate Control Methods** and make sure**Mouse Keys** isn’t on.
+8. Check the keyboard layout setting. If you have the wrong keyboard layout set, the keys won’t function as expected.  
+ Here’s how to check:**System Settings** or**Preferences** \>**Keyboard** \>**Input Sources** \>**Edit** \> select the correct keyboard layout for your region and language.  
+ A shortcut for checking the input source is to show the Input menu in the Mac menu bar. It should be set to display by default, but you can check from**Keyboard** \>**Input Sources** \>**Edit** \>**Show Input menu in menu bar** .
+9. [Reset the System Management Controller (SMC)](https://www.lifewire.com/reset-smc-system-management-controller-on-mac-2260840) . If there’s a problem with your MacBook’s SMC, it may result in the keyboard not working correctly. Resetting the SMC usually takes care of the problem.
+10. [Seek professional help from Apple](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) . If your keyboard still doesn’t work after you attempt all these fixes, or it’s just specific keys that don’t work, you need to get help from Apple.  
+ Apple fixes some keyboard issues at no charge due to defects in the butterfly switch mechanisms, but customer support can tell you whether your MacBook is covered.
+
+ Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
+
+## What Causes a MacBook Pro Keyboard to Stop Working?
+
+ The most common causes for a MacBook keyboard to stop working are dust and other contaminants. If you have a MacBook with keys using Apple’s butterfly keyboard mechanism, even the smallest amount of dust contamination can cause problems.
+
+ Other contaminants, such as food and various liquids, can also prevent a Mac keyboard from working correctly.
+
+ The most common reasons a MacBook keyboard stops working include:
+
+* Dust and other contaminants
+* Incorrect software settings
+* Problematic apps
+* Bugs and glitches
+* Broken hardware
+
+[How to Unfreeze a MacBook Pro](https://www.lifewire.com/unfreeze-macbook-pro-5120324)
+
+ FAQ
+
+* How do you reset an external MacBook Pro keyboard?  
+ Disconnect and reconnect the keyboard via the USB cable, making sure the connector is securely slotted into the USB port when it's plugged back in. You can also try plugging the keyboard into a different USB port.
+* How do you turn on backlights on a MacBook Pro keyboard?  
+ One way to turn on backlights is to press the**increase brightness** key or the**decrease brightness** key. You can also go to the Control Center, select**Keyboard Brightness** , and move the slider back and forth. Or, in the Touch Bar, expand the**Control Strip** and tap**increase brightness** or**decrease brightness** .
+* How can you lock the keyboard on a MacBook Pro?  
+ To[lock your MacBook Pro keyboard](https://www.lifewire.com/lock-your-keyboard-temporarily-5072812) , you'll need to put the computer into sleep mode or lock the screen. To lock the screen, use the keyboard shortcut**Control** +**Shift** +**Power** . To put the computer to sleep, you have three options: close the lid, use the keyboard shortcut**Command** +**Option** +**Power** , or select **Sleep** from the Apple menu.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-a-cleaner-look-in-your-videos-quickly-and-easily-for-2024/"><u>[New] Get a Cleaner Look in Your Videos Quickly and Easily for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-guide-to-the-10-greatest-pc-cameras/"><u>[Updated] 2024 Approved  Expert Guide to the 10 Greatest PC Cameras</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-savvy-top-101-bio-tips-and-techniques-for-facebookers/"><u>[Updated] Social Media Savvy  Top 101 Bio Tips & Techniques for Facebookers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-x-recorder-software-efficient-pc-sound-recording-for-2024/"><u>[Updated] X-Recorder Software  Efficient PC Sound Recording for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-troubleshooting-checklist-fixing-recurring-fortnite-game-crashes-on-pc/"><u>2024'S Troubleshooting Checklist: Fixing Recurring Fortnite Game Crashes on PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-pop-8-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Pop 8? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-xbox-series-x-hardware/"><u>5 Ways You Can Maintain Your Xbox Series X Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choisir-le-bon-carburant-pour-votre-generatrice-de-business-guide-exhaustif/"><u>Choisir Le Bon Carburant Pour Votre Génératrice De Business: Guide Exhaustif</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-success-maximize-your-sites-potential/"><u>Cookiebot-Driven Success: Maximize Your Site's Potential</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-sites-enhancing-your-digital-experience/"><u>Cookiebot-Enabled Sites: Enhancing Your Digital Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-solutions-boost-your-websites-efficiency/"><u>Cookiebot-Enabled Solutions: Boost Your Website's Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience-with-leading-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience with Leading Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-tracking-capabilities/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Tracking Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience-with-personalization/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience with Personalization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enhanced-boost-your-sites-engagement-with-advanced-tracking/"><u>Cookiebot-Enhanced: Boost Your Site's Engagement with Advanced Tracking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-keyboard-malfunctions-in-pathfinder-wrath-of-the-righteve/"><u>Diagnosing and Repairing Keyboard Malfunctions in Pathfinder - Wrath of the Righteve</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-pivotal-scenes-with-abbyy-and-arsenal-wsl-transformative-insights-exposed/"><u>Discover Pivotal Scenes with ABBYY & Arsenal WSL - Transformative Insights Exposed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/drive-your-traffic-with-the-power-of-cookiebot/"><u>Drive Your Traffic with the Power of Cookiebot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiency-soars-by-70-as-dhls-german-parent-company-deutsche-post-group-harnesses-power-of-rpa-and-abbyy-idp-technologies/"><u>Efficiency Soars by 70%% as DHL's German Parent Company, Deutsche Post Group, Harnesses Power of RPA and ABBYY IDP Technologies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/embracing-digital-transformation-the-emergence-of-abbyys-process-digital-twin/"><u>Embracing Digital Transformation: The Emergence of ABBYY's Process Digital Twin</u></a></li>
+<li><a href="https://techtrends.techidaily.com/emerging-global-trends-in-smart-document-management-comprehensive-analysis-and-future-implications/"><u>Emerging Global Trends in Smart Document Management: Comprehensive Analysis and Future Implications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-user-experience-and-drive-engagement-powered-by-the-advanced-features-of-cookiebot/"><u>Enhance User Experience & Drive Engagement: Powered by the Advanced Features of Cookiebot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-sap-automation-integrating-abbyys-smart-content-insights/"><u>Enhance Your SAP Automation: Integrating ABBYY's Smart Content Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-site-with-cookiebots-powerful-analytics/"><u>Enhance Your Site with Cookiebot's Powerful Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-strategies-for-optimizing-medical-billing-processes-and-enhancing-cash-flow-efficiency-executive-overview/"><u>Essential Strategies for Optimizing Medical Billing Processes and Enhancing Cash Flow Efficiency - Executive Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/going-off-the-grid-your-complete-guide-to-wireless-internet-solutions/"><u>Going Off the Grid? Your Complete Guide to Wireless Internet Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-a-step-by-step-method-facilitates-digital-evolution-in-insurance-companies/"><u>How a Step-by-Step Method Facilitates Digital Evolution in Insurance Companies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-leveraging-data-analytics-transforms-business-process-reengineering/"><u>How Leveraging Data Analytics Transforms Business Process Reengineering</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-evaluation-how-volkswagen-utilizes-abbyy-ocr-technology-in-auto-infotainment-system-trials/"><u>Innovative Evaluation: How Volkswagen Utilizes ABBYY OCR Technology in Auto Infotainment System Trials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lead-capture-enhanced-solutions-powered-by-the-innovative-cookiebot-engine/"><u>Lead Capture Enhanced: Solutions Powered by the Innovative Cookiebot Engine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-lag-and-hang-ups-how-to-keep-minecraft-running-smoothly-on-pc/"><u>Overcoming Lag and Hang-Ups - How to Keep Minecraft Running Smoothly on PC</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

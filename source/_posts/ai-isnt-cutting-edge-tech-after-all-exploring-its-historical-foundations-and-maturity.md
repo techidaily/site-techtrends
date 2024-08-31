@@ -1,7 +1,7 @@
 ---
 title: "AI Isn't Cutting-Edge Tech After All: Exploring Its Historical Foundations and Maturity"
-date: 2024-08-27 13:22:36
-updated: 2024-08-29 11:26:45
+date: 2024-08-30T15:08:55.524Z
+updated: 2024-08-31T15:08:55.524Z
 tags:
   - cutting-edge
 categories:
@@ -25,12 +25,18 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  In the following centuries, more stories, predictions, and myths of artificial human-like creations were written, such as Paracelsus discussion of the creation of an "artificial man" [in his work 'Of the Nature of Things](https://erenow.org/common/history-philosophy-science-reader/58.php).' It wasn't until the mid-20th century that the idea of artificial intelligence became a reality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Creation of AI
 
  The first system that used artificial intelligence to function was created in 1955 by Herbert Simon, Clifford Shaw, and Allen Newell, and was named Logic Theorist. Simon, a political scientist and sociologist, along with Hewell, a computer scientist, developed Logic Theorist in order to artificially mimic certain human thought processes. The program itself was written by Shaw, a computer programmer who worked for RAND at the time. As Logic Theorist was being developed in 1955, the term "artificial intelligence" hadn't even been coined yet; this was to come a year later from John McCarthy.
 
  Logic Theorist was specifically designed to solve mathematical problems using human-attributed skills, therefore simulating a basic version of the human mind in doing so. As stated in a [2006 academic article on the topic of Logic Theorist](https://www.researchgate.net/publication/276216226%5FNewell%5Fand%5FSimon's%5FLogic%5FTheorist%5FHistorical%5FBackground%5Fand%5FImpact%5Fon%5FCognitive%5FModeling), the program was "perhaps the first working program that simulated some aspects of peoples' ability to solve complex problems."
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ##  How AI Has Evolved
 
  The first AI system created and the AI systems we see today differ vastly from one another. As our understanding of technology has grown, we've been able to continuously improve AI's capabilities over time, which has given way to the impressive AI-based tools we see today. But this wasn't an easy journey.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  Things didn't slow down for AI in the 2010s, with advancements in the mid-to-late period of the decade entirely changing how we can receive and analyze data. So, what happened here?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ##  AI Today
 
  Today, the global AI market is worth over $2 trillion, according to a [Statista study](https://www.statista.com/statistics/1365145/artificial-intelligence-market-size/). By 2026, the market is expected to exceed $5 trillion, and this number will likely only increase over time.
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  But AI also has its uses in a lot of other technologies, such as virtual assistants. Siri, Alexa, Google Assistant, and Cortana all use AI to better understand users' verbal commands. Moreover, the recommendations you'll get on social media, online retailers, and similar platforms are also often powered by AI. You've likely come into contact with AI multiple times without even realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Future of AI
 
  The future of AI is a topic that has stirred a lot of concern, mainly due to the fact that AI's potential is essentially endless. As technology advances, AI systems can gain greater computing power, more perfected neural networks, and increased capability overall. We'll start with the more realistic future applications of AI, and then get into the more sci-fi aspects.
@@ -79,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  In the next few years, we may see AI-based chatbots improve in their capabilities and accuracy, and it's likely that AI's presence will increase across almost all industries.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  AI Has Undoubtedly Changed the World
 
  Even though AI still has a long way to go before it can truly mimic the human brain, this technology has already changed the world. There's no knowing how AI will develop in the future, and the question of AI surpassing human intelligence is still up in the air. But there's no doubt that AI has already changed the online landscape, and likely the future of humanity as a whole.
@@ -97,3 +112,47 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-revamping-screen-recording-a-critical-look-at-camstudios-new-features/"><u>[New] 2024 Approved  Revamping Screen Recording - A Critical Look at CamStudio's New Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assemble-unique-meme-creations-with-ease/"><u>[New] Assemble Unique Meme Creations with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-effective-techniques-for-securely-storing-itunes-videos/"><u>[Updated] 2024 Approved  Effective Techniques for Securely Storing iTunes Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-must-have-gear-items-for-youtubers-for-2024/"><u>10 Top Must-Have Gear Items for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/11-must-know-hues-for-professional-grading-for-2024/"><u>11 Must-Know Hues for Professional Grading for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/apex-top-8-for-flawless-4k-blu-ray-viewing/"><u>Apex Top 8 for Flawless 4K Blu-Ray Viewing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-the-failed-anticheat-linkage-error-expert-fix-for-players-of-eft/"><u>Beating the 'Failed Anticheat Linkage Error': Expert Fix for Players of EFT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-productivity-with-gmail-how-to-set-up-advanced-filters-and-add-contacts-safely/"><u>Boost Productivity with Gmail: How to Set Up Advanced Filters and Add Contacts Safely</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bring-the-mobile-experience-to-pc-a-comprehensive-guide-to-launching-android-apps-on-windows-10/"><u>Bring the Mobile Experience to PC: A Comprehensive Guide to Launching Android Apps on Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-your-screen-with-precision-and-orderly-guidance/"><u>Capture Your Screen with Precision and Orderly Guidance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crafting-the-ideal-summer-daykit-a-guide-to-selecting-7-key-edc-pieces/"><u>Crafting the Ideal Summer Daykit: A Guide to Selecting 7 Key EDC Pieces</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-iii-performance-enhancements-fixes-for-common-game-crashes-and-bugs/"><u>Dark Souls III Performance Enhancements – Fixes for Common Game Crashes and Bugs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-wi-fi-calling-meanings-benefits-and-how-to-use-it/"><u>Decoding Wi-Fi Calling: Meanings, Benefits, and How to Use It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dnssddll-gone-missing-heres-how-to-correct-it-and-avoid-common-pitfalls/"><u>dnssd.dll Gone Missing? Here's How to Correct It and Avoid Common Pitfalls</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-realme-12-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Realme 12 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-fixes-for-the-persistent-w10-photos-crashing-issue/"><u>Essential Fixes for the Persistent W10 Photos Crashing Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-horizons-with-two-screens-on-your-mac-setup-tips/"><u>Expanding Horizons with Two Screens on Your Mac - Setup Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-picks-the-finest-smart-glasses-for-tech-enthusiasts-2024-edition/"><u>Expert Picks: The Finest Smart Glasses for Tech Enthusiasts, 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-10-free-alternatives-to-netflixs-entertainment-library/"><u>Explore These 10 Free Alternatives to Netflix's Entertainment Library</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lava-blaze-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lava Blaze Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hulu-rununk13-error-explained-and-solutions-for-a-smooth-streaming-experience/"><u>Hulu RUNUNK13 Error Explained and Solutions for a Smooth Streaming Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-a2plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi A2+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-smart-8-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Smart 8 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-tutorials-keeping-kids-away-from-youtube-using-parental-controls/"><u>IOS Tutorials: Keeping Kids Away From YouTube Using Parental Controls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-linksys-network-security-the-complete-july-2024-default-password-guide/"><u>Mastering Linksys Network Security: The Complete July 2024 Default Password Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-new-ios-16-feature-a-step-by-step-guide-to-using-photo-cutouts-on-your-iphone/"><u>Mastering the New iOS 16 Feature: A Step-by-Step Guide to Using Photo Cutouts on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-new-sounds-a-comprehensive-introduction-to-home-audio-setups-for-novices/"><u>Navigating New Sounds: A Comprehensive Introduction to Home Audio Setups for Novices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-saving-spotify-playlists-in-plain-text-format/"><u>Step-by-Step Guide: Saving Spotify Playlists in Plain Text Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-change-and-hack-into-your-mobile-devices-geographic-positioning-system/"><u>Step-by-Step Tutorial: How to Change and Hack Into Your Mobile Device's Geographic Positioning System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-terminate-your-paramountplus-membership/"><u>Steps to Terminate Your Paramount+ Membership</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-testing-your-hard-drives-for-free-updated-july-2024/"><u>The Essential Guide to Testing Your Hard Drives for Free (Updated July 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-samsungs-app-ecosystem-on-your-tv-screen/"><u>The Ultimate Breakdown of Samsung's App Ecosystem on Your TV Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-enjoying-live-activities-on-your-ios-16-device/"><u>The Ultimate Tutorial for Enjoying Live Activities on Your iOS 16 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/time-zone-changes-made-easy-managing-settings-on-your-kindle-paperwhite/"><u>Time Zone Changes Made Easy: Managing Settings on Your Kindle Paperwhite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-successfully-interacting-with-trustedinstaller-on-your-windows-11-system/"><u>Tips for Successfully Interacting with TrustedInstaller on Your Windows 11 System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-11-solutions-to-resolve-borderlands-3-wont-start-issues-effortlessly/"><u>Top 11 Solutions to Resolve 'Borderlands 3 Won’t Start' Issues Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-msvcp60dll-is-absent-error-appears/"><u>Troubleshooting Tips for When msvcp60.dll Is Absent Error Appears</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-top-causes-of-recurrently-drained-car-batteries/"><u>Understanding the Top Causes of Recurrently Drained Car Batteries</u></a></li>
+</ul></div>

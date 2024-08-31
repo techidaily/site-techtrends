@@ -1,7 +1,7 @@
 ---
 title: Exploring What's Fresh and Updated in Fedora 40 - A Closer Look at the New Features of This Beloved Linux OS
-date: 2024-08-27 18:51:31
-updated: 2024-08-29 10:17:47
+date: 2024-08-30T15:07:18.081Z
+updated: 2024-08-31T15:07:18.081Z
 tags:
   - desktop
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Fedora Linux has hit the big four-oh! With Fedora 40 released, and the first patches available, it’s time to fire up this popular distribution and take it for a test run.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Fedora at 40
 
  They say life begins at 40\. Whether that’s true or not, Fedora Linux certainly seems to have found renewed vigor with this milestone release. Fedora was always a fast distribution, and this time round it’s even more noticeable.
@@ -92,30 +95,46 @@ Dave McKay/How-To Geek
 
 ![The Fedora 40 Files browser showing the search function in Preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The copying and moving progress indicator has been relocated to the lower-left corner of the Files window. Clicking it shows further details.
 
 ![The file copying indicator in Fedora 40's Files file Browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The Settings application gains a System menu option, grouping together related items like Region & Language and Date & Time.
 
 ![The System option and screen in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  You’ll also find a new feature under System > Remote Desktop > Remote Login. With desktop sharing enabled, this option allows you to remotely connect to your computer from an RDP client on another computer.
 
 ![The Remote Login screen in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  On/Off Shapes is a new feature under Accessibility > Seeing that lets you enable or disable on/off indicators in slider controls.
 
 ![The On/Off Symbols option in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  One of the best new additions is the ability to connect to Microsoft OneDrive personal storage, and access your remote files and directories from right inside the Files browser.
@@ -132,6 +151,9 @@ Dave McKay/How-To Geek
 
 ![The Microsoft 365 Account dialog. Ignore all fields, and click the blue Sign In button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Click the blue "Sign In" button on the next dialog that appears.
@@ -144,6 +166,9 @@ Dave McKay/How-To Geek
 
 ![The Fedora 40 Files borwser with a mounted connection to a OneDrive account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/11-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
 ##  Application Versions
@@ -161,6 +186,9 @@ Dave McKay/How-To Geek
 * **GCC**: 14.0.1
 * **glibc**: 2.39
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ##  The Roaring Forties
 
  Fedora continues to improve, release after release, and despite hitting 40, it shows no signs of slowing down. In fact, with the speed increases in this release, you could say it has accelerated.
@@ -181,3 +209,41 @@ Dave McKay/How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-savvy-scribblers-selection-the-top-compiler-of-twitter-animation/"><u>[New] 2024 Approved  Savvy Scribbler's Selection - The Top Compiler of Twitter Animation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-creators-primer-to-understanding-major-content-providers-for-2024/"><u>[New] A Creator's Primer to Understanding Major Content Providers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-creativity-the-top-8-iphone-drawing-apps-uncovered/"><u>[New] Explore Creativity  The Top 8 iPhone Drawing Apps Uncovered</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapchat-pins-with-ease-for-2024/"><u>[New] Navigating Snapchat Pins with Ease for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-top-6-best-8k-cameras/"><u>[New] Top 6 Best 8K Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-excellent-extra-storage-for-sony-a7s-ii-for-2024/"><u>[Updated] Excellent Extra Storage for Sony A7S II for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-direct-syncing-tweeting-videos-onto-snapchat-channels/"><u>[Updated] In 2024, Direct Syncing  Tweeting Videos Onto Snapchat Channels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-tutorial-on-how-to-stop-your-subwoofers-hissing-issue/"><u>A Step-by-Step Tutorial on How to Stop Your Subwoofer's Hissing Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-you-having-trouble-accessing-discord-lets-figure-out-if-its-down-globally-or-just-for-your-account/"><u>Are You Having Trouble Accessing Discord? Let's Figure Out if It's Down Globally or Just for Your Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capturing-game-moments-on-the-xbox-one-the-complete-guide-to-screenshots/"><u>Capturing Game Moments on the Xbox One: The Complete Guide to Screenshots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-your-journey-through-the-galaxy-the-ultimate-star-wars-disneyplus-viewing-sequence/"><u>Complete Your Journey Through the Galaxy: The Ultimate Star Wars Disney+ Viewing Sequence</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conversalab-interactive-language-learning-experience/"><u>ConversaLab: Interactive Language Learning Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-streaming-devices-an-in-depth-look/"><u>Decoding Streaming Devices: An In-Depth Look</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-email-solutions-on-your-iphone/"><u>Discover the Ultimate Email Solutions on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-how-dts-virtual-x-transforms-your-audiovisual-world/"><u>Discovering How DTS Virtual X Transforms Your Audiovisual World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-gripping-real-life-crimes-with-our-top-13-true-crime-shows/"><u>Explore Gripping Real-Life Crimes with Our Top 13 True Crime Shows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722867825170-fix-your-unresponsive-chromebook-with-these-eight-remedies/"><u>Fix Your Unresponsive Chromebook with These Eight Remedies</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-camon-30-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 30 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-rectify-the-not-found-d3dx9email-protected-issues/"><u>How to Address and Rectify the Not Found D3dx9_([email Protected]) Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-perform-a-thorough-reboot-or-factory-reset-on-all-ipad-models/"><u>How to Perform a Thorough Reboot or Factory Reset on All iPad Models</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-magic-6-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Magic 6 FRP</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-explore-virtual-realms-with-top-gadgets-and-peripherals/"><u>In 2024, Explore Virtual Realms with Top Gadgets and Peripherals</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-just-you-or-is-there-really-a-problem-with-my-account-on-battlenet/"><u>Is It Just You, or Is There Really a Problem with My Account on Battle.net?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-motherboard-basics-how-to-perform-a-cmos-reset-and-clear-bios/"><u>Mastering Motherboard Basics: How to Perform a CMOS Reset and Clear BIOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a1-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A1 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-error-strategies-to-address-missing-msvcrt10dll-files/"><u>Overcoming the Error: Strategies to Address Missing MSVCrt10.dll Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reclaiming-your-social-media-presence-steps-to-password-reset-sans-emailphone/"><u>Reclaiming Your Social Media Presence: Steps to Password Reset Sans Email/Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/send-and-receive-texts-seamlessly-the-ipad-users-handbook/"><u>Send and Receive Texts Seamlessly – The iPad User's Handbook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-408-http-error-expert-tips-to-prevent-and-resolve-timing-issues-in-web-browsing/"><u>Solve '408 HTTP Error': Expert Tips to Prevent & Resolve Timing Issues in Web Browsing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-wininetdll-issues-a-step-by-step-fix-tutorial/"><u>Troubleshooting Wininet.dll Issues - A Step-by-Step Fix Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-what-to-do-when-youtube-stops-responding/"><u>Troubleshooting: What To Do When YouTube Stops Responding</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unsilencing-your-device-practical-fixes-for-iphone-ringing-problems/"><u>Unsilencing Your Device: Practical Fixes for iPhone Ringing Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-ultimate-walkthrough-for-a-new-lease-on-life-ipad-battery-replacement/"><u>Your Ultimate Walkthrough for a New Lease on Life: IPad Battery Replacement</u></a></li>
+</ul></div>

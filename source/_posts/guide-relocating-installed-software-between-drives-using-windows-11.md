@@ -1,7 +1,7 @@
 ---
 title: "Guide: Relocating Installed Software Between Drives Using Windows 11"
-date: 2024-08-27 13:11:45
-updated: 2024-08-29 10:50:13
+date: 2024-08-30T15:08:28.095Z
+updated: 2024-08-31T15:08:28.095Z
 tags:
   - deals
 categories:
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
 ![Opening the installed apps settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-installed-apps-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Find the app or program you intend to move, click on the three horizontal dots next to it, and click the "Move" option.
 
 ![Clicking on the 'Move' option to relocate an app in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-clicking-on-the-move-option-to-relocate-an-app-in-the-windows-settings-app.jpg) 
@@ -57,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
  While this is the most direct way to relocate apps, it may not be universally applicable. You may not see this option for some apps, or it might be grayed out. So how do you move those apps?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  How to Use the Command Prompt to Relocate Apps You Can’t Move From Settings
 
  You can relocate any app or program using the Command Prompt. First, locate the installation directory of the program you wish to relocate. If uncertain about the location, use Windows Search to find the app. Type the app name in Windows Search, right-click on the app, and select "Open File Location." This will direct you to the Start Menu folder.
@@ -67,12 +74,18 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
 ![Opening the file location of the Mozilla Firefox App in the Start Menu Folder on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-file-location-of-the-mozilla-firefox-app-in-the-start-menu-folder-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  Copy and paste the program's installation folder path into a Notepad file. We'll use the term "old" to refer to this path.
 
  Afterward, navigate to the drive where you intend to relocate the app. Create a folder specifically for the app within that drive, copy the path of this newly created folder, and paste it into the same Notepad file. We'll use the term "new" to refer to this path.
 
 !['Old' and 'New' paths written in a Notepad file on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-old-and-new-paths-written-in-a-notepad-file-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  Having noted both your "old" and "new" paths, [open the Command Prompt with administrative privileges](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Type "Command Prompt" into Windows Search, and click "Run as Administrator." You can also use PowerShell run admin for this. 
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
@@ -97,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
 ![Running the MKLINK command in the Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-running-the-mklink-command-in-the-windows-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The above process doesn't automatically remove the app from its old location. So, after successfully relocating the app to a new location and creating a junction between the old and new directories, manually delete the app to free up storage space.
 
  If you encounter an error message stating, "Cannot Create a File When That File Already Exists," when running the mklink command, delete the app from the old location.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Relocate Games Installed Through Gaming Clients
 
  Most popular gaming clients have a built-in feature to transfer installed games between drives directly. If you want to relocate a game installed through a gaming client, there's no need to use any of the previously mentioned methods. Instead, use the built-in app relocation feature in the gaming client, which is highly secure and works much faster.
@@ -109,6 +128,9 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
  Not every gaming client, like the Epic Games Launcher, provides a built-in feature for relocating games between different drives. You may have to move them manually.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  Things Not to Do When Relocating Apps
 
  You should strictly avoid taking a few actions when relocating apps from one drive to another. First, refrain from updating your Windows device. Secondly, don't install another program while the relocation process is ongoing. Besides that, don't run the app that is being relocated, avoid making alterations to the drives involved in the relocation, and don't modify the settings of those drives.
@@ -133,3 +155,59 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-high-fidelity-mp4-streamer-to-facebook-for-2024/"><u>[New] High-Fidelity MP4 Streamer to Facebook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>[Updated] In 2024, Crafting an Engaging Online Presence  The Complete Guide to YouTube Submissions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craftsmanship-in-marvellous-marvel-creation/"><u>[Updated] In 2024, Craftsmanship in Marvellous Marvel Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-learn-to-conduct-zoom-webinars-a-newbies-blueprint-for-2024/"><u>[Updated] Learn to Conduct Zoom Webinars  A Newbie's Blueprint for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-the-art-of-pc-game-memories-with-these-6-steps-for-2024/"><u>[Updated] Master the Art of PC Game Memories with These 6 Steps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upside-down-visuals-unraveling-instagram-video-confusion/"><u>2024 Approved  Upside Down Visuals  Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-17-websites-offering-complimentary-reading-materials/"><u>Discover the Best 17 Websites Offering Complimentary Reading Materials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-enjoyable-free-movie-selections-on-youtube-this-july-2024/"><u>Discover the Most Enjoyable Free Movie Selections on YouTube This July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disneyplus-july-lineup-our-top-picks-for-kids-favorite-animated-adventures-july-2024/"><u>Disney+ July Lineup: Our Top Picks for Kids' Favorite Animated Adventures (July #2024)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-express-with-emoji-complete-iphone-companion-guide/"><u>Easy Ways to Express with Emoji: Complete iPhone Companion Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-opengl32dll-errors-overcoming-the-missing-or-not-found-challenge/"><u>Eliminate OpenGL32.dll Errors: Overcoming the 'Missing' Or 'Not Found' Challenge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-book-reading-applications-pick-your-favorites-in-202/"><u>Explore the Best Book Reading Applications - Pick Your Favorites in 202</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-frustration-solutions-for-wpcapdll-not-detected-issues/"><u>Fixing the Frustration: Solutions for Wpcap.dll Not Detected Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-cinema-unleashed-your-guide-to-the-11-premier-online-movie-sites/"><u>Free Cinema Unleashed: Your Guide to the 11 Premier Online Movie Sites</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962114664-get-your-asus-bt50-bluetooth-50-usb-adapter-up-and-running-with-latest-windows-drivers/"><u>Get Your Asus BT50지 Bluetooth 5.0 USB Adapter Up and Running with Latest Windows Drivers!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-resolving-the-issue-of-missing-texts-on-your-android-smartphone/"><u>Guide: Resolving the Issue of Missing Texts on Your Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-setting-up-fubotv-service-on-an-amazon-firestick-device/"><u>Guide: Setting Up FuboTV Service on an Amazon Firestick Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effectively-restart-or-hard-reset-your-ipad-no-matter-the-edition/"><u>How to Effectively Restart or Hard Reset Your iPad, No Matter the Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-keep-your-presentations-current-a-guide-to-powerpoint-updates/"><u>How to Keep Your Presentations Current: A Guide to PowerPoint Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-microsoft-edge-when-it-stops-working-properly/"><u>How To Restore Microsoft Edge When It Stops Working Properly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-8s-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 8S Pro FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-m14-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy M14 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insight-into-windows-11s-battery-report-functionality-and-usage/"><u>Insight Into Windows 11'S Battery Report Functionality and Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-microsoft-teams-experiencing-an-outage-or-is-there-another-culprit-at-play/"><u>Is Microsoft Teams Experiencing an Outage, or Is There Another Culprit at Play?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-nintendo-switch-online-experience-lagging-knowing-when-its-a-server-problem/"><u>Is the Nintendo Switch Online Experience Lagging? Knowing When It's a Server Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-tech-trends-insights-and-reviews-by-toms-hardware-experts/"><u>Mastering Tech Trends: Insights and Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-pinging-websites-a-step-by-step-tutorial/"><u>Mastering the Art of Pinging Websites: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-resetting-your-macbook-pro-system/"><u>Mastering the Art of Resetting Your MacBook Pro System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-solution-to-windows-error-0x80070570-step-by-step-fixes/"><u>Mastering the Solution to Windows 'Error 0X80070570': Step-by-Step Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-your-pinning-efforts-with-these-top-5-scheduler-utilities-for-pinterest/"><u>Maximize Your Pinning Efforts with These Top 5 Scheduler Utilities for Pinterest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722881294199-navigating-the-choices-how-to-pick-between-iphone-and-android-for-you/"><u>Navigating the Choices: How to Pick Between iPhone and Android for You.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-this-now-actions-for-when-you-cant-sync-your-emails-in-gmail/"><u>Resolve This Now!: Actions for When You Can’t Sync Your Emails in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-connectivity-issues-steps-to-take-if-alexa-indicates-echo-is-unreachable/"><u>Resolving Connectivity Issues - Steps to Take if Alexa Indicates Echo Is Unreachable</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-network-woes-getting-your-surface-pro-online-again/"><u>Resolving Network Woes: Getting Your Surface Pro Online Again</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restore-your-ringback-tones-a-comprehensive-guide-for-a-quiet-iphone/"><u>Restore Your Ringback Tones: A Comprehensive Guide for a Quiet iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/save-money-with-these-top-12-free-internet-calling-options-for-202/"><u>Save Money with These Top 12 Free Internet Calling Options for 202</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-access-configuring-auto-login-for-windows-users-efficiently/"><u>Simplify Access: Configuring Auto-Login for Windows Users Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-ultimate-guide-to-troubleshoot-windows-11-bluetooth-connection-issues/"><u>Solving the Mystery: Ultimate Guide to Troubleshoot Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-system-enhancement-efficient-update-of-acer-drivers-for-win10/"><u>Swift System Enhancement: Efficient Update of Acer Drivers for Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-apple-watch-sleep-monitoring-top-5-picks/"><u>The Ultimate Guide to Apple Watch Sleep Monitoring - Top 5 Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/to-construct-or-buy-choosing-whether-to-build-or-buy-a-personal-computer-for-optimal-use/"><u>To Construct or Buy: Choosing Whether to Build or Buy a Personal Computer for Optimal Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-best-coupons-and-deals-sites-for-maximum-savings/"><u>Top 6 Best Coupons & Deals Sites for Maximum Savings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-recommended-free-films-available-on-youtube-july-2024-collection/"><u>Top Recommended Free Films Available on YouTube - July 2024 Collection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-why-isnt-my-mac-application-starting/"><u>Troubleshooting Steps: Why Isn't My Mac Application Starting?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-custom-fonts-on-your-ios-device/"><u>Ultimate Guide: Installing Custom Fonts on Your iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-restoring-your-waterlogged-iphoneipod/"><u>Ultimate Guide: Restoring Your Waterlogged iPhone/iPod</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722846899549-ultimate-list-of-free-preschool-activities-play-and-learn-with-these-fantastic-resources/"><u>Ultimate List of Free Preschool Activities – Play & Learn with These Fantastic Resources</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-endless-entertainment-with-these-12-free-movie-streaming-services-online/"><u>Unlock Endless Entertainment with These 12 Free Movie Streaming Services Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-samsungs-next-innovation-the-galaxy-z-fold-6-release-info-and-pricing/"><u>Unveiling Samsung's Next Innovation: The Galaxy Z Fold 6 - Release Info & Pricing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-best-of-the-web-top-rated-free-online-video-combiners-for-2024/"><u>Updated Best of the Web Top-Rated Free Online Video Combiners for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-apple-watch-touch-screen-fails-to-respond/"><u>What to Do When Your Apple Watch Touch Screen Fails to Respond</u></a></li>
+</ul></div>

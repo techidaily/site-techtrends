@@ -1,0 +1,216 @@
+---
+title: "Discord Server Hiccups: Understanding Whether It's a Downtime Event or Personal Connectivity Issue"
+date: 2024-08-30T15:15:25.506Z
+updated: 2024-08-31T15:15:25.506Z
+categories:
+  - BestProducts
+description: "This Article Describes Discord Server Hiccups: Understanding Whether It's a Downtime Event or Personal Connectivity Issue"
+excerpt: "This Article Describes Discord Server Hiccups: Understanding Whether It's a Downtime Event or Personal Connectivity Issue"
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
+---
+
+## Essential Tech Devices for Avid Readers: Discover Laptops and Phones
+
+In This Article
+
+* [Must-Haves: Computers and Laptops](https://www.lifewire.com/#toc-must-haves-computers-laptops-and-peripherals)
+* [Connections: Phones and Smartwatches](https://www.lifewire.com/#toc-connections-the-power-of-phones-and-smartwatches)
+* [Apps to Support Studying](https://www.lifewire.com/#toc-using-apps-and-sites-can-support-good-study-habits)
+* [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
+
+ _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+## Must-Haves: Computers, Laptops and Peripherals
+
+ Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
+
+ Laptops are great for letting kids work when they're on a school bus, waiting for a ride, or hanging out anywhere there is a Wi-Fi connection. They don't always have the same power and capabilities, however, that a desktop PC might. But for completing most middle- and high-school assignments, they should work just fine.
+
+ Some schools or districts provide students with Chromebooks free of charge; others don't. On the other hand, college students are almost always expected to provide their own devices (like laptops or computers).
+
+ Depending on your child's situation, you might need to budget this year for a new laptop or desktop computer, or you might be able to get away with adding just a few peripherals like a new mouse, webcam, or speakers.
+
+ Beware of school policies around Chromebook lending. In most cases, parents must sign releases indicating they will be responsible for anything that might happen to the device. That can put you on the hook for a spendy replacement or repair you might not be ready for. Schools do have other options they can give you, including requiring the student to keep the Chromebook at school or providing them with paper assignments instead.
+
+ The real trick is deciding what you need to buy. While it's tempting to purchase the cheapest items, that can backfire because "inexpensive" sometimes translates into cheap materials that can't withstand your child's activities or the occasional tossed backpack. Less expensive devices may also lack the speed or power to do everything your student needs them to.
+
+[Editor's Choice: The Best Tech Gifts for Back To School](https://www.lifewire.com/editor-s-choice-the-best-tech-gifts-for-back-to-school-7692969)
+
+![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
+
+Skynesher/Getty
+
+ For example, if your child is a STEM kid or a graphic artist, more power and storage are necessary overall. On the other hand, kids who just need to manage basic projects and complete homework on time will probably do fine with a standard Chromebook.  
+
+ As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
+
+### Look for Student Discounts
+
+ Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
+
+ College students typically require more rigorous systems that offer increased power and storage capacity to manage their projects and needs; middle and high schoolers can often get by with less robust systems.
+
+ Here's a list of the[must-have tech items every student needs](https://www.lifewire.com/tech-items-every-student-needs-4172498) ; your specific situation could also mean you need something extra.
+
+[The Ultimate Guide to Buying a Computer for School](https://www.lifewire.com/guide-to-buying-a-school-computer-832300)
+
+[8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
+
+[Computer & Laptop Reviews & Top Picks](https://www.lifewire.com/best-laptops-to-buy-4043650)
+
+![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+## Connections: The Power of Phones and Smartwatches
+
+ Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
+
+ They can use the built-in calculator, access school assignments, connect with teachers, and do even more from a phone these days. They can also set appointments and reminders, for example, and create to-do lists to help them stay organized.
+
+ While parental controls and rules should always apply, I've found there are a variety of mobile apps that have been useful for helping my kids get and stay organized. These apps are frequently available for both phones and smartwatches; we've got a list[that are also completely free to download and use](https://www.lifewire.com/free-back-to-school-apps-3486327) .
+
+ Beyond the organization perks, phones are, in many ways, lifelines to peers. While that can be a bit tough for parents to manage, it is an important aspect of teenage life these days.
+
+[How to Set up an iPhone or iPod Touch for Kids](https://www.lifewire.com/before-giving-kids-ipod-touch-iphone-1999121)
+
+ One of my teenagers also uses a smartwatch; these can be a great, portable way to help a busy child stay in touch and keep track of appointments while limiting their need to stare at a screen.  
+
+ What's been extremely useful in our household is that a smartwatch can also take and make phone calls or text messages (additional carrier fees likely apply); when a phone is in a backpack (or lost), I can still reach my child, and they can reach me.
+
+[Childproof Your Android: How to Make It Kid-Friendly But Safe](https://www.lifewire.com/childproof-android-4137048)
+
+[Our 8 Favorite Parental Control Apps and Services of 2024](https://www.lifewire.com/best-parental-control-apps-4691864)
+
+[How to Check Screen Time on Android](https://www.lifewire.com/check-screen-time-on-android-5069900)
+
+[Family Tech Tips](https://www.lifewire.com/setup-parental-controls-on-an-ipad-ipod-touch-or-iphone-2487266)
+
+![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Using Apps and Sites Can Support Good Study Habits
+
+ Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
+
+![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
+
+ If your child loves using their smartphone, give them something parent-approved to use!
+
+ Photomath, Yousician, and similar types of apps are fun for kids of all ages, and they might not even realize they are learning while using them.
+
+ You don't need to always download an app, by the way.
+
+ Many websites offer all kinds of study support: [Kidztype.com](https://www.kidztype.com/browse-typing-games.html) , for instance, can help teens ditch the thumb-typing approach and learn how to type quickly and consistently on a keyboard.
+
+ Apps and sites can provide fun ways to teach kids what they need to know.
+
+ College kids might not appreciate games, but they certainly won't mind the help that different sites and apps can provide, especially when it's crunch time during mid-terms and finals.
+
+ Time-management apps, for instance, can help them organize and prioritize assignments so nothing gets missed at the last minute.  
+
+ When selecting appropriate apps for your kids, consider the following:
+
+* Reviews from other users, particularly about ease of use, pop-up ads, and costs
+* Only use download sites you know are trustworthy, such as[Google Play Store](https://www.lifewire.com/what-is-google-play-1616720) or the App Store
+* Talk to other parents about the apps and sites their kids use; you can frequently get great suggestions that way
+
+ Kids, school, and technology are all here to stay; learning how to juggle all of it together can make life a lot easier for everyone.
+
+ Need books? You don't necessarily need to spend cold, hard cash on them. There are actually more than a dozen ways to[get books free of charge](https://www.lifewire.com/ways-to-get-free-books-1356542) , including textbooks for all levels. It's worth a try, especially when you have multiple kids, and that book bill is looming large.
+
+[iOS App Store vs. Google Play Store: Which Is Better for App Developers?](https://www.lifewire.com/ios-app-store-vs-google-play-store-for-app-developers-2373130)
+
+[17 Great Sites to Download Free Books in 2024](https://www.lifewire.com/download-free-books-3482754)
+
+[6 of Our Favorite Homework Apps to Help Students (and Parents)](https://www.lifewire.com/best-homework-apps-for-students-and-parents-4172488)
+
+ FAQ
+
+* When was technology first used in schools?  
+ According to Purdue University, the earliest tech used in schools was called the Magic Lantern in 1870\. It was an early version of a slide projector that used printed images on glass and projected them onto walls or other screens.
+* What percentage of schools use technology?  
+ About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-pocket-sized-pop-understanding-the-dynamics-of-short-form-tunes/"><u>[New] 2024 Approved  Pocket-Sized Pop  Understanding the Dynamics of Short Form Tunes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guide-to-turning-tiktok-music-into-your-cell-phone-ringtone/"><u>[New] Guide to Turning TikTok Music Into Your Cell Phone Ringtone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturing-ps4-a-comprehensive-review-of-recording-options/"><u>[Updated] 2024 Approved  Capturing PS4  A Comprehensive Review of Recording Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pairing-video-cameras-with-desktop-captures/"><u>[Updated] 2024 Approved  Pairing Video Cameras with Desktop Captures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>[Updated] How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-exclusive-game-recordings-tools/"><u>[Updated] In 2024, Exclusive Game Recordings Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-complete-overview-regulating-snapchats-video-velocity/"><u>2024 Approved  A Complete Overview  Regulating Snapchat's Video Velocity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-sfpr-levels-in-slow-motion-content/"><u>2024 Approved  Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-fix-the-openal32dll-unable-to-locate-problem/"><u>A Step-by-Step Guide to Fix the 'openAL32.dll Unable to Locate' Problem</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-home-safety-with-remobells-compact-doorbell-for-less-than-a-hundred-dollars/"><u>Affordable Home Safety with RemoBell's Compact Doorbell for Less Than a Hundred Dollars</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903753810-apple-watch-wont-connect-discover-6-effective-fixes/"><u>Apple Watch Won't Connect? Discover 6 Effective Fixes!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-free-pc-video-capture-software-roundup-for-2024/"><u>Best Free PC Video Capture Software Roundup for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-iphone-data-retrieval-made-easy-by-stellar-available-for-immediate-download/"><u>Complete iPhone Data Retrieval Made Easy by Stellar - Available for Immediate Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-to-address-and-repair-haldll-failures-in-windows-xp/"><u>Comprehensive Strategies to Address and Repair 'hal.dll' Failures in Windows XP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disneyplus-july-lineup-our-top-picks-for-kids-favorite-animated-adventures-july-2024/"><u>Disney+ July Lineup: Our Top Picks for Kids' Favorite Animated Adventures (July #2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-express-with-emoji-complete-iphone-companion-guide/"><u>Easy Ways to Express with Emoji: Complete iPhone Companion Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-getting-started-with-your-brand-new-pc/"><u>Essential Steps: Getting Started with Your Brand-New PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-selection-of-top-book-lovers-favorite-apps/"><u>Explore Our Selection of Top Book Lovers' Favorite Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-book-reading-applications-pick-your-favorites-in-202/"><u>Explore the Best Book Reading Applications - Pick Your Favorites in 202</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-potential-of-verizons-revolutionary-5g-technology/"><u>Exploring the Potential of Verizon's Revolutionary 5G Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-frustration-solutions-for-wpcapdll-not-detected-issues/"><u>Fixing the Frustration: Solutions for Wpcap.dll Not Detected Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-cinema-unleashed-your-guide-to-the-11-premier-online-movie-sites/"><u>Free Cinema Unleashed: Your Guide to the 11 Premier Online Movie Sites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/full-screen-obs-complication-overcome/"><u>Full Screen OBS Complication Overcome</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-connecting-the-web-to-enhance-your-living-room-theatre-setup/"><u>Guide: Connecting the Web to Enhance Your Living Room Theatre Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-installing-and-running-android-applications-on-your-windows-10-pc/"><u>Guide: Installing and Running Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-resolving-the-issue-of-missing-texts-on-your-android-smartphone/"><u>Guide: Resolving the Issue of Missing Texts on Your Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effectively-restart-or-hard-reset-your-ipad-no-matter-the-edition/"><u>How to Effectively Restart or Hard Reset Your iPad, No Matter the Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-mfplatdll-is-missing-or-not-found-errors/"><u>How to Fix Mfplat.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-keep-your-presentations-current-a-guide-to-powerpoint-updates/"><u>How to Keep Your Presentations Current: A Guide to PowerPoint Updates</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-f5-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco F5 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-creative-with-these-top-rated-video-dubbing-apps/"><u>In 2024, Get Creative with These Top-Rated Video Dubbing Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-v29-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo V29 Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-narzo-n53-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme Narzo N53</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insight-into-windows-11s-battery-report-functionality-and-usage/"><u>Insight Into Windows 11'S Battery Report Functionality and Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-points-you-shouldnt-ignore-prior-to-purchasing-video-capture-hardware/"><u>Key Points You Shouldn't Ignore Prior to Purchasing Video Capture Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-chromecast-updates-simple-steps-for-enhanced-performance-and-features/"><u>Mastering Chromecast Updates - Simple Steps for Enhanced Performance and Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-tech-trends-insights-and-reviews-by-toms-hardware-experts/"><u>Mastering Tech Trends: Insights and Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-android-watchface-and-companion-apps-for-the-perfect-pairing/"><u>Must-Have Android Watchface & Companion Apps for the Perfect Pairing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722860846308-samsung-galaxy-s24-ultra-and-iphone-15-pro-max-face-off-features-performance-and-more/"><u>Samsung Galaxy S24 Ultra and iPhone 15 Pro Max Face-Off: Features, Performance, and More</u></a></li>
+<li><a href="https://techtrends.techidaily.com/save-money-with-these-top-12-free-internet-calling-options-for-202/"><u>Save Money with These Top 12 Free Internet Calling Options for 202</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-audio-experience-how-to-sync-a-computer-with-your-bluetooth-speaker/"><u>Seamless Audio Experience: How to Sync a Computer With Your Bluetooth Speaker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-permission-from-windows-10s-trustedinstaller-a-comprehensive-guide/"><u>Securing Permission From Windows 10'S TrustedInstaller: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722850523129-smartwatch-shopping-here-are-the-most-important-things-to-think-about-first/"><u>Smartwatch Shopping? Here Are the Most Important Things To Think About First</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-contenders-to-replace-chatgpt-find-your-perfect-match/"><u>The Best Contenders to Replace ChatGPT: Find Your Perfect Match!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-addressing-no-match-found-errors-on-bumble-platform/"><u>Tips for Addressing 'No Match Found' Errors on Bumble Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-common-issues-why-is-my-youtube-not-functioning/"><u>Troubleshooting Common Issues: Why Is My YouTube Not Functioning?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-why-isnt-my-mac-application-starting/"><u>Troubleshooting Steps: Why Isn't My Mac Application Starting?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-d3dx924dll-expert-solutions/"><u>Troubleshooting the Missing 'd3dx9_24.dll': Expert Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-custom-fonts-on-your-ios-device/"><u>Ultimate Guide: Installing Custom Fonts on Your iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-snapping-quick-screenshots-on-desktop-computers/"><u>Ultimate Tutorial: Snapping Quick Screenshots on Desktop Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-apple-watch-touch-screen-fails-to-respond/"><u>What to Do When Your Apple Watch Touch Screen Fails to Respond</u></a></li>
+</ul></div>

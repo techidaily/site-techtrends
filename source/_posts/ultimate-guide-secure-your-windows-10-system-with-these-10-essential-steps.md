@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Secure Your Windows 10 System with These 10 Essential Steps"
-date: 2024-08-27 13:42:39
-updated: 2024-08-29 11:37:33
+date: 2024-08-30T15:07:45.736Z
+updated: 2024-08-31T15:07:45.736Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
 ![Click the Start button, click your username, then click 'Lock.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/click-your-username-then-click-lock.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use the Windows Key
 
  Almost every Windows PC has a Windows key on the keyboard. As you've probably guessed, it's the one with the Windows icon. You can press Windows+L to lock your computer.
@@ -42,12 +45,18 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
 ![Lock from ctrl alt delete shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-from-ctrl-alt-delete-shortcut.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Lock Your Computer in Task Manager
 
  You can also lock your PC in [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). Pressing Ctrl+Alt+Delete, and then [click "Task Manager."](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) You can also type "Task Manager" in the Windows Search box, and then select it in the search results. 
 
 ![Search 'Task Manager,' then click the result or click 'Open.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-task-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Go to the "Users" tab, select your user account, then click 'Disconnect.'
 
 ![Tap 'Users,' select your user, then click 'Disconnect.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/go-to-users-tab-select-user-click-disconnect.png) 
@@ -56,18 +65,27 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
 ![Click 'Disconnect User' to lock your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/disconnect-user.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Lock It From the Command Prompt
 
  You can also type "CMD" in the Windows Search box to [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/). Click "Command Prompt" in the search results.
 
 ![Search 'Command Prompt,' then click the top result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-command-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Type the following command:
 
 Rundll32.exe user32.dll,LockWorkStation
 
 ![The lock command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-command.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once this executes, your PC will be locked.
 
 ##  Use the Run Prompt
@@ -76,6 +94,9 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Searching for 'Run' in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-the-run-window.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the "Run" window, type the following command, and then click "OK":
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -96,12 +117,20 @@ Rundll32.exe user32.dll,LockWorkStation
 
 **![Create shortcut code](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Create-shortcut-code.png)** 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Give your icon a name, and then click "Finish."
 
 **![Name the shortcut icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Name-the-shortcut-icon.png)** 
 
 Your icon will appear on your desktop—double-click it any time to lock your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  Set It Up in the Screen Saver Settings
 
  You can set your PC to lock after the [screen saver](https://some-approaches.techidaily.com/updated-ultimate-guide-to-iphones-video-length-tailoring/) has been on for a certain amount of time. To do so, type "Screen Saver" in the Windows Search box. Click "Change Screen Saver" in the search results.
@@ -112,8 +141,23 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 ![Enable 'On Resume, Display Logon Screen,' set the time you want, then click 'Apply.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/on-resume.png) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We don't recommend this method for security reasons. It's always best to lock your PC before you step away from it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use Dynamic Lock
 
  Dynamic Lock is a feature that automatically locks your PC after you step away from it. It does this by detecting the strength of the Bluetooth signal. When the signal drops, Windows assumes you've left the immediate area of your PC and locks it for you.
@@ -124,6 +168,9 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
 
 **![Dynamic Lock Feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Dynamic-Lock-Feature.png)** 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Your PC will now lock if you move too far away.
 
 ##  Use the Remote Lock Feature
@@ -160,3 +207,43 @@ Your icon will appear on your desktop—double-click it any time to lock your PC
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-broadcasting-brevity-news-outro-tips-for-2024/"><u>[New] Broadcasting Brevity  News Outro Tips for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-comparison-game-youtube-against-dailymention/"><u>[New] In 2024, The Comparison Game  YouTube Against DailyMention</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-six-simplest-strategies-to-craft-your-mc-dwelling/"><u>[Updated] 2024 Approved  Six Simplest Strategies to Craft Your MC Dwelling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-expert-video-extractor-fb-and-firefox-enhanced-experience/"><u>2024 Approved  Expert Video Extractor  FB & Firefox Enhanced Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/adjusting-your-kindle-paperwhites-clock-a-step-by-step-guide/"><u>Adjusting Your Kindle Paperwhite's Clock: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-you-really-getting-dolby-atmos-sound/"><u>Are You Really Getting Dolby Atmos Sound?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/before-you-buy-8-key-elements-every-desktop-user-needs-to-know/"><u>Before You Buy: 8 Key Elements Every Desktop User Needs to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-12-pro-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from 12 Pro 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-gaming-bounty-picking-the-right-machines-and-add-ons-for-your-child/"><u>Best Gaming Bounty: Picking the Right Machines and Add-Ons for Your Child</u></a></li>
+<li><a href="https://techtrends.techidaily.com/binge-watching-made-easy-building-a-wireless-theatrical-experience-in-your-dorm-room/"><u>Binge-Watching Made Easy: Building a Wireless Theatrical Experience in Your Dorm Room</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clearing-android-cache-the-ultimate-how-to-tutorial/"><u>Clearing Android Cache – The Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-what-to-do-when-you-cant-find-ac1st16dll/"><u>Complete Guide: What to Do When You Can't Find ac1st16.dll?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-zero-cost-ssd-evaluation-software-updated-for-july-2024/"><u>Discover the Ultimate List of Zero-Cost SSD Evaluation Software - Updated for July 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/display-lag-problems-incompatible-with-immediate-user-interactions-on-modern-screens/"><u>Display Lag Problems: Incompatible With Immediate User Interactions on Modern Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-dbghookdll-file-missing-errors/"><u>Effective Solutions for Dbghook.dll File Missing Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-resolving-http-401-authentication-problems/"><u>Effective Strategies for Resolving HTTP 401 Authentication Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-steps-for-showinghiding-the-on-screen-keyboard-on-a-windows-10-computer/"><u>Effortless Steps for Showing/Hiding the On-Screen Keyboard on a Windows 10 Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-guide-to-diagnosing-and-repairing-blackout-issues-in-computers/"><u>Expert Guide to Diagnosing and Repairing Blackout Issues in Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-chosen-pick-of-five-worldwide-free-calling-platforms/"><u>Explore Our Chosen Pick of Five Worldwide Free Calling Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-wifi-hacks-enjoy-online-freedom-without-relying-on-phone-or-cable-services/"><u>Free WiFi Hacks: Enjoy Online Freedom Without Relying on Phone or Cable Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-started-with-microsoft-365-software-on-pc-a-comprehensive-guide/"><u>How to Get Started with Microsoft 365 Software on PC - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quickly-recover-a-lost-binkw32dll-error-and-restore-video-support/"><u>How to Quickly Recover a Lost Binkw32.dll Error and Restore Video Support</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-motorola-moto-g24-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Motorola Moto G24 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-potential-with-best-free-text-psdfree/"><u>In 2024, Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-android-16-projected-launch-details-cost-free-accessibility-advanced-features-and-release-date-predictions/"><u>Inside Look at Android 16: Projected Launch Details, Cost-Free Accessibility, Advanced Features, and Release Date Predictions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/methods-to-track-whos-watching-your-youtube-videos/"><u>Methods to Track Who's Watching Your YouTube Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-video-cutting-software-for-divx-files-2023-update/"><u>New In 2024, Best Free Video Cutting Software for Divx Files (2023 Update)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premier-picture-voicemail-programs-to-try-in-amoons-and-that-could-be-an-interesting-anglemoon-photography-apps-or-software-for-astronomers-and-space-enthus47/"><u>Premier Picture Voicemail Programs to Try in Amoons, and that Could Be an Interesting Angle—Moon Photography Apps or Software for Astronomers and Space Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-how-to-thoroughly-clean-your-audio-systems-speakers/"><u>Step-by-Step Tips on How to Thoroughly Clean Your Audio System's Speakers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-understanding-your-pcs-processing-needs/"><u>The Essential Guide to Understanding Your PC’s Processing Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-of-2024s-top-9-best-practices-for-successful-skype-interviews/"><u>The Ultimate Checklist of 2024'S Top 9 Best Practices for Successful Skype Interviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-update-your-discord-avatar/"><u>Ultimate Guide: Steps to Update Your Discord Avatar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unrivaled-5-non-twitter-communities-online-for-2024/"><u>Unrivaled 5 Non-Twitter Communities Online for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unstuck-your-airpods-from-zero-charging-discover-these-9-fixes/"><u>Unstuck Your AirPods From Zero Charging: Discover These 9 Fixes!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-mysteries-of-chinese-letters/"><u>Unveiling the Mysteries of Chinese Letters</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967970799-update-to-the-latest-audio-drivers-from-msi-seamless-integration-for-windows-enthusiasts/"><u>Update to the Latest Audio Drivers From MSI – Seamless Integration for Windows Enthusiasts!</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Appeal of Neighborhood-Centric Data Protection Strategies
-date: 2024-08-27 10:47:47
-updated: 2024-08-29 11:24:39
+date: 2024-08-30T15:07:16.911Z
+updated: 2024-08-31T15:07:16.911Z
 tags:
   - desktop
 categories:
@@ -35,18 +35,32 @@ Lucas Gouveia / Justin Duino / How-To Geek | [FellowNeko](https://www.shuttersto
 
  Then there is the small matter of the eye-watering subscription prices. Google Drive charges more than $100 a year for the 2TB plan. iCloud is even more expensive at $130 a year. You can buy a 2TB SSD for less (more on that later.) If you cancel the plan or stop paying, they’ll just wipe your storage.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Local Backups Can Be More Convenient Than You Think
 
  Now consider the humble local backups. Storage devices are cheaper, have no recurring fees, give you actual unlimited storage, and are so much faster. With a local backup, you have absolute control over your data. You’ll have the peace of mind that no one can snoop around on your data.
 
 ![Multiple kinds of storage drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ssd-hdd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 Corbin Davenport/How-to Geek
 
  You can migrate files from one backup solution to another with ease. You can even create multiple fail safes by storing your files on multiple drives and storing them in different locations (say in your office and at home.)
 
  It all sounds awesome. But you might be thinking that local backups are too much of a hassle. You have to manually move files back and forth. Pretty soon it just becomes another chore that you have to deal with. Happily, local backups can also be quick and convenient with the right tools—that's the beauty of local backups.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ###  NAS
 
  There are Network-Attached Storage (NAS) devices that basically act as a private cloud for your home. They have built-in layers of redundancy to keep your data safe. You can access them through your local network or get remote access when you’re out and about.
@@ -73,14 +87,23 @@ Close
 
 ![Selecting source and backup directories on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-012807.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To mirror the folder onto the external drive, click the arrow button next to the green gear icon and select “Mirror," then click “Synchronize.” Confirm by pressing “Start.”
 
 ![Starting the synchronization on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013145.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait for the sync to finish and press “Close.”
 
 ![Files synced successfully using FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013417.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
  Whenever you make changes to the folder being backed up, you can sync again to update the backup.
 
  If a folder has a lot of items, and you want to compare the backup and original versions, you don’t have to do that manually. You just press the “Compare” button, and it’ll show you a list of files that need to be synced.
@@ -125,3 +148,45 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>[New] 2024 Approved  How to Craft Standout Videos  Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expertly-crafted-the-best-8-convertor-list-for-sub-to-srt/"><u>[New] Expertly Crafted  The Best 8 Convertor List for Sub to Srt</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-add-stickers-to-instagram-story-and-post-for-2024/"><u>[New] How to Add Stickers to Instagram Story and Post for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-m1-deciphered-apples-computing-game-changer-for-2024/"><u>[New] M1 Deciphered  Apple's Computing Game-Changer for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-quick-guide-off-instagrams-igtv/"><u>[Updated] 2024 Approved  Quick Guide  Off Instagram's IGTV</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unveiling-the-best-audio-recording-options-for-apple-products/"><u>[Updated] 2024 Approved  Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-favoritism-at-your-fingertips-the-top-8-app-list/"><u>[Updated] Facebook Favoritism at Your Fingertips  The Top 8 App List</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/automated-marketing-with-advanced-ai-the-efficiency-of-cookiebot-driven-strategies/"><u>Automated Marketing with Advanced AI: The Efficiency of Cookiebot-Driven Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-39-mistakes-in-windows-explained-and-fixed-easily/"><u>Code 39 Mistakes in Windows Explained and Fixed Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/computer-boots-but-stays-dark-a-step-by-step-guide-to-fix-a-blank-monitor-issue/"><u>Computer Boots but Stays Dark: A Step-by-Step Guide to Fix a Blank Monitor Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722899111866-connecting-apple-homepod-to-your-tv-a-comprehensive-tutorial/"><u>Connecting Apple HomePod to Your TV: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-dacs-determining-if-a-digital-to-analog-converter-is-right-for-you/"><u>Demystifying DACs: Determining if a Digital-to-Analog Converter Is Right for You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-to-address-and-mend-missing-dynamic-link-library-problems/"><u>Effective Strategies to Address and Mend Missing Dynamic Link Library Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-text-chatting-with-these-tricks-for-your-ipad-user-interface/"><u>Effortless Text Chatting with These Tricks for Your iPad User Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-my-missing-email-address-with-these-easy-tips/"><u>Find My Missing Email Address with These Easy Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-pro-advanced-tips-for-efficiently-snapping-photos-on-your-computer/"><u>From Novice to Pro: Advanced Tips for Efficiently Snapping Photos on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/galaxy-unleashed-2023-probing-the-price-tag-and-launch-date-of-the-anticipated-samsung-galaxy-s25/"><u>Galaxy Unleashed 2023: Probing the Price Tag & Launch Date of the Anticipated Samsung Galaxy S25</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-10-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark 10 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/homegrown-hits-how-to-successfully-plan-and-throw-an-unforgettable-karaoke-evening-in/"><u>Homegrown Hits! How To Successfully Plan and Throw an Unforgettable Karaoke Evening In</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-safeguard-your-files-discover-the-five-best-ways-to-back-up-and-protect-your-data/"><u>How to Safeguard Your Files: Discover the Five Best Ways to Back Up and Protect Your Data</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-t2x-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Vivo T2x 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-deciphering-your-pathway-to-youtubes-maker-land/"><u>In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-poco-m6-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Poco M6 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instagram-tips-how-to-disable-suggested-user-profiles-and-posts/"><u>Instagram Tips: How to Disable Suggested User Profiles and Posts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-appointment-setup-with-apples-in-store-experts/"><u>Mastering Appointment Setup with Apple's In-Store Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-savings-navigating-the-path-to-a-reduced-youtube-premium-plan-as-a-learner/"><u>Maximizing Savings: Navigating the Path to a Reduced YouTube Premium Plan as a Learner</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-disruptions-highlight-critical-risks-in-government-use-of-major-technology-providers/"><u>Microsoft Disruptions Highlight Critical Risks in Government Use of Major Technology Providers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-gaming-systems-high-performance-meets-style/"><u>Premium Gaming Systems  High Performance Meets Style</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-system-with-these-15-free-pre-installed-antivirus-apps/"><u>Protect Your System with These 15 Free, Pre-Installed Antivirus Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-correct-windows-code-28-errors/"><u>Step-by-Step Guide: How to Troubleshoot and Correct Windows Code 28 Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-microsoft-outlook-spelling-errors/"><u>Step-by-Step Solutions for Microsoft Outlook Spelling Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-marvel-probing-into-the-price-availability-and-specs-of-the-samsung-galaxy-z-fold-7-through-current-industry-rumors/"><u>The Next-Gen Marvel: Probing Into the Price, Availability & Specs of the Samsung Galaxy Z Fold 7 Through Current Industry Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-guide-for-app-management-on-a-samsung-tv/"><u>The Ultimate How-To Guide for App Management on a Samsung TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-12-fantastic-free-keyboard-proficiency-lessons-for-people-of-all-ages/"><u>Ultimate List of 12 Fantastic FREE Keyboard Proficiency Lessons for People of All Ages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-linking-disneyplus-streams-effortlessly-to-your-chromecast-device/"><u>Ultimate Tutorial: Linking Disney+ Streams Effortlessly to Your Chromecast Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-movies-on-the-go-find-your-match-with-our-list-of-12-free-streamers/"><u>Watch Movies on the Go: Find Your Match with Our List of 12 Free Streamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-comprehensive-roadmap-to-finding-and-buying-a-home-entertainment-system/"><u>Your Comprehensive Roadmap to Finding and Buying a Home Entertainment System</u></a></li>
+</ul></div>

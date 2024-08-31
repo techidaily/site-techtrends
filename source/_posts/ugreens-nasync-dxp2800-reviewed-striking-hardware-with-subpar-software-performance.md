@@ -1,7 +1,7 @@
 ---
 title: Ugreen's NASync DXP2800 Reviewed - Striking Hardware with Subpar Software Performance
-date: 2024-08-28 19:59:59
-updated: 2024-08-29 12:47:36
+date: 2024-08-30T15:06:25.990Z
+updated: 2024-08-31T15:06:25.990Z
 tags:
   - product-reviews
 categories:
@@ -98,6 +98,9 @@ Andrew Heinzman / How-To Geek
 
  The only concern I have in terms of hardware is power consumption. Ugreen says that the DXP2800 will fluctuate between 50 and 70 watts depending on its power state, which seems a bit excessive for a two-bay NAS device. I'd love to know if power consumption can be better optimized in software in the future. Also, while this has nothing to do with the amount of power the DXP2800 uses, I was surprised to see that this NAS runs on a third-party 9v power supply. I'm using a pre-release unit that was (presumably) used for testing or press events, so maybe it's just a pre-release quirk.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Easy To Upgrade
 
  Out of the box, the NASync DXP2800 has 8GB of built-in DDR4 memory, which may prove to be a limitation for some users. Thankfully, you can upgrade to 16GB of RAM, and the upgrade process is outrageously easy.
@@ -112,6 +115,9 @@ Close
 
  However, the NASync DXP2800 offers no form of PCIe upgradeability. If you were hoping to upgrade from 2.5 GbE to a 10 Gig connection, tough luck.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  An Operating System in Its Infancy
 
  The Debian-based Ugreen operating system, called UGOS, needs a lot of work. It currently lacks third-party app support, meaning that you can't run [Docker](https://instagram-clips.techidaily.com/2024-approved-the-quick-guide-to-disconnect-on-ig/), [Plex Media Server](https://screen-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/), or other home server applications. UGOS also lacks any [hybrid RAID](https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-ace-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/) options, it doesn't support cloud storage backups (to Dropbox, Google Drive, etc), and it doesn't provide 2FA protection when remote access is enabled.
@@ -130,6 +136,9 @@ Close
 
  Flashing an alternate OS will have no impact on the NASync hardware warranty. This has been confirmed to me by Ugreen, though it's also mentioned in the NASync Kickstarter listing. However, the company suggests that people stick with UGOS. I have intentionally refrained from using Unraid or TrueNAS during my review process, but I will begin testing alternate operating systems after this review is published.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Security Concerns
 
 ![UG8 locking hard drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug8-locking-hard-drive.jpg) 
@@ -146,10 +155,16 @@ Andrew Heinzman / How-To Geek
 
  If security experts vouch for UGOS, or if the UGOS operating system goes a few years without any security incidents, I'll adjust my opinion. For now, I'm erring on the side of caution and gut feeling.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Ugreen NASync DXP2800?
 
 ![The UGREEN NASYNC DXP2800 with a drive bay removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug14.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  As of April 2024, I feel that [Ugreen's NASync devices](https://nas.ugreen.com/products/ugreen-nasync-series-network-attached-storage) are mainly for the enthusiast crowd. If you've never set up a home server, or if you want to access advanced NAS functionality without flashing an alternate OS, you should probably buy a NAS from a more established brand.
@@ -158,6 +173,9 @@ Andrew Heinzman / How-To Geek
 
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Ugreen NASync DXP2800
 
 6/ 10 
@@ -180,3 +198,47 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[New] 2024 Approved  From Shots to Screens  The Importance of Camera Lenses in Vlogs</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-quickstart-guide-key-elements-of-tiktok-macos/"><u>[New] 2024 Approved  Quickstart Guide  Key Elements of TikTok (macOS)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-gaming-spaces-for-solo-play-in-apex-legends/"><u>[New] 2024 Approved  Top Gaming Spaces for Solo Play in Apex Legends</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mbrace-authenticity-your-style-journey-begins-here/"><u>[New] Embrace Authenticity  Your Style Journey Begins Here</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-archivists-edge-cutting-edge-strategies-for-social-downloads-for-2024/"><u>[New] The Archivist's Edge  Cutting-Edge Strategies for Social Downloads for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-6-premium-video-translation-tools-for-2024/"><u>[New] Top 6 Premium Video Translation Tools for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-taking-twitter-videos-from-regular-to-high-definition/"><u>[Updated] In 2024, Taking Twitter Videos From Regular to High-Definition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-facebook-live-a-comprehensive-tutorial/"><u>[Updated] Navigating Facebook Live  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazing-savings-alert-exclusive-tech-gadgets-at-amazons-prime-day-sale/"><u>Amazing Savings Alert: Exclusive Tech Gadgets at Amazon's Prime Day Sale</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoiding-pitfalls-the-9-must-consider-features-for-an-optimal-dash-cam-purchase/"><u>Avoiding Pitfalls: The 9 Must-Consider Features for an Optimal Dash Cam Purchase</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-fixing-the-btballoondll-error-not-foundmissing-situation/"><u>Expert Tips for Fixing the BTBalloon.DLL Error: Not Found/Missing Situation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-getting-your-non-connective-stadia-headset-back-online/"><u>Expert Tips for Getting Your Non-Connective Stadia Headset Back Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-curated-list-of-lgbtq-series-on-netflix-in-july-2024/"><u>Explore Our Curated List of LGBTQ Series on Netflix in July 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-2022-spotify-web-player-back-on-track-optimizing-speed-and-functionality/"><u>Get Your 2022 Spotify Web Player Back on Track: Optimizing Speed & Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/googles-next-big-thing-unveiling-rumored-news-on-the-pixel-fold-2s-specs-cost-and-launch-date/"><u>Google's Next Big Thing? Unveiling Rumored News on the Pixel Fold 2’S Specs, Cost, and Launch Date</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-lava-yuva-3-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Lava Yuva 3 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-se-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-monitor-and-analyze-individual-engagements-with-your-facebook-posts/"><u>How to Monitor and Analyze Individual Engagements with Your Facebook Posts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-silence-the-speaking-guide-function-in-your-samsung-flat-panel-display/"><u>How to Silence the Speaking Guide Function in Your Samsung Flat Panel Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leap-into-advanced-chatgpt-top-9-essential-plugins-here/"><u>Leap Into Advanced ChatGPT – Top 9 Essential Plugins Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-panoramic-photography-with-a-fisheye-effect-for-2024/"><u>Mastering Panoramic Photography with a Fisheye Effect for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-know-insights-for-securing-a-refurbished-ipad-wisely/"><u>Must-Know Insights for Securing a Refurbished iPad Wisely</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-nintendo-switch-a-guide-to-capturing-and-sharing-your-gameplay/"><u>Navigating the Nintendo Switch: A Guide to Capturing & Sharing Your Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimal-frequency-when-is-the-right-time-to-buy-a-new-smartphone/"><u>Optimal Frequency: When Is the Right Time to Buy a New Smartphone?</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-crash-error-0x800704cf-in-windows/"><u>Quick Fix for Microsoft Store Crash: Error 0X800704CF in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-jscriptdll-file-missing-a-step-by-step-guide/"><u>Resolving 'jscript.dll' File Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-troubleshooting-techniques-for-compromised-windows-store-caches/"><u>Solved: Troubleshooting Techniques for Compromised Windows Store Caches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-iphone-silent-mode-get-your-devices-sound-back/"><u>Solving iPhone Silent Mode: Get Your Device's Sound Back</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-1-sound-problem-resolving-mic-malfunctions-effectively/"><u>SteelSeries Arctis 1 Sound Problem: Resolving Mic Malfunctions Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-fixing-connectivity-problems-with-your-ipads-wi-fi/"><u>Step-by-Step Guide: Fixing Connectivity Problems with Your iPad's Wi-Fi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-elongated-term-epic-quest/"><u>The Elongated Term Epic Quest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-is-bright-with-samsung-unpacked-2025-anticipated-news-rumored-gadgets-and-key-announcements/"><u>The Future Is Bright with Samsung Unpacked 2025: Anticipated News, Rumored Gadgets, and Key Announcements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-lineup-of-ipad-models-that-boast-onboard-satellite-positioning-tools/"><u>The Lineup of iPad Models that Boast Onboard Satellite Positioning Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-sunrise-alarm-for-optimal-rest-reviews-of-heimvisions-advanced-series-a80s-model/"><u>The Ultimate Guide to Choosing a Sunrise Alarm for Optimal Rest: Reviews of HeimVision's Advanced Series A80S Model</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tips-for-modifying-and-refreshing-powerpoint-files/"><u>The Ultimate Tips for Modifying and Refreshing PowerPoint Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-planning-apps-for-optimizing-your-pinterest-strategy/"><u>Top 5 Essential Planning Apps for Optimizing Your Pinterest Strategy</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-tips-for-the-boot-manager-failure-message/"><u>Ultimate Troubleshooting Tips for the Boot Manager Failure Message</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-your-netgear-devices-a-july-2024-complete-default-password-resource/"><u>Unlocking Your NETGEAR Devices: A July 2024 Complete Default Password Resource</u></a></li>
+</ul></div>

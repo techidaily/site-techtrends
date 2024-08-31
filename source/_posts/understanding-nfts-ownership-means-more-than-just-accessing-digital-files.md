@@ -1,7 +1,7 @@
 ---
 title: "Understanding NFTs: Ownership Means More Than Just Accessing Digital Files"
-date: 2024-08-27 19:37:37
-updated: 2024-08-29 10:27:37
+date: 2024-08-30T15:08:50.160Z
+updated: 2024-08-31T15:08:50.160Z
 tags:
   - cutting-edge
 categories:
@@ -31,6 +31,9 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 Related: [What Is a Bored Ape NFT?](https://program-issues.techidaily.com/step-by-step-solution-for-discord-packet-transmission-problems/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  NFT Art Isn't Stored on the Blockchain
 
  With all the money being paid for NFTs, it might come as a surprise to learn that the artworks represented by NFTs aren't stored on the blockchain themselves. Instead, NFTs simply contain a link that points to a digital art file (photo or video) hosted on a conventional web server.
@@ -49,12 +52,18 @@ Related: [Here's the Problem With NFTs](https://extra-lessons.techidaily.com/tec
 
 ![Bored Ape #9055 displayed on a smartphone on a pile of cash.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ape-cash.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [mundissima/Shutterstock.com](https://www.shutterstock.com/image-photo/bored-ape-yacht-club-9055-nft-2101462063)
 
  The reason why art isn't stored directly on the Ethereum blockchain is because, at the moment, Ethereum (and other blockchains) are extremely slow and inefficient at storing digital data. Every byte is very expensive -- with [one 2021 calculation estimating](https://erickhun.com/posts/nft-misconception-image-arent-on-blockchains/) $20,000 to store for 500 KB. That makes it impractical to store even small images on the Ethereum blockchain, much less the high-resolution images or videos that NFTs point to.
 
  Even if you were wildly rich and decided to try to store artwork on the Ethereum blockchain (which the EIP-721 standard does not support, by the way), it would take a very long time to load when you viewed it. If you ask an Ethereum developer when we can expect to store images directly on the blockchain, you might get [laughed out of the room](https://stackoverflow.com/questions/52994467/is-it-possible-to-store-images-on-the-ethereum-blockchain). Instead, [off-chain solutions](https://ethereum.stackexchange.com/questions/39279/how-do-you-store-image-in-the-ethereum-blockchain-efficiently) are almost always recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Broken Link Hijacking May Come to NFTs
 
  So what does it all mean? It means NFTs will break. Possibly even most of them, if we go by the [history of link rot](https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking) on the internet. And when [web links break](https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/), malicious things can potentially take their place.
@@ -65,18 +74,28 @@ Related: [What Is a 404 Error?](https://tech-haven.techidaily.com/essential-ai-t
 
  Imagine if, in ten years, a major host of NFT images went under, and then someone swooped in and bought the domain name, pointing thousands of NFT links to porn images. It would be very easy to do, and there is nothing the NFT owner can do to stop it. The NFT contains an URL pointing to a server out of the NFT owner's control.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  NFTs Might Not Enter the Historical Record, Either
 
  Even if your NFT links break and no one replaces them, you will still be left with NFTs that [404](https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/) when they try to load their artwork, which means that NFT art is not future-proof at all.
 
 ![NFTs on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nft-avatars.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 [Rokas Tenys/Shutterstock.com](https://www.shutterstock.com/image-photo/vilnius-lithuania-march-8-2021-nonfungible-1932205373)
 
  For future historians to understand the content of today's NFTs, we'll need a service like the [Internet Archive's Wayback Machine](https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v27-pro-frp-locks-by-drfone-android/) to mirror the NFT artworks and take the place of the broken links when they inevitably show up. Or we might have to rely on [pirates who mass download NFT artwork](https://thenftbay.org/) and make it available in massive dumps (pirates have [saved the day](https://www.technologizer.com/2012/01/23/why-history-needs-software-piracy/) many times before).
 
  Eventually, the design of NFTs might change to a more robust model where the images are stored on a distributed file system like [IPFS](https://en.wikipedia.org/wiki/InterPlanetary%5FFile%5FSystem), but that's not written in the NFT standard people are using now. At the moment, you're usually just buying a very fragile web link (there are some exceptions, such as [generative art](https://medium.com/@datash/an-introduction-to-generative-art-nfts-35e650a0f281)).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should I Buy NFT Art Anyway?
 
  Knowing what you know, whether you still buy an NFT is completely up to you. Right now, the NFT market is completely unregulated, which means it is lacking oversight or quality control standards. As a result, it's [full of scams](https://screen-video-capture.techidaily.com/1715860395616-in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/), and purchasing an art NFT with the hope that it will rise in value (or even maintain its value) is extremely risky. So tread carefully, and know that what you're buying is usually an expensive web link that can break at any time. Stay safe out there!
@@ -97,3 +116,44 @@ Related: [Stop Listening to Celebrity Advice on Crypto (and Everything Else)](ht
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-editors-dream-machine-top-portable-video-edits-tools-for-2024/"><u>[New] Editor's Dream Machine  Top Portable Video Edits Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-infusing-conversations-with-gifs-on-snapchat/"><u>[Updated] 2024 Approved  A Step-by-Step Approach to Infusing Conversations with GIFs on Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-android-3d-video-enthusiasts-choice/"><u>[Updated] Exclusive Android 3D Video Enthusiasts' Choice</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elevating-camera-experience-mavic-pro-review/"><u>2024 Approved  Elevating Camera Experience - Mavic Pro Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyy-leads-the-pack-in-idcs-innovative-software-solutions-landscape/"><u>Abbyy Leads the Pack in IDC's Innovative Software Solutions Landscape</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyys-top-tier-talent-scout-paula-dam-master-of-senior-acquisition-roles-and-techniques/"><u>ABBYY's Top-Tier Talent Scout, Paula Dam: Master of Senior Acquisition Roles and Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automated-data-collection-with-cookiebot-boost-your-sites-analytics/"><u>Automated Data Collection with Cookiebot: Boost Your Site's Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automated-data-collection-optimized-with-the-latest-cookiebot-technology/"><u>Automated Data Collection: Optimized with the Latest Cookiebot Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automatisering-van-krachtpunten-voor-bedrijfsprocessen-met-abn-amro-bank-iguana-abbyy-vereniging/"><u>Automatisering Van Krachtpunten Voor Bedrijfsprocessen Met ABN Amro Bank - Iguana ABBYY Vereniging</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-web-success-with-advanced-traffic-analytics-the-smart-way/"><u>Boosting Web Success with Advanced Traffic Analytics – The Smart Way</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choisir-le-bon-carburant-pour-votre-generatrice-de-business-guide-exhaustif/"><u>Choisir Le Bon Carburant Pour Votre Génératrice De Business: Guide Exhaustif</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-success-maximize-your-sites-potential/"><u>Cookiebot-Driven Success: Maximize Your Site's Potential</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-sites-enhancing-your-digital-experience/"><u>Cookiebot-Enabled Sites: Enhancing Your Digital Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-solutions-boost-your-websites-efficiency/"><u>Cookiebot-Enabled Solutions: Boost Your Website's Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience-with-leading-analytics/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience with Leading Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-tracking-capabilities/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Tracking Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enabled-enhancing-your-websites-user-experience-with-personalization/"><u>Cookiebot-Enabled: Enhancing Your Website's User Experience with Personalization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enhanced-boost-your-sites-engagement-with-advanced-tracking/"><u>Cookiebot-Enhanced: Boost Your Site's Engagement with Advanced Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-pivotal-scenes-with-abbyy-and-arsenal-wsl-transformative-insights-exposed/"><u>Discover Pivotal Scenes with ABBYY & Arsenal WSL - Transformative Insights Exposed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/drive-your-traffic-with-the-power-of-cookiebot/"><u>Drive Your Traffic with the Power of Cookiebot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-visual-clarity-fixes-previously-blurry-screenshots-of-outriders/"><u>Enhanced Visual Clarity Fixes Previously Blurry Screenshots of Outriders</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-6-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 6 online without jailbreak</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-the-world-of-gadgets-with-tom-expert-insights-and-opinions/"><u>Inside the World of Gadgets with Tom - Expert Insights and Opinions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/inside-toms-hardware-your-comprehensive-tech-resource/"><u>Inside Tom's Hardware: Your Comprehensive Tech Resource</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-up-to-date-nvidia-rtx-3060-ti-drivers-for-enhanced-gaming-windows-supported/"><u>Install Up-to-Date NVIDIA RTX 3060 Ti Drivers for Enhanced Gaming [Windows Supported]</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-video-slideshow-with-your-travel-photos-for-2024/"><u>New How to Make Video Slideshow with Your Travel Photos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/seamless-social-media-video-extraction-2023-app-for-2024/"><u>Seamless Social Media Video Extraction - 2023 App for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-bill-management-fulfilling-commitments-with-automated-precision/"><u>Smart Bill Management: Fulfilling Commitments with Automated Precision</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-creative-tech-embrace-the-wcid-202n-with-abbyy-insights/"><u>The Future of Creative Tech - Embrace the WCID 202N with ABBYY Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-surge-of-cloud-technology-understanding-the-impetus-for-growth-in-todays-shifting-landscape/"><u>The Surge of Cloud Technology: Understanding the Impetus for Growth in Today's Shifting Landscape</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-360-degree-gearing-for-2024/"><u>Ultimate 360 Degree Gearing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-terms-of-service-for-external-software-with-abbyys-ocr-sdk-documentation/"><u>Understanding the Terms of Service for External Software with ABBYY's OCR SDK Documentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-commercial-potential-with-artificial-intelligence-in-document-management-spotlight-on-abys-presentation-san-francisco-summit/"><u>Unlocking Commercial Potential with Artificial Intelligence in Document Management – Spotlight on ABY's Presentation, San Francisco Summit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-savings-with-promo-codes-insights-from-the-abbeyy-blog/"><u>Unlocking Savings with Promo Codes: Insights From the ABBEYY Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-personalized-visitor-analytics-and-seo-boost/"><u>Utilizing Cookiebot Technology for Personalized Visitor Analytics & SEO Boost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-superior-user-experience-management-on-websites/"><u>Utilizing Cookiebot Technology for Superior User Experience Management on Websites</u></a></li>
+</ul></div>

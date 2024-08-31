@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering the Classics: MSN, GameSpy & Winamp - A Trip Down Memory Lane"
-date: 2024-08-27 20:24:39
-updated: 2024-08-29 10:44:23
+date: 2024-08-30T15:08:31.778Z
+updated: 2024-08-31T15:08:31.778Z
 tags:
   - deals
 categories:
@@ -37,6 +37,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  These days you don’t need middleware like GameSpy, with matchmaking integrated into platforms like Xbox Live and Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ##  MSN, [AIM](https://my.screenname.aol.com/), [ICQ](https://www.icq.com) 
 
 **You might also remember:** iChat, Gaim (Pidgin), Jabber
@@ -47,6 +50,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -67,6 +73,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  While many of these services no longer exist in any capacity, Napster came back to life as a music streaming service that still exists today.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## [Winamp](http://www.winamp.com) 
 
 ![The official Winamp skin museum.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/winamp_skins.png) 
@@ -99,6 +108,14 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  mIRC is still around, as are many of the IRC servers that made the protocol so popular in the first place.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Dial-Up Software: CompuServe, AOL, and More
 
 **You might also remember:** FreeServe, MSN, Prodigy
@@ -119,6 +136,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -127,6 +147,18 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Amazingly, eJay still exists and you can buy old versions that promise to work on versions of Windows up to Windows 10.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Desktop Pets: Dogz, Catz, Bonzi Buddy
 
 **You might also remember:** GoPets, MOPy fish
@@ -155,3 +187,66 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/months-hottest-bargains-on-the-latest-apple-smartwatches/"><u>[Month]'s Hottest Bargains on the Latest Apple Smartwatches</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo/"><u>[New] 2024 Approved  Celebrating Matrimony  The Best Wedding Movies From YouTube to Vimeo</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-ignite-discussion-with-custom-creative-story-inquiries/"><u>[New] 2024 Approved  Ignite Discussion with Custom, Creative Story Inquiries</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-guide-lecture-capture-with-your-computer-mac/"><u>[New] 2024 Approved  Quick Guide  Lecture Capture with Your Computer (Mac)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-top-20-strategies-for-boosting-fb-ads-via-video-content/"><u>[New] 2024 Approved  Top 20 Strategies for Boosting FB Ads via Video Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-transforming-ideas-into-engaging-captivate-content/"><u>[New] 2024 Approved  Transforming Ideas Into Engaging Captivate Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-prevent-unwanted-recordings-quit-time-tricks/"><u>[New] In 2024, Prevent Unwanted Recordings  Quit Time Tricks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>[New] Leading the Pack in Instagram Content  Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-mayhem-top-party-games-listed/"><u>[New] Metaverse Mayhem  Top Party Games Listed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-zoom-audio-enhancing-quality-two-fold-approach-for-2024/"><u>[New] Optimal Zoom Audio  Enhancing Quality, Two-Fold Approach for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-premier-list-of-smartphone-compatible-vr-headset/"><u>[New] The Premier List of Smartphone-Compatible VR Headset</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-integrate-advanced-note-organization-on-mematic/"><u>[Updated] 2024 Approved  Integrate Advanced Note Organization on Mematic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevating-your-live-experience-with-recorded-content/"><u>[Updated] Elevating Your Live Experience with Recorded Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-embarking-on-style-and-niche-discovery-journey-for-2024/"><u>[Updated] Embarking on Style & Niche Discovery Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-name-magic-ideas-for-impactful-titles/"><u>[Updated] In 2024, Channel Name Magic  Ideas for Impactful Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss/"><u>2024 Approved  Revealed  The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-imessage-game-selections-a-list-of-7/"><u>Best iMessage Game Selections : A List of 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-28-on-windows-explained-diagnosis-and-repair-tactics-that-work/"><u>Code 28 on Windows Explained: Diagnosis & Repair Tactics That Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-disconnecting-gadgets-from-the-google-home-interface/"><u>Comprehensive Guide: Disconnecting Gadgets From the Google Home Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solutions-for-resolving-hp-monitor-driver-errors-on-windows-versions-10-8-and-7/"><u>Comprehensive Solutions for Resolving HP Monitor Driver Errors on Windows Versions 10, 8 & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-common-headset-problems-in-the-xbox-series-xs-console-setup/"><u>Diagnosing and Repairing Common Headset Problems in the Xbox Series X/S Console Setup</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-camon-20-premier-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Camon 20 Premier 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-champions-the-best-of-self-driving-car-manufacturing/"><u>Discover the Champions: The Best of Self-Driving Car Manufacturing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-top-tier-streaming-options-dominating-2024s-entertainment-scene/"><u>Discover the Top-Tier Streaming Options Dominating 2024'S Entertainment Scene</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-the-ins-and-outs-of-apples-planned-home-robot-pricing-predictions-release-dates-and-technical-specifications/"><u>Discovering the Ins and Outs of Apple's Planned Home Robot: Pricing Predictions, Release Dates, and Technical Specifications</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-smart-8-hd-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Smart 8 HD Device SIM</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-screen-sharing-techniques-for-lg-branded-4k-televisions/"><u>Effortless Screen Sharing Techniques for LG Branded 4K Televisions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-malfunctions-for-a-smooth-experience-on-windows-platforms-11-and-10/"><u>Fixing Dolby Atmos Malfunctions for a Smooth Experience on Windows Platforms (11 & 10)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-security-alerts-managing-developer-verification-errors-on-apple-computers/"><u>Fixing Security Alerts: Managing Developer Verification Errors on Apple Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-complete-guide-on-using-the-behringer-usb-audio-interface/"><u>Free Download: Complete Guide on Using the Behringer USB Audio Interface</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hidden-insights-for-importer-mastery-on-windows-10-for-2024/"><u>Hidden Insights for Importer Mastery on Windows 10 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v29e-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V29e? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-determine-if-aol-mail-problem-is-universal-or-individual/"><u>How to Determine If AOL Mail Problem Is Universal or Individual</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-8-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 8 without Apple ID?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-x9a-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor X9a Lock Screen Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-rid-of-microsofts-copilot-assistant-from-windows-11-systems/"><u>How To: Get Rid of Microsoft's Copilot Assistant From Windows 11 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-14-pro-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 14 Pro Max in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-the-power-of-instagram-filters-your-2023-guide/"><u>In 2024, Unlocking the Power of Instagram Filters - Your 2023 Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892500504-inside-scoop-on-apples-futuristic-foldable-phone-anticipated-cost-scheduled-release-key-specs-and-exciting-rumors/"><u>Inside Scoop on Apple's Futuristic Foldable Phone - Anticipated Cost, Scheduled Release, Key Specs & Exciting Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-updated-amd-radeon-gpu-software-v2410-for-optimal-performance/"><u>Installing Updated AMD Radeon GPU Software v24.10 for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-15-pro-max-vs-galaxy-s24-ultra-comparing-features-and-performance/"><u>IPhone 15 Pro Max Vs. Galaxy S24 Ultra: Comparing Features and Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-connection-a-comprehensive-walkthrough-for-linking-a-ps4-pad/"><u>Master the Connection: A Comprehensive Walkthrough for Linking a PS4 Pad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-best-notetaking-tools-for-professionals-and-students-2024-edition/"><u>Navigating Through the Best Notetaking Tools for Professionals and Students - 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-mapi32dll-file-not-found-step-by-step-guide/"><u>Resolving 'Mapi32.dll' File Not Found - Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revitalize-your-macbook-pro-a-comprehhemic-guide-to-power-cycling/"><u>Revitalize Your MacBook Pro: A Comprehhemic Guide to Power Cycling</u></a></li>
+<li><a href="https://techtrends.techidaily.com/roblox-server-issues-how-to-tell-if-its-a-global-outage-or-personal-connectivity-problem/"><u>Roblox Server Issues - How to Tell if It's a Global Outage or Personal Connectivity Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sharing-playlists-how-many-people-can-use-spotify-together/"><u>Sharing Playlists: How Many People Can Use Spotify Together?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-clean-up-your-friend-list-by-removing-multiples-on-snapchat/"><u>Step-by-Step Tutorial: How to Clean Up Your Friend List by Removing Multiples on Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/taylor-swift-cinematic-journey-how-to-binge-her-entire-movie-collection/"><u>Taylor Swift Cinematic Journey: How to Binge Her Entire Movie Collection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-battle-of-viewing-choices-cable-television-vs-ott-streaming-explained/"><u>The Battle of Viewing Choices: Cable Television Vs. OTT Streaming Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-factors-to-evaluate-when-purchasing-a-pre-owned-ipad/"><u>Top 5 Factors to Evaluate When Purchasing a Pre-Owned iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-addressing-and-repairing-msvcr1errors-on-your-pc/"><u>Troubleshooting Tips: Addressing and Repairing MSVCR1#ERRORS on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-activating-your-new-echo-dots-setup-mode/"><u>Ultimate Guide: Activating Your New Echo Dot's Setup Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722871543949-ultimate-guide-resolving-the-notorious-blue-screen-of-death/"><u>Ultimate Guide: Resolving the Notorious 'Blue Screen of Death'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-free-hdd-and-ssd-checkers-updates-for-july-202n4/"><u>Ultimate List of Free HDD & SSD Checkers: Updates for July 202N4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unexpectedly-missing-helperdll-heres-how-to-restore-it/"><u>Unexpectedly Missing Helper.dll? Here's How to Restore It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-the-concept-of-wi-fi-calling-and-how-it-works/"><u>What Is the Concept of Wi-Fi Calling and How It Works?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-a15-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy A15 4G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

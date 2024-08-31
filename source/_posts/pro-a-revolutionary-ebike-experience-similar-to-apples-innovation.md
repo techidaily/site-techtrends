@@ -1,7 +1,7 @@
 ---
 title: "Pro: A Revolutionary Ebike Experience Similar to Apple's Innovation"
-date: 2024-08-26 23:26:26
-updated: 2024-08-29 11:50:58
+date: 2024-08-30T15:06:22.812Z
+updated: 2024-08-31T15:06:22.812Z
 tags:
   - product-reviews
 categories:
@@ -105,6 +105,9 @@ Expand
 
 ![A close up of the Tenways CGO600 Pro front light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/598ab282-910d-41dc-8a79-76f4c60a94a9.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The first thing I noticed about the bike was its sleek and simple frame. Thanks in part to its non-geared belt drive, there isn’t a lot of visual messiness. The real star of the design, however, turned out to be something I couldn't see. Its light 37-pound weight needed to be felt to be truly appreciated.
@@ -119,6 +122,9 @@ Tyler Hayes / How-To Geek
 
 ![A close up of the Tenways CGO600 Pro belt drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/821c0c13-9fac-41ad-894d-ebd7e1a138a1.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Not only did the CGO600 Pro have a modern look, but it also had a sleek, modern ride. The belt drive made my suburban riding feel incredibly smooth. Complimenting the Gates Carbon Drive belt is a magnetic torque sensor, which was a humble star in how the bike performed.
@@ -129,6 +135,9 @@ Tyler Hayes / How-To Geek
 
  Riding up hills, I hit about 11 to 13 miles per hour speeds. I purposefully wasn't trying to push myself to reach higher speeds either. I suspect anyone interested in commuting with this bike wouldn't want to show up to work drenched in sweat. Using the most powerful pedal assist level and only minor effort still kept me moving at a reasonable speed.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Riding the Distance
 
  About a month before riding the CGO600 Pro, I finally sold an old, traditional street bike that was taking up space in my garage. I had bought it before ebikes were ever a thing, but jumping on this CGO600 Pro still reminded me of it.
@@ -145,6 +154,9 @@ Tyler Hayes / How-To Geek
 
 ![Close up of the Tenways CGO600 Pro display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/fa040df2-0ce6-4068-ad55-065ab1bb8006.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 The screen did not photograph well but was readable in most lighting conditions.
@@ -157,6 +169,9 @@ The screen did not photograph well but was readable in most lighting conditions.
 
  The CGO600 Pro has a passcode on the display to prevent others from turning on the power. As a security measure, that felt silly. The bike was easy to ride with no power. But it was also silly that the code could not be set or bypassed with the mobile app. After a few uses of the Tenways app, I left it closed and never missed it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  CGO600 Pro Price and Availability
 
  The Tenways CGO600 Pro is widely available and [retails for $1,899](http://us.tenways.com/products/cgo600-pro) but is commonly on sale for $1,699 and offers free mudguards and a kickstand.
@@ -176,6 +191,9 @@ The screen did not photograph well but was readable in most lighting conditions.
 * The CGO600 Pro is 9lbs lighter
 * The CGO600 Pro offers different size frames for different-sized riders
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Tenways CGO600 Pro Ebike?
 
 ![Tenways CGO600 Pro on a basketball court standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/bike.JPG) 
@@ -248,6 +266,9 @@ Expand
 
 [$1699 at Tenways](https://www.us.tenways.com/?ref=mwuxnmm&utm%5Fsource=tapfiliate&utm%5Fmedium=affiliate&utm%5Fcampaign=mwuxnmm) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## FAQ
 
 ### What are the different ebike classes?
@@ -274,3 +295,53 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-demystifying-virtual-meetings-essential-tips-for-using-zoom-win10-for-2024/"><u>[New] Demystifying Virtual Meetings  Essential Tips for Using Zoom (Win10) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-supercharge-your-farming-fun-in-stardew-valley-top-7-upgrades-for-2024/"><u>[New] Supercharge Your Farming Fun in Stardew Valley (Top 7 Upgrades) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/"><u>[Updated] 2024 Approved  Top 15 Must-Use Gaming Tags for Skyrocketing Views on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blueprints-for-the-ultimate-home-studio-a-4k-editing-powerhouse/"><u>[Updated] Blueprints for the Ultimate Home Studio  A 4K Editing Powerhouse</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-webcam-recording-with-vlc-streaming-capabilities/"><u>[Updated] Effortless Webcam Recording with VLC Streaming Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-proven-mac-screen-recording-programs-beyond-bandicaps-success/"><u>[Updated] Proven Mac Screen Recording Programs Beyond Bandicap's Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-charting-success-navigating-youtube-statistics-with-social-blade/"><u>2024 Approved  Charting Success  Navigating YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-power-of-youtube-backlinks-for-creators/"><u>2024 Approved  Unveiling the Power of YouTube Backlinks for Creators</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-15-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 15 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-the-swift-aid-functionality-of-w11/"><u>Accessing the Swift Aid Functionality of W11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ving-affiliate-success-with-online-videos/"><u>Achieving Affiliate Success with Online Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-smart-8-hd-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Smart 8 HD?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-have-more-than-one-youtube-channel/"><u>Can You Have More Than One YouTube Channel?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-your-audience-the-smartphone-guide-to-youtube-thumbnails-for-2024/"><u>Capture Your Audience  The Smartphone Guide to YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-online-movie-downloading-sites-a-guide/"><u>Discover the Best Free Online Movie Downloading Sites: A Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-aether-understanding-its-nature-and-steps-to-becoming-a-participant/"><u>Discovering Aether: Understanding Its Nature & Steps to Becoming a Participant</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-utilizing-measure-application-on-your-android-device/"><u>Effective Techniques For Utilizing Measure Application On Your Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-connecting-the-web-to-enhance-your-living-room-theatre-setup/"><u>Guide: Connecting the Web to Enhance Your Living Room Theatre Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-overcoming-missing-comctl32dll-error-in-windows-systems/"><u>Guide: Overcoming Missing comctl32.dll Error in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-android-achieve-its-clever-and-adaptive-functionality/"><u>How Does Android Achieve Its Clever and Adaptive Functionality?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-the-d3dx9-34dll-is-not-detected-issue-effectively/"><u>How to Address the 'D3dx9_ 34.dll Is Not Detected' Issue Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-switch-to-a-free-community-based-dns-server-your-complete-resource/"><u>How to Switch to a Free Community-Based DNS Server - Your Complete Resource</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-fb-stories-downloads-top-5-tips-for-all-devices/"><u>In 2024, Navigating FB Stories Downloads  Top 5 Tips for All Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-strategies-delivering-your-selected-video-game-card-online-through-steam/"><u>In-Depth Strategies: Delivering Your Selected Video Game Card Online Through Steam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-information-on-sonys-vr-device-anticipate-the-launch-timeline-estimated-price-points-and-tech-specs/"><u>Inside Information on Sony's VR Device - Anticipate the Launch Timeline, Estimated Price Points & Tech Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrating-google-mail-on-your-apple-watch-effortlessly/"><u>Integrating Google Mail on Your Apple Watch Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-manage-multiple-youtube-channels-simultaneously/"><u>Is It Possible to Manage Multiple YouTube Channels Simultaneously?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-apple-tv-a-step-by-step-guide-to-streaming-videos-with-vlc/"><u>Mastering Apple TV: A Step-by-Step Guide to Streaming Videos with VLC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-boot-processes-eliminate-unwanted-startup-programs-with-revo-uninstaller/"><u>Mastering System Boot Processes: Eliminate Unwanted Startup Programs with Revo Uninstaller</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-basics-of-home-audio-a-detailed-guide-for-newbies-looking-to-upgrade-their-sound-experience/"><u>Mastering the Basics of Home Audio: A Detailed Guide for Newbies Looking to Upgrade Their Sound Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-a-missing-wpcpdll-file-a-step-by-step-guide/"><u>Resolving the Issue of a Missing WPCP.DLL File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphone-users/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-the-right-time-on-your-amazon-kindle-paperwhite-a-comprehensive-tutorial/"><u>Setting the Right Time on Your Amazon Kindle Paperwhite - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-kernel-data-inpage-error-a-step-by-step-guide/"><u>Solving the Kernel Data InPage Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-resolving-your-ipads-wi-fi-connection-issues/"><u>Step-by-Step Guide: Resolving Your iPad's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-selecting-and-purchasing-the-right-tv-for-your-household/"><u>Step-by-Step Tips on Selecting and Purchasing the Right TV for Your Household</u></a></li>
+<li><a href="https://techtrends.techidaily.com/techniques-for-retrieving-digital-telephonic-contact-information/"><u>Techniques for Retrieving Digital Telephonic Contact Information</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-gratis-and-community-based-dns-options/"><u>The Ultimate Guide to Gratis & Community-Based DNS Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/toms-computer-reviews-in-depth-tech-analysis/"><u>Tom's Computer Reviews: In-Depth Tech Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-essential-factors-to-consider-when-purchasing-an-electric-vehicle/"><u>Top 9 Essential Factors to Consider When Purchasing an Electric Vehicle</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/trailblazers-top-intro-list-for-zooids/"><u>Trailblazers Top Intro List for Zooids</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-the-msodll-is-absent-problem/"><u>Understanding and Fixing the 'Mso.dll Is Absent' Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/untangle-the-mystery-of-subwoofer-noise-expert-advice-on-removing-vibrations/"><u>Untangle the Mystery of Subwoofer Noise: Expert Advice on Removing Vibrations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-wmv-video-editing-on-a-budget-top-free-options/"><u>Updated 2024 Approved WMV Video Editing on a Budget Top Free Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zippy-computing-discover-the-top-7-strategies-for-rapid-computer-improvement/"><u>Zippy Computing: Discover the Top 7 Strategies for Rapid Computer Improvement</u></a></li>
+</ul></div>
