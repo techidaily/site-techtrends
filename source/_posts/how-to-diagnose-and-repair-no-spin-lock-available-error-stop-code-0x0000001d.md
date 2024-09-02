@@ -1,0 +1,182 @@
+---
+title: How to Diagnose and Repair No Spin Lock Available Error - STOP Code 0X0000001D
+date: 2024-09-01T18:38:01.657Z
+updated: 2024-09-02T18:38:01.657Z
+categories:
+  - BestProducts
+description: This Article Describes How to Diagnose and Repair No Spin Lock Available Error - STOP Code 0X0000001D
+excerpt: This Article Describes How to Diagnose and Repair No Spin Lock Available Error - STOP Code 0X0000001D
+thumbnail: https://www.lifewire.com/thmb/isn0ko2HLlTK7WUnMbUXQcunVqg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-bsod-windows-56a6faab3df78cf772913ee6.png
+---
+
+## Water Damage Woes? Here's How to Salvage and Repair Your Wet iPhone or iPod with Ease
+ Sometimes iPhones get wet. It's just a fact of life, no matter how careful we are. Whether we spill drinks on them, drop them in the tub, or have kids who soak them in the sink, iPhones and iPods get wet.
+
+ But a wet iPhone isn't necessarily a dead iPhone. While some iPhones can't be saved no matter what you do, try these tips before you declare your beloved gadget dead.
+
+ Many of the tips in this article apply to wet iPods, too. We also have full details on[saving a wet iPad](https://www.lifewire.com/save-wet-ipad-4128943) .
+
+## How to Dry Out and Fix a Wet iPhone
+
+ Follow these steps to try to save your wet iPhone:
+
+1. **Remove the case.** If your iPhone is in a case, take it out. The phone will dry faster and more completely without the case retaining hidden droplets of water.
+2. **Shake the water out.** Depending on how soaked it got, you may be able to see water in the[iPhone headphone jack](https://www.lifewire.com/fix-iphone-headphone-jack-2000273) or Lightning port. Shake the water out as much as possible.
+3. **Wipe it down.** With the water shaken out, use a soft cloth to wipe the iPhone and remove all visible water. Paper towel works in a pinch, but a cloth that doesn't leave residue behind is better.
+4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
+5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
+
+## Don't Do This to a Wet iPhone
+
+ If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
+
+1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
+2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Advanced Techniques for Fixing a Wet iPhone
+
+ The simplest and probably safest method to save a wet iPhone is to let it dry out naturally. But there are a couple of advanced options you can try to speed up the process:
+
+1. **Silica gel packets.** You know those little packets that come with some food and other products that warn you to not to eat them? They absorb moisture. If you can get your hands on enough of them to cover your wet iPhone, they help suck out moisture. Getting enough may be a challenge—try hardware, art supply, or craft stores—but they're a great option.
+2. **Put it in rice.** This is the most famous technique (though not necessarily the best). Get a ziplock bag big enough to hold the wet iPhone or iPod and some rice. Re-insert the SIM card, put the device in the bag, and fill most of the bag with uncooked rice. Leave it in the bag for a couple of days. The rice should draw the moisture out of the device. Many a wet iPhone has been saved this way. Just watch out for pieces of rice getting inside the phone.  
+ Don't use enriched rice. It can leave dust behind that can get into your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Try This Only If You're Desperate to Fix Your Wet iPhone
+
+ If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
+
+1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
+ This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Try the Experts on Saving a Wet iPhone
+
+ Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
+
+1. **Try a repair company.** If none of these tactics work, there are[iPhone repair](https://www.lifewire.com/repair-options-cracked-iphone-screen-2000276) companies that specialize in saving water-damaged iPhones. A little time at your favorite search engine can put you in touch with a number of good vendors.
+2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+## How to Check for Water Damage in a Used iPhone or iPod
+
+ If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
+
+ The moisture indicator is a small orange dot that appears in the headphone jack, Dock Connector, or SIM card slot. Check out [this Apple article to find the location of the moisture indicator](https://support.apple.com/en-us/109350) for your model.
+
+[The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+## Software Tips for Dealing with a Wet iPhone
+
+ After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
+
+* [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
+* [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Waterproof iPhones: iPhone 7 and Newer
+
+ Probably the easiest—but not the cheapest—way to save a wet iPhone is to get one that resists water damage in the first place.
+
+ The[iPhone 7 series models](https://www.lifewire.com/best-iphones-4045605) , iPhone 8 series, and[iPhone X](https://www.lifewire.com/iphone-x-4150706) are all water resistant. They have [an IP67 rating](http://www.trustedreviews.com/opinions/what-is-ip68-ip-ratings-explained) , meaning they can survive being in up to 3.3 feet (1 meter) of water for up to 30 minutes without damage.
+
+ Even better,[the iPhone XS series and XR](https://www.lifewire.com/iphone-xs-xs-max-and-xr-4175281) ,[iPhone 11 series](https://www.lifewire.com/iphone-11-vs-iphone-11-pro-4770054) , and[iPhone 12 series](https://www.lifewire.com/iphone-12-news-5078515) have IP68 waterproofing. That means they can go into up to 2, 4, and 6 meters of water, respectively, for 30 minutes without damage.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ptimal-lens-selection-for-smooth-vlogging-experience/"><u>[New] Optimal Lens Selection for Smooth Vlogging Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ultimate-index-ranked-6-fb-lite-downloads/"><u>[New] Ultimate Index  Ranked 6 FB Lite Downloads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-every-word-in-meetings-the-top-10-free-recorders-for-slack-for-2024/"><u>[Updated] Capture Every Word in Meetings - The Top 10 Free Recorders for Slack for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-performance-desktops/"><u>[Updated] High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-game-capture-a-guide-to-using-obs/"><u>[Updated] In 2024, Mastering Game Capture  A Guide to Using OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quitting-linkedin-how-to-close-your-account-properly/"><u>[Updated] Quitting LinkedIn  How To Close Your Account Properly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-reclaim-lost-facebook-watch-button/"><u>[Updated] Reclaim Lost Facebook Watch Button</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>[Updated] Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unbeatable-5-photo-backdrop-switchers-for-x8-series/"><u>[Updated] Unbeatable 5 Photo Backdrop Switchers for X/8 Series</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-games-a-guide-to-options-other-than-game-bar/"><u>2024 Approved  Capturing Games  A Guide to Options Other Than Game Bar</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-personalizing-ps-sound-the-complete-guide-for-gamers/"><u>2024 Approved  Personalizing PS Sound  The Complete Guide for Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-next-big-apple-announcement-essential-info-you-need-to-know/"><u>Anticipating the Next Big Apple Announcement – Essential Info You Need to Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-of-the-best-professional-animation-software-for-mac-and-windows/"><u>Best of the Best Professional Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/clearsnap-for-windows-quick-and-clean-shots/"><u>ClearSnap for Windows  Quick & Clean Shots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-running-chkdsk-for-error-free-drives-in-windows/"><u>Comprehensive Tutorial: Running ChkDsk for Error-Free Drives in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-chromecast-to-your-fire-stick-a-comprehensive-guide/"><u>Connecting Chromecast to Your Fire Stick - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-engaging-channels-using-tubebuddys-framework/"><u>Crafting Engaging Channels Using TubeBuddy's Framework</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-oled-the-mechanics-of-organic-light-emitting-diodes-explained/"><u>Demystifying OLED: The Mechanics of Organic Light Emitting Diodes Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-ai-chatbot-options-beyond-chatgpt/"><u>Discover the Best AI Chatbot Options Beyond ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722895533729-discover-the-future-with-samsungs-galaxy-z-fold-6-unveiling-price-expected-debut-date-and-feature-checklist/"><u>Discover the Future with Samsung's Galaxy Z Fold 6: Unveiling Price, Expected Debut Date & Feature Checklist.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-diy-project-crafting-a-movie-lovers-dorm-room-theater-without-wires/"><u>Easy DIY Project: Crafting a Movie Lover's Dorm Room Theater Without Wires</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-on-selecting-an-ideal-surge-protector-for-electronic-devices/"><u>Essential Tips on Selecting an Ideal Surge Protector for Electronic Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-tackle-the-problem-of-a-lost-bootmgr-file/"><u>Expert Strategies to Tackle the Problem of a Lost BOOTMGR File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-restore-incoming-call-functionality-on-your-samsung-galaxy-watch/"><u>Expert Tips to Restore Incoming Call Functionality on Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-metro-by-t-mobile-boundaries-and-benefits-of-their-wireless-roaming-agreement/"><u>Exploring Metro by T-Mobile: Boundaries and Benefits of Their Wireless Roaming Agreement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-email-information-best-practices-and-tips/"><u>Finding Email Information - Best Practices and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-with-verizons-latest-smartphone-trade-in-deals/"><u>Get Ahead with Verizon's Latest Smartphone Trade-In Deals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-your-ideal-phone-case/"><u>How to Choose Your Ideal Phone Case</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-a-non-responsive-youtube-experience-solutions-explained/"><u>How to Fix a Non-Responsive YouTube Experience – Solutions Explained</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-swap-out-your-logitech-mouses-original-receiver-for-another-one/"><u>How to Swap Out Your Logitech Mouse's Original Receiver for Another One</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-viewers-of-your-youtube-content-a-comprehensive-guide/"><u>Identifying Viewers of Your YouTube Content: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-save-memories-webcam-recordings-in-vlc-format/"><u>In 2024, Capture & Save Memories  Webcam Recordings in VLC Format</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-tech-efficient-screen-recording-methods-on-dell/"><u>In 2024, Navigating Tech  Efficient Screen-Recording Methods on Dell</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-nord-n30-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus Nord N30 5G Phone Network-Ready</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-media-playback-the-best-way-to-view-movies-and-shows-on-apple-tv-using-vlc/"><u>Mastering Media Playback: The Best Way to View Movies and Shows on Apple TV Using VLC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-twitter-effective-strategies-to-boost-your-follower-count/"><u>Mastering Twitter: Effective Strategies to Boost Your Follower Count</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-common-hurdles-effortless-fixes-for-your-netflix-app-on-lg-screens/"><u>Overcoming Common Hurdles: Effortless Fixes for Your Netflix App on LG Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-no-signal-problem-a-step-by-step-guide-for-your-xbox-one/"><u>Solving the 'No Signal' Problem: A Step-by-Step Guide for Your Xbox One</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speculation-on-apples-new-mac-mini-m4-forecasted-price-tag-launch-window-and-thorough-tech-overview/"><u>Speculation on Apple's New Mac Mini (M4): Forecasted Price Tag, Launch Window & Thorough Tech Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722872982469-step-by-step-guide-disabling-the-security-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling the Security Pin on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-30-essential-gmail-shortcut-keys-you-must-know/"><u>Top 30 Essential Gmail Shortcut Keys You Must Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722842968224-top-rated-ipad-offers-just-in-time-grab-yours-today/"><u>Top-Rated iPad Offers Just in Time: Grab Yours Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-disappearing-dark-mode-on-facebook-expert-tips-and-tricks/"><u>Troubleshooting Disappearing Dark Mode on Facebook: Expert Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-why-wont-my-mac-recognize-my-secondary-screen/"><u>Troubleshooting: Why Won't My Mac Recognize My Secondary Screen?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-off-rapid-point-and-click-features-a-guide-for-mac-users/"><u>Turn Off Rapid Point-and-Click Features: A Guide for Mac Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/k-immersive-worlds-with-youtubes-top-10-vr-videos-for-2024/"><u>Unlock Immersive Worlds with YouTube's Top 10 VR Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-to-effective-imagery-discovery-on-facebook-platforms/"><u>Unlocking the Secrets to Effective Imagery Discovery on Facebook Platforms</u></a></li>
+<li><a href="https://win-forum.techidaily.com/web-panels-get-a-boost-with-vivaldi-66-now-including-support-for-chrome-extensions/"><u>Web Panels Get a Boost with Vivaldi 6.6: Now Including Support for Chrome Extensions</u></a></li>
+</ul></div>
