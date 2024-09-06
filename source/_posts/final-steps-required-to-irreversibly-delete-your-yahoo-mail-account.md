@@ -1,0 +1,177 @@
+---
+title: Final Steps Required to Irreversibly Delete Your Yahoo Mail Account
+date: 2024-09-05T11:49:08.734Z
+updated: 2024-09-06T11:49:08.734Z
+categories:
+  - BestProducts
+description: This Article Describes Final Steps Required to Irreversibly Delete Your Yahoo Mail Account
+excerpt: This Article Describes Final Steps Required to Irreversibly Delete Your Yahoo Mail Account
+thumbnail: https://www.lifewire.com/thmb/pGHFN2uMrxj8428Bt9kR8WFYmZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-terminating-yahoo-account-57f6b3c05f9b586c355390ec.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Ultimate Troubleshooting Guide to Addressing and Repairing WHEA Errors on PCs
+ The Windows Hardware Error Architecture (WHEA) uncorrectable error is a Windows[stop code](https://www.lifewire.com/what-is-a-stop-code-2625685) displayed on a[blue screen](https://www.lifewire.com/blue-screen-of-death-bsod-2625816) . When this error occurs, your computer will typically compile some diagnostic data then reset. If the root problem persists, your computer will eventually crash again with the same WHEA uncorrectable error message.
+
+ WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How the WHEA Uncorrectable Error Appears
+
+ When this error occurs, you'll usually see a message like one of these:
+
+* Your PC ran into a problem and needs to restart. We're just collecting some error info, and then we'll restart for you.  
+ If you'd like to know more, you can search online for this error: WHEA\_UNCORRECTABLE\_ERROR
+* A problem has been detected, and Windows has been shut down to prevent damage to your computer.  
+ WHEA\_UNCORRECTABLE\_ERROR
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Causes of the WHEA Uncorrectable Error
+
+ The WHEA uncorrectable error is a stop code displayed during blue screen crashes and is usually due to hardware failure. A failing hard drive, defective memory, improperly seated CPU, and a variety of other hardware issues can all result in a WHEA uncorrectable error.
+
+ In addition to faulty hardware, this error message can also result from driver conflicts and missing Windows updates that cause hardware to work or not work in unexpected ways.
+
+ In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Fix a WHEA Uncorrectable Error
+
+ Since most WHEA uncorrectable errors are caused by hardware failure, fixing this error usually involves tracking down the problem component and replacing it. However, the best place to start is on the software end because that's easier and less expensive.
+
+ In general, you'll want to start by checking for Windows and driver updates, then running checks on components like your hard drive and memory.
+
+1. [Use Windows Update to make sure that your system is up to date](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . If you don't have automatic updates turned on or an automatic update failed for some reason, you might be missing a crucial patch. To make sure you're all up to date, type "**Windows Update** " into your taskbar search field.  
+ If you require any updates, you'll have the option to install them. You can also select**Check for updates** to be sure.
+2. Physically inspect your computer hardware. You may have a physical defect or failure in one of your hardware components. Some things to look for include whether your cooling system is hooked up and functional, your RAM is securely seated in place, components like your CPU haven't come loose, and everything is securely connected.  
+ Don't touch anything inside your computer unless you're using an anti-static bracelet.
+3. [Make sure your drivers are up to date](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) . Driver conflicts represent one of the most common causes of the WHEA uncorrectable error. If you're having a driver problem, it can be challenging to track down exactly which driver needs an update.  
+ Use this[list of free driver updater tools](https://www.lifewire.com/free-driver-updater-tools-2619206) for some much-needed assistance.
+4. [Use System Restore to undo any recent changes to your computer](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you cannot track down the change that causes your system to start experiencing WHEA uncorrectable errors, a system restore may fix the problem. It's a utility that allows you to restore your system to an earlier state, which effectively undoes any changes made in the meantime.  
+ If you try steps 1 & 2 above before you try this step, you may lose any updates you may have installed since, presumably, the restore point you use will be before these updates.
+5. [Check for hard drive issues with the Error Checking utility](https://www.lifewire.com/how-to-scan-a-hard-drive-using-error-checking-2624497) . Since the WHEA uncorrectable error can be caused by faulty hardware, running the Error Checking utility may help point you to the root cause of your problem. This utility works a lot like chkdsk, and it will let you know if there are any problems with your hard drive.  
+ You can also use[chkdsk](https://www.lifewire.com/chkdsk-command-2625838) if you prefer. It doesn't have a graphical interface like the Error Checking utility, but it does provide a lot of additional options.
+6. [Use a free memory diagnostic tool](https://www.lifewire.com/free-memory-test-programs-2626178) . Faulty[RAM/memory](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) is another hardware issue that can cause the WHEA uncorrectable error, and the easiest way to check for this is with a free memory diagnostic tool. If one of these tools says you have bad memory,[replacing your RAM](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) may eliminate your WHEA uncorrectable error.
+7. [Disable overclocking in BIOS or UEFI](https://www.lifewire.com/bios-settings-831400) . To easily[access your system BIOS](https://www.lifewire.com/how-to-enter-bios-2624481) or[UEFI](https://www.lifewire.com/unified-extensible-firmware-interface-833069) to undo any overclocking changes you've made, type "**Settings** " into your taskbar search field, then navigate to**Update & Security** \>**Recovery** \>**Advanced startup** \>**Restart now** .  
+ The restart process will start. Select**Troubleshoot** \>**Advanced options** \>**UEFI Firmware Settings** . If your computer uses BIOS instead of UEFI, these options will be slightly different.  
+ Your computer will restart and automatically open UEFI or BIOS. Navigate to the overclocking section, and disable all overclocking.  
+ This fix only applies if your system has been overclocked. If you bought your computer new and never overclocked it, this fix doesn't apply.
+8. [Reset Windows as a last resort](https://www.lifewire.com/reset-this-pc-complete-walkthrough-2624538) . When all else fails, reset Windows. It's an irreversible process that essentially reinstalls Windows from scratch and gives you a clean slate.  
+ If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Other Blue Screen Problems Like the WHEA Uncorrectable Error
+
+ The WHEA uncorrectable error is just one of many errors that can cause Windows to display the blue screen of death. If you're experiencing blue screen issues, we have a[complete list of blue screen error codes](https://www.lifewire.com/blue-screen-error-codes-4065576) that can help you get to the bottom of your problem.
+
+ We also have a general[guide to fixing the blue screen of death](https://www.lifewire.com/how-to-fix-a-blue-screen-of-death-2624518) that may be some assistance.
+
+ FAQ
+
+* How do I fix a "system thread exception not handled" error in Windows?  
+ You'll need to[boot into safe mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) and use the Windows log to find a faulty driver. Press**Windows key + R** and type**eventvwr** in the**Run** dialog box. In the**Windows Logs** menu, select**System** . Find a log labeled**system\_thread\_exception\_not\_handled** , a nd select it to find the faulty driver.
+* How do I fix the "your clock is ahead" error in Windows?  
+ Win 10 and 11: Go to the taskbar, select the date and time, and choose**Date and Time Settings** . Turn on**Set Time Automatically** . In older Windows versions, choose the**date and time** on the taskbar and select**Internet Time** \>**Change Settings** . Check**Synchronize with an Internet time server** and select**time.windows.com** \>**Update** **Now** \>**OK** .
+* How do I fix error 0x80004005 in Windows 10?  
+ To[fix error 0x80004005 in Windows 10](https://www.lifewire.com/how-to-fix-error-code-0x80004005-4689559) , try[running the Windows Update troubleshooter](https://support.microsoft.com/help/4027322/windows-update-troubleshooter) . If this doesn't work, manually delete the files in the Windows Update folder, and run Windows Update again. You can also try deleting temporary files, disabling Windows Defender, and disabling Outlook mail notifications.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/onvenient-cornerstone-building-your-online-channel-anywhere-and-everytime-for-2024/"><u>[New] Convenient Cornerstone  Building Your Online Channel, Anywhere & Everytime for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-makeovers-made-easy-top-10-online-tools-for-artists-for-2024/"><u>[Updated] Channel Makeovers Made Easy - Top 10 Online Tools for Artists for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>[Updated] In 2024, Masterclass  10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unlocking-organic-growth-your-afb-playbook/"><u>[Updated] In 2024, Unlocking Organic Growth  Your AFB Playbook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286137277-dvd/"><u>【すぐに解決策】あなたがかつて楽しんで鑑賞していたDVDが、今は何故見ることが出来なくなったのかとその対策</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-how-to-free-fix-a-corrupted-mp4-video-file-on-pc-or-mac-step-by-step-guide/"><u>1. How to Free Fix a Corrupted MP4 Video File on PC or Mac - Step by Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-faciles-pasos-para-cambiar-de-formato-desde-ts-a-mp4-sin-perder-calidad/"><u>10 Fáciles Pasos Para Cambiar De Formato Desde .TS a .MP4 Sin Perder Calidad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-perfect-memos-through-sound-waves/"><u>2024 Approved  Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://techtrends.techidaily.com/digiarty-software-inc/"><u>公開された Digiarty Software, Inc. のプライベート・セキュリティ・ポリシー:デジタルプライバシーに関する厳格なガイドライン</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-wmv-mov/"><u>無傷で高品質に変換可能な動画方法とソフトウェア解説 - MP4, WMV, MOV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wmvmp4/"><u>応用無料！WMV形式をMP4にシームレス変換するコツ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginner-to-professional-ultimate-list-of-top-video-editing-tools-for-enhancing-your-youtube-content/"><u>Beginner-to-Professional: Ultimate List of Top Video Editing Tools for Enhancing Your YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-avi-en-mkv-gratuitement-le-guide-ultime-avec-vlc-et-handbrake/"><u>Convertir AVI en MKV Gratuitement : Le Guide Ultime Avec VLC Et HandBrake</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-intel-hd-iris-graphics-drivers-for-windows-10-and-11-step-by-step-guide/"><u>Download & Update Intel HD / Iris Graphics Drivers for Windows 10 and 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-cloning-guide-transferring-content-from-dvds-to-your-pc-using-windows-version-11-10-and-earlier/"><u>DVD Cloning Guide: Transferring Content From DVDs to Your PC Using Windows (Version 11, 10 & Earlier)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725284997834-dvd/"><u>DVDからスマートフォンへの自由転送手順：具体的な解決策</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-dvd-format-transformation-using-the-powerful-platinum-version-of-winx-dvd-ripper/"><u>Effortless DVD Format Transformation Using the Powerful Platinum Version of WinX DVD Ripper</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-mov-to-mp3-conversion-guide-top-free-tools-and-tutorials-for-mac-users/"><u>Effortless MOV-to-MP3 Conversion Guide: Top Free Tools & Tutorials for Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-transformation-with-digiarty-software-dvd-to-videofromat-converter/"><u>Effortless Transformation with Digiarty Software - DVD to Videofromat Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/erste-auswahl-der-besten-kostenlosen-dvd-ripper-apps-fur-mac-os-2023-versionen-mit-funktion/"><u>Erste Auswahl Der Besten Kostenlosen DVD-Ripper Apps Für Mac OS 2023 - Versionen Mit Funktion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-reviews-and-side-by-side-comparisons-of-free-software-choosing-between-winx-dvd-ripper-and-handbrake/"><u>Expert Reviews & Side-by-Side Comparisons of Free Software: Choosing Between WinX DVD Ripper and Handbrake</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-avi-file-error-on-plex-why-isnt-it-recognizing-the-format/"><u>Fix Avi File Error on PLEX: Why Isn't It Recognizing the Format?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-add-flv-files-into-adobe-premiere-pro-easy-steps/"><u>How To Add FLV Files Into Adobe Premiere Pro - Easy Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pioneering-the-use-of-film-in-educational-methodologies/"><u>In 2024, Pioneering the Use of Film in Educational Methodologies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-gadget-analysis-by-toms-hardware/"><u>In-Depth Gadget Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-free-art-pages-for-easy-no-cost-illustrations/"><u>Leading Free Art Pages for Easy, No-Cost Illustrations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-resolution-adjustments-a-step-by-step-ffmpeg-walkthrough/"><u>Mastering Resolution Adjustments: A Step-by-Step FFmpeg Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-winx-dvd-with-digiarty-software-comprehensive-faq-answers-for-users/"><u>Mastering the WinX DVD with Digiarty Software: Comprehensive FAQ Answers for Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-compression-techniques-how-to-minimize-file-size-without-sacrificing-quality/"><u>MP4 Compression Techniques: How to Minimize File Size Without Sacrificing Quality</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-learning-how-to-create-luts-with-luts-generator/"><u>New 2024 Approved Learning How to Create LUTs with LUTs Generator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-copy-your-own-versions-of-the-classic-films-top-gun-original-and-remaster/"><u>Step-by-Step Guide: How to Copy Your Own Versions of the Classic Films, Top Gun (Original and Remaster)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-your-entire-photo-collection-from-iphones-up-to-model-15/"><u>Step-by-Step Guide: Removing Your Entire Photo Collection From iPhones Up to Model 15</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-mov-to-mp4-conversion-on-macos-systems/"><u>Step-by-Step Tutorial for MOV to MP4 Conversion on macOS Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/superior-h265-codec-converter-for-windows-11-and-macos-the-ultimate-guide/"><u>Superior H.265 Codec Converter for Windows 11 & macOS: The Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-sound-design-editing-your-podcasts-in-garageband-for-2024/"><u>The Ultimate Sound Design  Editing Your Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-dji-4k-video-editing-software-compared-best-picks-for-windows-and-mac-in-202n/"><u>Top-Ranking DJI 4K Video Editing Software Compared: Best Picks for Windows and Mac in 202N</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-videos-seamlessly-with-digiartys-specialized-dvdvideo-conversion-tool/"><u>Transform Your Videos Seamlessly with Digiarty's Specialized DVD/Video Conversion Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-best-6-audio-transformers-free-tools-for-windows-11-and-macos-users/"><u>Ultimate Guide: Best 6 Audio Transformers - Free Tools for Windows 11 & macOS Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-ultra-hd-with-8k-resolution-and-uhd-tv-technology/"><u>Understanding Ultra HD with 8K Resolution and UHD TV Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wie-kopiert-man-eine-urheberrechtsgesetzlich-geschutzte-dvd-drei-losungen-erklart/"><u>Wie Kopiert Man Eine Urheberrechtsgesetzlich Geschützte DVD? Drei Lösungen Erklärt</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvideo-ai-per-il-miglioramento-e-la-riparazione-di-video-ad-alta-risoluzione-4k8k10k/"><u>WinxVideo AI per Il Miglioramento E La Riparazione Di Video Ad Alta Risoluzione (4K/8K/10K)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-optimization-for-new-vloggers-for-2024/"><u>YouTube Optimization for New Vloggers for 2024</u></a></li>
+</ul></div>

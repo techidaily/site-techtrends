@@ -1,0 +1,135 @@
+---
+title: "The Student's Path to Cheap Entertainment: Tips on Scoring a YouTube Premium Deal"
+date: 2024-09-05T11:50:46.676Z
+updated: 2024-09-06T11:50:46.676Z
+categories:
+  - BestProducts
+description: "This Article Describes The Student's Path to Cheap Entertainment: Tips on Scoring a YouTube Premium Deal"
+excerpt: "This Article Describes The Student's Path to Cheap Entertainment: Tips on Scoring a YouTube Premium Deal"
+thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed2333f21b240bf9f3028949436.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Determining the Duration of a Mail.com Account – Key Factors and Lifespan
+ Mail can be an irreplaceable thing to lose. A Mail.com account can be easy to lose by mere inactivity. This applies to the free Mail.com accounts rather than the paid Premium Service. For the free service, you need to log in once every six months to keep it active. That period is subject to change.
+
+ After a certain time of inactivity, a Mail.com account will be closed and deleted: any emails in it not backed-up elsewhere are irreversibly lost. You don't need to send messages from a Mail.com account to keep it, of course, or receive emails even; logging into the address and account is enough.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Know When Your Mail.com Account Will Expire From Inactivity
+
+ A Mail.com account will close automatically—and emails in it will be deleted after six months of inactivity. That period is subject to change. In the past, the period was 12 months. You need to check the current terms of agreement for Mail.com. The inactivity clause is under 2\. Term and Termination, clause 2.4.
+
+ If you use the Premium Service from Mail.com, you are not subject to the inactivity termination for the period for which you are paid. However, your account will revert to a free account if you don't stay current on your payments or renewals. That may happen if the credit card you've stored for automatic renewals has expired or been reissued, and you may have ignored notifications about it. You can easily get into a vicious circle of not checking your Mail.com account or other accounts you have associated with it. When that happens, you may never see the warning about your account reverting to the free version.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Can You Keep Your Mail.com Account Active?
+
+ You can keep your account active simply by logging in. You can do that from webmail, using another email client such as[Thunderbird](https://www.lifewire.com/mozilla-thunderbird-review-1173071) or their mail app. You don't have to necessarily send or receive mail, but you need to perform a login at the least.
+
+ Because the terms of service for Mail.com can change at any time, it is wise to log in to your account every 30 days. While the current period is six months, it has changed over the years and is bound to change again to keep their storage costs lower and to delete inactive accounts.
+
+ If you set up the account simply to have an email address you can use for identification purposes, such as to have multiple[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) accounts, it can be easy to forget to keep your Mail.com account active. You will need to set up a reminder to log in every few months.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Deleting Your Account at Mail.com
+
+ You can choose to delete your Mail.com account yourself using their My Account menu. Select My Account from the Home screen. It is the icon that looks like a person's head and shoulders, near the bottom of the left-hand menu.
+
+ A consequence of losing an inactive account or deleting your account is that you have now lost the use of that email address. If you have listed it elsewhere and don't have alternate ways to be reached, you may have really messed things up. Be sure you have other ways to be reached.
+
+Was this page helpful?
+
+Thanks for letting us know!
+
+ Get the Latest Tech News Delivered Every Day
+
+[Subscribe](https://www.lifewire.com/#)
+
+Tell us why!
+
+ Other  Not enough details  Hard to understand
+
+ Submit
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-pip-chromes-full-screen-multi-tasking-guide/"><u>[New] Mastering PIP  Chrome's Full-Screen Multi-Tasking Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-virtual-exploration-a-tactical-approach/"><u>[New] The Art of Virtual Exploration  A Tactical Approach</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-the-secrets-to-earnings-on-youtube-shorts-for-2024/"><u>[New] Unlocking the Secrets to Earnings on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-best-terraria-map-for-viewers-to-find-treasure/"><u>[Updated] 2024 Approved  Top 5 Best Terraria Map for Viewers to Find Treasure</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-splitcam-review-for-2024/"><u>[Updated] SplitCam Review for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-offizielle-winx-dvd-ripper-platin-gutscheine-beste-rabatte-finden/"><u>1. Offizielle WinX DVD Ripper-Platin-Gutscheine: Beste Rabatte Finden!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-windows-11-dvd-ripper-ultimate-free-software-for-converting-dvds-to-avi-mp4-and-more-on-android-iphone-ipad/"><u>1. Windows 11 DVD Ripper: Ultimate Free Software for Converting DVDs to AVI, MP4 & More on Android, iPhone, iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvid-ai/"><u>如何利用WinxVid AI提高影片品質，達到最佳效果</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-202-cuz-free-copy-software/"><u>未来前卫的DVD/主要电影复制方法： 202 Cuz Free Copy Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-premium-h265-convertors-optimized-for-desktop-and-mobile-use/"><u>Best Premium H265 Convertors : Optimized for Desktop and Mobile Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/burn-your-mkv-videos-into-a-perfectly-playable-dvd-using-these-3-free-tools/"><u>Burn Your Mkv Videos Into a Perfectly Playable DVD Using These 3 Free Tools!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-your-digital-world/"><u>Capturing Your Digital World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-graviter-vers-des-conversions-de-dvd-en-h265-a-partir-de-fichiers-blu-ray-sans-cout/"><u>Comment Graviter Vers Des Conversions De DVD en H.265 À Partir De Fichiers Blu-Ray Sans Coût ?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78t-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y78t</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-your-xbox-one-gameplay-converting-43-content-to-wide-screen-169-format/"><u>Expanding Your Xbox One Gameplay: Converting 4:3 Content to Wide-Screen 16:9 Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/grundliche-anleitung-zur-dvd-in-avi-konvertierung-best-practices-und-tools-des-jahres-2023/"><u>Gründliche Anleitung Zur DVD in AVI Konvertierung: Best Practices Und Tools Des Jahres 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-meditative-tunes-top-free-sounds-to-unwind-and-relax/"><u>In 2024, Meditative Tunes – Top Free Sounds to Unwind & Relax</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/iphone-scan-and-convert-documents-with-ocr-technology-perfectpdf-tools/"><u>IPhone Scan & Convert Documents with OCR Technology - PerfectPDF Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-video-comment-utiliser-le-convertisseur-hevc-et-4k-avec-des-dossiers-de-conversion-completes/"><u>Masterclass Vidéo: Comment Utiliser Le Convertisseur HEVC Et 4K Avec Des Dossiers De Conversion Complètes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/nexus-nightlife-virtual-theater-realm/"><u>Nexus Nightlife  Virtual Theater Realm</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>Removing Obstacles  A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-to-tiktoks-post-upload-quality-issues-revolutionary-fixes-and-insights/"><u>Say Goodbye to TikTok's Post-Upload Quality Issues: Revolutionary Fixes and Insights!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-importing-your-snapchat-images-from-iphone-to-desktop/"><u>Step-by-Step Guide: Importing Your Snapchat Images From iPhone to Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategie-fai-da-te-per-il-clonaggio-e-la-preservazione-dei-disco-ottici-in-ambiente-windowsmac-os/"><u>Strategie Fai-Da-Te per Il Clonaggio E La Preservazione Dei Disco Ottici in Ambiente Windows/Mac OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streaming-dickens-classic-on-smartphones-guide-to-enjoy-a-christmas-carol-on-apple-and-android-gadgets/"><u>Streaming Dickens' Classic on Smartphones: Guide to Enjoy 'A Christmas Carol' On Apple and Android Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-apps-fur-die-verwaltung-und-ubertragung-ihrer-ios-daten-aktualisierte-liste/"><u>Top 10 Apps Für Die Verwaltung Und Übertragung Ihrer iOS-Daten - Aktualisierte Liste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-methods-for-high-quality-dvd-cloning-on-a-mac-maintain-original-fidelity/"><u>Top 4 Methods for High-Quality DVD Cloning on a Mac - Maintain Original Fidelity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-handbrake-freezes-when-converting-multiple-files-on-desktop-systems/"><u>Troubleshooting Handbrake Freezes When Converting Multiple Files on Desktop Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unmissable-holiday-treasures-discover-the-best-6-christmas-escapade-flicks-for-a-memorable-viewing-experience/"><u>Unmissable Holiday Treasures: Discover the Best 6 Christmas Escapade Flicks for a Memorable Viewing Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/viewer-guide-how-to-enable-and-use-plex-with-mpeg-transport-streams-vob/"><u>Viewer Guide: How to Enable and Use Plex with MPEG Transport Streams (VOB)</u></a></li>
+</ul></div>

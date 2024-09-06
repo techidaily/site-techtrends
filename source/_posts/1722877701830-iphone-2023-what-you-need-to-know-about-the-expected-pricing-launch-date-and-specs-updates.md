@@ -1,7 +1,7 @@
 ---
 title: IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates!
-date: 2024-09-01T18:50:22.704Z
-updated: 2024-09-02T18:50:22.704Z
+date: 2024-09-05T11:41:07.284Z
+updated: 2024-09-06T11:41:07.284Z
 categories:
   - BestProducts
 description: This Article Describes IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates!
@@ -21,6 +21,12 @@ thumbnail: https://www.lifewire.com/thmb/4JF7qUBTJD5y8_t0HlqDGBrtOGs=/400x300/fi
 
  The iPhone 17 is the 2025 model of the iPhone, the successor to the not-yet-released[iPhone 16](https://www.lifewire.com/iphone-16-news-and-rumors-7111749) . It's expected to deliver a major screen upgrade, higher-resolution cameras, faster processors, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Will iPhone 17 Be Released?
 
  The iPhone 17 release date has not been announced, but it's likely to be in Fall 2025\. Apple is very consistent with its[iPhone release dates](https://www.lifewire.com/when-does-new-iphone-come-out-1999740) :
@@ -37,9 +43,6 @@ thumbnail: https://www.lifewire.com/thmb/4JF7qUBTJD5y8_t0HlqDGBrtOGs=/400x300/fi
 
 A September 2025 release date seems like a lock.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -54,6 +57,12 @@ A September 2025 release date seems like a lock.
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPhone 17 Specs & Features
 
  The iPhone 17 is rumored to introduce some major upgrades to its screen, big improvements to the cameras, faster processors, and more. Here's a summary of what's rumored:
@@ -67,6 +76,12 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -78,24 +93,27 @@ A September 2025 release date seems like a lock.
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Camera
 
  Rumors suggest at least three key improvements to the iPhone 17 series cameras.
@@ -108,19 +126,31 @@ A September 2025 release date seems like a lock.
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Latest News About iPhone 17
 

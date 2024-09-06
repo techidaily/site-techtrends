@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies When Your DVD/BD/CD Drive Stops Working Properly
-date: 2024-09-01T18:52:22.985Z
-updated: 2024-09-02T18:52:22.985Z
+date: 2024-09-05T11:41:05.705Z
+updated: 2024-09-06T11:41:05.705Z
 categories:
   - BestProducts
 description: This Article Describes Effective Remedies When Your DVD/BD/CD Drive Stops Working Properly
@@ -9,6 +9,12 @@ excerpt: This Article Describes Effective Remedies When Your DVD/BD/CD Drive Sto
 thumbnail: https://www.lifewire.com/thmb/MI98oDGxa6wuS4XKftDexFV5RDE=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/a-cd-ejecting-out-of-a-laptop-80486808-577ed8783df78c1e1f11b610.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Restoring Erased Mobile Numbers on Your Android Device: Proven Methods
 ### What to Know
 
@@ -18,6 +24,12 @@ thumbnail: https://www.lifewire.com/thmb/MI98oDGxa6wuS4XKftDexFV5RDE=/540x405/fi
 
  This article will walk you through restoring deleted or lost phone numbers on Android and Samsung devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Recover Deleted Numbers on Android
 
  You signed in to your Google account when you first up your Android. By default, your contacts sync with your Google account. Any contacts you delete will go to the Google Contacts trash folder. Here's how to recover a deleted contact or phone number from a computer or your phone:
@@ -27,14 +39,41 @@ thumbnail: https://www.lifewire.com/thmb/MI98oDGxa6wuS4XKftDexFV5RDE=/540x405/fi
 2. Select**Trash** from the menu on the left. If you don't see it, select the**three-line** menu button at the top left.  
 ![The Trash menu item highlighted in Google Contacts.](https://www.lifewire.com/thmb/OMw5rrBEn05YHe01cLmVPj9hf7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FindDeletedPhoneNumbersonAndroid-annotated-a1dd410eec2a44f38b1ddb67b4dc14dd.jpg)  
  To do this from the mobile app, go to**Fix & manage** \>**Trash** .
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Select a contact from the list.  
 ![A deleted contact highlighted in Google Contacts.](https://www.lifewire.com/thmb/EEQuRT7rucX1CfF5ZU4cm89v6k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-FindDeletedPhoneNumbersonAndroid-annotated-4b1f46470012453b893ee092d52f7fb9.jpg)  
  Need help finding what you're after? Contacts sent to the trash are permanently deleted every 30 days so that you might have missed your opportunity. Additionally, if your phone hasn't been backing up your contacts, deleted entries will not appear here.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
@@ -49,18 +88,9 @@ thumbnail: https://www.lifewire.com/thmb/MI98oDGxa6wuS4XKftDexFV5RDE=/540x405/fi
 1. Go to**Contacts** \>**Menu** \>**Manage Contacts.**  
 ![The Samsung Contacts app with the menu and 'Manage contacts' highlighted](https://www.lifewire.com/thmb/hGdu49Zvk3-BMwVJhDJRUg3hUkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers06-ac12a6b7ae344c169bc47cddcde5b324.jpg)
 2. Tap**Import or export contacts** \>**Import** . If you have any contacts stored on your SIM card or your internal memory, you'll see those sources in the list.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the source you want to retrieve the contacts from, then tap**Import** .  
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Can I Restore Deleted Numbers on Android Without a Computer?
 
  Using your phone or tablet is the best way to get deleted numbers back. You can restore deleted contacts you've already backed up through the methods outlined above. While some desktop apps can do the job, too, possibly even better than the built-in methods, they usually cost.

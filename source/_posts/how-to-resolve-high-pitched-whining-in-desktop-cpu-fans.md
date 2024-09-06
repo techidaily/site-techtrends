@@ -1,7 +1,7 @@
 ---
 title: How to Resolve High-Pitched Whining in Desktop CPU Fans
-date: 2024-09-01T18:51:55.122Z
-updated: 2024-09-02T18:51:55.122Z
+date: 2024-09-05T11:41:06.044Z
+updated: 2024-09-06T11:41:06.044Z
 categories:
   - BestProducts
 description: This Article Describes How to Resolve High-Pitched Whining in Desktop CPU Fans
@@ -9,11 +9,29 @@ excerpt: This Article Describes How to Resolve High-Pitched Whining in Desktop C
 thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fix-a-computer-fan-thats-loud-or-making-noise-65d3f7532fe94b3380c92f90c40ecded.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -27,6 +45,12 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
 3. Right-click or tap-and-hold the optical drive and choose**Eject** from the menu that pops open.  
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
@@ -34,6 +58,12 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
  It sounds strange, yes, but most computer optical drives, including external ones and those you'll find in your game systems like Xbox and PlayStation, have a tiny pinhole that's designed as a last resort method to get the drive bay open.
@@ -54,7 +84,16 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## No Luck? Here's What to Do Next
 
@@ -66,7 +105,10 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 

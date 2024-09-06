@@ -1,7 +1,7 @@
 ---
 title: "Don't Ignore Unlisted Numbers: Tips for Safely Rerouting Private Calls Back to You"
-date: 2024-09-01T18:54:34.940Z
-updated: 2024-09-02T18:54:34.940Z
+date: 2024-09-05T11:41:03.673Z
+updated: 2024-09-06T11:41:03.673Z
 categories:
   - BestProducts
 description: "This Article Describes Don't Ignore Unlisted Numbers: Tips for Safely Rerouting Private Calls Back to You"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Don't Ignore Unlisted Numbers: Tips for Safely 
 thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6ab330fc24fdad62a19d7e96.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don't Ignore Unlisted Numbers: Tips for Safely Rerouting Private Calls Back to You
 ### What to Know
 
@@ -18,6 +24,12 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  This article describes how to call a private number using five different methods.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Call a Private Number for Free With \*69
 
  Following an FCC mandate to allow private calling, telephone companies created a service called Last Call Return that automatically calls the last number that called your phone, whether or not the call was private.
@@ -32,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Using \*69 could make your problem worse. Some blocked calls are automated callers who want to confirm if your number is active. They intend to sell your number to other scammers, and by calling back, you are letting the system know it reached an active line.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Check Your Provider's Logs for Private Numbers
 
  Your telephone service provider should keep a log of your incoming and outgoing calls. To access this list, sign in to your account and look for a menu option under your line that indicates call history.
@@ -42,14 +51,20 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ![Billing and usage of phone contract showing a call log of calls received](https://www.lifewire.com/thmb/gfb4OsbEE3JplxnPm45hPmBOtlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/incoming_outgoing_calls-5b339731c9e77c0037fc1fa2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Sometimes the numbers of private callers are listed here, unmasked. To find the number, check the phone log on your phone to find the time the blocked call came in. Then, look online at the call log, sometimes under the billing and usage menu, for a match with the date and time.
 
  The length of time call records are kept varies with each phone carrier. Typically, these records are held for one to seven years and can be used in criminal investigations.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Find Out Who's Calling From a Private Number With Reverse Number Lookup
 
@@ -60,20 +75,23 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ![Screenshot of reverse phone lookup screen](https://www.lifewire.com/thmb/MVXJrVxE1C3iPceBiKRWJnsFngY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-06-26at8.35.56PM-5b32dc4ac9e77c0037cefcec.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You may need to pay to get a full report of who owns the private number, but it might be refundable if the service can't provide any helpful information.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Use a Service to Unblock Private Numbers
 
  Another way to call a private number is to pay for a service such as[TrapCall](https://www.trapcall.com/) . It's a tool that unmasks private and blocked callers. It can provide the phone number and the name the phone is registered to. It can also reveal the caller's address and offers a blocklist option to[block future calls](https://www.lifewire.com/top-call-blocking-app-for-smartphones-4050085) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Activate Call Tracing to Unblock Callers
 
  Some telephone providers offer a call-tracing service to end unwanted calls that are harassing, obscene, unlawful, or threatening. In most cases, to activate this service, press**\*57** or**#57** . Some phone providers offer this service for free, while others require a small monthly fee.

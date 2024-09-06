@@ -1,7 +1,7 @@
 ---
 title: Capturing Your Screen on a Logitech Keyboard - Easy Step-by-Step Instructions
-date: 2024-09-01T18:52:14.785Z
-updated: 2024-09-02T18:52:14.785Z
+date: 2024-09-05T11:41:05.807Z
+updated: 2024-09-06T11:41:05.807Z
 categories:
   - BestProducts
 description: This Article Describes Capturing Your Screen on a Logitech Keyboard - Easy Step-by-Step Instructions
@@ -20,6 +20,18 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
 [How to Get the Dell Military Discount](https://www.lifewire.com/dell-military-discount-5119182)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Sign Up for the Dell Student Discount
 
  Here's how to get set up with UNiDAYS so you can take advantage of the Dell student discount:
@@ -27,17 +39,26 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 1. Navigate to the[UNiDAYS website](https://www.myunidays.com/US/en-US) and select the menu icon indicated by three horizontal lines (**≡** ).  
 ![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
 2. Select**Join now** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
 3. Enter your email address, choose a password, then select**Join now** .  
 ![A screenshot of Unidays.](https://www.lifewire.com/thmb/Zld2fuMr3eQZQqJlraNVI2T_tbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays1-e239f02eff234f7ba45724f722b18638.JPG)
 4. Enter your school information, then select**Continue** .  
 ![A screenshot of the Unidays sign up process.](https://www.lifewire.com/thmb/7K0kVXrnI49EKcO66eJsPsLhrcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays2-ce804ce49a8d44f09fb00f328958f3dc.JPG)
 5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Your Dell Student Discount
 
  The Dell student discount uses UNiDAYS to generate single-use coupon codes. To take advantage of this, you need to use UNiDAYS to generate a code, then apply the code in your Dell shopping cart.
@@ -49,20 +70,35 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 ![The Redeem Online button](https://www.lifewire.com/thmb/Vow8xBAfY4hXPmMBojDj2t4Mn20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-dell-student-discount-4686335-e43e1b733ce347fbb0eb56898de05ad5.jpg)
 2. Select**Redeem Code** .  
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
 3. Copy your code, and select**Launch Website** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This code only works once, and it expires after a short amount of time.  
 ![The code field and Launch Website button](https://www.lifewire.com/thmb/4fBRfT7u0MHWjuei9jQVA_cB9UQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-dell-student-discount-4686335-540f566a5b1745848e8b2b86662e3959.jpg)
 4. On the Dell website, locate a laptop or desktop that you want to buy. When you reach the checkout page, enter your coupon code and verify your discount.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Who is Eligible For the Dell Student Discount?
 
@@ -74,9 +110,6 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
 
  Parents can't sign up for their children, so students younger than 17 are unable to use this discount even if they are enrolled at a qualifying school.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does the Dell Student Discount Get You?
 
  The Dell student discount typically provides a 10 percent discount on Dell products, in addition to whatever other deals Dell may be running at the time. This amount can change, so make sure to check UNiDAYS to see what the current offer is before making a decision.
@@ -84,8 +117,10 @@ thumbnail: https://www.lifewire.com/thmb/XhycCuENVbYbq8haj7e-aNMJYyM=/540x405/fi
  Coupon codes are generated through UNiDAYS and then applied in the shopping cart on Dell's site after verifying that you are a student. That means you will not see the discount reflected in prices on the Dell website prior to checkout.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How Does Dell Verify Student Enrollment?
 

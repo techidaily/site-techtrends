@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Green Cars: A Guide to BEV, PHEV, FCEV, and Hybrid Variants"
-date: 2024-09-01T18:51:36.939Z
-updated: 2024-09-02T18:51:36.939Z
+date: 2024-09-05T11:41:06.298Z
+updated: 2024-09-06T11:41:06.298Z
 categories:
   - BestProducts
 description: "This Article Describes The Evolution of Green Cars: A Guide to BEV, PHEV, FCEV, and Hybrid Variants"
@@ -9,12 +9,30 @@ excerpt: "This Article Describes The Evolution of Green Cars: A Guide to BEV, PH
 thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c879f75105867000ed51ea454.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Evolution of Green Cars: A Guide to BEV, PHEV, FCEV, and Hybrid Variants
 
  Electric vehicles come in a wide array of flavors, from all-electric battery electric vehicles (BEV) to gasoline-reliant hybrid-electric vehicles (HEV), with a whole rainbow of variations between. Some electric vehicles even rely on fuel cells or gasoline generators to provide electricity instead of powerful battery banks.
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Basic Breakdown 
 
 Julie Bang
@@ -44,7 +62,10 @@ monkeybusinessimages/iStock/Getty Images Plus
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
@@ -54,9 +75,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A hybrid car engine. 
 
 cipango27/iStock/Getty Images Plus
@@ -67,9 +85,6 @@ cipango27/iStock/Getty Images Plus
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
  Plug-in hybrid electric vehicles come in two flavors: parallel and series. The parallel type is usually just referred to as PHEV, while the series variation can be referred to as extended range electric vehicles (EREV).
@@ -82,9 +97,6 @@ cipango27/iStock/Getty Images Plus
 
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
 
 Boy\_Anupong/Moment/Getty
@@ -98,7 +110,10 @@ Boy\_Anupong/Moment/Getty
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fuel Cell Electric Vehicles 
 
@@ -109,7 +124,16 @@ Boy\_Anupong/Moment/Getty
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  HydroGen 3 Fuel Cell Minivan Engine. 
 
@@ -119,6 +143,12 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling of Tesla's Autonomous Cab Service: Pricing Info, Expected Debut, Specs + Rumors"
-date: 2024-09-01T18:50:24.077Z
-updated: 2024-09-02T18:50:24.077Z
+date: 2024-09-05T11:41:07.266Z
+updated: 2024-09-06T11:41:07.266Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling of Tesla's Autonomous Cab Service: Pricing Info, Expected Debut, Specs + Rumors"
@@ -9,6 +9,18 @@ excerpt: "This Article Describes Unveiling of Tesla's Autonomous Cab Service: Pr
 thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f668f4cb2a72d45c0fe37f64.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling of Tesla's Autonomous Cab Service: Pricing Info, Expected Debut, Specs + Rumors
 
  In This Article 
@@ -22,6 +34,18 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  Elon Musk has been talking for years about Tesla’s inevitable autonomous vehicle future. The Tesla Robotaxi, aka Cybercab, has been a featured player in that conversation and announced several times before as on the way. This self-driving taxi does seem to be inching closer to an official release, but details are still sparse. Here’s what we’ve gathered so far.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  When Will the Tesla Robotaxi Be Released? 
 
  Musk[ previously claimed that the Tesla Robotaxi would be on the market by 2020](https://www.cnn.com/2019/04/22/tech/tesla-robotaxis/index.html) , at Tesla’s first Autonomy Investor Day in 2020, and then[ pivoted to a 2024 production date](https://techcrunch.com/2023/09/12/tesla-robotaxi-concept-looks-like-a-two-seater-cybertruck/) . 
@@ -34,13 +58,16 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  In May stockholder meeting materials, there’s mention of a “purpose-built robotaxi expected to be demo’ed this year.” Based on recent comments on his X profile, Musk seems to confirm that the October event will unveil a prototype: "Requested what I think is an important design change to the front, and extra time allows us to show off a few other things."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  Though the Tesla Robotaxi unveiling happens sometime in October, we’re still probably several years away from a production-ready model.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Tesla Robotaxi Price Rumors 
 
  There was talk that Tesla would release a more affordable $25,000 electric vehicle (EV) for a wider consumer audience.
@@ -49,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
  Either way, we don’t know much about the cost of a Tesla Robotaxi. The Tesla Model 3 might offer some clues: With Full Self-Driving added, the Model 3 comes in at about $50,000.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  There’s no information about Tesla Robotaxi pre-ordering right now. 
@@ -59,7 +83,10 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
  In the event that Musk and Tesla provide details at the August unveiling, we’ll add everything we learn here.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tesla Robotaxi Features 
 
@@ -71,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ![Five views of the Tesla ride hailing app preview](https://www.lifewire.com/thmb/XfOPTS8UcMjMVRfXeu0pqU2wvNw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-ride-hailing-app-preview-4174be71b5f4423b85ce5395783d8056.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Preview of ride-hailing in the Tesla app. 
 
 Tesla
@@ -89,8 +113,10 @@ Tesla
 * Cybertruck-inspired bumper
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Tesla Robotaxi Specs and Hardware 
 
@@ -101,8 +127,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  We’ll probably know more about the design and feature set after August 8, so stay tuned.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Latest News About the Tesla Robotaxi 
 

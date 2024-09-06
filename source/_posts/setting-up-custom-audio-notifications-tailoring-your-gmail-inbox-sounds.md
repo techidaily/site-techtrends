@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Custom Audio Notifications: Tailoring Your Gmail Inbox Sounds"
-date: 2024-09-01T18:50:06.814Z
-updated: 2024-09-02T18:50:06.814Z
+date: 2024-09-05T11:41:07.484Z
+updated: 2024-09-06T11:41:07.484Z
 categories:
   - BestProducts
 description: "This Article Describes Setting Up Custom Audio Notifications: Tailoring Your Gmail Inbox Sounds"
@@ -9,7 +9,19 @@ excerpt: "This Article Describes Setting Up Custom Audio Notifications: Tailorin
 thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a8000cea452bed766d220fa39c3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Know
 
 * First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
@@ -34,22 +46,46 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
 6. Enter your email address once more into the field provided.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Does It Mean to Delete a Yahoo Mail Account?
 

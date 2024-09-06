@@ -1,7 +1,7 @@
 ---
 title: ホーンビー・ライト予想 - 数論的変形理論が複素多様体上のハミルトニアン系と同値であることを示した。
-date: 2024-08-30 23:19:53
-updated: 2024-09-02 11:24:13
+date: 2024-09-05T11:35:59.555Z
+updated: 2024-09-06T11:35:59.555Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14bebfbfd43367d29eb599c5ee29.jpg
@@ -11,8 +11,32 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 [Home](https://tools.techidaily.com/winxdvd/products/) \> [DVD](https://tools.techidaily.com/winxdvd/products/) \> [Convert DVD](https://tools.techidaily.com/winxdvd/products/)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ![WinX DVD Ripper Platinum icon](https://www.winxdvd.com/resource/../seoimg/icon2.png) [WinX DVD Ripper Platinum](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Upscale DVDs from SD resolutions to HD 720P, 1080P quality.
 * Rip DVDs with region codes, CSS, UOPs, bad sectors, 99 titles, new and old.
 * Backup old, new released, damaged, Japanese, 99-title DVDs.
@@ -26,6 +50,12 @@ thumbnail: https://thmb.techidaily.com/f71c5ff43307f6d2d17eee62ee317d6c80fb14beb
 
 ![rip dvd](https://www.winxdvd.com/resource/../seo-img/general-img/seobanner-dvd.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 _Here is the most complete information about DVD resolutions._
@@ -36,6 +66,12 @@ In this article, we delve into the world of DVD resolutions to uncover its intri
 
 ## Q1\. What is the Resolution of DVDs? 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Are DVDs in 480p, 720p, or 1080p?
 
 DVD resolution is the number of pixels displayed on the screen, typically expressed as width x height (e.g., 720x480). 
@@ -51,12 +87,24 @@ Both DVD resolutions are available in 4:3 and 16:9 aspect ratios. Besides standa
 
 ![DVD resolution vs 720p vs 1080p vs 4K](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-resolution.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Is DVD lower quality than Blu-ray?
 
 Yes. The maximum resolution of DVD are 720x480 pixels (NTSC) or 720x576 pixels (PAL), while Blu-ray offers much higher resolution of up to 1920x1080 pixels (Full HD) or even 3840x2160 pixels (4K Ultra HD). Blu-ray discs also support higher-quality audio formats, such as Dolby TrueHD and DTS-HD Master Audio, providing more immersive surround sound experiences compared to the compressed audio formats used in DVDs. 
 
 In addition, Blu-ray discs use more advanced video compression technologies, such as MPEG-4 AVC (H.264) or HEVC (H.265), allowing for higher-quality video with less compression artifacts compared to the MPEG-2 compression used in DVDs. Therefore, DVD is considered lower quality compared to Blu-ray. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Is DVD higher quality than streaming?
 
 Yes. DVDs typically have SD resolutions. In contrast, streaming services can offer resolutions up to 4K Ultra HD (3840x2160 pixels) or even higher. This means that streaming services can provide significantly sharper and more detailed images compared to DVDs. Meanwhile, streaming services allow access to a wide range of movies, TV shows, documentaries, and original productions compared to DVDs. 
@@ -89,6 +137,12 @@ How to make DVDs look better on widescreen? There're 3 ways to [improve DVD qual
 
 ![Change DVD resolution: upscale DVD from 480P to 1080P](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/parameter-resolution-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Q3\. Is It Possible to Burn a DVD with 720p/1080p HD Video? 
 
  You put into a 720p video and then output a complete DVD disc, which plays normally. And you think you are holding a 1280x720 resolution DVD. Well, actually you omit an important link. 
@@ -101,6 +155,12 @@ Here we will give you an example of how to burn a DVD with video in 720p resolut
 
 [![](https://www.winxdvd.com/resource/../seo-img/general-img/download.png) Free download WinX DVD Author](https://tools.techidaily.com/winxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 1.** Download WinX DVD Author by clicking the "Free Download" button above, get it installed on your hard drive correctly and open it up.
 
 **Step 2.** Insert a blank DVD disc and go into the "Video DVD Author" part.
@@ -123,9 +183,27 @@ Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K u
 
 * [DVD vs Blu-ray vs Digital File: What Are the Differences?](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [How to Free Rip DVD with Same Quality](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Best Settings to Rip DVDs Fast with Good Quality & Small Size](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Streaming vs DVD? DVD is Better to Use in What Cases](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -140,3 +218,40 @@ Can DVD be upscaled to 4K? Yes. Some Blu-ray Disc players are equipped with 4K u
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-high-speed-race-replicas-our-top-picks/"><u>[New] 2024 Approved  High-Speed Race Replicas  Our Top Picks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audio-enhancement-for-online-video-creators-for-2024/"><u>[New] Audio Enhancement for Online Video Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[Updated] 2024 Approved  Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-streamlined-list-frugal-mac-choices-for-tiktok-cuts/"><u>[Updated] In 2024, Streamlined List  Frugal Mac Choices for TikTok Cuts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-windows-11-game-recording-5-methods/"><u>[Updated] In 2024, Windows 11 Game Recording [5 Methods]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-orderly-quest-for-veiled-youtube-vaults/"><u>2024 Approved  The Orderly Quest for Veiled YouTube Vaults</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-book-enthusiasts-choice-top-e-book-reader-apps-reviewed-and-ranked/"><u>2024'S Book Enthusiasts' Choice: Top E-Book Reader Apps Reviewed and Ranked!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-xr-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone XR and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-techniques-for-accessing-your-iphone-sim-without-special-equipment/"><u>DIY Techniques for Accessing Your iPhone SIM Without Special Equipment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-customization-for-enthusiasts-tweaking-taskbar-colors-in-windows-10/"><u>Easy Customization for Enthusiasts: Tweaking Taskbar Colors in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-accidental-reposts-on-the-popular-video-app-tiktok/"><u>Easy Fixes for Accidental Reposts on the Popular Video App, TikTok</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-powerpoint-playback-sound-issues/"><u>Effective Solutions for PowerPoint Playback Sound Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-and-using-built-in-fm-radio-feature-on-smartphones-tips-for-ios-and-android-users/"><u>Enabling & Using Built-In FM Radio Feature on Smartphones: Tips for iOS & Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-checklist-choosing-the-right-wrist-worn-health-device/"><u>Essential Checklist: Choosing the Right Wrist-Worn Health Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-resolving-not-found-or-missing-dciman32dll-error-messages/"><u>Expert Tips for Resolving 'Not Found' Or 'Missing' dciman32.dll Error Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-essential-contrasts-of-macs-vs-pcs/"><u>Exploring the Essential Contrasts of Macs Vs. PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-dts-virtual-x-enhance-your-listening-pleasure/"><u>How Does DTS Virtual X Enhance Your Listening Pleasure?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-honor-70-lite-5g-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Honor 70 Lite 5G’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-msvcr71dll-not-found-or-missing-errors/"><u>How to Fix Msvcr71.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-user-location-monitoring-a-comprehensive-guide/"><u>IPhone User Location Monitoring – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-fixes-resolving-playback-errors-for-seamless-powerpoint-performances/"><u>Mastering Audio Fixes: Resolving Playback Errors for Seamless PowerPoint Performances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordering-up-optimus-prime-a-fans-guide-to-the-transformers-movie-marathon/"><u>Ordering Up Optimus Prime: A Fan's Guide to the Transformers Movie Marathon</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-developer-unverified-hindrance-a-guide-to-overcoming-mac-errors/"><u>Resolving 'Developer Unverified' Hindrance: A Guide to Overcoming Mac Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-network-a-detailed-walkthrough-to-modify-anothers-pc-password-in-windows/"><u>Secure Your Network: A Detailed Walkthrough to Modify Another's PC Password in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/see-her-evolve-on-screen-how-to-experience-taylor-swift-movies-chronologically/"><u>See Her Evolve on Screen: How to Experience Taylor Swift Movies Chronologically</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starters-manual-to-mastering-screen-clarity-for-2024/"><u>Starter's Manual to Mastering Screen Clarity for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-complete-deletion-of-your-yahoo-mail-account/"><u>Step-by-Step Guide: Complete Deletion of Your Yahoo! Mail Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-inserting-animated-gifs-into-instagram-replies/"><u>Step-by-Step Tutorial: Inserting Animated GIFs Into Instagram Replies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-core-dll-errors-on-your-pc/"><u>Troubleshooting Missing Core DLL Errors on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-your-laptop-wont-turn-on/"><u>Troubleshooting Tips for When Your Laptop Won't Turn On</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-repairing-your-unresponsive-optical-disc-player/"><u>Troubleshooting Tips: Repairing Your Unresponsive Optical Disc Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-top-10-strategies-for-mastering-subway-surfers/"><u>Ultimate Guide: Top 10 Strategies for Mastering 'Subway Surfers'</u></a></li>
+</ul></div>

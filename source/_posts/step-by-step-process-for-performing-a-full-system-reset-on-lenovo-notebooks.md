@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Process for Performing a Full System Reset on Lenovo Notebooks
-date: 2024-09-01T18:47:01.621Z
-updated: 2024-09-02T18:47:01.621Z
+date: 2024-09-05T11:41:09.855Z
+updated: 2024-09-06T11:41:09.855Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Process for Performing a Full System Reset on Lenovo Notebooks
@@ -9,11 +9,29 @@ excerpt: This Article Describes Step-by-Step Process for Performing a Full Syste
 thumbnail: https://www.lifewire.com/thmb/Fq16m0NQY-_nhfott8MIvMaFiI8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/christian-salas-DjGRskJdBws-unsplash-972e0e380ece40ceb4fdfdedb3fbc7e2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Resolving Noise Issues in Your Stereo System - Restore the Sound
  You've[correctly arranged your new speakers](https://www.lifewire.com/placing-speakers-correctly-3134857) . All the cables have been meticulously connected. Each piece of equipment has been switched on. Then, you hit "play" on the audio source, yet nothing happens. How frustrating!
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
  This should take around 30 minutes and can be done by anyone with basic receiver knowledge.
@@ -28,6 +46,12 @@ thumbnail: https://www.lifewire.com/thmb/Fq16m0NQY-_nhfott8MIvMaFiI8=/400x300/fi
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Causes of a Stereo Receiver Not Making Sound
 
  Silent stereos are usually caused by low power, a wrong source selection, disconnected or faulty speaker wires, broken speakers, or a malfunctioning source component. However, similar to[diagnosing a defective speaker channel](https://www.lifewire.com/troubleshoot-speaker-channel-3135138) , troubleshooting a stereo system that's not producing sound begins by isolating the problem—a problem that usually isn't revealed until the corresponding fix has been tried. That's why it's important to proceed through these troubleshooting steps in the proper order.
@@ -136,7 +160,3 @@ Tell us why!
 <li><a href="https://fox-access.techidaily.com/virtual-expedition-jaunt-vr-insights/"><u>Virtual Expedition  Jaunt VR Insights</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-se-2022-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone SE (2022)? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

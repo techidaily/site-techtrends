@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Sony PlayStation 5'S Most Anticipated Titles"
-date: 2024-09-01T18:49:44.845Z
-updated: 2024-09-02T18:49:44.845Z
+date: 2024-09-05T11:41:07.760Z
+updated: 2024-09-06T11:41:07.760Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Sony PlayStation 5'S Most Anticipated Titles"
@@ -9,6 +9,12 @@ excerpt: "This Article Describes Ultimate Guide: Sony PlayStation 5'S Most Antic
 thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153a07526aaf66c61ff3070513.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ultimate Guide: Sony PlayStation 5'S Most Anticipated Titles
 
 Close 
@@ -24,6 +30,12 @@ Looking for PSVR 2 games? [Check out our full list here](https://www.lifewire.co
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Astro's Playroom 
 
  Exclusive to PS5, this demo controller game comes pre-loaded with the console. This game is a sequel to Astro Bot Rescue Mission. Designed to showcase the new Dual-Sense controller for PS5, you can explore the different haptic sensations as Astro runs, bounces, and even struggles through sand. It's not amazing, but it is a fun 3D way to get used to the new controller's capabilities.
@@ -34,6 +46,12 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Concord 
 
  Not much news about this one yet, but it takes place in space. You'll play the role of a "freegunner," and the tone seems a bit light and has some retro-'80s vibes to it.
@@ -46,6 +64,12 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Dark Life Excalibur 
 
  This heavily _Dark Souls_\-inspired action-adventure title sets main character Aron off on a quest of vengeance with the legendary sword Excalibur. You'll customize and power up both your character and the mythical blade to take on fearsome enemies and uncover a great mystery.
@@ -56,6 +80,12 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Demon's Souls 
 
  Bluepoint Games remade FromSoftware's PS3 classic for the newer hardware. Along with the stunning visual polish, the title also received new items and mirrored levels to provide more challenge to seasoned players.
@@ -77,7 +107,10 @@ of 28
 of 28
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Fairgames 
 
@@ -89,6 +122,18 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Final Fantasy 7 Remake: Intergrade 
 
 _Final Fantasy 7 Remake_ is an enhanced and updated version of the PS4 original. _Intergrade_ has an improved frame rate and other technical bumps. Other additions include a photo mode and a new control scheme. It also has some exclusive DLC starring series favorite Yuffie Kisaragi. If you already bought the PS4 version, you can grab this update for free (although the DLC doesn't come with it).
@@ -99,6 +144,12 @@ _Final Fantasy 7 Remake_ is an enhanced and updated version of the PS4 original.
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Final Fantasy 7 Rebirth 
 
  The second part of the _Final Fantasy 7_ remake trilogy is coming exclusively to PlayStation 5, though the first part was also out for PS4\. The continuing adventures of Cloud Strife and his ridiculously oversized sword should adopt some of the gameplay updates we saw in _Intergrade_.
@@ -113,9 +164,6 @@ Winter 2023
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Final Fantasy 16 
 
  The latest in the long-standing _Final Fantasy_ series takes a more action-centric approach to combat, foregoing the traditional turn-based system. It is a timed exclusive, coming to other platforms later.
@@ -126,6 +174,12 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Forspoken 
 
  Originally under development as "Project Athia," _Forspoken_ tells the story of Frey, a modern-day woman who is mysteriously transported to the more fantastical world of Athia. There, she has to use magic and parkour (and sometimes both at the same time) to find her way home and maybe overthrow some tyrants.
@@ -136,9 +190,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Helldivers 2 
 
  This sequel to the 2015 original changes the perspective from top-down to over-the-shoulder and brings in a huge scoop of _Starship Troopers_ for fun. You'll play as one of the eponymous Helldivers, traveling to distant planets to shoot up alien bugs, ostensibly for freedom and democracy.
@@ -149,9 +200,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Horizon: Forbidden West – Burning Shores 
 
  This DLC for Guerilla Games' _Horizon: Forbidden West_ is a PS5 exclusive, even though the base game is available on both that console and the last-gen PS4\. It takes Aloy to post-apocalyptic Los Angeles to face new threats in the form of rogue, animal-themed robots.
@@ -163,7 +211,10 @@ of 28
 of 28
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Last of Us: Part 1 
 
@@ -175,9 +226,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  Marvel's Spider-Man: Remastered 
 
  The original version of developer Insomniac's _Marvel's Spider-Man_ launched on PS4, but the PS5 remaster adds enough to the title to merit inclusion. Along with a new face model for Peter Parker, _Remastered_ includes the original game's DLC, DualSense control functionality, and some new costumes.
@@ -188,9 +236,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Marvel's Spider-Man 2 
 
  This follow-up to _Spider-Man_ and _Spider-Man: Miles Morales_ lets you control both Spider-Mans as they take on Kraven the Hunter. The tracker has come to New York in search of some new prey, which includes Lizard and the webslingers.
@@ -203,9 +248,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Marvel's Wolverine 
 
  The same studio making the _Spider-Man_ series is also making a title based around the most popular member of the X-Men.
@@ -216,6 +258,12 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Pacific Drive 
 
  Pacific Drive drops you into the middle of a surreal version of the Pacific Northwest with nothing between you and certain doom but your car. You'll make forays into the woods to collect scrap and supplies to upgrade the vehicle and make your way to the mysterious Pacific Exclusion Zone.
@@ -238,9 +286,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Quantum Error 
 
  In _Quantum Error_, you play as a fireman. In space. And there are monsters?
@@ -266,8 +311,10 @@ of 28
 of 28
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Returnal 
 
@@ -279,6 +326,12 @@ of 28
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Rise of the Rōnin 
 
  This action-role-playing game comes courtesy of Team Ninja (_Ninja Gaiden_, _Nioh_) and puts you in the middle of the events leading to the Boshin War that ended Japan's Edo period.
@@ -301,9 +354,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  Silent Hill: The Short Message 
 
  Konami surprised "_Silent Hill_" fans by announcing and releasing this entry on the same day. And it's free to download.  
@@ -316,6 +366,12 @@ _The Short Message_ is, well, short; it only takes a couple of hours to get thro
 
 of 28
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Stellar Blade 
 
  This action-adventure game gives you the small mission of reclaiming Earth from alien invaders after all of humanity leaves the planet. You'll do equal parts fighting and exploring to bring the remnants of the human race together and take back the planet.
@@ -326,10 +382,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ##  Sword of the Sea 
 
  This beautiful-looking game from the creators of _Journey_, _The Pathless_, and _Abzu_ casts you as a lone wanderer in a vast desert. That's all pretty familiar if you've played _Journey_, but the twist here is that you get around by using your sword to surf around on the dunes. It looks like you're on a quest to bring water to restore the area and repopulate it with huge sea creatures.
@@ -350,9 +402,6 @@ of 28
 
 of 28
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Uncharted: Legacy of Thieves Collection 
 
 _Legacy of Thieves_ contains two full games: _Uncharted 4: A Thief's End_ and _Uncharted: The Lost Legacy_. The former is the final outing of adventurer and treasure hunter Nathan Drake, who destroys every vehicle he enters. _Lost Legacy_ stars two of the series' supporting characters as they search for the Tusk of Ganesh in India.

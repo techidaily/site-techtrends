@@ -1,7 +1,7 @@
 ---
 title: Watching 'The Lord of the Rings' Trilogy – The Right Way and Order
-date: 2024-09-01T18:53:11.435Z
-updated: 2024-09-02T18:53:11.435Z
+date: 2024-09-05T11:41:04.750Z
+updated: 2024-09-06T11:41:04.750Z
 categories:
   - BestProducts
 description: This Article Describes Watching 'The Lord of the Rings' Trilogy – The Right Way and Order
@@ -9,6 +9,12 @@ excerpt: This Article Describes Watching 'The Lord of the Rings' Trilogy – The
 thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Watching 'The Lord of the Rings' Trilogy – The Right Way and Order
  If you want to enter a magical world of dwarves, elves, and orcs, you can do no better than slipping into the world of_The Lord of the Rings_ . This film series is made up of two trilogies, both of which show the end of the Third Age of J.R.R. Tolkien's Middle-earth.
 
@@ -18,8 +24,20 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 ![Coverart from the Lord of the Rings movies.](https://www.lifewire.com/thmb/JQ_b14Z5k98fMwaVF5JhQ5JI0JM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/461bcc6e1289cdfa5dda4ac06f441d83-03e90ffe75dc4e1d9ab42de12ef069b7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 New Line Cinemas
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -37,6 +55,12 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -53,7 +77,10 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Which Is the Right Order?
 
@@ -62,7 +89,10 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## When Does 'The Rings of Power' Take Place?
 
@@ -70,9 +100,6 @@ New Line Cinemas
 
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is 'The Hunt for Gollum'?
 
  In May 2024, Warner Bros. announced it had started development two more Middle-earth films. The first of these,_The Hunt for Gollum_ , will be out in 2026 and bring the writers of the original trilogy back. Andy Serkis, who played Gollum in four movies, will direct (and likely reprise the role, given the title).

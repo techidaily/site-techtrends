@@ -1,7 +1,7 @@
 ---
 title: "Overcoming STOP 0X0000005C Bug: Expert Solutions and Advice"
-date: 2024-09-01T18:48:59.244Z
-updated: 2024-09-02T18:48:59.244Z
+date: 2024-09-05T11:41:08.375Z
+updated: 2024-09-06T11:41:08.375Z
 categories:
   - BestProducts
 description: "This Article Describes Overcoming STOP 0X0000005C Bug: Expert Solutions and Advice"
@@ -113,6 +113,12 @@ PHOTO: Amazon
 
  There are also venting slots and dual built-in fans for maintaining equipment cooling on the removable side panels.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best for Adjustability
 
 [Startech 4POSTRACK25U](https://www.amazon.com/dp/B00O6GNLQE/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00O6GNLQE)
@@ -141,7 +147,10 @@ PHOTO: Amazon
  The open nature of the Startech 25U does mean there's no security at the rack level, so it's best for an already secure area. Ultimately, the Startech 25U offers excellent storage in a not-too-large package, but it's still within industry rack standards, so it'll fit most equipment.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Best Cabinet Enclosure
 
@@ -170,6 +179,12 @@ PHOTO: Walmart
 
  Mounting is simple, and the rack has optional casters for easy transportation, or it's ready for wall-mounting right out of the box.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best On Wheels
 
 [Navepoint 22U](https://www.amazon.com/NavePoint-4-Post-Network-Rolling-Casters/dp/B01A6JQO4A/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB01A6JQO4A)
@@ -226,6 +241,12 @@ PHOTO: Walmart
 
  The open design makes it easy to access cabling and equipment, yet the posts are made of high-quality cold-rolled steel for ultimate durability. The only catch with this one is that it's so tall that you'll want to ensure you have enough clearance above it for air circulation, and depending on your server room layout and what you mount in it, you may need to bolt it down to keep it from tipping over.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Floor-Standing
 
 [Navepoint 25U](https://www.amazon.com/Navepoint-Professional-2-Post-Server-Network/dp/B00BTRCW3Q/?tag=lifewire-onsite-prod-20&ascsubtag=4140723%7Cn1ac49d1aa339442e887f513668a9fa4c20%7CB00BTRCW3Q)
@@ -253,7 +274,10 @@ PHOTO: Amazon
  Fortunately, all the cables that result from 4.5 feet of floor-standing server space are managed well with attachable cable mounts that can easily organize and keep your[network cables](https://www.lifewire.com/introduction-to-network-cables-817868) out of the way while servers are in use. You can use it with castors or bolted to the floor.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What to Look For in Network Server Racks and Enclosures
 
@@ -269,18 +293,12 @@ PHOTO: Amazon
 
  Hero Images / Getty Images
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### **Why Buy a Network Server Rack?**
 
  You may think that network server racks are the kind of equipment that only large enterprise organizations need. After all, they bring to mind images of sprawling data centers, with endless rows of servers and other networking gear lined up like a robot army, and there's certainly no doubt that organizations with that kind of equipment need a way to keep it all properly and efficiently organized and managed.
 
  However, even small businesses can benefit from a server rack to keep their equipment organized and uncluttered while ensuring its safety and security. A good network server rack or enclosure will provide enough room for the equipment that you need while keeping both your gear and the accompanying cables out of harm's way, and they're not just for dedicated server rooms either; in fact, if you have your servers and network equipment in a shared space like a supply room or utility closet, a good server rack or enclosure can be even more critical. We can't count the stories we've heard where a delivery person or office worker has brought down an entire company's network by tripping over a cable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### **Size and Type of Equipment**
 
  The first and most obvious thing you'll want to consider is how much you want to put into your rack, not just now but into the future.
@@ -295,6 +313,12 @@ PHOTO: Amazon
 
  Lastly, rack_width_ is standard, with almost all server and network equipment racks at 19 inches wide. Whether you're mounting larger servers or network switches, if they're rack-mountable, they'll all come in the same width.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Rails**
 
  Many rack-mountable servers offer the option to be mounted using rails. In this configuration, a pair of standard rails are mounted to the rack, screwed into all four posts, and then the server, which has the corresponding rails mounted on the sides, slides into the rack, just like a drawer going into a cabinet.
@@ -307,12 +331,24 @@ PHOTO: Amazon
 
  Alextov via Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Installation Location**
 
  Where you plan to install your rack will also impact what kind of rack you choose and may even limit your choices. You'll not likely be picking up a full-sized 42U rack if you only have a cubbyhole available, and you may not want an open rack if you're installing it in an area that's more highly trafficked, like a photocopier room or supply room.
 
  Most racks can also be secured to a wall or floor for added stability, which you should consider doing, especially with taller racks. Still, on the other hand, if you have the space and a relatively isolated area, some racks offer support for wheels to allow you to move them around your server room when necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Cooling Options**
 
  In considering where your rack will be located, remember that computer equipment generates a lot of heat, and the more you have, the hotter it gets. If you have a climate-controlled server room, then an open rack will be fine, but since most small businesses can't afford to dedicate a whole room just for networking equipment, you'll probably need to give this a bit more thought.
@@ -322,7 +358,10 @@ PHOTO: Amazon
  It's also possible to buy rack-mountable fans that generally fit into a 1U space to provide additional cooling support, but you'll still need to leave room around these for airflow.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Physical Security**
 
@@ -333,8 +372,10 @@ PHOTO: Amazon
  Also, remember that physical security is often just as much about preventing mistakes by non-technical employees as it is about preventing attacks by malicious hackers. True story: We once visited a remote office where a well-meaning employee had turned off the server to save electricity because they never saw anybody using it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Rack Holes: Threaded or Unthreaded?**
 
@@ -350,14 +391,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images.jpg](https://www.lifewire.com/thmb/rc_q9ofTd5pecAGouEFQSLea2-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/server-rack-units-Maciej-Frolow-Photographers-Choice-RF-Getty-Images-56a6f9905f9b58b7d0e5ca48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  © Maciej Frolow / Photographer's Choice RF / Getty Images
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Mounting Parts**
 
  Not all racks are created equally regarding what comes in the box, so you'll want to read the fine print. Some of the more inexpensive racks give you threaded holes and expect you to come up with the mounting screws yourself.
@@ -367,7 +402,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The good news is that threaded racks use standard-sized screws, so it's not too hard to find more screws should you need them down the road, but make sure you know what you're getting with the rack itself so that you know what else you'll need to have everything ready to install once it arrives.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Top Brands**
 
@@ -389,18 +427,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A young network administrator looks at a server rack.](https://www.lifewire.com/thmb/79BQVP2qDwj-SidNe_AGPqbL8Oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-719877855-5a99f44dba61770037a02ede.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re looking to install more than a few servers, you’ll also want to consider adding a keyboard-video-mouse (KVM) switch into the mix so you can easily switch between controlling different servers without juggling multiple keyboards and screens.
 
  Other accessories you can add to your rack include lockable keyboard drawers and additional equipment drawers that can fit into a 1U or 2U space, as well as rack-attachable patch panels and cable guides to keep all of the wires that are coming out of your equipment from turning into a tangled mess.
