@@ -1,7 +1,7 @@
 ---
 title: "Apple's Next Big Thing: Speculation and Gossip About Pricing, Release Date & Specs"
-date: 2024-09-05T11:59:39.813Z
-updated: 2024-09-06T11:59:39.813Z
+date: 2024-09-11T17:27:35.796Z
+updated: 2024-09-12T17:27:35.796Z
 categories:
   - BestProducts
 description: "This Article Describes Apple's Next Big Thing: Speculation and Gossip About Pricing, Release Date & Specs"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Apple's Next Big Thing: Speculation and Gossip 
 thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae2d19190125a50a9ecf80d6e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Price, Release Date & More: Unveiling the Juiciest Gossip About Apple's Latest Innovation
 
 In This Article
@@ -28,17 +22,18 @@ In This Article
 
  One idea floating around is Apple combining an iPhone and an iPad to make a double-wide phone, or maybe the iPhone Flip will fold like the iconic Motorola Razr. These are just rumors for now, and some experts think Apple might release a foldable iPad before a flip phone. Whatever the case, the talk about a foldable Apple gadget is picking up.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Summary
 
 * **Release date** : 2026
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Will the Foldable iPhone Be Released?
 
@@ -54,12 +49,6 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -69,14 +58,22 @@ Patent US8929085B2.
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -90,12 +87,6 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
@@ -103,6 +94,13 @@ Michal Dufka
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Features
 
@@ -115,6 +113,13 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -141,11 +146,18 @@ Michal Dufka
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -156,14 +168,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,47 +183,15 @@ Michal Dufka
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-restore-lost-fb-watch-video-button/"><u>[New] In 2024, Restore Lost FB Watch Video Button</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-seamlessly-integrate-apple-podcasts-into-your-routine-for-2024/"><u>[New] Seamlessly Integrate Apple Podcasts Into Your Routine for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-techniques-in-post-production-of-gopro-clips/"><u>[Updated] 2024 Approved  Essential Techniques in Post-Production of GoPro Clips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-and-elevate-free-mobile-image-enhancer/"><u>[Updated] In 2024, Enhance & Elevate  Free Mobile Image Enhancer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-mobility-in-apples-ecosystem/"><u>2024 Approved  Mastering Media Mobility in Apple's Ecosystem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/3-top-free-dvd-ripping-tools-for-windows-1011-mp4-avi-and-wmv-conversion-guides/"><u>3 Top Free DVD Ripping Tools for Windows 10/11 - MP4, AVI & WMV Conversion Guides</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iosandroid/"><u>高画質動画を保存し続けられる無料アプリ！iOS/Android対応</u></a></li>
-<li><a href="https://techtrends.techidaily.com/achieve-perfect-picture-quality-with-leading-video-resizers-upscale-or-downscale-to-4k-ultrahd1080p720p/"><u>Achieve Perfect Picture Quality with Leading Video Resizers: Upscale or Downscale to 4K UltraHD/1080P/720p.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-ultra-hd-video-players-top-10-picks-for-windows-10-and-11-macos/"><u>Best Free Ultra HD Video Players: Top 10 Picks for Windows 10 & 11, macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-the-best-free-dvd-converters-in-depth-analysis-of-winx-vs-handbrake-tools/"><u>Comparing the Best FREE DVD Converters: In-Depth Analysis of WinX vs HandBrake Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversione-gratuita-da-dvd-a-mp4-per-windows-e-mac-come-usare-winxdvd/"><u>Conversione Gratuita Da DVD a MP4 per Windows E Mac: Come Usare WinXDVD</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-your-netflix-dvds-into-various-formats-mp4-avi-mov-on-windows-or-mac/"><u>Convert Your Netflix DVDs Into Various Formats (MP4, AVI, MOV) on Windows or Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/die-effektivsten-schritte-fur-die-einrichtung-des-av1-codecs-unter-windows-1011-neueste-moglichkeiten-erfahrenen-nutzern-vorgestellt/"><u>Die Effektivsten Schritte Für Die Einrichtung Des AV1-Codecs Unter Windows 10/11 – Neueste Möglichkeiten Erfahrenen Nutzern Vorgestellt</u></a></li>
-<li><a href="https://techtrends.techidaily.com/digiarty-cash-prize-draw-enter-now-and-win-big-on-youtube/"><u>DigiArty Cash Prize Draw: Enter Now & Win Big on YouTube!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-free-christmas-greeting-cards-and-e-slideshows-to-spread-cheer-among-family-and-friends-online/"><u>DIY Free Christmas Greeting Cards & E-Slideshows to Spread Cheer Among Family and Friends Online</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-muted-troubles-world-of-warcraft-sound-issues-resolved/"><u>Fixing Muted Troubles: World of Warcraft Sound Issues Resolved</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuiciel-convertisseur-video-winx-conversion-rapide-de-dvd-vers-mp4-avi-pour-iphone-et-android/"><u>Gratuiciel Convertisseur Vidéo WinX : Conversion Rapide De DVD Vers MP4, AVI Pour iPhone Et Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-reducir-el-tamano-del-archivo-de-videos-en-alta-definicion-desde-4k-hasta-full-hd-en-pcs-con-windows-y-sistemas-apple-mac/"><u>Guía Paso a Paso Para Reducir El Tamaño Del Archivo De Vídeos en Alta Definición Desde 4K Hasta Full HD en PCs Con Windows Y Sistemas Apple Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-convert-hevch265-files-to-h264-for-free-on-pc-and-mac/"><u>How to Convert HEVC/H.265 Files to H.264 For Free on PC and Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-xiaomi-redmi-13c-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-list-of-top-10-affordable-video-chat-platforms-for-companies-and-institutions/"><u>Innovative List of Top 10 Affordable Video Chat Platforms for Companies & Institutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-compatible-winx-hd-video-converter-online-assistance-and-guidance/"><u>Mac-Compatible WinX HD Video Converter: Online Assistance & Guidance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-video-conversion-on-mac-a-step-by-step-guide-with-winx-itunes/"><u>Mastering Video Conversion on Mac: A Step-by-Step Guide with WinX iTunes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastery-of-color-grading-premiere-pros-lut-capabilities-for-2024/"><u>Mastery of Color Grading  Premiere Pro's LUT Capabilities for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mejores-tacticas-para-grabar-y-reducir-video-con-clipchamp-una-guia-completa/"><u>Mejores Tácticas Para Grabar Y Reducir Video Con Clipchamp: Una Guía Completa</u></a></li>
-<li><a href="https://techtrends.techidaily.com/migliori-tecniche-di-ridimensionamento-dei-video-dimezzare-il-time-e-lannoiata-filigrana-con-queste-10-procedure-vincenti/"><u>Migliori Tecniche Di Ridimensionamento Dei Video - Dimezzare Il Time E L'Annoiata Filigrana Con Queste 10 Procedure Vincenti!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/once-both-scans-are-finished-restart-your-computer-before-trying-to-rip-the-dvd-again-using-your-chosen-software-tool/"><u>Once Both Scans Are Finished, Restart Your Computer Before Trying to Rip the DVD Again Using Your Chosen Software Tool.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-kaufen-winx-home-paket-bestellen/"><u>Online Kaufen: WinX Home Paket Bestellen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725286568285-pcdvd/"><u>PCにDVDコピーするチャレンジ：初心者向け導入とお勧めのソフトウェア一覧</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premium-free-h265-hevc-encoded-4k-streaming-applications/"><u>Premium Free H.265 HEVC Encoded 4K Streaming Applications</u></a></li>
-<li><a href="https://techidaily.com/remove-spark-go-2024-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Spark Go (2024) unlock screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/riproduzione-libera-di-dvd-con-il-decoder-piu-efficiente-gratuito-integrale/"><u>Riproduzione Libera Di DVD Con Il Decoder Più Efficiente - Gratuito Integrale</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-transferring-dvd-content-onto-a-microsd-card/"><u>Step-by-Step Guide: Transferring DVD Content Onto a MicroSD Card</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-votre-contenu-video-en-le-perfectionnant-grace-a-winxvideo-ai/"><u>Transformez Votre Contenu Vidéo en Le Perfectionnant Grâce À Winxvideo AI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-trick-adjusting-regional-codes-in-dvd-players-a-comprehensive-tutorial/"><u>Ultimate Trick: Adjusting Regional Codes in DVD Players – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/umwandlung-von-dvd-dateien-kostenlos-optimale-qualitat-mit-h265hevc-konvertierung/"><u>Umwandlung Von DVD-Dateien Kostenlos: Optimale Qualität Mit H.265/HEVC Konvertierung</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-terms-digiarty-softwares-winxdvd-eula-explained/"><u>Understanding the Terms: Digiarty Software's WinXDVD EULA Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-dvd-converter-for-macos-effortless-dvd-transfer-to-ios-devices-and-itunes-in-mp4-format/"><u>WinX DVD Converter for macOS: Effortless DVD Transfer to iOS Devices & iTunes in MP4 Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-dvd-copy-pro-official-specs-compatibility-and-system-requirements/"><u>WinX DVD Copy Pro - Official Specs, Compatibility & System Requirements</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-dvd-ripper-premium-online-video-converter-software-with-ultimate-format-support/"><u>WinX DVD Ripper - Premium Online Video Converter Software with Ultimate Format Support</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxdvd-ultimate-edition-advanced-dvd-extraction-tool-with-ai-powered-video-optimization-and-cross-device-transfer/"><u>WinXDVD Ultimate Edition: Advanced DVD Extraction Tool with AI-Powered Video Optimization & Cross-Device Transfer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/isomp4aacm4r/"><u>おすすめ! ISO画像をMP4/AAC/M4R形式に簡単変換 オンラインソフトで音声抽出が可能 - 自由に試せる無料ソリューション</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-lut-applications-in-ae/"><u>[New] Mastering LUT Applications in AE</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-visionary-software-solutions-for-virtual-meetings-for-2024/"><u>[New] Visionary Software Solutions for Virtual Meetings for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-artisanarray-pro-online-creation-powerhouse-for-2024/"><u>[Updated] ArtisanArray Pro Online Creation Powerhouse for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chill-vibes-current-hits-to-match-your-yt-short-tunes/"><u>[Updated] In 2024, Chill Vibes Current Hits to Match Your YT Short Tunes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-your-search-game-with-ai-at-bing/"><u>Elevating Your Search Game with AI at Bing</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-with-manycam-premium-virtual-camera-software/"><u>Live Streaming with ManyCam: Premium Virtual Camera Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-with-manycam-top-notch-video-editing-and-online-cam-features/"><u>Live Streaming with ManyCam: Top-Notch Video Editing and Online Cam Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-video-editing-tools-discover-the-best-software-beyond-manycams-virtual-webcam-features/"><u>Live Video Editing Tools: Discover the Best Software Beyond ManyCam's Virtual Webcam Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-in-your-podcasts-xml-structure/"><u>Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
 </ul></div>
+

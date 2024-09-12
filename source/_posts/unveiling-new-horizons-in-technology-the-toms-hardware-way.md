@@ -1,7 +1,7 @@
 ---
 title: Unveiling New Horizons in Technology - The Tom's Hardware Way
-date: 2024-09-05T11:58:47.148Z
-updated: 2024-09-06T11:58:47.148Z
+date: 2024-09-11T17:28:22.684Z
+updated: 2024-09-12T17:28:22.684Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/ozqDihdWshdHA5AE2Mfu3g-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expert Insights From Tom's Hardware Hub - Dive Into Technology Today
 
 The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.com on March 1, reports[ITHome.](https://www.ithome.com/0/753/184.htm) Among other features, this Mini PC has a nifty little built-in screen with a fingerprint reader, plus configuration options including various mobile Ryzen 7 and Ryzen 9 CPUs.
@@ -44,11 +32,18 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
  For now, this little mini PC is a China-exclusive that requires some shipping costs to bring elsewhere in the world, but Tianbao may very well end up bringing it stateside via the Aoostar branding, depending on its reception.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +52,11 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,44 +67,16 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/anking-8-proven-online-promotion-techniques-for-videos-for-2024/"><u>[New] Ranking 8 Proven Online Promotion Techniques for Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-assessing-the-value-proposition-of-itop-recorder-for-2024/"><u>[Updated] Assessing the Value Proposition of ITop Recorder for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-value-of-sns-hdr-and-its-market-rivals/"><u>2024 Approved  Exploring the Value of SNS HDR and Its Market Rivals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-system-crashes-by-correctly-handling-msvcrt10dll-not-detected-warnings/"><u>Avoid System Crashes by Correctly Handling msvcrt10.dll Not Detected Warnings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722874849067-breaking-down-android-version-16-new-features-launch-dates-price-guesswork-and-exciting-specs/"><u>Breaking Down Android Version 16: New Features, Launch Dates, Price Guesswork & Exciting Specs!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bridging-the-gap-a-guide-to-casting-disneyplus-from-your-device-onto-a-chromecast-enabled-tv/"><u>Bridging the Gap: A Guide to Casting Disney+ From Your Device Onto a Chromecast-Enabled TV</u></a></li>
-<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-infinix-smart-7-hd-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Smart 7 HD to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/covert-techniques-for-secure-gpt-exchange-storage/"><u>Covert Techniques for Secure GPT Exchange Storage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-4-preferred-no-cost-cad-applications/"><u>Discover the 4 Preferred No-Cost CAD Applications</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-canon-mx340-printer-drivers-compatible-with-windows-10-8-and-7/"><u>Download Canon MX340 Printer Drivers: Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-connection-steps-setting-up-your-samsung-soundbar-and-tv-together/"><u>Easy Connection Steps: Setting Up Your Samsung Soundbar and TV Together</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-mobile-experience-with-our-picks-of-the-five-greatest-auto-clickers-for-android-phones/"><u>Enhance Your Mobile Experience with Our Picks of the Five Greatest Auto Clickers for Android Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722880631652-essential-insights-on-lg-channels-a-comprehensive-guide/"><u>Essential Insights on LG Channels – A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c210-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C210 Face Lock?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-event-preview-decoding-the-hype-with-insider-news-and-speculated-features/"><u>Google Event Preview: Decoding the Hype with Insider News & Speculated Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-using-wireless-earbuds-on-your-switch-is-it-possible-with-airpods/"><u>Guide: Using Wireless Earbuds on Your Switch - Is It Possible With AirPods?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-interpret-and-utilize-the-battery-status-overview-in-windows-11/"><u>How To Interpret And Utilize The Battery Status Overview In Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-organize-a-fantastic-household-karaoke-party-with-simple-steps/"><u>How to Organize a Fantastic Household Karaoke Party with Simple Steps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-105-classic-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia 105 Classic Device SIM</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-depth-assessment-comprehensive-camstudio-toolkit/"><u>In-Depth Assessment  Comprehensive CamStudio Toolkit</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-budget-friendly-roku-express-with-extensive-content-offering/"><u>In-Depth Look at the Budget-Friendly Roku Express with Extensive Content Offering</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-hashtag-monitoring-on-twitter-with-these-powerful-chat-utilities-top-4-picks/"><u>Master Hashtag Monitoring on Twitter with These Powerful Chat Utilities (Top 4 Picks)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-logitech-mouse-reception-with-alternative-methods/"><u>Master the Art of Logitech Mouse Reception with Alternative Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-future-the-3-must-watch-tech-trends-today/"><u>Navigating the Future: The 3 Must-Watch Tech Trends Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-50eb-web-challenge-strategies-for-repairing-server-errors/"><u>Overcoming the 50Eb Web Challenge: Strategies for Repairing Server Errors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-defy-2-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Defy 2 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/printer-problems-on-apple-tablets-diagnosing-why-your-ipad-cant-print/"><u>Printer Problems on Apple Tablets: Diagnosing Why Your iPad Can't Print</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pro-player-tips-the-best-techniques-to-dominate-in-subway-surfers/"><u>Pro Player Tips: The Best Techniques to Dominate in 'Subway Surfers'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protect-your-privacy-stop-unsolicited-sms-on-iphone-with-ease/"><u>Protect Your Privacy: Stop Unsolicited SMS on iPhone with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-stop-error-0xc0000185-a-comprehensive-guide/"><u>Resolving Stop Error 0xC0000185: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-breakdown-what-sets-mac-computers-apart-from-pcs/"><u>The Definitive Breakdown: What Sets Mac Computers Apart From PCs?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essentials-of-whatsapp-call-messages/"><u>The Essentials of WhatsApp Call Messages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-choosing-the-right-dashcam-important-aspects-you-need-to-know-9/"><u>The Ultimate Guide to Choosing the Right Dashcam: Important Aspects You Need to Know (9)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-syncing-multiple-bluetooth-speakers-for-unified-sound-output/"><u>The Ultimate Guide to Syncing Multiple Bluetooth Speakers for Unified Sound Output</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tips-on-implementing-slack-for-professional-use/"><u>The Ultimate Tips on Implementing Slack for Professional Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-viewing-guide-watch-the-matrix-trilogy-sequentially/"><u>The Ultimate Viewing Guide: Watch The Matrix Trilogy Sequentially</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-network-server-cabinets-and-chassis-2024-reviews/"><u>Top-Rated Network Server Cabinets & Chassis - 2024 Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncovering-lost-contacts-a-guide-to-retrieving-deleted-numbers-from-your-android-device/"><u>Uncovering Lost Contacts: A Guide to Retrieving Deleted Numbers From Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722883962064-watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-governments-should-reconsider-their-reliance-on-big-tech-lessons-from-microsofts-service-interruptions/"><u>Why Governments Should Reconsider Their Reliance on Big Tech: Lessons From Microsoft's Service Interruptions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>[New] Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-editing-software-for-mobile-app-creation/"><u>[Updated] Premier Editing Software for Mobile App Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ensuring-https-security-fixing-connection-is-not-secure-errors-online/"><u>Ensuring HTTPS Security: Fixing 'Connection Is Not Secure' Errors Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harnessing-youtubes-true-potential-in-studio/"><u>In 2024, Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionary-tech-discoveries-a-look-back-since-1844/"><u>Revolutionary Tech Discoveries: A Look Back Since 1844</u></a></li>
+<li><a href="https://tools.techidaily.com/stellar-video-repair-for-win/"><u>Stellar Video Repair for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-disabling-or-cancelling-a-twitch-user-account/"><u>Step-by-Step Instructions for Disabling or Cancelling a Twitch User Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ac1st16dll-not-found-issues-in-windows/"><u>Understanding and Repairing ac1st16.dll Not Found Issues in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-bluetooth-or-wired-choosing-the-right-method-to-match-your-subwoofer-with-samsung-speakers/"><u>Wireless Bluetooth or Wired? Choosing the Right Method to Match Your Subwoofer with Samsung Speakers</u></a></li>
 </ul></div>
+

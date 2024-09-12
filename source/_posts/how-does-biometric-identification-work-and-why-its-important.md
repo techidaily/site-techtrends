@@ -1,7 +1,7 @@
 ---
 title: How Does Biometric Identification Work and Why It's Important
-date: 2024-09-05T11:56:45.380Z
-updated: 2024-09-06T11:56:45.380Z
+date: 2024-09-11T17:30:10.335Z
+updated: 2024-09-12T17:30:10.335Z
 categories:
   - BestProducts
 description: This Article Describes How Does Biometric Identification Work and Why It's Important
@@ -10,18 +10,14 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
 ---
 
 ## Access Hidden Notifications in Your iPhone's History - Tutorial Included
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What to Know
 
 * **Swipe up** from the middle on your iPhone’s Lock Screen to pull up the Notification Center.
@@ -31,17 +27,12 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
  This article explains how to find and interact with older notifications on your iPhone.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do I View Past Notifications on iPhone?
 
  Notifications that have recently popped up on your iPhone’s lock screen should remain visible for some time. However, eventually, they will disappear or be replaced by more recent ones. If you happen to miss any notifications, recalling them is simple.
@@ -53,44 +44,50 @@ thumbnail: https://www.lifewire.com/thmb/Hp1aczjkzKCMVbsWqWaEHnnqXWs=/400x300/fi
 3. Depending on the number of pending notifications, you may see all of them or be organized into groups based on the apps that generated the notifications.  
 ![Swiping up to view the Notification Center on the iPhone Lock screen](https://www.lifewire.com/thmb/2ChwjgKfHw6LD0SO3AW-Th9tN2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_view-old-notifications-on-iphone-5212339-4141b55e71b9428ebdaaa0b9896fa5fd.jpg)
 4. Tap a notification, such as a text, to open the connected app.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your iPhone is locked, you must unlock it with Face ID, Touch ID, or your password to continue.
 5. Swipe left on a notification (or grouping of notifications) to pull up the**Options** and**Clear/Clear All** buttons.
 6. Tap**Options** to pull up a small menu to adjust notification settings for the app the notification originated from. If desired, you can use the menu to mute or turn off notifications for the app.  
 ![iPhone Notification screen with Open, Options, Clear All highlighted and swipe left indicated](https://www.lifewire.com/thmb/n7FbKDAPSdoyav7UQdba-igvm4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swipeleft-959079301a7c4079b70a47f7333c8676.jpg)
 7. Tap**Clear** or**Clear All** (depending on if there's one or several notifications in one category) to delete notifications from an organized group.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This action will remove existing notifications from your Lock Screen until new ones appear but will not affect anything from within the app itself. It will also not affect notifications badges appearing on the app’s icon.
 8. If you want to delete all current notifications at once, tap**X** (next to Notification Center), then tap**Clear All Notifications** . As with**Clear All** , this will remove existing notifications from your iPhone’s lock screen.  
 ![iPhone Notifications with Clear, X, and Clear all Notifications highlighted](https://www.lifewire.com/thmb/dT2FzzX1qo2wc0Gk4zYO2_dqzVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Clearallnotifications-9ad9e652a6994a3fa1de4b4e0c619980.jpg)
 9. To view notifications when your phone is not on the Lock Screen, swipe down from the top-left corner of the screen. This will reveal your iPhone’s Lock Screen (though it won’t actually lock your phone).
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 10. The (unlocked) Lock Screen will display any available notifications, which will be organized by app.
 11. If there are no notifications to view, the screen will display No Older Notifications instead.  
 ![Swipe down on screen indicated and No Older Notifications highlighted](https://www.lifewire.com/thmb/sEg6zvpTFl35ttLCCfbt5RA4LHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nonotifications-0fff2883c9f84963a4281cb840be5617.jpg)
 12. You can interact with any available notifications in the same way as above.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do I See Deleted Notifications?
 
  Unfortunately, you cannot view notifications once you've deleted them. If you delete, clear, or open one, it will no longer appear on your iPhone's lock screen, and there's no way to retrieve it.  
@@ -128,8 +125,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,40 +134,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-chart-toppers-on-screen-uploading-songs-methodically/"><u>[New] 2024 Approved  Chart-Toppers on Screen  Uploading Songs Methodically</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-new-windows-11-hacks-for-efficiency-experts/"><u>[New] New Windows 11 Hacks for Efficiency Experts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-depth-look-screen-capture-tools-for-mac/"><u>[Updated] In 2024, In-Depth Look  Screen Capture Tools for Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-picture-capture-unpacker/"><u>[Updated] Picture Capture Unpacker</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unleashing-widespread-engagement-on-facebook/"><u>[Updated] Unleashing Widespread Engagement on Facebook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-vivas-multimedia-potential/"><u>2024 Approved  Unlocking Viva's Multimedia Potential</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s23plus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S23+ without App | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/blocking-unknown-callers-a-comprehensive-tutorial-for-iphones/"><u>Blocking Unknown Callers: A Comprehensive Tutorial for iPhones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-your-mobile-companion-iphone-versus-android/"><u>Choosing Your Mobile Companion: IPhone versus Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-must-watch-films-today-a-selection-from-lifewires-choices/"><u>Discover Must-Watch Films Today: A Selection From Lifewire's Choices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-8-websites-to-track-down-individuals-instantly/"><u>Discover the Best 8 Websites to Track Down Individuals Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-telegram-an-in-depth-overview-of-its-features/"><u>Discovering Telegram: An In-Depth Overview of Its Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-factors-for-picking-the-best-surge-protector-an-in-depth-look/"><u>Essential Factors for Picking the Best Surge Protector: An In-Depth Look</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-overcoming-issues-when-vcompdll-is-missing-or-undetected/"><u>Guide: Overcoming Issues When vcomp.dll Is Missing or Undetected</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-change-a-discord-profile-picture/"><u>How to Change a Discord Profile Picture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-exit-safe-mode-on-windows-11/"><u>How to Exit Safe Mode on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/illuminate-focus-through-the-use-of-leading-lines-in-iphone-photography/"><u>Illuminate Focus Through the Use of Leading Lines in iPhone Photography</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-z-flip-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy Z Flip 5 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-7a-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel 7a to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-facebook-discover-its-inception-reasons-for-popularity-and-core-features-unveiled/"><u>Inside Facebook: Discover Its Inception, Reasons for Popularity, and Core Features Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-game-quality-gear-for-maximum-efficiency/"><u>Master the Game: Quality Gear for Maximum Efficiency</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-around-chatgpts-safety-net-fixes-for-moderation-error-troubles/"><u>Navigating Around ChatGPT's Safety Net – Fixes for Moderation Error Troubles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-digital-entertainment-understanding-streaming-device-technology/"><u>Navigating Through Digital Entertainment: Understanding Streaming Device Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reinstall-windows-on-dell-devices-a-comprehensive-walkthrough/"><u>Reinstall Windows on Dell Devices - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-checklist-for-selecting-the-perfect-student-laptop/"><u>The Definitive Checklist for Selecting the Perfect Student Laptop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-guide-to-detecting-iphone-user-locations-with-ease/"><u>The Guide to Detecting iPhone User Locations with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-longevity-battle-do-electric-cars-keep-up-with-their-gasoline-siblings-over-time/"><u>The Longevity Battle: Do Electric Cars Keep Up With Their Gasoline Siblings Over Time?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-of-8-key-aspects-before-investing-in-a-new-desktop-pc/"><u>The Ultimate Checklist of 8 Key Aspects Before Investing in a New Desktop PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-strategy-showing-hidden-apps-back-on-your-iphone-screen/"><u>The Ultimate Strategy: Showing Hidden Apps Back On Your iPhone Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-recommended-iphone-gps-navigation-applications/"><u>Top 5 Recommended iPhone GPS Navigation Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-power-issues-with-your-roku-television/"><u>Troubleshooting Steps: Resolving Power Issues with Your Roku Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-unresponsive-keyboard-issues/"><u>Troubleshooting Tips: Resolving Unresponsive Keyboard Issues</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-sony-xperia-5-v-by-fonelab-android-recover-music/"><u>Undelete lost music from Sony Xperia 5 V</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-iphone-sim-without-special-equipment-a-comprehensive-method/"><u>Unlocking Your iPhone SIM without Special Equipment - A Comprehensive Method</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-igniting-instagram-interest-maximizing-content-reach-and-interactions/"><u>[New] In 2024, Igniting Instagram Interest Maximizing Content Reach and Interactions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-multimedia-in-educational-practice/"><u>[New] Navigating Multimedia in Educational Practice</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-key-to-viral-instagram-posts/"><u>[Updated] The Key to Viral Instagram Posts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bumble-connections-gone-wrong-heres-how-to-regain-lost-matches/"><u>Bumble Connections Gone Wrong? Here's How to Regain Lost Matches!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/do-electric-cars-outlast-gasoline-models-when-it-comes-to-long-term-usability/"><u>Do Electric Cars Outlast Gasoline Models When It Comes To Long-Term Usability?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/echoes-in-motion-mac-for-sound-artists-for-2024/"><u>Echoes in Motion Mac for Sound Artists for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/head-to-head-battle-sonys-ps5-slim-against-the-standard-ps5-unit/"><u>Head-to-Head Battle: Sony's PS5 Slim Against the Standard PS5 Unit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c32-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C32 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-7-dslr-options-elevating-professional-social-media-coverage-for-2024/"><u>Prime 7 DSLR Options Elevating Professional Social Media Coverage for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-verified-status-on-instagram-tried-and-tested-methods-revealed/"><u>Securing Verified Status on Instagram: Tried and Tested Methods Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
 </ul></div>
+

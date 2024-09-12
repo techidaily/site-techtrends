@@ -1,7 +1,7 @@
 ---
 title: Overcoming the 'Cannot Be Opened - Developer Not Verified' Hurdle in macOS
-date: 2024-09-05T11:53:12.687Z
-updated: 2024-09-06T11:53:12.687Z
+date: 2024-09-11T17:33:26.780Z
+updated: 2024-09-12T17:33:26.780Z
 categories:
   - BestProducts
 description: This Article Describes Overcoming the 'Cannot Be Opened - Developer Not Verified' Hurdle in macOS
@@ -9,12 +9,6 @@ excerpt: This Article Describes Overcoming the 'Cannot Be Opened - Developer Not
 thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macdevelopercannotbeverified-feef7b1fb408407a87d69c892f3e2a24.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming the 'Cannot Be Opened - Developer Not Verified' Hurdle in macOS
  By default, macOS allows users to install only approved apps from developers registered with Apple that have verified their apps for use on Macs. When the developer of an app doesn't register with Apple or skips the verification process, you'll see a "Cannot Be Opened Because the Developer Cannot be Verified" error when you try to install the app.
 
@@ -25,11 +19,12 @@ thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/fi
 * "(App name) can't be opened because Apple cannot check it for malicious software."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is the Cause of the ‘Cannot Be Opened Because the Developer Cannot Be Verified' Error on Mac?
 
  While[Macs are less likely to get viruses](https://www.lifewire.com/can-macs-get-viruses-4767114) than Windows PCs, they can still get infected. Apple has a developer ID system and an app review process to reduce the frequency of users exposed to malware on macOS.
@@ -41,11 +36,12 @@ thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/fi
  If an app were released before the registration and review processes started, it would trigger the same error. The app may be safe, but there’s no way for Apple to know one way or the other if they haven’t been able to review it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Do You Fix ‘App Can’t Be Opened Because It Is From an Unidentified Developer?’
 
  To fix the error where you can’t open an unapproved app on your Mac, you have a few options.
@@ -57,18 +53,14 @@ thumbnail: https://www.lifewire.com/thmb/MgioKI2mkANSGc65uE6YOG9TtdU=/400x300/fi
 4. Bypass the block in your Privacy & Security settings. If the previous method didn’t work, you can do it manually from**System Settings** \>**Privacy & Security** \> look for the app > click**Open Anyway.**  
 ![The Open Anyway option from macOS Privacy & Security settings to allow an app from outside the App Store.](https://www.lifewire.com/thmb/Q44hkOY6O8L2Ck_LybCHimjWrBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-developer-cannot-be-verified-error-5183898-889a356e9c644d86962bc4ccc9ad1be9.jpg)  
  In older versions of macOS, open**System Preferences** \>**Security & Privacy** \>**General** \> click the**lock** icon > enter your username and password >**Unlock** \>**App Store and Identified Developers** . You may see the option to click**Anywhere** \>**Allow From Anywhere** .
+
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. [Download the app through Safari](https://www.lifewire.com/what-is-safari-4173608) . If the above process didn’t work, make sure you downloaded the app using Safari. Delete the app > restart your Mac > download the app using Safari > and try to run the app. When you get the error message, perform the Privacy & Security fix outlined in the previous step.  
  There’s an issue where downloading apps through other browsers, like Chrome and Edge, will cause a problem when trying to install unsigned apps.
 
@@ -103,8 +95,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,44 +104,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-rated-free-apps-to-download-reels-from-instagram-effortlessly/"><u>[Updated] 2024 Approved  Top-Rated, Free Apps to Download Reels From Instagram Effortlessly</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unplugging-from-fbs-invasive-video-commercials/"><u>2024 Approved  Unplugging From FB's Invasive Video Commercials</u></a></li>
-<li><a href="https://techtrends.techidaily.com/animated-communication-mastery-a-step-by-step-guide-to-crafting-perfectly-timed-gif-replies-on-instagram/"><u>Animated Communication Mastery: A Step-by-Step Guide to Crafting Perfectly Timed GIF Replies on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-ps5-consoles-backwards-compatible-with-ps4-titles/"><u>Are PS5 Consoles Backwards Compatible with PS4 Titles?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-life-on-camera-mastering-the-art-of-vlogging/"><u>Capturing Life on Camera  Mastering the Art of Vlogging</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-via-messages-a-guide-to-using-messenger-without-a-facebook-profile/"><u>Connecting via Messages: A Guide to Using Messenger without a Facebook Profile</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-virtual-theater-the-ultimate-guide-to-streaming-3d-films-on-fandango/"><u>Experience Virtual Theater: The Ultimate Guide to Streaming 3D Films on Fandango</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/game-on-with-these-5-must-have-broadcast-cams-for-2024/"><u>Game on with These 5 Must-Have Broadcast Cams for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nubia-red-magic-8s-proplus-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nubia Red Magic 8S Pro+ Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-dig-up-previous-notifications-and-uncover-old-messages-on-an-iphone/"><u>How to Dig Up Previous Notifications and Uncover Old Messages on an iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-eliminate-interference-lines-from-your-television-quick-repairs/"><u>How to Eliminate Interference Lines From Your Television - Quick Repairs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-limit-or-block-youtube-viewing-time-on-your-ipad/"><u>How to Limit or Block YouTube Viewing Time on Your iPad</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo Reno 8T 5G Phone without PIN</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bargain-bin-of-the-clouds-spacious-file-staging-area/"><u>In 2024, Bargain Bin of the Clouds  Spacious File Staging Area</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a15-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A15 5GFRP Lock</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-12-pro-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 12 Pro? 5 Tips You Must Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instacaptioning-made-easy-a-tutorial-for-enhancing-stories-with-text/"><u>InstaCaptioning Made Easy - A Tutorial for Enhancing Stories with Text</u></a></li>
-<li><a href="https://techtrends.techidaily.com/integrating-google-chromecast-into-your-firestick-smart-streaming-setup/"><u>Integrating Google Chromecast Into Your Firestick Smart Streaming Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-kernel32dll-troubleshooting-for-a-smooth-windows-experience/"><u>Mastering Kernel32.dll Troubleshooting for a Smooth Windows Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-nintendo-switch-screenshots-tips-for-easy-sharing-online/"><u>Mastering Nintendo Switch Screenshots: Tips for Easy Sharing Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723262401278-mastering-technology-find-the-best-deals-on-computers-at-your-site-name-savvy-shoppers-paradise/"><u>Mastering Technology: Find the Best Deals on Computers at [Your Site Name] - Savvy Shopper’s Paradise!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-smartphone-options-a-comparison-of-iphone-and-android-features/"><u>Navigating Smartphone Options: A Comparison of iPhone and Android Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-pitfalls-of-synthetic-friend-requests-online/"><u>Navigating the Pitfalls of Synthetic Friend Requests Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-your-google-home-experience-from-your-personal-computer/"><u>Navigating Your Google Home Experience From Your Personal Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-se-2020-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone SE (2020) Prevention & Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionizing-ridesharing-with-tesla-robotaxi-upcoming-features-prices-and-launch-timeline-revealed/"><u>Revolutionizing Ridesharing with Tesla Robotaxi - Upcoming Features, Prices & Launch Timeline Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-casting-integrating-chromecast-into-your-firestick-setup/"><u>Seamless Casting: Integrating Chromecast Into Your Firestick Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/shield-your-iphone-from-pesky-text-messages-with-these-easy-methods/"><u>Shield Your iPhone From Pesky Text Messages with These Easy Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-changing-the-battery-in-your-ipad/"><u>Step-by-Step Guide: Changing the Battery in Your iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-creating-your-new-x-social-media-presence/"><u>Step-by-Step Guide: Creating Your New X Social Media Presence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-addressing-the-missing-rpcrt4dll-error-effectively/"><u>Step-by-Step: Addressing the Missing rpcrt4.dll Error Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-using-8-effective-tools-for-person-tracking-online/"><u>The Ultimate Guide to Using 8 Effective Tools for Person-Tracking Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-secrets-for-thoroughly-cleansing-and-protecting-your-media-remote-control/"><u>Top 10 Secrets for Thoroughly Cleansing and Protecting Your Media Remote Control</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-free-replacements-for-skype/"><u>Top 5 Free Replacements for Skype</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-blurry-iphone-photos-with-our-proven-solutions/"><u>Troubleshoot Blurry iPhone Photos with Our Proven Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-audio-issues-on-your-chromecast-device/"><u>Troubleshooting Guide: Resolving Audio Issues on Your Chromecast Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-full-potential-of-virtual-reality-the-complete-tutorial-on-psvr-plus-pc-connection/"><u>Unlock the Full Potential of Virtual Reality: The Complete Tutorial on PSVR + PC Connection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-youtube-problems-why-might-you-experience-technical-difficulties/"><u>Unlocking YouTube Problems: Why Might You Experience Technical Difficulties?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722899161750-usb-tethering-wont-work-here-are-the-quick-fix-steps-to-try/"><u>USB Tethering Won’t Work? Here Are the Quick Fix Steps to Try</u></a></li>
-<li><a href="https://techtrends.techidaily.com/your-ultimate-guide-to-removing-integrated-intelligence-tools-like-copilot-on-windows-11/"><u>Your Ultimate Guide to Removing Integrated Intelligence Tools Like Copilot on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dive-into-the-secrets-of-nothing-phones-latest-model-anticipated-costs-arrival-date-features-stay-ahead-with-our-insights/"><u>Dive Into the Secrets of Nothing Phone's Latest Model: Anticipated Costs, Arrival Date, Features - Stay Ahead with Our Insights!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a14-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A14 5Gwith/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-tecno-spark-20-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Spark 20 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-do-split-screen-on-a-macbook-air/"><u>How to Do Split Screen on a MacBook Air</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-halls-of-fame-on-reddit-celebrating-best-rated-threads/"><u>In 2024, Halls of Fame on Reddit Celebrating Best-Rated Threads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-sound-from-apps-top-7-ways-to-restore-iphone-notifications/"><u>No Sound From Apps? Top 7 Ways to Restore iPhone Notifications</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/optimize-tiktok-performance-the-ultimate-toolkit-for-2024/"><u>Optimize TikTok Performance The Ultimate Toolkit for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-fresh-intel-ac-31n-wireless-card-driver-installation-steps/"><u>Quick Setup: Fresh Intel AC 31N Wireless Card Driver Installation Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-displaying-high-resolution-images-in-their-entirety-on-insta/"><u>Step-by-Step Guide to Displaying High-Resolution Images in Their Entirety on Insta</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-xs-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone XS SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-creating-advanced-sorting-rules-in-google-mail/"><u>Ultimate Tips for Creating Advanced Sorting Rules in Google Mail</u></a></li>
 </ul></div>
+
