@@ -1,7 +1,7 @@
 ---
 title: "Unlinked Chatting: Steps for Using Messenger Without Being on Facebook."
-date: 2024-09-11T17:44:58.471Z
-updated: 2024-09-12T17:44:58.471Z
+date: 2024-09-12T19:18:36.580Z
+updated: 2024-09-18T03:57:17.579Z
 categories:
   - BestProducts
 description: "This Article Describes Unlinked Chatting: Steps for Using Messenger Without Being on Facebook."
@@ -18,13 +18,6 @@ Close
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  What to Know
 
 * You must have a Facebook password to use Messenger. But, you can pause/deactivate Facebook and keep Messenger.
@@ -33,40 +26,13 @@ Close
 
  This article covers how you can stop using Facebook but keep using Messenger. We'll go over how to get Messenger back if you've already deactivated Facebook and how to sign up for a new Messenger account if you don't yet have Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use Messenger With a Deactivated Facebook Account
 
  If you've deactivated Facebook, you can keep using Messenger by logging in to Messenger with your Facebook account information. This works on Messenger.com and through the Messenger app; just enter your Facebook login details and then press**Log in** .  
 
 ![The login screen for Messenger](https://www.lifewire.com/thmb/MoMJxokuOYj8nV9A4C7RMIdizzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/messenger-login-29e385dc323042808ac2b15fb5cf526f.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There was a time when you only needed a phone number to get on Messenger, but a Facebook account is necessary these days.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Make a New Messenger Account Without Facebook
 
@@ -76,23 +42,9 @@ Close
 ![The new account creation screens for a Facebook account through the Messenger app](https://www.lifewire.com/thmb/JgxteUDRoYoIZXGxpPwUJvjpiiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-facebook-account-2f32e7a5993d40a09d7c490608bf32f9.png)
 2. [ Deactivate your Facebook account](https://www.lifewire.com/deactivate-facebook-5072237) . This is like a pause, so you can reactivate any time. Messenger will still work if you do this, but nobody will be able to find you on Facebook and your timeline will be inaccessible.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Deleting your account is very different. Play close attention to the option you choose. Deleting Facebook**will** delete Messenger.  
 ![The 'Taking a break from Facebook' prompt when deactivating an account](https://www.lifewire.com/thmb/3V1MpDklDKk8m0LTka88sHt75nE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/take-break-from-facebook-6c35586aa6504674821b03fa9547685e.png)
 3. Log in to Messenger with your Facebook email and password. This will not reactivate Facebook.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to reactivate Facebook in the future, just log in to Facebook with the same password you used to use.
 
@@ -134,18 +86,26 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-reality-redefined-examining-vr-today-and-upcoming-challenges/"><u>[Updated] In 2024, Reality Redefined Examining VR Today & Upcoming Challenges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-creation-process-of-chatgpts-text-is-there-any-risk-of-plagiarism/"><u>Exploring the Creation Process of ChatGPT's Text: Is There Any Risk of Plagiarism?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-enhances-locator-capabilities-with-motos-tracking-technology/"><u>Google Enhances Locator Capabilities with Moto's Tracking Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macmastery-expert-tips-on-resetting-and-restarting-your-macbook-pro/"><u>MacMastery: Expert Tips on Resetting and Restarting Your MacBook Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/making-the-right-pick-distinguishing-between-ipad-pro-and-macbook-air/"><u>Making the Right Pick: Distinguishing Between iPad Pro and MacBook Air</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reconnecting-your-ipad-to-wi-fi-networks-made-easy-a-step-by-step-guide/"><u>Reconnecting Your iPad to Wi-Fi Networks Made Easy – A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pc-restoration-hiccups-the-ultimate-guide-for-windows-11-users/"><u>Resolve Your PC Restoration Hiccups: The Ultimate Guide for Windows 11 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/roku-on-the-road-ensuring-seamless-entertainment-during-hotel-and-dorm-stays/"><u>Roku on the Road: Ensuring Seamless Entertainment During Hotel and Dorm Stays</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-modulenotfounderror-a-comprehensive-guide/"><u>Solving the 'ModuleNotFoundError': A Comprehensive Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-walkthrough-optimizing-photo-restoration-on-windows-standard-and-os-x-with-stellar-software/"><u>Step-by-Step Walkthrough: Optimizing Photo Restoration on Windows Standard and OS X with Stellar Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-must-see-websites-for-streaming-music-videoclips/"><u>Top 6 Must-See Websites for Streaming Music Videoclips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-role-of-memory-velocity-and-delay-in-pc-efficiency/"><u>Understanding the Role of Memory Velocity and Delay in PC Efficiency</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-arcadearchive-annotator/"><u>[New] ArcadeArchive Annotator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-drone-selections-for-young-pilots-and-rookie-flyers/"><u>[New] Best Drone Selections for Young Pilots and Rookie Flyers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-immersive-camera-review/"><u>[New] Complete Immersive Camera Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlocking-the-full-potential-of-high-dynamic-range-photos-using-lightroom/"><u>[New] In 2024, Unlocking the Full Potential of High Dynamic Range Photos Using Lightroom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-efficiently-storing-instagram-reels-two-simplified-techniques/"><u>[Updated] In 2024, Efficiently Storing Instagram Reels Two Simplified Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-zerocomplicationlivecast-your-simple-pathway-to-livestreaming-a-podcast-for-2024/"><u>[Updated] ZeroComplicationLivecast Your Simple Pathway to Livestreaming a Podcast for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722902992736-anticipating-the-oneplus-10-discover-potential-launch-dates-specs-rumored-upgrades-and-pricing-insights/"><u>Anticipating the OnePlus 10? Discover Potential Launch Dates, Specs, Rumored Upgrades & Pricing Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/exploring-10-factors-that-lead-to-automatic-dimming-of-your-iphone-screen/"><u>Exploring 10 Factors That Lead to Automatic Dimming of Your iPhone Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-unlock-an-ipad-without-a-passcode/"><u>How to Unlock an iPad Without a Passcode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-password-storage-revealed-how-to-access-stored-login-details-safely/"><u>Mac Password Storage Revealed: How to Access Stored Login Details Safely</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-handling-device-access-issues-with-audacity-win/"><u>Method for Handling Device Access Issues with Audacity (Win)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/semana-en-accion-todos-los-dias-del-mes-de-la-luna-en-espanol/"><u>Semana en Acción: Todos Los Días Del Mes De La Luna en Español</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-fixing-a-broken-or-unresponsive-xbox-series-xs-headset/"><u>Step-by-Step Guide: Fixing a Broken or Unresponsive Xbox Series X/S Headset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-guide-to-solving-openal32dll-not-found-on-your-pc/"><u>The Definitive Guide to Solving 'openAL32.dll Not Found' On Your PC</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

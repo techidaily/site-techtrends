@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Establishing an Oculus Medium (Meta) Quest 2 User ID"
-date: 2024-09-11T17:47:17.531Z
-updated: 2024-09-12T17:47:17.531Z
+date: 2024-09-10T17:16:25.124Z
+updated: 2024-09-17T18:57:56.827Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Tutorial: Establishing an Oculus Medium (Meta) Quest 2 User ID"
@@ -15,13 +15,6 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 >
 
 ## The Ultimate Solution for Fixing Wi-Fi Issues on a Mac? Reset Network Settings
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -47,58 +40,18 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 ![Wi-Fi icon in macOS menu bar.](https://www.lifewire.com/thmb/ZQJSC9POWF9sWOG1QhLW7RDze88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_reset-network-settings-on-mac-5184072-8a2df70ce23140b4840713440a0b7006.jpg)
 2. Choose**Wi-Fi Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also get to this area from**Apple** icon >**System Settings** \>**Network** \>**Wi-Fi** .  
 ![Wi-Fi Settings option from Wi-Fi menu bar in macOS.](https://www.lifewire.com/thmb/FTW5VOi-SWCWJTkAeO-JixFq45Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_reset-network-settings-on-mac-5184072-82054f43a0e64b3bbf42514fba247325.jpg)
 3. Select**Details** beside the network to forget.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Details button beside a network connection from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/FNdDQZBdPQIHnN_v6Yd40aZSEaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_reset-network-settings-on-mac-5184072-a10316d0d1fa4b5e85f2b1516cdaece4.jpg)
 4. Choose**Forget This Network** at the bottom left.  
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Forget This Network option from a connected network in macOS Wi-Fi settings.](https://www.lifewire.com/thmb/g_e1r5-LZ5pTqtOVemfyL7io_yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_reset-network-settings-on-mac-5184072-550c670121d048ad9b36bf5c3711f38f.jpg)
 5. Click**Remove** to confirm the deletion.  
 ![The Remove option when deleting a connected network from Wi-Fi settings in macOS.](https://www.lifewire.com/thmb/7sXgyQ4pvZ0APV5IYNb9a0YbIVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_reset-network-settings-on-mac-5184072-d33999e98f4f41a9b5865dca38234821.jpg)  
  Make sure that you have your[Wi-Fi login information](https://www.lifewire.com/how-to-find-wifi-password-windows-mac-4177111) . You will need to re-enter it after the next step.
 6. Finally,[re-add your Wi-Fi connection](https://www.lifewire.com/add-wifi-network-to-any-device-4685456) from the Wi-Fi menu.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reset Mac Network Settings: The Complicated Way
 
@@ -108,35 +61,39 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 ![Mac desktop with Wi-Fi symbol highlighted](https://www.lifewire.com/thmb/xVX119_v-qCR6mDaxc3cjPMV4LM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201-reset-network-settings-on-mac-5184072-1b8173aa3f1143f8b8271be3a2086896.jpg)
 2. Click the switch to turn Wi-Fi off.  
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac desktop with Wi-Fi switch turned on and toggle highlighted](https://www.lifewire.com/thmb/Djr4uGfLmro0bitPwJrNPK8si9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/202-reset-network-settings-on-mac-5184072-72380288b1504d889574a5463faa398b.jpg)
 3. With Wi-Fi off, click**Go** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **com.apple.airport.preferences.plist**  
    * **com.apple.network.identification.plist** or**com.apple.network.eapolclient/configuration.plist**  
    * **com.apple.wifi.message-tracer.plist**  
@@ -146,33 +103,21 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted to confirm the deletion with a password or an action on your Apple Watch, do so.  
 ![Mac selected files with Move to Trash highlighted](https://www.lifewire.com/thmb/Sn7RQOe_p_Sep46jpbpmtSngU3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/208-reset-network-settings-on-mac-5184072-f136a9e1ab444832a681b2f7bb014497.jpg)
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Will Resetting My Network Settings Do?
 
@@ -217,21 +162,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-make-money-on-youtube-shorts-effective-practical-ways/"><u>[New] 2024 Approved How to Make Money on YouTube Shorts? [Effective Practical Ways]</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-the-course-from-scale-to-submillions-in-youtube/"><u>[Updated] 2024 Approved Charting the Course From Scale to Submillions in Youtube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-comprehensive-list-of-ios-compatible-ps2-games/"><u>[Updated] In 2024, Comprehensive List of iOS-Compatible PS2 Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-outro-samples-collection-including-both-costs/"><u>2024 Approved Outro Samples Collection Including Both Costs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ering-harshness-maintaining-poise-online-for-2024/"><u>Countering Harshness Maintaining Poise Online for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycam-top-tier-video-editing-and-virtual-webcam-solutions/"><u>Enhance Your Broadcasts Using ManyCam - Top-Tier Video Editing and Virtual Webcam Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-livestream-with-manycam-top-rated-online-video-editor-and-simulated-webcam/"><u>Enhance Your Livestream with ManyCam: Top-Rated Online Video Editor & Simulated Webcam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-with-manycam-a-revolutionary-video-conferencing-and-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam: A Revolutionary Video Conferencing and Virtual Webcam Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-virtual-webcams-with-manycam-best-live-video-editing-software-solutions/"><u>Explore Virtual Webcams with ManyCam – Best Live Video Editing Software Solutions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/gain-recovery-of-personal-snapshots/"><u>Gain Recovery of Personal Snapshots</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-advanced-video-enhancement-tools/"><u>Live Streaming Mastery with ManyCam: Advanced Video Enhancement Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-ultimate-virtual-webcam-and-recording-tool/"><u>Live Streaming Mastery: Discover the Power of ManyCam – Ultimate Virtual Webcam and Recording Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-enhance-your-online-presence-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Live Streaming Mastery: Enhance Your Online Presence with ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/skyrocket-your-ark-game-speed-on-pc-with-effective-fps-optimization-techniques/"><u>Skyrocket Your ARK Game Speed on PC with Effective FPS Optimization Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/techniques-to-write-persuasive-videographic-dialogues/"><u>Techniques to Write Persuasive Videographic Dialogues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-debugging-8-critical-solutions-for-guardians-of-the-galaxy-pc-performance-issues/"><u>Ultimate Guide to Debugging: 8 Critical Solutions for 'Guardians of the Galaxy' PC Performance Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-no-cost-android-communication-tools-guide-for-2024/"><u>[New] No-Cost Android Communication Tools Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-roguelike-vs-roguelite-debates-and-history-explained-with-game-examples-for-2024/"><u>[New] Roguelike Vs. Roguelite Debates and History Explained With Game Examples for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-your-craft-minecraft-gameplay-on-a-mac/"><u>[Updated] Capturing Your Craft Minecraft Gameplay on a Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-dreamer-to-doer-sign-up-for-a-youtube-channel/"><u>[Updated] From Dreamer To Doer Sign Up for a YouTube Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-jubilant-join-and-disconnect-protocols/"><u>[Updated] Jubilant Join & Disconnect Protocols</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2023s-best-mobile-emulators-top-choices-for-your-classic-psp-adventures-for-2024/"><u>2023'S Best Mobile Emulators Top Choices for Your Classic PSP Adventures for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-access-pass-explore-the-premier-free-sports-streaming-websites-of-2e-year/"><u>All Access Pass: Explore the Premier Free Sports Streaming Websites of 2E-Year</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-access-to-no-cost-video-editing-software-support-and-resources/"><u>Easy Access to No-Cost Video Editing Software Support and Resources</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-bloodhunts-freezing-glitches-tips-and-tricks-for-a-smoother-gaming-experience-on-pc/"><u>Ending Bloodhunt's Freezing Glitches - Tips & Tricks for a Smoother Gaming Experience on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-msvcr71dll-file-not-found-problems/"><u>Step-by-Step Solution for 'MSVCR71.DLL' File Not Found Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-observing-instagram-without-having-an-account/"><u>Step-by-Step Tutorial on Observing Instagram without Having an Account</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-a-complete-guide-to-kobo-clara-color/"><u>Unveiling the Features: A Complete Guide to Kobo Clara Color</u></a></li>
 </ul></div>
 

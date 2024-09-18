@@ -1,7 +1,7 @@
 ---
 title: "Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto"
-date: 2024-09-11T17:46:02.360Z
-updated: 2024-09-12T17:46:02.360Z
+date: 2024-09-11T18:33:34.777Z
+updated: 2024-09-18T02:19:00.738Z
 categories:
   - BestProducts
 description: "This Article Describes Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto"
@@ -20,13 +20,6 @@ Close
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Causes of Spotify Not Working With Android Auto
 
  Here are some possible reasons why Android Auto and Spotify aren't working correctly:
@@ -41,13 +34,6 @@ Close
 * The app cache has become corrupted
 
 [ Check if Spotify is down for everyone](https://www.lifewire.com/is-spotify-down-or-is-it-just-you-5071705) before jumping into the steps below. It's smart to rule this out first because if it turns out that many users are experiencing problems with the service, all you can do is wait for Spotify to resolve the issue on their end.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Fix Spotify Not Working on Android Auto
 
@@ -65,13 +51,6 @@ Close
 ![Customize launcher and Spotify box highlighted in Android Auto app.](https://www.lifewire.com/thmb/jXWD0NGnFxfUegWGkihjZgvpqUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-12WaystoFixSpotifyNotWorkingonAndroidAuto-annotated-9713c09fa9394da09e34bea96f5f8089.jpg)  
  You shouldn't need to do this because it happens automatically once Spotify is installed on your phone. However, it's possible to hide apps from displaying in Android Auto, which would explain why Spotify is missing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Quickly check whether other apps, like Google Maps, work with Android Auto. If they are having trouble, too, check out this more general guide:[ Ways to Fix It When Android Auto Is Not Working](https://www.lifewire.com/fix-android-auto-not-working-5093747) . That article will also help you determine if your car is compatible with Android Auto.
 7. Allow Spotify to run in the background to fix things like buffering issues and unresponsive screens. Here's how to do that on a Google Pixel: Go to**Settings** \>**Apps** \>**Spotify** \>**App battery usage** , then switch on**Allow background usage** .
 8. [ Check your phone's mobile internet connection](https://www.lifewire.com/fix-mobile-data-not-working-4769125) , which must be solid to avoid audio cutting out while streaming.  
@@ -84,19 +63,6 @@ Close
  To do this, first,[ enable Android Auto's developer mode](https://9to5google.com/2023/01/25/how-to-enable-developer-mode-in-android-auto-and-why-you-might-want-to/) , and then from the three-dot menu, tap**Developer settings** \>**Unknown sources** . Finally, completely close down Android Auto and Spotify before you try using it again.  
 ![Three-dot menu, Developer settings, and Unknown sources highlighted in Android Auto app.](https://www.lifewire.com/thmb/BVN_pr772ACMU1MySxYD7iZX6eA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A-12-12WaystoFixSpotifyNotWorkingonAndroidAuto-annotated-67335ebc6afc41ebbcea61301d5c5ef4.jpg)
 13. Turn on autostart for Spotify. This will allow the app to start back up again in the background after being closed.  
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This is only relevant on some phones, like those from Xiaomi, Huawei, and Realme. Here are some steps to try, depending on your phone maker:  
    * **Security** \>**Manage apps** \>**Permissions** \>**Autostart** \>**Spotify** .  
@@ -141,15 +107,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-ultimate-guide-to-the-finest-3d-blu-ray-equipment-for-2024/"><u>[Updated] Ultimate Guide to the Finest 3D Blu-Ray Equipment for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/escape-the-subscription-bill-smart-ways-to-enjoy-netflix-without-paying/"><u>Escape the Subscription Bill: Smart Ways to Enjoy Netflix Without Paying</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-from-tom-on-latest-computer-gear/"><u>Expert Insights From Tom on Latest Computer Gear</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-retro-gaming-and-pc-upgrades/"><u>Exploring Retro Gaming and PC Upgrades</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-s17t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo S17t without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-acclaimed-20-open-source-pubg-thumbnail-bundles/"><u>In 2024, Acclaimed 20 Open Source PUBG Thumbnail Bundles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor has been deleted.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-your-television-solutions-for-top-screen-issues/"><u>Troubleshooting Your Television: Solutions for Top Screen Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleashing-creativity-with-17-premier-graphic-design-programs-available-today/"><u>Unleashing Creativity with 17 Premier Graphic Design Programs Available Today</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/visual-victory-apple-and-android-highlight-covers-for-2024/"><u>Visual Victory Apple & Android Highlight Covers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-impact-of-new-instagrams-algorithms-on-users/"><u>[Updated] 2024 Approved Impact of New Instagram's Algorithms on Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mfc42dll-error-fixes-a-comprehensive-tutorial-to-restore-system-functionality/"><u>MFC42.DLL Error Fixes: A Comprehensive Tutorial to Restore System Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-connectivity-issues-a-users-manual-to-fix-wi-fi-on-surface-tablets/"><u>Overcoming Connectivity Issues: A User’s Manual to Fix Wi-Fi on Surface Tablets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preparing-for-the-arrival-of-oneplus-10-price-forecasts-launch-date-projections-feature-teasers-and-hushed-conversations-revealed/"><u>Preparing for the Arrival of OnePlus 10: Price Forecasts, Launch Date Projections, Feature Teasers, and Hushed Conversations Revealed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-15-plus-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 15 Plus without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-download-and-update-solution-for-hp-elitebook-8460p-on-windows-systems-fixed/"><u>Ultimate Download & Update Solution for HP Elitebook 8460P on Windows Systems [FIXED]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725287695231-winxvideo-ai/"><u>WinxVideo AI: 가장 우아한 비디오 개선 방법 발전</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

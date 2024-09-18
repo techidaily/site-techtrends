@@ -1,7 +1,7 @@
 ---
 title: "How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers"
-date: 2024-09-11T17:43:40.246Z
-updated: 2024-09-12T17:43:40.246Z
+date: 2024-09-10T17:04:23.705Z
+updated: 2024-09-17T20:12:45.719Z
 categories:
   - BestProducts
 description: "This Article Describes How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers"
@@ -38,47 +38,14 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
@@ -88,21 +55,7 @@ lolostock / Getty Images
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
 
@@ -112,34 +65,13 @@ lolostock / Getty Images
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
@@ -184,18 +116,28 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-youtube-trailer-creation-with-filmora/"><u>[New] 2024 Approved Mastering YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-high-end-fb-visual-creator-free/"><u>[Updated] In 2024, High-End FB Visual Creator (FREE)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-powerful-video-editing-and-virtual-cam-tech/"><u>Enhance Your Online Presence Using ManyCam's Powerful Video Editing and Virtual Cam Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-with-manycam-advanced-live-video-broadcasting-and-remote-webcams/"><u>Enhance Your Online Presence with ManyCam - Advanced Live Video Broadcasting and Remote Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-with-manycams-advanced-webcam-and-broadcasting-tools/"><u>Enhance Your Online Presence with ManyCam's Advanced Webcam and Broadcasting Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-80-pro-straight-screen-edition-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor 80 Pro Straight Screen Edition Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g04-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G04 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-role-of-dissonant-harmonies-and-pacing-in-creating-film-music-suspense/"><u>In 2024, The Role of Dissonant Harmonies and Pacing in Creating Film Music Suspense</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-manycam-advanced-software-and-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover ManyCam - Advanced Software and Virtual Camera Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-the-best-manycam-app-and-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover the Best ManyCam App and Virtual Camera Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-seamless-installation-windows-11-in-place-upgrade-techniques/"><u>Mastering the Seamless Installation: Windows 11 In-Place Upgrade Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-portrait-perfection-the-best-video-editing-apps-for-ios-and-android/"><u>New In 2024, Portrait Perfection The Best Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-lens-legends-choice-the-finest-6-4k-dslr-cameras/"><u>2024 Approved Lens Legends Choice The Finest 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-mobvoo-ticwatch-e2-inexpensive-but-subpar-performance/"><u>Comprehensive Review of Mobvoo TicWatch E2: Inexpensive but Subpar Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-espnpluss-innovative-approach-to-broadcasting-live-and-on-demand-content/"><u>Exploring ESPN+'s Innovative Approach to Broadcasting Live and On-Demand Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harry-potter-movie-marathon-the-correct-order-to-enjoy-them/"><u>Harry Potter Movie Marathon - The Correct Order to Enjoy Them</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-clear-network-connections-and-setup-from-scratch-on-a-mac-computer/"><u>How to Clear Network Connections & Setup From Scratch on a Mac Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-reno-11-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo Reno 11 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-f25-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo F25 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/infiltrating-hidden-user-communications-on-yt-platforms/"><u>Infiltrating Hidden User Communications on YT Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-inshot-leading-video-cutting-tech-deep-insight-reviewed/"><u>Is InShot Leading Video Cutting Tech? Deep Insight Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-ps5-slim-worth-it-a-comprehensive-comparison-to-the-regular-playstation-5-console/"><u>Is the PS5 Slim Worth It? A Comprehensive Comparison to the Regular PlayStation 5 Console</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-video-income-on-youtube-a-practical-guide-for-2024/"><u>Optimizing Video Income on Youtube A Practical Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-making-your-pc-fan-quiet-again/"><u>Step-by-Step Tutorial: Making Your PC Fan Quiet Again</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a78-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A78 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-strategies-for-securely-archiving-and-protecting-your-digital-files/"><u>Top 5 Strategies for Securely Archiving & Protecting Your Digital Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-iphone-15s-resistance-to-liquids-and-its-durability-in-wet-conditions/"><u>Understanding the iPhone 15'S Resistance to Liquids and Its Durability in Wet Conditions</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-leading-audio-time-reverse-programs-a-comprehensive-list-for-desktop-and-smartphone-users/"><u>Updated Leading Audio Time-Reverse Programs A Comprehensive List for Desktop and Smartphone Users</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

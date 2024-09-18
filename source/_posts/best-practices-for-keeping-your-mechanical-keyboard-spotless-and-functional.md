@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Keeping Your Mechanical Keyboard Spotless and Functional
-date: 2024-09-11T17:48:11.963Z
-updated: 2024-09-12T17:48:11.963Z
+date: 2024-09-12T23:36:12.318Z
+updated: 2024-09-17T21:31:34.673Z
 categories:
   - BestProducts
 description: This Article Describes Best Practices for Keeping Your Mechanical Keyboard Spotless and Functional
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -42,42 +35,14 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You Need to Get 120 FPS on PS5
 
@@ -90,10 +55,10 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -142,15 +107,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-youtube-videos-proper-lighting-methods/"><u>[Updated] In 2024, Enhancing YouTube Videos Proper Lighting Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-flv-to-youtube-transformers-in-a-ranking-list/"><u>[Updated] Optimal FLV to YouTube Transformers in a Ranking List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-of-the-best-family-movie-selections-on-amazon-prime-this-month-july/"><u>Best of the Best: Family Movie Selections on Amazon Prime This Month (July)</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-g310-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia G310 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-11-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 11 Pro when Phone is Broken?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-gt-10-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix GT 10 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-account-a-comprehensive-tutorial-for-resetting-your-facebook-password/"><u>Secure Your Account: A Comprehensive Tutorial for Resetting Your Facebook Password</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-complete-handbook-for-capturing-and-organizing-skype-call-data-for-2024/"><u>The Complete Handbook for Capturing and Organizing Skype Call Data for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trouble-connecting-to-battlenet-heres-how-to-tell-if-the-service-is-down/"><u>Trouble Connecting to Battle.net? Here's How to Tell if the Service Is Down</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-ethereum-20-a-solution-to-cryptocurrency-challenges/"><u>Unlocking the Potential of Ethereum 2.0: A Solution to Cryptocurrency Challenges</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-top-picks-for-high-quality-game-captures/"><u>[New] 2024 Approved The Top Picks for High-Quality Game Captures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-delving-into-magix-photo-organizer/"><u>[New] Delving Into MAGIX Photo Organizer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-digital-diaries-reviewing-the-best-personal-devices/"><u>[Updated] 2024 Approved Digital Diaries Reviewing the Best Personal Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-best-photo-boosts-for-perfecting-your-feed-for-2024/"><u>[Updated] Best Photo Boosts for Perfecting Your Feed for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-90-lite-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chinas-economical-virtual-reality-options-for-2024/"><u>China's Economical Virtual Reality Options for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-disconnected-drives-in-windows-1110/"><u>How to Fix Disconnected Drives in Windows 11/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-stop-0x0000007b-bsod-errors/"><u>How to Fix STOP 0X0000007B BSOD Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplified-procedure-for-erasing-unwanted-apps-on-your-samsung-smart-hdtv/"><u>Simplified Procedure for Erasing Unwanted Apps on Your Samsung Smart HDTV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-to-configuring-advanced-sorting-rules-in-gmail/"><u>The Complete Walkthrough to Configuring Advanced Sorting Rules in Gmail</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-videopad-video-editor-features-pros-and-cons/"><u>The Ultimate Guide to Videopad Video Editor Features, Pros, and Cons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-friend-finding-apps-to-expand-your-social-circle/"><u>Top 5 Friend-Finding Apps to Expand Your Social Circle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-horizontal-display-issues-in-your-samsung-television/"><u>Troubleshooting and Repairing Horizontal Display Issues in Your Samsung Television</u></a></li>
 </ul></div>
 

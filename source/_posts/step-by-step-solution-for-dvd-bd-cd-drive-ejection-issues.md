@@ -1,7 +1,7 @@
 ---
 title: Step by Step Solution for DVD, BD, CD Drive Ejection Issues
-date: 2024-09-11T17:47:55.399Z
-updated: 2024-09-12T17:47:55.399Z
+date: 2024-09-11T22:32:39.565Z
+updated: 2024-09-17T23:22:07.190Z
 categories:
   - BestProducts
 description: This Article Describes Step by Step Solution for DVD, BD, CD Drive Ejection Issues
@@ -16,13 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -30,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -52,43 +38,22 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -137,20 +102,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-essential-comprehensive-free-livestream-software-guide-for-all-systems-for-2024/"><u>[New] Essential Comprehensive Free Livestream Software Guide for All Systems for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-secrets-of-striking-highlight-image-creation-for-2024/"><u>[New] Unveiling the Secrets of Striking Highlight Image Creation for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-guide-5-advanced-webcams-for-video-calls/"><u>[Updated] 2024 Approved Ultimate Guide 5 Advanced Webcams for Video Calls</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-stepwise-approach-to-downloading-movie-maker-6/"><u>[Updated] Stepwise Approach to Downloading Movie Maker 6</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-replacements-for-skype-top-picks-of-2eae-2024/"><u>Affordable Replacements for Skype: Top Picks of 2Eae 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-5-elearning-programs-to-excel-in-artificial-intelligence-prompt-design/"><u>Best 5 eLearning Programs to Excel in Artificial Intelligence Prompt Design</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-smartwatches-what-they-are-and-how-they-enhance-your-life/"><u>Exploring Smartwatches – What They Are and How They Enhance Your Life</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-and-solve-missing-python24dll-in-windows-systems/"><u>How to Address and Solve 'Missing Python24.dll' In Windows Systems</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-tv-deactivation-tips-for-2024/"><u>Instagram TV Deactivation Tips for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-picart-a-guide-to-clear-backgrounds-for-2024/"><u>Mastering PicArt A Guide to Clear Backgrounds for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-ending-the-frustration-of-horizon-zero-dawn-game-crashes/"><u>PC Players Rejoice: Ending the Frustration of Horizon Zero Dawn Game Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-steamdll-error-quickly-and-easily/"><u>Resolve 'Steam.dll' Error Quickly and Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionary-tricks-to-juice-up-your-mobile-device-sans-charger/"><u>Revolutionary Tricks to Juice Up Your Mobile Device Sans Charger</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-meta-ai-the-cutting-edge-brain-of-facebooks-platform/"><u>Understanding Meta AI: The Cutting-Edge Brain of Facebook's Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-expect-from-meta-quest-3-lite-analyzing-future-pricing-release-windows-and-speculative-tech-specs/"><u>What to Expect From Meta Quest 3 Lite? Analyzing Future Pricing, Release Windows & Speculative Tech Specs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>[New] In 2024, Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-beginners-guide-to-building-the-perfect-home-theatre/"><u>Affordable Beginner's Guide to Building the Perfect Home Theatre</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-on-direct-scanning-with-printer-and-computer-setup/"><u>Complete Tutorial on Direct Scanning with Printer and Computer Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-amds-zen-5-architecture-ryzen-9000-series-and-ai-300-performance-with-insights-on-rdna-35-gpu-and-xdna-evolution/"><u>Comprehensive Analysis of AMD's Zen 5 Architecture: Ryzen 9000 Series & AI 300 Performance with Insights on RDNA 3.5 GPU & XDNA Evolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-closed-captions-a-step-by-step-guide-for-amazon-prime-viewers/"><u>Disabling Closed Captions: A Step-by-Step Guide for Amazon Prime Viewers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-our-curated-list-of-top-10-educational-apps-for-teens-in-high-school/"><u>Discover Our Curated List of Top 10 Educational Apps for Teens in High School</u></a></li>
+<li><a href="https://techtrends.techidaily.com/everything-you-need-to-know-about-digital-video-recorders-dvrs/"><u>Everything You Need to Know About Digital Video Recorders (DVRs)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-roundup-of-best-game-casting-apps-for-2024/"><u>Expert Roundup of Best Game Casting Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-blueprints-for-the-ultimate-home-studio-a-4k-editing-powerhouse/"><u>In 2024, Blueprints for the Ultimate Home Studio A 4K Editing Powerhouse</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-reno-9a-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Reno 9A Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-facebooks-visual-search-a-step-by-step-guide/"><u>Mastering Facebook's Visual Search: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results/"><u>New Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sennheisers-high-end-hd-620s-audiophile-headphones-new-low-price-at-just-50/"><u>Sennheiser's High-End HD 지620S Audiophile Headphones: New Low Price at Just $50!</u></a></li>
 </ul></div>
 

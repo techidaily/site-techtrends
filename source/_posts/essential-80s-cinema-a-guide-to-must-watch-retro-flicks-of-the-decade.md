@@ -1,7 +1,7 @@
 ---
 title: "Essential '80S Cinema: A Guide to Must-Watch Retro Flicks of the Decade"
-date: 2024-09-11T17:45:05.172Z
-updated: 2024-09-12T17:45:05.172Z
+date: 2024-09-16T18:47:17.377Z
+updated: 2024-09-17T21:22:00.313Z
 categories:
   - BestProducts
 description: "This Article Describes Essential '80S Cinema: A Guide to Must-Watch Retro Flicks of the Decade"
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 ## Quick Guide: Crafting the ❤️ Symbol From Keystrokes Alone – No Touch Needed
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -30,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 * Mac: Press**Cmd+Ctrl+Space** to select heart symbols from the emoji keyboard.
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Windows Keyboard
 
@@ -51,22 +37,8 @@ These instructions apply to PCs running Windows 10 and up.
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
 
@@ -84,23 +56,10 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -110,6 +69,13 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -122,13 +88,6 @@ These instructions apply to PCs running Windows 10 and up.
 3. Check**Turn on numeric key pad** .  
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
@@ -180,21 +139,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-crafting-immersive-video-experiences-using-captivate/"><u>[New] Crafting Immersive Video Experiences Using Captivate</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-daily-motivation-delivered-by-tiktoks-best-ten/"><u>[Updated] Daily Motivation Delivered by TikTok's Best Ten</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unlocking-the-secrets-of-professional-srt-file-making-for-2024/"><u>[Updated] Unlocking the Secrets of Professional SRT File Making for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-digging-into-sharex-assessment-and-choices/"><u>2024 Approved Digging Into ShareX Assessment & Choices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dciman32dll-error-fixes-how-to-quickly-rectify-file-not-found-issues/"><u>dciman32.dll Error Fixes - How to Quickly Rectify File Not Found Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-our-premier-choices-top-free-malware-cleaners/"><u>Discover Our Premier Choices: Top Free Malware Cleaners</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-f1-202n-from-crashing-on-your-computer/"><u>Fixing the Issue: How to Stop F1 202N From Crashing on Your Computer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cyber-conference-capture/"><u>In 2024, Cyber Conference Capture</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-the-next-apple-unveiling-schedule-announcements-rumored-details-and-latest-industry-news/"><u>Inside Scoop on the Next Apple Unveiling - Schedule Announcements, Rumored Details & Latest Industry News!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-youtube-multi-channel-management-how-many-can-you-have/"><u>Navigating YouTube Multi-Channel Management: How Many Can You Have?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-screencasting-team-virtual-gatherings/"><u>Step-by-Step Screencasting Team Virtual Gatherings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-personalizing-your-email-footer-with-godaddy-web-mail/"><u>Step-by-Step Tutorial: Personalizing Your Email Footer with GoDaddy Web Mail</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-lameencdll-errors-for-optimal-audio-editing-with-audacity/"><u>Troubleshooting lame_enc.dll Errors for Optimal Audio Editing with Audacity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-your-facebook-account-without-sms-or-email-proven-password-reset-methods-here/"><u>Unlock Your Facebook Account without SMS or Email - Proven Password Reset Methods Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlocking-cprm-drm-guide-to-watch-encrypted-dvds-on-windows-and-mac/"><u>Unlocking CPRM DRM: Guide to Watch Encrypted DVDs on Windows & Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-apeaksoft-2023-screens-recording-insights/"><u>[New] 2024 Approved Apeaksoft 2023 Screens Recording Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-analysis-does-inshot-stand-out-in-editing-software/"><u>[New] In-Depth Analysis Does InShot Stand Out in Editing Software?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-pova-5-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Pova 5 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-revolutionaries-discovering-6-icon-and-logo-banks-online/"><u>Design Revolutionaries Discovering 6 Icon & Logo Banks Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oneplus-11r-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for OnePlus 11R</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-speaker-showcase-designer/"><u>In 2024, Premier Speaker Showcase Designer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-playlists-the-ultimate-method-for-unliking-songs-on-spotify/"><u>Mastering Your Playlists: The Ultimate Method for Unliking Songs on Spotify</u></a></li>
+<li><a href="https://driver-error.techidaily.com/optimize-point-touch-response-time-dell-windows-7/"><u>Optimize Point-Touch Response Time (Dell, Windows 7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rise-above-challenges-top-10-advanced-tricks-for-dominating-subway-surfers/"><u>Rise Above Challenges: Top 10 Advanced Tricks for Dominating Subway Surfers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stop-receiving-unwanted-emergency-alerts-on-your-android-device/"><u>Stop Receiving Unwanted Emergency Alerts on Your Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/switching-off-the-latest-iphones-tips-for-iphone-15-propro-max-users/"><u>Switching Off the Latest iPhones: Tips for iPhone 15 Pro/Pro Max Users</u></a></li>
 </ul></div>
 

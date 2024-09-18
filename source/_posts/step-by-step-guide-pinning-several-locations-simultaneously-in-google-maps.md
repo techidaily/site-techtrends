@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Pinning Several Locations Simultaneously in Google Maps"
-date: 2024-09-11T17:42:31.153Z
-updated: 2024-09-12T17:42:31.153Z
+date: 2024-09-16T02:13:54.313Z
+updated: 2024-09-18T00:51:38.586Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Pinning Several Locations Simultaneously in Google Maps"
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -30,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -50,45 +36,24 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -137,19 +102,13 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimal-ppt-presentation-capture-methods/"><u>[New] In 2024, Optimal PPT Presentation Capture Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>[Updated] Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-breakdown-navigating-through-the-latest-ipados-editions/"><u>Comprehensive Breakdown: Navigating Through the Latest iPadOS Editions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dissecting-the-ultra-clear-aesthetic-of-lgs-4k-screen/"><u>Dissecting the Ultra-Clear Aesthetic of LG's 4K Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-steps-for-setting-up-playstation-vr-on-your-desktop-system/"><u>Effortless Steps for Setting up PlayStation VR on Your Desktop System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-performance-free-rtx-2080-super-driver-downloads-for-windows-11-systems/"><u>Enhance Gaming Performance: Free RTX 2080 Super Driver Downloads for Windows 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-craft-an-effective-email-closing-in-godaddys-online-mail-client/"><u>How to Craft an Effective Email Closing in GoDaddy's Online Mail Client</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-inkjet-all-in-one-printer-driver-update-for-seamless-printing-on-windows-10/"><u>HP Deskjet Inkjet All-in-One Printer Driver Update for Seamless Printing on Windows 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-tiktok-video-aspect-ratios/"><u>In 2024, TikTok Video Aspect Ratios</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-retailers-for-high-quality-smartphone-shopping/"><u>Leading Retailers for High-Quality Smartphone Shopping</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-handling-the-d3dx939dll-not-detected-problem/"><u>Quick Fixes: Handling the 'd3dx9_39.dll Not Detected' Problem</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unexpected-printer-error-alert/"><u>Unexpected Printer Error Alert</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-streaming-made-easy-setting-up-fire-stick-on-mobile-hotspot/"><u>Wireless Streaming Made Easy: Setting Up Fire Stick on Mobile Hotspot</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-innovative-approaches-to-customize-your-igtv-content-size/"><u>[New] 2024 Approved Innovative Approaches to Customize Your IGTV Content Size</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-social-connections-facetime-tutorials-for-android/"><u>[Updated] In 2024, Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance-for-2024/"><u>[Updated] Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-concealed-data-expert-techniques-for-displaying-hidden-files-in-macos-with-terminal-tools/"><u>Discover Concealed Data: Expert Techniques for Displaying Hidden Files in macOS with Terminal Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-methods-to-keep-tabs-on-your-bandwidth-expenditure/"><u>Efficient Methods to Keep Tabs on Your Bandwidth Expenditure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-getting-amazon-prime-subtitle-features-back-online-and-working-perfectly/"><u>Expert Advice: Getting Amazon Prime Subtitle Features Back Online and Working Perfectly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 Pro Max</u></a></li>
 </ul></div>
 

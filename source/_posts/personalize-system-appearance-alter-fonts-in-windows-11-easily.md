@@ -1,7 +1,7 @@
 ---
 title: Personalize System Appearance - Alter Fonts in Windows 11 Easily
-date: 2024-09-11T17:41:26.058Z
-updated: 2024-09-12T17:41:26.058Z
+date: 2024-09-11T00:26:04.492Z
+updated: 2024-09-17T22:22:23.084Z
 categories:
   - BestProducts
 description: This Article Describes Personalize System Appearance - Alter Fonts in Windows 11 Easily
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 
  This article explains how to change the color of the taskbar in Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change the Taskbar Color in Windows 10
 
  Windows 10 gives you the ability to choose the color of your taskbar. If you don’t want fine control over the color, simply switching between light and[dark mode](https://www.lifewire.com/turn-on-windows-10-dark-theme-4587692) will change the color of your taskbar. You can also access Windows settings via the[Start Menu](https://www.lifewire.com/windows-10-start-menu-tour-3506815) for some color personalization options, including the ability to change the taskbar color to whatever you like.
@@ -42,22 +35,8 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 ![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
 3. Click**Colors** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
@@ -68,31 +47,10 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Can’t I Change the Color of My Taskbar?
 
@@ -103,10 +61,10 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Has My Taskbar Changed Color in Windows 10?
@@ -157,17 +115,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-youtubes-video-editor-essential-tips-and-tricks/"><u>[New] 2024 Approved Mastering YouTube's Video Editor Essential Tips and Tricks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-shift-twitter-video-preview-panel/"><u>[Updated] In 2024, Shift Twitter Video Preview Panel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerate-audio-stream-10-best-mobile-tools-for-2024/"><u>Accelerate Audio Stream 10 Best Mobile Tools for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-evolution-how-does-transfer-learning-impact-it/"><u>AI's Evolution: How Does Transfer Learning Impact It?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/budget-friendly-acer-predator-orion-5000-laptop-review-with-exceptional-high-end-specs/"><u>Budget-Friendly Acer Predator Orion 5000 Laptop Review with Exceptional High-End Specs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/echo-dot-vs-homepod-mini-face-off-identifying-critical-contrasts/"><u>Echo Dot Vs. HomePod Mini Face-Off: Identifying Critical Contrasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tial-guide-to-mounting-a-tripod-for-vloggers/"><u>Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eye-catching-clues-to-fraudulent-chatgpt-websites/"><u>Eye-Catching Clues to Fraudulent ChatGPT Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-a-slow-internet-connection/"><u>How to Fix a Slow Internet Connection</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mastering-video-segmentation-the-easy-fades-way/"><u>In 2024, Mastering Video Segmentation The Easy Fades Way</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-power-and-capabilities-of-metas-artificer-intelligence/"><u>Understanding the Power and Capabilities of Meta's Artificer Intelligence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-differences-ipad-pro-against-macbook-air-in-head-to-head-battle/"><u>Unveiling the Differences: IPad Pro Against MacBook Air in Head-to-Head Battle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-comprehensive-guide-to-focusing-on-your-iphone-camera/"><u>[New] 2024 Approved A Comprehensive Guide to Focusing on Your iPhone Camera</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-mobile-tech-how-to-record-your-snapchat-content/"><u>[Updated] Unlocking Mobile Tech How to Record Your Snapchat Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/comprehensive-study-gecatas-game-record-functionality-for-2024/"><u>Comprehensive Study Gecata's Game Record Functionality for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-guide-setting-up-your-own-wireless-cinema-in-college-quarters/"><u>DIY Guide: Setting Up Your Own Wireless Cinema in College Quarters</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-prevent-mystery-calls-by-hiding-unknown-contacts-on-iphone/"><u>Guide: Prevent Mystery Calls by Hiding ‘Unknown’ Contacts on iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-catch-every-moment-of-the-anticipated-samsung-unpacked-conference-online/"><u>How to Catch Every Moment of the Anticipated Samsung Unpacked Conference Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-an-easy-to-follow-guide-to-applying-cc-license-types/"><u>In 2024, An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-expedited-transformation-top-5-free-online-gif-to-video-apps/"><u>In 2024, Expedited Transformation Top 5 Free Online GIF to Video Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-photo-retouching-for-2024/"><u>Mastering the Art of Photo Retouching for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimizing-cable-box-or-dtv-setup-the-best-indoor-antennas-for-clearer-viewing/"><u>Optimizing Cable Box or DTV Setup: The Best Indoor Antennas for Clearer Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-steps-to-take-when-your-gmail-wont-sync/"><u>Solving the Issue: Steps to Take When Your Gmail Won't Sync</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-chromebook-freezing-issues-with-these-8-techniques/"><u>Solving Your Chromebook Freezing Issues with These 8 Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882517397-the-elite-top-1aturals-in-online-dominance-meet-the-10-biggest-websites-ever/"><u>The Elite Top 1Aturals in Online Dominance: Meet The 10 Biggest Websites Ever</u></a></li>
 </ul></div>
 

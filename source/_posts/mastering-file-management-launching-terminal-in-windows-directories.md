@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Management: Launching Terminal in Windows Directories"
-date: 2024-09-11T17:44:02.214Z
-updated: 2024-09-12T17:44:02.214Z
+date: 2024-09-15T01:16:58.298Z
+updated: 2024-09-17T18:35:20.804Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering File Management: Launching Terminal in Windows Directories"
@@ -23,29 +23,9 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
  This article teaches you how to open Command Prompt in a way that lets you start working from a specific folder immediately. Here's how to start CMD from a folder in Windows 11 (it's very similar in older versions).
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Open CMD in a Folder
 
  It's easy to[start Command Prompt the normal way](https://www.lifewire.com/how-to-open-command-prompt-2618089) , but if you know which folder you want to run commands in, you'll save yourself a step or two if you open Command Prompt in the folder from the start. Below are two methods.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Change the Folder Path
 
@@ -59,33 +39,13 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 ![CMD written in the folder path in File Explorer](https://www.lifewire.com/thmb/rr8ptOhLYrnBgD6w_Hjye9YQuYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-folder-path-file-explorer-300f168551ca419ca508d6d57c6b4eb4.png)
 4. Press**Enter** . This will open Command Prompt directly to that folder.  
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Command Prompt set to a specific folder](https://www.lifewire.com/thmb/ImWlJT46vdUQ80eKbgJrFAaBcFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/command-prompt-open-to-folder-33b0154a3b924977be06347bb84ef696.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use a Keyboard Shortcut
@@ -98,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 [Terminal](https://www.lifewire.com/windows-terminal-4779951) is the command line tool used in Windows 11\. Follow that link to learn how to access Command Prompt and other tools from Terminal.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Command for Changing Folders in Command Prompt
@@ -147,19 +107,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-deciphering-your-youtube-viewership-stats/"><u>[Updated] 2024 Approved Deciphering Your YouTube Viewership Stats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-and-watch-hulu-with-your-lg-smart-tv-comprehensive-instructions/"><u>Connect and Watch Hulu with Your LG Smart TV – Comprehensive Instructions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-captivating-ios-games-with-a-touch-of-mystery-beyond-the-room-and-myst-originals/"><u>Discover Captivating iOS Games with a Touch of Mystery: Beyond 'The Room' & 'Myst' Originals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-fixing-the-elusive-user3acdll-error-on-your-computer/"><u>Effective Solutions for Fixing the Elusive User3^[A]^^(C)dll Error on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-word-lookups-for-newbies-to-win11/"><u>Efficient Word Lookups for Newbies to Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-novice-to-host-crafting-the-perfect-at-home-karaoke-experience/"><u>From Novice to Host: Crafting the Perfect At-Home Karaoke Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-repair-the-persistent-error-0xc19001e1-in-your-windows-10-pc/"><u>How to Repair the Persistent 'Error 0Xc19001e1' In Your Windows 10 PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-creativity-and-engagement-10-best-sources-of-free-slide-show-patterns/"><u>In 2024, Boost Creativity and Engagement - 10 Best Sources of Free Slide Show Patterns</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-microsofts-vision-of-tomorrow-with-hololens-exploration/"><u>In 2024, Microsoft’s Vision of Tomorrow With HoloLens Exploration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>In 2024, Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/masters-choice-10-leading-photo-backdrop-swap-tools-for-2024/"><u>Master's Choice 10 Leading Photo Backdrop Swap Tools for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/switching-to-night-mode-on-an-iphone-easy-tips-and-tricks/"><u>Switching to Night Mode on an iPhone: Easy Tips and Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-roadmap-to-buying-and-playing-vr-games-on-your-meta-powered-oculus-quest-2/"><u>The Beginner's Roadmap to Buying and Playing VR Games on Your Meta-Powered Oculus Quest ^2</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-strategies-for-fb-live-broadcasts-and-recordings-for-2024/"><u>[Updated] Cutting-Edge Strategies for FB Live Broadcasts and Recordings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games-for-2024/"><u>[Updated] Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bridging-the-gap-tethering-your-mobile-data-to-an-amazon-fire-tv-stick-easily/"><u>Bridging the Gap: Tethering Your Mobile Data to an Amazon Fire TV Stick Easily</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/vating-patience-with-youtube-disapproval-for-2024/"><u>Cultivating Patience with YouTube Disapproval for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-meta-quest-cued-with-updates-costs-release-timeline-and-device-details-unveiled/"><u>Discover the Meta Quest Cued with Updates: Costs, Release Timeline, and Device Details Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-honor-magic-5-lite-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor Magic 5 Lite Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-repair-a-missing-msstdfmtdll-file-on-your-computer/"><u>How To Correctly Address and Repair a Missing msstdfmt.dll File on Your Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-video-boundaries-explained/"><u>Instagram Video Boundaries Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-apple-tv-settings-the-pathway-to-unlocking-maximum-efficiency/"><u>Mastering Apple TV Settings: The Pathway to Unlocking Maximum Efficiency</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-guide-to-shopping-for-phones-at-prime-retailers/"><u>Your Guide to Shopping for Phones at Prime Retailers</u></a></li>
 </ul></div>
 

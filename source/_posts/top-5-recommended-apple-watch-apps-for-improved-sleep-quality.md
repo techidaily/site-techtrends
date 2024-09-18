@@ -1,7 +1,7 @@
 ---
 title: Top 5 Recommended Apple Watch Apps for Improved Sleep Quality
-date: 2024-09-11T17:42:53.586Z
-updated: 2024-09-12T17:42:53.587Z
+date: 2024-09-12T20:18:18.425Z
+updated: 2024-09-17T16:35:26.630Z
 categories:
   - BestProducts
 description: This Article Describes Top 5 Recommended Apple Watch Apps for Improved Sleep Quality
@@ -31,62 +31,21 @@ thumbnail: https://www.lifewire.com/thmb/I9HkKmabZPl4tRbVfZonsAafnMI=/540x405/fi
 ![The Apple menu on a MacBook](https://www.lifewire.com/thmb/l1I1ckMK4T1_Bb8Nx1Ws760pXLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macos-apple-menu-6e1d16f2da7f416bb5b09df2e105dc93.png)
 2. Click**Lock Screen** , then select the menu next to**Turn display off on power adapter when inactive** . Pick**Never** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Never chosen in the Lock Screen settings on a MacBook](https://www.lifewire.com/thmb/WGYons73UuXIODOh3ULyu4XYico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-never-turn-display-off-e1e0548dce774a84b6993fc70ed6d0ff.png)  
  If you don't see that option, go to**Battery** \>**Power Adapter** instead, then select the slider and move it to**Never** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Power Adapter highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/5fyup25_ft7wTwiyCcWz7UeWulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-1f901024bdd54206baa2bd00c8544065.jpg)
 3. Click**Battery** from the menu, then choose**Options** . Switch on the toggle next to **Prevent automatic sleeping on power adapter when the display is off** .  
 ![The prevent automatic sleeping on power adapter option toggled on for a MacBook](https://www.lifewire.com/thmb/TdcjINJG4V-giAXqHylO_KVorlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macbook-prevent-automatic-sleeping-f9b2e9316b674a2090717f4e035ca9b8.png)  
  In some versions of macOS, this option is in the**Power Adapter** menu and it's called **Prevent computer from sleeping automatically when the display is off** .  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The prevent computer from sleeping checkbox highlighted in MacBook battery settings.](https://www.lifewire.com/thmb/RFati3T9B0Vn3TUJFCgh9KBh2aU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_prevent-macbook-from-sleeping-when-lid-is-closed-5203069-17e72f1f27a841a2b500dee73546c20d.jpg)
 4. Plug your MacBook into power.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Connect your MacBook to an external monitor using an adapter if necessary.
 6. You can now close your MacBook without the external display turning off. Note that the display on the MacBook itself does turn off, just not the external monitor.
 
  If you want to use your MacBook in this configuration permanently, you can use the Mac sleep scheduler to have it sleep and night and wake up in the morning automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Does My MacBook Sleep When I Close the Lid?
 
@@ -95,16 +54,10 @@ thumbnail: https://www.lifewire.com/thmb/I9HkKmabZPl4tRbVfZonsAafnMI=/540x405/fi
  The most common reason to want to keep a MacBook from sleeping when the lid is closed is if you're going to use it with an external monitor and keyboard. Apple makes that reasonably easy if you follow the instructions provided in the previous section.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Keep a MacBook From Sleeping With the Lid Closed Without a Monitor?
@@ -151,20 +104,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-dynamic-dividends-boosting-social-media-roi-with-fb-ad-animations/"><u>[New] Dynamic Dividends Boosting Social Media ROI with FB Ad Animations</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-fumble-get-unlocked-after-the-hack/"><u>2024 Approved Facebook Fumble? Get Unlocked After the Hack</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>2024 Approved Step-by-Step VivaCut Video Editing Complete Guide for '24</u></a></li>
-<li><a href="https://techtrends.techidaily.com/6-tips-for-choosing-the-best-selfie-stick/"><u>6 Tips For Choosing the Best Selfie Stick</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-solution-to-deal-with-dciman32dll-not-detected-problems/"><u>A Step-by-Step Solution to Deal with 'dciman32.dll Not Detected' Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/access-without-ownership-leverage-chatgpt-effectively-even-if-you-dont-have-an-openai-profile/"><u>Access Without Ownership: Leverage ChatGPT Effectively Even If You Don't Have an OpenAI Profile</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-l2350dw-how-to-download-the-latest-printing-software-version/"><u>Brother HL-L2350DW: How to Download the Latest Printing Software Version</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-10-most-popular-and-effective-apps-designed-for-teens-education/"><u>Discover the 10 Most Popular and Effective Apps Designed for Teens' Education</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-6-exceptional-standalone-language-apps/"><u>Discover the Ultimate List: 6 Exceptional Standalone Language Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722880693605-discover-what-sets-apart-apples-most-recent-ipad-release/"><u>Discover What Sets Apart Apple's Most Recent iPad Release.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-smooth-printing-with-the-latest-epson-stylus-nx420-drivers-windows-supported/"><u>Ensure Smooth Printing with the Latest Epson Stylus NX420 Drivers (Windows Supported)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-and-overcoming-error-0xc19001e1-on-windows-10-systems/"><u>Expert Tips for Correcting and Overcoming Error 0xC19001E1 on Windows 10 Systems</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>In 2024, Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-checklist-finding-your-dream-phone-protector/"><u>The Complete Checklist: Finding Your Dream Phone Protector</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-htc-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on HTC ?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-leveraging-teamsnap-for-dynamic-virtual-presentations/"><u>[New] 2024 Approved Leveraging TeamSnap for Dynamic Virtual Presentations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-chronicling-of-live-audio-content-on-the-net-for-2024/"><u>[New] Digital Chronicling of Live Audio Content on the Net for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-traffic-with-smart-youtube-title-and-tag-use-for-2024/"><u>[Updated] Boosting Traffic with Smart YouTube Title & Tag Use for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-video-editors-for-cutting-edge-webcams/"><u>[Updated] In 2024, Essential Video Editors for Cutting-Edge Webcams</u></a></li>
+<li><a href="https://discover-best.techidaily.com/ac-3mp3/"><u>AC-3形式からMP3への効率的な一括変換:アコースティック・マネジメントの革新</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-future-of-connectivity-with-verizons-5g-network/"><u>Anticipating the Future of Connectivity with Verizon's 5G Network</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/critical-take-on-marvels-spiderman-the-journey-of-miles-morales-intimate-scale-profound-impact/"><u>Critical Take on Marvel's Spiderman: The Journey of Miles Morales – Intimate Scale, Profound Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-missing-python-240-dynamic-link-library-issues/"><u>Easy Solutions for Correcting Missing 'Python 2.4.0' Dynamic Link Library Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fubotv-integration-install-and-enjoy-live-sports-and-shows-on-firestick/"><u>FuboTV Integration: Install and Enjoy Live Sports & Shows on Firestick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-brainstorm-ideas-with-a-mindmap-and-chatgpt/"><u>How to Brainstorm Ideas With a Mindmap and ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-leverage-the-windows-11-battery-report-for-better-device-performance/"><u>How to Leverage the Windows 11 Battery Report for Better Device Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 Vs. MacBook Air M3: What's the Difference?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-why-your-apple-watchs-cellular-connection-might-be-down-and-how-to-resolve-it/"><u>Troubleshooting: Why Your Apple Watch's Cellular Connection Might Be Down and How to Resolve It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-deactivating-and-deleting-your-tiktok-account/"><u>Ultimate Guide to Deactivating and Deleting Your TikTok Account</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
 

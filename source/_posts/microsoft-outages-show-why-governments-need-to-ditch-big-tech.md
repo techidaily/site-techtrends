@@ -1,7 +1,7 @@
 ---
 title: Microsoft Outages Show Why Governments Need to Ditch Big Tech
-date: 2024-09-11T17:45:24.335Z
-updated: 2024-09-12T17:45:24.335Z
+date: 2024-09-13T22:08:43.830Z
+updated: 2024-09-17T21:26:25.661Z
 categories:
   - BestProducts
 description: This Article Describes Microsoft Outages Show Why Governments Need to Ditch Big Tech
@@ -21,19 +21,6 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Latest Major Updates to Windows 11
 
  As of July 2024, the latest major update to [Windows 11](https://www.lifewire.com/windows-11-5188930) is Windows 11 Version 23H2, referred to as the_Windows 11 2023 Update_ . Updating is automatic through Windows Update.
@@ -44,31 +31,11 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
 [Windows 12](https://www.lifewire.com/windows-12-news-and-rumors-6753587) is the next major operating system expected from Microsoft.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Latest Major Updates to Windows 10
 
  The last major update to [Windows 10](https://www.lifewire.com/windows-10-2626217) is Windows 10 Version 22H2, referred to as the_Windows 10 2022 Update_ . Updating, like in Windows 11, is automatic through Windows Update.
 
  See more about the individual fixes and improvements on Microsoft's[What's New in Windows 10 Version 22H2](https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2) page.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Latest Major Updates to Windows 8
 
@@ -81,10 +48,10 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
  Microsoft isn't planning another big update to Windows 8, like a_Windows 8.2_ or_Windows 8.1 Update 2_ . New features, if available, will instead be pushed through updates on[Patch Tuesday](https://www.lifewire.com/patch-tuesday-2625783) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Latest Microsoft Windows Service Packs (Windows 7, Vista, XP)
@@ -145,19 +112,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-premier-video-editors-transforming-igtv-videos-for-2024/"><u>[New] Premier Video Editors Transforming IGTV Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tactical-guide-to-screening-meetings-on-mobilepc-for-2024/"><u>[New] Tactical Guide to Screening Meetings on Mobile/PC for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-insta-authenticity-your-selfie-verification-journey/"><u>[Updated] 2024 Approved Unlocking Insta Authenticity Your Selfie Verification Journey</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flix-fortune-hashtags-for-high-impact-low-length-video-content-for-2024/"><u>[Updated] Flix Fortune Hashtags for High Impact, Low-Length Video Content for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-sound-excellence-on-a-shoestring-superior-asmr-mics-affordably-for-2024/"><u>[Updated] Sound Excellence on a Shoestring - Superior ASMR Mics Affordably for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-digital-talk-initiator/"><u>2024 Approved Ideal Digital Talk Initiator</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/break-through-boundaries-15plus-best-free-video-starters/"><u>Break Through Boundaries 15+ Best Free Video Starters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-to-address-missing-cygwin1dll-errors-successfully/"><u>Expert Tips to Address Missing Cygwin1.dll Errors Successfully</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-missing-or-not-found-errors-for-x3daudiodll-in-windows-easily/"><u>Fix Missing or Not Found Errors for X3DAudio.DLL in Windows Easily</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 mini with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-iphone-13-waterproof/"><u>Is the iPhone 13 Waterproof?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-8-no-cost-web-design-tools-ideal-html-editors-for-windows/"><u>Top 8 No-Cost Web Design Tools: Ideal HTML Editors for Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-unrivaled-selection-of-the-best-offline-kart-racing-titles-available-gratis/"><u>Top Picks: Unrivaled Selection of the Best Offline Kart Racing Titles Available Gratis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-excellence-in-editing-selecting-the-right-software/"><u>[New] In 2024, Excellence in Editing Selecting the Right Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-visualizing-your-vision-incorporating-new-fonts-into-after-effects/"><u>[New] Visualizing Your Vision Incorporating New Fonts Into After Effects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aerial-titans-clash-dji-and-gopros-quest-for-2024/"><u>Aerial Titans Clash DJI and GoPro's Quest for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/critical-system-files-restoration-addressing-the-absent-shell32dll-file/"><u>Critical System Files Restoration: Addressing the Absent shell32.dll File</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exceptional-endurance-moto-g-power-a-comprehensive-look-at-its-impressive-battery-performance/"><u>Exceptional Endurance Moto G Power: A Comprehensive Look at Its Impressive Battery Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/imessage-made-simple-how-to-effortlessly-send-and-receive-texts-on-an-ipad/"><u>IMessage Made Simple: How to Effortlessly Send and Receive Texts on an iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-premier-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Camon 20 Premier 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-iphone-zoom-videography/"><u>In 2024, IPhone Zoom Videography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/messenger-solo-a-guide-to-communicating-on-facebooks-app-without-an-account/"><u>Messenger Solo: A Guide to Communicating on Facebook's App without an Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/psvr-2-exclusive-lineup-unveiled-a-complete-guide-to-upcoming-titles/"><u>PSVR 2 Exclusive Lineup Unveiled: A Complete Guide to Upcoming Titles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-linking-your-samsung-sound-bar-with-a-television/"><u>Steps for Linking Your Samsung Sound Bar with a Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-potential-of-artificial-intelligence-with-15-complimentary-flexible-online-courses-from-lifewire/"><u>Unlock the Potential of Artificial Intelligence with 15 Complimentary, Flexible Online Courses From Lifewire</u></a></li>
 </ul></div>
 

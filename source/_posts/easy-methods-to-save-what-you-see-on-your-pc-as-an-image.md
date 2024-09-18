@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Save What You See on Your PC as an Image
-date: 2024-09-11T17:47:35.600Z
-updated: 2024-09-12T17:47:35.600Z
+date: 2024-09-13T00:35:24.107Z
+updated: 2024-09-17T22:10:00.425Z
 categories:
   - BestProducts
 description: This Article Describes Easy Methods to Save What You See on Your PC as an Image
@@ -21,13 +21,6 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Dry Out and Fix a Wet iPhone
 
  Follow these steps to try to save your wet iPhone:
@@ -38,26 +31,12 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
 
 1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Advanced Techniques for Fixing a Wet iPhone
 
@@ -74,13 +53,6 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -89,10 +61,16 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check for Water Damage in a Used iPhone or iPod
@@ -103,19 +81,19 @@ thumbnail: https://www.lifewire.com/thmb/J5VrLObE_7W_SXAOuQKvFEH28rg=/540x405/fi
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
 
 * [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Waterproof iPhones: iPhone 7 and Newer
 
@@ -154,21 +132,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-designing-dynamic-movie-synopses/"><u>[Updated] In 2024, Designing Dynamic Movie Synopses</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-from-visionary-to-victory-channel-command-school/"><u>2024 Approved From Visionary to Victory Channel Command School</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>2024 Approved Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722859234573-code-28-hiccups-on-your-pc-heres-how-to-fix-them/"><u>Code 28 Hiccups on Your PC? Here's How to Fix Them!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-guide-to-correcting-audio-playback-errors-in-your-application/"><u>Effortless Guide to Correcting Audio Playback Errors in Your Application</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-the-video-call-scheduler-crash-bug-in-windows-10-a-comprehensive-guide/"><u>How to Fix the Video Call Scheduler Crash Bug in Windows 10 – A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-se-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone SE Without iTunes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-here-we-are-going-to-go-through-the-process-of-getting-avidemux-running-on-your-system-and-cropping-some-video/"><u>New In 2024, Here We Are Going to Go Through the Process of Getting Avidemux Running on Your System and Cropping some Video</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlock-the-power-of-nature-with-sealoc-coastal-silver-a-comprehensive-review-of-their-stunning-55-inch-4k-outdoor-tv/"><u>Unlock the Power of Nature with Sealoc Coastal Silver: A Comprehensive Review of Their Stunning 55-Inch 4K Outdoor TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrade-your-broadcast-with-these-manycam-substitutes-virtual-cam-solutions-for-live-coding/"><u>Upgrade Your Broadcast with These ManyCam Substitutes: Virtual Cam Solutions for Live Coding</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtual-background-and-webcam-magic-with-manycam-top-online-livestreaming-tool/"><u>Virtual Background & Webcam Magic with ManyCam – Top Online Livestreaming Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtual-broadcasting-powerhouse-record-and-enhance-your-livestreams-using-manycam-technology/"><u>Virtual Broadcasting Powerhouse: Record and Enhance Your Livestreams Using ManyCam Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtual-cam-tech-showdown-discover-the-leading-competitors-to-manycams-live-video-solutions/"><u>Virtual Cam Tech Showdown: Discover the Leading Competitors to ManyCam's Live Video Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtual-camera-solutions-discover-the-leading-manycam-alternatives-for-seamless-livestream-setup/"><u>Virtual Camera Solutions: Discover the Leading ManyCam Alternatives for Seamless Livestream Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtualcamerapro-unleash-the-power-of-manycam-in-live-streaming/"><u>VirtualCameraPro: Unleash the Power of ManyCam in Live Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtucam-pro-advanced-video-broadcast-suite-including-multiple-camera-support/"><u>VirtuCam Pro: Advanced Video Broadcast Suite Including Multiple-Camera Support</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-12-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 12 Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-communication-learn-how-to-compose-and-share-voice-messages-with-ios-devices/"><u>Effortless Communication: Learn How to Compose and Share Voice Messages with iOS Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-itel-a05s-frp-bypass-by-drfone-android/"><u>In 2024, About Itel A05s FRP Bypass</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-discover-the-overlooked-insights-on-instagram-story-watching/"><u>In 2024, Discover the Overlooked Insights on Instagram Story Watching</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macfoldercolorize-a-comprehensive-guide-to-custom-folder-themes-on-macos/"><u>MacFolderColorize: A Comprehensive Guide to Custom Folder Themes on macOS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-bios-configuration-using-the-powerful-features-of-revo-uninstaller/"><u>Mastering BIOS Configuration Using the Powerful Features of Revo Uninstaller</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastery-in-media-manipulation-ttml-and-xml-for-superior-srt-outputs-for-2024/"><u>Mastery in Media Manipulation TTML & XML for Superior SRT Outputs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-save-and-watch-netflix-movies-offline-on-your-computer/"><u>Step-by-Step Instructions: Save and Watch Netflix Movies Offline on Your Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur-for-2024/"><u>The Pathway to Seamless System Enhancement in macOS 11 Big Sur for 2024</u></a></li>
 </ul></div>
 

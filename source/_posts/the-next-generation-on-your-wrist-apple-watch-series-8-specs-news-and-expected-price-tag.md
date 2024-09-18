@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation on Your Wrist: Apple Watch Series 8 Specs, News & Expected Price Tag"
-date: 2024-09-11T17:46:15.651Z
-updated: 2024-09-12T17:46:15.651Z
+date: 2024-09-12T02:11:16.000Z
+updated: 2024-09-17T19:07:29.970Z
 categories:
   - BestProducts
 description: "This Article Describes The Next Generation on Your Wrist: Apple Watch Series 8 Specs, News & Expected Price Tag"
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Apple Watch Series 8 Release Date
 
  Apple has come out with a new smartwatch every year since the first edition in 2015\. Yet again, the company announced the “best Apple Watch lineup yet," Series 8, on September 7, 2022, during a pre-recorded event.
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 ![Apple Watch Series 8](https://www.lifewire.com/thmb/DtwkkoQGcxiDo6WoPGlEJIkbu1A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/watch-s8-lifestyle-202209_GEO_US-e4705bd04575401395ff14e36f323ae5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
  Apple Watch Series 8 prices start at $399 for Wi-Fi only and $499 for cellular. Three months of Fitness+ is included. For comparison, the base model starts at the same price as Series 4 through 7.
@@ -64,31 +50,11 @@ Apple
 
 [ Should You Buy an Apple Watch? ](https://www.lifewire.com/should-you-buy-apple-watch-5248207) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Apple Watch Series 8 Features
 
  Below are some notable Apple Watch 8 features. They go hand-in-hand with improvements like longer battery life, better screens, and an upgraded operating system (watchOS 9).
 
 ![Apple Watch Series 8 hermes](https://www.lifewire.com/thmb/52wGX0LMEX_IaJL4L1fYVQhQL0w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/watch-s8-lifestyle-hermes-202209-4a33619e6c4149d2a5ea874e47ab647a.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple
 
@@ -98,6 +64,13 @@ Apple
 * **Low Power Mode** : Save battery life by having some features turn off when the battery is low, like the always-on display and automatic workout detection.[ Low Power Mode](https://www.lifewire.com/use-low-power-mode-on-apple-watch-6828394) doubles the battery life from 18 hours to 36 hours and works on all Apple Watches running watchOS 9 (Series 4 and newer).
 * **International roaming** : This feature is now available on cellular models, starting with the Series 5.
 * **watchOS 9** : The[ new watchOS](https://www.lifewire.com/new-watchos-will-offer-more-insight-about-you-5324631) will bring four new watch faces, an updated Siri UI and banner notifications, additional metrics in the Workout app, Sleep Stages for the Sleep app, AFib History, health data sharing, the Medications app to track medications and learn about drug interactions, new keyboard languages, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Apple Watch Series 8 Specs and Hardware
 
@@ -117,20 +90,13 @@ Apple
 
 ![The new bands for the Apple Watch Series 8 and Ultra](https://www.lifewire.com/thmb/U-K7be-7ifgQx6BtoHI5UJBEqH0=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-Apple-Watch-bands-025a485cf0a84fad8dbc6a7c20bb69bd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the Apple Watch Series 8
@@ -158,12 +124,18 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-role-of-workspace-dynamics-in-employee-output/"><u>[Updated] In 2024, The Role of Workspace Dynamics in Employee Output</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-10-online-hubs-for-public-domain-music-in-games/"><u>[Updated] Top 10 Online Hubs for Public Domain Music in Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/break-the-language-barrier-with-these-easy-to-use-no-internet-required-translation-helpers/"><u>Break the Language Barrier with These Easy-to-Use, No-Internet Required Translation Helpers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-to-correct-missing-libxml2dll-file-mistakes/"><u>Comprehensive Tips to Correct Missing Libxml2.dll File Mistakes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-coredll-not-found-issue-comprehensive-troubleshooting-tips/"><u>Fix the 'Core.dll Not Found' Issue - Comprehensive Troubleshooting Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-or-repair-your-realtek-rtl8723be-drivers-a-comprehensive-guide/"><u>How to Successfully Update or Repair Your Realtek RTL8723BE Drivers: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/the-ultimate-guide-to-the-ugreen-nexode-300w-gan-charging-station-for-desktops-a-survivalists-dream/"><u>The Ultimate Guide to the Ugreen Nexode 지오즈 300W GaN Charging Station for Desktops – A Survivalist's Dream</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-techniques-for-saving-facetime-chats-live/"><u>[New] Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-5-high-definition-screens-for-ps5/"><u>[Updated] Top 5 High-Definition Screens for PS5</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-expert-tips-for-utilizing-funimate-downloader/"><u>2024 Approved Expert Tips for Utilizing Funimate Downloader</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-turn-off-spotifys-recommended-listings/"><u>2024 Approved Step-by-Step Guide Turn Off Spotify's Recommended Listings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-clear-network-connections-and-setup-from-scratch-on-a-mac-computer/"><u>How to Clear Network Connections & Setup From Scratch on a Mac Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-ps5-slim-worth-it-a-comprehensive-comparison-to-the-regular-playstation-5-console/"><u>Is the PS5 Slim Worth It? A Comprehensive Comparison to the Regular PlayStation 5 Console</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-invalid-service-installation-inf-segment/"><u>Solving Invalid Service Installation INF Segment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-for-sports-video-compilation-for-2024/"><u>Step-by-Step for Sports Video Compilation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-boosting-dtv-reception-in-urban-settings-with-an-interior-antenna-setup/"><u>Step-by-Step Guide: Boosting DTV Reception in Urban Settings with an Interior Antenna Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-strategies-for-securely-archiving-and-protecting-your-digital-files/"><u>Top 5 Strategies for Securely Archiving & Protecting Your Digital Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-choosing-the-best-video-grabber-for-windows-10-for-2024/"><u>Ultimate Guide Choosing the Best Video Grabber for Windows 10 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-iphone-15s-resistance-to-liquids-and-its-durability-in-wet-conditions/"><u>Understanding the iPhone 15'S Resistance to Liquids and Its Durability in Wet Conditions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes to Dry Out and Repair Waterlogged iPhone/iPod Units
-date: 2024-09-11T17:43:52.922Z
-updated: 2024-09-12T17:43:52.922Z
+date: 2024-09-12T22:32:16.764Z
+updated: 2024-09-17T20:23:52.473Z
 categories:
   - BestProducts
 description: This Article Describes DIY Fixes to Dry Out and Repair Waterlogged iPhone/iPod Units
@@ -17,31 +17,11 @@ thumbnail: https://www.lifewire.com/thmb/bST_6qyH53vsU_5a1LzsxnxhEFw=/540x405/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are iPhones Waterproof?
 
  To answer this question simply, no,[iPhones are not waterproof](https://www.lifewire.com/is-the-iphone-waterproof-or-not-5089476) . However, most newer iPhone models are water-resistant.
 
 ![Man holding a wet iphone](https://www.lifewire.com/thmb/fBUnCEjh49pk3yM9D23Ydhe4kpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Man-Holding-Wet-iPhone-8662979-9e556c45aa4545e1a7886343b190e828.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pexels / Pixabay
 
@@ -51,13 +31,6 @@ Pexels / Pixabay
 
  Device models since the iPhone 7–including the iPhone 15 line–are water resistant and were tested in a controlled lab to confirm and obtain the rating you’ll see below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Waterproof Is the iPhone 15 Pro Max?
 
  Several newer iPhone models are more water-resistant than others. The iPhone X through the iPhone 15 models have an IP68 rating under IEC standard 60529, compared to the IP67 rating of the iPhones 7 and 8.
@@ -65,13 +38,6 @@ Pexels / Pixabay
 [According to Apple](https://support.apple.com/en-us/108039) , iPhone 15 models, including the iPhone 15 Pro Max, are water resistant for a maximum depth of six meters (approximately 19.7 feet) for up to 30 minutes.
 
  If your iPhone is damaged–for example, if its screen is cracked–it may be less resistant to both water and dust.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the IP68 Rating?
 
@@ -86,10 +52,10 @@ Pexels / Pixabay
  So, what does all of this mean? The iPhone 15 Pro Max is almost perfect when it comes to water resistance, but it can't withstand major or prolonged exposure.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Precautions to Take With a Wet iPhone
@@ -105,18 +71,18 @@ Pexels / Pixabay
 
  If you[try to charge your device](https://www.lifewire.com/my-iphone-wont-charge-what-do-i-do-2000147) and it senses liquid, you may see an alert such as “Liquid Detected” or “Charging Not Available.”
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Dry a Wet iPhone 15 Pro Max
 
  You may have heard the trick of placing your smartphone in a bag of rice to dry it; however,[Apple advises against this](https://support.apple.com/en-us/102643) as it could damage your device. Instead, follow these steps to[dry the iPhone](https://www.lifewire.com/how-to-save-wet-iphone-ipod-1999474) .
 
 ![iPhone on a cloth](https://www.lifewire.com/thmb/FsxgvUtkpmiJb35F7ZvcQdWlwoQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone-Towel-Blanket-Chair-8662979-c049d416aab841f992452d1d1aad82e2.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Wipe the iPhone with a soft, dry, lint-free cloth.
 2. Gently tap the device against your hand with the connector facing down to eject excess water.
@@ -155,18 +121,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-art-of-curating-memories-on-social-media/"><u>[New] In 2024, The Art of Curating Memories on Social Media</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-crafting-compelling-vo-for-visual-storytelling-success/"><u>2024 Approved Crafting Compelling VO for Visual Storytelling Success</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-find-a-niche-market-on-youtube/"><u>2024 Approved How to Find A Niche Market on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bringing-back-life-handling-computers-without-signs-of-operation-successfully/"><u>Bringing Back Life: Handling Computers Without Signs of Operation Successfully</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722870430127-exploring-the-best-tech-and-reading-laptops-phones-and-novels-unite/"><u>Exploring the Best Tech & Reading: Laptops, Phones & Novels Unite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/googles-next-gen-pixel-buds-pro-2-deciphering-the-hype-around-release-date-and-specs-pricing/"><u>Google's Next-Gen Pixel Buds Pro 2: Deciphering the Hype Around Release Date and Specs Pricing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-secure-your-spot-setting-up-an-appointment-with-apple-store-experts/"><u>How To Secure Your Spot: Setting Up an Appointment with Apple Store Experts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-engagement-on-video-calls-using-snap-features/"><u>In 2024, Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-pop-7-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Pop 7 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-through-pages-a-detailed-overview-of-apple-books-app/"><u>Navigating Through Pages: A Detailed Overview of Apple Books App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-why-your-pc-cant-exit-windows-11-properly-and-how-to-fix-it/"><u>Step-by-Step Guide: Why Your PC Can't Exit Windows 11 Properly and How to Fix It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-have-mobile-applications-every-teen-needs-in-high-school/"><u>Top 10 Must-Have Mobile Applications Every Teen Needs in High School</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-amazon-prime-day-2024-a-complete-preview/"><u>What to Expect From Amazon Prime Day 2024: A Complete Preview</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-disabling-apex-legends-cross-play-best-platform-tactics-unveiled-for-2024/"><u>[New] Disabling Apex Legends Cross-Play Best Platform Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-drive-more-viewers-to-your-videos-top-growth-hacks/"><u>[Updated] In 2024, Drive More Viewers to Your Videos Top Growth Hacks</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-x6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find X6 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-ace-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus Ace 2 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888757101-iphone-voice-message-basics-a-simple-tutorial-for-seamless-audio-sharing-on-ios-devices/"><u>IPhone Voice Message Basics: A Simple Tutorial for Seamless Audio Sharing on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/should-you-update-to-the-new-ios-17-pros-and-cons-explored/"><u>Should You Update to the New iOS 17? Pros and Cons Explored</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-transferring-and-converting-your-dvd-collection-to-ipadiphone/"><u>Step-by-Step Guide: Transferring and Converting Your DVD Collection to iPad/iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-pre-purchase-questions-for-prospective-ev-buyers/"><u>The Ultimate Guide to Pre-Purchase Questions for Prospective EV Buyers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-steps-after-setting-up-your-brand-new-pc/"><u>Top 5 Essential Steps After Setting Up Your Brand-New PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlinked-chatting-steps-for-using-messenger-without-being-on-facebook/"><u>Unlinked Chatting: Steps for Using Messenger Without Being on Facebook.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unraveling-the-secrets-of-excellent-screen-recording-with-recmeister/"><u>Unraveling the Secrets of Excellent Screen Recording with Recmeister</u></a></li>
 </ul></div>
 

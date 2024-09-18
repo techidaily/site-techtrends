@@ -1,7 +1,7 @@
 ---
 title: "Create Digital Love: The Ultimate Guide to Entering a Heart Emoji on Any Keyboard"
-date: 2024-09-11T17:46:08.961Z
-updated: 2024-09-12T17:46:08.961Z
+date: 2024-09-14T17:16:14.427Z
+updated: 2024-09-18T02:53:03.363Z
 categories:
   - BestProducts
 description: "This Article Describes Create Digital Love: The Ultimate Guide to Entering a Heart Emoji on Any Keyboard"
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 ## Easy Steps to Type a Love Heart Emoji with Just Your Keyboard
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -30,19 +23,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 * Mac: Press**Cmd+Ctrl+Space** to select heart symbols from the emoji keyboard.
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Windows Keyboard
 
@@ -56,19 +36,6 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
@@ -89,16 +56,10 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -108,19 +69,6 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -135,26 +83,13 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the**NumLock button** to bring up the number pad.  
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
@@ -204,15 +139,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-high-quality-hd-downloads-5-best-facebook-extensions/"><u>[New] In 2024, High-Quality HD Downloads 5 Best Facebook Extensions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-newbies-guide-to-vlogging-gear-and-software-insights/"><u>[New] In 2024, Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capturing-playthroughs-on-windows-10-easy-way/"><u>[Updated] 2024 Approved Capturing Playthroughs on Windows 10 Easy Way</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>2024 Approved Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-reviews-of-petsafes-automatic-pet-feeder-for-maintaining-your-furry-friends-ideal-weight/"><u>Comprehensive Reviews of PetSafe's Automatic Pet Feeder for Maintaining Your Furry Friend’s Ideal Weight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msxml4dll-not-found-or-missing-errors/"><u>How to Fix Msxml4.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-swift-and-expensive-adventure-with-swagtrons-swagboard-t1-roller-skate-review/"><u>The Swift and Expensive Adventure with Swagtron's Swagboard T1 Roller Skate Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-5-premium-zero-fee-voip-services-for-international-dialing/"><u>The Ultimate List: 5 Premium Zero-Fee VoIP Services for International Dialing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-rip-protected-dvds-a-step-by-step-guide-using-vlc-and-handbrake/"><u>Unlocking Rip-Protected DVDs: A Step-by-Step Guide Using VLC & Handbrake</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-isnt-youtube-working/"><u>Why Isn't YouTube Working?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[Updated] 2024 Approved Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-boosting-youtube-ad-revenue-keeping-cc-active/"><u>2024 Approved Boosting YouTube Ad Revenue Keeping CC Active</u></a></li>
+<li><a href="https://os-tips.techidaily.com/clearing-out-voicemail-entries-from-your-iphone-contact-list/"><u>Clearing Out Voicemail Entries From Your iPhone Contact List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatibility-guide-can-the-nintendo-switch-play-netflix-movies-and-shows/"><u>Compatibility Guide: Can the Nintendo Switch Play Netflix Movies & Shows?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-platform-strategies-for-retrieving-your-icloud-memories/"><u>Cross-Platform Strategies for Retrieving Your iCloud Memories</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-exercises-for-elite-english-or-fancy-french-skills/"><u>Efficient Exercises for Elite English or Fancy French Skills</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-streaming-of-disneyplus-on-television-using-googles-chromecast-technology/"><u>Effortless Streaming of Disney+ on Television Using Google's Chromecast Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-x9b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock X9b Phone Forgot Password</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-word-free-versions-are-they-available-and-how-to-get-them/"><u>Microsoft Word Free Versions - Are They Available and How to Get Them?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/productivity-boosting/"><u>Productivity Boosting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-generation-on-your-wrist-apple-watch-series-8-specs-news-and-expected-price-tag/"><u>The Next Generation on Your Wrist: Apple Watch Series 8 Specs, News & Expected Price Tag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-ultimate-walkthrough-for-accessing-fandango-films-via-firestick-at-home/"><u>Your Ultimate Walkthrough for Accessing Fandango Films via Firestick at Home</u></a></li>
 </ul></div>
 

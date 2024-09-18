@@ -1,7 +1,7 @@
 ---
 title: What Role Does Email Play in Pope Francis's Communication Strategy?
-date: 2024-09-11T17:47:13.545Z
-updated: 2024-09-12T17:47:13.545Z
+date: 2024-09-13T00:51:26.791Z
+updated: 2024-09-17T23:40:44.318Z
 categories:
   - BestProducts
 description: This Article Describes What Role Does Email Play in Pope Francis's Communication Strategy?
@@ -17,13 +17,6 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Contact the Pope Through the Mail
 
  For contacting Pope Francis through the postal service, the Vatican provides this address:
@@ -34,34 +27,13 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 
  Don't add "Italy" to the address. The Vatican is a separate political entity from Italy.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Pope Doesn't Use Email
 
  Despite his lack of email accessibility, Pope Francis sees modern communication options as beneficial. When[Tim Cook, Apple's CEO](https://www.lifewire.com/who-is-tim-cook-1994301) , visited the Vatican in January 2016, Pope Francis released a message titled   _Communication and Mercy: A Fruitful Encounter, for the 50th World Day of Social Communications_ . In it, he said that the internet, text messages, and social networks are "gifts from God."
 
 ![Pope Francis Delivers 'Urbi Et Orbi' Blessing During Easter Mass In St. Peter's Square](https://www.lifewire.com/thmb/z5bZaGaAuEBbtVki4q-_xec1lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Giulio Origlia / Getty Images
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Popes in the Information Age
 
@@ -100,18 +72,30 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/apple-watch-lacks-signal-heres-how-to-restore-and-improve-your-cellular-service/"><u>Apple Watch Lacks Signal? Here's How to Restore and Improve Your Cellular Service!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-getting-mozilla-thunderbird-up-and-running-again-after-crashes/"><u>Effective Strategies for Getting Mozilla Thunderbird Up and Running Again After Crashes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-visual-impact-crafting-3d-text-in-photo/"><u>Enhance Visual Impact Crafting 3D Text in PHOTO</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi A2+ Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Bootloader Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-note-12-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi Note 12 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New 2024 Approved Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-x-power-user-master-40-time-saving-shortcuts/"><u>New 2024 Approved Final Cut Pro X Power User Master 40 Time-Saving Shortcuts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-d3dx92-cuffin-dll-missing-issue-a-comprehensive-guide/"><u>Resolving the D3dx9_2 Cuffin DLL Missing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://tools.techidaily.com/revouninstaller/products/"><u>Revouninstaller's Products</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-photos-and-videos-with-these-androidiphone-montage-apps-for-2024/"><u>Transform Photos & Videos with These Android/iPhone Montage Apps for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-ace-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Ace 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wininetdll-file-absent-proven-solutions-for-restoring-system-functionality/"><u>Wininet.dll File Absent: Proven Solutions for Restoring System Functionality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[New] 2024 Approved Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>[Updated] Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-solutions-to-decipher-muted-facebook-videos-for-2024/"><u>[Updated] Solutions to Decipher Muted Facebook Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>2024 Approved Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-output-impedance-a-comprehensive-guide/"><u>Demystifying Output Impedance - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exporting-your-favorite-tunes-a-guide-to-converting-spotify-playlists-into-written-form/"><u>Exporting Your Favorite Tunes: A Guide to Converting Spotify Playlists Into Written Form</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-reno-11-5g-by-drfone-android/"><u>Full Guide to Unlock Your Oppo Reno 11 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/machine-brains-evolve-from-weak-to-formidable/"><u>Machine Brains Evolve: From Weak to Formidable</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-photo-renewal-discover-elite-fix-it-solutions/"><u>Master the Art of Photo Renewal: Discover Elite Fix-It Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-zooming-on-iphoneipad-tips-and-techniques/"><u>Mastering Zooming on iPhone/iPad: Tips & Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-enigma-of-twitch-conversations-for-novice-spectators/"><u>Unraveling the Enigma of Twitch Conversations for Novice Spectators</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Screen Images on Your Desktop"
-date: 2024-09-11T17:47:34.160Z
-updated: 2024-09-12T17:47:34.160Z
+date: 2024-09-11T18:42:02.819Z
+updated: 2024-09-18T00:31:03.832Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Capturing Screen Images on Your Desktop"
@@ -19,25 +19,11 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Start by Cleaning Your Computer's Fans
 
 **Time Required:** It'll probably take around 30 minutes to clean all the fans in your computer, maybe less if you have a laptop or tablet, and more if you're using a desktop.
 
 ![An illustration of a woman cleaning a computer fan with canned air.](https://www.lifewire.com/thmb/TOB6GAr87pf_esAo_hck2soK27Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fix-a-computer-fan-thats-loud-or-making-noise-65d3f7532fe94b3380c92f90c40ecded.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ​Lifewire / Theresa Chiechi
 
@@ -52,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 3. If after cleaning a fan, it doesn't move_at all_ , it's time to replace it. Check first that the fan is plugged into the motherboard or whatever is providing the power, but beyond that, it's time for a new one.  
  If the fan is still working but not much better, or if it still isn't behaving like you think it should be, keep reading for some more ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Keep Your Computer From Getting So Hot in the First Place
 
  It's very possible that your fans are all in perfect working order and, now that they're clean, running better than ever. However, if they're_still_ making a lot of noise, it may be because they're being asked to do more than they're designed to do.
@@ -68,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
  There are plenty of ways to cool down your computer, from moving where it is, to upgrading to a better fan, etc. See [Ways to Keep Your Computer Cool](https://www.lifewire.com/ways-to-keep-your-computer-cool-2624713) for a complete rundown of your options.
 
  If those ideas don't work, or you're not able to try them, it's time to look at_why_ your hardware might be being pushed to its limit.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Check Task Manager for Hungry Programs
 
@@ -86,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 2. Select the**Processes** tab. If you don't see it, try the**More details** link at the bottom of Task Manager.
 3. Select the**CPU** column so that the programs using most of the CPU's capacity are listed first.  
 ![Processes and CPU tab in Disk Manager for Windows 10](https://www.lifewire.com/thmb/TjPNAdTta7y3epE90kzfzwoDXW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-a-computer-fan-thats-loud-or-making-noise-2289b79afa5743589591247feaff0d9c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Typically, if an individual program is "out of control" the CPU percentage will be very high — at or close to 100%. Programs listed in the single digits, even up to 25% or more, typically are not a concern.
 
@@ -107,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 [How to Fix It When There Is No Sound From Your Computer Speakers](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reasons Why Your Computer Fan Is Loud or Making Noise
@@ -150,19 +115,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-boundless-playlist-public-domain-music-for-games/"><u>[New] 2024 Approved Boundless Playlist Public Domain Music for Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-leaders-in-next-gen-sensory-devices/"><u>[New] In 2024, Leaders in Next-Gen Sensory Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-high-quality-capture-software-pcmac-for-2024/"><u>[New] Ultimate High-Quality Capture Software, PC/Mac for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/bridge-gap-twitter-video-and-chrome-compatibility/"><u>Bridge Gap Twitter Video and Chrome Compatibility</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-zbook-15-g3-drivers-on-windows-step-by-step-guide/"><u>Download & Install HP ZBook 15 G3 Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-webcam-experience-syncing-manycam-for-enhanced-gotomeeting-presentations-step-by-step-setup-and-support-resources/"><u>Seamless Webcam Experience: Syncing ManyCam for Enhanced GoToMeeting Presentations – Step-by-Step Setup & Support Resources</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722123995741-top-4-must-try-ai-powered-story-creation-tools-unleash-your-imagination/"><u>Top 4 Must-Try AI-Powered Story Creation Tools - Unleash Your Imagination</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-for-virtual-webcams-and-hd-live-broadcasting-tools-beyond-manycam/"><u>Top Picks for Virtual Webcams and HD Live Broadcasting Tools Beyond ManyCam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-livestreams-with-manycam-advanced-video-editing-and-fake-background-capabilities/"><u>Transform Your Livestreams with ManyCam: Advanced Video Editing & Fake Background Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-online-presence-with-manycams-dynamic-virtual-webcam-solutions/"><u>Transform Your Online Presence with ManyCam's Dynamic Virtual Webcam Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-online-presence-the-power-of-manycam-for-seamless-livestreams-and-virtual-cameras/"><u>Transform Your Online Presence: The Power of ManyCam for Seamless Livestreams and Virtual Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-integrating-manycam-effectively-in-your-cisco-webex-sessions/"><u>Ultimate Guide: Integrating ManyCam Effectively in Your Cisco Webex Sessions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/understanding-googles-ar-sticker-innovation-for-2024/"><u>Understanding Google's AR Sticker Innovation for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-immersive-exploration-mastering-close-up-views-in-minecraft-for-2024/"><u>[New] Immersive Exploration Mastering Close-Up Views in Minecraft for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-secret-pathway-to-premium-pristine-pictures/"><u>2024 Approved The Secret Pathway to Premium, Pristine Pictures</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/angled-artistry-elevating-youtube-video-editing-skills/"><u>Angled Artistry Elevating YouTube Video Editing Skills</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-12-no-cost-typing-tutorials-suitable-for-any-age/"><u>Best 12 No-Cost Typing Tutorials Suitable for Any Age</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-on-disabling-the-ai-writing-partner-in-windows-11/"><u>Comprehensive Tutorial on Disabling the AI Writing Partner in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/in-depth-expert-advice-handbook-navigate-with-ease-using-this-essential-guide/"><u>In-Depth Expert Advice Handbook: Navigate with Ease Using This Essential Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-facebook-potential-five-practical-tips-for-improved-engagement/"><u>Maximizing Facebook Potential: Five Practical Tips for Improved Engagement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/no-cost-asus-realtek-audio-controller-driver-pack-available-now/"><u>No-Cost ASUS Realtek Audio Controller Driver Pack Available Now</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-zoom-camera-problems-with-these-tips/"><u>Solve Your Zoom Camera Problems with These Tips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/troubleshooting-audacitys-mp4-file-import-error-a-step-by-step-guide/"><u>Troubleshooting Audacity's MP4 File Import Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps for Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveil-this-years-finest-selection-your-guide-to-the-best-gratis-offline-speed-challenges-of-eby/"><u>Unveil This Year's Finest Selection: Your Guide to the Best Gratis Offline Speed Challenges of Eby</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-sony-vr-tech-anticipated-costs-availability-dates-and-feature-breakdown/"><u>Upcoming Sony VR Tech: Anticipated Costs, Availability Dates, and Feature Breakdown</u></a></li>
 </ul></div>
 

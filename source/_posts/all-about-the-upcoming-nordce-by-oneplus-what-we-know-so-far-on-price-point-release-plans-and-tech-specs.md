@@ -1,7 +1,7 @@
 ---
 title: "All About the Upcoming NordCE by OnePlus: What We Know So Far on Price Point, Release Plans and Tech Specs"
-date: 2024-09-11T17:44:55.856Z
-updated: 2024-09-12T17:44:55.856Z
+date: 2024-09-11T01:55:56.244Z
+updated: 2024-09-17T21:58:44.661Z
 categories:
   - BestProducts
 description: "This Article Describes All About the Upcoming NordCE by OnePlus: What We Know So Far on Price Point, Release Plans and Tech Specs"
@@ -50,13 +50,6 @@ We're betting on a July 2025 release date for the Nothing Phone 3.
 
 ![Nothing Phone 2 on a glass tabletop](https://www.lifewire.com/thmb/PY8rVS-IBLbcIzX2pej9YWVT6Jg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/NothingPhone2.7-bdc100925d154e10aa175c63ba8cddca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
@@ -64,19 +57,6 @@ Lifewire / Rob LeFebvre
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nothing Phone 3 Specs and Features
 
@@ -91,22 +71,15 @@ Lifewire / Rob LeFebvre
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Better Battery
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Improved Camera
 
@@ -118,22 +91,21 @@ Lifewire / Rob LeFebvre
 
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nothing OS 2.0.
 
 Nothing
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### An Action Button
@@ -143,16 +115,10 @@ Nothing
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Integrated AI
@@ -162,6 +128,13 @@ Nothing
  The only timing clue Pei offered was a "next year" tag for the slow rollout of AI, starting with the Nothing Phone 3.  
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Nothing Phone 3
 
@@ -190,18 +163,16 @@ Nothing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-key-to-successful-multi-view-facebook-streaming/"><u>[New] The Key to Successful Multi-View Facebook Streaming</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-expert-tips-for-crafting-engaging-instagram-stories/"><u>[Updated] Expert Tips for Crafting Engaging Instagram Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-investing-successfully-with-a-makeup-channel/"><u>[Updated] Investing Successfully with a Makeup Channel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mg3420-driver-download-compatible-with-various-windows-versions-including-windows-10-8-and-7/"><u>Canon MG3420 Driver Download: Compatible with Various Windows Versions Including Windows 10, 8 & 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/codec-rivalry-assessing-the-next-step-in-video-encoding-for-2024/"><u>Codec Rivalry Assessing the Next Step in Video Encoding for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-digital-meets-literary-world-with-top-laptop-picks-smartphone-apps-and-book-recommendations/"><u>Discover the Digital-Meets-Literary World with Top Laptop Picks, Smartphone Apps & Book Recommendations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-repair-for-hulu-rununk13-bug-tips-and-tricks-for-smooth-streaming/"><u>DIY Repair for Hulu RUNUNK13 Bug: Tips & Tricks for Smooth Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-configure-your-email-preferences-and-safelist-a-site-on-apples-mail-client-for-mac/"><u>How To Configure Your Email Preferences and Safelist a Site on Apple's Mail Client for Mac</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-12-mini-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 12 mini® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/symptoms-of-uterine-rupture-include-sudden-severe-abdominal-pain-and-fetal-distress-immediate-emergency-cesarean-delivery-is-often-required/"><u>Symptoms of Uterine Rupture Include Sudden Severe Abdominal Pain and Fetal Distress; Immediate Emergency Cesarean Delivery Is Often Required.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-12-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme 12 5G Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-identifying-your-hidden-email-details-easily/"><u>Unlock the Secrets of Identifying Your Hidden Email Details Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-maximizing-your-videos-impact-with-expertly-recorded-voices/"><u>[New] In 2024, Maximizing Your Video's Impact with Expertly Recorded Voices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-compreayers-resource-for-optimal-io-screen-use/"><u>[New] In 2024, The Compreayer's Resource for Optimal IO Screen Use</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-your-snapstreak-essential-tips-and-tricks/"><u>[Updated] 2024 Approved Boosting Your Snapstreak Essential Tips and Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-secret-to-capturing-seamless-google-classesmeets/"><u>[Updated] The Secret to Capturing Seamless Google Classes/Meets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehve-guide-to-resolving-netflix-functionality-problems-with-your-roku-stick-or-tv/"><u>A Comprehve Guide to Resolving Netflix Functionality Problems with Your Roku Stick or TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-instructions-to-erase-all-data-from-your-dell-machine/"><u>Detailed Instructions to Erase All Data From Your Dell Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-7-exceptional-notes-management-tools-tailored-for-your-ipad-experience/"><u>Discover 7 Exceptional Notes Management Tools Tailored for Your iPad Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-factors-to-evaluate-when-purchasing-your-next-video-recorder/"><u>Essential Factors to Evaluate When Purchasing Your Next Video Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-art-complete-vsco-editor-breakdown-for-2024/"><u>Master the Art Complete VSCO Editor Breakdown for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-message-management-tips-for-avoiding-high-data-usage-in-texts/"><u>Maximizing Message Management: Tips for Avoiding High Data Usage in Texts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-technology-choices-with-toms-compreh/"><u>Navigating Technology Choices with Tom's Compreh</u></a></li>
 </ul></div>
 

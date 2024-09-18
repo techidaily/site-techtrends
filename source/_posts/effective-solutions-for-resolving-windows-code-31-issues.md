@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Resolving Windows Code 31 Issues
-date: 2024-09-11T17:43:20.499Z
-updated: 2024-09-12T17:43:20.499Z
+date: 2024-09-15T03:31:06.448Z
+updated: 2024-09-17T21:49:51.145Z
 categories:
   - BestProducts
 description: This Article Describes Effective Solutions for Resolving Windows Code 31 Issues
@@ -19,13 +19,6 @@ thumbnail: https://www.lifewire.com/thmb/jMzX-wWbsTL0q9KSlyNYOPV6NTE=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -40,25 +33,11 @@ thumbnail: https://www.lifewire.com/thmb/jMzX-wWbsTL0q9KSlyNYOPV6NTE=/400x300/fi
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -79,13 +58,6 @@ thumbnail: https://www.lifewire.com/thmb/jMzX-wWbsTL0q9KSlyNYOPV6NTE=/400x300/fi
 
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -96,10 +68,10 @@ thumbnail: https://www.lifewire.com/thmb/jMzX-wWbsTL0q9KSlyNYOPV6NTE=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
@@ -148,14 +120,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-effortless-video-capturing-on-win11-os-for-2024/"><u>[New] Effortless Video Capturing on Win11 OS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transform-shots-to-boost-circular-vignette-features-for-2024/"><u>[New] Transform Shots to Boost Circular Vignette Features for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unparalleled-selection-of-8-android-multiparty-tools/"><u>[Updated] In 2024, Unparalleled Selection of 8 Android Multiparty Tools</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts-for-2024/"><u>[Updated] Sending Your Creativity Soaring PC & Mac TikTok Video Posts for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Webcam Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-prosperity-with-manycam-like-features-premium-software-and-virtual-camera-solutions/"><u>Live Streaming Prosperity with ManyCam-Like Features: Premium Software and Virtual Camera Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-live-videos-with-manycam-advanced-features-for-digital-webcams-and-software-solutions/"><u>Master Your Live Videos with ManyCam: Advanced Features for Digital Webcams & Software Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-anti-blue-radiation-frames/"><u>Premier Anti-Blue Radiation Frames</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-video-editing-software-for-mp4-files-updated-for-2024/"><u>The Best Free Video Editing Software for MP4 Files (Updated ) for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[New] Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-making-memories-sing-visual-plus-auditory-blend-for-2024/"><u>[Updated] Making Memories Sing Visual + Auditory Blend for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-a-barrage-of-tiktok-drafts-with-editing-skills/"><u>[Updated] Streamline a Barrage of TikTok Drafts with Editing Skills</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-m54-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy M54 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-battle-of-the-titans-chatgpt-plus-versus-perplexity-unveiled/"><u>Chatbot Battle of the Titans: ChatGPT Plus Versus Perplexity Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-to-repair-missing-dciman32dll-errors/"><u>Comprehensive Strategies to Repair Missing dciman32.dll Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dragon-ball-mastery-the-perfect-order-for-binge-watching/"><u>Dragon Ball Mastery: The Perfect Order for Binge-Watching</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-libxml2dll-error-restoring-the-missing-dll-component/"><u>Effective Fixes for libxml2.dll Error: Restoring the Missing DLL Component</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 14 Pro Max? | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-through-new-york-times-connections/"><u>Steering Through New York Times Connections</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tv-shows-streaming-on-discovery-plus-in-july-2024-our-picks/"><u>Top TV Shows Streaming on Discovery Plus in July 2024 - Our Picks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-establishing-an-oculus-medium-meta-quest-2-user-id/"><u>Ultimate Tutorial: Establishing an Oculus Medium (Meta) Quest 2 User ID</u></a></li>
 </ul></div>
 

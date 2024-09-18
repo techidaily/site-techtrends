@@ -1,7 +1,7 @@
 ---
 title: "Your Go-To Source for Electric Scooters and Bikes: Event Roundups, News Flashes & Industry Whispers"
-date: 2024-09-11T17:42:21.307Z
-updated: 2024-09-12T17:42:21.307Z
+date: 2024-09-16T03:47:33.947Z
+updated: 2024-09-17T17:15:48.225Z
 categories:
   - BestProducts
 description: "This Article Describes Your Go-To Source for Electric Scooters and Bikes: Event Roundups, News Flashes & Industry Whispers"
@@ -16,19 +16,6 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Kinds of Topics Are Covered at This Event?
 
@@ -52,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 
  Of course, much goes along with those topics; they don't exist in a vacuum. Anyone interested in sustainability, climate, pollution, economy, and how humans can impact the future by shaping new ideas around urban living should find something of interest here.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Dates for Micromobility World?
 
  Micromobility has three main events: America, Europe, and World. Here are the most recent dates for all of them:
@@ -67,45 +47,19 @@ thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8
 * **Micromobility World** : January 25, 2024
 * **Micromobility Europe** : June 5-6, 2024
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Register to Attend
 
  Check[Micromobility's official site](https://micromobility.io) for the most up-to-date registration, price, and attendance info. The event often offers early-bird pricing and multiple tiers for more access to the event.  
 
 ![People using scooters and unlocked bikes to move through a city.](https://www.lifewire.com/thmb/LW-732V_c92DpVIjKyxQm_0Iqq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hivebikes_Micromobility_HoracioVillalobos_Getty-3beb7bbe70e349e4909a96a95d1c472d.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Horacio Villalobos/Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About Micromobility
@@ -153,15 +107,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ecure-extraction-converting-youtube-to-trusted-mp4/"><u>[New] Secure Extraction Converting YouTube to Trusted MP4</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-deal-with-missing-d3dx928dll-error-messages/"><u>Effective Solutions to Deal with Missing d3dx9_28.dll Error Messages</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/exclusive-selection-optimal-drones-available-for-2024/"><u>Exclusive Selection Optimal Drones Available for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-d3dx-library-not-found-d3dx933dll-expert-tips-and-solutions/"><u>Fix D3DX Library Not Found (d3dx9_33.dll): Expert Tips and Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M34 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/leading-cross-platform-vr-viewing-software-for-android-ios-windows-and-mac-os-x-users/"><u>Leading Cross-Platform VR Viewing Software for Android, iOS, Windows, and Mac OS X Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-the-world-of-social-networking-facebook-basics/"><u>Navigating the World of Social Networking Facebook Basics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-9-essential-educational-gadgets-that-empower-students/"><u>The Ultimate List of 9 Essential Educational Gadgets That Empower Students</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transferring-images-seamlessly-from-google-photo-library-to-apples-icloud/"><u>Transferring Images Seamlessly - From Google Photo Library to Apple's iCloud</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-downloading-youtube-playlists-made-simple-and-easy/"><u>[New] 2024 Approved Downloading YouTube Playlists Made Simple & Easy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-tutorial-to-elevate-your-slow-motion-videos/"><u>[New] 2024 Approved Step-by-Step Tutorial to Elevate Your Slow Motion Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-magic-of-motion-in-video-text-elements/"><u>[New] Unlock the Magic of Motion in Video Text Elements</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-level-stabilization-systems-for-streaming-content/"><u>[Updated] Pro-Level Stabilization Systems for Streaming Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a18-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-into-beyerdynamic-mmx-200-features/"><u>A Deep Dive Into Beyerdynamic MMX 200 Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-on-disabling-the-ai-writing-partner-in-windows-11/"><u>Comprehensive Tutorial on Disabling the AI Writing Partner in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-communication-learn-how-to-compose-and-share-voice-messages-with-ios-devices/"><u>Effortless Communication: Learn How to Compose and Share Voice Messages with iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722870307697-eliminate-d3dx939dll-errors-with-these-proven-fixes/"><u>Eliminate d3dx9_39.dll Errors with These Proven Fixes!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-plan-for-profit-from-instagram-content/"><u>In 2024, The Ultimate Plan for Profit From Instagram Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-open-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Open Phone FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macfoldercolorize-a-comprehensive-guide-to-custom-folder-themes-on-macos/"><u>MacFolderColorize: A Comprehensive Guide to Custom Folder Themes on macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-save-and-watch-netflix-movies-offline-on-your-computer/"><u>Step-by-Step Instructions: Save and Watch Netflix Movies Offline on Your Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a24-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A24 IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

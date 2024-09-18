@@ -1,7 +1,7 @@
 ---
 title: "Inside Information on Sony's Next-Gen VR Headset: Release Dates, Price Predictions, and Specifications"
-date: 2024-09-11T17:41:32.775Z
-updated: 2024-09-12T17:41:32.775Z
+date: 2024-09-17T02:11:38.901Z
+updated: 2024-09-18T01:54:08.524Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Information on Sony's Next-Gen VR Headset: Release Dates, Price Predictions, and Specifications"
@@ -47,13 +47,6 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -65,13 +58,6 @@ Patent US8929085B2.
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -86,10 +72,10 @@ We don’t expect a foldable iPhone until at least 2026.
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iPhone Fold concept.
@@ -97,28 +83,15 @@ iPhone Fold concept.
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Features
 
@@ -131,13 +104,6 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -188,17 +154,20 @@ Michal Dufka
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[New] In 2024, Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-pro-rapid-transitions/"><u>2024 Approved Premiere Pro Rapid Transitions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/assessing-the-ip-rating-of-the-new-iphone-15-how-well-does-it-handle-moisture/"><u>Assessing the IP Rating of the New iPhone 15: How Well Does It Handle Moisture?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dive-into-the-secrets-of-nothing-phones-latest-model-anticipated-costs-arrival-date-features-stay-ahead-with-our-insights/"><u>Dive Into the Secrets of Nothing Phone's Latest Model: Anticipated Costs, Arrival Date, Features - Stay Ahead with Our Insights!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725284579857-dvd/"><u>DVDディスクを自由にコピー!安全かつ高性能なリッピングツール - 「窓の杜」が厳選！</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expert-tips-on-adding-yt-playlists-to-your-website-content-for-2024/"><u>Expert Tips on Adding YT Playlists to Your Website Content for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-moonlit-musings-capturing-the-essence-of-nocturnal-imagery/"><u>In 2024, Moonlit Musings Capturing the Essence of Nocturnal Imagery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-browser-blues-resolve-firefox-stalls-and-glitches-with-ease/"><u>Overcoming Browser Blues: Resolve Firefox Stalls & Glitches with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-bootmgr-not-found-issue-a-step-by-step-guide/"><u>Solving the BOOTMGR Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-windows-device-managers-code-41-issues-a-step-by-step-guide/"><u>Solving Windows Device Manager's Code 41 Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-quintessential-5-applications-every-twitch-performer-needs-to-thrive/"><u>The Quintessential 5 Applications Every Twitch Performer Needs to Thrive</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/0-most-susbcribed-youtuber-in-the-world/"><u>[New] 10 Most Susbcribed YouTuber in the World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exploring-camstudios-impact-on-video-capture-2023-edition/"><u>[New] 2024 Approved Exploring CamStudio's Impact on Video Capture - 2023 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-evolution-continues-iphone-xs-photographic-advancements/"><u>[New] The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlock-the-full-potential-of-snapshots-on-iphones/"><u>[Updated] Unlock the Full Potential of Snapshots on iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-for-activating-siris-text-to-speech-feature-on-ios-and-macos-platforms/"><u>A Comprehensive Walkthrough for Activating Siri's Text-to-Speech Feature on iOS & macOS Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991984783-battlefield-v-stability-fixes-for-windows-users-no-more-crashes/"><u>Battlefield V Stability Fixes for Windows Users – No More Crashes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/celebrate-pride-with-these-top-lgbt-film-choices-on-netflix-in-july-2024/"><u>Celebrate Pride with These Top LGBT Film Choices on Netflix in July 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-xp-310-driver-download-and-update/"><u>Epson XP 310 Driver Download & Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gopro-timelapse-a-step-by-step-guide/"><u>In 2024, Mastering GoPro Timelapse A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-old-school-tech-tips-for-operating-classic-usb-composite-gadgets/"><u>Mastering Old School Tech: Tips for Operating Classic USB Composite Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-navigating-the-wayback-machine-made-easy/"><u>Step-by-Step Guide: Navigating the Wayback Machine Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-buzz-around-the-newest-google-watch-speculations-about-when-it-will-drop-pricing-strategies-and-cutting-edge-features-explored/"><u>The Buzz Around the Newest Google Watch - Speculations About When It Will Drop, Pricing Strategies, and Cutting-Edge Features Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-method-for-identifying-someones-position-on-an-iphone/"><u>The Method for Identifying Someone's Position on an iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-16-free-tools-for-learning-sign-language/"><u>Top 16 Free Tools for Learning Sign Language</u></a></li>
 </ul></div>
 
