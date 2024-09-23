@@ -1,7 +1,7 @@
 ---
 title: WTV 클라이오ن을 AVI로 자유성 전환 - 모바일 안내
-date: 2024-09-11 17:26:23
-updated: 2024-09-13 12:58:49
+date: 2024-09-20T00:00:58.134Z
+updated: 2024-09-22T22:39:32.557Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3cbb50495af3357fea0a04a08.png
@@ -221,11 +221,25 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -242,6 +256,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**XnView**](https://www.xnview.com/en/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
@@ -320,6 +341,13 @@ Movavi Photo Editor
 
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
 
 講到免費照片秀圖軟體，前幾個被想到的名字裡通常會包含老牌的FastStone Image Viewer。在瀏覽方面，它就相當於一個影像版的檔案管理員，用途與操作也極類似，不需要特別學習。經典的三階層三區塊版面，可以同時掌握我的電腦(所有磁碟)，子目錄內容與照片預覽，所以操作十分便利。它的幻燈片功能，可提供以目錄為基礎的連續播放，並支援許多調整參數，是自動看圖的優質之選。
@@ -379,6 +407,13 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -393,11 +428,23 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-fps-levels-in-slow-motion-cinema/"><u>[New] Ideal FPS Levels in Slow Motion Cinema</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tactics-to-make-fb-videos-attractive-and-effective-for-2024/"><u>[New] Tactics to Make FB Videos Attractive and Effective for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-for-engrossing-youtube-stories-in-23/"><u>[Updated] The Ultimate List for Engrossing YouTube Stories in '23</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-flacmpg/"><u>如何在線上免費地使用 Movavi 讓FLAC碼檔變MPG格式</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choisissez-le-bon-editateur-de-videos-instagram-top-5-preferes-des-createurs-de-contenu-et-comment-choisir-le-notre/"><u>Choisissez Le Bon Editateur De Vidéos Instagram : Top 5 Préférés Des Créateurs De Contenu Et Comment Choisir Le Nôtre</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-rejoindre-les-10-meilleurs-fabricants-daffiches-pour-vos-channels-youtube-strategie-et-partenariats-explique/"><u>Comment Rejoindre Les 10 Meilleurs Fabricants D'Affiches Pour Vos Channels YouTube - Stratégie Et Partenariats Expliqué</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-p40-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel P40 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nubia-red-magic-9-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nubia Red Magic 9 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformar-archivos-mov-en-mac-a-mp4-las-7-practicas-simples-que-debes-seguir/"><u>Transformar Archivos MOV en Mac a MP4: Las 7 Prácticas Simples Que Debes Seguir</u></a></li>
+</ul></div>
+

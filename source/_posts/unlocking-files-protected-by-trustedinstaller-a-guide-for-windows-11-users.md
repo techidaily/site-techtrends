@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Files Protected by TrustedInstaller: A Guide for Windows 11 Users"
-date: 2024-09-11T22:18:49.742Z
-updated: 2024-09-18T04:41:48.321Z
+date: 2024-09-16T01:42:39.953Z
+updated: 2024-09-22T17:00:58.879Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking Files Protected by TrustedInstaller: A Guide for Windows 11 Users"
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 4. If the power on your TV or device turns off, the remote has found the correct Code. Press**Stop** to save the code.
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -101,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 4. Repeat these steps for every function you wish to run, such as volume down, channel up, channel down, and input selection.
 
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Programming via PC
 
@@ -113,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 1. Select or enter your Logitech Harmony Universal Remote Control model number**.**
 2. Designate the types and brands of devices you wish to control.
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -172,18 +172,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-high-definition-with-dell-p2715q-reviewed/"><u>[New] Exploring High-Definition with Dell P2715Q Reviewed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>[New] Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-to-successful-zoom-calls-with-android/"><u>[New] Unveiling the Secrets to Successful Zoom Calls with Android</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>[Updated] A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-becoming-professionally-active-registering-a-business-on-ig/"><u>[Updated] In 2024, Becoming Professionally Active Registering a Business on IG</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-the-art-of-extended-frame-shooting-for-2024/"><u>[Updated] Unlocking the Art of Extended Frame Shooting for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-tutorial-how-to-shut-off-apples-latest-iphones-15-pro-and-pro-max/"><u>Complete Tutorial: How To Shut Off Apple's Latest iPhones - 15 Pro & Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-watch-all-star-wars-movies-in-the-correct-order-on-disneyplus-your-ultimate-roadmap/"><u>How To Watch All Star Wars Movies In The Correct Order on Disney+ - Your Ultimate Roadmap</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-recordings-techniques-for-your-phone-for-2024/"><u>Snapchat Recordings Techniques for Your Phone for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-book-trailers-you-wont-miss-for-2024/"><u>The Ultimate Guide to Book Trailers You Won't Miss for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-fixing-wiimote-disc-reading-issues-on-nintendos-gamecube/"><u>Troubleshooting: Fixing Wiimote Disc Reading Issues on Nintendo's GameCube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-purchasing-phones-online-and-in-store/"><u>Ultimate Guide to Purchasing Phones Online and In-Store</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-follower-erosion-how-to-spot-it-on-insta/"><u>[New] 2024 Approved Follower Erosion How to Spot It on Insta</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-and-following-leading-biz-channels-online/"><u>[New] In 2024, Finding and Following Leading Biz Channels Online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-advanced-obs-techniques-explained/"><u>[Updated] Unleashing Creativity Advanced OBS Techniques Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wmv-asf-movavi/"><u>網路直通解 - 免費 WMV ASF 格式自動還原服務：Movavi 影片編輯器</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mov-files-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Galaxy S23 FE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-techniques-for-immediate-application-in-chatgpt/"><u>GPT-4 Techniques for Immediate Application in ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rendere-netta-una-foto-sfocata-in-4-metodi-semplici/"><u>Rendere Netta Una Foto Sfocata in 4 Metodi Semplici</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-creativity-on-the-go-androidios-montages-top-8-for-2024/"><u>Seamless Creativity on the Go Android/iOS Montages Top 8 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtueel-konverteren-van-voc-documenten-omzetten-en-bewerken-gratis-met-movavi/"><u>Virtueel Konverteren Van VOC Documenten - Omzetten en Bewerken Gratis Met Movavi</u></a></li>
 </ul></div>
 

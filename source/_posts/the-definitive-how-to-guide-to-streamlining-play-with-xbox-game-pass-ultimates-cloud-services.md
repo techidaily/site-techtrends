@@ -1,7 +1,7 @@
 ---
 title: The Definitive How-To Guide to Streamlining Play with Xbox Game Pass Ultimate's Cloud Services
-date: 2024-09-15T04:23:51.258Z
-updated: 2024-09-17T23:33:58.948Z
+date: 2024-09-16T16:07:03.734Z
+updated: 2024-09-23T01:32:19.385Z
 categories:
   - BestProducts
 description: This Article Describes The Definitive How-To Guide to Streamlining Play with Xbox Game Pass Ultimate's Cloud Services
@@ -49,6 +49,13 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -56,13 +63,6 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
  If you can't open the websites from Step 1 or nothing else works, then your whole network is probably not working. Try [restarting your router](https://www.lifewire.com/how-to-properly-restart-a-router-modem-2624570) or following our[troubleshooting steps for Wi-Fi issues](https://www.lifewire.com/what-to-do-when-theres-no-wi-fi-internet-connection-2378240) .
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
 
@@ -75,13 +75,6 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -106,6 +99,13 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -113,10 +113,10 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype for Computers
@@ -128,6 +128,13 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -151,13 +158,6 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -166,18 +166,18 @@ thumbnail: https://www.lifewire.com/thmb/_T0BwSqeQe2m0vFhDjKcLCO_Zwg=/400x300/fi
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
 
@@ -224,19 +224,13 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-streamlining-youtube-edits-with-advanced-sony-vegas-techniques/"><u>[New] Streamlining YouTube Edits with Advanced Sony Vegas Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps-for-2024/"><u>[New] Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-securing-sponsorships-amidst-content-creation-for-2024/"><u>[Updated] Mastering Instagram Securing Sponsorships Amidst Content Creation for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-v30-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme V30 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/altmans-departure-from-openai-impact-on-the-future-of-chatgpt/"><u>Altman's Departure From OpenAI: Impact on the Future of ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enabling-cross-platform-viewing-streaming-diverse-content-from-vlc-to-apple-tv/"><u>Enabling Cross-Platform Viewing: Streaming Diverse Content From VLC to Apple TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-digital-dialogue-how-does-wi-fi-calling-work/"><u>Exploring Digital Dialogue: How Does Wi-Fi Calling Work?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-work-efficiency-with-split-screen-functionality-on-your-macbook-air/"><u>Maximizing Work Efficiency with Split Screen Functionality on Your MacBook Air</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721098770708-pchelp-i-need-to-turn-off-the-built-in-bluetooth-on-my-windows-10-machine/"><u>PCHelp I Need to Turn Off the Built-In Bluetooth on My Windows 10 Machine.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G04</u></a></li>
-<li><a href="https://techtrends.techidaily.com/waterlogged-woes-be-gone-testing-the-waterproof-claims-for-iphone-15-pro-max/"><u>Waterlogged Woes Be Gone? Testing the Waterproof Claims for iPhone 15 Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winning-approval-from-trustedinstaller-on-windows-11-a-step-by-step-guide/"><u>Winning Approval From TrustedInstaller on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/arabic-mastery-top-6-reasons-with-mondlys-virtual-classes/"><u>Arabic Mastery: Top 6 Reasons with Mondly's Virtual Classes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-of-the-best-13-handpicked-free-pdf-editing-software-for-july-2024/"><u>Best of the Best: 13 Handpicked Free PDF Editing Software for July 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-gratuita-online-di-video-flv-in-qualita-superiore-flac-tramite-movavi-perche-e-lopzione-migliore/"><u>Conversione Gratuita Online Di Video FLV in Qualità Superiore FLAC Tramite Movavi – Perché È L'opzione Migliore?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-electric-motorcycle-powertrains-and-systems/"><u>Demystifying Electric Motorcycle Powertrains and Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-pc-aesthetics-the-top-15-no-cost-windows-11-designs-to-try-today/"><u>Elevate Your PC Aesthetics: The Top 15 No-Cost Windows 11 Designs to Try Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-install-android-debug-bridge-adb-on-pc/"><u>How To Quickly Install Android Debug Bridge (ADB) On PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-expertise-from-toms-technology-insights/"><u>Mastering Gadgets with Expertise From Tom's Technology Insights</u></a></li>
 </ul></div>
 

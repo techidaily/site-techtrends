@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Information Online: Five Key Practices for Effective Data Backups"
-date: 2024-09-16T16:12:12.849Z
-updated: 2024-09-18T03:27:45.759Z
+date: 2024-09-18T01:40:06.861Z
+updated: 2024-09-23T01:09:40.614Z
 categories:
   - BestProducts
 description: "This Article Describes Protecting Your Information Online: Five Key Practices for Effective Data Backups"
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -69,19 +76,19 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -115,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -124,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -137,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -153,10 +167,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 8: Update Device Drivers
@@ -165,25 +179,11 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -224,18 +224,13 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-prodigy-machines-top-quality-computers-available/"><u>[Updated] Prodigy Machines Top-Quality Computers Available</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>[Updated] The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-farming-fun-and-friendship-the-best-agrigames-to-bond-with-friends/"><u>2024 Approved Farming Fun & Friendship The Best AgriGames to Bond With Friends</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-minecraft-sustainable-house-projects-6-10/"><u>2024 Approved Minecraft Sustainable House Projects #6-10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>2024 Approved The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-ff-video-grab-extensions-and-tools/"><u>2024 Approved Top FF Video Grab - Extensions & Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-the-right-platform-features-of-ios-app-store-and-google-play-store-compared/"><u>Choosing the Right Platform: Features of IOS App Store and Google Play Store Compared</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-prevent-mystery-calls-by-hiding-unknown-contacts-on-iphone/"><u>Guide: Prevent Mystery Calls by Hiding ‘Unknown’ Contacts on iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-security-alert-developer-cannot-be-verified-errors-on-apple-computers/"><u>How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-uncover-and-deal-with-suspicious-chatgpt-phishing-websites/"><u>How to Uncover and Deal with Suspicious ChatGPT Phishing Websites</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-creating-an-eye-catching-collage-for-2024/"><u>Step-by-Step Guide to Creating an Eye-Catching Collage for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722882517397-the-elite-top-1aturals-in-online-dominance-meet-the-10-biggest-websites-ever/"><u>The Elite Top 1Aturals in Online Dominance: Meet The 10 Biggest Websites Ever</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-cutting-edge-computers-optimal-machines-for-media-creation/"><u>[New] In 2024, Cutting-Edge Computers Optimal Machines for Media Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-meme-makers-playbook-for-widespread-impact/"><u>2024 Approved Meme Makers' Playbook for Widespread Impact</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-k11x-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo K11x</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-haul-video-guide-from-camera-to-final-cut/"><u>In 2024, The Ultimate Haul Video Guide From Camera to Final Cut</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-jpg/"><u>Movavi JPG 크기 조정: 무료 온라인 서비스를 사용하세요!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-gratis-mp3-konverzer-v-prodej-pro-windows-10-8-a-7-movavi/"><u>Top 12 Gratis MP3 Konverzér v Prodej Pro Windows 10, 8 a 7 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-animation-software-comprehensive-guide-to-2d-and-3d-tools/"><u>Top Free Animation Software : Comprehensive Guide to 2D & 3D Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transform-your-videos-into-cinematic-masterpieces-on-mac/"><u>Updated 2024 Approved Transform Your Videos Into Cinematic Masterpieces on Mac</u></a></li>
 </ul></div>
 

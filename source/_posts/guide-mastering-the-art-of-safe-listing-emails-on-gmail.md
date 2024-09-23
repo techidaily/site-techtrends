@@ -1,7 +1,7 @@
 ---
 title: "Guide: Mastering the Art of Safe-Listing Emails on Gmail"
-date: 2024-09-14T16:34:00.523Z
-updated: 2024-09-17T20:46:40.594Z
+date: 2024-09-15T21:59:53.269Z
+updated: 2024-09-22T16:03:25.956Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Mastering the Art of Safe-Listing Emails on Gmail"
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Scroll down an email list (J)** : Press the**J** key to scroll down.
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
 
@@ -79,19 +86,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -125,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -132,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -169,15 +163,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-obs-versus-shadowplay-streaming-software-showdown-for-2024/"><u>[New] OBS versus ShadowPlay - Streaming Software Showdown for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-key-to-more-views-expert-backlink-methods-for-youtubers-for-2024/"><u>[New] The Key to More Views Expert Backlink Methods for YouTubers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-definitive-selection-gopros-top-15-tripod-options/"><u>[Updated] 2024 Approved The Definitive Selection GoPro's Top 15 Tripod Options</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-podcast-pioneers-effortless-livestream-tips/"><u>[Updated] Podcast Pioneers Effortless Livestream Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722848882732-compatibility-using-airpods-on-a-nintendo-console/"><u>Compatibility: Using AirPods on a Nintendo Console</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-fixes-what-to-do-if-you-encounter-the-missing-ftd2xxdll-error/"><u>Expert Fixes: What to Do If You Encounter the Missing ftd2xx.dll Error</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-navigating-zoom-for-webinars-and-livestreams-for-2024/"><u>In-Depth Analysis Navigating Zoom for Webinars and Livestreams for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722865495060-mastering-solutions-for-overcoming-the-401-access-denied-problem/"><u>Mastering Solutions for Overcoming the 401 Access Denied Problem</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-affordable-audio-speakers-ultimate-list-for-2aster-2023/"><u>Top Rated Affordable Audio Speakers - Ultimate List for 2Aster 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-shortcuts-for-savvy-screen-capture-on-your-pc/"><u>[Updated] In 2024, Expert Shortcuts for Savvy Screen Capture on Your PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-perfect-your-iphones-selfie-experience-the-10-finest-free-apps/"><u>[Updated] Perfect Your iPhone’s Selfie Experience The 10 Finest Free Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategizing-effective-movie-sneak-peeks/"><u>[Updated] Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-p40plus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel P40+ Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-mp4-a-formato-flv-sin-coste-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir MP4 a Formato FLV Sin Coste Mediante Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertidor-de-archivos-m4r-sin-costo-convierte-tu-audioflejo-facilmente-con-el-servicio-gratuito-de-movavi/"><u>Convertidor De Archivos M4R Sin Costo: Convierte Tu Audioflejo Fácilmente Con El Servicio Gratuito De Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-cost-efficient-cloud-storage-pathways/"><u>Exploring Cost-Efficient Cloud Storage Pathways</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-karma-drone-review/"><u>In 2024, GoPro Karma Drone Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/snapseed-essentials-starting-your-editing-journey/"><u>Snapseed Essentials Starting Your Editing Journey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-file-aac-in-formato-ogg-gratuitamente-online-con-movavi/"><u>Trasforma I File AAC in Formato Ogg Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality-in-2024/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality, In 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975903732-update-to-newest-amd-smbus-drivers-for-seamless-performance-download-today/"><u>Update to Newest AMD SMBus Drivers for Seamless Performance - Download Today</u></a></li>
 </ul></div>
 

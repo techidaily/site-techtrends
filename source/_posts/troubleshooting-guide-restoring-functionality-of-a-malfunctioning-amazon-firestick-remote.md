@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Restoring Functionality of a Malfunctioning Amazon Firestick Remote"
-date: 2024-09-13T16:29:04.744Z
-updated: 2024-09-17T17:45:10.214Z
+date: 2024-09-19T19:11:40.389Z
+updated: 2024-09-22T19:22:00.644Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Guide: Restoring Functionality of a Malfunctioning Amazon Firestick Remote"
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
@@ -159,16 +159,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-15-youtube-starter-templates-a-guide-to-popularity/"><u>[Updated] 15 YouTube Starter Templates A Guide to Popularity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/7-critical-considerations-for-choosing-the-right-motherboard/"><u>7 Critical Considerations for Choosing the Right Motherboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-practices-for-keeping-your-mechanical-keyboard-spotless-and-functional/"><u>Best Practices for Keeping Your Mechanical Keyboard Spotless and Functional</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722871318201-exclusive-leaks-on-apples-rumored-new-touchscreen-macbook-release-schedule-pricing-insights-and-specs-disclosed/"><u>Exclusive Leaks on Apple's Rumored New Touchscreen MacBook - Release Schedule, Pricing Insights, and Specs Disclosed!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-universe-with-vive-cosmos-top-contender-in-todays-virtual-reality-arena/"><u>Exploring the Universe with Vive Cosmos - Top Contender in Today's Virtual Reality Arena</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-why-sony-playstation-5-delivers-ultimate-gaming-experience/"><u>In-Depth Look at Why Sony PlayStation 5 Delivers Ultimate Gaming Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722885467569-is-poor-video-calling-due-to-zooms-limitations-or-network-fluctuations-lets-find-out/"><u>Is Poor Video Calling Due to Zoom's Limitations or Network Fluctuations? Let's Find Out!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-through-top-tier-processors-to-find-your-ultimate-gaming-companion/"><u>Navigate Through Top-Tier Processors to Find Your Ultimate Gaming Companion</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M54 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-missing-or-lost-wininetdll-files-on-your-pc/"><u>The Ultimate Fix for Missing or Lost Wininet.dll Files on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-5-highly-recommended-video-editors-unveiled/"><u>The Ultimate List: 5 Highly Recommended Video Editors Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhancing-youtube-watching-with-list-rearrangement-for-2024/"><u>[Updated] Enhancing YouTube Watching with List Rearrangement for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[Updated] Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fast-tracking-fb-content-efficiency-strategies-explored-for-2024/"><u>[Updated] Fast-Tracking FB Content Efficiency Strategies Explored for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smartphone-face-makeovers-iosandroid-edition/"><u>[Updated] Smartphone Face Makeovers IOS/Android Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227414785-mp3aac-movavi/"><u>網路直接無限制地將MP3格式改為AAC - 使用Movavi音頻轉換器</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726226808594-jpegjpg-movavi/"><u>移動窗格：JPEG到JPG無限制地免費轉換 - Movavi解決方案</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-wmv-files-to-mp4-for-free-web-based-tools-with-movavicom/"><u>Convert WMV Files to MP4 For Free Web-Based Tools with Movavi.com</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converti-file-mpeg-a-formato-mp4-online-e-gratuitamente-con-movavi-prova-ora/"><u>Converti File MPEG a Formato MP4 Online E Gratuitamente Con Movavi - Prova Ora!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-archivos-3g2-a-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos .3G2 a Formato .3GP Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertissez-gratuitement-les-videos-wtv-en-streaming-en-direct-grace-a-movavi/"><u>Convertissez Gratuitement Les Vidéos WTV en Streaming en Direct Grâce À Movavi</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easing-pro-7s-shimmering-issue/"><u>Easing Pro 7'S Shimmering Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-yuva-2-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Lava Yuva 2 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-6-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-mejores-aplicaciones-de-grabacion-de-pantalla-con-funcionalidad-de-tiempo-para-windows-y-mac-guia-completa/"><u>Top 7 Mejores Aplicaciones De Grabación De Pantalla Con Funcionalidad De Tiempo Para Windows Y Mac: Guía Completa</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-un-image-pgm-en-tiff-sans-frais-solution-facile-avec-movavi-online/"><u>Transformer Un Image PGM en TIFF Sans Frais - Solution Facile Avec Movavi Online</u></a></li>
 </ul></div>
 
