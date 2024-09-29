@@ -65,18 +65,5 @@ The Tianbao Gem12 Mini PC, with AMD Ryzen Hawk Point APU option, launched on JD.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>[New] Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premier-editing-software-for-mobile-app-creation/"><u>[Updated] Premier Editing Software for Mobile App Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ensuring-https-security-fixing-connection-is-not-secure-errors-online/"><u>Ensuring HTTPS Security: Fixing 'Connection Is Not Secure' Errors Online</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-harnessing-youtubes-true-potential-in-studio/"><u>In 2024, Harnessing YouTube's True Potential in Studio</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionary-tech-discoveries-a-look-back-since-1844/"><u>Revolutionary Tech Discoveries: A Look Back Since 1844</u></a></li>
-<li><a href="https://tools.techidaily.com/stellar-video-repair-for-win/"><u>Stellar Video Repair for Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-disabling-or-cancelling-a-twitch-user-account/"><u>Step-by-Step Instructions for Disabling or Cancelling a Twitch User Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ac1st16dll-not-found-issues-in-windows/"><u>Understanding and Repairing ac1st16.dll Not Found Issues in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-bluetooth-or-wired-choosing-the-right-method-to-match-your-subwoofer-with-samsung-speakers/"><u>Wireless Bluetooth or Wired? Choosing the Right Method to Match Your Subwoofer with Samsung Speakers</u></a></li>
-</ul></div>
+
 
