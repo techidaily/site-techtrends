@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Casting Your Favorite Shows on Disney+ Using Chromecast"
-date: 2024-09-16T16:51:54.007Z
-updated: 2024-09-22T17:22:27.073Z
+date: 2024-09-28T06:59:48.180Z
+updated: 2024-09-29T08:56:21.088Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Casting Your Favorite Shows on Disney+ Using Chromecast"
@@ -43,10 +43,10 @@ Close
 ![Steps to start casting Disney Plus to Chromecast.](https://www.lifewire.com/thmb/HDyf-UCxiQHIfTB0tmSjv8sOEAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW24-159d4f781404405c9d9a857999178acd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stop Casting Disney Plus to Chromecast
@@ -60,6 +60,13 @@ Close
 3. The**Casting to (Chromecast device)** text will be gone, indicating you are no longer casting.  
 ![Steps to stop casting Disney Plus to Chromecast.](https://www.lifewire.com/thmb/RdbJP7ftIZ6wTtaXB9_4maLgPcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW25-1101b6b014b64ad3badd5e4e0e491a5a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Connect Disney Plus to Chromecast Using a Computer
 
  If you don’t want to cast from your phone or don’t have a phone or tablet capable of casting, you can use your computer. For this to work, you need to install the Chrome web browser.
@@ -71,32 +78,18 @@ Close
 ![The Chrome menu icon (three vertical dots) highlighted in the upper right corner of Chrome.](https://www.lifewire.com/thmb/S_MSLVPT3aSZxsDoQZ1wb853WY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle92-1089c8b97eb142e79e98d47beb573b33.jpg)
 3. Click**Cast** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Cast... highlighted in the main Chrome menu with Disney Plus open.](https://www.lifewire.com/thmb/qcFnYSn3CDeVDZx0cNtUpewxWk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/w2-bf0b5d459eac433aae9d743a5801b7fa.PNG)
 4. Click the**Chromecast device** you want to connect to.  
 ![Office TV in Chrome menu.](https://www.lifewire.com/thmb/zWq1O1oJjqMcJgcua7RAc4owb4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle94-bda396a8a1b5427387daf3e88ce69374.jpg)
 5. When the TV icon next to your Chromecast changes to a bullseye icon, Disney Plus movies and shows you play in the web browser will be cast to your Chromecast.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Casting Disney Plus to Chromecast from the Chrome browser.](https://www.lifewire.com/thmb/V9bewzoXZwr9FRjn7jURtd7gsvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle95-3be1256303234630b0014ef46dba2692.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stop Casting Disney Plus to Chromecast From Your Browser
@@ -108,9 +101,30 @@ Close
 1. Click the**cast icon** in the upper right corner.  
 ![The Chromecast icon in the upper right corner of a Disney Plus video window in Chrome.](https://www.lifewire.com/thmb/qOqoEHwJb25rv3Qnp10bW2jtnHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Round16-4c2a240021df4a5fadec0a6045115b21.jpg)
 2. Click**Stop casting** .  
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Stop Casting in Chrome with a Disney Plus video playing.](https://www.lifewire.com/thmb/iNq9oBBMSNepJzNR3Zwc1qUSok8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle96-662ed808d30a4693a8a97fbd4884efae.jpg)
 3. The movie or TV show will play in your browser, so close it or click pause if you don’t want to continue watching.  
 ![A Disney Plus video reverting to playback in Chrome after casting has stopped.](https://www.lifewire.com/thmb/C0-b2uAk7Sv37YvhlC-gbUYJE7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/s3-e2c43c088e3f4f2ebcf47b63dc13c32b.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -146,5 +160,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-exceptional-upgrades-for-gopro-captures/"><u>[New] 2024 Approved Exceptional Upgrades for GoPro Captures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-analyzing-the-latest-in-facetune-a-comprehensive-review-for-2024/"><u>[New] Analyzing the Latest in Facetune - A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professionally-speaking-the-top-5-drone-recommendations/"><u>[Updated] Professionally Speaking The Top 5 Drone Recommendations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/capture-vimeo-essence-the-art-of-transforming-into-a-gif-for-2024/"><u>Capture Vimeo Essence The Art of Transforming Into a GIF for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-repairing-horizontal-streaks-on-your-samsung-television/"><u>DIY Solutions: Repairing Horizontal Streaks on Your Samsung Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-handpicked-selection-of-the-best-cooking-programs-on-netflix/"><u>Explore Our Handpicked Selection of the Best Cooking Programs on Netflix</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-s23-tactical-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy S23 Tactical Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-fix-for-common-icloud-glitches-affecting-your-iphoneipad/"><u>Master the Fix for Common iCloud Glitches Affecting Your iPhone/iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722875682769-maximize-your-productivity-with-our-picked-top-enote-taking-apps-for-the-latest-apple-tablets/"><u>Maximize Your Productivity with Our Picked Top eNote-Taking Apps for the Latest Apple Tablets!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-issues-on-snapchat-connecting-with-customer-care-directly/"><u>Solving Your Issues on Snapchat: Connecting With Customer Care Directly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-leverage-live-activities-in-the-latest-apple-update/"><u>Step-by-Step Instructions: How to Leverage Live Activities in the Latest Apple Update</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-year-ahead-facebooks-marketing-edge-trends-of-2024/"><u>The Year Ahead Facebook's Marketing Edge, Trends of 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unfolding-the-details-samsung-galaxy-z-fold-6s-launch-info-cost-specs-and-latest-updates/"><u>Unfolding the Details: Samsung Galaxy Z Fold 6'S Launch Info, Cost, Specs & Latest Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mechanics-behind-t-mobiles-nationwide-wi-fi-and-cellular-roaming-features/"><u>Unveiling the Mechanics Behind T-Mobile’s Nationwide Wi-Fi and Cellular Roaming Features</u></a></li>
+</ul></div>
 

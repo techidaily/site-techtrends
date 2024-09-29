@@ -1,7 +1,7 @@
 ---
 title: "No More Subtitles: Your Comprehensive Guide to Adjust Settings on Amazon Prime Video"
-date: 2024-09-15T21:58:06.760Z
-updated: 2024-09-22T22:14:06.425Z
+date: 2024-09-27T03:58:44.676Z
+updated: 2024-09-28T16:13:26.973Z
 categories:
   - BestProducts
 description: "This Article Describes No More Subtitles: Your Comprehensive Guide to Adjust Settings on Amazon Prime Video"
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 2. Click**Off** . Subtitles are now turned off.  
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -46,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
@@ -53,10 +68,17 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Permanently Turn Off Subtitles?
@@ -110,5 +132,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-achieve-aesthetic-11-best-instagram-enhancers/"><u>[New] Achieve Aesthetic 11 Best Instagram Enhancers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[New] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-thumbnail-tailoring-for-youtube-a-practical-guide-to-image-resizing-and-customization/"><u>[New] Thumbnail Tailoring for YouTube A Practical Guide to Image Resizing and Customization</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-encompassing-activity-survey/"><u>[Updated] Encompassing Activity Survey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[Updated] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-for-deactivating-windows-sticky-keys-option/"><u>Complete Tutorial for Deactivating Windows Sticky Keys Option</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-popular-social-networks-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>Exploring Popular Social Networks: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ready-for-ios-18-no-charge-access-innovative-functions-breakdown-and-fresh-news/"><u>Get Ready for iOS 18: No Charge Access, Innovative Functions Breakdown, and Fresh News</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-started-with-pokemon-go-essential-techniques-for-newbies/"><u>Get Started with Pokémon Go: Essential Techniques for Newbies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-mastering-transactions-with-your-apple-watch-via-apple-pay/"><u>Guide: Mastering Transactions with Your Apple Watch via Apple Pay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-v30t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme V30T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-react-if-you-cant-access-your-instagram-a-step-by-step-guide/"><u>How to React if You Can't Access Your Instagram: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2023 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-of-virtual-reality-speak/"><u>In 2024, Foundations of Virtual Reality Speak</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-reset-how-to-refresh-your-iphone-15-efficiently/"><u>Mastering the Reset: How to Refresh Your iPhone 15 Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsofts-revolutionary-ai-unveiling-the-owners-of-chatgpt/"><u>Microsoft's Revolutionary AI: Unveiling the Owners of ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722873628440-the-ultimate-solution-for-fixing-wi-fi-issues-on-a-mac-reset-network-settings/"><u>The Ultimate Solution for Fixing Wi-Fi Issues on a Mac? Reset Network Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-strategy-for-playstation-5-game-sharing-made-easy/"><u>The Ultimate Strategy for PlayStation 5 Game Sharing Made Easy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-your-first-smartwatch/"><u>Top 5 Essential Factors to Evaluate When Purchasing Your First Smartwatch</u></a></li>
+</ul></div>
 

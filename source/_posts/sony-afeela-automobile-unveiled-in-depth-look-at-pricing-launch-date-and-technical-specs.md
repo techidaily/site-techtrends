@@ -1,7 +1,7 @@
 ---
 title: Sony Afeela Automobile Unveiled - In-Depth Look at Pricing, Launch Date & Technical Specs
-date: 2024-09-17T03:30:46.039Z
-updated: 2024-09-22T22:02:33.280Z
+date: 2024-09-26T18:40:54.677Z
+updated: 2024-09-29T01:35:13.714Z
 categories:
   - BestProducts
 description: This Article Describes Sony Afeela Automobile Unveiled - In-Depth Look at Pricing, Launch Date & Technical Specs
@@ -33,9 +33,23 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Price Rumors
 
@@ -51,19 +65,6 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  We’ll make updates here as we learn more.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Sony Car (Afeela) Features
 
  The Sony car has been a concept for a while, but with the updated prototype unveiled at CES 2024 and recent announcements about collaborations with the likes of Microsoft and Epic Games, the expected feature set is starting to take shape in the production-ready model.
@@ -75,6 +76,13 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 * **Immersive infotainment with a gaming bent** : The Afeela will be like a moving movie theater with infotainment screens throughout, movie and music choices for passengers, and a noise-canceling, spatial audio sound system. SHM has also announced it’s working with Epic Games and its Unreal Engine, the power behind_Fortnite_ , to develop an immersive augmented reality (AR) experience. This feature will look like 3D views of the road from any angle but also offer a gamified view of real-life objects.
 
 ![Sony Honda Mobility and Epic Games collaboration demo in the Afeela prototype.](https://www.lifewire.com/thmb/l9bUlpS2wIPA00FBpEUvK6M-tPw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-Hond-Car-Afeela-EpicGames-Collaboration-4978e86ca0f048c2858c0bd4e757562c.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 AR navigation. 
 
@@ -93,10 +101,10 @@ Sony Interactive Entertainment
 [  Electric Vehicles: A Short History Lesson ](https://www.lifewire.com/electric-vehicles-a-short-history-lesson-5202203) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Specs and Hardware
@@ -142,5 +150,18 @@ Sony Interactive Entertainment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>[Updated] 2024 Approved Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-changing-your-instagram-message-text/"><u>A Step-by-Step Guide: Changing Your Instagram Message Text</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-introduction-to-basic-inputoutput-systems-bios-explained/"><u>An Introduction to Basic Input/Output Systems (BIOS) Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-cinema-from-home-stream-blockbusters-and-originals-on-crackle-free-of-cost/"><u>Enjoy Cinema From Home: Stream Blockbusters and Originals on Crackle - Free of Cost</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-best-free-video-editing-programs-for-learners/"><u>New In 2024, The Best Free Video Editing Programs for Learners</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-update-issues-with-error-code-0x30017-in-windows/"><u>Remedying Update Issues with Error Code 0X30017 in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-for-discontinuing-access-to-paramountplus/"><u>Simple Steps for Discontinuing Access to Paramount+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-repairing-a-non-responsive-keyboard/"><u>Step-by-Step Guide: Repairing a Non-Responsive Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-pair-how-to-integrate-your-fire-tv-stick-with-google-chromecast/"><u>The Perfect Pair: How to Integrate Your Fire TV Stick with Google Chromecast</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/for-preventing-invisible-thumbnails-on-shorts-videos/"><u>Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 7</u></a></li>
+</ul></div>
 

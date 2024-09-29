@@ -1,7 +1,7 @@
 ---
 title: "Gaining Access: Navigating Through the TrustyGuardian of Windows 11"
-date: 2024-09-17T21:09:30.328Z
-updated: 2024-09-22T23:42:25.662Z
+date: 2024-09-22T02:24:38.037Z
+updated: 2024-09-28T16:23:52.123Z
 categories:
   - BestProducts
 description: "This Article Describes Gaining Access: Navigating Through the TrustyGuardian of Windows 11"
@@ -41,6 +41,14 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 5. Open the app and tap**Sign in** . Log in using one of the options, such as your Google account.  
 ![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
 6. Tap**Continue** on the permission request to access your phone's files.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
@@ -52,10 +60,26 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
@@ -63,10 +87,32 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
@@ -109,12 +155,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/igital-content-contenders-compare-and-contrast-vimeo-youtube-plus-dailymotion-for-2024/"><u>[New] Digital Content Contenders Compare & Contrast Vimeo, YouTube + Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-final-thoughts-in-journalistic-styling/"><u>[New] In 2024, Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices-for-2024/"><u>[New] The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-direct-music-upload-top-tools-for-turning-spotify-into-youtube-listings/"><u>[Updated] In 2024, Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vigorous-voice-examination-iteration-no-8/"><u>[Updated] In 2024, Vigorous Voice Examination - Iteration No. 8</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insta-marketing-brilliance-top-10-innovative-approaches-for-video-ads/"><u>[Updated] Insta-Marketing Brilliance Top 10 Innovative Approaches for Video Ads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-building-gear-a-quick-start-guide/"><u>2024 Approved Channel-Building Gear A Quick Start Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-srt-to-sub-transition-techniques/"><u>2024 Approved Seamless SRT to SUB Transition Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatibility-guide-using-airpods-on-the-nintendo-switch/"><u>Compatibility Guide: Using AirPods on the Nintendo Switch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-top-performing-moisture-proof-phone-safeguards/"><u>Comprehensive Review: Top-Performing Moisture-Proof Phone Safeguards</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crackle-streaming-platform-your-gateway-to-free-movie-and-tv-content-online/"><u>Crackle Streaming Platform: Your Gateway to Free Movie & TV Content Online.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-0xc0000185-blue-screen-of-death-a-comprehensive-guide/"><u>Demystifying the 0xC0000185 Blue Screen of Death - A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-infamous-nvstreamuseraagentexe-error-in-windows-guide/"><u>Fixing the Infamous NVSTREAMUSERA_AGENT.EXE Error in Windows [Guide]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-live-photos-with-ios-16-a-step-by-step-guide/"><u>Mastering Live Photos with iOS 16: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-account-a-complete-walkthrough-to-change-xs-sign-in-key/"><u>Protect Your Account: A Complete Walkthrough to Change X's Sign-In Key</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-kernel-data-inpage-mishaps-a-step-by-step-guide/"><u>Resolving Kernel Data Inpage Mishaps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-streaming-experience-fixing-issues-with-amazon-primes-subtitle-feature/"><u>Revive Your Streaming Experience: Fixing Issues with Amazon Prime's Subtitle Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-a-step-by-step-guide-on-correcting-cmos-checksum-mismatches/"><u>Solving the Puzzle: A Step-by-Step Guide on Correcting CMOS Checksum Mismatches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-on-how-to-end-your-paramountplus-service/"><u>Step-by-Step Process on How to End Your Paramount+ Service</u></a></li>
+</ul></div>
 

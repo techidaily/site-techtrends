@@ -1,7 +1,7 @@
 ---
 title: How to Use AirPlay Technology to Project Your Mac Display Onto Any TV
-date: 2024-09-20T23:37:17.321Z
-updated: 2024-09-23T01:25:33.154Z
+date: 2024-09-24T20:24:57.030Z
+updated: 2024-09-29T08:06:10.100Z
 categories:
   - BestProducts
 description: This Article Describes How to Use AirPlay Technology to Project Your Mac Display Onto Any TV
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 
  This article explains how to AirPlay from Mac to a TV. Instructions apply to Macs running macOS Mojave (10.14) and later. Once you’ve turned on AirPlay on your Mac, you can cast from your Mac to your Apple TV or compatible smart TV with a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to AirPlay From a Mac to a TV in macOS 11 and Later
 
  Access AirPlay on a Mac running macOS Big Sur (11.0) and later in the Control Center. You need an Apple TV device or an AirPlay-compatible smart TV on the same network as the Mac.
@@ -34,8 +41,30 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 3. To start displaying your Mac's screen on your TV, select**Apple TV** or the name of your smart TV.  
 ![Apple TV selected in the Mac Screen Mirroring menu](https://www.lifewire.com/thmb/PTv_lLD58PvHZcn-aS4rWJqhTis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-airplay-from-mac-to-tv-5191732-5a0b12d976554a44be665bf038db0f71.jpg)
 4. To stop AirPlay, return to the Screen Mirroring menu and select**Display Preferences** .  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Display Preferences highlighted in the Mac Screen Mirroring menu](https://www.lifewire.com/thmb/6QlqKlavxzR07tZYQzInVSsem8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-airplay-from-mac-to-tv-5191732-c3a68c281fdf433188525afa80f0d6d7.jpg)  
  You can also go to the Mac menu bar, select the**AirPlay** icon, and then select**Display Preferences** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In macOS 12, choose**Display Settings** in the window that opens. (The process differs from here slightly in macOS 11, as shown below.)  
 ![Display Settings highlighted on a Mac](https://www.lifewire.com/thmb/mjEeMcCHE2JgwY0g0gYEEPRxmfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-airplay-from-mac-to-tv-5191732-ec195a78ae8c4da3bc50c7c614763fb0.jpg)
 6. In macOS 12, select**Disconnect** to stop AirPlay. Choose**Done** to close the window.  
@@ -51,6 +80,14 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 9. Under AirPlay To, choose the Apple TV or AirPlay-compatible TV.  
 ![AirPlay status icon and AirPlay To devices highlighted from the macOS menu bar.](https://www.lifewire.com/thmb/6exsEZ4gsCJ5GTKsBnBaLszMFNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-airplay-from-a-mac-to-tv_5191732-bc8ec7fdf0b74dc98731f4477eaf2781.jpg)
 10. Alternatively, open**Control Center** , select**Screen Mirroring** and choose the name of your Apple TV or AirPlay-compatible TV.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. If it’s your first time connecting to your smart TV, input the_code_ you see on your TV when prompted on your Mac.  
 ![AirPlay Device Code box that appears on a Mac when connecting to a smart TV.](https://www.lifewire.com/thmb/EPNisXy2HXKSoVsvA59esOGgZlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-airplay-from-a-mac-to-tv_5191732-cb9264410ed04ab1859e603cf5e30a6c.jpg)  
 
@@ -67,17 +104,23 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 ![AirPlay icon and device options highlighted from within an AirPlay-enabled app on a Mac.](https://www.lifewire.com/thmb/SMlnEpG_1VEImUPg0CLSTXQjOSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-airplay-from-a-mac-to-tv_5191732-17745c68ee7148c5b54c32da7d11134d.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I AirPlay From My Mac to My Smart TV Without Apple TV?
@@ -121,5 +164,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ideal-remote-recording-gear/"><u>[New] 2024 Approved Ideal Remote Recording Gear</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortless-guide-to-designing-youtube-follow-links/"><u>[Updated] In 2024, Effortless Guide to Designing YouTube Follow Links</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-aesthetics-guide-media-sound-choices-for-2024/"><u>Auditory Aesthetics Guide Media Sound Choices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-learning-applications-our-picks-edition/"><u>Best Learning Applications: Our Picks Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-for-building-an-oculus-quest-and-quest-2-username-and-password/"><u>Easy Tutorial for Building an Oculus Quest & Quest 2 Username and Password</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-targus-connectivity-drivers-get-them-here/"><u>Effortless Installation of Targus Connectivity Drivers - Get Them Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/essential-tips-for-effective-instagram-video-conversations-for-2024/"><u>Essential Tips for Effective Instagram Video Conversations for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-x-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone X? Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-copilot-in-microsoft-teams/"><u>How to Use Copilot in Microsoft Teams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>In 2024, Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-microsoft-teams-experiencing-downtime-or-is-your-internet-connection-at-fault/"><u>Is Microsoft Teams Experiencing Downtime - Or Is Your Internet Connection at Fault?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-learn-the-free-and-easy-way-to-edit-videos-shot-by-your-gopro-for-2024/"><u>New Learn the Free and Easy Way to Edit Videos Shot by Your GoPro for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedies-for-broken-gmail-synchronization/"><u>Remedies for Broken Gmail Synchronization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-hierarchy-the-number-of-tiers-within-royal-match-revealed/"><u>Unveiling the Hierarchy: The Number of Tiers Within 'Royal Match' Revealed</u></a></li>
+</ul></div>
 

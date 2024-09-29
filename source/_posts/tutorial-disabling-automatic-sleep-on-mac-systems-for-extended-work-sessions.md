@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Disabling Automatic Sleep on Mac Systems for Extended Work Sessions"
-date: 2024-09-18T21:29:51.959Z
-updated: 2024-09-23T03:03:51.595Z
+date: 2024-09-27T20:09:34.629Z
+updated: 2024-09-28T19:41:23.138Z
 categories:
   - BestProducts
 description: "This Article Describes Tutorial: Disabling Automatic Sleep on Mac Systems for Extended Work Sessions"
@@ -39,9 +39,24 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
 ![Multiple monitors being configured on Windows 10 Display settings](https://www.lifewire.com/thmb/yVjDg9fBA8hoBTzwZbVB_1qhIYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearrangedisplays-0e9cb668b33548caa615ae8d7c98f2c9.jpg)
 8. Close the**Display** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can My Computer Support Three Monitors?
 
@@ -55,15 +70,22 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 ![Windows Device Manager with Display Adapters highlighted](https://www.lifewire.com/thmb/etZih571PshGMVscQeHITRVgEYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayadapters-cce42c63bc03453392e1c21e7912d822.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you know the graphics hardware, hit your favorite search engine. Look for a support or specification page on the company's official website that produced your PC's graphics hardware.
 
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
@@ -87,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
  Your PC must support this feature. Most PCs sold in the last few years will, but older models often don't. Check the PC manufacturer's website or the company's website, which made your graphics card, to see if daisy chains are supported.  
 
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 LanaStock / Getty Images
 
@@ -135,5 +150,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs-for-2024/"><u>[Updated] Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtube-mastery-made-simple-the-top-20-must-know-strategies/"><u>2024 Approved YouTube Mastery Made Simple The Top 20 Must-Know Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-explained-an-overview-of-associated-risks/"><u>Artificial Intelligence Explained: An Overview of Associated Risks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903126973-crack-the-code-on-phase0exception-fixing-stop-errors-made-easy/"><u>Crack the Code on PHASE0_EXCEPTION - Fixing STOP Errors Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-amazon-prime-day-24-key-facts-dates-and-strategies-for-shoppers/"><u>Decoding Amazon Prime Day '24: Key Facts, Dates, and Strategies for Shoppers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-csr-bluetooth-chip-drivers-here/"><u>Get Your CSR Bluetooth Chip Drivers Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-silence-remedies-for-an-inactive-alexa/"><u>Overcoming the Silence: Remedies for an Inactive Alexa</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/splendid-scenery-crafting-visuals-with-strategic-lighting-for-2024/"><u>Splendid Scenery Crafting Visuals with Strategic Lighting for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/"><u>What Are the Stages in a Game of 'Royal Match'?</u></a></li>
+</ul></div>
 

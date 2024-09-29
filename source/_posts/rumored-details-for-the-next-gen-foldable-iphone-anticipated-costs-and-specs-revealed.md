@@ -1,7 +1,7 @@
 ---
 title: "Rumored Details for the Next-Gen Foldable iPhone: Anticipated Costs and Specs Revealed"
-date: 2024-09-15T21:55:26.665Z
-updated: 2024-09-22T23:25:11.964Z
+date: 2024-09-25T16:13:08.066Z
+updated: 2024-09-28T17:19:47.649Z
 categories:
   - BestProducts
 description: "This Article Describes Rumored Details for the Next-Gen Foldable iPhone: Anticipated Costs and Specs Revealed"
@@ -33,6 +33,13 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -47,6 +54,13 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -54,6 +68,13 @@ Patent US8929085B2.
 > In the described embodiment, the flexible display assembly is configured to present visual content at any portion of the transparent housing.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -71,16 +92,16 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 iPhone Fold concept.
 
 Michal Dufka
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -122,13 +143,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -152,5 +166,21 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-editorial-elegance-at-the-end/"><u>[New] Editorial Elegance at the End</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-youtubes-photo-publishing/"><u>[Updated] 2024 Approved Navigating YouTube's Photo Publishing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-leading-10-digital-subtitling-platforms/"><u>[Updated] In 2024, Leading 10 Digital Subtitling Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-dynamics-of-collaborative-marketing-on-youtube/"><u>2024 Approved The Dynamics of Collaborative Marketing on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-home-entertainment-planning-and-executing-the-perfect-sing-along-bash/"><u>DIY Home Entertainment: Planning and Executing the Perfect Sing-Along Bash</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-top-smart-frames-to-buy/"><u>Expert Picks: Top Smart Frames to Buy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209943784-expert-tips-to-fix-continuous-operation-mode-on-windows-11-the-shutdown-problem-solved/"><u>Expert Tips to Fix Continuous Operation Mode on Windows 11 - The Shutdown Problem SOLVED</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985025473-house-flipper-2-stalling-heres-how-to-restore-smooth-gaming-on-pc/"><u>House Flipper 2 Stalling? Here's How to Restore Smooth Gaming on PC!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-ntdlldll-errors-in-windows-10-8-7-etc/"><u>How to Fix Ntdll.dll Errors in Windows [10, 8, 7, Etc.]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/learn-how-to-share-your-printer-with-other-electronic-devices-through-networking/"><u>Learn How to Share Your Printer with Other Electronic Devices Through Networking</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavimpemp4/"><u>Movaviで手軽にMPEをMP4に変換 – 無料オンラインコンバーターガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-leading-small-desktop-systems-for-gamers/"><u>The Leading Small Desktop Systems for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-solutions-for-resolving-parsing-errors-in-android-applications/"><u>Top 8 Solutions for Resolving Parsing Errors in Android Applications</u></a></li>
+</ul></div>
 

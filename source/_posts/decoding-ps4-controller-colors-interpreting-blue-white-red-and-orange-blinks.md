@@ -1,7 +1,7 @@
 ---
 title: "Decoding PS4 Controller Colors: Interpreting Blue, White, Red, and Orange Blinks"
-date: 2024-09-15T22:41:24.946Z
-updated: 2024-09-22T21:38:58.089Z
+date: 2024-09-23T16:58:23.315Z
+updated: 2024-09-29T07:55:02.606Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding PS4 Controller Colors: Interpreting Blue, White, Red, and Orange Blinks"
@@ -37,6 +37,13 @@ Close
 
 InspiredImages/Pixabay
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Why Is My PS4 Controller Flashing White?
 
  If the LED light on your PS4 controller is blinking white, it's due to one of two reasons:
@@ -45,6 +52,13 @@ InspiredImages/Pixabay
 * **The controller can't connect** : Reset the controller, then check the USB or Bluetooth connection. If you still have trouble, power cycle your PS4\. Turn the console off by holding down the power button, then remove the power cables and let your console sit for 20 minutes. With the console still unplugged, press and hold the power button again, then plug the console back in.
 
  If you continue to have trouble with your console, you can try[ resetting your PS4 to factory settings](https://www.lifewire.com/how-to-reset-your-ps4-4173916) , but you will lose any data on your hard drive that's not backed up to the cloud.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Why Is My PS4 Controller Blinking Red?
 
@@ -55,10 +69,10 @@ InspiredImages/Pixabay
  If you're sure the battery or charging port on your controller is defective, you can replace it. This is an advanced fix that requires you to open up your controller, so you might be better off buying a new one. If the controller is still under warranty, you should send it in for repairs.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Is My PS4 Controller Flashing Orange?
@@ -71,10 +85,16 @@ InspiredImages/Pixabay
 ![Supply Power to USB Ports in PlayStation 4 settings](https://www.lifewire.com/thmb/LJDfeunJAa8PB2wou89_OvQhlyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_why-is-my-ps4-controller-blinking-blue-white-red-or-orange-6754246-0eef66506e3b4750b67651589c886fb9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To rule out minor technical hiccups, power cycle the PS4, then reset the controller and let it charge for a couple of hours. If the controller loses its charge too quickly, the internal battery is probably defective.
@@ -119,5 +139,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/aunching-success-streamline-your-first-youtube-business-channels/"><u>[New] Launching Success Streamline Your First YouTube Business Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prime-backdrops-for-effective-virtual-gatherings-for-2024/"><u>[New] Prime Backdrops for Effective Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-selecting-sounds-for-success-top-microphones-for-multifacited-youtube-professionals/"><u>[Updated] 2024 Approved Selecting Sounds for Success Top Microphones for Multifacited YouTube Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-frame-rate-dilemma-30-vs-60-fps-in-video-production/"><u>[Updated] In 2024, Frame Rate Dilemma 30 Vs. 60 FPS in Video Production</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-picture-text-enhancement-for-2024/"><u>[Updated] The Ultimate Guide to Picture Text Enhancement for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ampace-andes-1500-in-action-real-world-testing-of-an-all-in-one-portable-energy-source/"><u>Ampacē Andes 1500 in Action: Real-World Testing of an All-in-One Portable Energy Source</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cgp-and-the-quest-for-reliable-medical-info/"><u>CGP and the Quest for Reliable Medical Info</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-free-ios-chat-tools-best-options-for-iphones-and-ipods/"><u>Download Free iOS Chat Tools: Best Options for iPhones & iPods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-connect-and-share-your-printer-on-different-gadgets/"><u>Easy Ways to Connect and Share Your Printer on Different Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-cygwin1dll-is-missing-error-effective-troubleshooting-steps/"><u>Eliminating 'cygwin1.dll Is Missing' Error: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-factors-to-consider-before-purchasing-your-new-projector/"><u>Essential Factors to Consider Before Purchasing Your New Projector</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>In 2024, Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-cutting-edge-video-editing-top-4k-software-solutions/"><u>New In 2024, Cutting-Edge Video Editing Top 4K Software Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-to-show-concealed-apps-on-ios-devices/"><u>Step-by-Step Process to Show Concealed Apps on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-buzz-around-the-future-apple-car-estimated-price-range-expected-debut-vehicle-specs-and-fresh-rumor-mill-chatter/"><u>The Buzz Around the Future Apple Car - Estimated Price Range, Expected Debut, Vehicle Specs, and Fresh Rumor Mill Chatter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-d3dx930dll-file-missing-or-cannot-be-located-issues/"><u>Ultimate Guide: Resolving d3dx9_30.dll File Missing or Cannot Be Located Issues</u></a></li>
+</ul></div>
 

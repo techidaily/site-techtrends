@@ -1,7 +1,7 @@
 ---
 title: "Advanced Windows Administration Techniques: Changing User Passwords by Default"
-date: 2024-09-17T01:48:10.531Z
-updated: 2024-09-23T02:12:10.435Z
+date: 2024-09-22T17:13:03.006Z
+updated: 2024-09-29T04:16:46.313Z
 categories:
   - BestProducts
 description: "This Article Describes Advanced Windows Administration Techniques: Changing User Passwords by Default"
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 * **Win** +**Shift** +**S** lets you pick a window or section of the screen.
 
  This article explains all the different ways to make Windows 11 screenshots.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
 
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -89,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -134,5 +148,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-innovating-with-snapchats-new-highlight-feature/"><u>[New] In 2024, Innovating with Snapchat's New Highlight Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile/"><u>[Updated] Hashtag Hacks The Top 25 Tactics to Elevate Your Instagram Profile</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-quick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>2024 Approved Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlock-your-content-potential-with-youtubes-movie-maker/"><u>2024 Approved Unlock Your Content Potential with YouTube's Movie Maker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-future-of-wireless-technology-an-insight-into-802ebe-ax-ac-bgn-and-a-networking-standards/"><u>Decoding the Future of Wireless Technology: An Insight Into 802.ebe, Ax, Ac, B/G/N & a Networking Standards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-self-expression-with-these-eboxed-highly-recommended-journal-apps/"><u>Elevate Your Self-Expression with These Eboxed Highly Recommended Journal Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-screen-issues-a-step-by-step-guide-to-fix-pixelation-and-fading-colors/"><u>Eliminating Screen Issues: A Step-by-Step Guide to Fix Pixelation & Fading Colors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-online-presence-using-manycam-professional-virtual-webcam-technology-unveiled/"><u>Enhance Online Presence Using ManyCam: Professional Virtual Webcam Technology Unveiled</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-se-2022-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone SE (2022) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ios-15-vs-ios-14-feature-differences-compatible-devices-and-update-guide-unlocking-tips-and-bug-fixes/"><u>IOS 15 vs iOS 14: Feature Differences, Compatible Devices, and Update Guide - Unlocking Tips & Bug Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-your-kindle-paperwhites-time-zone-and-hour-easy-instructions-inside/"><u>Resetting Your Kindle Paperwhite's Time Zone and Hour – Easy Instructions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-shelldll-cannot-be-located-error-a-step-by-step-guide/"><u>Resolving the 'Shell.dll Cannot Be Located' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-navigate-and-search-with-the-wayback-machine/"><u>Step-by-Step Instructions: How to Navigate and Search with the Wayback Machine</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-warmth-in-winter-top-5-video-backdrop-choices-for-2024/"><u>The Art of Warmth in Winter Top 5 Video Backdrop Choices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-nvidia-screenshot-user-manual-for-2024/"><u>The Complete NVIDIA Screenshot User Manual for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-must-watch-tv-series-streaming-on-max/"><u>Top Picks: Must-Watch TV Series Streaming on Max</u></a></li>
+</ul></div>
 

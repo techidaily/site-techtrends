@@ -1,7 +1,7 @@
 ---
 title: Inside Rumors on Apple's New Hearing Device - A Comprehensive Guide to Expected Costs, Release Plans & Tech Specs
-date: 2024-09-19T02:57:29.360Z
-updated: 2024-09-22T21:41:04.331Z
+date: 2024-09-28T06:19:05.266Z
+updated: 2024-09-29T01:05:39.734Z
 categories:
   - BestProducts
 description: This Article Describes Inside Rumors on Apple's New Hearing Device - A Comprehensive Guide to Expected Costs, Release Plans & Tech Specs
@@ -32,6 +32,13 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
@@ -44,11 +51,25 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -60,10 +81,10 @@ Apple, Inc / USPTO
 * Microphones for commands, user identification, and calibration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Directional Audio
@@ -79,13 +100,6 @@ Apple, Inc / USPTO
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -110,5 +124,22 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xplore-the-best-and-easiest-youtube-to-mp3-conversion-tech-for-2024/"><u>[New] Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/evitalizing-video-engagement-easy-steps-for-an-animated-subscribe-button-in-filmora/"><u>[New] Revitalizing Video Engagement Easy Steps for an Animated Subscribe Button in Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-into-expertise-modifying-numbers-on-tiktok-profiles/"><u>[Updated] Step Into Expertise Modifying Numbers on TikTok Profiles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-linear-display-anomalies-on-personal-computers/"><u>Comprehensive Fixes for Linear Display Anomalies on Personal Computers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/crafting-wide-angle-photos-with-a-fisheye-effect-for-2024/"><u>Crafting Wide-Angle Photos with a Fisheye Effect for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-the-silent-phone-effective-remedies-to-restore-your-iphones-ringtones/"><u>Diagnosing the 'Silent Phone': Effective Remedies to Restore Your iPhone's Ringtones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-integration-of-fubotv-onto-your-amazon-firestick-device/"><u>Easy Integration of FuboTV Onto Your Amazon Firestick Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/language-mastery-face-off-determining-the-best-between-chatgpt-and-google-translate-for-seamless-communication/"><u>Language Mastery Face-Off: Determining the Best Between ChatGPT and Google Translate for Seamless Communication</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-downtime-exposes-the-need-for-government-policies-against-overdependence-on-large-scale-tech-entities/"><u>Microsoft Downtime Exposes the Need for Government Policies Against Overdependence on Large-Scale Tech Entities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-ai-powered-chrome-extensions-for-better-task-management/"><u>The Ultimate List of AI-Powered Chrome Extensions for Better Task Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-mfc42dll-errors-in-windows-systems/"><u>Troubleshooting Missing mfc42.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vida-a-comprehensive-look-at-our-editing-tool/"><u>Vida A Comprehensive Look at Our Editing Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722887307809-watching-fubotv-heres-how-you-can-stream-it-using-fire-stick-easily/"><u>Watching FuboTV? Here's How You Can Stream It Using Fire Stick Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/yahoo-messenger-explained-its-history-and-reason-behind-the-closure/"><u>Yahoo! Messenger Explained: Its History and Reason Behind the Closure</u></a></li>
+</ul></div>
 

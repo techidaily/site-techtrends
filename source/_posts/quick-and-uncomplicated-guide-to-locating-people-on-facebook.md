@@ -1,7 +1,7 @@
 ---
 title: Quick & Uncomplicated Guide to Locating People on Facebook
-date: 2024-09-16T00:22:21.790Z
-updated: 2024-09-22T22:12:37.405Z
+date: 2024-09-24T23:21:45.783Z
+updated: 2024-09-29T07:09:01.063Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Uncomplicated Guide to Locating People on Facebook
@@ -40,10 +40,32 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 3. Select**Info** .  
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
@@ -56,13 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 3. Move the**Filter Unknown Senders** slider to on/green.  
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
@@ -79,10 +94,10 @@ thumbnail: https://www.lifewire.com/thmb/hxWpzKcN-BiBu9bvDiyxKnNO4Us=/400x300/fi
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
@@ -124,5 +139,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-100-working-method-for-adding-link-to-tiktok-bio/"><u>[New] 100% Working Method for Adding Link to TikTok Bio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-conquering-competition-crafting-standout-youtube-advertising-banners/"><u>[Updated] Conquering Competition Crafting Standout YouTube Advertising Banners</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[Updated] In 2024, Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-profile-age-precision-on-tiktok/"><u>2024 Approved Mastering the Art of Profile Age Precision on TikTok</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-recording-roulette-top-strategies-for-tv-show-capture/"><u>2024 Approved Recording Roulette Top Strategies for TV Show Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-vids-for-cash-a-compreomed-analysis-of-monetization-plays/"><u>2024 Approved Vids for Cash A Compreomed Analysis of Monetization Plays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/8-free-driver-revitalizers-your-comprehensive-guide-for-july-2024/"><u>8 Free Driver Revitalizers - Your Comprehensive Guide for July 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquering-image-search-a-pathway-to-stunning-pexels-visuals-for-2024/"><u>Conquering Image Search A Pathway to Stunning Pexels Visuals for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-platform-compatibility-converting-and-opening-iwork-pages-on-a-windows-machine/"><u>Cross-Platform Compatibility: Converting and Opening iWork Pages on a Windows Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-a-5n-gateway-failure-a-step-by-step-guide/"><u>Diagnosing and Repairing a 5N-Gateway Failure: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-how-to-eliminate-unwanted-stripes-from-your-tv-screen/"><u>DIY Solutions: How to Eliminate Unwanted Stripes From Your TV Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-a-frozen-chromebook-quickly-with-these-8-tips/"><u>Fix a Frozen Chromebook Quickly with These 8 Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-hurdles-in-collaboration-how-to-determine-if-its-a-microsoft-teams-glitch-or-personal-network-problem/"><u>Identifying Hurdles in Collaboration: How to Determine If It's a Microsoft Teams Glitch or Personal Network Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-selection-of-premium-4k-blu-ray-systems/"><u>In 2024, Prime Selection of Premium 4K Blu-Ray Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/rise-to-success-with-these-essential-15-fb-sales-insights/"><u>Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-removing-your-likes-from-the-entire-spotify-playlist/"><u>Step-by-Step Tutorial: Removing Your Likes From the Entire Spotify Playlist</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-lowdown-on-the-rumored-meta-quest-3-light-potential-price-tag-release-expectations-and-specs-sneak-peek/"><u>The Lowdown on the Rumored Meta Quest 3 Light: Potential Price Tag, Release Expectations & Specs Sneak Peek</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-trending-british-tv-shows-on-netflix/"><u>The Ultimate List of Trending British TV Shows on Netflix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-power-cycling-helps-resolve-common-smartphone-glitches-quickly/"><u>Why Power Cycling Helps Resolve Common Smartphone Glitches Quickly</u></a></li>
+</ul></div>
 
