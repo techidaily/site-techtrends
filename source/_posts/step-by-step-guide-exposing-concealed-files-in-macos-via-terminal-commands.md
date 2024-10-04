@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Exposing Concealed Files in macOS via Terminal Commands"
-date: 2024-09-16T16:52:12.250Z
-updated: 2024-09-22T18:51:31.804Z
+date: 2024-10-02T17:06:46.193Z
+updated: 2024-10-04T17:02:49.527Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Exposing Concealed Files in macOS via Terminal Commands"
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![Terminal window with commands inline](https://www.lifewire.com/thmb/z9u9E5cQZxfSmppiqZSimKAfX_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_view-hidden-mac-folders-using-terminal-2260776-5c2ea73546e0fb0001415cda.jpg)
 3. Entering the two lines above into Terminal allows you to use the[Finder](https://www.lifewire.com/use-mac-finder-2260739) to display all the hidden files on your Mac. The first line tells the Finder to display all files, regardless of how the hidden flag is set. The second line stops and restarts the Finder, so the changes can take effect. You may see your desktop disappear and reappear when you execute these commands; this is normal.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Was Hidden Can Now Be Seen
 
  Now that the Finder is displaying[hidden files](https://www.lifewire.com/what-is-a-hidden-file-2625898) and folders, just what can you see? The answer depends on the specific folder you're looking at, but in just about every folder, you'll see a file named**.DS\_Store** . The DS\_Store file contains information about the current folder, including the icon to use for the folder, the location its window will open in, and other bits of information the system needs.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
  Go ahead and look around the Library folder, but don't make any changes unless you have a specific problem that you're attempting to fix.
 
  Now that you can see all the hidden folders and files in the Finder, you'll probably want to hide them again, if only because they tend to clutter up Finder windows with extraneous items.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hide the Clutter
 
@@ -53,10 +67,17 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 3. Poof! The hidden files are once again hidden. No hidden folder or file was harmed in the making of this Mac tip.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More About Terminal
@@ -90,5 +111,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-stellarworkspace-unified-elite-full-hd-screens/"><u>[New] StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beginners-haven-in-photo-editing-with-lunapic/"><u>[Updated] Beginner's Haven in Photo Editing with LunaPic</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-acclaimed-top-5-compact-cameras-for-filming/"><u>2024 Approved Acclaimed Top 5 Compact Cameras for Filming</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-visual-chaos-tidy-up-your-icons/"><u>Avoid Visual Chaos: Tidy Up Your Icons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-your-ai-sidekick-alexa-vs-google-assistant-which-fits-you-perfectly/"><u>Choosing Your AI Sidekick: Alexa Vs. Google Assistant – Which Fits You Perfectly?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-include-text-overlays-on-instagram-stories/"><u>How To Include Text Overlays on Instagram Stories?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-start-streaming-on-youtube-with-an-introductory-obs-course/"><u>In 2024, Start Streaming on Youtube with an Introductory OBS Course</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-cloud-gaming-strategies-for-maximizing-your-xbox-game-pass-ultimate-experience/"><u>Step-by-Step Cloud Gaming Strategies for Maximizing Your Xbox Game Pass Ultimate Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/toms-tech-review-comprehensive-guides-on-hardware-and-gadgets/"><u>Tom's Tech Review: Comprehensive Guides on Hardware & Gadgets</u></a></li>
+</ul></div>
 

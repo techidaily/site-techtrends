@@ -1,7 +1,7 @@
 ---
 title: "Scanning Made Simple: Connecting Printer to Computer Seamlessly"
-date: 2024-09-24T08:33:19.249Z
-updated: 2024-09-29T00:51:30.131Z
+date: 2024-09-27T17:01:14.590Z
+updated: 2024-10-04T16:49:08.581Z
 categories:
   - BestProducts
 description: "This Article Describes Scanning Made Simple: Connecting Printer to Computer Seamlessly"
@@ -34,27 +34,14 @@ These instructions apply to PCs running Windows 10 and up.
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
@@ -72,22 +59,42 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -97,13 +104,6 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -121,6 +121,19 @@ These instructions apply to PCs running Windows 10 and up.
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
@@ -166,19 +179,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-create-professional-valorant-thumbnails-in-no-time/"><u>[New] Create Professional Valorant Thumbnails in No Time</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-navigating-virtual-meetings-setting-up-video-calls-via-whatsapp-browser-on-pcs/"><u>[New] In 2024, Navigating Virtual Meetings Setting up Video Calls via WhatsApp Browser on PCs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-expertly-picked-top-10-windows-11-cam-recorders/"><u>[Updated] 2024 Approved Expertly Picked Top 10 Windows 11 Cam Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagrams-music-stickers-integration/"><u>[Updated] 2024 Approved Mastering Instagram's Music Stickers Integration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-jokes-jamboree-mastering-memelore-made-simple/"><u>[Updated] Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/best-value-gaming-peripherals-for-under-100/"><u>Best Value Gaming Peripherals for Under $100</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-sound-back-download-realtek-asio-windows-10-drivers-now-simple-steps-included/"><u>Get Your Sound Back! Download Realtek Asio Windows 10 Drivers Now - Simple Steps Included</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-insights-into-windows-server-update-services-wsus-what-you-must-know-now/"><u>In-Depth Insights Into Windows Server Update Services (WSUS): What You Must Know Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-converting-soundcloud-to-mp3-a-simple-step-by-step-guide/"><u>Mastering the Art of Converting SoundCloud to MP3 – A Simple, Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-personalized-email-footers-in-outlook-tips-and-tricks-for-2013-and-2016-edition/"><u>Mastering the Art of Personalized Email Footers in Outlook - Tips and Tricks for 2013 & 2016 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-frame-rates-on-roblox-ultimate-guide-for-gamers-in-202er/"><u>Maximize Frame Rates on Roblox - Ultimate Guide for Gamers in 202Er</u></a></li>
-<li><a href="https://techtrends.techidaily.com/oculus-air-link-window-error-heres-how-to-restore-connectivity/"><u>Oculus Air Link Window Error? Here's How to Restore Connectivity!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/smooth-gameplay-and-seamless-recordings-by-nvidia/"><u>Smooth Gameplay & Seamless Recordings by NVIDIA</u></a></li>
-<li><a href="https://facebook.techidaily.com/untangling-the-messages-fb-icon-semantics/"><u>Untangling the Messages: FB Icon Semantics</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-forgotten-tiktok-reload-a-quick-fix/"><u>[New] In 2024, Forgotten TikTok Reload A Quick Fix?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-breakdown-hero4-black-usage/"><u>[Updated] Complete Breakdown Hero4 Black Usage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-5-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 5 Lite to Outlook | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-local-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly/"><u>In 2024, __Local Labor Costs__ The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-allocate-more-ram-to-minecraft/"><u>In 2024, How to Allocate More Ram to Minecraft</u></a></li>
+<li><a href="https://techtrends.techidaily.com/les-techniques-les-plus-efficaces-pour-reduire-la-taille-des-fichiers-video-mov/"><u>Les Techniques Les Plus Efficaces Pour Réduire La Taille Des Fichiers Vidéo MOV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimale-audio-konfigurationen-fur-dvdblu-ray-mit-handbrake-verbessern-sie-ihre-medienwiedergabe/"><u>Optimale Audio-Konfigurationen Für DVD/Blu-Ray Mit HandBrake - Verbessern Sie Ihre Medienwiedergabe</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-enjoy-dvd-content-on-the-wii-and-wii-u-systems/"><u>Step-by-Step Tutorial: How to Enjoy DVD Content on the Wii and Wii U Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-streaming-isos-through-plex-without-a-hitch/"><u>Step-by-Step Tutorial: Streaming ISOs Through Plex Without a Hitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-10-best-free-professional-grade-video-editing-tools-without-watermarks/"><u>The Ultimate Guide to 10 Best Free, Professional-Grade Video Editing Tools Without Watermarks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-15-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 15</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-essentials-for-choosing-the-right-gaming-console/"><u>Top 5 Essentials for Choosing the Right Gaming Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-paypro-global-ensuring-safety-with-digiartys-transaction-protection/"><u>What Is PayPro Global? Ensuring Safety with Digiarty's Transaction Protection</u></a></li>
 </ul></div>
 

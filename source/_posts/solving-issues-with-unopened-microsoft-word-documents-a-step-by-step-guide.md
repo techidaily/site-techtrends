@@ -1,7 +1,7 @@
 ---
 title: "Solving Issues with Unopened Microsoft Word Documents: A Step-by-Step Guide"
-date: 2024-09-21T23:30:49.652Z
-updated: 2024-09-22T20:16:24.215Z
+date: 2024-09-29T16:29:57.770Z
+updated: 2024-10-04T16:10:32.443Z
 categories:
   - BestProducts
 description: "This Article Describes Solving Issues with Unopened Microsoft Word Documents: A Step-by-Step Guide"
@@ -26,6 +26,13 @@ Close
 
  It's unusual for Microsoft Word to have trouble opening files, but it does happen. In addition to file corruption, the most likely reason a document doesn't open in Word is that your computer is set up to launch a different program when you open the file. It's also possible that the program needs to be repaired or reinstalled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Fix It When a Word Document Won't Open
 
  There are a few solutions depending on the problem.
@@ -34,6 +41,14 @@ Close
 2. Use the Open and Repair option. If the document won't open because it's damaged, select the arrow next to the**Open** button and choose**Open and Repair** .  
 ![Open and Repair command in Word](https://www.lifewire.com/thmb/Uqy1JdN9YL2Rbp7K1mqt5O4y5J4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-microsoft-word-files-wont-open-3540218-cb98ca350e624669bf4b7361e60c5a4f.jpg)  
  Files can become corrupted when a computer crashes or loses power, or when a[ USB device](https://www.lifewire.com/universal-serial-bus-usb-2626039) is disconnected while a document stored on it is open.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restore a previous version of the document. This will work if you use OneDrive or SharePoint and it has a backup of the file from when it was working correctly. To check, right-click the file and go to**Properties** \>**Previous Versions** .
 4. Unblock the file. Documents downloaded from the internet might not open correctly in Word. Right-click the file and go to**Properties** \>**Unblock** \>**OK** , and then try to open it again.
 5. [ Open Word in Safe Mode](https://www.lifewire.com/using-safe-mode-to-diagnose-word-3540220) and then try to open the document from there. If it works, review any add-ins installed in Microsoft Word; one or more might be to blame.
@@ -72,12 +87,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>[New] In 2024, Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expertly-handling-timecodes-in-srt-using-macos-tools-for-2024/"><u>[Updated] Expertly Handling Timecodes in SRT Using macOS Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-breaking-into-solos-creating-popular-podcasts/"><u>2024 Approved Breaking Into Solos Creating Popular Podcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatible-high-definition-media-playback-sony-samsung-lg-and-tcls-guide-to-4k-format-compatibility/"><u>Compatible High-Definition Media Playback: Sony, Samsung, LG & TCL's Guide to 4K Format Compatibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-latest-from-digiarty-software-powerful-mac-dvd-ripping-and-conversion-app-now-available/"><u>Discover the Latest From Digiarty Software - Powerful Mac DVD Ripping and Conversion App Now Available!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-guide-how-to-transform-mp4-videos-into-wmv-format-using-your-mac-including-big-sur-systems/"><u>Effortless Guide: How to Transform MP4 Videos Into WMV Format Using Your Mac, Including Big Sur Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>In 2024, Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-breakdown-sony-fdr-x1000v-complete-guide/"><u>In 2024, Comprehensive Breakdown Sony FDR-X1000V Complete Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/step-by-step-guide-upgrading-32-bit-win10-to-64-bit/"><u>Step-by-Step Guide: Upgrading 32-Bit Win10 to 64-Bit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-music-streaming-platforms-and-proven-strategies-for-free-mp3-downloads/"><u>Top Rated Music Streaming Platforms & Proven Strategies for FREE MP3 Downloads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-pristine-facebook-videos-on-chromebooks-for-2024/"><u>Unlock Pristine Facebook Videos on Chromebooks for 2024</u></a></li>
+</ul></div>
 

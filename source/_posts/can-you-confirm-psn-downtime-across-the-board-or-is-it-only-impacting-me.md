@@ -1,7 +1,7 @@
 ---
 title: Can You Confirm PSN Downtime Across the Board, or Is It Only Impacting Me?
-date: 2024-09-16T23:47:15.418Z
-updated: 2024-09-22T21:41:13.051Z
+date: 2024-10-01T17:05:54.845Z
+updated: 2024-10-04T16:52:23.911Z
 categories:
   - BestProducts
 description: This Article Describes Can You Confirm PSN Downtime Across the Board, or Is It Only Impacting Me?
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/XANELQFP9ideckIFKU-XBI_rrxQ=/400x300/fi
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -50,6 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/XANELQFP9ideckIFKU-XBI_rrxQ=/400x300/fi
 8. It's unlikely, but there could be an issue with your[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) . If you want to try[switching DNS servers](https://www.lifewire.com/how-to-change-dns-server-settings-2617979) , there are plenty of ways to do so with a[free and public option](https://www.lifewire.com/free-and-public-dns-servers-2626062) , although bear in mind that it's quite an advanced solution.
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Discord Error Messages
 
@@ -89,18 +103,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[Updated] 2024 Approved Save and Stream GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastery-of-tiktok-perfecting-videos-from-your-pctablet/"><u>2024 Approved Mastery of TikTok Perfecting Videos From Your PC/Tablet</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-pro-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 15 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722899111866-connecting-apple-homepod-to-your-tv-a-comprehensive-tutorial/"><u>Connecting Apple HomePod to Your TV: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/creative-labs-flagship-in-review-the-sound-blaster-zxr-and-its-place-among-audio-innovations/"><u>Creative Labs' Flagship in Review: The Sound Blaster ZxR and Its Place Among Audio Innovations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhancing-content-with-external-weblinks-in-insta/"><u>Enhancing Content with External Weblinks in Insta</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-pro-advanced-tips-for-efficiently-snapping-photos-on-your-computer/"><u>From Novice to Pro: Advanced Tips for Efficiently Snapping Photos on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/galaxy-unleashed-2023-probing-the-price-tag-and-launch-date-of-the-anticipated-samsung-galaxy-s25/"><u>Galaxy Unleashed 2023: Probing the Price Tag & Launch Date of the Anticipated Samsung Galaxy S25</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-savings-navigating-the-path-to-a-reduced-youtube-premium-plan-as-a-learner/"><u>Maximizing Savings: Navigating the Path to a Reduced YouTube Premium Plan as a Learner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-of-exploration-your-guide-to-the-complete-star-trek-film-series/"><u>Order of Exploration: Your Guide to the Complete Star Trek Film Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205651243-overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-insights-crafting-videos-via-google-trends-for-2024/"><u>Unlocking Insights Crafting Videos via Google Trends for 2024</u></a></li>
+</ul></div>
 

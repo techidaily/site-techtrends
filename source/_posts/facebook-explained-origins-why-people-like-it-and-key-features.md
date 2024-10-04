@@ -1,7 +1,7 @@
 ---
 title: "Facebook Explained: Origins, Why People Like It, and Key Features"
-date: 2024-09-19T01:18:54.812Z
-updated: 2024-09-22T22:14:27.411Z
+date: 2024-10-01T16:29:46.039Z
+updated: 2024-10-04T16:24:52.653Z
 categories:
   - BestProducts
 description: "This Article Describes Facebook Explained: Origins, Why People Like It, and Key Features"
@@ -32,9 +32,23 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -49,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/57a07625ab9c873f1b8816cfe4ef02cf1a6f9bda4
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -75,10 +82,10 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Microphones for Commands, User Identification, and Callibration
@@ -86,6 +93,13 @@ Apple, Inc / USPTO
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -110,5 +124,20 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-ten-best-practices-for-meme-creation/"><u>[Updated] Ten Best Practices for Meme Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-t-mobiles-internal-roaming-policies/"><u>A Comprehensive Guide to T-Mobile's Internal Roaming Policies</u></a></li>
+<li><a href="https://win-best.techidaily.com/converta-sua-ram-em-consumo-de-combustivel-mpg-gratuitamente-com-o-movavi-ferramenta-on-line/"><u>Converta Sua RAM Em Consumo De Combustível (MPG) Gratuitamente Com O Movavi – Ferramenta On-Line!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delving-into-variations-hulu-regular-service-versus-huluplus-plan/"><u>Delving Into Variations: Hulu Regular Service Versus Hulu+ Plan</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978490565-download-intel-processor-drivers-fast-and-simple-get-them-now/"><u>Download Intel Processor Drivers Fast and Simple - Get Them Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882788922-get-ahead-of-the-curve-exclusive-info-on-apples-upcoming-sound-integrated-device-price-and-launch-date-revealed/"><u>Get Ahead of the Curve: Exclusive Info on Apple's Upcoming Sound-Integrated Device - Price and Launch Date Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hearing-heroism-essential-online-picks-for-tts-files/"><u>Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs/"><u>In 2024, Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fix-a-gamers-handbook-to-snapping-photos-on-ps4/"><u>Quick Fix: A Gamer's Handbook to Snapping Photos on PS4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-pc-restart-issues-a-step-by-step-guide/"><u>Resolving PC Restart Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essential-tiktok-to-twitter-sharing-for-2024/"><u>The Essential TikTok to Twitter Sharing for 2024</u></a></li>
+</ul></div>
 

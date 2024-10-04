@@ -1,7 +1,7 @@
 ---
 title: How To Delete Your iCloud Photos but Keep Them Safe on Your iPhone
-date: 2024-09-19T23:07:33.768Z
-updated: 2024-09-22T23:17:35.200Z
+date: 2024-10-03T16:33:01.563Z
+updated: 2024-10-04T16:45:59.060Z
 categories:
   - BestProducts
 description: This Article Describes How To Delete Your iCloud Photos but Keep Them Safe on Your iPhone
@@ -22,6 +22,19 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 * Sign in to**iCloud.com** \>**Photos** \> choose the photos to delete > select**Delete** (trash can icon).
 
  This article explains how to delete photos from iCloud without removing them from your iPhone.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to See if Syncing is Turned On or Off on iPhone
 
@@ -44,15 +57,23 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 2. Select**Photos** .  
 ![Photos in iCloud](https://www.lifewire.com/thmb/qE3HFTnz0S_6mVd-058Kb_p1fUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_delete-photos-from-icloud-5218812-802b8709be6546279b3c1d8a9caae9e9.jpg)
 3. Press the**Ctrl** (Windows) or**Command** (macOS) key on your keyboard and select the photos you want to delete.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selected photo in iCloud Photos](https://www.lifewire.com/thmb/EVp2jB02DvehpdfiEiH_oigpMW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_delete-photos-from-icloud-5218812-70d5dc6315c24376af07a234b8e76203.jpg)
 4. Select the**Delete** (trash can) icon to delete the selected photos.
 5. The photos will be deleted from iCloud. With iCloud Photos turned off on your device, the photos in the iPhone's Photos library will not be affected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip
@@ -62,10 +83,10 @@ thumbnail: https://www.lifewire.com/thmb/9LqIRdp8th77_9ZVGFOZVVFl7FE=/400x300/fi
 [How to Mass Delete Images and Photos in Bulk on iPhone, iPad](https://www.lifewire.com/bulk-delete-images-iphone-ipad-2740750)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding the 'Optimize iPhone Storage' Setting
@@ -116,5 +137,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-dangerous-depths-top-10-roguelite-showdowns/"><u>[New] Dangerous Depths Top 10 Roguelite Showdowns</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-make-and-convert-slow-motion-videos-on-iphone/"><u>[Updated] In 2024, How to Make and Convert Slow Motion Videos on iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-deleting-a-twitch-account/"><u>Comprehensive Instructions for Deleting a Twitch Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-installing-the-latest-zoom-update-on-windowsmac-os/"><u>Easy Steps for Installing the Latest Zoom Update on Windows/Mac OS</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915385576-essential-social-networking-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Essential Social Networking Sites - Explore Facebook, Twitter, Instagram, and YouTube!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-x-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone X to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-download-your-favorite-videos-without-limits/"><u>In 2024, Download Your Favorite Videos Without Limits</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-c51-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco C51 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-insta-without-an-account-a-comprehensive-tutorial/"><u>Navigating Insta Without an Account – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-the-xlivedll-file-goes-missing-on-windows-computers/"><u>Quick Fixes for When the Xlive.dll File Goes Missing on Windows Computers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quickbulgarian-quest-learn-in-bursts/"><u>QuickBulgarian Quest - Learn in Bursts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rezervatii-pentru-cele-mai-optimizate-putere-dezvoltarii-web-obs-initie-202n/"><u>Rezervații Pentru Cele Mai Optimizate Putere Dezvoltării Web - OBS Iniție 202N</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-secrets-unveiled-the-art-of-crafting-reverse-video-content-easily/"><u>Snapchat Secrets Unveiled: The Art of Crafting Reverse Video Content Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-guide-to-repairing-msvcrtdll-file-absence-issues/"><u>Solving the Mystery: A Guide to Repairing MSVCRT.DLL File Absence Issues</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-tips-keeping-intel-graphic-drivers-current-on-windows/"><u>Tech Tips: Keeping Intel Graphic Drivers Current on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ups-solutions-the-ultimate-guide-to-power-protection/"><u>Top Rated UPS Solutions: The Ultimate Guide to Power Protection</u></a></li>
+</ul></div>
 

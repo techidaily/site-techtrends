@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Super Bowl Broadcasts in a Cutting-Edge Home Theater
-date: 2024-09-24T00:27:20.585Z
-updated: 2024-09-28T16:11:02.677Z
+date: 2024-10-03T16:02:15.363Z
+updated: 2024-10-04T16:16:25.673Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Super Bowl Broadcasts in a Cutting-Edge Home Theater
@@ -30,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -54,12 +41,26 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -86,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -102,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -121,16 +108,10 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
@@ -152,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -182,19 +170,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-beat-the-norm-with-mac-audio-guide/"><u>[New] In 2024, Beat the Norm with Mac Audio Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-essential-list-of-7-high-performance-mobile-video-streaming-tools-iphoneandroid-for-2024/"><u>[Updated] Discover Essential List of 7 High-Performance Mobile Video Streaming Tools (iPhone/Android) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-hp-laptops-speed-identifying-causes-and-implementing-effective-fixes/"><u>Boost Your HP Laptop's Speed: Identifying Causes and Implementing Effective Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tutorial-snapping-photos-and-saving-them-on-a-lenovo-notebook-or-desktop/"><u>Easy Tutorial: Snapping Photos and Saving Them on a Lenovo Notebook or Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808151608-effortlessly-move-chrome-bookmarks-to-firefox-master-the-simple-steps-now/"><u>Effortlessly Move Chrome Bookmarks to Firefox – Master the Simple Steps Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expedited-removal-strategies-for-ssgnature-bg-for-2024/"><u>Expedited Removal Strategies for Ssgnature BG for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-rid-of-fortnite-skin-edit-latency-once-and-for-all-with-these-practical-fixes/"><u>Get Rid of Fortnite Skin Edit Latency Once and For All with These Practical Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-sites-for-extracting-text-aesthetics-packs/"><u>In 2024, Leading Sites for Extracting Text Aesthetics Packs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-11-proplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme 11 Pro+ Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/painting-a-new-world-ai-illustration-through-chatgpt/"><u>Painting a New World: AI Illustration Through ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pair-perfection-six-essential-troubleshooting-techniques-for-an-apple-watch-that-connects-every-time/"><u>Pair Perfection: Six Essential Troubleshooting Techniques for an Apple Watch That Connects Every Time</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808329954-seamless-windows-11-driver-update-process-get-started-now/"><u>Seamless Windows 11 Driver Update Process: Get Started Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973942573-update-and-install-epson-l3n-50-driver-on-windows-10-8-and-7-direct-links-here/"><u>Update and Install Epson L3n-50 Driver on Windows 10, 8 & 7 - Direct Links Here!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/44cm6auy55s76loq44ot44oh44kq44gu5zplus65pys77ya6kej5yop5bqm44go44ki44k544oa44kv44oi5qplusu44cb44ou44kv44k744or5qel5oiq44gr44gk44ge44gm5a2m44g244cn/"><u>「高画質ビデオの基本：解像度とアスペクト比、ピクセル構成について学ぶ」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-your-future-in-the-art-of-visuals/"><u>2024 Approved Crafting Your Future in the Art of Visuals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-spot-fake-followers-on-facebook-for-marketers/"><u>2024 Approved How to Spot Fake Followers on Facebook for Marketers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/best-web-based-video-editor-tools-of-2024-get-your-free-movavi-download-and-start-editing-today/"><u>Best Web-Based Video Editor Tools of 2024: Get Your FREE Movavi Download and Start Editing Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-tools-to-transform-your-youtube-titling-skills/"><u>Cutting-Edge Tools to Transform Your YouTube Titling Skills</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285655494-dvdsd/"><u>DVDからSDカードへのデータ移行手順 - 効率的なアップロードガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-depth-look-at-facetune-a-photographers-best-friend-for-2024/"><u>In-Depth Look at Facetune A Photographer’s Best Friend for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/les-10-meilleurs-correcteurs-video-gratuit-ai-en-ligne-compatibles-avec-windows-et-mac-choisissez-le-meilleur/"><u>Les 10 Meilleurs Correcteurs Vidéo Gratuit AI en Ligne Compatibles Avec Windows Et Mac : Choisissez Le Meilleur</u></a></li>
+<li><a href="https://techtrends.techidaily.com/metodi-per-unire-i-file-video-mp4-multipli/"><u>Metodi per Unire I File Video MP4 Multipli</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289326027-mp4avchd/"><u>MP4とAVCHDフォーマットの容易かつ鮮明な互換可能化手法解説!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/securing-footage-techniques-for-obscuring-sensitive-info/"><u>Securing Footage Techniques for Obscuring Sensitive Info</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-ios-devices-endless-shuffle-top-4-solutions-for-ipod-stuck-in-loop/"><u>Troubleshooting Your iOS Device's Endless Shuffle: Top 4 Solutions for iPod Stuck In Loop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-adding-dji-mavic-pro-footage-to-your-iphone-seamlessly/"><u>Troubleshooting: Adding DJI Mavic Pro Footage to Your iPhone Seamlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-tech-trends-with-toms-hardware-insights/"><u>Unveiling the Latest Tech Trends with Tom's Hardware Insights</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/v305-dell-printer-driver-fix-for-windows-7/"><u>V305 Dell Printer Driver Fix for Windows 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289024876-winxdvd-digiarty/"><u>WinXDVD 使用者最後授權協定 - Digiarty 軟體的完美解決方案</u></a></li>
 </ul></div>
 

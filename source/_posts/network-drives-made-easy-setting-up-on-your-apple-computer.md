@@ -1,7 +1,7 @@
 ---
 title: "Network Drives Made Easy: Setting Up on Your Apple Computer"
-date: 2024-09-15T23:59:01.279Z
-updated: 2024-09-23T01:52:04.205Z
+date: 2024-09-29T16:19:24.312Z
+updated: 2024-10-04T16:15:18.809Z
 categories:
   - BestProducts
 description: "This Article Describes Network Drives Made Easy: Setting Up on Your Apple Computer"
@@ -32,11 +32,26 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 2. Select**Trash** from the menu on the left. If you don't see it, select the**three-line** menu button at the top left.  
 ![The Trash menu item highlighted in Google Contacts.](https://www.lifewire.com/thmb/OMw5rrBEn05YHe01cLmVPj9hf7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FindDeletedPhoneNumbersonAndroid-annotated-a1dd410eec2a44f38b1ddb67b4dc14dd.jpg)  
  To do this from the mobile app, go to**Fix & manage** \>**Trash** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select a contact from the list.  
 ![A deleted contact highlighted in Google Contacts.](https://www.lifewire.com/thmb/EEQuRT7rucX1CfF5ZU4cm89v6k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-FindDeletedPhoneNumbersonAndroid-annotated-4b1f46470012453b893ee092d52f7fb9.jpg)  
  Need help finding what you're after? Contacts sent to the trash are permanently deleted every 30 days so that you might have missed your opportunity. Additionally, if your phone hasn't been backing up your contacts, deleted entries will not appear here.
 4. Select**Recover** to pull the contact out of the trash and put it back into your regular list. If you want to keep the contact deleted, you can still copy the email address, phone number, or any other details from this screen.  
 ![The Recover button highlighted for a deleted contact in Google Contacts.](https://www.lifewire.com/thmb/a97wY8W86SgGdS9pEFTZVRtaU3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-FindDeletedPhoneNumbersonAndroid-annotated-3d74c1e6a99c4fac941e44dfe4c1ccda.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get Deleted Numbers Back on a Samsung Phone
 
@@ -55,10 +70,23 @@ thumbnail: https://thmb.techidaily.com/7b19af3c34c4f26520d7ec377f7af4fd1103c8587
 ![A Samsung phone user imports contacts](https://www.lifewire.com/thmb/G98RJqkST9u56OLvOkTB5WJqXOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RetrieveDeletedNumbers07-2de9758e685a4be78eabfa70e20fbcae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Restore Deleted Numbers on Android Without a Computer?
@@ -103,5 +131,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-7-ideal-monitors-for-digital-artists/"><u>[Updated] 2024 Approved 7 Ideal Monitors for Digital Artists</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-a-guide-to-free-you-from-youtubes-extra-bar-width-for-2024/"><u>[Updated] A Guide to Free You From YouTube's Extra Bar Width for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-execution-instant-clearance-of-signature-bg/"><u>[Updated] Rapid Execution Instant Clearance of Signature Bg</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-locations-to-find-rich-text-enhancements/"><u>2024 Approved Prime Locations to Find Rich Text Enhancements</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-your-usb-headset-drivers-logitech/"><u>Accelerate Your USB Headset Drivers, Logitech</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-user-interaction-using-the-advanced-analytics-of-cookiebot-technology/"><u>Boost User Interaction Using the Advanced Analytics of Cookiebot Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-solutions-elevating-website-functionality-and-personalization/"><u>Cookiebot-Driven Solutions: Elevating Website Functionality & Personalization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-online-visibility-with-cookiebot-power-effective-seo-techniques/"><u>Enhance Online Visibility with Cookiebot Power: Effective SEO Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-online-tracking-with-automation-from-cookiebot/"><u>Enhance Your Online Tracking with Automation From Cookiebot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-website-with-cookiebot-technology-for-superior-search-engine-optimization-seo/"><u>Enhance Your Website with Cookiebot Technology for Superior Search Engine Optimization (SEO)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-advanced-marketing-automation-with-the-power-of-cookiebot-technology/"><u>Experience Advanced Marketing Automation with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-solve-microsoft-word-documents-that-refuse-to-load/"><u>How to Solve Microsoft Word Documents That Refuse to Load</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-introduction-to-interactive-graphic-design/"><u>In 2024, Introduction to Interactive Graphic Design</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c12-plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C12 Plus FRP Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-abbyy-finescanner-on-android-official-announcement-by-abbyy/"><u>Introducing ABBYY FineScanner on Android – Official Announcement by ABBYY</u></a></li>
+<li><a href="https://techtrends.techidaily.com/james-ritter-ascend-a-la-position-de-cfo/"><u>James Ritter Ascend À La Position De CFO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-abbyy-europes-sales-department-insights-from-markus-pichlers-approach-to-success/"><u>Leading ABBYY Europe's Sales Department: Insights From Markus Pichler’s Approach to Success</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimized-techniques-for-efficiently-reducing-the-size-of-wmv-video-files/"><u>Optimized Techniques for Efficiently Reducing the Size of WMV Video Files</u></a></li>
+</ul></div>
 

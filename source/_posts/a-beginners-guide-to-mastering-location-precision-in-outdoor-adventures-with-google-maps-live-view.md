@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Guide to Mastering Location Precision in Outdoor Adventures With Google Maps Live View
-date: 2024-09-20T18:25:30.755Z
-updated: 2024-09-22T22:50:04.880Z
+date: 2024-10-01T17:00:53.961Z
+updated: 2024-10-04T16:53:59.988Z
 categories:
   - BestProducts
 description: This Article Describes A Beginner's Guide to Mastering Location Precision in Outdoor Adventures With Google Maps Live View
@@ -36,10 +36,25 @@ Close
 4. At the bottom, choose **Live View** .  
 ![Live View on Google Maps showing Walking icon and Live View button ](https://www.lifewire.com/thmb/LJsAWdlkxrLIRP7167v0utcL02U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1--Use-Live-View-on-Google-Maps1-87ffad6bd1fb4afcac55b24f09bbf4c0.jpg)
 5. The first time you use Live View, you’ll see prompts explaining the feature, asking you to be safe, and requesting access to your camera. Review and tap to move through the prompts and provide camera access.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Point your camera toward buildings, street signs, or other landmarks that help Google Maps guide you.
 7. Follow the onscreen directions as you walk to your destination.  
 ![Walking directions in Google Maps](https://www.lifewire.com/thmb/bEQTg438oL27uh5IUQZ_l1nRJ4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-Use-Live-View-on-Google-Maps-0bb79c7877b64ba9bf56ea9567039856.jpg)  
  When you arrive at your destination, your phone will vibrate.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Exit Live View in Google Maps
 
@@ -55,6 +70,13 @@ Close
 
 ![Live View with directions in Google Maps](https://www.lifewire.com/thmb/1YLs4JwGMQgkJNu0XocZYSoF1a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-Use-Live-View-on-Google-Maps-15820dc3196c4e118c305edd3919b8d9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Switch Between Live and Map View Automatically
 
  You can use a combination of Live View and the 2D map view if you like. This method allows you to see Live View when you hold your phone upward and 2D map view when you tilt your phone downward.
@@ -63,13 +85,6 @@ Close
 
 ![Google Maps showing Navigation chosen in Settngs and Live View toggle ](https://www.lifewire.com/thmb/bWHD2Hj5liPzMW7cDlHMq7_0ZA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Use-Live-View-on-Google-Maps-d7dfa94d9d8c4ab4831a1c56b79b4d5e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To turn on this setting while navigating, exit **Live View** , swipe up in 2D map view, and select **Settings** . Then, turn on the toggle for **Live View** below Walking Options.
 
  Alternatively, if available, swipe up from the 2D directions view and toggle on**Tilt up to change view** .
@@ -77,10 +92,10 @@ Close
 ![Settings in the navigation actions and the toggle next to Live View](https://www.lifewire.com/thmb/hN98kxFTj5gxDtG4aThU3yM5Se8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-Use-Live-View-on-Google-Maps-2b4e3d59d7ca494f83a2fb4554771676.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [  5 Tips for Using Google Maps Street View ](https://www.lifewire.com/using-google-maps-street-view-3486679) 
@@ -119,5 +134,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>[Updated] The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-link-films-for-organized-youtube-display/"><u>2024 Approved Link Films for Organized YouTube Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024gopro10/"><u>2024年度更新！免費GoPro動画編集ツールベスト10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-innovative-8-image-collections-for-macbook-screens/"><u>In 2024, Innovative 8 Image Collections for MacBook Screens</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-11-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 11 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/low-cost-tech-fun-design-and-assemble-your-own-animation-ready-3d-printer-shaped-charger-with-bambu-labs-at-under-50/"><u>Low-Cost Tech Fun: Design and Assemble Your Own Animation-Ready 3D Printer Shaped Charger with Bambu Labs at Under $50</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-traffic-with-our-proven-cookiebot-tech-solution/"><u>Maximize Traffic with Our Proven Cookiebot Tech Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/next-gen-intelligence-in-paperwork-automation-how-abbyy-stacks-up-against-pegasystems/"><u>Next-Gen Intelligence in Paperwork Automation: How ABBYY Stacks Up Against Pegasystems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ocr-versus-idp-unveiling-how-they-differently-serve-purposes/"><u>OCR Versus IDP: Unveiling How They Differently Serve Purposes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimized-with-cookiebot-technology-elevate-your-online-presence/"><u>Optimized with Cookiebot Technology: Elevate Your Online Presence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimized-with-the-help-of-crawling-bots/"><u>Optimized with the Help of Crawling Bots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionizing-financial-management-through-smart-automation-techniques/"><u>Revolutionizing Financial Management Through Smart Automation Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionizing-patient-services-faster-than-ever-athenahealth-digitizes-over-20-million-pages-per-week-with-advanced-abbyy-technology/"><u>Revolutionizing Patient Services Faster than Ever: Athenahealth Digitizes Over 20 Million Pages Per Week with Advanced ABBYY Technology</u></a></li>
+</ul></div>
 

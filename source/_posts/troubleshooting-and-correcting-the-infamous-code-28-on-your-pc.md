@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting the Infamous Code 28 on Your PC
-date: 2024-09-24T19:51:57.570Z
-updated: 2024-09-29T08:05:58.509Z
+date: 2024-09-30T16:11:52.686Z
+updated: 2024-10-04T16:01:41.647Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting and Correcting the Infamous Code 28 on Your PC
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -37,13 +44,6 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 5. Right-click on the Windows desktop and click**Display Settings** .  
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
@@ -64,10 +64,10 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 ![Windows Device Manager with Display Adapters highlighted](https://www.lifewire.com/thmb/etZih571PshGMVscQeHITRVgEYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayadapters-cce42c63bc03453392e1c21e7912d822.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you know the graphics hardware, hit your favorite search engine. Look for a support or specification page on the company's official website that produced your PC's graphics hardware.
@@ -75,16 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
@@ -110,10 +104,10 @@ thumbnail: https://www.lifewire.com/thmb/by67YPqHc5dBpPbbI5keeWv2aMg=/400x300/fi
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 LanaStock / Getty Images
@@ -158,24 +152,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-capturing-sims-sessions/"><u>[Updated] 2024 Approved Expert Tips for Capturing Sims Sessions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-from-humble-beginnings-building-a-brand-on-reddit-for-2024/"><u>[Updated] From Humble Beginnings Building a Brand on Reddit for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/bright-ideas-effective-lighting-in-vlogging-for-2024/"><u>Bright Ideas Effective Lighting in Vlogging for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bypass-website-blockers-tips-for-unrestricted-browsing-in-chrome/"><u>Bypass Website Blockers: Tips for Unrestricted Browsing in Chrome</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808322834-collaborations-with-major-companies-like-microsoft-google-and-ibm-that-signify-growing-trust-in-the-platformamoebas-ether-dapps/"><u>Collaborations with Major Companies Like Microsoft, Google, and IBM that Signify Growing Trust in the Platform'amoebas': ['Ether', 'DApps']</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-setting-up-kodi-on-your-xbox-one-a-step-by-step-tutorial/"><u>Comprehensive Guide: Setting Up Kodi on Your Xbox One - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decode-hxtsrexe-causes-effects-and-how-to-fix-it-on-your-windows-11-device/"><u>Decode HxTsr.exe: Causes, Effects & How to Fix It on Your Windows 11 Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disable-windows-defender-on-windows-11-3-ways/"><u>Disable Windows Defender on Windows 11 - 3 Ways</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-asus-aura-lighting-and-gaming-software-compatible-with-windows-11/"><u>Download ASUS AURA Lighting & Gaming Software Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-hp-scanjet-optimized-for-windows-operating-systems-including-11-and-7/"><u>Download Updated Drivers for Your HP Scanjet: Optimized for Windows Operating Systems Including 11 & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tutorial-transferring-windows-11-iso-image-onto-your-usb-flash-drive-for-instant-setup/"><u>Easy Tutorial: Transferring Windows 11 ISO Image Onto Your USB Flash Drive for Instant Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/errorcode80240020-solved-how-to-successfully-install-windows-10/"><u>ErrorCode80240020 Solved! How To Successfully Install Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ipads-artistic-haven-top-8-sketch-innovators/"><u>In 2024, IPad's Artistic Haven Top 8 Sketch Innovators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/iphones-simple-methods-for-effective-screening-for-2024/"><u>IPhone's Simple Methods for Effective Screening for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/reduccion-de-tamano-de-video-para-whatsapp-manteniendo-alta-calidad-visual/"><u>Reducción De Tamaño De Video Para WhatsApp Manteniendo Alta Calidad Visual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-media-playback-across-all-device-formats/"><u>Seamless Media Playback Across All Device Formats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808261034-turbocharge-your-mozilla-experience-with-these-10-quick-fixes-achieving-up-to-5x-speeds/"><u>Turbocharge Your Mozilla Experience with These 10 Quick Fixes, Achieving Up to 5X Speeds!</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-v27-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo V27 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-prime-software-for-professional-4k-screen-capture/"><u>[New] 2024 Approved Prime Software for Professional 4K Screen Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>[Updated] 2024 Approved Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-first-rate-biodegradable-filming-gear-tutorials/"><u>2024 Approved First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-deluxe/"><u>高画質動画変換ソフトウェア WinX Deluxe -バージョン更新チェック</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-headphones-and-speakers-solve-stuttering-sounds-in-windows-11/"><u>Bluetooth Headphones & Speakers: Solve Stuttering Sounds in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/create-dvd-disc-images-a-step-by-step-guide-for-windows-10-8-and-7-users/"><u>Create DVD Disc Images: A Step-by-Step Guide for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-transforming-your-dvd9-into-a-compact-dvd5-version-including-menus-and-captions/"><u>Expert Tips for Transforming Your DVD9 Into a Compact DVD5 Version Including Menus and Captions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/god-of-war-fps-the-ultimate-action-experience-now-drops-for-your-pc/"><u>God of War FPS: The Ultimate Action Experience Now Drops for Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-compatible-high-definition-avchd-mkv-mov-mp4-file-format-conversion-with-winx-hd-video-converter/"><u>Mac Compatible: High-Definition AVCHD, MKV, MOV, MP4 File Format Conversion with WinX HD Video Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/manual-de-instruccion-para-el-programa-winxdvd-mejoras-y-optimizaciones/"><u>Manual De Instrucción Para El Programa WinXDVD: Mejoras Y Optimizaciones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-swtor-startup-failures-a-comprehensive-guide/"><u>Overcoming SWTOR Startup Failures - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-free-dvd-cloning-applications-top-10-picks/"><u>Ultimate Guide to FREE DVD Cloning Applications: Top 10 Picks</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
 

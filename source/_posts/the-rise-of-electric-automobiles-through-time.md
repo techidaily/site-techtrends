@@ -1,7 +1,7 @@
 ---
 title: The Rise of Electric Automobiles Through Time
-date: 2024-09-20T19:09:37.235Z
-updated: 2024-09-22T23:54:36.697Z
+date: 2024-09-29T16:03:31.273Z
+updated: 2024-10-04T16:31:07.061Z
 categories:
   - BestProducts
 description: This Article Describes The Rise of Electric Automobiles Through Time
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,13 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -63,6 +63,13 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -70,10 +77,10 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
@@ -87,13 +94,6 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -103,6 +103,13 @@ thumbnail: https://www.lifewire.com/thmb/l0QKXFwG3xPF_I4gNEuw4ZMVSnA=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -161,5 +168,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-must-have-gif-creation-apps/"><u>[New] 2024 Approved Must-Have GIF Creation Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-decoding-the-new-era-of-bite-sized-videos-for-2024/"><u>[New] Facebook Decoding the New Era of Bite-Sized Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-game-away-your-worries-the-coolest-titles-for-2024/"><u>[Updated] Game Away Your Worries The Coolest Titles for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-innovative-methods-to-log-gaming-sessions/"><u>[Updated] Innovative Methods to Log Gaming Sessions</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-analytics-and-personalization-solutions/"><u>Cookiebot-Driven Analytics and Personalization Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-automation-enhance-your-digital-marketing-strategies/"><u>Cookiebot-Driven Automation: Enhance Your Digital Marketing Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-data-collection-optimize-your-websites-user-experience/"><u>Cookiebot-Driven Data Collection: Optimize Your Website's User Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-enhance-your-sites-performance-and-user-experience/"><u>Cookiebot-Driven: Enhance Your Site's Performance and User Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-orchestrating-your-playlists-from-one-to-another/"><u>In 2024, Orchestrating Your Playlists From One to Another</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing & Repairing a Computer with No Signs of Life
-date: 2024-09-18T19:07:49.379Z
-updated: 2024-09-22T17:02:35.222Z
+date: 2024-09-28T16:12:52.058Z
+updated: 2024-10-04T16:57:31.402Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing & Repairing a Computer with No Signs of Life
@@ -55,12 +55,26 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
  Replacing the motherboard is probably the right course of action with a laptop or tablet as well. Still, motherboards in these types of computers are very rarely user-replaceable. The next best course of action for you is to seek a professional computer service.
 14. At this point, your PC should be working again.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips & More Information
 
 * Are you troubleshooting this issue on a PC that you've just built yourself? If so,_triple-check your configuration_ ! There is a decent chance that your computer isn't powering on due to a misconfiguration and not an actual hardware failure.
 * Did we miss a troubleshooting step that helped you (or might help someone else) fix a computer that's not showing any sign of power? Let me know, and I'd be happy to include the information here.
 
 [How to Close Your Laptop and Use an External Monitor](https://www.lifewire.com/use-external-monitor-with-closed-laptop-5072309)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Causes of a Computer that Shows no Sign of Power
 
@@ -104,12 +118,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-transaction-to-treasure-unlocking-your-facebook-video-archive-for-2024/"><u>[Updated] From Transaction to Treasure Unlocking Your Facebook Video Archive for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-action-recorders-with-front-view-panels/"><u>In 2024, Best Action Recorders with Front View Panels</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-x50-gt-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor X50 GT Location Settings | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-magic-6-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Magic 6 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/las-11-herramientas-de-dvd-a-maxima-calidad-mas-populares-para-usuarios-de-mac-seleccion-de-movavi/"><u>Las 11 Herramientas De DVD a Máxima Calidad Más Populares Para Usuarios De MAC - Selección De Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-scheduling-mastery-implementing-a-countdown-clock-for-2024/"><u>Obs Scheduling Mastery Implementing a Countdown Clock for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-absence-of-sound-devices-error-on-a-windows-11-operating-system/"><u>Overcoming the Absence of Sound Devices Error on a Windows 11 Operating System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-surface-devices-in-depth-analysis-and-comparison-techadvocate/"><u>Top-Rated Surface Devices : In-Depth Analysis & Comparison | TechAdvocate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformative-collaboration-british-petroleum-teams-up-with-tesla-for-revolutionary-charging-solutions/"><u>Transformative Collaboration: British Petroleum Teams Up with Tesla for Revolutionary Charging Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-written-content-into-different-formats-with-the-help-of-chatgpt/"><u>Transforming Written Content Into Different Formats with the Help of ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-chatgpt-plus-the-enhanced-version-of-microsofts-ai-assistant/"><u>Understanding ChatGPT Plus: The Enhanced Version of Microsoft's AI Assistant</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-googles-gemini-potential-comprehensive-instructions-for-activating-gemini-ai-on-android-phones/"><u>Unlocking Google's Gemini Potential: Comprehensive Instructions for Activating Gemini AI on Android Phones</u></a></li>
+</ul></div>
 

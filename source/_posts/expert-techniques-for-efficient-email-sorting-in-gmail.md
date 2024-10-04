@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques for Efficient Email Sorting in Gmail
-date: 2024-09-23T03:31:32.486Z
-updated: 2024-09-28T22:55:29.907Z
+date: 2024-09-30T17:14:01.515Z
+updated: 2024-10-04T16:12:56.382Z
 categories:
   - BestProducts
 description: This Article Describes Expert Techniques for Efficient Email Sorting in Gmail
@@ -30,6 +30,13 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -41,13 +48,6 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -56,10 +56,10 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -75,6 +75,13 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -107,6 +114,13 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -119,13 +133,6 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -133,13 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/bkgK_frkG1eu9cx2_mYCDnRfBrs=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,24 +170,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-instant-freeze-capture-feature-guide/"><u>[Updated] 2024 Approved Instant Freeze Capture Feature Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transform-your-listening-experience-into-a-learning-adventure-with-podcasts/"><u>[Updated] Transform Your Listening Experience Into a Learning Adventure (With Podcasts)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/assessing-sns-hdr-pro-habits-and-alternative-options-for-2024/"><u>Assessing SNS HDR Pro’ Habits & Alternative Options for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-celebrity-voice-generator-tools-you-cannot-miss-for-2024/"><u>Best Celebrity Voice Generator Tools You Cannot Miss for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/change-the-main-language-of-steam-platform-ui/"><u>Change the Main Language of Steam Platform UI</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194339-discover-the-top-15-no-cost-texting-solutions-for-your-android-device/"><u>Discover the Top 15 No-Cost Texting Solutions for Your Android Device!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-8-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Google Pixel 8 Pro FRP Locks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-nokia-g42-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Nokia G42 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-why-windows-couldnt-finish-formatting-your-disk/"><u>Solving the Issue: Why Windows Couldn't Finish Formatting Your Disk</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-activating-safe-mode-on-windows-7-vista-and-xp/"><u>Step-by-Step Guide: Activating Safe Mode on Windows 7, Vista, and XP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-deleting-browser-and-system-cache-in-windows-11/"><u>Step-by-Step Guide: Deleting Browser and System Cache in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-high-resource-usage-in-call-of-duty-modern-warfare-gameplay/"><u>Troubleshooting High Resource Usage in Call of Duty: Modern Warfare Gameplay</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-logitech-peripherals-for-seamless-windows-11-integration/"><u>Troubleshooting Logitech Peripherals for Seamless Windows 11 Integration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turn-your-laptop-into-a-second-screen-tips-and-tricks-for-seamless-dual-display-setup/"><u>Turn Your Laptop Into a Second Screen - Tips & Tricks for Seamless Dual-Display Setup</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-tecno-camon-20-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Camon 20 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-safe-mode-in-windows-11-learn-the-four-ways-with-easy-screenshots/"><u>Unlocking the Secrets of Safe Mode in Windows 11: Learn the Four Ways with Easy Screenshots</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-10-sync-settings-greyed-out-solved/"><u>Windows 10 Sync Settings Greyed Out [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-troubleshooting-how-to-overcome-oculus-air-link-compatibility-errors/"><u>Windows Troubleshooting: How To Overcome Oculus Air Link Compatibility Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-asmr-channel-discoveries/"><u>[Updated] 2024 Approved Essential ASMR Channel Discoveries</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-nightlight-nuggets-essential-dos-and-donts-of-nocturnal-imaging/"><u>[Updated] In 2024, Nightlight Nuggets Essential Do's & Don'ts of Nocturnal Imaging</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-troubleshooting-tips-for-a-stable-windows-11-photo-experience-for-2024/"><u>[Updated] Troubleshooting Tips for a Stable Windows 11 Photo Experience for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphoneandroidpc/"><u>無料アプリを使って試せる! どんなデバイスでも安心してiPhone・Android・PC動画からの画像取り出し方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-prime-videos-ultimate-collection-of-4k-films-for-your-staycation-amid-covid-19-pandemic/"><u>Amazon Prime Video's Ultimate Collection of 4K Films for Your Staycation Amid COVID-19 Pandemic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-language-learning-with-chatgpt-plus-tips-and-strategies/"><u>Boost Your Language Learning with ChatGPT Plus: Tips & Strategies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-device-performance-with-new-mf4770n-windows-drivers/"><u>Elevate Device Performance with New MF4770n Windows Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-hp-network-adapter-drivers-and-downloads-for-windows-10-8-and-7/"><u>Free HP Network Adapter Drivers & Downloads for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-imgburn-software-fur-das-verbrennen-und-brennen-von-geschutzten-dvds-auf-iso-dateien/"><u>Free ImgBurn Software Für Das Verbrennen Und Brennen Von Geschützten DVDs Auf ISO-Dateien</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-alla-ritrovista-in-rotazione-di-filmati-mp4-con-trasformazione-a-90-180-o-270-senza-degradazione-della-qualita/"><u>Guida Alla Ritrovista in Rotazione Di Filmati MP4 Con Trasformazione a 90, 180 O 270° Senza Degradazione Della Qualità</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-big-is-a-4k-video-exploring-sizes-for-60-fps-and-30-fps-playbacks/"><u>How Big Is a 4K Video? Exploring Sizes for 60 FPS and 30 FPS Playbacks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unshackled-earning-on-youtube-pioneering-a-non-ad-profit-pathway/"><u>In 2024, Unshackled Earning on YouTube Pioneering a Non-Ad Profit Pathway</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kann-adobe-premiere-pro-av1-videodateien-importieren-und-exportieren/"><u>Kann Adobe Premiere Pro AV1-Videodateien Importieren Und Exportieren?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-connectivity-hurdles-with-xbox-peripheral-drivers-in-various-windows-editions-1187/"><u>Overcoming Connectivity Hurdles with Xbox Peripheral Drivers in Various Windows Editions (11/8/7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-secrets-from-ai-the-dangers-of-using-chatgpt-with-private-information/"><u>Protecting Your Secrets From AI: The Dangers of Using ChatGPT with Private Information</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-alternativen-zu-convert2mp3-meistern-sie-das-konvertieren-mit-unserer-liste/"><u>Top Alternativen Zu Convert2MP3 - Meistern Sie Das Konvertieren Mit Unserer Liste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-viewing-mkv-captions-on-vlc-media-player-mpc-and-high-definition-televisions/"><u>Troubleshooting Tips for Viewing MKV Captions on VLC Media Player, MPC, and High Definition Televisions</u></a></li>
 </ul></div>
 

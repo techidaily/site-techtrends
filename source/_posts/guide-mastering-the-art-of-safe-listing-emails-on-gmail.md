@@ -1,7 +1,7 @@
 ---
 title: "Guide: Mastering the Art of Safe-Listing Emails on Gmail"
-date: 2024-09-15T21:59:53.269Z
-updated: 2024-09-22T16:03:25.956Z
+date: 2024-09-28T16:38:18.053Z
+updated: 2024-10-04T16:46:49.480Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Mastering the Art of Safe-Listing Emails on Gmail"
@@ -41,19 +41,25 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -64,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Select Multiple Emails
@@ -107,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -119,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -133,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -161,5 +174,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-streamlined-strategies-for-powerpoint-recordings/"><u>[New] Streamlined Strategies for PowerPoint Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-total-insight-into-vscos-photography-ecosystem/"><u>[Updated] In 2024, Total Insight Into VSCO's Photography Ecosystem</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-great-growers-guide-the-best-farmer-games/"><u>[Updated] The Great Growers' Guide The Best Farmer Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery/"><u>[Updated] VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-dvd-copying-and-ripping-actions-considered-legal-or-not/"><u>Are DVD Copying and Ripping Actions Considered Legal or Not?</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-7-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 7 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-and-easy-macx-dvd-ripper-convert-securely-encoded-discs-to-mp4flv-on-macos/"><u>Free & Easy MacX DVD Ripper: Convert Securely-Encoded Discs to MP4/FLV on macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-3gp-movie-downloads-top-quality-selection-using-the-ultimate-3gp-downloader-and-converter/"><u>Free 3GP Movie Downloads: Top-Quality Selection - Using the Ultimate 3GP Downloader & Converter</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-itel-p55-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Itel P55 Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-xlivedll-file-cannot-be-located-a-comprehensive-guide/"><u>Solving the Issue: Xlive.dll File Cannot Be Located – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-extract-a-dvd-film-onto-your-computer-using-vlc-visual-instructions-for-macos-and-windows/"><u>Step-by-Step Guide: How to Extract a DVD Film Onto Your Computer Using VLC - Visual Instructions for macOS & Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-transforming-your-fifa-world-cup-2018-recording-into-a-high-quality-mp4-format/"><u>Step-by-Step Guide: Transforming Your FIFA World Cup 2018 Recording Into a High-Quality MP4 Format</u></a></li>
+</ul></div>
 

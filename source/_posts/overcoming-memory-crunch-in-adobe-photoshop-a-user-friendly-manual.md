@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Memory Crunch in Adobe Photoshop: A User-Friendly Manual"
-date: 2024-09-19T22:35:12.294Z
-updated: 2024-09-22T23:43:59.333Z
+date: 2024-09-30T16:37:23.590Z
+updated: 2024-10-04T16:06:53.650Z
 categories:
   - BestProducts
 description: "This Article Describes Overcoming Memory Crunch in Adobe Photoshop: A User-Friendly Manual"
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -114,6 +114,19 @@ thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -157,5 +170,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-initiate-a-collaborative-skype-group-discussion/"><u>[New] 2024 Approved How to Initiate a Collaborative Skype Group Discussion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-6-sustainable-mc-base-designs/"><u>[New] 2024 Approved Top 6 Sustainable MC Base Designs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-revolutionary-foldable-iphone-explore-release-schedules-pricing-forecasts-and-leaked-specifications/"><u>Apple's Revolutionary Foldable iPhone? Explore Release Schedules, Pricing Forecasts, and Leaked Specifications.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-the-turing-test-determine-true-ai-and-when-might-we-surpass-it/"><u>Can the Turing Test Determine True AI, and When Might We Surpass It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722884330675-charge-your-mobile-device-on-the-go-no-charger-needed/"><u>Charge Your Mobile Device on the Go: No Charger Needed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/encyclopedia-of-psvr2-gaming-experiences-a-full-rundown-of-all-revealed-games-thusfar/"><u>Encyclopedia of PSVR2 Gaming Experiences - A Full Rundown of All Revealed Games Thusfar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insight-on-dells-inspiron-3671-deskstation-an-honest-look-at-a-middle-of-the-road-pc-experience/"><u>Expert Insight on Dell's Inspiron 3671 DeskStation: An Honest Look at a Middle-of-the-Road PC Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-archive-your-interactive-discussions-with-ai/"><u>How to Archive Your Interactive Discussions with AI</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-7-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-504-gateway-timeout-issue-a-comprehensive-guide/"><u>Resolving the 504 Gateway Timeout Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-screen-time-with-taylor-swift-movie-marathon-essentials/"><u>Sequential Screen Time with Taylor Swift: Movie Marathon Essentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tactics-for-successfully-fighting-the-powerful-lynels-in-breath-of-the-wild/"><u>The Ultimate Tactics for Successfully Fighting the Powerful Lynels in Breath of the Wild</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-guide-to-fast-clickers/"><u>The Ultimate Windows Guide to Fast Clickers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-13-reproductores-de-pantalla-gratuitos-y-de-codigo-aberto-una-guia-completa-por-movavi/"><u>Top 13 Reproductores De Pantalla Gratuitos Y De Código Aberto: Una Guía Completa Por Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-solutions-for-driver-updates-july-2024-edition/"><u>Top Free Solutions for Driver Updates - July 2024 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-creative-potential-with-filmora-answers/"><u>Unlocking Creative Potential with Filmora Answers</u></a></li>
+</ul></div>
 

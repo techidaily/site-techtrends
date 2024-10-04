@@ -1,7 +1,7 @@
 ---
 title: The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs
-date: 2024-09-26T08:48:53.936Z
-updated: 2024-09-29T05:47:57.465Z
+date: 2024-09-27T16:56:46.861Z
+updated: 2024-10-04T16:56:06.105Z
 categories:
   - BestProducts
 description: This Article Describes The Newest Apple Audio Gizmo Revealed? Predictions on Price Tag, Drop Date and Specs
@@ -33,43 +33,50 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple, Inc / USPTO
 
@@ -93,13 +100,6 @@ Apple, Inc / USPTO
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
@@ -126,20 +126,19 @@ Apple, Inc / USPTO
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-5-high-quality-displays-for-unparalleled-games/"><u>[New] In 2024, 5 High-Quality Displays for Unparalleled Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-purerecorder-capturing-life-in-games-without-cost/"><u>[New] PureRecorder Capturing Life in Games Without Cost</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-short-form-content-leading-edits-for-iosandroid/"><u>[New] Streamlining Short-Form Content Leading Edits for iOS/Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[Updated] 2024 Approved Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-and-wi-fi-authentication-hiccups-strategies-to-restore-your-internet-access/"><u>Android and Wi-Fi Authentication Hiccups: Strategies to Restore Your Internet Access</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-when-mfc42dll-is-unavailable-or-lost-in-windows/"><u>Effective Fixes for When mfc42.dll Is Unavailable or Lost in Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gamers-choice-best-alternatives-to-official-recorder-for-2024/"><u>Gamer's Choice Best Alternatives to Official Recorder for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-edge-40s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Edge 40’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Phone Forgot Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-meta-quest-mic-a-comprehensive-guide/"><u>Mastering Your Meta Quest Mic: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-windows-11-settings-to-deactivate-the-daily-headlines-feature/"><u>Navigating Through Windows 11 Settings to Deactivate the Daily Headlines Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-tracking-iphone-user-locations-responsibly/"><u>Step-by-Step Tutorial: Tracking iPhone User Locations Responsibly</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/syncing-vimeo-and-instagram-the-ultimate-guide/"><u>Syncing Vimeo and Instagram The Ultimate Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-premier-choices-for-ups-battery-backups-this-year/"><u>The Premier Choices for UPS Battery Backups This Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-potential-the-15-best-tools-for-transforming-fb-revenue/"><u>[New] 2024 Approved Unlock Potential The 15 Best Tools for Transforming FB Revenue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-creativity-in-instagram-photography-through-border-use/"><u>[New] Unleashing Creativity in Instagram Photography Through Border Use</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-tiktok-groove-made-simple-for-mac-users/"><u>[Updated] 2024 Approved TikTok Groove Made Simple for Mac Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-probing-deep-into-inshots-editing-capabilities/"><u>[Updated] Probing Deep Into InShot's Editing Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-web/"><u>AIが演出する魅力的な画像制作 - ベストの無料Webブラウザ用ツール!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-a-non-functional-corsair-virtuoso-microphone/"><u>DIY Fixes for a Non-Functional Corsair Virtuoso Microphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-pre-holiday-tip-why-hold-off-on-shopping-online-for-your-festive-presents/"><u>Essential Pre-Holiday Tip: Why Hold Off on Shopping Online For Your Festive Presents</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>In 2024, Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-x-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone X Properly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tout-sur-winxvideo-ai-une-solution-innovante-pour-capturer-ecran-webcam-et-audio-en-vue/"><u>Tout Sur Winxvideo AI : Une Solution Innovante Pour Capturer Écran, Webcam Et Audio en Vue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-enjoying-dvd-movies-on-laptops-with-any-operating-system/"><u>Ultimate Tutorial: Enjoying DVD Movies on Laptops with Any Operating System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxdvd-final-user-license-agreement-digiarty-software-contract-terms-and-conditions/"><u>WinXDVD Final User License Agreement: Digiarty Software Contract Terms & Conditions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvideo-ai-para-incrementar-resolucion-a-4k8k1-0k-en-videos-mediante-tecnologia-avanzada-de-restauracion/"><u>WinxVideo AI Para Incrementar Resolución a 4K/8K/1 0K en Videos Mediante Tecnología Avanzada De Restauración</u></a></li>
 </ul></div>
 
