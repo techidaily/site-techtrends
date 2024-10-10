@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet"
-date: 2024-10-03T17:26:14.859Z
-updated: 2024-10-04T16:52:56.363Z
+date: 2024-10-07T22:26:01.656Z
+updated: 2024-10-09T22:48:33.584Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,19 +116,24 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-powerpoints-automatic-text-conversion-features/"><u>[New] Navigating Through PowerPoint's Automatic Text Conversion Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-spin-into-popularity-the-art-of-video-reversal-on-instagram-for-2024/"><u>[New] Spin Into Popularity The Art of Video Reversal on Instagram for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-your-content-with-top-notch-tiktok-video-edit-tricks/"><u>[Updated] Boost Your Content with Top-Notch TikTok Video Edit Tricks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-science-spheres-finest-15-youtube-picks/"><u>[Updated] Science Sphere's Finest 15 YouTube Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/differentiating-ev-bev-phev-and-fcev-from-hybrids-a-comprehensive-guide/"><u>Differentiating EV, BEV, PHEV & FCEV From Hybrids: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-stream-with-our-picks-8-premier-free-roku-channels/"><u>Elevate Your Stream with Our Picks: 8 Premier Free Roku Channels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-erase-the-system-recovery-partition-in-windows/"><u>Expert Advice: How To Erase The System Recovery Partition in Windows</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-v30-lite-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo V30 Lite 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 mini Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-reno-11-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Reno 11 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence-for-2024/"><u>Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-usb-20-technology-data-speeds-cord-choices-and-interface-designs/"><u>The Ultimate Breakdown of USB 2.0 Technology: Data Speeds, Cord Choices, & Interface Designs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-files-protected-by-trustedinstaller-a-guide-for-windows-11-users/"><u>Unlocking Files Protected by TrustedInstaller: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-spoof-spectacle-steps-to-create-a-parody/"><u>[New] 2024 Approved Spoof Spectacle Steps to Create a Parody</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-look-at-huawei-p10-innovation-in-smartphone-technology/"><u>[Updated] A Look at Huawei P10 Innovation in Smartphone Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-30-voice-modification-solutions-vtubers-guidebook/"><u>[Updated] Top 30 Voice Modification Solutions VTubers Guidebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elite-8-cameras-revolutionizing-online-broadcasts/"><u>2024 Approved Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-pcs-performance-solving-windows-11-sluggishness/"><u>Boost Your PC's Performance: Solving Windows 11 Sluggishness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-21-most-innovative-tools-for-graphic-designers/"><u>Discover the 21 Most Innovative Tools for Graphic Designers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-realtek-ethernet-controller-driver-for-ultimate-performance-in-windows-10/"><u>Download & Setup: Realtek Ethernet Controller Driver for Ultimate Performance in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-to-reactivate-your-alexa-echo-when-it-indicates-offline-status/"><u>Easy Fixes to Reactivate Your Alexa Echo when It Indicates Offline Status</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-safeguard-your-live-streams-on-periscope-for-2024/"><u>How To Safeguard Your Live Streams on Periscope for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-address-msvcr71dll-not-found-troubleshooting-guide/"><u>How to Successfully Address 'MSVCR71.dll Not Found' Troubleshooting Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-sony-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Sony Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/multi-user-access-on-spotify-is-concurrent-playback-available/"><u>Multi-User Access on Spotify - Is Concurrent Playback Available?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-your-smart-tv-options-a-guide-to-the-7-most-important-considerations-before-buying/"><u>Navigating Your Smart TV Options: A Guide to the 7 Most Important Considerations Before Buying</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ath-from-conceptualization-to-consuming-your-mukbang-masterpiece-for-2024/"><u>The Path From Conceptualization to Consuming Your Mukbang Masterpiece for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-and-correct-your-binkw32dll-file-absence-issue-easily/"><u>Troubleshoot and Correct Your Binkw32.dll File Absence Issue Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steamdll-issues-how-to-restore-file-integrity-fast/"><u>Troubleshooting Steam.dll Issues - How to Restore File Integrity Fast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-embedding-text-within-your-gif-images-on-various-platforms-including-windows-and-macos-systems/"><u>Ultimate Tutorial: Embedding Text Within Your GIF Images on Various Platforms Including Windows and MacOS Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-changing-your-devices-gps-address-without-detection/"><u>Unlock the Secrets: Changing Your Device's GPS Address Without Detection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Repairs: Easily Correcting Common TV Malfunctions"
-date: 2024-09-12T00:57:48.699Z
-updated: 2024-09-18T00:28:24.041Z
+date: 2024-10-04T20:54:01.246Z
+updated: 2024-10-09T21:09:59.777Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Repairs: Easily Correcting Common TV Malfunctions"
@@ -36,22 +36,44 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -98,5 +120,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>2024 Approved Ignite Engagement on Twitch Alive Tweeting Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-learning-leaders-expert-picks-of-10-best-classroom-recorders/"><u>2024 Approved Learning Leaders Expert Picks of 10 Best Classroom Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-revolutionize-your-room-strategies-to-record-clear-sound/"><u>2024 Approved Revolutionize Your Room Strategies to Record Clear Sound</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-hdcp-malfunctions-strategies-repairs-and-prevention-methods-for-optimal-video-streaming/"><u>Deciphering HDCP Malfunctions: Strategies, Repairs & Prevention Methods for Optimal Video Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-drama-how-the-infamous-crowdstrike-vs-windows-showdown-of-2024-unfolded-an-insightful-retrospect/"><u>Decoding the Drama: How the Infamous CrowdStrike Vs. Windows Showdown of 2024 Unfolded | An Insightful Retrospect</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabledisable-network-sharing-on-your-pc-with-windows-10/"><u>Enable/Disable Network Sharing on Your PC with Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-fixes-for-disconnected-fb-live-feeds-for-2024/"><u>Essential Fixes for Disconnected FB Live Feeds for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-a60s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from A60s?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-spot-fake-chatgpt-apps-on-the-apple-app-store/"><u>How to Spot Fake ChatGPT Apps on the Apple App Store</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-convenient-technique-winning-the-art-of-fish-dialogue-alteration/"><u>In 2024, Convenient Technique Winning the Art of Fish Dialogue Alteration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-call-capture-tutorial-is-it-legal-expert-advice-from-zdnet/"><u>IPhone Call Capture Tutorial: Is It Legal? - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/navigating-nearby-areas-for-an-immersive-roblox-experience/"><u>Navigating Nearby Areas for an Immersive Roblox Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/reaction-kinetics-play-a-role-in-determining-if-rocks-have-preserved-peak-or-retrograde-metamorphic-conditions/"><u>Reaction Kinetics Play a Role in Determining if Rocks Have Preserved Peak or Retrograde Metamorphic Conditions.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-mac-software-expert-picks-and-reviews/"><u>Top-Rated Mac Software : Expert Picks and Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-iphone-16-and-pro-case-selection-expert-opinions-and-ratings-zdnet/"><u>Ultimate Guide to iPhone 16 & Pro Case Selection - Expert Opinions and Ratings | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-the-full-power-of-siri-top-secret-voice-control-tricks-for-iphone-users-explore/"><u>Unleash the Full Power of Siri: Top Secret Voice Control Tricks for iPhone Users - Explore</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-your-entertainment-12-awesome-free-movies-streaming-apps/"><u>Unlock Your Entertainment: 12 Awesome, FREE Movies Streaming Apps</u></a></li>
+</ul></div>
 

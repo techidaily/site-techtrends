@@ -1,7 +1,7 @@
 ---
 title: Keyboard Malfunctions? Here's How to Get It Back in Working Order!
-date: 2024-09-11T01:37:39.505Z
-updated: 2024-09-18T02:50:37.108Z
+date: 2024-10-05T16:11:13.348Z
+updated: 2024-10-09T17:53:31.617Z
 categories:
   - BestProducts
 description: This Article Describes Keyboard Malfunctions? Here's How to Get It Back in Working Order!
@@ -43,6 +43,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -55,6 +62,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -92,12 +106,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-instagram-growth-strategy-handbook/"><u>[New] In 2024, The Instagram Growth Strategy Handbook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-intuitive-guide-how-to-capture-on-vimeo-for-2024/"><u>[New] Intuitive Guide How to Capture on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-create-digital-humor-kapwings-meme-builder/"><u>[Updated] Create Digital Humor Kapwing's Meme Builder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/4-pro-strategies-to-record-facebook-calls-professionally-for-2024/"><u>4 Pro Strategies to Record Facebook Calls Professionally for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/audio-evolution-contrasting-home-theater-receivers-with-traditional-stereo-units/"><u>Audio Evolution: Contrasting Home Theater Receivers with Traditional Stereo Units</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-ai-assistance-uninstalling-copilot-from-windows-11-easily/"><u>Eliminate AI Assistance: Uninstalling Copilot From Windows 11 Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-list-11-streamers-go-to-audio-devices-for-2024/"><u>Essential List 11 Streamers' Go-To Audio Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-features-and-history-of-google-hangouts/"><u>Exploring the Features and History of Google Hangouts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-sharing-your-gaming-adventures-with-friends-on-the-ps5/"><u>Guide: Sharing Your Gaming Adventures with Friends on the PS5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-i-replace-a-broken-or-missing-key-on-my-laptops-keyboard/"><u>How Do I Replace a Broken or Missing Key on My Laptop's Keyboard?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-care-essentials-scanning-and-securing-vintage-prints/"><u>In 2024, Photo Care Essentials Scanning & Securing Vintage Prints</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-best-no-cost-global-voice-communication-platforms/"><u>Top 5 Best No-Cost Global Voice Communication Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-mac-maintenance-software-of-2022-expertly-curated-selection-by-zdnet/"><u>Top-Rated Mac Maintenance Software of 2022: Expertly Curated Selection by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/troubleshooting-lag-issues-in-age-of-empires-4-for-smooth-gameplay/"><u>Troubleshooting Lag Issues in Age of Empires 4 for Smooth Gameplay</u></a></li>
+</ul></div>
 

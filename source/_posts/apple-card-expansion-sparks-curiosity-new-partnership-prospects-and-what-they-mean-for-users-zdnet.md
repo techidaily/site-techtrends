@@ -1,7 +1,7 @@
 ---
 title: "Apple Card Expansion Sparks Curiosity: New Partnership Prospects and What They Mean for Users | ZDNET"
-date: 2024-10-03T16:58:28.139Z
-updated: 2024-10-04T17:16:20.972Z
+date: 2024-10-07T19:20:43.279Z
+updated: 2024-10-10T00:20:58.507Z
 tags:
   - apple
 categories:
@@ -52,10 +52,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goldman Sachs's consumer business: A lot to swallow
@@ -67,18 +67,18 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Credit card partnerships:** Including the lucrative Apple and GM partnerships, this segment is part of the $4.5 billion figure.
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The potential acquisition scenarios
 
 * **Complete portfolio acquisition:** This scenario would involve a financial giant like Chase or Bank of America acquiring the entire portfolio, leveraging their extensive consumer banking operations.
 * **Piecemeal acquisition:** Various segments of Goldman's business could appeal to different players, such as regional banks, fintech companies, or specialized credit card issuers.
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The potential new partners
 
@@ -90,10 +90,10 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customer expectations will remain high
@@ -103,10 +103,10 @@ The transition will have significant implications for Apple Card users. Maintain
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
@@ -151,15 +151,19 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>[Updated] Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-learn-to-record-and-save-videos-from-webcam/"><u>[Updated] In 2024, Learn to Record and Save Videos From Webcam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2-portfolio-of-professional-images-by-michael-miller-on-movavi-platform/"><u>2. Portfolio of Professional Images by Michael Miller on Movavi Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5pig5yop57at5oyb6kgt77ya5yqj5yyw44gx44gq44ge5yuv55s75yplusn6lui5oqa6kgt44ks5a2m44g2/"><u>映像維持術：劣化しない動画反転技術を学ぶ</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-next-era-visionaries-explore-10-sci-fi-movies-metaverse-realms/"><u>In 2024, Next Era Visionaries Explore 10 Sci-Fi Movies' Metaverse Realms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/m4a-mp3/"><u>M4A MP3変換サービス – 快適なオンラインでの無料音楽ファイル変更</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/revolutionize-your-snaps-with-innovative-boomerang-tactics/"><u>Revolutionize Your Snaps with Innovative Boomerang Tactics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-17-recommended-applications-every-windows-user-should-know-about-windows-11-to-7/"><u>Top 17 Recommended Applications Every Windows User Should Know About (Windows 11 to 7)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-file-mp3-in-mpeg-gratuitamente-online-movavi-solutions/"><u>Trasforma I Tuoi File MP3 in MPEG Gratuitamente Online - Movavi Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-properly-merging-webcam-feed-with-desktop-screen/"><u>[Updated] 2024 Approved Properly Merging Webcam Feed with Desktop Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-picking-prime-stream-services/"><u>[Updated] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/authenticate-seamlessly-resolving-android-smartphone-wifi-problems-effectively/"><u>Authenticate Seamlessly: Resolving Android Smartphone Wifi Problems Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-1080-drivers-for-windows-10-quick-and-simple/"><u>Download NVIDIA 1080 Drivers for Windows 10 - Quick & Simple</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-errors-how-to-address-incorrectly-installed-system-files-problems/"><u>Eliminating Errors: How to Address Incorrectly Installed System Files Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-fixing-a-504-error-from-the-server-side/"><u>Expert Advice on Fixing a 504 Error From the Server Side</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-network-issues-with-this-simple-guide-flushing-dns-cache-on-mac-computers/"><u>Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-an-ideal-surge-protector-for-home-electronics/"><u>How to Choose an Ideal Surge Protector for Home Electronics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-destructive-fatal-glitch-causing-halo-4-ue4-game-crashes-edition/"><u>How to Fix the Destructive Fatal Glitch Causing Halo 4 UE4 Game Crashes Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/steps-for-effective-ipad-screen-casts-for-2024/"><u>Steps for Effective iPad Screen Casts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-destinations-for-purchasing-cellphones/"><u>Top Destinations for Purchasing Cellphones</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>Undelete lost music from Asus ROG Phone 7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame/"><u>Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame</u></a></li>
 </ul></div>
 

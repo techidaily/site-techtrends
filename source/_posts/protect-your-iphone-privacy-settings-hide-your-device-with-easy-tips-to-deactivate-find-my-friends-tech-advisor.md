@@ -1,7 +1,7 @@
 ---
 title: "Protect Your iPhone Privacy Settings: Hide Your Device with Easy Tips to Deactivate Find My Friends | Tech Advisor"
-date: 2024-09-30T17:07:11.787Z
-updated: 2024-10-04T17:14:18.084Z
+date: 2024-10-08T22:46:54.828Z
+updated: 2024-10-09T19:57:36.821Z
 tags:
   - apple
 categories:
@@ -33,6 +33,13 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -44,25 +51,19 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -70,10 +71,10 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -101,13 +102,6 @@ Let's say you want to convert that JPG to a PNG image. From the sub-menu, click 
 Configuring your converted image in the Finder pop-up.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
 
@@ -159,19 +153,19 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-visionary-layout-overhauls/"><u>[Updated] Visionary Layout Overhauls</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-shifting-gender-identity-in-online-profile-pictures/"><u>2024 Approved Shifting Gender Identity in Online Profile Pictures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722848882732-compatibility-using-airpods-on-a-nintendo-console/"><u>Compatibility: Using AirPods on a Nintendo Console</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-on-correcting-compromised-system-data-structures-within-windows-10-or-11/"><u>Complete Guide on Correcting Compromised System Data Structures Within Windows 10 or 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-to-follow-steps-to-begin-your-virtual-reality-journey-with-oculus-quest/"><u>Easy-to-Follow Steps to Begin Your Virtual Reality Journey with Oculus Quest</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-elite-selection-of-12-zero-fee-online-calling-platforms-in-24/"><u>Explore the Elite Selection of 12 Zero-Fee Online Calling Platforms in 2^4</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/harmonic-harvest-best-sites-for-classical-tones-downloads-for-2024/"><u>Harmonic Harvest Best Sites for Classical Tones Downloads for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-x-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone X Without Previous Owner?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-art-of-capturing-scenes-ezvides-screencast-solution/"><u>In 2024, The Art of Capturing Scenes EZvide's Screencast Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lost-passcode-solutions-regaining-access-to-your-secure-ipad-device/"><u>Lost Passcode Solutions: Regaining Access to Your Secure iPad Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-perfect-way-to-watch-all-conjuring-movies-in-their-correct-order/"><u>The Perfect Way to Watch All 'Conjuring' Movies in Their Correct Order</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unveiling-the-key-iphone-upgrades-and-extras-every-user-needs/"><u>Unveiling the Key iPhone Upgrades and Extras Every User Needs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-11-popular-video-extractors-online-for-2024/"><u>[New] 11 Popular Video Extractors Online for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategies-for-optimal-featured-channels-in-youtubes-algorithm/"><u>[Updated] Strategies for Optimal Featured Channels in YouTube's Algorithm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-calming-chorus-proven-voices-aid-sleep/"><u>2024 Approved The Calming Chorus Proven Voices Aid Sleep</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-huawei-p60-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Huawei P60? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ios-chatgpt-mobile-application-unlocking-ai-conversations-on-your-phone/"><u>Discover the iOS ChatGPT Mobile Application: Unlocking AI Conversations on Your Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-poco-c51-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Poco C51 FRP Without Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pc-mastery-with-google-assistant-a-tutorial-for-smart-device-management/"><u>PC Mastery with Google Assistant: A Tutorial for Smart Device Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-lenovo-pcs-a-comprehensive-walkthrough-of-factory-default-procedures/"><u>Resetting Lenovo PCs – A Comprehensive Walkthrough of Factory Default Procedures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-launchdll-file-missing-issues-on-your-pc/"><u>Resolving 'Launch.DLL' File Missing Issues on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-ring-a-complete-guide-to-its-anticipated-launch-pricing-scheme-and-technical-features/"><u>Samsung Galaxy Ring - A Complete Guide to Its Anticipated Launch, Pricing Scheme & Technical Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-breakdown-of-wi-fi-protocols-from-80211b-to-be-and-beyond/"><u>The Complete Breakdown of Wi-Fi Protocols: From 802.11B to Be and Beyond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-steams-unsyncable-files-issue-on-pc/"><u>Troubleshooting Steam's Unsyncable Files Issue on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-t2x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo T2x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

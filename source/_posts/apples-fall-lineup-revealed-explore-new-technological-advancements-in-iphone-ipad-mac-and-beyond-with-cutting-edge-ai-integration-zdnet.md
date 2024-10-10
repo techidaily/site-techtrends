@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2024-10-01T16:46:06.545Z
-updated: 2024-10-04T16:17:09.210Z
+date: 2024-10-03T01:20:53.592Z
+updated: 2024-10-09T16:27:54.145Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -76,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -115,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -143,16 +143,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -224,20 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-streamline-your-soundwaves-moving-playlists-across-networks/"><u>[New] 2024 Approved Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-utilizing-luts-for-professional-color-grading/"><u>[New] 2024 Approved Utilizing LUTs for Professional Color Grading</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-6-online-webcam-recorders/"><u>[New] In 2024, Top 6 Online Webcam Recorders</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlocking-the-power-of-social-medias-fb-covers/"><u>[New] In 2024, Unlocking the Power of Social Media's FB Covers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-search-filters-on-instagram/"><u>[Updated] In 2024, How to Search Filters on Instagram</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-best-no-cost-screen-players/"><u>2024 Approved Best No-Cost Screen Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-for-fixing-ntdlldll-bugs-on-windows-10-8-7/"><u>Comprehensive Strategies for Fixing Ntdll.dll Bugs on Windows [10, 8, 7]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/correcting-inaccurate-activity-monitoring-in-apple-watch-tips-and-solutions/"><u>Correcting Inaccurate Activity Monitoring in Apple Watch: Tips and Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ensuring-anonymity-learn-to-block-your-contact-details-from-showing-in-android-apps/"><u>Ensuring Anonymity: Learn to Block Your Contact Details From Showing in Android Apps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 12 5G Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-note-13-pro-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi Note 13 Pro 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/missing-essential-files-learn-how-to-fix-physxloaderdll-not-found-problems/"><u>Missing Essential Files? Learn How to Fix 'PhysXLoader.dll' Not Found Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rigorous-testing-results-for-western-digitals-data-lifeguard-software-a-detailed-examination-by-tech-experts/"><u>Rigorous Testing Results for Western Digital's Data Lifeguard Software: A Detailed Examination by Tech Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-why-doesnt-windows-11-turn-off/"><u>Step-by-Step Troubleshooting: Why Doesn't Windows 11 Turn Off?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-video-resumes-4-best-makers-with-free-templates/"><u>Updated In 2024, The Ultimate Guide to Video Resumes 4 Best Makers with Free Templates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-transform-your-youtube-videos-into-webm-easily/"><u>[New] 2024 Approved Transform Your YouTube Videos Into WebM Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-decoding-macbook-airs-screen-capture-a-detailed-walkthrough-guide/"><u>[Updated] In 2024, Decoding MacBook Air's Screen Capture A Detailed Walkthrough Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-perfect-iphone-mp3-conversion-top-6-software-recommendations/"><u>[Updated] Perfect iPhone MP3 Conversion Top 6 Software Recommendations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-gamers-guide-5-crucial-webcams-to-master/"><u>2024 Approved Elite Gamers' Guide 5 Crucial Webcams to Master</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-get-microsoft-word-without-paying-anything-find-out-here/"><u>Can You Get Microsoft Word Without Paying Anything? Find Out Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-finding-and-installing-the-newest-hp-officejet-er-4655-driver-version/"><u>Complete Guide: Finding and Installing the Newest HP Officejet Er 4655 Driver Version</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-defrag-programs-for-optimized-performance-in-july-2024/"><u>Discover the Ultimate List of Free Defrag Programs for Optimized Performance in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-to-restore-missing-mfc4-42ddll-library-in-your-pc/"><u>Effective Methods to Restore Missing Mfc4 42d.dll Library in Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-past-to-present-the-storyline-of-electrified-transportation/"><u>From Past to Present: The Storyline of Electrified Transportation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-engage-and-learn-students-choice-of-best-historical-youtubes/"><u>In 2024, Engage & Learn Students' Choice of Best Historical YouTubes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-digital-highway-fairly-exploring-the-essentials-of-net-neutrality/"><u>Navigating the Digital Highway Fairly: Exploring the Essentials of Net Neutrality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-bundle-contents-whats-included-with-your-purchase/"><u>Nintendo Switch Bundle Contents: What's Included with Your Purchase?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-connecting-and-syncing-your-ps4-gaming-pad/"><u>Quick Fixes for Connecting and Syncing Your PS4 Gaming Pad</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/set-up-facebook-cover-videos-for-2024/"><u>Set up Facebook Cover Videos for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-typing-emojis-on-ios-devices/"><u>The Ultimate Tutorial for Typing Emojis on iOS Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-note-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Note 30i without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-09-30T17:10:28.346Z
-updated: 2024-10-04T17:18:39.551Z
+date: 2024-10-06T18:52:01.026Z
+updated: 2024-10-09T17:18:07.119Z
 tags:
   - apple
 categories:
@@ -36,16 +36,16 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +69,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,18 +140,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-strategize-execute-inspire-the-ultimate-guide-to-instagram-marketing-for-2024/"><u>[New] Strategize, Execute, Inspire The Ultimate Guide to Instagram Marketing for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-full-unpacked-experience-of-the-logitech-4k-webcam/"><u>[New] The Full Unpacked Experience of the Logitech 4K Webcam</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-add-music-to-instagram-videos-and-stories/"><u>[Updated] In 2024, How to Add Music to Instagram Videos and Stories</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-immediate-harmony-views-on-xigua-video/"><u>[Updated] In 2024, Immediate Harmony Views on Xigua Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/customize-and-download-free-outro-video-templates/"><u>Customize and Download Free Outro Video Templates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-computer-what-to-do-when-you-cant-find-gsdll32dll/"><u>Fix Your Computer: What to Do When You Can't Find gsdll32.dll</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide/"><u>How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-your-facebook-profile-with-these-11-superior-tools/"><u>In 2024, Elevate Your Facebook Profile with These 11 Superior Tools</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone XS Max to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-look-at-apples-personal-robotic-helper-rumored-pricing-launch-date-features-and-tech-insights/"><u>Inside Look at Apple's Personal Robotic Helper: Rumored Pricing, Launch Date, Features & Tech Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-notfoundlibcea32dll-error-messages-on-your-pc/"><u>Resolving NotFound_libcea32.dll Error Messages on Your PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-efficient-flow-of-content-tiktok-to-your-fb-profile-for-2024/"><u>The Efficient Flow of Content TikTok to Your FB Profile for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-verifying-your-monthly-data-allowance-online/"><u>Understanding and Verifying Your Monthly Data Allowance Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-owner-uncovering-your-subscribers-for-2024/"><u>[New] Channel Owner Uncovering Your Subscribers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-restoring-hidden-watch-icon-for-optimal-experience/"><u>[Updated] 2024 Approved Restoring Hidden Watch Icon for Optimal Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-game-plan-to-trendsetting-video-content/"><u>[Updated] 2024 Approved The Game Plan to Trendsetting Video Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users-for-2024/"><u>[Updated] Elite Voice Capture Tech The Ultimate 5 Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-wealth-wave-on-your-screen-monetizing-as-a-streamer-for-2024/"><u>[Updated] Wealth Wave on Your Screen Monetizing as a Streamer for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 11 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-audio-systems-what-sets-apart-home-theater-vs-stereo-receivers/"><u>Comparing Audio Systems: What Sets Apart Home Theater Vs. Stereo Receivers?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-correcting-the-missing-oleaut32dll-error-on-your-computer/"><u>Comprehensive Guide to Correcting the Missing oleAut32.dll Error on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-restoring-connection-with-your-alexa-enabled-device/"><u>Essential Guide to Restoring Connection with Your Alexa-Enabled Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-configuring-your-samsung-soundbar-with-your-television-unit/"><u>Mastering Audio: Configuring Your Samsung Soundbar with Your Television Unit</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-the-problem-handbrake-updated-to-64-bit-version-struggling-with-missing-64-bit-vlc-error-notification/"><u>Solving the Problem: Handbrake Updated to 64-Bit Version, Struggling with Missing 64-Bit VLC Error Notification!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-pairing-your-bluetooth-speaker-with-your-pc/"><u>Step-by-Step Guide: Pairing Your Bluetooth Speaker with Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tackling-the-mystery-of-error-code-0xc0000185-expert-advice-on-diagnosis-and-remediation/"><u>Tackling the Mystery of Error Code 0xC0000185: Expert Advice on Diagnosis & Remediation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-trick-to-taming-your-emails-with-advanced-gmail-rules/"><u>The Ultimate Trick to Taming Your Emails with Advanced Gmail Rules</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-the-battle-against-trustedinstaller-permissions-on-your-windows-11-pc/"><u>Winning the Battle Against TrustedInstaller Permissions on Your Windows 11 PC</u></a></li>
 </ul></div>
 

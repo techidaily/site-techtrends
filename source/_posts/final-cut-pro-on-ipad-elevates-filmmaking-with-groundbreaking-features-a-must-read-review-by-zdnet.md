@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro on iPad Elevates Filmmaking with Groundbreaking Features - A Must-Read Review by ZDNet!
-date: 2024-10-03T16:42:51.786Z
-updated: 2024-10-04T16:34:49.666Z
+date: 2024-10-08T19:54:50.672Z
+updated: 2024-10-09T20:35:56.638Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,16 +64,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -85,10 +79,10 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -98,16 +92,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -148,20 +136,17 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-auditory-transitions-with-logic-pro-x/"><u>[Updated] Innovative Auditory Transitions with Logic Pro X</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-vcr-video-vault-extensive-reviews-and-summary-for-2024/"><u>[Updated] VCR Video Vault Extensive Reviews & Summary for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4-webm-2024top4/"><u>「MP4 ファイルを自由に WebMに変換する - 2024年度レコメンドソフトウェアTOP4」</u></a></li>
-<li><a href="https://techtrends.techidaily.com/17-kalyteres-diktatwr-elegxoy-onomatwn-lhpshs-movavi-converter-me-theseis-kb-pdf-se-dwrizei/"><u>17 Καλύτερες Δικτάτωρ Ελέγχου Ονομάτων Λήψης - Movavi Converter: Με Θέσεις KB, PDF Σε Δωρίζει</u></a></li>
-<li><a href="https://win-answers.techidaily.com/advanced-solutions-for-smoothing-out-sims-5-and-how-its-done-so-you-can-continue-your-virtual-life-without-interruptions/"><u>Advanced Solutions for Smoothing Out Sims 5 and How It's Done, so You Can Continue Your Virtual Life without Interruptions!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beskyttet-screen-recordereprogram-erfaringer-med-top-sorters/"><u>Beskyttet Screen Recordereprogram - Erfaringer Med Top Sorters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambia-tus-audios-de-aiff-a-formato-flac-sin-gastar-descubre-el-metodo-gratuitamente-en-linea-para-una-transicion-perfecta/"><u>Cambia Tus Audios De AIFF a Formato FLAC Sin Gastar: Descubre El Método Gratuitamente en Línea Para Una Transición Perfecta</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converta-seus-arquivos-gratuitamente-em-formato-mov-utilizando-o-conversor-online-da-movavi/"><u>Converta Seus Arquivos Gratuitamente Em Formato MOV Utilizando O Conversor Online Da Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-15-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 15</u></a></li>
-<li><a href="https://network-issues.techidaily.com/diy-solutions-to-youtube-green-screen-anomalies/"><u>DIY Solutions to YouTube Green Screen Anomalies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/moovris-unique-selling-point-waar-voorstaat-het-over-andere-verkoperingen/"><u>Moovri's Unique Selling Point: Waar Voorstaat Het Over Andere Verkoperingen?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726220203761-movavi/"><u>Movaviをスムーズに操作するためのガイドと実践記事</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-how-to-correcting-no-signal-detected-by-computermonitor-problems/"><u>The Ultimate How-To: Correcting No Signal Detected by Computer/Monitor Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-eliminating-windows-11s-dark-display-dilemma/"><u>Troubleshooting Tips: Eliminating Windows 11'S Dark Display Dilemma</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-interactive-webinar-writer/"><u>[New] Innovative Interactive Webinar Writer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-convenient-methods-for-recording-playtime-footage/"><u>[Updated] In 2024, Convenient Methods for Recording Playtime Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>[Updated] Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/converse-confidently-in-german-with-these-25-must-know-phrases/"><u>Converse Confidently in German with These 25 Must-Know Phrases</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-accurately-use-the-in-built-measurement-application-on-android-devices/"><u>Expert Advice: How To Accurately Use The In-Built Measurement Application On Android Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-quintessential-collection-5-unbeatable-free-cross-border-chat-services/"><u>Explore the Quintessential Collection: 5 Unbeatable Free Cross-Border Chat Services</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-a59-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo A59 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722844396954-leading-gps-solutions-for-your-iphone-here-are-our-favorites/"><u>Leading GPS Solutions for Your iPhone - Here Are Our Favorites!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-to-past-notifications-a-step-by-step-iphone-guide/"><u>Navigating to Past Notifications: A Step-by-Step iPhone Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-lcd-best-practices-for-dust-free-and-smudge-less-television-displays/"><u>Protecting Your LCD: Best Practices for Dust-Free and Smudge-Less Television Displays</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915399984-upgrade-to-revo-uninstaller-pro-5-the-ultimate-tool-for-a-clean-and-efficient-system/"><u>Upgrade to Revo Uninstaller Pro 5 - The Ultimate Tool for a Clean & Efficient System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
 </ul></div>
 

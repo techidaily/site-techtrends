@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights"
-date: 2024-10-01T17:26:24.230Z
-updated: 2024-10-04T17:29:09.018Z
+date: 2024-10-06T23:44:41.017Z
+updated: 2024-10-09T22:20:19.694Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -71,10 +77,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -90,10 +96,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,19 +136,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-to-adding-effects-in-tiktok-videos/"><u>[New] 2024 Approved The Ultimate Guide to Adding Effects in TikTok Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-recording-flawless-podcasts-via-zoom/"><u>[Updated] The Art of Recording Flawless Podcasts via Zoom</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-must-know-insights-for-making-a-wise-smartwatch-investment/"><u>5 Must-Know Insights for Making a Wise Smartwatch Investment</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-x8b-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor X8b without App | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mental-marathons-in-elite-escapade-venues/"><u>In 2024, Mental Marathons in Elite Escapade Venues</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-cheat-sheet-pro-instagram-photo-enhancements/"><u>In 2024, The Ultimate Cheat Sheet Pro Instagram Photo Enhancements</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lose-yourself-to-laughter-best-10-jokes/"><u>Lose Yourself to Laughter Best 10 Jokes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-security-alert-solved-opening-non-verified-applications/"><u>Mac Security Alert Solved: Opening Non-Verified Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-your-mobile-experience-the-best-timing-for-a-phone-refresh/"><u>Maximizing Your Mobile Experience: The Best Timing for a Phone Refresh</u></a></li>
-<li><a href="https://techtrends.techidaily.com/missing-the-memories-how-to-get-back-into-your-facebook-profile-even-if-you-lost-all-contact-details/"><u>Missing the Memories? How to Get Back Into Your Facebook Profile Even if You Lost All Contact Details</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-puzzle-of-inaccessible-secure-boot-in-windows-bios/"><u>Solving the Puzzle of Inaccessible Secure Boot in Windows BIOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-top-five-no-cost-apps-for-learning-new-languages/"><u>The Top Five No-Cost Apps for Learning New Languages</u></a></li>
-<li><a href="https://solve-help.techidaily.com/top-3-gratuiti-convertitori-video-piu-efficienti-del-2020-per-windows-10-ottimizzazione-hd-e-4k/"><u>Top 3 Gratuiti Convertitori Video Più Efficienti Del 2020 Per Windows 10: Ottimizzazione HD E 4K</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-top-5-freeware-solutions-for-effective-malware-removal-this-year/"><u>Unveiling the Top 5 Freeware Solutions for Effective Malware Removal This Year</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-structuring-vimeo-footage-chapter-creation-tips-for-2024/"><u>[New] Structuring Vimeo Footage Chapter Creation Tips for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-explore-the-best-free-passport-picture-creation-services-online/"><u>[Updated] 2024 Approved Explore the Best Free Passport Picture Creation Services Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[Updated] Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-awesome-igtv-channels-that-deliver-quality-content/"><u>2024 Approved Awesome IGTV Channels That Deliver Quality Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/emergency-tips-keeping-your-smartphone-charged-without-usual-charging-equipment/"><u>Emergency Tips: Keeping Your Smartphone Charged without Usual Charging Equipment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-horror-chronologically-watching-the-conjuring-franchise-correctly/"><u>Experience Horror Chronologically: Watching 'The Conjuring' Franchise Correctly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-fixing-the-notorious-code-19-error-in-windows-os/"><u>Expert Tips on Fixing the Notorious Code 19 Error in Windows OS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-6-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 6 If Youve Tried Everything</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x7-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X7 Ultra to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>In 2024, Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits/"><u>In 2024, What's Buzzing the Social Sphere? TikTok & Twitter Hits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-tricks-how-to-program-precise-text-reminders-and-alerts/"><u>IPhone Tricks: How to Program Precise Text Reminders & Alerts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leveraging-siris-voice-control-reading-text-aloud-on-apple-devices/"><u>Leveraging Siri's Voice Control: Reading Text Aloud on Apple Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/network-discovery-settings-toggle-steps-for-windows-11-operating-system/"><u>Network Discovery Settings Toggle: Steps for Windows 11 Operating System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-netflix-issue-step-by-step-guide-to-correcting-error-nw-1-19/"><u>Resolving Netflix Issue: Step-by-Step Guide to Correcting Error NW-1-19</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-quick-fix-how-to-optimize-and-hasten-your-computers-operation/"><u>The Quick Fix: How to Optimize and Hasten Your Computer's Operation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-tv-into-a-virtual-meeting-hub-a-tutorial-on-using-zoom/"><u>Transform Your TV Into a Virtual Meeting Hub: A Tutorial on Using Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/uk-enterprises-lead-the-way-with-robotics-and-analytics-new-study-finds-majority-investing-in-rpaprocess-mining-technologies-aabbyy-report/"><u>UK Enterprises Lead the Way with Robotics and Analytics: New Study Finds Majority Investing in RPA/Process Mining Technologies - AABBYY Report</u></a></li>
 </ul></div>
 

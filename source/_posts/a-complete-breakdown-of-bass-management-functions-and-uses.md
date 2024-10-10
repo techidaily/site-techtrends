@@ -1,7 +1,7 @@
 ---
 title: A Complete Breakdown of Bass Management Functions & Uses
-date: 2024-10-01T17:22:24.439Z
-updated: 2024-10-04T16:55:02.538Z
+date: 2024-10-03T18:45:18.103Z
+updated: 2024-10-09T23:55:02.711Z
 categories:
   - BestProducts
 description: This Article Describes A Complete Breakdown of Bass Management Functions & Uses
@@ -43,32 +43,11 @@ Anthem AV
 
 ![Home Theater Surround Sound Setup](https://www.lifewire.com/thmb/C2Ylgsm50obYhBhgkcAnDxWB1TI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/home-theater-surround-sound-setup-a-585c25c23df78ce2c3549b62.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  adventtr / Getty Images
 
  After you connect the speakers with (or without) a subwoofer, go into the home theater receiver's on-screen setup menu and find the speaker setup or configuration menu. There should be an option to tell the receiver which speakers and subwoofer are connected.
 
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
 
@@ -94,10 +73,10 @@ Many home theater receivers provide outputs for two subwoofers.
 ![Onkyo TX-NR787 Dual Subwoofer Output](https://www.lifewire.com/thmb/Jo0UqJirlpMSGg-_A1SWgcKZ8nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onkyo-tx-nr787-dual-sub-outs-a-5c07f338c9e77c000169e852.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Onkyo USA
@@ -120,21 +99,22 @@ Onkyo USA
  Although convenient for most setups, this method isn't always accurate. It can sometimes miscalculate speaker distance and the speaker/subwoofer frequency points, setting the center channel output too low or the subwoofer output too high. However, you can correct these manually after the fact, if desired.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting Bass Management Manually
 
  If you are more adventurous and have the time, you can implement bass management manually. To do this, besides setting the speaker configuration, signal routing, and size, you also need to set the crossover frequency.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Crossover Frequency Is and How to Set It
 
@@ -153,7 +133,21 @@ Onkyo USA
 
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -205,20 +199,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exclusive-discord-matchmaking-groups/"><u>[Updated] In 2024, Exclusive Discord Matchmaking Groups</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-delicious-dynamos-youtubers-for-your-food-journey/"><u>2024 Approved Delicious Dynamos YouTubers for Your Food Journey</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-guide-clear-all-data-from-your-iphone-via-desktop-software-stellar/"><u>Comprehensive Guide: Clear All Data From Your iPhone via Desktop Software (Stellar)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-a-social-soundtrack-connect-with-friends-through-spotify/"><u>Creating a Social Soundtrack: Connect with Friends Through Spotify</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722865897374-decoding-digital-expressions-learn-these-10-intriguing-details-about-emojis/"><u>Decoding Digital Expressions: Learn These 10 Intriguing Details About Emojis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-maximizing-your-productivity-with-google-gemini/"><u>Expert Tips for Maximizing Your Productivity with Google Gemini</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-90-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 90 Pro FRP?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y78+ Phone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-data-management-in-excel-techniques-for-combining-multiple-columns-efficiently/"><u>Mastering Data Management in Excel: Techniques for Combining Multiple Columns Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-finding-someones-coordinates-via-iphone-technology/"><u>Mastering the Art of Finding Someone's Coordinates via iPhone Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mbot-build-and-code-adventure-by-makeblock-an-intriguing-robotics-diy-kit-reviewed-for-young-engineers/"><u>MBot Build & Code Adventure by Makeblock – An Intriguing Robotics DIY Kit Reviewed for Young Engineers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-compressor-tutorial-from-basics-to-advanced-techniques/"><u>New In 2024, FCPX Compressor Tutorial From Basics to Advanced Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ceos-companion-goat-with-a-blockchain-twist/"><u>The CEO’s Companion: Goat with a Blockchain Twist.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-strategies-finding-out-whos-watching-your-youtube-videos/"><u>Unlock Strategies: Finding Out Who's Watching Your YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ace-gaming-the-top-4k-tvs-on-market/"><u>[New] Ace Gaming The Top 4K TVs on Market</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-viral-instagram-cinematography-for-2024/"><u>[Updated] Mastering the Art of Viral Instagram Cinematography for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-video-threads-on-youtube/"><u>2024 Approved Exploring Video Threads on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-young-adult-movie-picks-available-on-netflix/"><u>Best Young Adult Movie Picks Available on Netflix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cloud-choice-best-value-in-data-safekeeping-for-2024/"><u>Cloud Choice Best Value in Data Safekeeping for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-resolving-silent-playback-from-home-theater-receivers/"><u>Expert Advice: Resolving Silent Playback From Home Theater Receivers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/free-customizable-design-templates-craft-stunning-fashion-flipbooks-with-flipbuildercom/"><u>Free Customizable Design Templates: Craft Stunning Fashion Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-received-a-new-voice-through-openai-for-command-based-engagements/"><u>How ChatGPT Received a New 'Voice' Through OpenAI for Command-Based Engagements</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-printing-issues-solutions-for-when-your-device-cannot-connect-with-a-printer/"><u>IPad Printing Issues: Solutions For When Your Device Cannot Connect With A Printer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-fixes-for-http-504-timeout-problems-on-websites/"><u>Mastering Fixes for HTTP 504 Timeout Problems on Websites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/phones-history-keeper-voice-recordings-2024/"><u>Phone's History Keeper Voice Recordings 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fixing-the-missing-opengl32dll-error/"><u>Step-by-Step Guide to Fixing the 'Missing OpenGL32.dll' Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-disabling-your-facebook-app-on-android-devices/"><u>Step-by-Step Guide: Disabling Your Facebook App on Android Devices</u></a></li>
 </ul></div>
 

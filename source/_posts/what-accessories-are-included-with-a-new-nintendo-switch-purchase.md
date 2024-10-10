@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2024-09-29T16:47:48.201Z
-updated: 2024-10-04T17:24:58.199Z
+date: 2024-10-05T22:44:06.637Z
+updated: 2024-10-10T00:37:48.184Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -30,26 +30,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -62,6 +49,20 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 3. Tap**Yes** .
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -76,13 +77,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -95,10 +89,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -151,22 +145,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-adventure-in-sync-reviewing-the-panasonic-hx-a1-cam/"><u>[New] In 2024, Adventure in Sync Reviewing the Panasonic HX-A1 Cam</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-brand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[Updated] 2024 Approved Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>[Updated] Streamline Your Listening Experience How to Get Apple Podcasts Downloaded</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-your-next-best-source-for-world-exploration/"><u>[Updated] Your Next-Best Source for World Exploration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/error-800-unraveled-effective-strategies-for-addressing-clients-and-server-side-vpn-issues/"><u>Error 800 Unraveled: Effective Strategies for Addressing Clients and Server-Side VPN Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-ray-tracing-a-detailed-guide/"><u>Exploring the World of Ray Tracing: A Detailed Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-does-the-life-expectancy-of-an-electric-car-compare-to-that-of-a-gas-powered-vehicle/"><u>How Does the Life Expectancy of an Electric Car Compare to That of a Gas-Powered Vehicle?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005786799-how-to-fix-battlenet-wont-open-2024-guide/"><u>How to Fix Battle.net Won't Open - 2024 Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s17e-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S17e Screen | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/just-released-the-latest-version-of-apples-iconic-macbook/"><u>Just Released: The Latest Version of Apple's Iconic MacBook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/liberating-video-files-free-mp4-and-hd-from-facebook-posts-for-2024/"><u>Liberating Video Files Free MP4 & HD From Facebook Posts for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-printer-connectivity-techniques-for-access-from-various-gadgets-on-the-same-network/"><u>Mastering Printer Connectivity: Techniques for Access From Various Gadgets on the Same Network</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/medical-and-health-facebook-ads-campaign-tips-for-2024/"><u>Medical And Health Facebook Ads Campaign Tips for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip-6-when-to-buy-price-bracket-key-specs-and-latest-news-revealed/"><u>Samsung Galaxy Z Flip 6: When to Buy, Price Bracket, Key Specs & Latest News Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-overcoming-error-in-moderation-on-chatgpt/"><u>Solutions for Overcoming 'Error in Moderation' On ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-free-messaging-applications-for-ios-devices-iphone-and-ipod-touch/"><u>Top Free Messaging Applications for iOS Devices: IPhone and iPod Touch</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-iphone-mastering-the-art-of-starting-a-device-with-nonfunctional-buttons/"><u>Unstuck iPhone: Mastering the Art of Starting a Device with Nonfunctional Buttons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-backwards-viewing-a-new-lens-for-analyzing-youtube-content-for-2024/"><u>[New] Backwards Viewing A New Lens for Analyzing YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scrutinizing-the-advanced-features-of-dji-phantom-3/"><u>[New] Scrutinizing the Advanced Features of DJI Phantom 3</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-command-center-conundrums-deciphering-best-cloud-solutions/"><u>2024 Approved Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-the-lowdown-on-apples-anticipated-domestic-companion-bot-price-estimates-release-windows-and-tech-insights/"><u>Get the Lowdown on Apple's Anticipated Domestic Companion Bot: Price Estimates, Release Windows, and Tech Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-14-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 14 Plus online without SIM Card?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-spys-guide-to-unearthing-hidden-youtube-videos/"><u>In 2024, The Spy's Guide to Unearthing Hidden YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-command-line-start-command-prompt-within-directories/"><u>Master the Command Line: Start Command Prompt Within Directories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screen-captures-on-windows-and-mac-computers/"><u>Mastering the Art of Screen Captures on Windows and Mac Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-of-the-matrix-films-a-step-by-step-watchlist/"><u>Order of The Matrix Films - A Step-by-Step Watchlist</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-converting-and-importing-wmv-files-into-final-cut-pro/"><u>Step-by-Step Guide: Converting and Importing WMV Files Into Final Cut Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-accepting-shared-photographic-albums-on-ios-devices/"><u>Step-by-Step Instructions for Accepting Shared Photographic Albums on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-basics-of-biometric-identification-systems-explained/"><u>The Basics of Biometric Identification Systems Explained</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-subtle-art-of-digital-etiquette-in-connection-requests/"><u>The Subtle Art of Digital Etiquette in Connection Requests</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-gifts-for-junior-video-game-enthusiasts-preferred-systems-and-accessories/"><u>Ultimate Gifts for Junior Video Game Enthusiasts: Preferred Systems and Accessories</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-network-growth-share-igtv-videos-and-fb/"><u>Unlocking Network Growth Share IGTV Videos & FB</u></a></li>
 </ul></div>
 

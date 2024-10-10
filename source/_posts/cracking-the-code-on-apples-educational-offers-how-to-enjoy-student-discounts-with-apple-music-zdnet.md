@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code on Apple's Educational Offers: How to Enjoy Student Discounts with Apple Music | ZDNet"
-date: 2024-10-01T16:46:57.156Z
-updated: 2024-10-04T16:08:12.769Z
+date: 2024-10-06T18:56:32.182Z
+updated: 2024-10-09T21:43:23.847Z
 tags:
   - apple
 categories:
@@ -36,18 +36,18 @@ Here's what to do if you're subscribing as a student for the first time. I recom
 
 ## How to get an Apple Music student subscription
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open the Apple Music app or iTunes for Windows
 
 Screenshot by Kayla Solino/ZDNET
 
 This action should take you to the homepage. If you are not already subscribed to Apple Music, you should see a banner option that says, "Try it Now."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Choose the trial offer
 
@@ -55,11 +55,25 @@ Screenshot by Kayla Solino/ZDNET
 
 After selecting the "Try it Now" offer, a popup should allow you to start a free trial of a traditional individual plan, log in to an existing account if you're already a subscriber, and select other plans. Click the "See More Plans" option closest to the lower left corner of the popup box.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Choose the student plan
 
 Screenshot by Kayla Solino/ZDNET
 
 After selecting more plan options, you'll find a new window outlining Apple Music plans. There should be three options: Individual, Family, and College Student. Select the College Student plan. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Verify your eligibility
 
@@ -67,14 +81,20 @@ Screenshot by Kayla Solino/ZDNET
 
 After selecting the college plan, click the red "Verify Eligibility" button at the bottom of the box. Apple should prompt you to log in with your Apple ID. You can create an ID if you don't already have one. Then, continue to follow the onscreen steps to verify your student status. Once your student status is verified, follow the onscreen steps to start a free trial and purchase a student subscription with your Apple ID.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs
 
 ## How do I re-verify my Apple Music student status?
 
@@ -86,13 +106,6 @@ Once a year, you will need to re-verify that you're a student to continue receiv
 2. You may see a message that asks you to verify your student status. If so, choose Verify Eligibility or Verify Student Status.
 3. Follow the steps onscreen to verify your student status.
 4. If the verification is successful, you will automatically return to the Apple Music app or iTunes, and continue your Apple Music student subscription.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Re-verify your student status in Settings on your iPhone or iPad
 
@@ -106,6 +119,19 @@ Once a year, you will need to re-verify that you're a student to continue receiv
 
 Your student subscription will automatically renew as an Apple Music individual subscription if you're still a student and do not verify your student status during the verification period. If you want to obtain the discounted rate, you'll need to resubscribe as a student and go through the verification process.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Apple verify my student status?
 
 For Apple Music student subscriptions, the tech giant is partnering with [UniDays](https://www.myunidays.com/US/en-US), which houses and shares student discounts for brands and stores across its site and provides online student verification services. 
@@ -113,19 +139,6 @@ For Apple Music student subscriptions, the tech giant is partnering with [UniDay
 **Also: [Switch to a Prime Student membership to score Prime Day discounts for less. Here's how](https://www.zdnet.com/article/how-to-switch-to-a-prime-student-membership/)**
 
 The current Apple Music [student offer highlighted on the UniDays](https://www.myunidays.com/US/en-US/partners/applemusic/view) website is one month of Apple Music for free, followed by half-price monthly. Plus, you'll get access to Apple TV+.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it safe to use student verification platforms like UniDays?
 
@@ -144,13 +157,6 @@ Students enrolled in a degree-granting institution can receive up to 48 months o
 ## How do I qualify for an Apple Music student subscription?
 
 To qualify for an Apple Music student subscription (which offers a discount), you must be a student studying an associate, bachelor, or postgraduate degree (or an equivalent higher education course) at a college or university and have your student status verified.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I switch between subscription plans?
 
@@ -186,20 +192,22 @@ If you're already subscribed to Apple Music, you can [change your subscription p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-direct-engagement-syncing-instagram-with-facebook-for-2024/"><u>[New] Direct Engagement Syncing Instagram with Facebook for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-funimate-video-downloader-review/"><u>[New] Funimate Video Downloader Review</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expertly-curated-list-of-9-prime-free-sites-to-learn-any-language/"><u>Expertly Curated List of 9 Prime Free Sites to Learn Any Language</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-restore-python24dll-solutions-for-missing-dependency-errors/"><u>Guide to Restore Python24.dll: Solutions for Missing Dependency Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-directx-component-creation-obstacles-successfully/"><u>How to Overcome DirectX Component Creation Obstacles Successfully</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-c55-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-z50s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Z50S Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-crackle-enjoy-free-films-and-series-on-the-web/"><u>Stream Crackle: Enjoy Free Films & Series on the Web!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-unleashing-creativity-with-the-iphone-ios-n-photo-cutout-tool/"><u>The Ultimate Tutorial: Unleashing Creativity with the iPhone (iOS N) Photo Cutout Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-solve-the-missing-wininetdll-a-step-by-step-approach/"><u>Troubleshoot and Solve the Missing 'wininet.dll': A Step-by-Step Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-unresponsive-airpods/"><u>Troubleshooting Guide: Resolving Issues with Unresponsive AirPods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/viewer-allure-identifying-the-most-engaging-video-types/"><u>Viewer Allure Identifying the Most Engaging Video Types</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-sony-vegas-transforms-ordinary-footage-into-youtube-stardom-for-2024/"><u>[New] How Sony Vegas Transforms Ordinary Footage Into YouTube Stardom for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-openplayclip-your-free-pass-to-perfect-gamers-recordings/"><u>[New] OpenPlayClip Your Free Pass to Perfect Gamers' Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-full-potential-of-snapkit-in-business-ads/"><u>[New] Unlock the Full Potential of SnapKit in Business Ads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>2024 Approved Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-x-flip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo X Flip without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722890609819-all-you-need-to-know-about-the-new-google-pixel-timepiece-rumored-features-and-pricing-insights-await/"><u>All You Need to Know About the New Google Pixel Timepiece – Rumored Features and Pricing Insights Await!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/binkw32dll-missing-heres-how-you-can-quickly-resolve-this-common-error/"><u>Binkw32.dll Missing? Here's How You Can Quickly Resolve This Common Error.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/curated-list-by-lifewire-20-essential-films-for-your-immediate-viewing-pleasure-online/"><u>Curated List by Lifewire: 20 Essential Films for Your Immediate Viewing Pleasure Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-distinct-features-of-macs-vs-pcs-unveiling-the-real-contrasts/"><u>Exploring the Distinct Features of Macs Vs. PCs – Unveiling the Real Contrasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-chatgpt-an-in-depth-overview/"><u>Exploring the World of ChatGPT: An In-Depth Overview</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a23-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy A23 5G Phone Without Password?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-screencastifys-screen-capture-feature/"><u>In 2024, Navigating Screencastify's Screen Capture Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-vpns-and-streaming-a-guide-to-remote-control-of-your-samsung-smart-tv/"><u>Mastering VPNs and Streaming: A Guide to Remote Control of Your Samsung Smart TV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-the-notorious-nwstoreexe-error-message/"><u>Step-by-Step Fixes for the Notorious NW_Store.EXE Error Message</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-factors-to-evaluate-prior-to-purchasing-used-or-restored-notebooks/"><u>Top 5 Factors to Evaluate Prior to Purchasing Used or Restored Notebooks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-hidden-or-missing-wi-fi-networks/"><u>Troubleshooting Tips for Hidden or Missing Wi-Fi Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-game-console-network-issues-how-to-tell-if-the-problem-is-universal-or-personal/"><u>Understanding Game Console Network Issues: How to Tell if the Problem Is Universal or Personal</u></a></li>
 </ul></div>
 

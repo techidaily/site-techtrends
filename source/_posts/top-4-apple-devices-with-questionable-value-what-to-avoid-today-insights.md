@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights"
-date: 2024-09-29T16:51:09.189Z
-updated: 2024-10-04T17:17:59.892Z
+date: 2024-10-05T21:41:47.867Z
+updated: 2024-10-09T22:57:58.782Z
 tags:
   - apple
 categories:
@@ -57,20 +57,13 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -80,6 +73,13 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -133,10 +133,16 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
@@ -153,19 +159,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -187,6 +180,13 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -228,18 +228,16 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-get-more-views-with-the-best-youtube-thumbnail-ideas/"><u>[New] Get More Views with the Best YouTube Thumbnail Ideas</u></a></li>
-<li><a href="https://video-capture.techidaily.com/10-best-video-editors-for-webcam-videos-for-2024/"><u>10 Best Video Editors for Webcam Videos for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/boost-gaming-experience-by-upgrading-your-video-card-a-beginners-guide/"><u>Boost Gaming Experience by Upgrading Your Video Card: A Beginner's Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-transform-nef-images-into-bmp-format-with-ease/"><u>Free Online Converter: Transform NEF Images Into BMP Format with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hesaplilasma-daha-kolaylu-olarak-videolerini-movaviye-ayiran-lazimiz-100-guvenli-sozlesiyle-kullanabilir-ve-sonucta-indirimi/"><u>Hesaplılaşma Daha Kolaylu Olarak Video'lerini Movavi'ye Ayıran Lazimiz: 100% Güvenli, Sözlesiyle Kullanabilir Ve Sonuçta Indirimi</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-gameplay-a-sims-4-tutorial/"><u>In 2024, Capturing Gameplay A Sims 4 Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-discord-really-not-working-or-is-the-issue-from-your-end/"><u>Is Discord Really Not Working, or Is the Issue From Your End?</u></a></li>
-<li><a href="https://windows11.techidaily.com/keep-your-disk-space-clear-with-auto-delete-in-win11/"><u>Keep Your Disk Space Clear with Auto-Delete in Win11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-properly-referencing-generative-ai-like-chatgpt-in-your-work/"><u>Step-by-Step Guide: Properly Referencing Generative AI Like ChatGPT in Your Work</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-role-of-free-exchange-in-discovery/"><u>The Role of Free Exchange in Discovery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformation-webp-vers-gif-sans-frais-utilisez-loutil-de-conversion-gratuit-de-movavi-en-ligne/"><u>Transformation WebP Vers GIF Sans Frais : Utilisez L'outil De Conversion Gratuit De Movavi en Ligne</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-facilement-votre-fichier-ts-au-format-wmv-gratuitement-avec-des-convertisseurs-en-ligne-movavi/"><u>Transformez Facilement Votre Fichier Ts Au Format Wmv Gratuitement Avec Des Convertisseurs en Ligne - Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-nano-drones-review-markets-finest-ten/"><u>[New] Nano Drones Review Market's Finest Ten</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chronological-viewing-of-how-to-train-your-dragon-movies-for-an-enhanced-experience/"><u>Chronological Viewing of How to Train Your Dragon Movies for an Enhanced Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-cygwin1dll-is-unavailable-or-absent/"><u>Effective Solutions for When Cygwin1.dll Is Unavailable or Absent</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fiscal-summary-producing-a-music-video-for-2024/"><u>Fiscal Summary Producing a Music Video for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722890290958-get-ready-for-macos-15-sequoia-coming-soon-with-exciting-new-features/"><u>Get Ready for MacOS 15 Sequoia: Coming Soon with Exciting New Features!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-how-to-manually-silence-or-restore-sounds-on-an-iphone-without-the-physical-switch/"><u>Guide: How To Manually Silence or Restore Sounds On An iPhone Without The Physical Switch</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>In 2024, A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-with-manycam-the-ultimate-virtual-camera-and-video-effects-tool/"><u>Live Streaming with ManyCam: The Ultimate Virtual Camera and Video Effects Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fix-wininetdll-not-found-errors/"><u>Step-by-Step Guide to Fix 'wininet.dll Not Found' Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-no-call-response-on-your-samsung-galaxy-watch-tips-and-solutions/"><u>Troubleshooting No-Call Response on Your Samsung Galaxy Watch – Tips & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-quick-fixes-to-resolve-mortal-kombat-11-stability-errors/"><u>Troubleshooting Quick-Fixes to Resolve Mortal Kombat 11 Stability Errors</u></a></li>
 </ul></div>
 

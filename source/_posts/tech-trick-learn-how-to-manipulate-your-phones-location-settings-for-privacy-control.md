@@ -1,7 +1,7 @@
 ---
 title: "Tech Trick: Learn How to Manipulate Your Phone's Location Settings for Privacy Control"
-date: 2024-09-16T03:35:26.931Z
-updated: 2024-09-18T00:13:34.958Z
+date: 2024-10-06T18:35:48.445Z
+updated: 2024-10-09T16:09:56.107Z
 categories:
   - BestProducts
 description: "This Article Describes Tech Trick: Learn How to Manipulate Your Phone's Location Settings for Privacy Control"
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -32,8 +39,24 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
@@ -52,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which PS5 Games Support 120 FPS?
@@ -102,5 +125,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-leveraging-content-marketing-for-more-views-and-subscribers/"><u>[New] 2024 Approved Leveraging Content Marketing for More Views and Subscribers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pioneering-mobile-applications-for-altered-vocal-output-for-2024/"><u>[Updated] Pioneering Mobile Applications for Altered Vocal Output for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-seven-key-factors-driving-apple-vision-pros-popularity-on-reddit-revealed-in-a-new-zdnet-analysis/"><u>Discover the Seven Key Factors Driving Apple Vision Pro's Popularity on Reddit, Revealed in a New ZDNet Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-framework-for-exceptional-ppt-video-documentation/"><u>In 2024, The Framework for Exceptional PPT Video Documentation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/june-2n-2024s-ultimate-discounts-at-best-buy-featured-by-zdnet/"><u>June 2N, 2024'S Ultimate Discounts at Best Buy Featured by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-t-mobiles-intra-network-roaming-policies-for-seamless-connectivity/"><u>Navigating T-Mobile's Intra-Network Roaming Policies for Seamless Connectivity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nspr4dll-missing-or-mia-resolving-common-issues-efficiently/"><u>Nspr4.dll Missing or MIA: Resolving Common Issues Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-guide-activating-hyper-v-in-windows-11/"><u>Step-by-Step Guide: Activating Hyper-V in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-playtime-select-20-mobile-games-to-enjoy-on-android-and-iphone/"><u>Swift Playtime: Select 20 Mobile Games to Enjoy on Android and iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1727787558106-top-rated-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smartwatches : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-twitch-interruptions-distinguishing-between-platform-issues-and-user-side-problems/"><u>Understanding Twitch Interruptions: Distinguishing Between Platform Issues and User-Side Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+</ul></div>
 

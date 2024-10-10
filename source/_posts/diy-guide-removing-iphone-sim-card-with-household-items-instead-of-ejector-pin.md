@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Removing iPhone SIM Card with Household Items Instead of Ejector Pin"
-date: 2024-09-15T16:36:38.700Z
-updated: 2024-09-17T21:46:32.706Z
+date: 2024-10-07T18:32:23.138Z
+updated: 2024-10-09T21:06:51.195Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Guide: Removing iPhone SIM Card with Household Items Instead of Ejector Pin"
@@ -38,7 +38,27 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 6. All of the photos in the album are displayed here. Depending on the settings of the album, you may be able to add your own photos to it by tapping the**\+ (Plus)** sign.  
 ![iPhone Shared Album with album name and "add" highlighted](https://www.lifewire.com/thmb/JdOT4mhtqybWV8lem-ocSCTWK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharedalbums-e918328c14cb40f381fe193804936cf1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Leave a Shared Photo Album on iPhone
 
@@ -50,8 +70,23 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 4. Tap the person icon (or**...** \>**Shared Album Details** ).  
 ![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
 5. Tap**Unsubscribe** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In the confirmation pop-up, tap**Unsubscribe** .  
 ![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .
 
@@ -93,12 +128,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-minicam-project-scrutiny-overview/"><u>[New] 2024 Approved MiniCam Project Scrutiny Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-budget-friendly-hd-video-capturing-for-home-studios/"><u>[New] Budget-Friendly HD Video Capturing for Home Studios</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-ignite-your-creative-spark-scriptwriting-tips-for-youtube-mastery/"><u>[New] In 2024, Ignite Your Creative Spark Scriptwriting Tips for YouTube Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/airpods-evolution-a-comparison-between-airpods-pro-2023-models-released-by-apple-in-depth-analysis/"><u>AirPods Evolution: A Comparison Between AirPods Pro 2023 Models Released by Apple | In-Depth Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-work-and-wanderlust-discover-the-top-3-breakthrough-enhancements-in-our-favored-xr-headsets-insiders-guide-techzdnet/"><u>Boost Your Work & Wanderlust: Discover the Top 3 Breakthrough Enhancements in Our Favored XR Headsets - Insider's Guide | TechZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-apples-unconventional-choice-no-exclamation-marks-on-their-site-insights-revealed/"><u>Discovering Apple's Unconventional Choice: No Exclamation Marks on Their Site - Insights Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-artisan-1430-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download Epson Artisan 1430 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-gaming-wheel-g29-driving-force-software-compatible-with-windows-10-11-and-7/"><u>Download Logitech Gaming Wheel G29 Driving Force Software Compatible with Windows 10, 11 & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enlisted-playstation-vr2-game-catalog-exhaustive-compilation-of-officially-disclosed-offerings/"><u>Enlisted PlayStation VR2 Game Catalog: Exhaustive Compilation of Officially Disclosed Offerings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>In 2024, The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-apple-vision-pro-launch-pricing-breakdown-feature-highlights-and-detailed-analysis-zdnet-insights/"><u>Inside the Apple Vision Pro Launch: Pricing Breakdown, Feature Highlights, and Detailed Analysis | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/live-google-meet-on-youtube-streaming-tutorial-for-beginners/"><u>Live Google Meet on YouTube – Streaming Tutorial for Beginners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-lifesaving-message-alert-system-coming-to-your-iphone-in-ios-18-update-non-ai-technology-revealed/"><u>New Lifesaving Message Alert System Coming to Your iPhone in iOS 18 Update - Non-AI Technology Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rapid-repairs-for-broken-emoji-suggestions-in-ios-devices-7-steps-revealed/"><u>Rapid Repairs for Broken Emoji Suggestions in iOS Devices - 7 Steps Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-removing-factory-installed-apps-on-an-iphone-device/"><u>Steps for Removing Factory Installed Apps on an iPhone Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranked-macos-software-a-comprehensive-guide/"><u>Top-Ranked macOS Software : A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-exploring-ai-face-generators/"><u>Updated Exploring AI Face Generators</u></a></li>
+</ul></div>
 

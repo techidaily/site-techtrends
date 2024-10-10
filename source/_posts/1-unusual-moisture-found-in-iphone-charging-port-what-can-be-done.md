@@ -1,7 +1,7 @@
 ---
 title: "1. Unusual Moisture Found in iPhone Charging Port: What Can Be Done?"
-date: 2024-10-02T16:34:26.198Z
-updated: 2024-10-04T16:02:42.708Z
+date: 2024-10-06T21:19:27.411Z
+updated: 2024-10-09T22:46:29.425Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,6 +42,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,31 +58,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -91,6 +78,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -98,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,24 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/15-best-windows-11-themes-to-download-for-free/"><u>15 Best Windows 11 Themes to Download for Free</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-video-acquisition-top-10-vimeo-downloader-software/"><u>2024 Approved Mastering Video Acquisition Top 10 Vimeo Downloader Software</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-transform-subtitles-quickly-best-8-converters-from-sub-to-streamlined-srtr/"><u>2024 Approved Transform Subtitles Quickly! Best 8 Converters From SUB to Streamlined SRTR</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-movie-watching-10-options-similar-to-netflix-without-the-fee/"><u>Affordable Movie Watching: 10 Options Similar to Netflix Without the Fee</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-nordce-by-oneplus-what-we-know-so-far-on-price-point-release-plans-and-tech-specs/"><u>All About the Upcoming NordCE by OnePlus: What We Know So Far on Price Point, Release Plans and Tech Specs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminating-bing-copilot-assistance-in-windows-11-expert-uninstall-guide/"><u>Eliminating Bing Copilot Assistance in Windows 11 – Expert Uninstall Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fun-toys-or-future-pros-selecting-the-best-gaming-systems-for-kids/"><u>Fun Toys or Future Pros? Selecting the Best Gaming Systems for Kids</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-silencing-urgent-safety-warnings-amber-alerts-on-your-android-phone/"><u>Guide to Silencing Urgent Safety Warnings (AMBER Alerts) on Your Android Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-cod-black-ops-cold-war-issue-with-error-80070057/"><u>How to Overcome the Cod: Black Ops Cold War Issue with Error 80070057</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Phone without Google Account?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-crafting-compelling-examples-podcast-summaries/"><u>In 2024, Crafting Compelling Examples Podcast Summaries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-iphones-emoji-keyboard-a-comprehensive-guide/"><u>Mastering iPhone's Emoji Keyboard: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-comprehensive-solution-for-doom-eternal-continuous-crashing/"><u>The Comprehensive Solution for DOOM Eternal Continuous Crashing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-opening-rar-formats-on-a-mac-computer/"><u>The Ultimate Walkthrough for Opening RAR Formats on a Mac Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-essential-steps-after-setting-up-your-brand-new-pc/"><u>Top 5 Essential Steps After Setting Up Your Brand-New PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-8-essential-tips-for-maintaining-optimal-performance-on-your-mobile-device/"><u>Top 8 Essential Tips for Maintaining Optimal Performance on Your Mobile Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-the-issue-of-a-missing-wi-fi-network/"><u>Troubleshooting Steps: Resolving the Issue of a Missing Wi-Fi Network</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unplugging-from-fbs-invasive-video-commercials-for-2024/"><u>Unplugging From FB's Invasive Video Commercials for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[New] 2024 Approved Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-how-to-watch-vr-video-on-iphone-ios/"><u>[New] In 2024, How to Watch VR Video on Iphone (Ios)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-cycling-sims-worth-your-time-for-2024/"><u>[New] Top Cycling Sims Worth Your Time for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-spotlight-on-figure-skaters-2022-edition/"><u>[Updated] 2024 Approved Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginning-on-the-social-network-formerly-known-as-twitter-a-comprehensive-tutorial/"><u>Beginning on the Social Network Formerly Known as Twitter: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bluetooth-synergy-how-to-integrate-and-use-several-speakers-with-just-one-device/"><u>Bluetooth Synergy: How to Integrate and Use Several Speakers with Just One Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/demystifying-instagram-selfies-a-comprehensive-guide/"><u>Demystifying Instagram Selfies A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-maxs-top-entertainment-lineup-for-today/"><u>Discover MAX's Top Entertainment Lineup for Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-use-of-your-logitech-g510-mouse-on-windows-download-drivers-for-win7-win8-and-win10/"><u>Ensure Seamless Use of Your Logitech G510 Mouse on Windows - Download Drivers for Win7, Win8 & Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-blue-screen-of-death-handling-halinitializationfailed-error-code-0x00000n5c/"><u>Fixing the Blue Screen of Death: Handling HAL_INITIALIZATION_FAILED Error Code 0X00000n5c</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/joyful-views-essential-15-comical-youtubers-to-relax-with-for-2024/"><u>Joyful Views Essential 15 Comical YouTubers to Relax With for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-background-removal-in-figma-step-by-step-tutorial/"><u>Mastering Background Removal in Figma Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/netgear-secure-setup-essential-default-password-information-july-2024-release/"><u>NETGEAR Secure Setup: Essential Default Password Information - July 2024 Release</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-home-theater-choosing-the-right-3d-blu-ray-devices-for-2024/"><u>Optimal Home Theater Choosing the Right 3D Blu-Ray Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rethink-your-inbox-explore-the-best-non-gmail-email-services/"><u>Rethink Your Inbox: Explore the Best Non-Gmail Email Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-solving-the-problem-of-non-typing-keys-on-your-keyboard/"><u>Step-by-Step Guide: Solving the Problem of Non-Typing Keys on Your Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-tutorial-on-uploading-several-pictures-simultaneously-on-facebook/"><u>The Complete Tutorial on Uploading Several Pictures Simultaneously on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/time-travel-in-your-browser-mastering-the-wayback-machine-for-historical-web-pages/"><u>Time Travel in Your Browser: Mastering the Wayback Machine for Historical Web Pages</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
 </ul></div>
 

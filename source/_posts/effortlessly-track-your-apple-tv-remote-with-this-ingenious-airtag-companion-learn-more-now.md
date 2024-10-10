@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Track Your Apple TV Remote with This Ingenious AirTag Companion - Learn More Now!
-date: 2024-09-28T16:43:45.584Z
-updated: 2024-10-04T16:56:13.270Z
+date: 2024-10-08T00:49:21.052Z
+updated: 2024-10-09T22:54:00.796Z
 tags:
   - apple
 categories:
@@ -40,6 +40,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -63,10 +70,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -74,6 +87,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -84,13 +104,6 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -106,13 +119,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -120,10 +126,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,22 +168,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-write-dialogue-or-narrative-script/"><u>[Updated] How to Write Dialogue or Narrative Script</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimized-introduction-video-tips-the-best-16-to-increase-views-for-2024/"><u>[Updated] Optimized Introduction Video Tips The Best 16 to Increase Views for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726218984999-movavi/"><u>簡単な手順で動画に自由形式の字幕を追加：Movavi・モバビ使い方【字幕編集】</u></a></li>
-<li><a href="https://techtrends.techidaily.com/webmp4-movavi/"><u>無償で簡単にWEBムービーMP4へのリマスター - Movaviプロ</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-impact-on-the-landscape-of-creative-industries/"><u>AI's Impact on the Landscape of Creative Industries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprendre-le-programme-daffiliation-de-movavi-pour-reussir-en-marketing-daffiliation/"><u>Comprendre Le Programme D'Affiliation De Movavi Pour Réussir en Marketing D'Affiliation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-dun-fichier-aiff-vers-un-format-flac-gratuite-avec-movavi/"><u>Conversion D'un Fichier AIFF Vers Un Format FLAC Gratuite - Avec Movavi</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-7-plusipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 7 Plus/iPad? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-note-50-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme Note 50 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-professional-looking-colors-in-gopro-editing/"><u>In 2024, The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instant-mp4aac-audio-to-video-convert-get-your-m4v-file-without-spending-a-penny/"><u>Instant MP4/AAC Audio-to-Video Convert: Get Your M4V File Without Spending a Penny</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ogg-mp4/"><u>OGG 영상을 MP4로 쉽게 대화형 변환하는 오토바이오 – 제네릭</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uskok-bezplatneho-editora-pro-avi-pro-s-prikladmi-v-windows-1087-a-macos/"><u>Úskok Bezplatného Editora Pro AVI Pro S Příkladmi v Windows 10/8/7 a macOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/visionary-studio-teasers-for-2024/"><u>Visionary Studio Teasers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726219476854-wavmp3-movavi/"><u>オンラインでも簡単な無料WAVファイルをMP3に変換 - Movavi</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-securing-your-scene-camera-shake-solutions/"><u>2024 Approved Securing Your Scene Camera Shake Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/collective-wisdom-on-easeus-products/"><u>Collective Wisdom on EaseUS Products</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-solution-to-address-the-advcntr2dll-not-detected-problem-in-nero-programs/"><u>Complete Solution to Address the Advcntr2.dll Not Detected Problem in Nero Programs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tactics-for-a-solo-podcast-craze/"><u>Essential Tactics for a Solo Podcast Craze</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-the-right-channel-contacting-snapchat-customer-service-efficiently/"><u>Finding the Right Channel: Contacting Snapchat Customer Service Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-issues-resolving-borderlands-3-audio-problems-on-windows/"><u>Fixing Silent Issues: Resolving Borderlands 3 Audio Problems on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-integrating-audio-into-your-instagram-videos-with-ease/"><u>Guide: Integrating Audio Into Your Instagram Videos with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-normalizdll-not-found-or-missing-errors/"><u>How to Fix Normaliz.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-revolutionizing-communication-with-gadgets-an-examination-of-vocal-alterations-and-beyond/"><u>New Revolutionizing Communication with Gadgets An Examination of Vocal Alterations and Beyond</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-f5-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-diagnosing-and-repairing-your-pcs-deafening-cooling-unit/"><u>The Ultimate Guide to Diagnosing & Repairing Your PC's Deafening Cooling Unit</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-8s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nubia Red Magic 8S Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-do-the-different-lights-on-a-ps4-controller-mean/"><u>What Do the Different Lights on a PS4 Controller Mean?</u></a></li>
 </ul></div>
 

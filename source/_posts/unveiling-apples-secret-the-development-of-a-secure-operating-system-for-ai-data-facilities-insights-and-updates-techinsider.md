@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Secret: The Development of a Secure Operating System for AI Data Facilities – Insights and Updates | TechInsider"
-date: 2024-09-27T16:57:15.456Z
-updated: 2024-10-04T16:17:43.332Z
+date: 2024-10-02T18:07:33.525Z
+updated: 2024-10-10T00:58:37.604Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -56,16 +49,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -76,6 +63,13 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -84,31 +78,11 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -119,6 +93,19 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -137,6 +124,13 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -191,16 +185,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fix-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] In 2024, Fix “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-tips-for-easy-snapchat-screen-captures-on-phones/"><u>2024 Approved Quick Tips for Easy Snapchat Screen Captures on Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Note 30.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-netgear-amped-usb-ac1200-driver/"><u>Download Netgear Amped USB AC1200 Driver</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expertens-tips-pa-bildskifte-fran-fotogram-till-videoavsnitt-schau-wie-bilder-digitalisiert-und-integriert-werden/"><u>Expertens Tips På Bildskifte Från Fotogram Till Videoavsnitt - Schau, Wie Bilder Digitalisiert Und Integriert Werden!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-mp3-to-mp4-conversion-movavi/"><u>Free Online MP3 to MP4 Conversion - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-pratique-nettoyer-les-distorsions-en-forme-de-champignon-sur-vos-videos-gopro-via-movavi-corrector/"><u>Guide Pratique: Nettoyer Les Distorsions en Forme De Champignon Sur Vos Vidéos GoPro via Movavi Corrector</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-prime-cardboard-compatible-vr-adventures/"><u>In 2024, Explore Prime Cardboard-Compatible VR Adventures</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-snapchats-highlighted-stories-for-2024/"><u>Mastering Snapchat's Highlighted Stories for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-vervanging-dpx-met-gif-gratis-service-door-movavi-dpg-naar-gif-makkelijk-en-efficient/"><u>Online Vervanging DPX Met GIF - Gratis Service Door Movavi - DPG Naar GIF, Makkelijk en Efficiënt</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/streamlined-steps-for-preserving-vimeo-recordings/"><u>Streamlined Steps for Preserving Vimeo Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-remedying-pauses-in-online-video-sessions-fb-for-2024/"><u>[New] Remedying Pauses in Online Video Sessions (FB) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-essential-fixes-for-disconnected-fb-live-feeds/"><u>[Updated] Essential Fixes for Disconnected FB Live Feeds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-into-the-code-labyrinastr-facebooks-message-extraction-guide/"><u>[Updated] In 2024, Into the Code Labyrinastr - Facebook's Message Extraction Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-vlc-media-player-for-remote-streaming/"><u>2024 Approved Leveraging VLC Media Player for Remote Streaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-reno-11f-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo Reno 11F 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-essential-strategies-enhancing-wellness-with-chatgpt/"><u>9 Essential Strategies: Enhancing Wellness with ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865539892-discover-the-best-iphone-gps-trackers-our-top-picks/"><u>Discover the Best iPhone GPS Trackers: Our Top Picks!</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-suggestion-system-what-it-means-for-you/"><u>Facebook’s Suggestion System: What It Means for You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-achieve-precise-cursor-movement-by-disabling-acceleration-in-macos-systems/"><u>How to Achieve Precise Cursor Movement by Disabling Acceleration in macOS Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-recovery-effective-strategies-to-correct-a-504-timeout-error/"><u>Mastering Recovery: Effective Strategies to Correct a 504 Timeout Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-process-of-dispatching-steam-presents-online/"><u>Navigating the Process of Dispatching Steam Presents Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solution-strategies-for-eliminating-straight-line-distortions-on-desktop-displays/"><u>Solution Strategies for Eliminating Straight Line Distortions on Desktop Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-step-by-step-approach-to-resolve-missing-x3daudiodll-errors/"><u>The Step-by-Step Approach to Resolve Missing X3DAudio.DLL Errors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-3-best-4k8k-video-editing-software-2024-top-list/"><u>Updated 3 Best 4K/8K Video Editing Software 2024 Top List</u></a></li>
 </ul></div>
 

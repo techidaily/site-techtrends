@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16 & Pro Case Selection - Expert Opinions and Ratings | ZDNet
-date: 2024-10-03T16:59:48.755Z
-updated: 2024-10-04T16:30:06.598Z
+date: 2024-10-05T17:45:26.051Z
+updated: 2024-10-09T17:25:17.884Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ Pros
 Cons 
 * Slightly pricey
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pela case
 
 ### Best iPhone 12 case overall
@@ -66,20 +73,13 @@ Pros
 Cons 
 * Pricier
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Silicone Case with MagSafe
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best MagSafe iPhone 12 case
@@ -131,14 +131,14 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
-## Casetify cases
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Casetify cases
 
 ### Best customizable iPhone 12 case
 
@@ -162,13 +162,20 @@ Cons
 * May still yellow over time
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ESR Air Armor
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best clear iPhone 12 case
 
@@ -218,16 +225,10 @@ Cons
 * May show scratches easily
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Nomad Rugged case
@@ -283,13 +284,6 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Totallee case
 
 ### Best slim iPhone 12 case
@@ -333,10 +327,10 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What should I look for in an iPhone case?
@@ -351,13 +345,6 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 ## Does wireless charging work with a case?
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which case is best for iPhone 12?
 
@@ -374,6 +361,13 @@ The Pela case is made out of non-toxic materials and has been tested for safety.
 ## Do you need a case for iPhone 12?
 
 Apple markets the iPhone 12 as durable enough to handle tough use. However, if you want to avoid scratches and cracks, you need a case. The iPhone is slick, which means it's easy to drop. You can survive without a case, but if you want to keep your iPhone in the best shape possible, you should go with a case.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative iPhone 12 cases worth considering?
 
@@ -415,16 +409,20 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-projector-or-tv-optimal-choice-for-excellent-4k-display-experience-for-2024/"><u>[New] Projector or TV Optimal Choice for Excellent 4K Display Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-duality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos-for-2024/"><u>[Updated] Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-next-big-thing-speculation-and-gossip-about-pricing-release-date-and-specs/"><u>Apple's Next Big Thing: Speculation and Gossip About Pricing, Release Date & Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clarifying-connection-principles-a-deep-dive-into-net-neutrality-concepts/"><u>Clarifying Connection Principles: A Deep Dive Into Net Neutrality Concepts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-twitch-accessibility-is-there-a-platform-disruption/"><u>Deciphering Twitch Accessibility: Is There a Platform Disruption?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/du-tar-sig-till-nyaktende-bakgrunden-en-guidensvarande-lardom-om-att-forandra-ditt-vokalrum-med-en-videosakerare/"><u>Du Tar Sig Till Nyaktende Bakgrunden: En Guidensvarande Lärdom Om Att Förändra Ditt Vokalrum Med En Videosäkerare</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-fix-d3dx933dll-is-missing-error-on-your-pc/"><u>Guide to Fix 'd3dx9_33.dll Is Missing Error' On Your PC</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-shorts-a-guide-to-music-videos/"><u>In 2024, Mastering YouTube Shorts A Guide to Music Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/leveraging-youtubes-features-to-improve-visuals/"><u>Leveraging YouTube's Features to Improve Visuals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-user32dll-is-missing-dilemma-a-comprehensive-guide/"><u>Solving the 'User32.dll Is Missing' Dilemma: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-process-precision-recording-of-roblox-adventures-on-apple-devices-for-2024/"><u>Unveiling the Process Precision Recording of Roblox Adventures on Apple Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom/"><u>[New] Shatter the Status Quo with These Instagram #9 Methods for Stardom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-vlc-recordings-tips-and-tricks/"><u>[Updated] In 2024, VLC Recordings Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-autonomous-vehicle-latest-updates-pricing-insights-and-expected-launch-details/"><u>Apple's Autonomous Vehicle: Latest Updates, Pricing Insights & Expected Launch Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-overcoming-the-challenge-of-non-existent-gl32dll-in-open-graphics/"><u>Comprehensive Tips: Overcoming the Challenge of Non-Existent GL32.dll in Open Graphics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-pros-and-cons-of-lenovos-budget-android-tab-4/"><u>Exploring the Pros & Cons of Lenovo's Budget Android Tab 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-rapida-como-hacer-que-tu-contenido-de-video-sea-mas-compartible-en-facebook-al-disminuir-su-tamano/"><u>Guía Rápida: Cómo Hacer Que Tu Contenido De Video Sea Más Compartible en Facebook Al Disminuir Su Tamaño</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-14-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi 14 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-exploring-significance-and-usage-of-a-blue-emoji-on-messenger/"><u>In 2024, Exploring Significance and Usage of a Blue Emoji on Messenger</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-avi-media-reader-superior-on-every-platform/"><u>In 2024, Prime Avi Media Reader - Superior on Every Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-server-rack-solutions-the-2024-market-overview/"><u>Leading Server Rack Solutions: The 2024 Market Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-to-streaming-here-are-the-most-puzzling-twitch-chat-trends-explained/"><u>New to Streaming? Here Are the Most Puzzling Twitch Chat Trends Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-understanding-various-ipados-releases/"><u>Step-by-Step Guide to Understanding Various iPadOS Releases</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-issues-with-unopenable-microsoft-word-documents/"><u>Troubleshooting Tips: Solving Issues with Unopenable Microsoft Word Documents</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-behind-biometric-systems-and-their-functionality/"><u>Unveiling the Secrets Behind Biometric Systems and Their Functionality</u></a></li>
 </ul></div>
 

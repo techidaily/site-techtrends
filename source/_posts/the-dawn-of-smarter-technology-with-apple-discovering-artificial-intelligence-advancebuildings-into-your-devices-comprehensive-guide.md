@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices Comprehensive Guide"
-date: 2024-10-02T16:08:08.896Z
-updated: 2024-10-04T16:58:28.341Z
+date: 2024-10-05T17:48:03.649Z
+updated: 2024-10-09T17:41:19.188Z
 tags:
   - apple
 categories:
@@ -35,6 +35,13 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -71,6 +78,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -84,16 +98,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -133,10 +141,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -155,13 +163,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -176,13 +177,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,16 +218,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-computing-select-the-optimal-device-for-video-editing-for-2024/"><u>[Updated] Cutting Edge Computing Select the Optimal Device for Video Editing for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-innovative-posting-add-youtube-to-your-insta-narratives/"><u>2024 Approved Innovative Posting Add YouTube to Your Insta Narratives</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cross-platform-comedy-best-meme-contenders-for-2024/"><u>Cross-Platform Comedy Best Meme Contenders for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/edu-tech-essentials-the-definitive-guide-to-selecting-a-school-friendly-pc/"><u>Edu-Tech Essentials: The Definitive Guide to Selecting a School-Friendly PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-note-13-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi Note 13 5G Through Google Earth?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-instant-methods-for-jumbled-youtube-queue-management/"><u>In 2024, Instant Methods for Jumbled YouTube Queue Management</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-missing-dbghelpdll-file-a-comprehensive-guide/"><u>Resolving 'Missing dBghelp.dll' File: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722898622458-solve-common-issues-by-learning-how-to-factory-reset-your-samsung-tv-model/"><u>Solve Common Issues by Learning How to Factory Reset Your Samsung TV Model</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-failed-texture-loads-in-activisions-battle-royale-game/"><u>Troubleshooting Failed Texture Loads in Activision's Battle Royale Game</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-connecting-your-device-with-chromecast-using-the-remote/"><u>Ultimate Guide: Connecting Your Device with Chromecast Using the Remote</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tips-to-get-back-deleted-messages-on-any-mobile-phone/"><u>Ultimate Tips to Get Back Deleted Messages on Any Mobile Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-jokes-just-a-click-away-iphone-for-2024/"><u>[Updated] Jokes Just a Click Away (iPhone) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>[Updated] Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-maximize-your-mobile-experience-streaming-ultra-hd-content-from-youtube-on-iphone-and-ipad/"><u>1. Maximize Your Mobile Experience: Streaming Ultra HD Content From YouTube on iPhone and iPad</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages-for-2024/"><u>Chuckling and Crying on the Same IG Feed Top Memetic Pages for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-you-can-monitor-post-distribution-across-facebook-networks/"><u>Discover How You Can Monitor Post Distribution Across Facebook Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/do-it-yourself-simple-effective-strategies-for-refreshing-home-audio-peripherals/"><u>Do It Yourself: Simple, Effective Strategies for Refreshing Home Audio Peripherals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-install-the-latest-version-of-zoom-for-desktop-users/"><u>Easy Steps to Install the Latest Version of Zoom for Desktop Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-gpio-device-driver-instant-access/"><u>Get the Latest AMD GPIO Device Driver – Instant Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-false-friends-on-social-media/"><u>Identifying Inauthentic Connections: A Guide to Recognizing False Friends on Social Media</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-drivers-free-download-for-windows-10-users/"><u>Latest Intel USB 3.0 Drivers - Free Download for Windows 10 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-physical-remote-heres-how-you-still-control-your-roku-tv/"><u>No Physical Remote? Here's How You Still Control Your Roku TV!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rescuing-your-soaked-ios-device-expert-tips-and-tricks/"><u>Rescuing Your Soaked iOS Device: Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolved-how-to-overcome-the-steam-locked-content-file-error-efficiently/"><u>Resolved! How to Overcome the Steam 'Locked Content File' Error Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-d3dx930dll-file-not-present-issues-on-your-pc/"><u>Resolving d3dx9_30.dll File Not Present Issues on Your PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-big-on-youtube-how-much-do-ad-revenues-add-up-in-2024/"><u>Scoring Big on YouTube How Much Do Ad Revenues Add Up, In 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-des-10-applications-de-conversion-video-sans-frais-sur-windows-10-selection-officielle-pour-lannee-2023/"><u>Top Des 10 Applications De Conversion Vidéo Sans Frais Sur Windows 10 - Sélection Officielle Pour L'année 2023</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-factory-reset-your-pcs-bios/"><u>Ultimate Guide: Steps to Factory Reset Your PC's BIOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-10-03T16:59:05.920Z
-updated: 2024-10-04T16:31:26.217Z
+date: 2024-10-03T17:03:50.440Z
+updated: 2024-10-09T22:43:09.629Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -87,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +123,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -165,6 +158,13 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,20 +218,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-close-encounters-experiencing-roblox-at-greater-detail-for-2024/"><u>[New] Close Encounters Experiencing Roblox At Greater Detail for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transforming-live-interactions-into-captivating-content/"><u>2024 Approved Transforming Live Interactions Into Captivating Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/compatibility-check-connecting-apple-airpods-to-nintendo-switch-for-gaming-sessions/"><u>Compatibility Check: Connecting Apple AirPods to Nintendo Switch for Gaming Sessions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-10-no-cost-substitutes-for-netflix-viewing/"><u>Discover 10 No-Cost Substitutes for Netflix Viewing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-instagram-engagement-with-fun-and-creative-gif-responses/"><u>Enhance Your Instagram Engagement with Fun and Creative GIF Responses</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-magic-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Magic 5</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-earnings-via-sponsored-youtube-videos/"><u>Mastering Earnings via Sponsored YouTube Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-stalling-solutions-for-when-call-of-duty-modern-warfare-freezes-on-your-desktop/"><u>No More Stalling - Solutions for When 'Call of Duty: Modern Warfare' Freezes on Your Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-wireless-connectivity-problems-10-steps-for-a-smooth-signal/"><u>Overcoming Wireless Connectivity Problems: 10 Steps for a Smooth Signal</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-siris-missing-pop-up-tips-a-step-by-step-guide-for-iphone-owners/"><u>Reviving Siri's Missing Pop-Up Tips: A Step-by-Step Guide for iPhone Owners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-forcing-a-windows-reboot-into-safe-mode/"><u>Step-by-Step Guide: Forcing a Windows Reboot Into Safe Mode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-phase0exception-error-stopcode-0x00000078/"><u>Ultimate Guide: Resolving PHASE0_EXCEPTION Error - StopCode 0X00000078</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-x6-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco X6 Pro Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/which-handheld-device-matches-your-lifestyle-iphone-versus-android-explored/"><u>Which Handheld Device Matches Your Lifestyle? IPhone Versus Android Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-aerial-duels-unleashed-dji-spark-vs-gopro-black-session/"><u>[New] Aerial Duels Unleashed DJi Spark vs GoPro Black Session</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-attracting-more-youtube-admirers/"><u>2024 Approved Mastering the Art of Attracting More YouTube Admirers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-your-inbox-strategies-for-locating-and-restoring-lost-correspondence-on-google-mail/"><u>Ace Your Inbox: Strategies for Locating and Restoring Lost Correspondence on Google Mail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-our-choice-selection-of-lgbt-cinema-hits-available-on-netflix-in-july-2024/"><u>Discover Our Choice Selection of LGBT Cinema Hits Available on Netflix in July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-guide-resolving-no-sound-issues-with-audio-amplifiers/"><u>Expert Guide: Resolving No-Sound Issues with Audio Amplifiers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-ussd-work-demystifying-unstructured-supplementary-service-code/"><u>How Does USSD Work? Demystifying Unstructured Supplementary Service Code</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12plus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12+ 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-streamlining-your-online-impact-with-correct-fb-video-dimensions/"><u>In 2024, Streamlining Your Online Impact with Correct FB Video Dimensions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-fourteen-full-frame-photography-devices/"><u>Leading Fourteen Full Frame Photography Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/lenovos-new-international-release-yoga-portal-ai-with-a-compact-37l-design-and-integrated-14th-gen-intel-desktops/"><u>Lenovo's New International Release: Yoga Portal AI with a Compact 3.7L Design & Integrated 14Th Gen Intel Desktops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/locked-out-of-facebook-bypass-the-blockade-with-a-phone-less-email-free-password-reset/"><u>Locked Out of Facebook? Bypass the Blockade with a Phone-Less, Email-Free Password Reset!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-jvmdll-is-nowhere-to-be-found-on-windows-systems/"><u>Quick Fixes for When jvm.dll Is Nowhere to Be Found on Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-have-fitness-tracking-apps/"><u>Top 10 Must-Have Fitness Tracking Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-premiere-pro-system-essentials-what-you-need-to-know-before-you-start/"><u>Updated Premiere Pro System Essentials What You Need to Know Before You Start</u></a></li>
 </ul></div>
 

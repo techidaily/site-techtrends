@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Roundup: Apple Unveils New Lineup with Mini LED iPad Pro and Enhanced Apple Pencil | ZDNet"
-date: 2024-09-30T16:27:35.494Z
-updated: 2024-10-04T16:26:25.733Z
+date: 2024-10-06T22:31:30.993Z
+updated: 2024-10-09T21:51:45.455Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -59,6 +52,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -76,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -109,10 +109,10 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -128,10 +128,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,20 +168,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[New] 2024 Approved Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-constructing-coherent-cinematic-introductions/"><u>[New] Constructing Coherent Cinematic Introductions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-key-to-youtube-stardom-reaching-submillion-status/"><u>[New] The Key to YouTube Stardom Reaching Submillion Status</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-fundamentals-of-lut-implementation-in-after-effects/"><u>[Updated] The Fundamentals of LUT Implementation in After Effects</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-children-5-steps-toward-a-secure-digital-journey/"><u>ChatGPT and Children: 5 Steps Toward a Secure Digital Journey</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-elite-echelon-of-cyberspace-ranking-the-most-iconic-and-popular-online-destinations/"><u>Explore the Elite Echelon of Cyberspace: Ranking the Most Iconic and Popular Online Destinations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-disconnected-display-problems-with-xbox-one/"><u>How to Resolve Disconnected Display Problems with Xbox One</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-long-exposure-iphone-shots-step-by-step-guide/"><u>In 2024, Long-Exposure iPhone Shots Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pondering-the-value-of-intensified-luminosity-in-hdr/"><u>Pondering the Value of Intensified Luminosity in HDR</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-issues-with-unopenable-microsoft-word-documents-expert-tips-and-tricks/"><u>Solving Issues with Unopenable Microsoft Word Documents: Expert Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-first-5-things-you-should-do-with-your-new-computer/"><u>The First 5 Things You Should Do With Your New Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-essential-mobile-apps-every-teen-needs-in-high-school/"><u>Top 10 Essential Mobile Apps Every Teen Needs in High School</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-new-horizons-in-technology-the-toms-hardware-way/"><u>Unveiling New Horizons in Technology - The Tom's Hardware Way</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wondering-about-chatgpt-plus-discover-the-5-compelling-reasons-to-subscribe-now/"><u>Wondering About ChatGPT Plus? Discover the 5 Compelling Reasons to Subscribe Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722089553304-worth-investing-in-auto-gpt-before-gpt-4-arrives-lets-compare/"><u>Worth Investing in Auto-GPT Before GPT-4 Arrives? Let's Compare</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-fading-to-flourishing-top-strategies-for-overcoming-zero-views/"><u>[New] 2024 Approved From Fading to Flourishing Top Strategies for Overcoming Zero Views</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nfographic-mind-numbing-youtube-factsfigures-and-statistics-for-2024/"><u>[New] Infographic - Mind Numbing YouTube Facts,Figures and Statistics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revolutionize-your-gaming-by-recording-on-win10/"><u>2024 Approved Revolutionize Your Gaming by Recording on Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-innovative-residential-robot-projections-for-release-date-pricing-range-and-comprehensive-specs-overview/"><u>Apple's Innovative Residential Robot: Projections for Release Date, Pricing Range & Comprehensive Specs Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-built-in-gps-on-current-and-past-ipad-lineups/"><u>Comprehensive Guide to Built-In GPS on Current and Past iPad Lineups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-restoring-responsiveness-to-file-explorer-in-windows-11/"><u>Comprehensive Guide: Restoring Responsiveness to File Explorer in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-grammarly-after-its-not-working-in-windows-10/"><u>Enabling Grammarly After It's Not Working in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-considerations-before-investing-in-a-secondhand-ios-slate/"><u>Essential Considerations Before Investing in a Secondhand iOS Slate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-insights-resetting-bios-settings-through-the-cmos-method-explained/"><u>Expert Insights: Resetting BIOS Settings Through the CMOS Method Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correctly-handle-directinput-and-directx-dll-faults-in-windows/"><u>Expert Tips to Correctly Handle Directinput and DirectX Dll Faults in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-social-media-scheduling-tools-on-twitter-effectively/"><u>How to Use Social Media Scheduling Tools on Twitter Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-14-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi 14 to Roku | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-the-upcoming-apple-watch-ultra-2-price-forecast-specs-breakdown-and-launch-rumors/"><u>Inside Look at the Upcoming Apple Watch Ultra 2: Price Forecast, Specs Breakdown & Launch Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-version-of-macos-a-detailed-overview-of-all-macos-releases/"><u>Latest Version of macOS: A Detailed Overview of All macOS Releases</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sound-blaster-z-driver-download-easily-for-windows-11/"><u>Sound Blaster Z Driver Download Easily for Windows 11</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/strategic-evaluation-of-robotic-automation-through-advanced-process-analytics-techniques/"><u>Strategic Evaluation of Robotic Automation Through Advanced Process Analytics Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-iphone-mail-clients-curated-list-by-us/"><u>The Best iPhone Mail Clients - Curated List by Us</u></a></li>
 </ul></div>
 

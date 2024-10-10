@@ -1,7 +1,7 @@
 ---
 title: "Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features"
-date: 2024-10-02T16:29:03.979Z
-updated: 2024-10-04T17:16:42.165Z
+date: 2024-10-08T19:00:10.679Z
+updated: 2024-10-09T20:10:53.751Z
 tags:
   - apple
 categories:
@@ -56,10 +56,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -78,13 +78,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -97,6 +90,13 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -108,13 +108,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -156,6 +149,13 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -172,10 +172,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,22 +218,15 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/2024-approved-creating-custom-tiktok-ringtone-for-mobile-devices/"><u>2024 Approved Creating Custom TikTok Ringtone for Mobile Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneers-in-the-digital-realm-vr-past-and-future/"><u>2024 Approved Pioneers in the Digital Realm VR Past and Future</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertis-gratuitement-un-fichier-mka-en-format-aac-avec-une-application-en-ligne-movavi/"><u>Convertis Gratuitement Un Fichier MKA en Format AAC Avec Une Application en Ligne - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discount-terms-and-conditions-promotions-and-savings/"><u>Discount, Terms and Conditions, Promotions, and Savings.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/diving-into-periscope-understanding-its-free-access-and-account-creation-process/"><u>Diving Into Periscope Understanding Its Free Access & Account Creation Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-videos-from-any-website-a-complete-guide-with-movavi/"><u>Download Videos From Any Website: A Complete Guide with Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functioning-voice-chat-in-league-of-legends-step-by-step/"><u>How to Fix Non-Functioning Voice Chat in League of Legends – Step by Step</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-note-50-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme Note 50 Through Google Earth?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-comprehensive-list-of-mac-methods-to-record-minecraft-play/"><u>In 2024, A Comprehensive List of Mac Methods to Record Minecraft Play</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-s17t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo S17t Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-z-fold-5frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy Z Fold 5FRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-m4v-mp4/"><u>Movavi提供快速免費線上讓你改變格式：將 M4V 轉換為 MP4</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-transformation-of-rmvb-files-to-high-quality-mp3s-with-movavis-no-cost-platform/"><u>Online Transformation of RMVB Files to High-Quality MP3s with Movavi's No-Cost Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/techniques-efficaces-de-production-de-videos-interactives-un-cours-detaille-avec-movavi/"><u>Techniques Efficaces De Production De Vidéos Interactives : Un Cours Détaillé Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tutorial-ottimizzazione-del-controllo-del-volume-per-le-canzoni-audio-ed-mp3-usando-normalizzare/"><u>Tutorial: Ottimizzazione Del Controllo Del Volume per Le Canzoni Audio Ed MP3 Usando Normalizzare!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-mkv-formats-essential-tips-for-easily-opening-and-viewing-matroska-media-content/"><u>Unraveling MKV Formats: Essential Tips for Easily Opening and Viewing Matroska Media Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-silent-videos-to-engaging-content-swiftly-add-captions-on-fb/"><u>[Updated] From Silent Videos to Engaging Content Swiftly Add Captions on FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-ios-scale-and-focus-techniques-for-2024/"><u>[Updated] Mastering iOS Scale and Focus Techniques for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-chromecast-and-fire-stick-for-perfect-playback/"><u>Connecting Chromecast and Fire Stick for Perfect Playback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ive-camerawork-innovative-techniques-for-video-savvy-youtubers/"><u>Creative Camerawork Innovative Techniques for Video-Savvy YouTubers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-obtaining-and-installing-the-epson-v600-printer-driver-software/"><u>Easy Guide: Obtaining & Installing the Epson V600 Printer Driver Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-dying-light-2s-optimization-problems-boost-your-fps/"><u>Fixes for Dying Light 2'S Optimization Problems – Boost Your FPS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-use-airpods-on-the-nintendo-switch-console/"><u>Is It Possible To Use AirPods On The Nintendo Switch Console?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/methodology-for-locating-personal-numbers-on-internet-platforms/"><u>Methodology for Locating Personal Numbers on Internet Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-the-pocket-acquiring-no-pay-images/"><u>Secrets of the Pocket Acquiring No-Pay Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-ultimate-guide-to-the-best-twitter-management-apps-and-programs/"><u>Top Picks: Ultimate Guide to the Best Twitter Management Apps & Programs</u></a></li>
 </ul></div>
 

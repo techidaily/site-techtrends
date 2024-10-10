@@ -1,7 +1,7 @@
 ---
 title: Overcome Your iPhone's Frustrating Flaw with Expert Advice From ZDNet
-date: 2024-10-01T16:00:09.298Z
-updated: 2024-10-04T16:25:46.459Z
+date: 2024-10-02T20:42:51.825Z
+updated: 2024-10-09T19:07:39.507Z
 tags:
   - apple
 categories:
@@ -27,22 +27,29 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -52,13 +59,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -67,14 +67,20 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -84,19 +90,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -104,6 +97,13 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -163,24 +163,21 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-upgrading-your-cinematic-story-with-video-edges/"><u>[Updated] 2024 Approved Upgrading Your Cinematic Story with Video Edges</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cinematic-clips-reviewed-best-in-the-business-for-2024/"><u>[Updated] Cinematic Clips Reviewed Best in the Business for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-creating-captivating-youtube-openers-two-ways-for-2024/"><u>[Updated] Creating Captivating YouTube Openers - Two Ways for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-effortless-image-and-video-integration-microsoft-teams-snap-camera/"><u>[Updated] In 2024, Effortless Image and Video Integration Microsoft Teams Snap Camera</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-seamless-webm-creation-from-youtube-videos/"><u>2024 Approved Seamless WebM Creation From YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726227485262-flacaiff-movavi/"><u>免費在網路上從FLAC轉成AIFF - 利用Movavi音樂格式轉換器</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/alternative-techniques-to-initiate-software-on-a-windows-machine/"><u>Alternative Techniques to Initiate Software on a Windows Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decouvrez-la-signification-et-les-roles-dun-codec-dans-le-streaming-multimedia/"><u>Découvrez La Signification Et Les Rôles D'un Codec Dans Le Streaming Multimédia</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descargar-la-herramienta-para-convertir-archivos-m4v-a-formato-3gp-sin-costo-alguno/"><u>Descargar La Herramienta Para Convertir Archivos M4V a Formato 3GP Sin Costo Alguno</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descubre-el-tratado-secreto-para-grabar-y-convertir-audios-libres-a-formato-mp3-sin-gastos-adicionales/"><u>Descubre El Tratado Secreto Para Grabar Y Convertir Audios Libres a Formato MP3 Sin Gastos Adicionales</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>In 2024, Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
-<li><a href="https://techtrends.techidaily.com/m4a-naar-flac-konverteren-gratis-veilig-en-efficient-met-movavi/"><u>M4A Naar FLAC Konverteren Gratis - Veilig en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-online-convertirte-facilmente-de-dts-a-m4v-sin-costo-alguno/"><u>Movavi Online - Convertirte Fácilmente De DTS a M4V Sin Costo Alguno</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-support-windows-drivers-rescued-by-startech/"><u>Streamlined Support: Windows Drivers Rescued by StarTech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-gratuits-free-and-premium-which-can-help-improve-search-engine-rankings-as-well-as-using-synonyms-for-variety-and-a-localized-keyword-approach-with-term34/"><u>Top, Gratuits (Free), and Premium, Which Can Help Improve Search Engine Rankings, as Well as Using Synonyms for Variety and a Localized Keyword Approach with Terms Like Outils De Communication Vidéo.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-votre-fic-amv-en-format-avi-gratuit-enligne-convertisseur-facile/"><u>Transformez Votre FIC Amv en Format Avi Gratuit Enligne - Convertisseur Facile</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-votre-video-au-format-f4v-en-version-wmv-librement-avec-movavi/"><u>Transformez Votre Vidéo Au Format F4V en Version WMV Librement – Avec Movavi</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-the-secrets-to-free-youtube-intros/"><u>Unlocking the Secrets to FREE YouTube Intros</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-strategies-for-eliminating-reverb-from-studio-recorded-sounds-for-2024/"><u>Updated Strategies for Eliminating Reverb From Studio-Recorded Sounds for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-photo-changers-ultimate-online-upgrade-for-2024/"><u>[New] Essential Photo Changers Ultimate Online Upgrade for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-activity-levels-top-20-exercise-friendly-hits-list-for-2024/"><u>Amplify Activity Levels Top 20 Exercise-Friendly Hits List for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decode-the-meaning-of-502-bad-gateway-error-and-its-fixes/"><u>Decode the Meaning of '502 Bad Gateway' Error and Its Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-80-pro-straight-screen-edition-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor 80 Pro Straight Screen Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-started-with-the-latest-mozilla-thunderbird-52-for-faster-email-management/"><u>Getting Started with the Latest Mozilla Thunderbird (52) for Faster Email Management</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a05-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A05 Phones with/without a PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hulu-streaming-errors-demystified-correcting-error-code-rununk13-easily-at-home/"><u>Hulu Streaming Errors Demystified: Correcting Error Code RUNUNK13 Easily at Home</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smartphone-lighting-kits-for-improved-footage/"><u>In 2024, Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recover-lost-msvcrt10dll-effective-tactics-to-solve-the-error-quickly/"><u>Recover Lost Msvcrt10.dll: Effective Tactics to Solve the Error Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-the-mystery-behind-windows-code-28-error/"><u>Resolve the Mystery Behind Windows 'Code 28' Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-six-unbeatable-pocket-translators/"><u>The Ultimate List: Six Unbeatable Pocket Translators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-mfcdll-is-not-detected-or-lost/"><u>Troubleshooting Tips for When mfc지오.dll Is Not Detected or Lost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-unleashed-strategies-for-acquiring-trustworthy-administrator-access-from-trustedinstaller/"><u>Windows 11 Unleashed: Strategies for Acquiring Trustworthy Administrator Access From TrustedInstaller</u></a></li>
 </ul></div>
 

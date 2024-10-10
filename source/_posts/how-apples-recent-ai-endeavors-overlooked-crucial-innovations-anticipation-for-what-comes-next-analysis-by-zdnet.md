@@ -1,7 +1,7 @@
 ---
 title: How Apple's Recent AI Endeavors Overlooked Crucial Innovations - Anticipation for What Comes Next | Analysis by ZDNet
-date: 2024-10-01T16:06:33.623Z
-updated: 2024-10-04T16:59:23.604Z
+date: 2024-10-06T17:15:18.785Z
+updated: 2024-10-09T19:54:39.018Z
 tags:
   - apple
 categories:
@@ -40,6 +40,13 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
@@ -65,10 +72,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Mail assistance
@@ -78,13 +91,6 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -103,10 +109,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 ## What will come later
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image playground
@@ -114,10 +120,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image wand
@@ -166,17 +172,21 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-effortless-storytelling-using-pixiz-for-photo-videos/"><u>[New] Effortless Storytelling Using Pixiz for Photo Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-boost-creativity-and-performance-with-these-top-10-free-tiktok-editors-for-mac/"><u>[Updated] In 2024, Boost Creativity and Performance with These Top 10 FREE TikTok Editors for Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram-for-2024/"><u>[Updated] Tailored Content Creation How to Cropped & Export Videos for Instagram for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/orfjpg-movavi/"><u>「オンラインで手軽にORFをJPGに変換 Movavi - お金不要ガイド」</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp3ogg/"><u>無料で使えるオンライン MP3/OGGファイル変換サービス - ムーヴェイヴィ</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-motorola-moto-g14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Motorola Moto G14</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-change-avi-to-3gp-format-with-movavi/"><u>Free Online Converter: Change AVI to 3GP Format with Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-se-2020-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone SE (2020) without Apple Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/m4v-naar-wav-konvertieren-vrije-onlinelastkundige-movavi/"><u>M4V Naar WAV Konvertieren Vrije Onlinelastkundige - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-process-on-securing-help-with-your-iphone-via-the-apple-support-application/"><u>Step-by-Step Process on Securing Help with Your iPhone via the Apple Support Application</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-blueprint-for-striking-youtube-channel-designs-for-2024/"><u>The Ultimate Blueprint for Striking YouTube Channel Designs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-video-mov-in-mp4-online-e-gratis-con-handbrake/"><u>Trasforma I Tuoi Video MOV in MP4 Online E Gratis Con HandBrake</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-simplify-your-work-the-best-5-mac-snipper-applications/"><u>[New] 2024 Approved Simplify Your Work The Best 5 Mac Snipper Applications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-practices-to-personalize-snapchat-video-playback/"><u>[New] 2024 Approved Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>[Updated] 2024 Approved Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[Updated] 2024 Approved Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram-for-2024/"><u>[Updated] From Novice to Experienced 6 Strategies for Quick Verification on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-maximizing-impact-how-to-broadcast-effectively-via-streams/"><u>2024 Approved Maximizing Impact How to Broadcast Effectively via Streams</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieving-perfection-insightful-hitman-3-assessment/"><u>Achieving Perfection: Insightful Hitman 3 Assessment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-premier-movies-on-disneyplus-for-immediate-enjoyment/"><u>Discover the Premier Movies on Disney+ for Immediate Enjoyment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-locating-a-persons-email-contact-info/"><u>Effective Strategies for Locating a Person's Email Contact Info</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-add-text-to-photos-on-windows-and-mac-for-2024/"><u>How to Add Text to Photos on Windows and Mac for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-turn-off-the-for-you-page-suggestions-on-instagram-easily/"><u>How To Turn Off the 'For You Page' Suggestions on Instagram Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speculations-surrounding-the-new-pixel-fold-2-price-estimates-expected-arrival-date-and-comprehensive-tech-details/"><u>Speculations Surrounding the New Pixel Fold 2: Price Estimates, Expected Arrival Date & Comprehensive Tech Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-apple-watch-ultra-2-sneak-peek-estimated-price-points-expected-arrival-date-and-potential-features-discussed/"><u>The Apple Watch Ultra 2 Sneak Peek - Estimated Price Points, Expected Arrival Date & Potential Features Discussed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-top-10-most-popular-sites-on-the-web/"><u>The Top 10 Most Popular Sites on the Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-sending-texts-from-your-ipad/"><u>Ultimate Guide: Sending Texts From Your iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-mystery-of-free-pictorial-video-downloads-for-2024/"><u>Unveiling the Mystery of Free Pictorial Video Downloads for 2024</u></a></li>
 </ul></div>
 

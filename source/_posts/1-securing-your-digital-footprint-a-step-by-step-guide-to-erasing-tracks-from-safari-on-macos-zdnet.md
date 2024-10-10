@@ -1,7 +1,7 @@
 ---
 title: "1. Securing Your Digital Footprint: A Step-by-Step Guide to Erasing Tracks From Safari on macOS - ZDNet"
-date: 2024-09-29T16:55:57.071Z
-updated: 2024-10-04T16:01:50.763Z
+date: 2024-10-05T21:36:25.692Z
+updated: 2024-10-09T19:45:40.233Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -66,10 +66,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -121,20 +121,22 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-complete-youtube-traffic-and-monetization-guidebook/"><u>[New] 2024 Approved The Complete Youtube Traffic & Monetization Guidebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-depths-of-fraps-recorders/"><u>[New] In 2024, Exploring the Depths of Fraps Recorders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-maximizing-game-capture-with-bandicam-essentials-for-the-year-2023/"><u>[New] In 2024, Maximizing Game Capture with Bandicam - Essentials for the Year 2023</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-attention-magnet-article-initiator/"><u>[Updated] Attention Magnet Article Initiator</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accelerate-your-machine-the-ultimate-guide-to-quick-pc-enhancement/"><u>Accelerate Your Machine: The Ultimate Guide to Quick PC Enhancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-tv-and-fandango-integration-watch-films-at-home-effortlessly/"><u>Apple TV and Fandango Integration: Watch Films at Home Effortlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-fixes-to-dry-out-and-repair-waterlogged-iphoneipod-units/"><u>DIY Fixes to Dry Out and Repair Waterlogged iPhone/iPod Units</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-tutorial-on-transforming-mtsm2ts-video-formats-compatible-with-windows-movie-maker/"><u>Easy Tutorial on Transforming MTS/M2TS Video Formats Compatible with Windows Movie Maker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-free-up-space-how-to-empty-cache-on-android-phones-and-tablets/"><u>Efficiently Free Up Space: How to Empty Cache on Android Phones and Tablets</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mts-video-editing-software-roundup-the-best-for-2024/"><u>MTS Video Editing Software Roundup The Best for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tips-from-toms-hardware/"><u>Navigating the World of Gadgets with Tips From Tom's Hardware</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimized-performance-with-intel-iris-plus-graphics-655-drivers-windows-10-11-supported/"><u>Optimized Performance with Intel® Iris Plus Graphics 655 Drivers - Windows 10, 11 Supported</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-steps-to-take-when-your-gmail-wont-sync/"><u>Solving the Issue: Steps to Take When Your Gmail Won't Sync</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-your-chromebook-freezing-issues-with-these-8-techniques/"><u>Solving Your Chromebook Freezing Issues with These 8 Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-explore-these-ten-booming-youtube-sources-to-uplift-yourself/"><u>[Updated] 2024 Approved Explore These Ten Booming YouTube Sources to Uplift Yourself</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-6-minecraft-survival-house-ideas-you-can-try/"><u>[Updated] 2024 Approved Top 6 Minecraft Survival House Ideas You Can Try</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-channel-transformation-from-zero-to-thousand-followers/"><u>[Updated] Channel Transformation From Zero to Thousand Followers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expert-tips-for-designing-text-in-3d-space-ps/"><u>[Updated] Expert Tips for Designing Text in 3D Space PS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-create-unique-endings-anytime-its-free-my-friends/"><u>2024 Approved Create Unique Endings Anytime - It's FREE, My Friends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-complete-guide-to-next-gen-wi-fi-protocols-exploring-the-advantages-of-80211-be-ax-ac/"><u>A Complete Guide to Next-Gen Wi-Fi Protocols: Exploring the Advantages of 802.11 Be, AX, AC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehve-guide-picking-the-best-surge-protector-to-safeguard-your-appliances/"><u>A Comprehve Guide: Picking the Best Surge Protector to Safeguard Your Appliances</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-generic-pnp-monitor-driver-issue-easily/"><u>Fix Generic PnP Monitor Driver Issue. Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-integrating-a-pinning-feature-on-your-facebook-business-profile/"><u>Guide: Integrating a Pinning Feature on Your Facebook Business Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-tackle-the-challenge-of-persistent-subwoofer-hum-in-audio-systems/"><u>How to Tackle the Challenge of Persistent Subwoofer Hum in Audio Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-in-depth-review-screen-capture-with-vlc-player/"><u>In 2024, In-Depth Review Screen Capture with VLC Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-journey-through-the-conjuring-universe-for-optimal-experience/"><u>Ordered Journey Through The Conjuring Universe for Optimal Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-your-macbook-pro-how-to-perform-a-successful-reboot/"><u>Quick Fixes for Your MacBook Pro – How to Perform a Successful Reboot</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-file-navigation-in-windows-integrate-movecopy-commands/"><u>Streamline File Navigation in Windows: Integrate 'Move'/'Copy' Commands</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-clearing-browser-cache-for-enhanced-security-and-privacy/"><u>Ultimate Guide to Clearing Browser Cache for Enhanced Security and Privacy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mysteries-of-aether-and-your-journey-towards-inclusion/"><u>Unveiling the Mysteries of Aether and Your Journey Towards Inclusion</u></a></li>
 </ul></div>
 

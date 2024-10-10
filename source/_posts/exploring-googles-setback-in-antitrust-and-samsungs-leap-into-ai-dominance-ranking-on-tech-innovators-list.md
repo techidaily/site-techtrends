@@ -1,7 +1,7 @@
 ---
 title: Exploring Google’s Setback in Antitrust and Samsung’s Leap Into AI Dominance – Ranking on Tech Innovators List
-date: 2024-10-02T16:26:09.974Z
-updated: 2024-10-04T16:15:12.787Z
+date: 2024-10-06T22:47:55.402Z
+updated: 2024-10-10T00:09:12.641Z
 tags:
   - apple
 categories:
@@ -71,31 +71,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovative-approaches-to-social-media-video-making/"><u>[New] 2024 Approved Innovative Approaches to Social Media Video Making</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-dissecting-the-capabilities-of-magixs-photo-manager/"><u>[Updated] 2024 Approved Dissecting the Capabilities of MAGIX's Photo Manager</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-intricacies-of-kinemasters-zooming-capabilities/"><u>[Updated] Navigating the Intricacies of Kinemaster's Zooming Capabilities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-examining-updates-the-2023-samsung-bd-j5900/"><u>2024 Approved Examining Updates The 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726226920499-rw2-png-movavi/"><u>線上自由運算 RW2 變更成 PNG格式 - 利用Movavi編輯器進行改變</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy XCover 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-libera-di-m4v-a-wma-online-conversione-filmato-facilissima-con-movavi/"><u>Conversion Libera Di M4V a WMA Online - Conversione Filmato Facilissima Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-top-10-complimentary-audio-visual-interface-tools-for-pcs-and-mac-devices/"><u>Discover the Top 10 Complimentary Audio Visual Interface Tools for PCs & Mac Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/grabacion-y-conversion-de-archivos-de-video-wma-a-avi-sin-coste-con-software-online-como-usar-movavi/"><u>Grabación Y Conversión De Archivos De Vídeo WMA a AVI Sin Coste Con Software Online: Cómo Usar Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-omzetten-van-oma-veegzicht-naar-wav-professionele-en-eenvoudige-online-converter-movavi/"><u>Gratis Omzetten Van Oma-Veegzicht Naar WAV: Professionele en Eenvoudige Online Converter - Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/maintaining-integrity-in-dvd-ripping-techniques-for-preserving-pure-digital-copies/"><u>Maintaining Integrity in DVD Ripping: Techniques for Preserving Pure Digital Copies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-professioneel-webm-naar-m4v-konverteren-voor-gratis-in-online-omgeving/"><u>Movavi: Professioneel Webm Naar M4v Konverteren Voor Gratis in Online Omgeving</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/softening-effects-in-ableton-live-for-2024/"><u>Softening Effects in Ableton Live for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-how-to-erase-shadows-from-images-successfully/"><u>Step-by-Step Guide: How To Erase Shadows From Images Successfully</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformer-des-videos-mpeg-en-webm-facilement-guide-pas-a-pas-avec-movavi/"><u>Transformer Des Vidéos MPEG en WebM Facilement - Guide Pas À Pas Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-gif-in-formato-tiff-senza-costi-su-internet-la-guida-di-movavi/"><u>Trasforma I Tuoi GIF in Formato TIFF Senza Costi Su Internet: La Guida Di Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-animated-videos-10-best-cartoon-maker-apps-for-android-and-ios/"><u>Updated Create Animated Videos 10 Best Cartoon Maker Apps for Android & iOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726222836643-vob-movavi/"><u>VOB 파일을 쉽게 사용: Movavi 동영상 변환기를 다운로드하여 원룰륨 비디오에 속성 추가</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-choices-excellent-youtubers-screen-recording-tools/"><u>[New] 2024 Approved Top Choices Excellent YouTubers' Screen Recording Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-settled-silent-shorter-showcase-ended/"><u>[Updated] 2024 Approved Settled Silent Shorter Showcase Ended</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bings-intelligence-vs-chatgpt-unveiling-the-top-ten-discrepancies/"><u>Bing's Intelligence Vs. ChatGPT: Unveiling the Top Ten Discrepancies</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-gt-5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme GT 5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-common-kernel32dll-error-messages-on-windows-computers-easily/"><u>Fix the Common Kernel32.dll Error Messages on Windows Computers Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-change-or-remove-your-personal-identification-number-for-windows-10-logins/"><u>How to Change or Remove Your Personal Identification Number for Windows 10 Logins</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-irrevocably-removing-your-yahoo-mail-account/"><u>The Ultimate Walkthrough for Irrevocably Removing Your Yahoo Mail Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-to-undo-an-unintended-repost-in-your-tiktok-feed/"><u>Tips to Undo an Unintended Repost in Your TikTok Feed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-apple-watch-applications-enhancing-your-slumber-experience/"><u>Top 5 Apple Watch Applications Enhancing Your Slumber Experience</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 11 & 10</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

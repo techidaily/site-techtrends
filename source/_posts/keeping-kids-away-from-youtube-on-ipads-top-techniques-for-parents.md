@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-09-28T16:09:05.406Z
-updated: 2024-10-04T16:00:28.524Z
+date: 2024-10-05T19:02:02.399Z
+updated: 2024-10-09T21:58:54.855Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -49,10 +49,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -63,25 +63,11 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -93,6 +79,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Undo last action (Ctrl** +**Z)** : Press**Ctrl** +**Z** to undo the previous action.
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
 
@@ -127,10 +120,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -140,6 +133,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,22 +170,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-sound-editing-solutions-for-online-bloggers-for-2024/"><u>[Updated] Ultimate Sound Editing Solutions for Online Bloggers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-correct-the-missing-dnssddll-error/"><u>Effective Solutions to Correct the Missing dnssd.dll Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-family-film-fun-6-best-websites-with-kids-movies-available/"><u>Free Family Film Fun: 6 Best Websites with Kids' Movies Available</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-7-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 7?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-12-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme 12 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-perfecting-game-capture-techniques-and-tricks/"><u>In 2024, Perfecting Game Capture Techniques & Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-struggling-with-texts-discover-10-quick-fixes/"><u>IPhone Struggling with Texts? Discover 10 Quick Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-fact-2-fragmentation-patterns-after-ionization-molecules-often-break-apart-into-smaller-fragments-which-are-detected-as-separate-peaks-in-a-mass-spectru89/"><u>Key Fact #2: Fragmentation Patterns - After Ionization, Molecules Often Break Apart Into Smaller Fragments, Which Are Detected as Separate Peaks in a Mass Spectrum. These Patterns Can Help Deduce the Structure of the Original Molecule.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/professional-setup-for-screen-capture-during-games/"><u>Professional Setup for Screen Capture During Games</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/social-sensation-strategies-crafting-fbs-topmusicvideos-for-2024/"><u>Social Sensation Strategies - Crafting FB's #TopMusicVideos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tips-correcting-the-wininetdll-error-on-your-computer/"><u>Step-by-Step Tips: Correcting the wininet.dll Error on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-free-uninstaller-applications-numbered-top-15/"><u>The Essential Guide to FREE Uninstaller Applications (Numbered Top 15)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-strategies-for-engaging-in-twitter-interactions-successfully/"><u>Top Strategies for Engaging in Twitter Interactions Successfully</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-finding-lost-keys-with-acoustic-tracker-2e-the-revolutionary-key-locator/"><u>Ultimate Guide to Finding Lost Keys with Acoustic Tracker '2E' - The Revolutionary Key Locator!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleash-the-power-of-ai-comprehensive-tips-on-integrating-copilot-into-your-microsoft-teams-experience/"><u>Unleash the Power of AI: Comprehensive Tips on Integrating Copilot Into Your Microsoft Teams Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-8-most-viewed-videos-on-facebook-for-2024/"><u>[New] 8 Most Viewed Videos on Facebook for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-reaching-more-posting-tiktok-videos-on-twitter/"><u>[Updated] 2024 Approved Reaching More Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clearing-android-cache-a-comprehensive-walkthrough/"><u>Clearing Android Cache - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-roku-stream-player-and-roku-ultra-which-offers-more/"><u>Comparing Roku Stream Player and Roku Ultra: Which Offers More?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnose-and-repair-dealing-with-rockalldlldll-not-found-system-issues/"><u>Diagnose and Repair: Dealing with Rockalldll.dll Not Found System Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725287670257-dvd-shrink5/"><u>DVD Shrinkより優れた5つの代替ソリューション:無料と有料オプション比較</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-to-overcome-the-annoying-code-39-error-on-your-pc/"><u>Easy Fixes to Overcome the Annoying Code 39 Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-internet-searches-with-bing-by-microsoft/"><u>Exploring the World of Internet Searches with Bing by Microsoft</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-how-to-restore-visuals-on-your-xbox-one-when-facing-a-no-signal-error/"><u>Guide: How to Restore Visuals on Your Xbox One When Facing a No Signal Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-meizu-21-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Meizu 21 Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pick-the-perfect-machine-a-guide-for-gamers-seeking-the-ultimate-pc/"><u>How To Pick The Perfect Machine: A Guide for Gamers Seeking the Ultimate PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-ace-2-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Ace 2 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>New 2024 Approved Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
+<li><a href="https://techtrends.techidaily.com/slack-strategies-for-effective-teamwork-in-a-remote-work-environment/"><u>Slack Strategies for Effective Teamwork in a Remote Work Environment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-to-stellar-video-youtube-studio-edition-for-2024/"><u>Step-by-Step to Stellar Video YouTube Studio Edition for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-top-4k-tvs-for-gamers-for-2024/"><u>Supreme Top 4K TVs for Gamers for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-picks-6-reliable-ai-applications-for-superior-video-upconversion-techniques/"><u>Ultimate Picks: 6 Reliable AI Applications for Superior Video Upconversion Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-from-apples-ring-shaped-innovator-insights-on-price-debut-and-tech-specs/"><u>What to Expect From Apple's Ring-Shaped Innovator? Insights on Price, Debut & Tech Specs</u></a></li>
 </ul></div>
 

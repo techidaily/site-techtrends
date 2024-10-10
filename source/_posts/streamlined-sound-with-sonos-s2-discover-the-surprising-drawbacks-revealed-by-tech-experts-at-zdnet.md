@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-09-29T16:02:50.289Z
-updated: 2024-10-04T17:02:35.691Z
+date: 2024-10-07T20:05:57.747Z
+updated: 2024-10-09T19:23:05.391Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -47,6 +40,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -54,10 +54,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -81,6 +81,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -106,13 +113,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -120,10 +120,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,18 +162,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[New] 2024 Approved Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-instagram-footage-into-square-stories-using-imovie-tips/"><u>[Updated] In 2024, Transforming Instagram Footage Into Square Stories Using iMovie Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-seamlessly-download-igtv-for-iphoneandroid-users/"><u>[Updated] Seamlessly Download IGTV for iPhone/Android Users</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/6-top-notch-free-mov-video-editing-software/"><u>6 Top-Notch Free MOV Video Editing Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-airpods-to-an-hp-laptop-made-simple/"><u>Connecting AirPods to an HP Laptop Made Simple</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a1x-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A1x 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-companies-pioneering-vr-technology/"><u>In 2024, Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-gateway-timeout-messages-in-web-services/"><u>Resolving 'Gateway Timeout' Messages in Web Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx930dll-file-not-found-problem-step-by-step-guide/"><u>Solving the d3dx9_30.dll File Not Found Problem: Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tcl-launches-extended-range-of-qands-series-smart-tvs-with-19-innovative-models/"><u>TCL Launches Extended Range of Q&S Series Smart TVs with 19 Innovative Models</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-ultimate-playbook-for-facebook-videos-to-attract-more-viewers/"><u>The Ultimate Playbook for Facebook Videos to Attract More Viewers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-if-your-roku-tv-wont-start-comprehensive-troubleshooting-tips/"><u>What to Do If Your Roku TV Won't Start – Comprehensive Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-direct-transition-from-youtube-to-instagram-reels/"><u>[New] 2024 Approved Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-key-online-archives-of-free-motion-graphics/"><u>[New] 2024 Approved Key Online Archives of Free Motion Graphics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtubes-elite-annual-showcases-post-vidcon/"><u>2024 Approved YouTube's Elite Annual Showcases (Post-VidCon)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-zte-nubia-z60-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-guide-to-curved-picture-editing/"><u>Essential Guide to Curved Picture Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-permanently-delete-your-yahoo-mail-and-securely-protect-your-data/"><u>How to Permanently Delete Your Yahoo Mail and Securely Protect Your Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-pair-your-samsung-smartphone-with-the-tv-using-wireless-bluetooth-connection/"><u>How to Seamlessly Pair Your Samsung Smartphone with the TV Using Wireless Bluetooth Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-musical-video-enhancement-on-instagram-for-ultimate-engagement/"><u>Master the Art of Musical Video Enhancement on Instagram for Ultimate Engagement</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rising-tides-of-streamers-a-guide-to-building-a-successful-chatter-for-2024/"><u>Rising Tides of Streamers A Guide to Building a Successful Chatter for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-32-open-source-backup-solutions-comprehensive-rating-and-reviews/"><u>Top 32 Open-Source Backup Solutions - Comprehensive Rating & Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-discount-websites-that-will-boost-your-savings/"><u>Top 6 Discount Websites That Will Boost Your Savings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-methods-to-restore-clarity-from-color-distortion-in-display-panels/"><u>Troubleshooting Methods to Restore Clarity From Color Distortion in Display Panels</u></a></li>
 </ul></div>
 

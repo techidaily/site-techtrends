@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Expert Tips for Tailoring and Optimizing Your iPhone's Control Center Features"
-date: 2024-09-30T16:45:18.326Z
-updated: 2024-10-04T16:39:39.610Z
+date: 2024-10-04T21:03:15.771Z
+updated: 2024-10-09T19:00:22.814Z
 tags:
   - apple
 categories:
@@ -30,25 +30,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -71,6 +57,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -78,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,20 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-parrots-drone-redesign-advanced-edition-review/"><u>[New] In 2024, Parrot's Drone Redesign - Advanced Edition Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-pausecapture-stop-and-save-live-image/"><u>[New] PauseCapture Stop & Save Live Image</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-platform-showdown-twitch-meets-youtube/"><u>[New] The Ultimate Platform Showdown Twitch Meets YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-ten-frame-enhancers-for-visual-artistry-for-2024/"><u>[New] Top Ten Frame Enhancers for Visual Artistry for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[Updated] Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-to-restore-visibility-tackling-the-black-screen-quandary-in-windows-11/"><u>Comprehensive Strategies to Restore Visibility: Tackling the Black Screen Quandary in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-learning-applications-of-23-8-to-transform-your-knowledge-journey/"><u>Discover the Best Learning Applications of 2^3 (8) to Transform Your Knowledge Journey</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-rooms-acoustics-masterful-integration-of-subwoofers-with-samsung-soundbars/"><u>Enhance Your Room's Acoustics: Masterful Integration of Subwoofers with Samsung Soundbars</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-70-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor 70 Lite 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-driver-found-resolving-critical-system-errors/"><u>Missing Media Driver Found: Resolving Critical System Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722903191644-securing-maximum-exposure-and-traction-for-your-content-on-apple-tv/"><u>Securing Maximum Exposure and Traction for Your Content on Apple TV.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simultaneous-task-management-on-a-macbook-air-with-split-screen-functionality/"><u>Simultaneous Task Management on a MacBook Air with Split Screen Functionality</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-best-mouse-options-for-your-mac-a-detailed-review/"><u>The Best Mouse Options for Your Mac : A Detailed Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-resolving-ieframedll-malfunctions/"><u>Troubleshooting Techniques for Resolving ieframe.dll Malfunctions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016522622-windows-10/"><u>Windows 10에서 일시적으로 사라지는 소음을 수리하는 방법</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlining-time-lapse-photography-with-gopro-software/"><u>[New] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-decoding-the-art-of-engaging-in-youtube-short-forms-for-2024/"><u>[Updated] Decoding the Art of Engaging in YouTube Short Forms for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-gt-neo-5-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme GT Neo 5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-12-fantastic-free-streamers-for-your-favorite-films/"><u>Discover 12 Fantastic Free Streamers for Your Favorite Films</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-picture-perfection-efficiently-adding-several-images-at-once/"><u>Facebook Picture Perfection: Efficiently Adding Several Images at Once</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-mics-top-tier-selection-unveiled/"><u>In 2024, Action Camera Mics Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-fine-tune-video-aspect-ratios-for-instagram-bliss/"><u>In 2024, Fine-Tune Video Aspect Ratios for Instagram Bliss</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-savers-guide-the-6-premier-websites-for-stealing-deals/"><u>Master Savers' Guide: The 6 Premier Websites for Stealing Deals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/organized-anime-enthusiasts-dream-dragon-ball-order-viewing-guide/"><u>Organized Anime Enthusiast's Dream: Dragon Ball Order Viewing Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/recommendation-best-websites-for-downloading-snapchat-ringtone-for-2024/"><u>Recommendation Best Websites For Downloading Snapchat Ringtone for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-resolving-mfc71dll-absence-or-inaccessibility-problems/"><u>Step-by-Step Guide: Resolving mfc71.dll Absence or Inaccessibility Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/steps-to-develop-a-charismatic-vlog-script-for-2024/"><u>Steps to Develop a Charismatic Vlog Script for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-absence-of-advapi32dll-on-your-system/"><u>Troubleshooting the Absence of Advapi32.dll on Your System</u></a></li>
 </ul></div>
 

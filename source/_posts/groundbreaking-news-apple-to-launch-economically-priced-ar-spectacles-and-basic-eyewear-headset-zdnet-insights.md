@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking News: Apple to Launch Economically Priced AR Spectacles & Basic Eyewear Headset | ZDNet Insights"
-date: 2024-09-30T16:52:28.700Z
-updated: 2024-10-04T16:39:01.939Z
+date: 2024-10-06T21:59:01.561Z
+updated: 2024-10-09T21:17:54.321Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,6 +74,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -141,6 +141,19 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -158,13 +171,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,16 +224,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-video-conferencing-at-no-cost-our-picks-from-the-best-10-tools/"><u>[New] In 2024, Mastering Video Conferencing at No Cost Our Picks From the Best 10 Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-tool-easily-convert-wma-files-to-mp4-with-moveavi/"><u>Free Online Tool: Easily Convert WMA Files to MP4 with Moveavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-a70-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel A70 FRP Bypass Instantly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-srt-files-unveiled-creating-and-optimizing-guide/"><u>In 2024, SRT Files Unveiled Creating and Optimizing Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-teaching-tactics-integrating-modern-technology-into-classroom-curricula/"><u>Innovative Teaching Tactics: Integrating Modern Technology Into Classroom Curricula</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-chrome-notification-suppression-windows/"><u>Mastering Chrome Notification Suppression, Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformer-un-fichier-m4v-en-mp4-gratuitement-une-solution-facile-avec-convertidoramovil/"><u>Transformer Un Fichier M4V en MP4 Gratuitement : Une Solution Facile Avec ConvertidoraMovil</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-file-wma-in-wmv-offline-e-gratis-con-moveavi/"><u>Trasforma I File WMA in WMV Offline E Gratis Con Moveavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-differences-between-samsungs-flagship-phones-s10plus-versus-s20/"><u>Unveiling the Differences Between Samsung's Flagship Phones: S10+ versus S20</u></a></li>
-<li><a href="https://techtrends.techidaily.com/kak-sozdat-video-uroki-s-ekrana-bazovyj-urok-po-ispolzovaniyu-movavi/"><u>Как Создать Видео-Уроки С Экрана: Базовый Урок По Использованию MOVAVI</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-drones-that-follow-you-back-top-10-drone-leaders-for-2024/"><u>[New] Drones That Follow You Back - Top 10 Drone Leaders for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-master-psd-pattern-overlays/"><u>[New] Master PSD Pattern Overlays</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mobile-battlefronts-the-best-mobas-on-android/"><u>[New] Mobile Battlefronts The Best MOBAs on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-humble-beginnings-building-a-brand-on-reddit/"><u>[Updated] From Humble Beginnings Building a Brand on Reddit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-complete-breakdown-of-game-capture-in-overwatch/"><u>[Updated] In 2024, The Complete Breakdown of Game Capture in Overwatch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite-for-2024/"><u>A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-resetting-wifi-and-bluetooth-settings-on-a-mac-computer/"><u>Easy Fixes: Resetting WiFi and Bluetooth Settings on a Mac Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-the-absent-d3dx933dll-error-message/"><u>How to Address and Fix the Absent d3dx9_33.dll Error Message</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-and-network-during-a-twitter-discussion-event/"><u>How to Navigate and Network During a Twitter Discussion Event</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-streamline-audio-from-apple-homepod-to-your-flat-screen-tv/"><u>How to Streamline Audio From Apple HomePod to Your Flat Screen TV</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-mobile-charge-packs-to-save-the-day-2024/"><u>Top Mobile Charge Packs to Save the Day 2024</u></a></li>
 </ul></div>
 

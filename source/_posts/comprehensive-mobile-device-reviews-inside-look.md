@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Mobile Device Reviews - Inside Look
-date: 2024-10-01T17:12:07.805Z
-updated: 2024-10-04T16:08:55.662Z
+date: 2024-10-06T20:31:17.131Z
+updated: 2024-10-09T19:16:04.868Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -62,10 +62,10 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -79,10 +79,10 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -96,10 +96,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -156,21 +156,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rafting-engaging-channels-using-tubebuddys-framework-for-2024/"><u>[New] Crafting Engaging Channels Using TubeBuddy's Framework for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-transform-your-content-strategy-with-tubebuddy/"><u>[New] In 2024, Transform Your Content Strategy with TubeBuddy</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[New] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[Updated] Know Your Rights Sharing Videos with Friends on FB for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-enhancing-old-photos-and-videos-with-ig-effects/"><u>[Updated] Step-by-Step Guide to Enhancing Old Photos and Videos with IG Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/assess-key-points-before-implementing-intelligent-home-safety-cameras/"><u>Assess Key Points Before Implementing Intelligent Home Safety Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-mxf-videos-to-mp3-for-free-using-movavis-web-based-tool/"><u>Convert MXF Videos to MP3 for Free Using Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cr2-jpeg-movavi/"><u>CR2 파일을 쉽게 JPEG로 변환하기 – 무료 웹 서비스 Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuito-online-mxf-file-converter-movavi/"><u>Gratuito Online MXF File Converter - Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-14-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi 14 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/libera-conversione-di-file-flac-a-mp3-con-movavi-metodo-on-line-e-gratuito/"><u>Libera Conversione Di File FLAC a MP3 Con Movavi - Metodo On-Line E Gratuito</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-video-adjustments-optimize-content-dimensions-for-tiktok-across-desktops-online-editors-and-mobile-apps/"><u>Mastering Video Adjustments: Optimize Content Dimensions for TikTok Across Desktops, Online Editors & Mobile Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-transformar-filmes-avi-em-videos-do-streaming-em-flash-gratuito-online/"><u>Movavi: Transformar Filmes AVI Em Vídeos Do Streaming Em Flash - Gratuito Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-pick-skype-recorders-of-the-year-for-2024/"><u>The Ultimate Pick Skype Recorders of the Year for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-votre-mp3-en-ringtones-avec-une-conversion-gratuite-de-fichiers-m4a-a-m4r-en-ligne-chez-movavi/"><u>Transformez Votre MP3 en Ringtones Avec Une Conversion Gratuite De Fichiers M4A À M4R en Ligne Chez Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/flvmp4/"><u>シェアしてください：ステップバイステップで無料FLVとMP4変換</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile-for-2024/"><u>[New] Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-glimpse-into-virtual-frontiers-with-jaunt-vr/"><u>[Updated] 2024 Approved A Glimpse Into Virtual Frontiers with Jaunt VR</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-beat-to-freedom-online-fb-music-downloads/"><u>[Updated] Beat to Freedom Online FB Music Downloads</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-offline-entertainment-how-to-load-youtube-video-onto-your-apple-gear/"><u>2024 Approved Offline Entertainment How to Load YouTube Video Onto Your Apple Gear</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiophiles-guide-selecting-prime-tools-for-vtuber-voice-alteration/"><u>Audiophile's Guide Selecting Prime Tools for VTuber Voice Alteration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficiently-fixing-the-driver-errors-of-logitech-headset-model-g930-on-pc-with-windows-os/"><u>Efficiently Fixing the Driver Errors of Logitech Headset Model G930 on PC with Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-cutting-edge-what-to-know-about-the-new-macbook/"><u>Exploring the Cutting-Edge: What to Know About the New MacBook</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-bitraser-drive-eraser-now-securely-wipe-usb-data/"><u>Get BitRaser Drive Eraser Now – Securely Wipe USB Data</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-zte-axon-40-lite-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your ZTE Axon 40 Lite Phone? Unlock It Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722862321446-solving-the-photoshop-scratch-disk-full-dilemma-a-comprehensive-guide/"><u>Solving the Photoshop Scratch Disk Full Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-sharing-your-netflix-watch-party/"><u>Step-by-Step Guide: Sharing Your Netflix Watch Party</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-retrieving-deleted-messages-in-microsoft-outlook/"><u>Ultimate Guide: Retrieving Deleted Messages in Microsoft Outlook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/why-i-re-embraced-thunderbird-as-the-best-linux-email-solution/"><u>Why I Re-Embraced Thunderbird as the Best Linux Email Solution</u></a></li>
 </ul></div>
 

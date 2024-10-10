@@ -1,7 +1,7 @@
 ---
 title: "IPhone 13 & 15 Pro Discontinued: Expert Advice on Your Next Smartphone Purchase"
-date: 2024-09-27T17:15:15.413Z
-updated: 2024-10-04T16:56:36.136Z
+date: 2024-10-04T23:30:17.238Z
+updated: 2024-10-09T21:24:08.266Z
 tags:
   - apple
 categories:
@@ -42,22 +42,15 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -67,6 +60,13 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You'd like to get your hands on the bigger screen
 
 Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretched the Pro models' displays to 6.3 and 6.9 inches for the 16 Pro and 16 Pro Max, respectively. This gives users more screen real estate to watch videos, play games, view and edit documents, and read shared screens on video conferences.
@@ -74,6 +74,13 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 **Also: [Every iPhone 16 model compared: Which iPhone should you buy today?](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/)**
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
 
@@ -89,13 +96,6 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You'd rather wait for bigger upgrades
 
 Even with the Apple Intelligence features, the iPhone 16 seems to be an incremental design change rather than a revamp; the design and functionality aren't a radical departure from the iPhone 14 Pro. If you're content with the look, feel, and performance of your iPhone 14, getting the iPhone 16 Pro likely won't feel like a huge upgrade, especially since many of the AI features will come months after you get the device.
@@ -103,13 +103,6 @@ Even with the Apple Intelligence features, the iPhone 16 seems to be an incremen
 **Also: [iPhone 14 Pro review: More innovation for the same price as the iPhone 13 Pro](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)**
 
 [Rumors](https://9to5mac.com/2024/07/12/iphone-16-new-features-worth-the-wait/) suggest the iPhone 17 may feature more dramatic design and functionality updates, making it a worthwhile jump. Besides, upgrading after two generations can be costly, which brings me to my next point. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You just finished paying it off
 
@@ -120,6 +113,13 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3a8ed566-58ad-4fa5-aba8-468c363cdf5c%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -155,21 +155,24 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-block-someone-on-instagram/"><u>[Updated] 2024 Approved How to Block Someone on Instagram?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-online-video-resources-for-enhanced-learning-experiences/"><u>[Updated] Online Video Resources for Enhanced Learning Experiences</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pinnacle-programs-for-peak-webcam-video-quality/"><u>[Updated] Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-mechanism-of-oled-screens-what-you-need-to-know/"><u>Decoding the Mechanism of OLED Screens – What You Need to Know</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-setup-windows-11-tailored-keyboard-volume-shortcuts/"><u>Expert Setup: Windows 11 Tailored Keyboard Volume Shortcuts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-dead-air-to-dynamic-audio-correcting-no-sound-on-stereo-receivers/"><u>From Dead Air to Dynamic Audio: Correcting No-Sound on Stereo Receivers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-zte-axon-40-lite-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on ZTE Axon 40 Lite Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-erase-everything-and-reboot-your-lenovo-computer-factory-reset-explained/"><u>How To Erase Everything and Reboot Your Lenovo Computer - Factory Reset Explained</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-path-to-affordable-streaming-student-discounts-on-youtube-premium-explained/"><u>Navigating the Path to Affordable Streaming: Student Discounts on YouTube Premium Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/oneplus-10-buzz-predictions-for-release-timeline-pricing-details-features-and-rumors/"><u>OnePlus 10 Buzz: Predictions for Release Timeline, Pricing Details, Features, and Rumors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-tips-acquiring-and-implementing-arduino-nano-drivers-for-windows-systems/"><u>Seamless Setup Tips: Acquiring and Implementing Arduino Nano Drivers for Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-missing-helperdll-errors-on-your-pc-a-step-by-step-guide/"><u>Solving 'Missing Helper.dll' Errors on Your PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mfc42ddll-file-could-not-be-found-a-step-by-step-guide/"><u>Solving the mfc42d.dll File Could Not Be Found - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turn-off-facebook-access-on-android-quick-tips-and-tricks/"><u>Turn Off Facebook Access on Android – Quick Tips and Tricks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-in-class-ps3-virtual-games-for-pc/"><u>[New] 2024 Approved Best-in-Class PS3 Virtual Games for PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>[New] Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-facetune-exploration-the-ultimate-photo-editing-journey-for-2024/"><u>[New] Facetune Exploration The Ultimate Photo Editing Journey for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/conic-youtube-recognition-click-counter-awards/"><u>[New] Iconic YouTube Recognition - Click Counter Awards</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlocking-new-dimensions-in-picture-tones/"><u>2024 Approved Unlocking New Dimensions in Picture Tones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/assessing-real-dolby-atmos-sound-delivery-is-your-system-up-to-par/"><u>Assessing Real Dolby Atmos Sound Delivery: Is Your System Up to Par?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/correcting-the-glitch-reappearance-of-a-vanished-wi-n-fi-signal/"><u>Correcting the Glitch: Reappearance of a Vanished Wi-N-Fi Signal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-for-registering-a-new-oculus-quest-and-quest-2-account-on-metas-platform/"><u>Easy Instructions for Registering a New Oculus Quest and Quest 2 Account on Meta's Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-digital-labeling-the-essentials-of-how-and-why-we-tag/"><u>Exploring Digital Labeling: The Essentials of How and Why We Tag</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100i-power-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo Y100i Power 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-14-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi 14 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-roku-remote-enabling-your-devices-closed-captions-effortlessly/"><u>Mastering the Roku Remote: Enabling Your Device’s Closed Captions Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-blackout-effective-solutions-for-a-dead-android-display/"><u>Overcoming the Blackout: Effective Solutions for a Dead Android Display</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-gt-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme GT 5? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-your-snaps-the-ultimate-method-for-reactivating-a-deactivated-account/"><u>Recovering Your Snaps: The Ultimate Method for Reactivating a Deactivated Account</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-nokia-g22-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Nokia G22 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-watchers-24-hrs-youtube-chart-leaders-for-2024/"><u>Speed Watchers 24-Hrs YouTube Chart Leaders for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-resolution-addressing-libeay32dll-unavailability-or-absence-on-your-system/"><u>Step-by-Step Resolution: Addressing Libeay32.dll Unavailability or Absence on Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-switch-up-typography-settings-in-windows-11-easily/"><u>Ultimate Tutorial: Switch Up Typography Settings in Windows 11 Easily</u></a></li>
 </ul></div>
 

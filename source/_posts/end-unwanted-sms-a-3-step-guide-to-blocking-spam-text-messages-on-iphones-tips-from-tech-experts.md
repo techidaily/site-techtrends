@@ -1,7 +1,7 @@
 ---
 title: "End Unwanted SMS: A 3-Step Guide to Blocking Spam Text Messages on iPhones - Tips From Tech Experts"
-date: 2024-09-27T17:12:26.921Z
-updated: 2024-10-04T16:55:07.664Z
+date: 2024-10-02T19:43:13.873Z
+updated: 2024-10-10T00:11:15.756Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
 Scroll down to find the Filter Unknown Messages option and turn it on. This option is turned off by default, so you'll need to toggle it to the "on" position to enable it.
@@ -54,6 +47,19 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -77,14 +83,14 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
 
@@ -101,13 +107,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -118,10 +117,16 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -138,6 +143,13 @@ If you keep getting messages from the same sender after reporting them, you can 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -175,22 +187,24 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-complete-guide-mastering-voice-recognition-in-google-documents-for-2024/"><u>[New] Complete Guide Mastering Voice Recognition in Google Documents for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-gadgets-the-leading-smartphones-for-artists/"><u>[New] Pinnacle Gadgets The Leading Smartphones for Artists</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-straightforward-screen-capture-app-win10-edition-for-2024/"><u>[New] Straightforward Screen Capture App, Win10 Edition for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-unwanted-amber-alerts-on-your-android-device-heres-how/"><u>Avoid Unwanted AMBER Alerts on Your Android Device - Here's How!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/harnessing-ai-capabilities-for-enhanced-engagement-on-instagram/"><u>Harnessing AI Capabilities for Enhanced Engagement on Instagram</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-yuva-3-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Yuva 3</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-soundtrack-your-youtube-videos-7-free-audio-selections/"><u>In 2024, Soundtrack Your YouTube Videos 7 Free Audio Selections</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-using-gifs-as-responses-on-instagram-posts/"><u>Mastering the Art of Using GIFs as Responses on Instagram Posts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-playlists-the-ultimate-method-for-unliking-songs-on-spotify/"><u>Mastering Your Playlists: The Ultimate Method for Unliking Songs on Spotify</u></a></li>
-<li><a href="https://extra-information.techidaily.com/newest-qanda-arsenal-for-captivating-listeners/"><u>Newest Q&A Arsenal for Captivating Listeners</u></a></li>
-<li><a href="https://article-helps.techidaily.com/revival-device-pack-for-2024/"><u>Revival Device Pack for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-x9b-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor X9b</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-integration-hooking-up-your-psvr-console-with-your-windows-pc/"><u>Seamless Integration: Hooking Up Your PSVR Console with Your Windows PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/switching-off-the-latest-iphones-tips-for-iphone-15-propro-max-users/"><u>Switching Off the Latest iPhones: Tips for iPhone 15 Pro/Pro Max Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-onoff-the-touch-typing-feature-on-windows-10-a-step-by-step-guide/"><u>Turning On/Off the Touch Typing Feature on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-microsoft-teams-navigating-with-copilot-effortlessly/"><u>Unveiling the Secrets of Microsoft Teams: Navigating with Copilot Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-enhancing-content-quality-with-advanced-video-editing/"><u>[New] In 2024, Enhancing Content Quality with Advanced Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-recording-on-googles-platform/"><u>[New] In 2024, Mastering Recording on Google's Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-smoothmoves-recordwatcher-study/"><u>[New] SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-optimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>2024 Approved Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/before-going-electric-the-must-ask-9-points-to-ensure-a-smart-purchase-decision/"><u>Before Going Electric: The Must-Ask 9 Points to Ensure a Smart Purchase Decision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-ink-advantage-3050a-printer-software-upgrade-and-installation-guide-for-windows/"><u>Free HP Deskjet Ink Advantage 3050A Printer Software Upgrade and Installation Guide for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Guide: Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-powerhouse-asus-rt-ac88u-for-gamers-networks/"><u>In-Depth Review of the Powerhouse Asus RT-AC88U for Gamers' Networks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/loop-lovers-guide-instagrams-best-for-repeat-viewers/"><u>Loop Lovers Guide Instagram's Best for Repeat Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-unavailable-desktop-error-on-windows-system-profile-directory/"><u>Overcoming the Unavailable Desktop Error on Windows System Profile Directory</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977471481-rtx-2060-super-graphics-card-drivers-compatible-with-windows-11-free-download/"><u>RTX 2060 Super Graphics Card Drivers Compatible with Windows 11 - Free Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-news-aggregator-sites-you-need-to-check-out/"><u>The Best News Aggregator Sites You Need to Check Out</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-syncopated-success-in-tiktok-duets/"><u>The Ultimate How-To for Syncopated Success in TikTok Duets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-for-coredll-disappeared-messages/"><u>The Ultimate Solution for 'Core.dll' Disappeared Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-your-ideal-fitness-band/"><u>Top 5 Essential Factors to Evaluate When Shopping for Your Ideal Fitness Band</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-your-ios-tvremote-app-a-comprehensive-fixing-guide/"><u>Troubleshoot Your iOS TVRemote App - A Comprehensive Fixing Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-when-your-iphone-doesnt-ring-easy-fixes-inside/"><u>Troubleshooting When Your iPhone Doesn't Ring – Easy Fixes Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unstick-stubborn-airpods-expert-advice-for-non-charging-solutions/"><u>Unstick Stubborn AirPods: Expert Advice for Non-Charging Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y27 5G? | Dr.fone</u></a></li>
 </ul></div>
 

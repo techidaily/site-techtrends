@@ -1,7 +1,7 @@
 ---
 title: Inside Scoop on Sony's New VR Experience – Price Estimates, Launch Timeline, Feature Overview & Whispered Rumors
-date: 2024-10-01T17:23:09.004Z
-updated: 2024-10-04T16:11:46.191Z
+date: 2024-10-04T20:47:17.220Z
+updated: 2024-10-09T18:18:16.916Z
 categories:
   - BestProducts
 description: This Article Describes Inside Scoop on Sony's New VR Experience – Price Estimates, Launch Timeline, Feature Overview & Whispered Rumors
@@ -35,9 +35,23 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
  Assuming Sony and Siemens are still on track with their initial announcement, we anticipate a release by the end of the year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sony VR Headset Price Rumors
 
@@ -45,23 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Sony VR Headset Features
 
@@ -77,19 +77,19 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sony
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Sony VR Headset Specs and Hardware
@@ -135,24 +135,19 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr/"><u>[New] Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-avoiding-zoom-call-blunders-smart-filters-usage/"><u>[Updated] In 2024, Avoiding Zoom Call Blunders Smart Filters Usage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-real-time-media-magic-the-pmix-vs-wirecast-faceoff/"><u>[Updated] Real-Time Media Magic The PMix Vs. Wirecast Faceoff</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>[Updated] Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-poco-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Poco C51 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722868036158-all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecasts-launch-timeline-and-tech-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecasts, Launch Timeline & Tech Specs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/anthems-quick-performance-fix/"><u>Anthem's Quick Performance Fix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crack-the-code-on-401-authorization-error-fixes-essential-tips-and-tricks/"><u>Crack the Code on 401 Authorization Error Fixes – Essential Tips and Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-getting-your-macbook-pros-keyboard-back-in-action/"><u>Expert Tips: Getting Your MacBook Pro's Keyboard Back in Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006237914-how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-quickly-correct-oleaut32dll-missing-mistakes-on-your-pc/"><u>How To Quickly Correct Oleaut32.dll Missing Mistakes on Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-6s-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 6s Plus Before the Plan Expires</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-process-of-reactivation-after-instagram-account-limitation-or-deactivation/"><u>Navigating the Process of Reactivation After Instagram Account Limitation or Deactivation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-android-measurement-tools-tips-for-successful-usage/"><u>Navigating the World of Android Measurement Tools - Tips for Successful Usage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722887742769-optimizing-your-tweets-check-out-these-unbeatable-twitter-tool-choices/"><u>Optimizing Your Tweets? Check Out These Unbeatable Twitter Tool Choices!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-in-windows-11-expert-solutions-to-common-problems/"><u>Restoring Audio Functionality in Windows 11: Expert Solutions to Common Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/t-mobiles-wireless-roaming-agreements-and-how-they-enhance-your-data-experience/"><u>T-Mobile's Wireless Roaming Agreements and How They Enhance Your Data Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-was-the-role-of-aim-in-online-communication-diving-deeper-into-aols-legacy/"><u>What Was the Role of AIM in Online Communication? Diving Deeper Into AOL's Legacy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-reach-tweeting-on-facebook/"><u>[Updated] Maximizing Reach Tweeting on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discerning-outages-from-hiccups-confirming-if-discords-offline-or-not/"><u>Discerning Outages From Hiccups: Confirming If Discord's Offline or Not</u></a></li>
+<li><a href="https://techtrends.techidaily.com/everything-you-need-to-know-about-netflixs-online-video-services/"><u>Everything You Need To Know About Netflix's Online Video Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-a78-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo A78 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kernel-troubles-heres-how-to-solve-inpage-error-issues-efficiently/"><u>Kernel Troubles? Here's How to Solve Inpage Error Issues Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-most-of-windows-11-using-dev-drive-effectively/"><u>Making the Most of Windows 11: Using Dev Drive Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-connection-effortlessly-pairing-bluetooth-speakers-and-computers/"><u>Master the Connection: Effortlessly Pairing Bluetooth Speakers and Computers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-monetization-frequency-for-2024/"><u>Navigating YouTube's Monetization Frequency for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-not-detected-steamdll-file-problems-with-simple-troubleshooting-techniques/"><u>Overcoming 'Not Detected: Steam.dll File' Problems with Simple Troubleshooting Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/seamless-guide-streaming-4k-ultra-hd-movies-flawlessly-on-your-windows-11-computer/"><u>Seamless Guide: Streaming 4K Ultra HD Movies Flawlessly on Your Windows 11 Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/shorts-fixed-ready-to-stream-and-share-for-2024/"><u>Shorts Fixed - Ready to Stream and Share for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-configuring-your-apple-watch-with-gmail/"><u>Step-by-Step Guide: Configuring Your Apple Watch with Gmail</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-yuva-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava Yuva 2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/why-participate-a-step-by-step-tutorial-on-joining-microsofts-exclusive-windows-testing-program-featured-by-zdnet/"><u>Why Participate? A Step-by-Step Tutorial on Joining Microsoft's Exclusive Windows Testing Program, Featured by ZDNet</u></a></li>
 </ul></div>
 

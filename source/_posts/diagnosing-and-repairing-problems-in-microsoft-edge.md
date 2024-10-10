@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Problems in Microsoft Edge
-date: 2024-09-30T17:23:33.794Z
-updated: 2024-10-04T17:13:46.467Z
+date: 2024-10-08T17:55:49.216Z
+updated: 2024-10-09T20:43:03.451Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing Problems in Microsoft Edge
@@ -34,27 +34,14 @@ These instructions only work with a single page of code.
 2. In the**Text** group, select**Object** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
@@ -63,17 +50,33 @@ These instructions only work with a single page of code.
 5. Select**OK** .  
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Different Paste Types in Word
@@ -85,13 +88,6 @@ These instructions only work with a single page of code.
 * **Unformatted Text** : All code is pasted as unformatted, so you'll lose indenting, color, typeface, and related contextual clues.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Problem With Using Source Code in Word
 
@@ -139,19 +135,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-discover-the-1-5-editors-perfect-for-your-macos-sierra-setup/"><u>[New] 2024 Approved Discover the #1-#5 Editors Perfect for Your MacOS Sierra Setup</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-views-into-cash-through-ads/"><u>[Updated] In 2024, How to Convert YouTube Views Into Cash Through Ads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/10-satt-att-korrigera-obs-lagger-utan-ljudproblemar-gor-af-movavi/"><u>10 Sätt Att Korrigera OBS-Lägger Utan Ljudproblemar, Gör Af Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choisissez-le-bon-editateur-de-videos-instagram-top-5-preferes-des-createurs-de-contenu-et-comment-choisir-le-notre/"><u>Choisissez Le Bon Editateur De Vidéos Instagram : Top 5 Préférés Des Créateurs De Contenu Et Comment Choisir Le Nôtre</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comment-rejoindre-les-10-meilleurs-fabricants-daffiches-pour-vos-channels-youtube-strategie-et-partenariats-explique/"><u>Comment Rejoindre Les 10 Meilleurs Fabricants D'Affiches Pour Vos Channels YouTube - Stratégie Et Partenariats Expliqué</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-convertidor-de-archivos-multimedia-en-linea-mp4-y-avi-a-mov-con-movavi/"><u>Gratis Convertidor De Archivos Multimedia en Línea - MP4 Y AVI a MOV Con Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-make-seagate-external-hard-drives-visible-in-windows-10-step-by-step/"><u>How to Make Seagate External Hard Drives Visible in Windows 10 [Step-by-Step]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/los-mas-exitosos-generadores-de-gif-y-herramientas-editadoras-mas-recomendadas-del-ano/"><u>Los Más Exitosos Generadores De GIF Y Herramientas Editadoras Más Recomendadas Del Año</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-driver-issue-mp620-unavailable-in-win10/"><u>Printer Driver Issue: MP620 Unavailable in WIN10</u></a></li>
-<li><a href="https://games-able.techidaily.com/silent-threat-unstable-gpu-performance/"><u>Silent Threat: Unstable GPU Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-repair-persistent-image-retention-on-screens/"><u>Step-by-Step Strategies to Repair Persistent Image Retention on Screens</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c12-plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C12 Plus Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformar-archivos-mov-en-mac-a-mp4-las-7-practicas-simples-que-debes-seguir/"><u>Transformar Archivos MOV en Mac a MP4: Las 7 Prácticas Simples Que Debes Seguir</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-selecting-top-ranked-free-srt-translation-tools-for-2024/"><u>Ultimate Guide Selecting Top-Ranked FREE SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>[New] 2024 Approved Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[New] 2024 Approved From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-bringing-imagery-elements-into-harmony/"><u>[Updated] 2024 Approved Bringing Imagery Elements Into Harmony</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-send-gif-on-snapchat-stey-by-stey-guide/"><u>[Updated] 2024 Approved How to Send Gif on Snapchat [Stey-by-Stey Guide]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creating-humor-making-funny-parody-videos-for-2024/"><u>[Updated] Creating Humor Making Funny Parody Videos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-6s-plus-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 6s Plus Activation Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-echo-dot-configuration-a-comprehensive-walkthrough/"><u>Amazon Echo Dot Configuration: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865781259-best-15-free-anti-malware-programs-for-a-safer-pc-experience-try-them-today/"><u>Best 15 Free Anti-Malware Programs for a Safer PC Experience, Try Them Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-email-security-with-gmail-two-factor-auth-setup-guide/"><u>Boost Your Email Security with Gmail Two-Factor Auth Setup Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-503-service-down-message-and-steps-for-recovery/"><u>Deciphering the 503 Service Down Message and Steps for Recovery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-tips-and-tricks-for-effective-at-home-charge-your-ev-systems/"><u>Insider Tips and Tricks for Effective At-Home Charge Your EV Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722843287770-keep-your-valuable-data-intact-a-guide-to-5-reliable-backup-solutions/"><u>Keep Your Valuable Data Intact: A Guide to 5 Reliable Backup Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/primes-direct-channel-access-for-twitch-enthusiasts/"><u>Prime's Direct Channel Access for Twitch Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategizing-together-best-practices-for-friend-battles-in-pokemon-go/"><u>Strategizing Together: Best Practices for Friend Battles in Pokemon Go</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-c110-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia C110 Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-error-code-0x80070570-a-comprehensive-guide/"><u>Understanding Error Code 0X80070570: A Comprehensive Guide</u></a></li>
 </ul></div>
 

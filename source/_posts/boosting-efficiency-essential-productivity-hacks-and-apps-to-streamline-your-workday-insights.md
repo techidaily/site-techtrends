@@ -1,7 +1,7 @@
 ---
 title: "Boosting Efficiency: Essential Productivity Hacks & Apps to Streamline Your Workday - Insights"
-date: 2024-09-29T16:10:28.852Z
-updated: 2024-10-04T17:08:35.262Z
+date: 2024-10-02T16:51:42.629Z
+updated: 2024-10-09T21:45:32.341Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -44,13 +51,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -61,16 +61,16 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -113,6 +113,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -177,13 +184,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -192,13 +192,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -230,6 +223,13 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -251,10 +251,10 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Rethinking your flow
@@ -286,21 +286,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-constructive-steps-to-personalized-google-vr-headset/"><u>[New] Constructive Steps to Personalized Google VR Headset</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-choosing-between-obs-and-fraps-for-capture/"><u>2024 Approved Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-premium-webcams-shoppers-insights/"><u>2024 Approved Exploring Premium Webcams - Shopper's Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ace-your-twitter-game-with-these-premium-client-apps-and-programs/"><u>Ace Your Twitter Game with These Premium Client Apps and Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnose-and-repair-when-zooms-cameras-stop-working-properly/"><u>Diagnose and Repair: When Zoom's Cameras Stop Working Properly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-methods-to-deal-with-jscriptdll-not-found-problem/"><u>Effective Methods to Deal with 'jScript.dll Not Found' Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A78 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-webcam-safety-the-best-cam-cover-picks/"><u>In 2024, Webcam Safety The Best Cam Cover Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-the-line-messenger-platform-a-user-review/"><u>In-Depth Analysis of the LINE Messenger Platform – A User Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-shared-streaming-possible-on-spotify-with-multiple-users/"><u>Is Shared Streaming Possible on Spotify with Multiple Users?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-compressor-in-fcpx-expert-techniques-for-professional-results/"><u>New 2024 Approved Compressor in FCPX Expert Techniques for Professional Results</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-iphone-quietness-a-step-by-step-guide-to-restore-ringer-functionality/"><u>Overcoming iPhone Quietness: A Step-by-Step Guide to Restore Ringer Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/personalize-system-appearance-alter-fonts-in-windows-11-easily/"><u>Personalize System Appearance - Alter Fonts in Windows 11 Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-poco-m6-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Poco M6 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721863262404-streamline-your-search-with-bings-intelligent-ai-features/"><u>Streamline Your Search with Bing's Intelligent AI Features.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-digital-screen-capture-techniques/"><u>[Updated] In 2024, Mastering Digital Screen Capture Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-free-online-conversion-transform-aac-files-into-avi-format-with-ease-movavi/"><u>1. Free Online Conversion: Transform AAC Files Into AVI Format with Ease - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieve-a-seamless-visual-experience-presenting-whole-photos-on-instagram-effortlessly/"><u>Achieve a Seamless Visual Experience: Presenting Whole Photos on Instagram Effortlessly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-free-and-open-source-replacements-for-microsoft-office/"><u>Best Free and Open Source Replacements for Microsoft Office</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-8-email-solutions-beyond-gmail-for-this-year/"><u>Discover the Ultimate 8 Email Solutions Beyond Gmail for This Year</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-built-in-gps-on-ipads-determine-your-models-navigation-capabilities/"><u>Guide to Built-In GPS on iPads – Determine Your Model's Navigation Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-accurately-assess-your-mobile-or-wi-fi-data-use-at-home/"><u>How to Accurately Assess Your Mobile or Wi-Fi Data Use at Home</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/how-to-use-green-screen-in-kinemaster-for-2024/"><u>How To Use Green Screen In KineMaster for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mouse-unresponsive-to-windows-commands/"><u>Mouse Unresponsive to Windows Commands</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-common-graphics-glitches-how-to-remove-horizontal-lines-from-monitors/"><u>Overcoming Common Graphics Glitches: How to Remove Horizontal Lines From Monitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revive-your-audio-experience-troubleshooting-a-defective-logitech-g433-microphone/"><u>Revive Your Audio Experience: Troubleshooting a Defective Logitech G433 Microphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-and-speed-up-mastering-the-art-of-android-cache-clearance/"><u>Simplify and Speed Up: Mastering the Art of Android Cache Clearance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-sites-for-fetching-got-ringtone-downloads/"><u>Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-motorola-moto-g73-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Motorola Moto G73 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

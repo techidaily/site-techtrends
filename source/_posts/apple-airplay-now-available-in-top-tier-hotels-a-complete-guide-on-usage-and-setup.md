@@ -1,7 +1,7 @@
 ---
 title: "Apple AirPlay Now Available in Top-Tier Hotels: A Complete Guide on Usage & Setup!"
-date: 2024-10-03T17:10:24.324Z
-updated: 2024-10-04T16:51:03.638Z
+date: 2024-10-08T01:15:05.436Z
+updated: 2024-10-09T20:49:21.553Z
 tags:
   - apple
 categories:
@@ -57,10 +57,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -85,6 +91,13 @@ SoCs have enormous performance benefits because all the electrical impulses have
 
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Apple Silicon
 
 You've heard that Apple has stopped building Intel-based Macs and instead is building them based on something called Apple Silicon. Chips are made out of silicon ([number 14 on the Periodic Table, symbol Si](https://en.wikipedia.org/wiki/Silicon#)). So Apple Silicon is silicon chips from Apple. But what does that really mean? 
@@ -106,10 +119,10 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -154,13 +167,6 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  M1, M2, M3, Pro, Max, and Ultra
 
 M1 was the first Apple Silicon processor model that Apple used inside its computers. As of this writing, Apple has shipped an M2 generation of processors, and [just announced the M3 generation](https://www.zdnet.com/article/m3-apple-silicon-is-here-and-theres-more-to-it-than-new-laptops-and-all-in-ones/). In addition to the base-model processors, Apple has created higher performance versions, which are labeled Pro, Max, and -- for the M1 and M2 -- Ultra. We haven't seen the Ultra on the M3 family, at least yet.
@@ -184,10 +190,10 @@ The M-series processors are SoCs, so memory and storage come right on the chip. 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -230,17 +236,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-successful-youtubing-master-end-credits-and-makers-sources/"><u>[New] In 2024, Successful YouTubing Master End Credits and Makers' Sources</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-screencasts-a-step-by-step-manual/"><u>[Updated] Mastering Screencasts A Step-by-Step Manual</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-successfully-sending-videos-in-facebook-chat-a-quick-fix-guide-for-iphoneandroid-for-2024/"><u>[Updated] Successfully Sending Videos in Facebook Chat A Quick Fix Guide for iPhone/Android for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726226808594-jpegjpg-movavi/"><u>移動窗格：JPEG到JPG無限制地免費轉換 - Movavi解決方案</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-wmv-files-to-mp4-for-free-web-based-tools-with-movavicom/"><u>Convert WMV Files to MP4 For Free Web-Based Tools with Movavi.com</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converti-file-mpeg-a-formato-mp4-online-e-gratuitamente-con-movavi-prova-ora/"><u>Converti File MPEG a Formato MP4 Online E Gratuitamente Con Movavi - Prova Ora!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertir-archivos-3g2-a-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos .3G2 a Formato .3GP Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-intel-chipset-up-and-running-82579v-drivers-available-now/"><u>Get Your Intel Chipset Up and Running - 82579V Drivers Available Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-nokia-105-classic-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Nokia 105 Classic</u></a></li>
-<li><a href="https://app-tips.techidaily.com/introducing-protons-latest-innovation-a-fully-secured-password-safe-with-unbreakable-end-to-end-encryption/"><u>Introducing Proton's Latest Innovation: A Fully Secured Password Safe With Unbreakable End-to-End Encryption</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-start-initiate-your-new-echo-dot-into-setup-mode/"><u>Quick Start: Initiate Your New Echo Dot Into Setup Mode</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/video-editing-made-simple-using-windows-10s-built-in-features-easily/"><u>Video Editing Made Simple Using Windows 10'S Built-In Features Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brief-blueprints-sending-ios-videos-and-images/"><u>[Updated] Brief Blueprints Sending iOS Videos & Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfecting-music-in-instagram-videos-and-stories/"><u>[Updated] In 2024, Perfecting Music in Instagram Videos & Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-mac-capturing-screens-with-record-feature/"><u>[Updated] Mastering Mac Capturing Screens with Record Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-dvd-player-apps-for-pc-and-mac-in-2ebyte-windows-10plus-and-macos/"><u>Best Free DVD Player Apps for PC & Mac in 2Ebyte (Windows 10+) & macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-writing-companions-6-exceptional-journal-apps/"><u>Discover the Best Writing Companions: 6 Exceptional Journal Apps!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-engaging-conversations-in-mozilla-thunderbird/"><u>Effective Techniques for Engaging Conversations in Mozilla Thunderbird</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-icloud-email-security-with-dual-step-verification/"><u>Enhancing iCloud Email Security with Dual-Step Verification</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-elusive-d3dx941dll-a-troubleshooting-manual-for-windows-users/"><u>Fixing the Elusive d3dx9_41.dll - a Troubleshooting Manual for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-xs-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone XS Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/google-home-detachment-process-how-to-safely-remove-connected-devices/"><u>Google Home Detachment Process: How to Safely Remove Connected Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-7-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 7 using find my iphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-windows-10-battery-report-tool-expert-insights-for-optimal-performance/"><u>Inside the Windows 10 Battery Report Tool: Expert Insights for Optimal Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-reaction-video-maker-apps-for-iphone-and-android-for-2024/"><u>New The Best Reaction Video Maker Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-order-for-watching-dragon-ball-series-expert-advice/"><u>Perfect Order for Watching Dragon Ball Series: Expert Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-selection-of-10-amazing-free-email-accounts-to-try-today/"><u>The Definitive Selection of 10 Amazing Free Email Accounts to Try Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-computer-into-a-hybrid-console-monitor-system/"><u>Transforming Your Computer Into a Hybrid Console-Monitor System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-error-0x80004005-on-windows/"><u>Troubleshooting Guide: Resolving Error 0X80004005 on Windows</u></a></li>
 </ul></div>
 

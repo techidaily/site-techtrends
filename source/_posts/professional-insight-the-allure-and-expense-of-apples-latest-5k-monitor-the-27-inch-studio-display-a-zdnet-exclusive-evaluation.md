@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: The Allure and Expense of Apple's Latest 5K Monitor, the 27-Inch Studio Display - A ZDNet Exclusive Evaluation"
-date: 2024-09-29T16:01:10.227Z
-updated: 2024-10-04T17:14:26.917Z
+date: 2024-10-05T21:59:40.525Z
+updated: 2024-10-10T01:03:46.531Z
 tags:
   - apple
 categories:
@@ -48,13 +48,6 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -62,13 +55,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -79,16 +65,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -96,6 +76,13 @@ On the other hand, Apple "later this year" will enable you to create displays wi
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -107,13 +94,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -121,6 +101,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -131,6 +118,13 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -185,17 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-final-cut-pro-x-for-instagram-optimizing-vertical-videos/"><u>[New] 2024 Approved Final Cut Pro X for Instagram Optimizing Vertical Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-quick-guide-to-instagrams-magnification-magic/"><u>[New] In 2024, The Quick Guide to Instagram's Magnification Magic</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-immerse-users-in-soundfilters-of-windows-10-photos/"><u>[New] Step-by-Step Guide to Immerse Users in Sound/Filters of Windows 10 Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[Updated] 2024 Approved The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-skype-chorus-select-websites-for-rhythmic-calls-for-2024/"><u>[Updated] The Skype Chorus Select Websites for Rhythmic Calls for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-asus-rog-phone-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Asus ROG Phone 8 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-beginners-guide-to-mastering-location-precision-in-outdoor-adventures-with-google-maps-live-view/"><u>A Beginner's Guide to Mastering Location Precision in Outdoor Adventures With Google Maps Live View</u></a></li>
-<li><a href="https://techtrends.techidaily.com/activating-dual-security-a-step-by-step-guide-to-enabling-gmails-2fa/"><u>Activating Dual Security: A Step-by-Step Guide to Enabling Gmail's 2FA</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dealing-with-a-disabled-instagram-account-what-you-can-do-to-regain-access/"><u>Dealing with a Disabled Instagram Account: What You Can Do to Regain Access</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-steps-for-fixing-fifa-21-initialization-errors/"><u>Effective Steps for Fixing FIFA 21 Initialization Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/introduction-to-telegram-everything-you-need-to-know-about-the-popular-chat-application/"><u>Introduction to Telegram – Everything You Need to Know About the Popular Chat Application</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-choices-understanding-the-differences-between-ipad-mini-and-ipad-air/"><u>Navigating Choices: Understanding the Differences Between iPad Mini & iPad Air</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-accuracy-speech-to-text-via-google-translate/"><u>[Updated] Maximizing Accuracy Speech to Text via Google Translate</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-quick-fix-hide-identities-in-photos-with-picart-for-2024/"><u>[Updated] Quick Fix Hide Identities in Photos with PicArt for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/blast-off-to-stardom-10-proven-steps-for-achieving-viral-fame-on-tiktok/"><u>Blast Off to Stardom: 10 Proven Steps for Achieving Viral Fame on TikTok</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y56-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y56 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversor-de-mts-para-mp4-em-segundo-plano-metodo-simples-e-rapidissimo/"><u>Conversor De MTS Para MP4 Em Segundo Plano - Método Simples E Rapidíssimo!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fun-and-educational-a-guide-to-9-premier-places-for-free-pre-kindergarten-gaming/"><u>Fun and Educational: A Guide to 9 Premier Places for Free Pre-Kindergarten Gaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/principles-of-impactful-narrative-writing-for-films/"><u>Principles of Impactful Narrative Writing for Films</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reasons-to-dismiss-auto-generated-dialogues/"><u>Reasons to Dismiss Auto-Generated Dialogues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-solutions-to-resolve-your-wi-fi-adapter-or-ap-malfunction/"><u>Top 10 Solutions to Resolve Your Wi-Fi Adapter or AP Malfunction</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-xs-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone XS Max Making It Possible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888509269-top-quality-high-end-gadgets-on-a-budget-must-try/"><u>Top-Quality High-End Gadgets on a Budget – Must Try!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-distinctive-qualities-of-ipad-pro-vs-macbook-air/"><u>Understanding The Distinctive Qualities Of IPad Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-10-tips-how-to-acquire-trustee-authorization-on-trustedinstaller/"><u>Windows 10 Tips: How to Acquire Trustee Authorization on TrustedInstaller</u></a></li>
 </ul></div>
 

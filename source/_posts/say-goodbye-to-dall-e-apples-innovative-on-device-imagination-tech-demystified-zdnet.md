@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to DALL-E: Apple's Innovative, On-Device Imagination Tech Demystified | ZDNET"
-date: 2024-10-02T16:23:24.957Z
-updated: 2024-10-04T16:05:51.909Z
+date: 2024-10-02T20:03:29.440Z
+updated: 2024-10-09T21:40:29.936Z
 tags:
   - apple
 categories:
@@ -69,29 +69,30 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-focus-effortless-viewport-changes-on-iphone/"><u>[New] Quick Focus Effortless Viewport Changes on iPhone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-extracting-and-storing-instagram-video-files-pcmac-systems-for-2024/"><u>[New] Techniques for Extracting and Storing Instagram Video Files (PC/Mac Systems) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-user-manual-how-to-use-screen-recording-on-mac-for-2024/"><u>[Updated] The Complete User Manual How To Use Screen Recording on Mac for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-which-is-the-top-screener-bandicam-or-camtasia-for-2024/"><u>[Updated] Which Is the Top Screener? - Bandicam Or Camtasia for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-accessing-rar-compressed-folders-on-macos/"><u>Comprehensive Tutorial: Accessing RAR Compressed Folders on macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-activation-problem-0x803f700f/"><u>Eliminating Windows Activation Problem: 0X803F700F</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hooking-up-espn-plus-the-ultimate-guide-for-lg-smart-television-fans/"><u>Hooking Up ESPN Plus: The Ultimate Guide for LG Smart Television Fans</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-account-setup-on-the-renamed-twitter-platform-now-x/"><u>Mastering Account Setup on the Renamed Twitter Platform, Now 'X'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-messenger-communication-tips-for-access-without-facebook-login/"><u>Mastering Messenger Communication: Tips for Access without Facebook Login</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-outages-show-why-governments-need-to-ditch-big-tech/"><u>Microsoft Outages Show Why Governments Need to Ditch Big Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722895596364-overcoming-issues-with-your-unresponsive-usb-network-adapter/"><u>Overcoming Issues with Your Unresponsive USB Network Adapter</u></a></li>
-<li><a href="https://driver-install.techidaily.com/precision-and-reliability-install-hp-projector-8710-printer-software-windows/"><u>Precision & Reliability - Install HP Projector 8710 Printer Software (Windows)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/qled-vs-oled-tvs-comparing-screen-technology-and-performance/"><u>QLED Vs. OLED TVs: Comparing Screen Technology and Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-integration-steps-for-linking-oculus-quest-2-to-smartphone-technology/"><u>Seamless Integration: Steps for Linking Oculus Quest 2 to Smartphone Technology</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[Updated] 2024 Approved Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-novel-strategies-for-captivating-fb-video-marketing-for-2024/"><u>[Updated] Novel Strategies for Captivating FB Video Marketing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-women-in-warfare-youtubes-elite-ten/"><u>2024 Approved Women in Warfare YouTube’s Elite Ten</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-edge-40-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Edge 40 Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-7-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategizing-visibility-for-podcasts-through-design/"><u>In 2024, Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-and-update-amd-rx-58n-graphics-card-drivers-with-speed-and-ease/"><u>Install and Update AMD RX 58N Graphics Card Drivers with Speed and Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/journey-through-time-the-development-story-of-apples-ios-versions-10-to-180/"><u>Journey Through Time: The Development Story of Apple's iOS Versions 1.0 to 18.0</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-joint-streams-on-spotify-with-friends-and-family/"><u>Master the Art of Joint Streams on Spotify With Friends and Family</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-user-guide-how-to-stream-and-share-gaming-moments/"><u>PS5 User Guide: How to Stream and Share Gaming Moments</u></a></li>
+<li><a href="https://games-able.techidaily.com/regain-control-solutions-to-wont-work-in-windows-xbox-controllers/"><u>Regain Control: Solutions to Won't Work in Windows Xbox Controllers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/untangling-bootmgr-issues-easy-solutions-for-a-smooth-startup/"><u>Untangling Bootmgr Issues: Easy Solutions for a Smooth Startup</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

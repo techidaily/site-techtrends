@@ -1,7 +1,7 @@
 ---
 title: Top Rated Mini Tablets of 2024 - Comprehensive Reviews & Ratings by Tech Experts | ZDNet
-date: 2024-09-29T16:11:22.201Z
-updated: 2024-10-04T17:23:14.920Z
+date: 2024-10-05T21:19:43.037Z
+updated: 2024-10-09T21:16:14.371Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e447550-637c-42c3-b414-2bfd5c6e681c%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -41,20 +48,13 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet overall
@@ -120,21 +120,7 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -164,13 +150,20 @@ Cons
 * No warm light option
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -200,7 +193,21 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -259,13 +266,6 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -280,13 +280,6 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
@@ -296,6 +289,13 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -343,18 +343,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-maximize-windows-10-top-5-recording-techniques-for-2024/"><u>[New] Maximize Windows 10 Top 5 Recording Techniques for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-six-visionary-camera-solutions-for-filmmaking-for-2024/"><u>[New] Top Six Visionary Camera Solutions for Filmmaking for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-non-game-console-apps-excelling-at-game-recordings/"><u>2024 Approved Non-Game Console Apps Excelling at Game Recordings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-raw-photos-to-png-for-free-effortless-image-editing-by-movavi/"><u>Convert RAW Photos to PNG for Free - Effortless Image Editing by Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-turing-test-will-advanced-robotics-ever-outsmart-human-intellect/"><u>Decoding the Turing Test – Will Advanced Robotics Ever Outsmart Human Intellect?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ferramenta-on-line-livre-para-converter-arquivos-ogv-em-mp4-com-movavi-comandos-simples-e-rapidos/"><u>Ferramenta On-Line Livre Para Converter Arquivos OGV Em MP4 Com Movavi - Comandos Simples E Rápidos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-wav-files-into-avi-format-with-ease/"><u>Free Online Conversion: Transform WAV Files Into AVI Format with Ease</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/global-market-anticipates-sale-of-39-million-moments-post-crisis-resurgence-in-board-deliveries/"><u>Global Market Anticipates Sale of 39 Million Moments: Post-Crisis Resurgence in Board Deliveries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-png-konvertierung-mit-movavi-effektive-online-bildbearbeitungssoftware-fur-freigegebene-dateiubersetzungen/"><u>Gratis PNG Konvertierung Mit Movavi - Effektive Online-Bildbearbeitungssoftware Für Freigegebene Dateiübersetzungen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-vob-to-mp4-converter-free-online-service/"><u>Movavi VOB to MP4 Converter: Free Online Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/moveavicr2bmp/"><u>Moveaviを使ってシームレスな無料CR2ファイルBMP変換 - ウェブサイト上での操作方法</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-bdo-crashes-effective-strategies-and-tips-for-pc-users/"><u>Troubleshooting BDO Crashes: Effective Strategies and Tips for PC Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-crafting-engaging-animated-videos-with-expert-advice/"><u>Ultimate Guide to Crafting Engaging Animated Videos with Expert Advice</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-crafting-minecraft-perfect-circles-and-spheres-techniques/"><u>[Updated] In 2024, Crafting Minecraft Perfect Circles & Spheres Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722843826582-android-16-beta-revealed-free-access-info-upcoming-release-timeline-and-hardware-facts-whats-the-hype/"><u>Android 16 Beta Revealed: Free Access Info, Upcoming Release Timeline & Hardware Facts – What's the Hype?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-software-solutions-for-monitoring-hashtags-on-twitter/"><u>Best Software Solutions for Monitoring Hashtags on Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-zoom-meetings-to-your-big-screen-a-step-by-step-instructional/"><u>Connect Zoom Meetings to Your Big Screen: A Step-by-Step Instructional</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-it-when-a-mac-is-not-detecting-an-external-display/"><u>How to Fix It When a Mac Is Not Detecting an External Display</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-professional-radial-effects-step-by-step-guide-for-photoshop-experts/"><u>In 2024, Professional Radial Effects Step-by-Step Guide for Photoshop Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/infographic-mind-numbing-youtube-factsfigures-and-statistics-2017-for-2024/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-effective-fixes-for-dealing-with-deathloop-pc-freezes-and-crashes/"><u>No More Frustration: Effective Fixes for Dealing with Deathloop PC Freezes & Crashes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-2024-sony-unveil-cutting-edge-news-product-launches-and-events/"><u>The 2024 Sony Unveil: Cutting-Edge News, Product Launches & Events</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-rise-and-fall-of-google-hangouts-unveiling-its-true-identity/"><u>The Rise and Fall of Google Hangouts: Unveiling Its True Identity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-power-of-raspberry-pi-cm4-a-tribute-to-industrial-innovation/"><u>Unboxing the Power of Raspberry Pi CM4 - A Tribute to Industrial Innovation</u></a></li>
 </ul></div>
 

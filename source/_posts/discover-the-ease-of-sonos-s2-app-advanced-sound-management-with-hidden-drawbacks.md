@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ease of Sonos' S2 App: Advanced Sound Management with Hidden Drawbacks"
-date: 2024-09-30T16:58:44.891Z
-updated: 2024-10-04T16:36:56.992Z
+date: 2024-10-06T01:16:37.300Z
+updated: 2024-10-09T22:00:46.671Z
 tags:
   - apple
 categories:
@@ -58,16 +58,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -78,26 +84,32 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Click on the device's report
 
@@ -122,10 +134,10 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -144,13 +156,6 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -158,6 +163,13 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 **Also: [Google Home pro tip: How to use Gemini to broadcast messages between your Nest devices](https://www.zdnet.com/home-and-office/smart-home/google-home-pro-tip-how-to-use-gemini-to-broadcast-messages-between-your-nest-devices/)**
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will iPads and Macs be Thread border routers?
 
@@ -219,22 +231,18 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-in-depth-review-unveiling-bublcams-full-potential/"><u>[New] 2024 Approved In-Depth Review Unveiling Bublcam's Full Potential</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook-for-2024/"><u>[New] Fast & Fun The Quick Guide to Taking Screenshots on Chromebook for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[New] Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-achieving-excellence-in-work-and-online-content/"><u>[Updated] Achieving Excellence in Work and Online Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvdmkv/"><u>如何一分鐘內，簡單地改變DVD格式成MKV：最新轉檔指南。</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-tutorial-mastering-the-art-of-removing-stickers-from-snapchat/"><u>Comprehensive Tutorial: Mastering the Art of Removing Stickers From Snapchat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descargar-convertidor-de-imagenes-webp-a-jpeg-sin-coste-movavi-online/"><u>Descargar Convertidor De Imágenes WebP a JPEG Sin Coste: Movavi Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-8-apps-for-effortless-hairstyling-solutions-online/"><u>Discover the Ultimate 8 Apps for Effortless Hairstyling Solutions Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-conversion-tool-effortlessly-change-trp-to-mpg-with-movavi/"><u>Free Conversion Tool: Effortlessly Change TRP to MPG with Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-transform-arw-photo-files-into-tiff-format-with-easy-steps/"><u>Free Online Conversion: Transform ARW Photo Files Into TIFF Format with Easy Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-change-ogv-files-to-webm-format-movavi/"><u>Free Online Converter: Change OGV Files to WebM Format - Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oneplus-nord-3-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your OnePlus Nord 3 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-t2x-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo T2x 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-voc-mp4/"><u>Movavi 在線自由變更 VOC 影片成 MP4 - 免費轉換器選擇</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-audio-post-production-in-fcp-a-beginners-guide-to-pro-results/"><u>New Audio Post-Production in FCP A Beginners Guide to Pro Results</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-file-mov-in-mp4-gratuitamente-online-con-moveavi-convertitore-rapido-e-sicuro/"><u>Trasforma I Tuoi File MOV in MP4 Gratuitamente Online Con Moveavi - Convertitore Rapido E Sicuro</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-uncovering-every-shared-element-in-a-chat-on-messenger/"><u>[New] 2024 Approved Uncovering Every Shared Element in a Chat on Messenger</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-authenticity-on-instagrams-platform/"><u>[New] Mastering Authenticity on Instagram's Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-enabling-cross-platform-play-a-step-by-step-guide-for-2024/"><u>[Updated] Enabling Cross-Platform Play A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-start-off-right-top-gear-for-aspiring-gopro-users/"><u>[Updated] Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-complete-mac-powered-guide-to-ootd-videography/"><u>[Updated] The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-itel-a05s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Itel A05s Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-differences-evs-bev-phevs-fcevs-and-traditional-hybrs-compared/"><u>Deciphering the Differences: EVs (BEV), PHEVs, FCEVs & Traditional Hybrs Compared</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-how-to-successfully-connect-devices-to-chromecast-via-the-compatible-remote/"><u>Expert Advice on How to Successfully Connect Devices to Chromecast via the Compatible Remote</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722899634418-fixing-the-issue-of-non-responsive-search-in-windows-11-top-tips/"><u>Fixing the Issue of Non-Responsive Search in Windows 11 – Top Tips!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-wi-fi-authentication-problems-on-android/"><u>How to Fix Wi-Fi Authentication Problems on Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-a2plus-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi A2+ Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/signal-versus-whatsapp-analyzing-the-two-popular-messaging-platforms/"><u>Signal Versus WhatsApp – Analyzing the Two Popular Messaging Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-for-airplay-magic-projecting-a-macs-world-onto-tv-screens/"><u>Simple Steps for AirPlay Magic: Projecting a Mac's World Onto TV Screens</u></a></li>
 </ul></div>
 

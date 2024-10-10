@@ -1,7 +1,7 @@
 ---
 title: "Syncing iCloud Notebooks with Linux: A Step-by-Step Guide - ZDNet"
-date: 2024-09-30T16:15:32.325Z
-updated: 2024-10-04T16:25:18.085Z
+date: 2024-10-05T19:19:11.554Z
+updated: 2024-10-09T21:40:41.017Z
 tags:
   - apple
 categories:
@@ -24,6 +24,13 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 
 ## Here's how to back up your iPhone with iCloud
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Go to settings and tap on your name at the top
 
 Image: Maria Diaz / ZDNet
@@ -39,10 +46,10 @@ Image: Maria Diaz / ZDNet
 Image: Maria Diaz / ZDNet
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Enable iCloud Backup and select Back up Now
@@ -59,18 +66,18 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Open Finder to find your iPhone in Locations
 
 Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
@@ -79,13 +86,6 @@ Image: Maria Diaz / ZDNet
 Be sure to select **Back up all of the data on your iPhone to this Mac** before clicking on **Back Up Now**.
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much does iCloud cost?
 
@@ -102,16 +102,16 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Do I need to back up iPhone apps?
 
 Your purchased apps don't need to be backed up; that information is associated with your Apple ID, so they can be easily downloaded when you want them again. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is there another cloud service aside from iCloud?
 
@@ -149,21 +149,22 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-real-time-vr-hardware-analysis/"><u>[New] 2024 Approved Real-Time VR Hardware Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-excursion-videography-tools-compilation/"><u>[New] Excursion Videography Tools Compilation</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-sudden-shuts-in-windows-11-systems/"><u>Cease Sudden Shuts in Windows 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-jpeg-image-files-free-of-cost-with-moveais-web-tool/"><u>Convert JPEG Image Files Free of Cost with Move.ai's Web Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-mp4-en-format-asf-avec-movavi/"><u>En Ligne : Convertissez Gratuitement Des Fichiers MP4 en Format ASF Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-movaviafree-directly-convert-raf-to-jpeg-online-and-save/"><u>Gratis MOVAVIAFree: Directly Convert RAF to JPEG Online and Save!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-hot-40i-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Hot 40i Through Google Earth?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-navigating-tiktoks-guest-entry-guide/"><u>In 2024, Navigating TikTok's Guest Entry Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavis-online-service-transform-mp4-files-into-m4b-format-at-no-cost/"><u>Movavi's Online Service - Transform MP4 Files Into M4B Format at No Cost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4-mka-movavi/"><u>MP4 표준으로 MKA 영상 변환하기 – 무가스 Movavi 도구를 사용한다</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>Shopping Smart with Drones What You Need to Think About First</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-your-podcast-production-process-for-2024/"><u>Streamlining Your Podcast Production Process for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-mac-ts/"><u>Windows 또는 Mac에서 .TS 파일을 사용한 영상 프레임워크 구현 방법</u></a></li>
-<li><a href="https://techtrends.techidaily.com/on-the-go-mp4-mp3-mp4-mp3/"><u>영구제: On-The-Go MP4 파일을 MP3로 깔끔한 청정 MP4 MP3 바이트 대응 무료 변환</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap/"><u>[New] Fiscal Football Footage How To Capture and Edit for Dirt-Cheap</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-peak-performance-tools-best-4k-cameras-for-professionals-for-2024/"><u>[Updated] Peak Performance Tools Best 4K Cameras for Professionals for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-expect-the-same-life-span-from-an-ev-as-you-would-from-a-conventional-gasoline-car/"><u>Can You Expect the Same Life Span From an EV as You Would From a Conventional Gasoline Car?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/command-your-household-tech-using-the-google-home-app-on-your-computer-step-by-step/"><u>Command Your Household Tech: Using the Google Home App on Your Computer Step-by-Step</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-correcting-the-missing-dsounddll-error-in-windows/"><u>Comprehensive Tips for Correcting The 'Missing dsound.dll' Error in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/examining-the-true-environmental-impact-of-evs-how-green-are-they-actually/"><u>Examining the True Environmental Impact of EVs: How 'Green' Are They Actually?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-how-to-repair-the-missing-bootmgr-problem-on-laptops-and-desktops/"><u>Expert Tips: How To Repair the Missing Bootmgr Problem on Laptops and Desktops 🔧</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-world-of-gadgets-with-toms-hardware-expert-insights/"><u>Explore the World of Gadgets with Tom's Hardware Expert Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-microsoftdirectxdirectinputdll-errors/"><u>How to Fix Microsoft.directx.directinput.dll Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-sony-xperia-5-v-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Sony Xperia 5 V to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-instructions-for-atheros-device-drivers-on-windows-operating-system/"><u>Installation Instructions for Atheros Device Drivers on Windows Operating System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/netflix-watch-party-setup-how-to-stream-together-in-real-time/"><u>Netflix Watch Party Setup: How to Stream Together in Real Time</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-install-amd-ryzen-eamon-5-2400g-graphics-card-driver-download/"><u>Quick & Simple Install: AMD Ryzen Eamon 5 2400G Graphics Card Driver Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-keeping-your-electronic-records-safe-discover-5-proven-approaches/"><u>The Ultimate Guide to Keeping Your Electronic Records Safe – Discover 5 Proven Approaches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-graphics-on-ryzen-5-2500u-made-easy-install-new-drivers-instantly/"><u>Upgrading Graphics on Ryzen 5 2500U Made Easy – Install New Drivers Instantly</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-105-classic-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia 105 Classic? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

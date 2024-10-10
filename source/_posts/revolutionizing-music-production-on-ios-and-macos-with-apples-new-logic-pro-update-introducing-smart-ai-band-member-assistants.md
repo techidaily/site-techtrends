@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Music Production on iOS and macOS with Apple's New Logic Pro Update - Introducing Smart, AI 'Band Member' Assistants
-date: 2024-09-28T16:15:33.780Z
-updated: 2024-10-04T16:51:34.120Z
+date: 2024-10-05T19:30:02.851Z
+updated: 2024-10-10T00:30:48.174Z
 tags:
   - apple
 categories:
@@ -45,22 +45,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -71,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,6 +76,13 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,17 +130,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-creativity-with-these-5-windows-11-record-methods/"><u>[New] Unleash Creativity with These 5 Windows 11 Record Methods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube-for-2024/"><u>[Updated] Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertir-archivos-a-mp3-sin-coste-soluciones-seguras-para-windows-y-mac/"><u>Convertir Archivos a Mp3 Sin Coste: Soluciones Seguras Para Windows Y Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/efficient-techniques-recording-saving-and-converting-movies-in-win-11/"><u>Efficient Techniques Recording, Saving, and Converting Movies in Win 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuita-online-conversao-aif-em-ogg-pelo-servico-web-de-movavi/"><u>Gratuita Online: Conversão AIF Em OGG Pelo Serviço Web De Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-iphone-selfie-devices-ranked-8/"><u>In 2024, The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavis-no-cost-web-service-for-switching-from-nef-to-jpeg-images-seamlessly/"><u>Movavi's No-Cost Web Service for Switching From NEF to JPEG Images Seamlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-mp4-mb/"><u>Movavi의 제공 MP4, MⅠB 프리미티를 원형값으로 바꾸기: 인터넷에서 가장 안전하고 쉽고 비용이 매우 낮은 솔루션</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/upgrade-to-exceptional-tech-accessories-cutting-edge-dell-display-unit-leading-noise-cancellation-headset-premium-quality-video-capture-device/"><u>Upgrade to Exceptional Tech Accessories: Cutting-Edge Dell Display Unit, Leading Noise Cancellation Headset, Premium Quality Video Capture Device</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-coprocessor-driver-not-found-heres-how-to-rectify-it/"><u>Windows 11 Coprocessor Driver Not Found? Here's How to Rectify It</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-filter-techniques/"><u>[New] 2024 Approved Mastering Instagram Filter Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-synchronized-screenshots-pc-or-cloud-perfection/"><u>[New] 2024 Approved Synchronized Screenshots PC or Cloud Perfection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-minimca-houses-best-abode-guides-for-new-players/"><u>[Updated] 2024 Approved MiniMCA Houses Best Abode Guides for New Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-music-for-imovie-all-you-need-to-know-are-here/"><u>2024 Approved Music for iMovie All You Need to Know Are Here</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-in-screenshots-a-detailed-guide/"><u>2024 Approved Precision in Screenshots A Detailed Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows/"><u>Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-turning-off-facebook-access-on-android-smartphones/"><u>Expert Tips for Turning Off Facebook Access on Android Smartphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-screenplays-reviewed-for-2024/"><u>Pinnacle Screenplays Reviewed for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi on Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-kernel32dll-issues-on-your-pc-step-by-step-guide/"><u>Resolving Kernel32.dll Issues on Your PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-gaming-stocking-stuffers-consoles-extras-kids-choice/"><u>Ultimate Gaming Stocking Stuffers: Consoles, Extras, Kid's Choice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/waterproof-features-of-the-latest-iphone-15-what-you-need-to-know-before-diving-in/"><u>Waterproof Features of the Latest iPhone 15: What You Need to Know Before Diving In</u></a></li>
 </ul></div>
 

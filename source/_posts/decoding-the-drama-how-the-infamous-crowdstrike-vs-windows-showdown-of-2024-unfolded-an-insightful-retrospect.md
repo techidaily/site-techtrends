@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Drama: How the Infamous CrowdStrike Vs. Windows Showdown of 2024 Unfolded | An Insightful Retrospect"
-date: 2024-10-01T16:59:47.009Z
-updated: 2024-10-04T16:54:02.980Z
+date: 2024-10-06T18:48:46.753Z
+updated: 2024-10-09T22:55:32.682Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,24 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dynamic-duo-display-youtubes-way-of-creative-splitting-for-2024/"><u>[Updated] Dynamic Duo Display YouTube’s Way of Creative Splitting for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-keep-your-creativity-alive-with-insta-content-sharing/"><u>[Updated] Keep Your Creativity Alive with Insta Content Sharing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions/"><u>2024 Approved Make Every Sound Count Comprehensive Guide to Free YouTube Video Transcriptions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aligning-podcast-drop-dates-with-listener-patterns-for-2024/"><u>Aligning Podcast Drop Dates with Listener Patterns for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/assessing-electric-vehicle-durability-during-high-and-low-temperature-conditions/"><u>Assessing Electric Vehicle Durability During High and Low-Temperature Conditions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-control-over-your-youtube-viewing-experience/"><u>Complete Control Over Your YouTube Viewing Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oppo-reno-11f-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo Reno 11F 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elite-selection-of-group-meeting-and-video-chat-software/"><u>Elite Selection of Group Meeting & Video Chat Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-productivity-7-premium-note-taking-solutions-for-ipad-owners/"><u>Enhance Your Productivity: 7 Premium Note-Taking Solutions for iPad Owners</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-5-live-stream-video-recorders-for-remote-sessions-for-2024/"><u>Essential 5 Live Stream Video Recorders for Remote Sessions for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exciting-insights-on-the-next-google-watch-pricing-release-window-and-expected-specs-revealed/"><u>Exciting Insights on the Next Google Watch – Pricing, Release Window & Expected Specs Revealed!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-strategies-for-faster-movement-master-the-teleport-command-in-your-game-of-blocks/"><u>Expert Strategies for Faster Movement: Master the Teleport Command in Your Game of Blocks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-alerts-signs-of-being-blocked-by-another-user/"><u>IMessage Alerts: Signs of Being Blocked by Another User</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-gmail-labels-tips-and-tricks-for-better-message-classification/"><u>Navigating the World of Gmail Labels: Tips and Tricks for Better Message Classification</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premium-fugetek-ft-568-stick-reviewed-unmatched-strength-for-professional-selfies/"><u>Premium Fugetek FT-568 Stick Reviewed: Unmatched Strength for Professional Selfies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3d9dll-errors-a-step-by-step-guide-to-restoring-your-dll-file/"><u>Resolving d3d9.dll Errors: A Step-by-Step Guide to Restoring Your DLL File</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/v-joshis-blueprint-for-youtube-2024-income/"><u>Sourav Joshi's Blueprint for YouTube 2024 Income</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-history-the-ultimate-walkthrough-on-using-the-wayback-machine/"><u>Unlocking History: The Ultimate Walkthrough on Using the Wayback Machine</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-of-the-best-10-webcam-recording-programs-for-windows-10/"><u>Updated 2024 Approved Best of the Best 10 Webcam Recording Programs for Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ptimizing-youtube-profits-understanding-your-adsense-earnings-per-kv-for-2024/"><u>[New] Optimizing Youtube Profits Understanding Your AdSense Earnings per KV for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-art-of-sustaining-snapstreaks-for-hours-on-end/"><u>[Updated] The Art of Sustaining Snapstreaks for Hours on End</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-focusrite-scarlett-18i20-driver-download-for-pc/"><u>Free Focusrite Scarlett 18I20 Driver Download for PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweetvidtowebm-easy-streaming-tools/"><u>In 2024, TweetVidToWebM Easy Streaming Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-poetry-through-chatgpt-interactions/"><u>Innovating Poetry Through ChatGPT Interactions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-and-external-displays-corrective-actions-when-its-not-working-right/"><u>Mac and External Displays: Corrective Actions When It's Not Working Right</u></a></li>
+<li><a href="https://extra-information.techidaily.com/narrative-strategies-for-engaging-docu-films/"><u>Narrative Strategies for Engaging Docu-Films</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/onikuma-headset-microphone-not-working-heres-how-to-fix-it/"><u>Onikuma Headset Microphone Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-viewing-hook-up-disney-plus-to-chromecast-effortlessly/"><u>Seamless Viewing: Hook Up Disney Plus to Chromecast Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-kid-friendly-websites-with-free-movie-downloads/"><u>Top 6 Kid-Friendly Websites with Free Movie Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-or-not-found-msvcr100dll-error-on-your-pc/"><u>Troubleshooting the 'Missing' Or 'Not Found' MSVCR100.DLL Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-correctly-addressing-the-wininetdll-cant-be-found-problem/"><u>Troubleshooting Tips: Correctly Addressing the 'wininet.dll Can't Be Found' Problem</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
 
