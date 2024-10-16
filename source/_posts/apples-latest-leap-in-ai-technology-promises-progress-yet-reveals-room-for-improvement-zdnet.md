@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-10-05T23:45:06.417Z
-updated: 2024-10-09T23:34:55.567Z
+date: 2024-10-13T16:09:36.588Z
+updated: 2024-10-15T23:58:23.137Z
 tags:
   - apple
 categories:
@@ -69,29 +69,37 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-screen-mastery-on-youtube-ideas-unleashed/"><u>[New] In 2024, Green Screen Mastery on YouTube - Ideas Unleashed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-cinematic-craftsman-corner-qanda-hub/"><u>2024 Approved Cinematic Craftsman Corner Q&A Hub</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-optimizing-privacy-for-your-online-videography/"><u>2024 Approved Optimizing Privacy for Your Online Videography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/access-cinema-anytime-how-to-set-up-fandango-for-streaming-on-apple-tv/"><u>Access Cinema Anytime: How to Set Up Fandango for Streaming on Apple TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capturing-moments-with-live-activity-features-in-the-latest-ios-update/"><u>Capturing Moments with Live Activity Features in the Latest iOS Update</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/driven-by-digital-wizardry-explore-how-cookiebot-empowers-your-online-presence/"><u>Driven By Digital Wizardry: Explore How Cookiebot Empowers Your Online Presence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-hacks-for-flawless-music-streaming-solve-spotifys-quirks-on-android-auto-using-these-13-tips/"><u>Expert Hacks for Flawless Music Streaming: Solve Spotify's Quirks on Android Auto Using These 13 Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-review-a-closer-look-at-the-line-chat-app-experience/"><u>Expert Review: A Closer Look at the Line Chat App Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-ipados-16s-latest-release-date-zero-price-tag-and-exciting-features/"><u>Explore iPadOS 16'S Latest Release Date, Zero Price Tag, and Exciting Features!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-beyond-playfulness-unveiling-the-subtext-in-snapchat-symbols/"><u>In 2024, Beyond Playfulness Unveiling the Subtext in Snapchat Symbols</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pro-equipment-list-for-adventure-documentaries/"><u>In 2024, Pro Equipment List for Adventure Documentaries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-gmail-discover-the-ultimate-list-of-30-keyboard-commands/"><u>Mastering Gmail: Discover the Ultimate List of 30 Keyboard Commands</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-meizu-21-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-indiana-jones-movie-saga-how-to-experience-it-as-intended/"><u>The Complete Indiana Jones Movie Saga: How to Experience It as Intended.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-to-correct-an-avcodecdll-error-on-your-pc/"><u>The Ultimate Fixes to Correct an Avcodec.dll Error on Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-lava-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Lava Phone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-replace-vsdc-with-these-powerful-mac-video-editors/"><u>Updated In 2024, Replace VSDC with These Powerful Mac Video Editors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[New] In 2024, Perfect Picture Spotlights How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>[Updated] 2024 Approved Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-webcam-wizardry-for-creative-minds/"><u>[Updated] In 2024, Webcam Wizardry for Creative Minds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-using-srt-audio-on-windows-and-macos-devices/"><u>[Updated] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724766110402-mp4dvd/"><u>「MP4ファイルをDVDプレイヤー用に変換する究極のテクニック：失敗しないチュートリアルと最高の無料コンバータソフト」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-macx-dvd-ripper-prohd/"><u>1. [官方推薦] MacX DVD Ripper Pro/HD動画専用変換器予算プラン - 限定大割引でシリーズ全てお得購入可能！</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macavchd-macx/"><u>最高のMac向け無料AVCHDビデオコンバーターをダウンロード - 強力な MacXフリーマルチメディアツールで無限の可能性が拡張</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-guide-to-understanding-popular-networks-facebook-twitter-instagram-versus-youtube/"><u>A Guide to Understanding Popular Networks: Facebook, Twitter, Instagram versus YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/access-high-definition-hollywood-films-free-bilingual-english-and-hindi-downloads/"><u>Access High-Definition Hollywood Films Free: Bilingual (English & Hindi) Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-videos-flawlessly-with-the-top-free-avi-to-mkv-converter-for-macos-and-windows-10/"><u>Convert Your Videos Flawlessly with the Top Free AVI to MKV Converter for macOS & Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-effortless-steps-to-get-and-set-up-virtualdub-on-your-mac/"><u>Guide: Effortless Steps to Get and Set Up VirtualDub on Your Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-moto-g14-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola Moto G14 Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adjusting-your-amazon-kindle-paperwhites-clock-settings/"><u>Step-by-Step Guide: Adjusting Your Amazon Kindle Paperwhite's Clock Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-for-fixing-whatsapp-malfunction-on-ios-devices-xsxrx87/"><u>Troubleshooting Guide for Fixing WhatsApp Malfunction on iOS Devices (XS/XR/X/8/7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-finding-the-perfect-region-free-dvd-player-for-your-mac/"><u>Ultimate Guide to Finding the Perfect Region-Free DVD Player for Your Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724765947878-xmedia-recode/"><u>XMedia Recode チュートリアル：ダウンロード方法と使用ガイド - 日本版</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

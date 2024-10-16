@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade To iOS 18 On Your iPhone? Featuring Eligible Device List and Step-by-Step Setup Process
-date: 2024-10-06T01:25:34.703Z
-updated: 2024-10-09T17:01:23.836Z
+date: 2024-10-09T23:33:26.379Z
+updated: 2024-10-16T04:03:07.690Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -47,22 +40,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -70,25 +57,25 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -130,6 +117,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,21 +169,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>[New] Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-tape-to-broadcast-ready-using-studio-editor/"><u>[Updated] In 2024, From Raw Tape to Broadcast-Ready Using Studio Editor</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-implementing-and-using-high-dynamic-range-auto-hdr-in-windows-11/"><u>A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-the-future-of-language-learning-with-mondlys-innovation/"><u>Embrace the Future of Language Learning with Mondly's Innovation</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhancing-your-game-captures-top-6-strategies-for-stunning-photomode-images/"><u>Enhancing Your Game Captures: Top 6 Strategies for Stunning Photomode Images</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-13-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 13 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-speeding-up-or-slowing-down-the-footage-is-a-simple-and-yet-effective-video-editing-technique-in-this-article-well-share-with-you-about-10-best-slow-and/"><u>New Speeding up or Slowing Down the Footage Is a Simple and yet Effective Video Editing Technique. In This Article, Well Share with You About 10 Best Slow and Fast Motion Video Apps for iOS and Android D</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/quick-steps-to-nostalgic-facebook-story-viewing/"><u>Quick Steps to Nostalgic Facebook Story Viewing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-system-restore-on-windows-881/"><u>Step-by-Step Guide: Setting Up System Restore on Windows 8/8.1</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-your-printer-with-windows-1/"><u>Step-by-Step Guide: Setting Up Your Printer with Windows 1</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-sharing-your-favorite-titles-on-the-steam-platform/"><u>Step-by-Step Guide: Sharing Your Favorite Titles on the Steam Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-playing-fallout-3-on-the-latest-windows-operating-system/"><u>Step-by-Step Instructions for Playing Fallout 3 on the Latest Windows Operating System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-correctly-handle-a-bulky-pagefilesys-file-issue/"><u>Steps to Correctly Handle a Bulky Pagefile.sys File Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-tutorial-for-deleting-software-in-windows-11-best-practices/"><u>The Complete Tutorial for Deleting Software in Windows 11 [Best Practices]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-insight-into-superfetch-for-optimal-performance/"><u>The Ultimate Insight Into SuperFetch for Optimal Performance</u></a></li>
-<li><a href="https://facebook.techidaily.com/united-states-ags-urge-ban-on-kids-on-instagram-by-fb/"><u>United States AGs Urge Ban on Kids on Instagram by FB</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-ig-videos-tips-and-templates/"><u>[New] Elevate Your IG Videos Tips & Templates</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-leading-sites-for-extracting-text-aesthetics-packs/"><u>[Updated] 2024 Approved Leading Sites for Extracting Text Aesthetics Packs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-top-choice-best-offline-mobile-games-for-endless-entertainment/"><u>[Updated] Your Top Choice Best Offline Mobile Games for Endless Entertainment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-hp-laserjet-pro-m404n-printer-drivers/"><u>Download and Install the Latest HP LaserJet Pro M404n Printer Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-chromebook-restoration-steps-to-successfully-reboot-even-unresponsive-devices/"><u>Mastering the Art of Chromebook Restoration: Steps to Successfully Reboot Even Unresponsive Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-photos-on-linux-systems-a-step-by-step-guide-to-deleting-metadata-with-exiftool/"><u>Protecting Your Photos on Linux Systems: A Step-by-Step Guide to Deleting Metadata with Exiftool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-no-internet-secured-issues-in-windows-a-step-by-step-guide/"><u>Resolving 'No Internet, Secured' Issues in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/six-astonishing-facts-about-the-persistent-use-of-windows-xp/"><u>Six Astonishing Facts About the Persistent Use of Windows XP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-to-restore-text-input-functionality-when-cursor-goes-white-on-windows-pc/"><u>Solutions to Restore Text Input Functionality When Cursor Goes White on Windows PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-prime-camera-choices-revealing-the-best-for-2024/"><u>The Prime Camera Choices – Revealing the Best for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-audio-technica-the-ultimate-guide-for-updating-drivers/"><u>Troubleshooting Audio Technica: The Ultimate Guide for Updating Drivers</u></a></li>
 </ul></div>
 

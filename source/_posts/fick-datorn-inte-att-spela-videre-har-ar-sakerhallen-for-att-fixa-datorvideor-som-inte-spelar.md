@@ -1,7 +1,7 @@
 ---
 title: Fick Datorn Inte Att Spela Videre? Här Är Säkerhållen För Att Fixa Datorvideor Som Inte Spelar
-date: 2024-09-12 17:47:22
-updated: 2024-09-13 10:48:27
+date: 2024-10-10T05:26:29.170Z
+updated: 2024-10-15T21:49:58.814Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac82437e197dd592c77a4c46e.jpg
@@ -210,6 +210,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -344,6 +351,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -362,6 +376,19 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -372,6 +399,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -455,9 +489,23 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -502,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -509,6 +564,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -536,11 +598,31 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/2024-approved-cutting-edge-capture-selecting-top-smartphone-cameras-in-high-res-video/"><u>2024 Approved Cutting Edge Capture Selecting Top Smartphone Cameras in High-Res Video</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-toggle-your-youtube-video-with-picture-in-picture-on-ios/"><u>2024 Approved Toggle Your YouTube Video with Picture-in-Picture on iOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-top-rated-learning-platforms-a-comprehensive-review/"><u>2024’S Top-Rated Learning Platforms: A Comprehensive Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/audiences-unmasked-the-insiders-method-for-seeing-who-watches-your-youtube-content/"><u>Audiences Unmasked: The Insider’s Method for Seeing Who Watches Your YouTube Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-youtube-popularity-two-simple-strategies/"><u>Boosting YouTube Popularity Two Simple Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-no-cost-software-updater-tools-top-11-picks/"><u>Discover the Best No-Cost Software Updater Tools (Top 11 Picks)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-link-up-a-ps4-controller-for-gaming-sessions/"><u>Easy Ways to Link Up a PS4 Controller for Gaming Sessions</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-smart-7-hd-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 7 HD Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-out-youtubes-financial-strategy-for-nurturing-short-videos/"><u>In 2024, Charting Out YouTube's Financial Strategy for Nurturing Short Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 13 mini</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722856124301-inside-look-at-the-upcoming-android-16-free-version-details-release-timeline-specs-get-all-rumors-here/"><u>Inside Look at the Upcoming Android 16: Free Version Details, Release Timeline, Specs – Get All Rumors Here!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-your-impact-on-facebook-with-these-simple-strategies/"><u>Maximize Your Impact on Facebook with These Simple Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rumors-surrounding-apples-newly-envisioned-personal-assistant-robot-expected-cost-and-market-availability/"><u>Rumors Surrounding Apple's Newly Envisioned Personal Assistant Robot: Expected Cost & Market Availability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/struggling-with-non-charging-airpods-discover-9-helpful-tips/"><u>Struggling with Non-Charging AirPods? Discover 9 Helpful Tips!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-best-alarm-clock-applications/"><u>The Ultimate List: Best Alarm Clock Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-launchdll-files-in-windows/"><u>Troubleshooting Steps for Missing 'Launch.dll' Files in Windows</u></a></li>
+</ul></div>
+

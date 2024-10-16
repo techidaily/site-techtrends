@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2024-10-03T22:08:58.588Z
-updated: 2024-10-09T19:09:09.833Z
+date: 2024-10-14T04:08:32.268Z
+updated: 2024-10-15T23:09:14.777Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -33,25 +33,33 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 _/remind me "reminder" 4/29/2020 9:15 PM_  
 ![Reminder in Slack comment field](https://www.lifewire.com/thmb/Y_JaemDUyAZIyqIKuDZj3PtsRqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslackcommentfield-65f035cb01d248c89a768e5c87c5f919.jpg)  
  You can use a number of formats to define the time. Specify only the time for today, state the date in most formats, or write any day of the week. You can also use recurring terms like "every Monday and Friday" or "every weekday". If you don't specify time, it'll default to 9:00 AM on the day you specify.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When you press**Enter** , you'll see a message confirming that Slack will remind you at the date and time you specified. You'll also see buttons to**Delete** the reminder or**View Reminders** that you've already set.  
 ![Reminder confirmation](https://www.lifewire.com/thmb/PzyebHvUXsi9Hje98FToFqDftnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackreminderresult-a1aede9c7212420fad2f823efe967309.jpg)
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
 
@@ -61,16 +69,22 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![List of reminders](https://www.lifewire.com/thmb/93fmPOaAUZSyg_r2w9V_Eko55e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-78e950d238934f26bea0fad0dc6c6106.jpg)
 2. Select**Delete** next to the task you want to remove.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
  The /remind command works the same whether you're using Slack on the web or the Slack mobile app.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set a Reminder in Slack From Messages
 
@@ -81,21 +95,14 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 2. To add a reminder from a message on the Slack app, long-press on the message and select**Remind Me** from the pop-up menu.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On the**Remind me** window, tap the time when you want to be reminded. Select**Custom** to set your own date, time, or custom reminder text.  
 ![Remind Me in Slack app](https://www.lifewire.com/thmb/5qXQiml1lToF3zCuFYZVOfTFy2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackappremindme-9ada02a06c2c490bb9fa654470dd6913.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These reminders will show up in the Slackbot channel just like any of the other reminders that you've set for yourself using the /remind command.
 
@@ -128,18 +135,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>[Updated] 2024 Approved Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722886550186-electric-vehicle-charging-basics-at-home-what-every-owner-should-know/"><u>Electric Vehicle Charging Basics at Home: What Every Owner Should Know</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-windows-10-bluetooth-connection-glitches-a-comprehensive-guide/"><u>Fixing Windows 10 Bluetooth Connection Glitches – A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-inception-to-innovation-unpacking-the-history-and-development-of-ios-versions-10-180/"><u>From Inception to Innovation: Unpacking the History and Development of iOS Versions 1.0-18.0</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enjoy-fubotv-content-with-an-amazon-firestick-step-by-step-instructions/"><u>How to Enjoy FuboTV Content with an Amazon Firestick - Step-by-Step Instructions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-repair-dll-could-not-be-located-and-similar-windows-problems/"><u>How to Repair DLL Could Not Be Located and Similar Windows Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping-for-2024/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/outlook-lifesaver-how-to-rescind-and-recover-accidentally-deleted-emails/"><u>Outlook Lifesaver: How to Rescind and Recover Accidentally Deleted Emails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-sound-architects-guide-to-memo-mastery-for-2024/"><u>The Sound Architect's Guide to Memo Mastery for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/video-exporting-youtube-content-directed-to-facebook-stream/"><u>Video Exporting YouTube Content Directed to Facebook Stream</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-collaborate-for-success-video-strategies/"><u>[New] In 2024, Collaborate for Success Video Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unmasking-the-vanished-youtube-recommendations-on-facebook-for-2024/"><u>[Updated] Unmasking the Vanished YouTube Recommendations on Facebook for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unusual-sideway-photos-in-instagram-storytelling-for-2024/"><u>[Updated] Unusual Sideway Photos in Instagram Storytelling for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pioneering-techniques-in-youtube-video-recording/"><u>2024 Approved Pioneering Techniques in YouTube Video Recording</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-on-a-budget-combining-free-tools-for-cost-effective-solutions/"><u>AI on a Budget: Combining Free Tools for Cost-Effective Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-virtual-versus-augmented-versus-mixed-realities-an-in-depth-guide-to-types-of-digital-environments/"><u>Decoding Virtual Versus Augmented Versus Mixed Realities: An In-Depth Guide to Types of Digital Environments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/effortless-android-sound-capture-4-non-root-methods-for-2024/"><u>Effortless Android Sound Capture 4 Non-Root Methods for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-your-perfect-wallpaper-in-the-spectacular-visuals-of-the-james-webb-space-observatory/"><u>Find Your Perfect Wallpaper in the Spectacular Visuals of the James Webb Space Observatory</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-stabilization-made-easy-top-10-online-tools-for-2024/"><u>Free Video Stabilization Made Easy Top 10 Online Tools for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-brother-hl-l2300d-driver-version-for-smooth-printing-experience/"><u>Get the Newest Brother HL-L2300D Driver Version for Smooth Printing Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-revenue-a-youtube-channelers-guide-for-2024/"><u>Maximizing Revenue A YouTube Channeler’s Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-home-automation-discover-why-smartthings-pro-is-the-top-choice/"><u>Maximizing Your Home Automation: Discover Why SmartThings Pro Is the Top Choice</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstall-usb-drivers-on-windows-11-10-8-7/"><u>Reinstall USB Drivers on Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionizing-electric-vehicle-charging-chargepoints-latest-strategy-enhancing-charger-dependability/"><u>Revolutionizing Electric Vehicle Charging: ChargePoint's Latest Strategy Enhancing Charger Dependability</u></a></li>
+<li><a href="https://techtrends.techidaily.com/surprise-discovering-artificial-intelligence-inside-your-logitech-mouse/"><u>Surprise! Discovering Artificial Intelligence Inside Your Logitech Mouse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-orbital-secrets-how-amazons-breakthrough-in-space-based-laser-technology-is-revolutionizing-satellite-internet/"><u>Unlocking Orbital Secrets: How Amazon's Breakthrough in Space-Based Laser Technology Is Revolutionizing Satellite Internet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-insights-anticipating-the-ai-breakthrough-beyond-chatgpt-at-openais-upcoming-may-13th-presentation/"><u>Unveiling Insights: Anticipating the AI Breakthrough Beyond ChatGPT at OpenAI's Upcoming May 13Th Presentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-perplexity-ai-understanding-and-utilizing-the-trending-conversation-bot-efficiently/"><u>Unveiling Perplexity AI: Understanding and Utilizing the Trending Conversation Bot Efficiently</u></a></li>
 </ul></div>
 

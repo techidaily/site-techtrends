@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-10-02T18:20:11.682Z
-updated: 2024-10-09T21:08:29.041Z
+date: 2024-10-09T05:08:14.938Z
+updated: 2024-10-15T20:51:24.067Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -43,13 +50,6 @@ In my case, morning to mid-afternoon is that daily productivity time. That's whe
 That whole process is my flow. Over my many various iterations, I've managed to optimize this process so I'm able to get a tremendous amount done in a relatively short amount of time.
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Changes due to the pandemic
 
@@ -91,6 +91,13 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -119,6 +126,19 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -133,13 +153,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -177,13 +190,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -194,10 +200,10 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -236,13 +242,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -256,6 +255,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,22 +292,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-inclusive-panel-of-easeus-reviewers/"><u>[Updated] Inclusive Panel of EaseUS Reviewers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-sizzling-shots-capturing-culinary-magic/"><u>[Updated] Sizzling Shots Capturing Culinary Magic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>2024 Approved Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/adapting-ios-messaging-with-these-tips-for-android-enthusiasts/"><u>Adapting iOS Messaging with These Tips for Android Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722886365938-enhancing-user-experience-modify-your-windows-10-taskbar-appearance-with-colored-themes/"><u>Enhancing User Experience: Modify Your Windows 10 Taskbar Appearance with Colored Themes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-securely-pin-your-chat-threads-in-instagram-a-comprehensive-guide/"><u>How to Securely Pin Your Chat Threads in Instagram: A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-itel-s23plus-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Itel S23+ Device</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a1x-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A1x 5G Users</u></a></li>
-<li><a href="https://win-webster.techidaily.com/integrating-youtube-videos-into-your-flippingbook-ebooks-with-simple-steps/"><u>Integrating YouTube Videos Into Your FlippingBook Ebooks with Simple Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-data-integration-the-ultimate-technique-for-combining-dual-excel-columns/"><u>Mastering Data Integration: The Ultimate Technique for Combining Dual Excel Columns</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimized-home-networking-solutions-top-modem-and-router-combos-of-the-year/"><u>Optimized Home Networking Solutions: Top Modem and Router Combos of the Year</u></a></li>
-<li><a href="https://facebook.techidaily.com/peering-beyond-numbers-facebooks-true-losses/"><u>Peering Beyond Numbers: Facebook’s True Losses</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/spanish-numbers-101-a-beginners-guide-to-counting-in-spanish/"><u>Spanish Numbers 101: A Beginner's Guide To Counting In Spanish</u></a></li>
-<li><a href="https://techtrends.techidaily.com/take-control-of-your-apple-music-settings-to-stop-autoplay-functionality/"><u>Take Control of Your Apple Music Settings to Stop Autoplay Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-sync-with-your-bose-soundlink-wirelessly/"><u>Ultimate Guide: How to Sync with Your Bose SoundLink Wirelessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-searching-for-ev-chargers-with-google-maps-tips/"><u>Unlocking the Secrets of Searching for EV Chargers with Google Maps Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-audiopiece-recorder-guide-installation-and-test/"><u>[New] In 2024, AudioPiece Recorder Guide Installation & Test</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/irthful-melodies-best-song-caricatures/"><u>[New] Mirthful Melodies Best Song Caricatures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-utilizing-zooms-snap-functionality/"><u>[Updated] In 2024, Utilizing Zoom's Snap Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-traditional-cable-with-modern-streaming-platforms/"><u>Comparing Traditional Cable with Modern Streaming Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-no-cost-shared-dns-services-online/"><u>Discover the Best No-Cost, Shared DNS Services Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-fixes-for-when-you-cant-find-the-msvcrtdll-component/"><u>Efficient Fixes for When You Can’t Find the MSVCRT.DLL Component</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-a-disappearing-shelldll-on-your-pc-effective-techniques-unveiled/"><u>Fixing a Disappearing Shell.dll on Your PC: Effective Techniques Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-maintain-a-seamless-video-experience-by-removing-stickers/"><u>How to Maintain a Seamless Video Experience by Removing Stickers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-8t-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-12-mini-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 12 mini without Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/investigating-xbox-live-downtime-identifying-if-its-network-wide-or-specific-to-your-setup/"><u>Investigating Xbox Live Downtime - Identifying if It's Network-Wide or Specific to Your Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-technology-a-deep-dive-into-toms-computer-analysis/"><u>Mastering Technology: A Deep Dive Into Tom's Computer Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalized-phone-selection-why-iphone-might-be-right-or-maybe-not-compared-to-android/"><u>Personalized Phone Selection: Why iPhone Might Be Right, Or Maybe Not – Compared to Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-changing-your-mac-folder-colors/"><u>Step-by-Step Guide: Changing Your Mac Folder Colors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/universal-access-guide-sync-icloud-pictures-across-apple-windows-and-android-gadgets/"><u>Universal Access Guide: Sync iCloud Pictures Across Apple, Windows, and Android Gadgets</u></a></li>
 </ul></div>
 

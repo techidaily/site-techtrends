@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-10-07T16:51:41.517Z
-updated: 2024-10-09T21:19:12.951Z
+date: 2024-10-14T22:48:08.918Z
+updated: 2024-10-15T23:32:22.057Z
 tags:
   - apple
 categories:
@@ -68,6 +68,13 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -86,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,13 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +116,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,24 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-elevate-your-profile-the-best-30-tiktok-handle-choices/"><u>[New] 2024 Approved Elevate Your Profile The Best 30 TikTok Handle Choices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-cameraphone-trackers-precision-power-performance/"><u>[New] 2024 Approved Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-revisiting-streamers-for-enhanced-experience-for-2024/"><u>[New] Revisiting Streamers for Enhanced Experience for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-do-youtubers-get-paid-monthly/"><u>[Updated] 2024 Approved Do YouTubers Get Paid Monthly?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-bridging-the-gap-integrating-spotify-and-youtube-music-playlists-for-2024/"><u>[Updated] Bridging the Gap Integrating Spotify and YouTube Music Playlists for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bend-the-light-homegrown-animated-innovations/"><u>2024 Approved Bend the Light Homegrown Animated Innovations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-efficiently-delete-unwanted-video-feedback/"><u>2024 Approved How to Efficiently Delete Unwanted Video Feedback</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-comprehensive-guide-to-choosing-between-ipad-pro-and-macbook-pro/"><u>A Comprehensive Guide to Choosing Between iPad Pro and MacBook Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-open-control-panel-in-windows-8/"><u>How to Easily Open Control Panel in Windows 8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-help-in-windows-10-easily/"><u>How to Get Help in Windows 10. Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-install-netflix-addon-for-kodi-ultimate-guide/"><u>How to Install Netflix Addon for Kodi - Ultimate Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/improving-the-endurance-of-your-gopro-power-source-for-2024/"><u>Improving the Endurance of Your GoPro Power Source for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insights-into-the-duration-of-windows-update-cycles/"><u>Insights Into the Duration of Windows Update Cycles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/install-essential-dell-drivers-on-your-windows-operating-system-easily/"><u>Install Essential Dell Drivers on Your Windows # Operating System Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instant-resolution-why-is-my-fortnite-game-missing-sounds/"><u>Instant Resolution: Why Is My Fortnite Game Missing Sounds?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-cpu-speed-checks-quick-easy-insights-for-peak-computing-performance/"><u>Master the Art of CPU Speed Checks - Quick, Easy Insights for Peak Computing Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/no-more-upgrades-secure-a-stable-version-of-windows-11-by-stopping-its-auto-update-feature/"><u>No More Upgrades: Secure a Stable Version of Windows 11 by Stopping Its Auto-Update Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimize-minecraft-for-lightning-fast-gameplay-experience/"><u>Optimize Minecraft for Lightning-Fast Gameplay Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unplug-and-replay-twitch-livestream-techniques/"><u>Unplug and Replay Twitch Livestream Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-craft-standout-videos-with-professional-free-banner-samples/"><u>[New] 2024 Approved Craft Standout Videos with Professional, Free Banner Samples</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-comparing-reels-and-stories-whats-the-best-choice-in-2024/"><u>[New] Comparing Reels & Stories What's the Best Choice, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-analyzing-livestream-giants-twitch-vs-youtube-breakdown/"><u>[Updated] 2024 Approved Analyzing Livestream Giants Twitch Vs YouTube Breakdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>2024 Approved The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-fixes-quick-guide-for-better-gaming-experience/"><u>Apex Legends Voice Chat Fixes: Quick Guide for Better Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-ultimate-10-pc-based-software-solutions-similar-to-screenflow-for-seamless-video-production/"><u>Discover the Ultimate 10 PC-Based Software Solutions Similar to ScreenFlow for Seamless Video Production</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-screenshots-how-to-use-your-logiteche-keyboards-features-for-image-capture/"><u>Easy Screenshots: How to Use Your Logiteche Keyboard's Features for Image Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-and-tricks-to-resolve-sound-issues-with-your-chromecast-unit/"><u>Expert Tips and Tricks to Resolve Sound Issues with Your Chromecast Unit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-solutions-to-the-msstdfmtdll-is-missing-or-not-found-problem/"><u>Finding Solutions to the 'msstdfmt.dll Is Missing or Not Found' Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-trial-and-student-discounts-for-microsoft-word-everything-you-need-to-know/"><u>Free Trial & Student Discounts for Microsoft Word – Everything You Need to Know</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insta-wow-moments-7-must-follow-strategies-for-striking-reels/"><u>In 2024, Insta-Wow Moments 7 Must-Follow Strategies for Striking Reels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-restoring-firestick-remote-control-functionality/"><u>Mastering the Art of Restoring Firestick Remote Control Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-entertainment-easy-tutorial-on-how-to-hook-up-your-laptop-to-the-television-with-hdmi/"><u>Maximize Entertainment: Easy Tutorial on How to Hook Up Your Laptop to the Television with HDMI</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-have-hardware-for-ultimate-pc-games/"><u>Must-Have Hardware for Ultimate PC Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tolkiens-trilogy-watch-list-a-detailed-guide-for-fans/"><u>Tolkien's Trilogy Watch List: A Detailed Guide for Fans</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-msidll-errors-effective-solutions-explored/"><u>Troubleshooting Missing MSI.DLL Errors: Effective Solutions Explored</u></a></li>
 </ul></div>
 

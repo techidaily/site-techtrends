@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-10-06T17:27:46.434Z
-updated: 2024-10-09T20:02:02.765Z
+date: 2024-10-13T05:30:26.661Z
+updated: 2024-10-15T23:27:41.566Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -74,10 +81,10 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -136,13 +143,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -174,10 +174,10 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -191,10 +191,10 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -243,22 +243,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-obs-scheduling-mastery-implementing-a-countdown-clock/"><u>[New] 2024 Approved Obs Scheduling Mastery Implementing a Countdown Clock</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-free-pass-to-premium-video-editing-tools/"><u>[New] 2024 Approved The Free Pass to Premium Video Editing Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-highest-qp-for-gradual-video-playback/"><u>[Updated] Highest QP for Gradual Video Playback</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-video-upload-insights-aspect-ratio-for-twitters-platform/"><u>[Updated] Video Upload Insights Aspect Ratio for Twitter's Platform</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-erased-memories-how-to-revisit-them-online/"><u>[Updated] Youtube's Erased Memories How to Revisit Them Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiovisual-updates-integrating-sounds-with-statuses/"><u>2024 Approved Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-best-gear-for-shooting-top-10-high-res-shoulder-rigs/"><u>2024 Approved Best Gear for Shooting Top 10 High-Res Shoulder Rigs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beginners-blueprint-building-the-perfect-audio-environment-in-your-living-space/"><u>Beginner's Blueprint: Building the Perfect Audio Environment in Your Living Space</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cloud-gaming-demystified-how-to-harness-the-power-of-xbox-game-pass-ultimate-for-an-unparalleled-experience/"><u>Cloud Gaming Demystified: How to Harness the Power of Xbox Game Pass Ultimate for an Unparalleled Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-for-taking-screenshots-with-windows-and-macos/"><u>Easy Methods for Taking Screenshots with Windows and MacOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-techniques-to-correct-sound-integration-errors-when-uploading-videos-into-adobe-premiere-pro/"><u>Effective Techniques to Correct Sound Integration Errors when Uploading Videos Into Adobe Premiere Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-food-monitoring-tools-the-ultimate-top-6-list/"><u>Essential Food Monitoring Tools: The Ultimate Top 6 List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-experience-the-full-thrill-of-indiana-jones-a-proper-watching-schedule/"><u>How to Experience the Full Thrill of Indiana Jones: A Proper Watching Schedule</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-d3dx941dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_41.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-zte-nubia-z60-ultra-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on ZTE Nubia Z60 Ultra to Protect Your Individual Information</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-fixing-when-ksuserdll-is-missing-or-cant-be-located-errors/"><u>The Ultimate Guide to Fixing When Ksuser.dll Is Missing or Can’t Be Located Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-32-best-free-backup-solutions-comprehensive-ranking-and-reviews/"><u>Top 32 Best Free Backup Solutions - Comprehensive Ranking & Reviews</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transforming-single-frames-into-motion-narratives/"><u>[Updated] 2024 Approved Transforming Single Frames Into Motion Narratives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[Updated] Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premium-opening-scenes-top-16-youtube-intros-for-popularity/"><u>[Updated] Premium Opening Scenes Top 16 YouTube Intros for Popularity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-securing-skype-audio-with-obs-recording-techniques-for-2024/"><u>[Updated] Securing Skype Audio with OBS Recording Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-enhancing-audio-clarity-top-tips-for-crystal-clear-iphone-phone-conversations-zdnet/"><u>1. Enhancing Audio Clarity: Top Tips for Crystal Clear iPhone Phone Conversations - ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-streaming-social-feeds-on-your-smart-tv-whats-next/"><u>2024 Approved Streaming Social Feeds on Your Smart TV What's Next?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-your-lost-email-a-guide-to-finding-your-missing-address/"><u>Discover Your Lost Email: A Guide to Finding Your Missing Address</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-correcting-code-31-errors-in-windows-systems/"><u>Effective Solutions for Correcting 'Code 31' Errors in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-chatgpt-plus-why-you-shouldnt-miss-out-on-these-top-5-reasons-to-enroll/"><u>Evaluating ChatGPT Plus: Why You Shouldn't Miss Out on These Top 5 Reasons to Enroll!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-defrosting-your-stalled-macbook-air-without-data-loss/"><u>Expert Advice on Defrosting Your Stalled MacBook Air Without Data Loss</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fortnite-account-merge-a-detailed-walkthrough-for-gamers/"><u>Fortnite Account Merge: A Detailed Walkthrough for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-reactivate-and-fix-your-iphones-stalled-email-feature-with-ease/"><u>How to Reactivate and Fix Your iPhone's Stalled Email Feature with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flipping-srt-to-sub-easy-conversion-techniques/"><u>In 2024, Flipping SRT to SUB Easy Conversion Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y78+ Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/revive-your-lost-data-a-free-guide-to-restoring-deleted-items-from-the-recycle-bin/"><u>Revive Your Lost Data: A Free Guide to Restoring Deleted Items From the Recycle Bin</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-correcting-code-39-mistakes-on-your-windows-machine/"><u>Step-by-Step Guide to Correcting Code 39 Mistakes on Your Windows Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-19-cutting-edge-graphic-design-programs-and-applications/"><u>Ultimate List of 19 Cutting-Edge Graphic Design Programs and Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-watch-next-disneypluss-hottest-movies-of-the-moment/"><u>What to Watch Next: Disney+'s Hottest Movies of the Moment</u></a></li>
 </ul></div>
 

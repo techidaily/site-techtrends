@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2024-10-06T23:27:57.590Z
-updated: 2024-10-10T00:11:37.793Z
+date: 2024-10-12T21:21:42.364Z
+updated: 2024-10-16T00:09:36.835Z
 tags:
   - apple
 categories:
@@ -27,6 +27,13 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -34,22 +41,15 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -58,19 +58,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 **Figure 1**: Access to iCloud Drive options is found here.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
 
@@ -81,6 +68,19 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -99,10 +99,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -163,22 +163,17 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/egulations-on-capturing-youtube-playbacks-for-2024/"><u>[New] Regulations on Capturing YouTube Playbacks for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>2024 Approved Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-made-easy-google-meet-to-youtube-guide/"><u>2024 Approved Streaming Made Easy Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-m14-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy M14 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-reno-8t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo Reno 8T to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-cleanly-remove-nvidia-software-on-a-windows-11-system/"><u>How to Cleanly Remove NVIDIA Software on a Windows 11 System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-make-computer-fast/"><u>How to Make Computer Fast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-screenshot-on-toshiba-laptop-quickly-and-easily/"><u>How to Screenshot on Toshiba Laptop – Quickly & Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-secure-your-wi-fi-network-windows-10-7-81-quickly-and-easily/"><u>How to Secure Your Wi-Fi Network | Windows 10, 7, 8.1 | Quickly & Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-share-and-update-configuration-preferences-across-all-your-windows-10-machines/"><u>How to Share and Update Configuration Preferences Across All Your Windows 10 Machines</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-test-your-microphone-on-windows-10-a-comprehensive-guide/"><u>How to Test Your Microphone on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-update-video-drivers-in-windows-10-easily/"><u>How to Update Video Drivers in Windows 10. Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improve-system-performance-by-refreshing-driver-software-in-windows-10/"><u>Improve System Performance by Refreshing Driver Software in Windows 10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-se-2020-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone SE (2020) with iTunes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-technical-savvy-selecting-the-best-capture-tools/"><u>In 2024, Technical Savvy Selecting the Best Capture Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/insiders-guide-recording-high-octane-play/"><u>Insider's Guide Recording High-Octane Play</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-screen-capture-expert-take-on-showmore-software/"><u>[Updated] In 2024, Mastering Screen Capture Expert Take on ShowMore Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-fixing-issues-with-snimp3-effective-steps-to-resolve-errors-and-converting-youtube-videos-into-mp3-format/"><u>1. Fixing Issues with SniMp3: Effective Steps to Resolve Errors & Converting YouTube Videos Into MP3 Format</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-bring-laughter-to-life-kapwing-creator/"><u>2024 Approved Bring Laughter to Life – Kapwing Creator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choose-wisely-the-ultimate-list-of-5-superior-safe-email-services/"><u>Choose Wisely: The Ultimate List of 5 Superior Safe Email Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-passo-a-passo-para-fazer-uma-copia-de-dvd-no-windows-11/"><u>Guia Passo a Passo Para Fazer Uma Cópia De DVD No Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/high-performance-key-finder-systems-for-the-modern-user/"><u>High-Performance Key Finder Systems for the Modern User</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-zte-blade-a73-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock ZTE Blade A73 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-wi-fi-expansion-devices-ultimate-guide/"><u>Leading Wi-Fi Expansion Devices: Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/save-big-with-verizons-latest-discounted-upgrade-plans-for-phones-and-more/"><u>Save Big with Verizon's Latest Discounted Upgrade Plans for Phones & More</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-and-discontinuation-of-netflix-dvd-by-mail-subscription/"><u>The Evolution and Discontinuation of Netflix DVD-by-Mail Subscription</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-osetupdll-not-found-issues-in-windows-easily/"><u>Troubleshooting Osetup.dll Not Found Issues in Windows Easily</u></a></li>
 </ul></div>
 

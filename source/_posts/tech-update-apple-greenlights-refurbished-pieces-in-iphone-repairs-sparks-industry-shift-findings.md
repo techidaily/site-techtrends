@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple Greenlights Refurbished Pieces in iPhone Repairs, Sparks Industry Shift | Findings"
-date: 2024-10-03T17:02:16.971Z
-updated: 2024-10-10T00:13:00.086Z
+date: 2024-10-10T22:43:06.777Z
+updated: 2024-10-16T01:42:06.026Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -72,13 +72,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -135,10 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -154,6 +147,13 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 | **iPhone 14**                   | The Dynamic Island, 48MP camera, thinner design, and USB-C port are the most notable upgrades from the iPhone 14\. And, assuming you've converted to eSIM, the contacts transferring process should be very seamless.                                                          |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
 
@@ -172,10 +172,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,18 +212,22 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-inspiring-originality-in-tiktok-pfps-to-boost-profile-traction/"><u>[New] In 2024, Inspiring Originality in TikTok PFPs to Boost Profile Traction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722897520161-alexa-vs-google-assistant-comparing-the-top-voice-ai-assistants/"><u>Alexa Vs. Google Assistant: Comparing the Top Voice AI Assistants</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-your-visual-storytelling-with-adobes-lut-tools/"><u>Enhance Your Visual Storytelling with Adobe's LUT Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-mov-video-editing-software/"><u>In 2024, Best Free MOV Video Editing Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-new-mac-mini-m4-insights-into-potential-price-points-arrival-date-and-advanced-features/"><u>Inside the New Mac Mini M4 - Insights Into Potential Price Points, Arrival Date & Advanced Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/purchasing-ebooks-via-apples-books-app-a-comprehensive-guide-for-iphone-and-ipad-users/"><u>Purchasing eBooks via Apple's Books App: A Comprehensive Guide for iPhone and iPad Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speed-up-your-emails-with-these-30-gmail-keyboard-shortcut-tips/"><u>Speed Up Your Emails with These 30 Gmail Keyboard Shortcut Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/thors-odyssey-the-last-stand/"><u>Thor’s Odyssey The Last Stand</u></a></li>
-<li><a href="https://ai-video.techidaily.com/translate-live-video-making-it-possible-with-the-best-tool/"><u>Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-missing-haldll-files-on-windows-xp/"><u>Ultimate Guide: Resolving Missing hal.dll Files on Windows XP</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/ultimate-insights-into-the-art-of-srt-file-creation-for-2024/"><u>Ultimate Insights Into the Art of SRT File Creation for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-new-era-of-capturing-screens-camstudio-2023-reviewed/"><u>[New] A New Era of Capturing Screens? CamStudio 2023 Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-overwatch-recording-made-simple-with-us/"><u>[New] Overwatch Recording Made Simple with Us</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-mac-based-software-top-3-tools-for-transforming-videos-into-mp3-files/"><u>Best Mac-Based Software: Top 3 Tools for Transforming Videos Into MP3 Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/besten-freien-programme-zum-umgang-mit-dvds-spielen-kopieren-extrahieren-und-verbrennen/"><u>Besten Freien Programme Zum Umgang Mit DVDs: Spielen, Kopieren, Extrahieren Und Verbrennen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-iphone-ringtones-for-your-iphone-6plus-an-easy-how-to-tutorial/"><u>DIY iPhone Ringtones for Your iPhone 6+ – An Easy How-To Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-workout-logging-applications-to-optimize-your-fitness-routine/"><u>Essential Workout Logging Applications to Optimize Your Fitness Routine</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/find-the-perfect-voice-companion-leading-smart-speakers-of-2024-reviewed/"><u>Find the Perfect Voice Companion: Leading Smart Speakers of 2024 Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-casting-videos-from-macs-ipads-and-phones-to-your-tv-using-chromecast/"><u>Guide: Casting Videos From Macs, iPads, and Phones to Your TV Using Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724766368804-handbrake/"><u>Handbrakeからファイルコピー保護を解除する効果的な方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-classic-14-animation-designs-with-text/"><u>In 2024, Classic 14 Animation Designs with Text</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-c110-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia C110 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-poco-m6-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Poco M6 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-audio-issues-on-iphone-xs-effective-ways-to-sync-and-play-music/"><u>Troubleshooting Audio Issues on iPhone XS: Effective Ways to Sync and Play Music</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-dragon-age-origins-from-crashing-on-windows-11/"><u>Troubleshooting Guide: Stop Dragon Age: Origins From Crashing on Windows 11!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-and-smoothening-lag-in-4k-videos-on-vlc-player/"><u>Ultimate Guide: Troubleshooting and Smoothening Lag in 4K Videos on VLC Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-iphone-ns-potential-a-comprehensive-guide-to-its-specs-unique-features-personalization-aspects-including-wallpapers-and-ringtones-plus-compatible-24/"><u>Unlocking iPhone N's Potential: A Comprehensive Guide to Its Specs, Unique Features, Personalization Aspects Including Wallpapers and Ringtones, Plus Compatible Video Types</u></a></li>
 </ul></div>
 

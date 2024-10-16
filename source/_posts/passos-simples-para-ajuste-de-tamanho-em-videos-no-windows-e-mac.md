@@ -1,7 +1,7 @@
 ---
 title: Passos Simples Para Ajuste De Tamanho Em Vídeos No Windows E Mac
-date: 2024-09-11 16:36:38
-updated: 2024-09-13 11:53:28
+date: 2024-10-13T20:24:45.728Z
+updated: 2024-10-15T20:46:09.408Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c51b363448b469a8ffe4640d.jpg
@@ -254,6 +254,13 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -265,6 +272,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -318,6 +332,13 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -325,6 +346,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -334,9 +362,23 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -361,6 +403,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -394,6 +443,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +592,29 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unparalleled-quality-discover-the-best-8-streamer-cameras/"><u>[New] In 2024, Unparalleled Quality Discover the Best 8 Streamer Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-total-guide-to-video-dimensions-and-proportion-harmony-on-youtube/"><u>[Updated] 2024 Approved Total Guide to Video Dimensions & Proportion Harmony on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-innovative-layouts-for-virtual-minecraft-abodes-for-2024/"><u>[Updated] Innovative Layouts for Virtual Minecraft Abodes for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/chromecast-with-google-tv-review/"><u>Chromecast with Google TV Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-setting-up-required-scanner-and-printer-functions-on-windows-10-os/"><u>Guide: Setting Up Required Scanner and Printer Functions on Windows 10 OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-setting-up-windows-movie-maker-60-for-2024/"><u>Masterclass Setting Up Windows Movie Maker 6.0 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-resolution-of-error-code-0x00000078-phase0exception/"><u>Mastering the Resolution of Error Code 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-d3dx927dll-file-not-detected-a-comprehensive-guide/"><u>Solving d3dx9_27.dll File Not Detected - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-disconnecting-devices-from-your-google-home-network/"><u>Step-by-Step Guide: Disconnecting Devices From Your Google Home Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-puzzle-adventures-on-ios-the-best-alternatives-to-the-room-and-myst/"><u>Top Puzzle Adventures on iOS: The Best Alternatives to 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-zlibdll-is-missing-windows-error-effectively/"><u>Troubleshooting the 'zlib.dll Is Missing' Windows Error Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722855339094-wireless-audio-harmony-pairing-guide-for-samsung-earbuds-to-laptops-across-platforms/"><u>Wireless Audio Harmony: Pairing Guide for Samsung Earbuds to Laptops Across Platforms</u></a></li>
+</ul></div>
+

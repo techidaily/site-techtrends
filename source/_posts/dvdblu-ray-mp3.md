@@ -1,7 +1,7 @@
 ---
 title: 自由轉換 DVD/Blu-Ray 成MP3 - 最佳在線錄音下載器
-date: 2024-09-12 13:49:53
-updated: 2024-09-13 12:54:44
+date: 2024-10-11T22:57:12.015Z
+updated: 2024-10-15T23:44:17.300Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf37b6d4d36fe64b43b43e9aea.jpg
@@ -166,6 +166,13 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -175,6 +182,19 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -287,6 +307,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -309,6 +336,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -333,6 +367,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -361,6 +402,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -407,9 +455,23 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -536,11 +598,27 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-screen-record-on-ipad-more-easily/"><u>[Updated] In 2024, How to Screen Record on iPad More Easily?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>[Updated] Pinnacle of Video Quality The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-users-roadmap-for-upgrading-zoom-software-on-pc-or-mac-systems/"><u>A User's Roadmap for Upgrading Zoom Software on PC or Mac Systems</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/conquer-joining-on-tiktok-with-confidence-and-flair/"><u>Conquer Joining on TikTok with Confidence and Flair</u></a></li>
+<li><a href="https://techtrends.techidaily.com/defining-internet-memes-and-their-cultural-impact/"><u>Defining Internet Memes and Their Cultural Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-uninterrupted-discord-video-stream-playback/"><u>Effective Solutions for Uninterrupted Discord Video Stream Playback</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-peak-performance-with-updated-realtek-dell/"><u>Ensuring Peak Performance with Updated Realtek Dell</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-zte-blade-a73-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of ZTE Blade A73 5G Through Google Earth?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>In 2024, From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-6-plus-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 6 Plus Device from iCloud</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-parse-error-resolution-on-android-unveil-8-essential-strategies/"><u>Mastering Parse Error Resolution on Android: Unveil 8 Essential Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pc-strategies-the-ultimate-guide-to-playing-pokemon-unite/"><u>PC Strategies: The Ultimate Guide to Playing Pokémon Unite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-lg-channels-key-facts-and-information-revealed/"><u>Understanding LG Channels: Key Facts and Information Revealed</u></a></li>
+</ul></div>
+

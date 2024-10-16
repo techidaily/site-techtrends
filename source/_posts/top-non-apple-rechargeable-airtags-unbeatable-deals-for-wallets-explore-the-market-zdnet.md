@@ -1,7 +1,7 @@
 ---
 title: "Top Non-Apple, Rechargeable AirTags: Unbeatable Deals for Wallets - Explore the Market | ZDNet"
-date: 2024-10-04T20:56:15.965Z
-updated: 2024-10-09T23:49:05.764Z
+date: 2024-10-14T20:46:09.032Z
+updated: 2024-10-15T18:38:31.555Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Journey -- maker of all sorts of accessories, from desk mats to [bluetooth tags]
 [ZDNET RECOMMENDS Journey Ezmo MagSafe Wallet and Stand The Ezmo wallet can store up to 5 of your favorite cards and seamlessly combines function and a luxury-feel for $70 (or $56 at the time of writing). View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjourney-ezmo-magsafe-wallet-phone-stand-black%2F6571280.p%3FskuId%3D6571280&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Journey Ezmo MagSafe Wallet and Stand specs
@@ -60,10 +60,10 @@ Journey -- maker of all sorts of accessories, from desk mats to [bluetooth tags]
 The Ezmo combines a regular wallet's leather look and composition with MagSafe's quick plug-and-play mechanism. Together, you get a hybrid accessory that looks and feels good.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did the Ezmo wallet fair during testing?
@@ -111,10 +111,16 @@ The magnetic connection rivals that of other top-tested picks, like the Satechi 
 The vegan leather is soft yet tough, looks elevated and premium, and the color options embody the quiet luxury trend that's popular on social media. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -155,21 +161,22 @@ Current users on the Journey website appreciate the slim profile, smart design, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-determining-better-macbook-air-vs-pro-m1-edition/"><u>[New] 2024 Approved Determining Better MacBook Air Vs. Pro M1 Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-inspiring-abodes-for-minifigure-residences/"><u>[New] Inspiring Abodes for Minifigure Residences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-in-digital-visual-narratives/"><u>2024 Approved Foundations in Digital Visual Narratives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-playing-minecraft-without-internet-on-windows-10/"><u>Complete Guide: Playing Minecraft Without Internet on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-lag-problems-with-logitech-computer-mice-efficiently/"><u>Diagnosing and Fixing Lag Problems with Logitech Computer Mice Efficiently</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discovering-the-ultimate-gopro-camera-max-or-hero-11-for-2024/"><u>Discovering The Ultimate GoPro Camera Max or Hero 11 for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dynamic-videos-made-easy-with-best-stabilizers-for-2024/"><u>Dynamic Videos Made Easy with Best Stabilizers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-method-for-verifying-installed-nvidia-chip-drivers/"><u>Effortless Method for Verifying Installed NVIDIA Chip Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-issue-how-to-speed-up-a-sluggish-pc-that-frequently-crashes/"><u>Fixing the Issue: How to Speed Up a Sluggish PC That Frequently Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fortnite-mouse-sensitivity-solved/"><u>Fortnite Mouse Sensitivity [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hdmi-to-dvi-with-audio-connect-your-laptop-to-your-desktop/"><u>HDMI to DVI with Audio: Connect Your Laptop to Your Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-ethereums-turing-complete-language-solidity-facilitates-complex-decentralized-applications/"><u>How Ethereum's Turing-Complete Language (Solidity) Facilitates Complex Decentralized Applications</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb/"><u>In 2024, Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-20-wonderful-stop-motion-ideas-for-beginners-and-kids-filmora/"><u>New 2024 Approved 20 Wonderful Stop Motion Ideas for Beginners and Kids - Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-performance-in-fb-video-streaming/"><u>[Updated] High Performance in FB Video Streaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximizing-your-videos-impact-with-perfect-post-times/"><u>[Updated] Maximizing Your Videos' Impact with Perfect Post Times</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-motivating-moments-on-the-silver-screen/"><u>2024 Approved Motivating Moments on the Silver Screen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-10-gratuitous-video-chats-with-desktop-viewing/"><u>2024 Approved Top 10 Gratuitous Video Chats with Desktop Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-top-8-must-have-family-filter-services-and-applications/"><u>2024’S Top 8 Must-Have Family Filter Services and Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/corrective-measures-for-microsoft-outlook-spell-check-malfunctions/"><u>Corrective Measures for Microsoft Outlook Spell Check Malfunctions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-your-youtube-content-basic-premiere-pro-edits-for-2024/"><u>Enhancing Your YouTube Content Basic Premiere Pro Edits for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-d3dx923dll-not-found-problem-on-your-pc/"><u>How to Correctly Address the d3dx9_2‌3.dll Not Found Problem on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-instantly-upgrade-samsung-m2070-drivers-for-optimal-performance/"><u>How to Instantly Upgrade Samsung M2070 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-p55-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel P55 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-g2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo G2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kid-friendly-entertainment-top-web-games-to-keep-children-entertained/"><u>Kid-Friendly Entertainment: Top Web Games to Keep Children Entertained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-to-yahoo-email-for-good-a-step-by-nstep-guide-to-total-account-erasure/"><u>Say Goodbye to Yahoo! Email for Good: A Step-by-nStep Guide to Total Account Erasure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-addressing-the-disappearance-of-osetupdll-error/"><u>Step-by-Step Guide: Addressing the Disappearance of osetup.dll Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-must-have-iphone-gps-navigation-apps/"><u>Top 5 Must-Have iPhone GPS Navigation Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/twitch-service-outage-or-individual-connection-issues-how-to-tell/"><u>Twitch Service Outage or Individual Connection Issues: How to Tell?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-not-booting-device-event-id-219/"><u>WudfRd Not Booting, Device Event ID: 219</u></a></li>
 </ul></div>
 

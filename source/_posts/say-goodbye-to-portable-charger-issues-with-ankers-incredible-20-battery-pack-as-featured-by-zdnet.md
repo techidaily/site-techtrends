@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2024-10-03T00:08:33.856Z
-updated: 2024-10-09T20:31:10.705Z
+date: 2024-10-09T23:24:30.918Z
+updated: 2024-10-15T22:04:03.939Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -70,13 +70,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -84,6 +77,13 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -98,10 +98,16 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,10 +115,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,18 +155,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-dissecting-splitcam-a-video-recorder-standout-analysis-for-2024/"><u>[Updated] Dissecting SplitCam A Video Recorder Standout Analysis for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-discords-prime-locations-to-date-or-fall-in-love/"><u>[Updated] In 2024, Discord's Prime Locations to Date or Fall in Love</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/canon-eos-t7-kit-a-notable-advancement/"><u>Canon EOS T7 Kit: A Notable Advancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-troubleshooting-techniques-for-shakyflickering-screens-on-surface-pro-devices/"><u>DIY Troubleshooting Techniques for Shaky/Flickering Screens on Surface Pro Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-delete-a-reposted-video-on-tiktok-without-hesitation/"><u>How to Delete a Reposted Video on TikTok Without Hesitation</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-zte-nubia-z60-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset ZTE Nubia Z60 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-safely-change-an-alternate-accounts-password-on-your-windows-machine/"><u>How to Safely Change an Alternate Account's Password on Your Windows Machine</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-a59-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo A59 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-launchdll-file-missing-a-step-by-step-guide/"><u>Resolving 'Launch.dll' File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-cream-of-the-crop-our-selection-of-10-free-email-options/"><u>The Cream of the Crop: Our Selection of 10 Free Email Options</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-using-premiere-for-video-upload-for-2024/"><u>[New] Step-by-Step Using Premiere for Video Upload for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>[Updated] Instant Transformation Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/100-secure-and-ethical-actions-for-tiktok-success/"><u>100% Secure & Ethical Actions for TikTok Success</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/comprendere-lestensione-dei-file-ts-tutorial-su-come-master-e-riprodurli/"><u>Comprendere L'Estensione Dei File .TS - Tutorial Su Come Master E Riprodurli</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722867844412-embark-on-a-journey-with-devices-and-novels-laptops-phones-and-bookshelves-galore/"><u>Embark on a Journey with Devices & Novels: Laptops, Phones, and Bookshelves Galore</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-creative-workflow-with-microsoft-copilots-new-video-generation-features/"><u>Enhancing Creative Workflow with Microsoft Copilot's New Video Generation Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-4-revolutionary-electric-vehicle-innovations-set-to-transform-transportation/"><u>Exploring 4 Revolutionary Electric Vehicle Innovations Set to Transform Transportation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-skepticism-to-success-uncover-the-truth-behind-common-fears-of-embracing-linux-over-windows/"><u>From Skepticism to Success: Uncover the Truth Behind Common Fears of Embracing Linux Over Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-under-the-lens-hero-4-meets-hero-5/"><u>In 2024, Under the Lens Hero 4 Meets Hero 5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-100-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor 100 Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-amds-pro-8000-series-advanced-npu-capabilities-in-high-performance-desktops/"><u>Introducing AMD's Pro 8000 Series: Advanced NPU Capabilities in High-Performance Desktops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-a-meta-quest-based-virtual-reality-device-awaiting-its-debut-as-a-rival-to-steam-deck/"><u>Is a Meta Quest-Based Virtual Reality Device Awaiting Its Debut as a Rival to Steam Deck?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-vr-sensory-experience-anticipating-the-integration-of-taste-touch-and-smell/"><u>The Future of VR Sensory Experience: Anticipating the Integration of Taste, Touch & Smell</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleashing-ai-supremacy-how-microsoft-integrates-next-gen-gpt-nturbo-into-copilot-and-bing-conversations/"><u>Unleashing AI Supremacy: How Microsoft Integrates Next-Gen GPT-nTurbo Into Copilot and Bing Conversations</u></a></li>
 </ul></div>
 

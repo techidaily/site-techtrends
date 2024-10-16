@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2024-10-08T00:07:48.247Z
-updated: 2024-10-09T16:25:33.371Z
+date: 2024-10-15T06:22:56.486Z
+updated: 2024-10-16T04:32:43.813Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -54,10 +54,10 @@ I prefer the second way, which is simply to ask Siri to take the shot. All you h
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -99,10 +99,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -152,20 +152,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-smooth-video-transfer-facebook-integration-with-whatsapp-for-2024/"><u>[New] Smooth Video Transfer Facebook Integration with WhatsApp for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-acquiring-facebooks-prestigious-blue-badge/"><u>[Updated] In 2024, Mastering the Art of Acquiring Facebook's Prestigious Blue Badge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808187190-freshly-updated-dell-driver-collection-grab-them-for-free-on-windows-11/"><u>Freshly Updated Dell Driver Collection: Grab Them for Free on Windows 11!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-hashtags-for-a-huge-impact-on-your-youtube-views/"><u>In 2024, Leveraging #Hashtags for a Huge Impact on Your YouTube Views</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808247775-maximize-speed-and-productivity-expert-strategies-for-a-fully-functional-windows-aturated-with-keywords-clear-language-and-action-oriented-phrases/"><u>Maximize Speed and Productivity: Expert Strategies for a Fully Functional Windows Aturated with Keywords, Clear Language, and Action-Oriented Phrases.</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/moving-3gp-video-files-online-free-of-charge-with-movavi-omzetten-ingenomheidsbeveiliging/"><u>Moving 3GP Video Files Online Free of Charge with Movavi - Omzetten Ingenomheidsbeveiliging</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-and-effective-mac-hd-configuration-learn-from-us/"><u>Quick & Effective Mac HD Configuration – Learn From Us!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723807937043-quick-and-easy-tutorial-on-youtube-song-downloads/"><u>Quick and Easy Tutorial on Youtube Song Downloads</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-technical-glitches-in-spellbreak-for-pc-players/"><u>Resolving Technical Glitches in Spellbreak for PC Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808124056-sound-problems-on-fortnite-quick-solutions-to-restore-audio/"><u>Sound Problems on Fortnite? Quick Solutions to Restore Audio!</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-quintessential-quest-for-corporate-social-supremacy/"><u>The Quintessential Quest for Corporate Social Supremacy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-samsung-galaxy-fit-exposed-a-reliable-wearable-for-those-who-love-to-stay-moving/"><u>The Samsung Galaxy Fit Exposed: A Reliable Wearable for Those Who Love to Stay Moving</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723807945745-trouble-with-skype-on-windows-10-here-are-5-quick-fixes-to-reconnect-and-start-chatting-again/"><u>Trouble with Skype on Windows 10? Here Are 5 Quick Fixes to Reconnect and Start Chatting Again!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-strategies-for-saving-windows-1110-driver-configurations-effectively/"><u>Ultimate Strategies for Saving Windows 11/10 Driver Configurations Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wirelessly-connect-headphones-to-your-playstation-4-an-illustrated-tutorial-for-perfect-audio-sync/"><u>Wirelessly Connect Headphones to Your PlayStation 4: An Illustrated Tutorial for Perfect Audio Sync</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-perfecting-voiceovers-in-filming/"><u>[New] 2024 Approved Step-by-Step Guide Perfecting Voiceovers in Filming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-screencast-with-ezvide-maker-tool/"><u>[New] Mastering Screencast with EZvide Maker Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/booting-up-windows-sound-service-quick-fix-steps/"><u>Booting Up Windows Sound Service: Quick Fix Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-auto-clickers-for-android-no-root-necessary/"><u>Discover the Ultimate List of Auto-Clickers for Android: No Root Necessary</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-unmatched-ride-quality-of-the-tenways-cgo60/"><u>Discover the Unmatched Ride Quality of the Tenways CGO60</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-listening-experience-with-edifier-neobuds-pro-2-budget-friendly-and-android-compatible/"><u>Elevate Your Listening Experience with Edifier NeoBuds Pro 2 – Budget-Friendly and Android Compatible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-oneplus-watch-2-proficient-features-meet-mundane-design-in-our-comprehensive-review/"><u>Evaluating the OnePlus Watch 2: Proficient Features Meet Mundane Design in Our Comprehensive Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-soundcore-life-pod-lite-comfortable-in-bed-audio-for-a-restful-nights-sleep/"><u>Evaluating the SoundCore Life Pod Lite: Comfortable In-Bed Audio for a Restful Night's Sleep</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-webcam-guide-5-best-options-with-mic-integration/"><u>Premium Webcam Guide 5 Best Options with Mic Integration</u></a></li>
 </ul></div>
 

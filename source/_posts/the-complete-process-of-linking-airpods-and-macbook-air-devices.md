@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Linking AirPods and MacBook Air Devices
-date: 2024-10-06T22:05:55.488Z
-updated: 2024-10-09T20:43:43.790Z
+date: 2024-10-12T05:19:53.043Z
+updated: 2024-10-16T03:48:18.335Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Linking AirPods and MacBook Air Devices
@@ -37,24 +37,24 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The setup button on the AirPods case](https://www.lifewire.com/thmb/UluEXY72qkp63Gp8Wqrn11pixNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_connectairpods3-aa8835d06ca5488ea04a6597909f5872-72c6445e2b43481781ff26466cef507f.jpg)
 4. The AirPods will appear in the Bluetooth preferences window. Click**Connect** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Connect button for an available set of AirPods Pro in macOS Bluetooth settings.](https://www.lifewire.com/thmb/KG0yU2YAi6Ct5NjtMCIkdfyAA7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_connect-airpods-to-macbook-air-5188769-baf578afb7944e938c59b082037e82d4.jpg)
 5. In a moment, the AirPods will be connected to your MacBook Air and you'll be ready to listen to audio.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can You Connect Two Pairs of AirPods to One MacBook Air?
 
@@ -66,24 +66,25 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The Audio MIDI Setup app from the Utilities folder in macOS.](https://www.lifewire.com/thmb/hDuapYeU0qS6jTic9j1qPLdfWRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_connect-airpods-to-macbook-air-5188769-1ed53dd151a7494d9e1818845e825a07.jpg)
 2. Click the**\+ (Plus)** sign, then select**Create Multi-Output Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Create Multi-Output Device option from the add menu in the Audio MIDI Setup app in macOS.](https://www.lifewire.com/thmb/MqndcghTr5gA9bPNn5_9SqqiyRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_connect-airpods-to-macbook-air-5188769-5664d35fbbc2464d80a4f714c5955221.jpg)
 3. Check the box next to the two sets of AirPods. In the**Master Device** drop-down, choose your AirPods. Check the**Drift Correction** box next to your friend's AirPods.  
 ![AirPods selected and one set to Drift Correction in Audio MIDI Setup in macOS.](https://www.lifewire.com/thmb/OiH8Qk5hsmap5RKxp1rTMtNuzG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-connect-airpods-to-macbook-air-5188769-fba01d5c7c96478f9e3070fc2bdcfa7c.jpg)
 4. Go to the**Apple** menu >**System Settings** or**System Preferences** \>**Sound** \>**Output** \>**Multi-Output Device** . With that done, the MacBook Air's audio is sent to both sets of AirPods.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Multi-Output Device selected from the Output tab in macOS Sound settings.](https://www.lifewire.com/thmb/WcwsnAzXRRb5xQABJalZ7xjF9eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-connect-airpods-to-macbook-air-5188769-40b916aaa66f4d22a180b33f9422adfc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Won't My AirPods Connect to My MacBook Air?
@@ -126,24 +127,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-6-high-definition-21-hdmi-models-analyzed/"><u>[New] In 2024, 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-masterclass-choosing-the-top-fps-games/"><u>[New] In 2024, Masterclass Choosing the Top FPS Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs/"><u>2024 Approved Unlock Professional Broadcasting on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/apex-4k-screen-recorder-options-analysis-for-2024/"><u>Apex 4K Screen Recorder Options Analysis for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/asus-touchpad-not-working-on-windows-1110-solved/"><u>ASUS Touchpad Not Working on Windows 11/10 [SOLVED]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/battle-royale-gaming-fixes-for-low-fps/"><u>Battle Royale Gaming: Fixes for Low FPS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/best-mac-capture-software-excluding-traditional-bandicam-for-2024/"><u>Best Mac Capture Software Excluding Traditional Bandicam for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808292755-bypass-windows-update-freeze-quick-fixes-to-restart-the-process/"><u>Bypass Windows Update Freeze: Quick Fixes to Restart the Process!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/camera-malfunction-in-windows-11-understanding-and-solving-error-code-0xa00f4244/"><u>Camera Malfunction in Windows 11: Understanding and Solving Error Code 0xA00F4244</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-downloading-and-installing-hp-device-drivers-on-windows-7/"><u>Complete Guide: Downloading and Installing HP Device Drivers on Windows 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easily-switch-languages-on-windows-e-a-comprehensive-tutorial-for-windows-7-users/"><u>Easily Switch Languages on Windows E: A Comprehensive Tutorial for Windows 7 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-guide-to-postponing-software-improvements-on-your-windows-10-machine/"><u>Effortless Guide to Postponing Software Improvements on Your Windows 10 Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enable-built-in-administrator-account-in-windows-11-7-and-8-step-by-step/"><u>Enable Built-In Administrator Account in Windows 11, 7 & 8 (Step by Step)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-lava-storm-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Lava Storm 5G Lock Screen Password</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-discounted-samsung-gadgets-available-during-prime-day/"><u>Top Discounted Samsung Gadgets Available During Prime Day</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-contact-information-on-your-iphone-a-step-by-step-guide/"><u>Troubleshooting Missing Contact Information on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/xcom-2-and-windows-compatibility-enhanced-crash-no-more/"><u>XCOM 2 and Windows Compatibility Enhanced – Crash No More!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategy-breakthroughs-in-packaging/"><u>[New] Strategy Breakthroughs in Packaging</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728479674124-windows-11/"><u>已验证功能：如何在Windows 11中恢复缺失的桌面文件图标</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-of-the-google-pixel-8a-exceptional-features-at-a-questionable-price-point/"><u>Comprehensive Analysis of the Google Pixel 8a - Exceptional Features at a Questionable Price Point</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-evaluation-of-the-mophie-juice-pack-for-iphone-15-great-battery-boost-with-some-tradeoffs/"><u>Comprehensive Evaluation of the Mophie Juice Pack for iPhone 15: Great Battery Boost with Some Tradeoffs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-evaluation-of-ugreen-nexode-pro-65w-charging-station-your-ultimate-usb-c-solution/"><u>Comprehensive Evaluation of Ugreen Nexode Pro 65W Charging Station: Your Ultimate USB-C Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-baseus-powercombo-multi-functional-mini-power-strip-5-in-1-67w-a-must-have-for-efficient-energy-management/"><u>Comprehensive Review of Baseus PowerCombo Multi-Functional Mini Power Strip (5-in-1, 67W): A Must-Have for Efficient Energy Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-switchbot-review-a-closer-look-at-its-multi-functional-capabilities/"><u>Comprehensive SwitchBot Review: A Closer Look at Its Multi-Functional Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-mighty-performance-of-ankers-soundcore-boom-2-stellar-sound-quality-and-impressive-bass-in-a-compact-design/"><u>Discover the Mighty Performance of Anker's Soundcore Boom 2 – Stellar Sound Quality and Impressive Bass in a Compact Design</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-8-best-free-3d-video-player-for-window-and-mac/"><u>In 2024, 8 Best Free 3D Video Player for Window and Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860564179-in-2024-activating-built-in-screen-recorders-mate-1020-and-p-series-devices-p20-p10/"><u>In 2024, Activating Built-In Screen Recorders Mate 10/20 & P-Series Devices (P20, P10).</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s18-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S18 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-lenovo-thinkpad-x1-nano-the-ultimate-guide-to-a-portable-workhorse/"><u>Unveiling the Lenovo ThinkPad X1 Nano: The Ultimate Guide to a Portable Workhorse</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vegas-promp4movavi/"><u>VEGAS Proを使ってMP4/MOV/AVIフォーマットの動画が正しく表示されるようにする方法</u></a></li>
 </ul></div>
 

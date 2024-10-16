@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-10-07T22:21:49.039Z
-updated: 2024-10-09T23:31:58.351Z
+date: 2024-10-10T21:11:22.208Z
+updated: 2024-10-16T04:10:08.193Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,10 +108,16 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -153,10 +159,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +174,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,22 +224,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-exquisite-android-3d-media-experience-for-2024/"><u>[New] Exquisite Android 3D Media Experience for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recovering-a-stopped-up-link-to-your-obs-cam/"><u>[Updated] 2024 Approved Recovering a Stopped-Up Link to Your OBS Cam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-8-strategies-in-digital-sound-logging-techniques/"><u>[Updated] Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ace-the-run-game-expert-tips-to-skyrocket-your-score-on-subway-surfers/"><u>Ace the Run Game: Expert Tips to Skyrocket Your Score on Subway Surfers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/advancing-into-a-new-era-of-high-speed-internet-with-verizon-ebg/"><u>Advancing Into a New Era of High-Speed Internet with Verizon Ebg</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazon-kindle-paperwhite-timing-troubleshooting-and-how-to-fix-it/"><u>Amazon Kindle Paperwhite Timing Troubleshooting and How to Fix It</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341701437-approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-netgear-orbi-rbs50y-performance-in-outdoor-settings-is-it-the-ultimate-backyard-wi-fi-solution/"><u>Evaluating Netgear Orbi RBS50Y Performance in Outdoor Settings: Is It the Ultimate Backyard Wi-Fi Solution?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explaining-instagrams-inverted-video-effect-for-2024/"><u>Explaining Instagram’s Inverted Video Effect for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pair-a-new-receiver-with-your-logitech-wireless-mouse/"><u>How To Pair A New Receiver With Your Logitech Wireless Mouse</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-gt-neo-5-se-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme GT Neo 5 SE Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lg-smart-tv-owners-manual-tips-for-streaming-content-from-hulu/"><u>LG Smart TV Owners' Manual: Tips for Streaming Content From Hulu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-achieving-verification-status-on-instagram/"><u>The Ultimate Guide: Achieving Verification Status on Instagram</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-11-must-watch-movies-for-an-extra-dose-of-inspiration/"><u>The Ultimate Selection: 11 Must-Watch Movies for an Extra Dose of Inspiration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-15-favorite-free-tools-to-effortlessly-remove-programs/"><u>The Ultimate Selection: 15 Favorite Free Tools to Effortlessly Remove Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/using-terminal-commands-in-file-management-on-pcs-easily/"><u>Using Terminal Commands in File Management on PCs Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-is-rcs-and-how-does-it-revolutionize-sms/"><u>What Is RCS and How Does It Revolutionize SMS?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-prosper-with-your-live-video-on-youtube-a-complete-blueprint/"><u>[New] In 2024, Prosper with Your Live Video on YouTube A Complete Blueprint</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamerease-screen-recording-on-win11/"><u>[Updated] 2024 Approved StreamerEase Screen Recording on Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-user-engagement-how-to-use-youtube-tags-effectively-for-2024/"><u>[Updated] Enhancing User Engagement How to Use YouTube Tags Effectively for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-key-to-dramatic-contrast-in-hdr-portrait-photography/"><u>2024 Approved The Key to Dramatic Contrast in HDR Portrait Photography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-closer-look-at-rtx-technology-enhancing-visual-experience-with-next-gen-gpus/"><u>A Closer Look at RTX Technology: Enhancing Visual Experience with Next-Gen GPUs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/affordable-and-durable-storage-solutions-below-100-your-ultimate-guide/"><u>Affordable and Durable Storage Solutions Below $100: Your Ultimate Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-5-lite-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 5 Lite Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-17-sneak-peek-forecasted-costs-projected-arrival-date-specifications-overview-and-unconfirmed-rumors-surface/"><u>IPhone 17 Sneak Peek: Forecasted Costs, Projected Arrival Date, Specifications Overview & Unconfirmed Rumors Surface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-challenge-of-zero-matches-on-bumble-a-comprehensive-guide/"><u>Overcoming the Challenge of Zero Matches on Bumble – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-opengl32dll-missing-error-on-your-computer-a-step-by-step-guide/"><u>Resolving OpenGL32.dll Missing Error on Your Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-syncing-strategy-post-videos-between-platforms/"><u>Social Syncing Strategy Post Videos Between Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-stream-espn-plus-through-lgs-smart-tv-interface/"><u>Step-by-Step Tutorial: Stream ESPN Plus Through LG's Smart TV Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sync-your-samsung-wireless-earbuds-with-laptop-using-bluetooth-technology/"><u>Sync Your Samsung Wireless Earbuds With Laptop Using Bluetooth Technology</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/world-minded-dialogue-techniques-for-global-interaction-mastery/"><u>World-Minded Dialogue: Techniques for Global Interaction Mastery</u></a></li>
 </ul></div>
 

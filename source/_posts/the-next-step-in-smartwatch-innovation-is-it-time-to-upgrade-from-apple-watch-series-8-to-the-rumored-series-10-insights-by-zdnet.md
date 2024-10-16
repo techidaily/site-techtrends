@@ -1,7 +1,7 @@
 ---
 title: "The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET"
-date: 2024-10-05T01:18:51.142Z
-updated: 2024-10-09T23:03:27.933Z
+date: 2024-10-11T06:36:36.246Z
+updated: 2024-10-16T00:29:45.194Z
 tags:
   - apple
 categories:
@@ -65,30 +65,38 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 10 if...
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -124,13 +132,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -140,10 +141,10 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C374aa0ec-30c1-4aa7-b971-abb67420fc33%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
@@ -151,13 +152,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -193,18 +187,19 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-list-mobile-camera-utilities-for-iphone/"><u>[New] A-List Mobile Camera Utilities for iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-navigating-snapchats-new-spotlight-functionality-for-2024/"><u>[New] Navigating Snapchat's New Spotlight Functionality for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/compatible-with-your-game-setup-logitech-g29-driver-downloads-for-all-windows-users/"><u>Compatible with Your Game Setup: Logitech G29 Driver Downloads for All Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-twitch-presence-with-these-5-indispensable-services/"><u>Elevate Your Twitch Presence with These 5 Indispensable Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pair-airpods-with-your-nintendo-switch-is-it-possible/"><u>How to Pair AirPods with Your Nintendo Switch: Is It Possible?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lenovo-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lenovo FRP In 3 Different Ways</u></a></li>
-<li><a href="https://techtrends.techidaily.com/independent-internet-access-a-guide-to-ditching-traditional-phone-and-cable-services-for-a-wire-free-web/"><u>Independent Internet Access: A Guide to Ditching Traditional Phone and Cable Services for a Wire-Free Web</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-your-audio-truly-experiencing-the-magic-of-dolby-atmos-technology/"><u>Is Your Audio Truly Experiencing the Magic of Dolby Atmos Technology?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/projecting-tiktok-content-to-your-television-for-easy-access/"><u>Projecting TikTok Content to Your Television for Easy Access</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y77t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y77t to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-y36-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo Y36</u></a></li>
-<li><a href="https://techtrends.techidaily.com/xbox-game-pass-ultimate-users-manual-for-seamless-cloud-gaming/"><u>Xbox Game Pass Ultimate User's Manual for Seamless Cloud Gaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-simplified-approach-to-overhauling-facebook-photo-background/"><u>[Updated] 2024 Approved Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthrough-the-top-8-web-based-photo-blender/"><u>[Updated] Breakthrough The Top 8 Web-Based Photo Blender</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-network-harmony-integrating-instagram-and-facebook/"><u>2024 Approved Social Network Harmony Integrating Instagram & Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nubia-z50-ultra-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nubia Z50 Ultra Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elite-photography-fix-up-firms-detailed-analysis-of-strengths-and-weaknesses/"><u>Elite Photography Fix-Up Firms : Detailed Analysis of Strengths and Weaknesses</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-framework-understanding-its-governance-entity/"><u>Facebook's Framework: Understanding Its Governance Entity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-relocating-installed-software-between-drives-using-windows-11/"><u>Guide: Relocating Installed Software Between Drives Using Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-v29e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo V29e to iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-feature-alert-transfer-images-from-smartphone-to-windows-11-effortlessly/"><u>New Feature Alert: Transfer Images From Smartphone to Windows 11 Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reclaim-hard-drive-space-eliminate-data-from-uninstalled-game-files/"><u>Reclaim Hard Drive Space - Eliminate Data From Uninstalled Game Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rediscovering-the-classics-msn-gamespy-and-winamp-a-trip-down-memory-lane/"><u>Rediscovering the Classics: MSN, GameSpy & Winamp - A Trip Down Memory Lane</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-your-data-a-step-by-step-guide-to-encrypting-a-usb-flash-drive-in-windows-1011/"><u>Securing Your Data: A Step-by-Step Guide to Encrypting a USB Flash Drive in Windows 10/11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-10-07T18:10:21.235Z
-updated: 2024-10-10T00:03:29.243Z
+date: 2024-10-12T21:45:17.135Z
+updated: 2024-10-16T02:49:46.499Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,10 +76,10 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -101,10 +101,16 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -122,10 +128,10 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -166,16 +172,19 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-luminous-leadership-elevating-content-through-insta-hits/"><u>[Updated] Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-audio-integration-into-visual-screens-via-apple/"><u>2024 Approved Audio Integration Into Visual Screens via Apple</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-chinese-vr-headset-marketplace-wonders/"><u>2024 Approved Chinese VR Headset Marketplace Wonders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-reinstall-realtek-hd-audio-driver-in-windows-11/"><u>How to Successfully Reinstall Realtek HD Audio Driver in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hxtsrexe-in-windows-10-what-is-it-and-how-to-fix-it-solved/"><u>HxTsr.exe in Windows 10 - What Is It and How to Fix It? [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/measuring-true-system-memory-velocity-a-guide-for-windows-11-users/"><u>Measuring True System Memory Velocity: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/netflix-audio-out-of-sync-on-pc-solved/"><u>Netflix Audio Out of Sync on PC [SOLVED]</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-retrograde-your-footage-easy-vhs-effects-in-final-cut-pro-for-2024/"><u>New Retrograde Your Footage Easy VHS Effects in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-xiaomi-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Xiaomi</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726030596711-and/"><u>お手入れ簡単！エロゲ画像&立ち絵抽出法：全ての初心者向けガイド</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-digital-footprint-and-interactive-iconography-honors/"><u>[New] Digital Footprint and Interactive Iconography Honors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>[New] Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novices-to-pros-the-journey-of-learning-magix-maker/"><u>[Updated] From Novices to Pros The Journey of Learning Magix Maker</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/aurvana-ace-2-earphones-analysis-superior-sound-quality-with-room-for-improvement-in-active-noise-cancellation/"><u>Aurvana Ace 2 Earphones Analysis: Superior Sound Quality with Room for Improvement in Active Noise Cancellation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-walkthrough-how-to-enable-cookies-in-any-internet-browser/"><u>Complete Walkthrough: How to Enable Cookies in Any Internet Browser</u></a></li>
+<li><a href="https://techtrends.techidaily.com/determining-the-cause-of-your-connection-woes-is-blizzards-battlenet-down-for-everyone/"><u>Determining the Cause of Your Connection Woes: Is Blizzard's Battle.net Down for Everyone?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-dvd-tools-compatible-with-sierra/"><u>Essential DVD Tools Compatible with Sierra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-technology-movements-shaping-the-future-a-look-at-three-major-trends/"><u>Key Technology Movements Shaping the Future: A Look at Three Major Trends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-adventure-how-to-binge-watch-all-of-dragon-ball-in-the-right-order/"><u>Sequential Adventure: How to Binge-Watch All of Dragon Ball in the Right Order</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-silent-chromecasts-how-to-revive-the-sound/"><u>Troubleshooting Silent Chromecasts: How to Revive the Sound</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-chatgpt-questions-to-boost-your-crypto-initiatives/"><u>Ultimate List of ChatGPT Questions to Boost Your Crypto Initiatives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unmasking-phony-fans-in-social-media-for-2024/"><u>Unmasking Phony Fans in Social Media for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-ussd-a-comprehensive-overview-of-unstructured-service-data-technology/"><u>Unveiling USSD: A Comprehensive Overview of Unstructured Service Data Technology</u></a></li>
 </ul></div>
 

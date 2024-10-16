@@ -1,7 +1,7 @@
 ---
 title: Movavi 서비스로 PEF PNG에 대한 무료 온라인 변환 - 영어
-date: 2024-09-12 21:44:35
-updated: 2024-09-13 10:56:26
+date: 2024-10-12T05:59:36.909Z
+updated: 2024-10-15T21:41:25.707Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e3aae650ea39b1f4ae6fa12f.jpg
@@ -152,6 +152,13 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -298,6 +305,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -306,9 +320,23 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -362,6 +390,13 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -411,6 +446,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -454,6 +496,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -502,6 +551,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -536,11 +592,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-techniques-for-correcting-motion-blur-from-drones/"><u>[Updated] 2024 Approved Techniques for Correcting Motion Blur From Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-mkv-player-apps-windows-pc/"><u>[Updated] Ideal MKV Player Apps Windows PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/beware-unmask-these-14-typical-facebook-tricks-immediately/"><u>Beware! Unmask These 14 Typical Facebook Tricks Immediately</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-the-keys-tablet-saved/"><u>Bring Back The Keys! Tablet Saved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/embarking-on-a-journey-to-knowledge-begin-your-wisdom-quest-with-abbyy-learn-more-on-our-blog/"><u>Embarking on a Journey to Knowledge: Begin Your Wisdom Quest with ABBYY | Learn More on Our Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/empower-your-website-with-cookiebot-advanced-user-tracking-solutions/"><u>Empower Your Website with Cookiebot: Advanced User Tracking Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-digital-campaigns-with-cookiebot-technology/"><u>Enhance Digital Campaigns with Cookiebot Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhanced-web-performance-with-advanced-insights-from-the-cookiebot-platform/"><u>Enhanced Web Performance with Advanced Insights From the Cookiebot Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-patient-care-with-technology-the-five-key-perks-of-digitalized-medical-directives/"><u>Enhancing Patient Care with Technology: The Five Key Perks of Digitalized Medical Directives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-how-abbyy-dominates-the-market-featured-in-gartners-prestigious-named-leaders-magic-quadrant-for-document-solutions/"><u>Explore How ABBYY Dominates the Market: Featured in Gartner's Prestigious Named Leaders Magic Quadrant for Document Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-20c-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark 20C</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205334443-reviving-non-working-hp-laptop-keys-quick-solutions-at-hand/"><u>Reviving Non-Working HP Laptop Keys: Quick Solutions at Hand!</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-no-signal-in-pokemon-go/"><u>Steering Clear of No Signal in Pokémon GO</u></a></li>
+</ul></div>
+

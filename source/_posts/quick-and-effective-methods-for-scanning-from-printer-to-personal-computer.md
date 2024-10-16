@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2024-10-05T17:26:33.481Z
-updated: 2024-10-09T22:10:16.503Z
+date: 2024-10-09T01:11:42.989Z
+updated: 2024-10-15T19:35:42.406Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -40,48 +40,58 @@ lolostock / Getty Images
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
-![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
-6. Click on your desired printer, then click**Manage** .  
-![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
-7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
+6. Click on your desired printer, then click**Manage** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
+7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
@@ -97,13 +107,6 @@ lolostock / Getty Images
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
@@ -148,24 +151,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-elevating-video-quality-sharing-imovie-work-via-youtube/"><u>[New] Elevating Video Quality Sharing iMovie Work via YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamlabs-versus-obs-the-ultimate-showdown/"><u>[New] In 2024, Streamlabs Versus OBS The Ultimate Showdown</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-cut-video-for-instagram-on-mac/"><u>[Updated] In 2024, How To Cut Video For Instagram On Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-picks-elite-4k-displays-for-cutting-edge-editing/"><u>2024 Approved Top Picks Elite 4K Displays for Cutting-Edge Editing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-error-message-0xc0000185-and-swiftly-restoring-your-systems-stability/"><u>Decoding Error Message 0xC0000185 and Swiftly Restoring Your System's Stability</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-workflow-with-beefys-newest-creation-a-compact-pc-powered-by-meteor-lake-processor-and-m1-from-onexplayer/"><u>Enhance Your Workflow with Beefy's Newest Creation: A Compact PC Powered by Meteor Lake Processor and M1 From OneXPlayer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratis-i-migliori-6-convertitori-mp4-ottieni-risultati-perfetti-quando-cambi-formato-video/"><u>Gratis I Migliori 6 Convertitori MP4 - Ottieni Risultati Perfetti Quando Cambi Formato Video!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-link-your-computer-and-tv-set-up-via-high-definition-multimedia-interface-hdmi/"><u>How to Link Your Computer and TV Set Up via High Definition Multimedia Interface (HDMI)</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-15-must-see-latest-trends-in-the-world-of-tiktok/"><u>In 2024, 15 Must-See Latest Trends in the World of TikTok</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without Computer?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-7-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 7 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-of-the-best-top-free-video-editors-for-mp4-files/"><u>New Best of the Best Top Free Video Editors for MP4 Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pros-and-cons-making-the-right-choice-on-blu-ray-players/"><u>Pros and Cons: Making the Right Choice on Blu-Ray Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/six-exceptional-mobile-apps-perfect-for-keeping-a-digital-diary/"><u>Six Exceptional Mobile Apps Perfect for Keeping a Digital Diary</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-silence-a-guide-to-resolve-iphones-unresponsive-ringer-issue/"><u>Solving Silence: A Guide to Resolve iPhone's Unresponsive Ringer Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-greenness-dilemma-assessing-the-ecological-footprint-of-electric-vehicles/"><u>The 'Greenness' Dilemma: Assessing the Ecological Footprint of Electric Vehicles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-getting-your-surface-pro-reconnected-to-wi-fi/"><u>The Ultimate Fix: Getting Your Surface Pro Reconnected to Wi-Fi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-restoring-lost-sms-messages-on-phones/"><u>The Ultimate Tutorial: Restoring Lost SMS Messages on Phones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-10-igtv-channels-you-should-start-following-now-for-2024/"><u>Top 10 IGTV Channels You Should Start Following Now for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-100-safe-audio-download-techniques-from-youtube/"><u>[New] 2024 Approved 100% Safe Audio Download Techniques From YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-effortlessly-share-window-movie-creations-with-vimeo/"><u>[New] Effortlessly Share Window Movie Creations with Vimeo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unmatched-mp4-generation-from-facebook-clips-for-2024/"><u>[New] Unmatched MP4 Generation From Facebook Clips for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/4-handy-house-painting-apps/"><u>4 Handy House Painting Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/7th-month-review-the-13-best-free-hard-drive-analysis-apps-for-june-july-2024/"><u>7Th Month Review: The 13 Best Free Hard Drive Analysis Apps for June-July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-not-found-error-a-comprehensive-guide-to-restoring-ftd2xxdll/"><u>Fix the Not Found Error: A Comprehensive Guide to Restoring ftd2xx.dll</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-blocking-unwanted-emergency-alerts-in-the-google-play-store-for-android-users/"><u>Guide to Blocking Unwanted Emergency Alerts in the Google Play Store for Android Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-the-ultimate-gb-board-software-for-pcs/"><u>Introducing the Ultimate GB Board Software for PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-to-fixing-stutter-and-lag-techniques-to-improve-in-game-fps/"><u>PC Gamers' Guide to Fixing Stutter and Lag: Techniques to Improve In-Game FPS</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/real-time-broadcasting-made-easy-with-manycam-the-ultimate-live-streaming-and-virtual-camera-solution/"><u>Real-Time Broadcasting Made Easy with ManyCam: The Ultimate Live Streaming and Virtual Camera Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-apple-watch-connection-problems-a-guide-to-6-effective-solutions/"><u>Solve Apple Watch Connection Problems: A Guide to 6 Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002943554-troubleshoot-call-of-duty-vanguard-n-error-code-on-pc-comprehve-solutions-revealed/"><u>Troubleshoot Call of Duty: Vanguard N Error Code on PC – Comprehve Solutions Revealed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-setting-up-misfit-mods-wizard-and-custom-builds-in-kodi/"><u>Ultimate Guide: Setting Up Misfit Mods Wizard & Custom Builds in Kodi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpacking-the-nintendo-switch-whats-included-in-the-box/"><u>Unpacking the Nintendo Switch: What's Included in the Box</u></a></li>
 </ul></div>
 

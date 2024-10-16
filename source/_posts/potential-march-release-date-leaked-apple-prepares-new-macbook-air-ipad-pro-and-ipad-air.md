@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-10-07T17:04:49.506Z
-updated: 2024-10-09T19:03:38.491Z
+date: 2024-10-09T22:08:24.536Z
+updated: 2024-10-16T08:57:01.988Z
 tags:
   - apple
 categories:
@@ -32,19 +32,6 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -65,6 +52,13 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -82,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -104,6 +98,13 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -111,22 +112,21 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -174,21 +174,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults-for-2024/"><u>[New] A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-the-time-travel-of-facebook-memories-via-devices-for-2024/"><u>[New] Navigating the Time Travel of Facebook Memories via Devices for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>[Updated] 2024 Approved In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-high-fidelity-portals-to-ps3-gaming-on-pcs/"><u>[Updated] In 2024, High-Fidelity Portals to Ps3 Gaming on PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-super-mario-adventures-for-pc-gamers-our-picks-of-the-top-6-titles/"><u>Best Super Mario Adventures for PC Gamers: Our Picks of the Top 6 Titles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/current-and-past-macos-versions-explained-your-ultimate-reference-guide/"><u>Current and Past macOS Versions Explained: Your Ultimate Reference Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-transition-whats-propelling-us-towards-electric-vehicles/"><u>Decoding the Transition: What's Propelling Us Towards Electric Vehicles?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-ipads-equipped-with-pre-installed-navigation-satellite-receivers/"><u>Discover iPads Equipped with Pre-Installed Navigation Satellite Receivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-mp3-files-into-m4r-format-with-ease/"><u>Free Online Converter: Change MP3 Files Into M4R Format with Ease</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/more-followers-masterful-youtube-marketing-techniques/"><u>Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-error-when-mfc42dll-cant-be-located/"><u>How to Correctly Address the Error When mfc42.dll Can’t Be Located</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-pathway-setting-up-movie-maker-6/"><u>In 2024, Perfect Pathway Setting Up Movie Maker 6</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/movavi-screen-recording-software-gratis/"><u>Movavi Screen Recording Software Gratis - 立即下載</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-zlibdll-absent-or-missing-file-a-comprehensive-guide/"><u>Resolving 'Zlib.dll' Absent or Missing File: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rigorous-testing-of-kensuns-portable-pneumatic-tool-sturdy-build-and-unmatched-mobility-revealed-in-this-thorough-assessment/"><u>Rigorous Testing of Kensun's Portable Pneumatic Tool - Sturdy Build and Unmatched Mobility Revealed in This Thorough Assessment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-trick-for-resetting-and-strengthening-your-facebook-account-security/"><u>Ultimate Trick for Resetting and Strengthening Your Facebook Account Security</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning-for-2024/"><u>[New] Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accessible-chatgpt-tailored-guidance-for-all-users/"><u>Accessible ChatGPT Tailored Guidance for All Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-isnt-cutting-edge-tech-after-all-exploring-its-historical-foundations-and-maturity/"><u>AI Isn't Cutting-Edge Tech After All: Exploring Its Historical Foundations and Maturity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/breaking-barriers-apple-endorses-legislation-promoting-device-repairability/"><u>Breaking Barriers: Apple Endorses Legislation Promoting Device Repairability</u></a></li>
+<li><a href="https://techtrends.techidaily.com/debunking-the-top-5-common-myths-surrounding-cryptocurrency/"><u>Debunking the Top 5 Common Myths Surrounding Cryptocurrency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/develop-a-personalized-ai-chat-assistant-on-your-device-leveraging-nvidias-cutting-edge-rtx-gpus/"><u>Develop a Personalized AI Chat Assistant on Your Device Leveraging NVIDIA's Cutting-Edge RTX GPUs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ditch-the-star-studded-tips-why-cryptocurrency-wisdom-shouldnt-come-from-celebrities/"><u>Ditch the Star-Studded Tips: Why Cryptocurrency Wisdom Shouldn't Come From Celebrities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-overcome-chatgpt-login-problems-and-access-features/"><u>Effective Solutions to Overcome ChatGPT Login Problems and Access Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhanced-bing-ai-superior-search-capabilities-and-increased-query-quotas-unveiled/"><u>Enhanced Bing AI: Superior Search Capabilities & Increased Query Quotas Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-fixing-windows-11-unreachable-5ghz-wi-fi/"><u>Guide to Fixing Windows 11 - Unreachable 5GHz Wi-Fi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-k70-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi K70 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-galaxy-s24-ultra-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-secret-to-stellar-instagram-photos-pro-techniques-uncovered/"><u>In 2024, The Secret to Stellar Instagram Photos Pro Techniques Uncovered</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-of-windows-intruder-error-messages/"><u>Mastering the Fix of Windows' Intruder Error Messages</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x7-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X7 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-making-taskmanager-prominent/"><u>Tips for Making TaskManager Prominent</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mystery-a-comprehensive-guide-to-understanding-dogecoin/"><u>Unveiling the Mystery: A Comprehensive Guide to Understanding Dogecoin</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-facetime-working-discover-these-effective-remedies-now/"><u>Why Isn't My FaceTime Working? Discover These Effective Remedies Now</u></a></li>
 </ul></div>
 

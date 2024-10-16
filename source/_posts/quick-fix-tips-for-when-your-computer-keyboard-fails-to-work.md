@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-10-06T00:09:39.972Z
-updated: 2024-10-09T17:43:27.869Z
+date: 2024-10-12T18:14:24.448Z
+updated: 2024-10-15T18:37:07.177Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -40,13 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -62,6 +55,19 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -72,13 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -86,6 +85,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -102,13 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -120,13 +119,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  Finally, there is the cost. The more powerful your intended desktop computer, the more likely you can save money by building your own. This is because many premium components carry high markups by the manufacturers as a means to boost profits. While many of the small companies that build high-end systems may build a PC from the exact parts that you want, they mark up the price to cover the costs of building it and supplier support after the purchase.
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disadvantages of Building
 
@@ -144,7 +136,21 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Julie Bang
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -189,18 +195,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>[Updated] 2024 Approved Facebook Video Presentation Boost Adding BB and LC Frameworks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>[Updated] GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-transition-to-professional-screen-captures-via-aiseesoft-for-2024/"><u>[Updated] Seamless Transition to Professional Screen Captures via Aiseesoft for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-simplified-guide-to-iphone-screen-adjustment/"><u>[Updated] Simplified Guide to iPhone Screen Adjustment</u></a></li>
-<li><a href="https://win-blog.techidaily.com/achieve-seamless-gameplay-solving-low-fps-problems-in-fallout-76-using-new-techniques/"><u>Achieve Seamless Gameplay: Solving Low FPS Problems in Fallout 76 Using New Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-iphones-to-androids-which-device-fits-your-lifestyle/"><u>Comparing iPhones to Androids: Which Device Fits Your Lifestyle?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-on-adding-snippets-of-source-code-to-a-word-doc-efficiently/"><u>Expert Tips on Adding Snippets of Source Code to a Word Doc Efficiently</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-sony-xperia-1-v-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Sony Xperia 1 V to Another | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-jscriptdll-cannot-be-found-error-expert-tips-and-tricks/"><u>Overcoming the jScript.dll Cannot Be Found Error - Expert Tips and Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-apps-for-perfectly-altered-videos-on-ios-and-desktop/"><u>Premium Apps for Perfectly Altered Videos on iOS & Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secrets-unveiled-gaining-access-to-trustedinstaller-on-your-windows-10-system/"><u>Secrets Unveiled: Gaining Access to TrustedInstaller on Your Windows 10 System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-must-watch-series-on-max-channel/"><u>Top Picks: Must-Watch Series on MAX Channel</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-video-scheduler-on-windows-11-fixing-internal-errors-once-and-for-all/"><u>Troubleshooting the Video Scheduler on Windows 11 – Fixing Internal Errors Once and For All</u></a></li>
+<li><a href="https://techtrends.techidaily.com/formerly-twitter-a-step-by-step-guide-to-optimizing-your-follow-list/"><u>[Formerly Twitter]: A Step-by-Step Guide to Optimizing Your Follow List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-choice-avi-player-with-multiplatform-support/"><u>Best Choice Avi Player with Multiplatform Support</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-data-buffering-option-for-sony-a7c/"><u>Best Data Buffering Option for Sony A7C</u></a></li>
+<li><a href="https://techtrends.techidaily.com/electric-vs-gasoline-vehicles-unveiling-the-superiority-of-evs-through-in-depth-comparisons/"><u>Electric Vs. Gasoline Vehicles: Unveiling the Superiority of EVs Through In-Depth Comparisons</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/essential-strategies-for-finding-fabulous-and-free-images-on-pexels-for-2024/"><u>Essential Strategies for Finding Fabulous and Free Images on Pexels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-leading-selfie-aids-8-edition/"><u>In 2024, Iphone's Leading Selfie Aids - #8 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-superior-techniques-for-adjusting-tempo-of-tracks-in-spotify/"><u>In 2024, Superior Techniques for Adjusting Tempo of Tracks in Spotify</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6 Making It Possible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-rumors-of-sonys-next-gen-vr-setup-price-estimates-launch-window-and-specs-overview/"><u>Inside the Rumors of Sony's Next-Gen VR Setup: Price Estimates, Launch Window, and Specs Overview!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/problema-resuelto-error-de-tamano-en-disco-destino-con-clonzilla/"><u>Problema Resuelto: Error De Tamaño en Disco Destino Con Clonzilla</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-print-to-computer-file-sharing-techniques-explained/"><u>Seamless Print-to-Computer File Sharing Techniques Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-into-the-future-with-apples-newest-smartphone-innovation/"><u>Step Into the Future with Apple’s Newest Smartphone Innovation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-tracker-gauging-youtube-popularity-for-financial-insights-for-2024/"><u>The Ultimate Tracker Gauging YouTube Popularity for Financial Insights for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-correcting-missing-oleaut32dll-message/"><u>Troubleshooting Tips for Correcting 'Missing' Oleaut32.dll Message</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/why-does-instagram-keep-flipping-my-video-for-2024/"><u>Why Does Instagram Keep Flipping My Video for 2024</u></a></li>
 </ul></div>
 

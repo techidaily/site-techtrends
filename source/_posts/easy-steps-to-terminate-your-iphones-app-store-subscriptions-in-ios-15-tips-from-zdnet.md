@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-10-02T23:54:40.607Z
-updated: 2024-10-09T17:45:17.526Z
+date: 2024-10-10T06:47:27.256Z
+updated: 2024-10-15T16:20:10.380Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,13 +51,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -64,10 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -79,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +92,16 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,20 +140,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-premium-cameras-a-2024-guide/"><u>[New] Exploring Premium Cameras A 2024 Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-experts-guide-to-screencast-mastery-and-impactful-content/"><u>[Updated] 2024 Approved The Expert's Guide to Screencast Mastery and Impactful Content</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-blaze-2-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Blaze 2 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-full-scope-on-netflix-your-go-to-source-for-understanding-the-modern-tv-service/"><u>A Full Scope on Netflix - Your Go-To Source for Understanding the Modern TV Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-next-google-pixel-explore-projections-for-its-price-tag-availability-date-and-technical-details/"><u>Anticipating the Next Google Pixel – Explore Projections for Its Price Tag, Availability Date & Technical Details</u></a></li>
-<li><a href="https://article-posts.techidaily.com/blue-freestyle2-mice-review-ultimate-accessory-for-mac-enthusiasts/"><u>Blue Freestyle2 Mice Review: Ultimate Accessory for Mac Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-turning-off-wireless-emergency-alerts-wea-for-amber-on-andriod-phones/"><u>Guide to Turning Off Wireless Emergency Alerts (WEA) for AMBER on Andriod Phones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-v30-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme V30 FRP Without Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/incorporating-pinterest-into-facebook-enhance-visual-appeal-and-traffic/"><u>Incorporating Pinterest Into Facebook: Enhance Visual Appeal and Traffic</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-14-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi 14 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-fixing-problems-with-uploading-instagram-stories/"><u>Step-by-Step Solutions for Fixing Problems with Uploading Instagram Stories</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-mystery-of-off-facebook-activity-what-to-know-and-do-for-2024/"><u>The Mystery of Off-Facebook Activity What to Know & Do for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-funny-apple-device-prank-ideas-for-your-buddies/"><u>Top 10 Funny Apple Device Prank Ideas for Your Buddies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-websites-for-easy-and-effective-apartment-hunting/"><u>Top 10 Websites for Easy and Effective Apartment Hunting</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-v30-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo V30 Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-inshot-guide-successfully-load-tracks-into-videos/"><u>[New] InShot Guide Successfully Load Tracks Into Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secure-stock-images-avoiding-watermarks/"><u>[New] Secure Stock Images Avoiding Watermarks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-launching-live-recordings-on-hp-computers/"><u>2024 Approved Launching Live Recordings on HP Computers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-streamlining-your-webm-experience-without-spending-money/"><u>2024 Approved Streamlining Your WebM Experience Without Spending Money</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-techniques-for-taking-precise-screenshots-on-any-computer-system/"><u>Easy Techniques for Taking Precise Screenshots on Any Computer System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-mac-multi-monitor-configuration-techniques/"><u>Effortless Mac Multi-Monitor Configuration Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-picks-the-most-advanced-server-racks-and-enclosures/"><u>Expert Picks: The Most Advanced Server Racks and Enclosures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-scratch-building-to-out-of-the-box-pc-purchases-making-the-right-decision-for-you/"><u>From Scratch Building to Out-of-the-Box PC Purchases: Making the Right Decision for You</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-search-of-excellence-notion-ai-versus-chatgpt-evaluation/"><u>In Search of Excellence: Notion AI Versus ChatGPT Evaluation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/long-term-performance-testing-of-oneplus-watch-2-the-ultimate-guide-to-the-best-android-smartwatches/"><u>Long-Term Performance Testing of OnePlus Watch 2: The Ultimate Guide to the Best Android Smartwatches.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-troubleshooting-tips-entering-the-recovery-environment/"><u>Mac Troubleshooting Tips: Entering the Recovery Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-your-lenovo-to-defaults-the-essential-troubleshooting-tutorial/"><u>Resetting Your Lenovo to Defaults – The Essential Troubleshooting Tutorial</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-your-income-with-beauty-tutorials-for-2024/"><u>Scaling Your Income with Beauty Tutorials for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/seeking-clarity-complete-accessibility-of-mutual-shared-materials-for-2024/"><u>Seeking Clarity Complete Accessibility of Mutual Shared Materials for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/skip-the-logon-screen-setting-up-fast-boot-with-existing-user-profile-on-windows/"><u>Skip the Logon Screen: Setting up Fast Boot with Existing User Profile on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-repairing-a-500-internal-server-mishap/"><u>Solving the Mystery: A Step-by-Step Guide to Repairing a 500 Internal Server Mishap</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tracking-engagement-how-to-find-out-who-shared-your-content-on-facebook/"><u>Tracking Engagement: How to Find Out Who Shared Your Content on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-un-fichier-ts-en-video-mp4-gratuite-en-ligne-avec-videoregistrator/"><u>Transformez Un Fichier .TS en Vidéo MP4 Gratuite en Ligne Avec Videoregistrator</u></a></li>
 </ul></div>
 

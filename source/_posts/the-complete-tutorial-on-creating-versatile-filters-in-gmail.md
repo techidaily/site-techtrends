@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Creating Versatile Filters in Gmail
-date: 2024-10-03T19:58:00.789Z
-updated: 2024-10-09T23:00:31.373Z
+date: 2024-10-13T16:41:45.524Z
+updated: 2024-10-15T17:53:20.321Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Tutorial on Creating Versatile Filters in Gmail
@@ -69,10 +69,10 @@ of 10
 ![Emails in an Outlook.com account](https://www.lifewire.com/thmb/H-eJC9BjhHDNlttlpKjOcwFqn0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-email-96b6e0e2cb634079b2fd23872831e774.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -112,13 +112,6 @@ of 10
 ## [Proton Mail](https://proton.me/mail)
 
 ![ProtonMail inbox](https://www.lifewire.com/thmb/2A5ZBpitET9klvQvOoZKvrgjXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/proton-mail-09e4a81823e3432fa07c5076fb0e8ec9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -165,10 +158,10 @@ of 10
 ![Yahoo Mail email inbox](https://www.lifewire.com/thmb/sU-JXf-rjXc7JEILC7Oc5ZE5rQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-ad1701b87a104041b1841b2889d75d13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -205,10 +198,10 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## [iCloud Mail](https://www.icloud.com/mail)
@@ -246,13 +239,6 @@ of 10
 ## [Tuta](https://tuta.com/)
 
 ![The New Email prompt at Tuta Mail](https://www.lifewire.com/thmb/QJuKx-B118vphcRrC7pLrccc_z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tuta-free-email-248d1566745f4c88bfbe3cd0d302c8f7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -292,6 +278,13 @@ of 10
 ## [Yandex Mail](https://360.yandex.com/mail/)
 
 ![An email open in Yandex Mail](https://www.lifewire.com/thmb/82p_aFODzg3ro3jmqbUYSRVdA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-30f9ebbff5954531b460ae29d40a882e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -333,13 +326,6 @@ of 10
 
 ![AOL Mail inbox](https://www.lifewire.com/thmb/fmPyWPLETFWZS5zg3BYZt-QjHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aol-mail-afe56902b0334cb0a542d11e4f7bac82.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What We Like
 
 * A calendar and to-do list are easily accessible from the email page.
@@ -379,16 +365,10 @@ of 10
 ![10 minute mail disposable email account inbox](https://www.lifewire.com/thmb/z54bILlMdpNst4W5XMOQWgjMozs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/10-minute-mail-87c7ad30b94c4a8da83103d31ea84bc3.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -419,9 +399,23 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Zoho Mail](https://www.zoho.com/mail/)
 
 ![Zoho Mail](https://www.lifewire.com/thmb/BcrKaOI0YwKyznVpNGYEic1abEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zoho-mail-website-5b9141c5c9e77c0050dbc327.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -498,18 +492,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-racing-hearts-22-short-track-triumph/"><u>[New] 2024 Approved Racing Hearts '22 Short-Track Triumph</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-best-5-fpv-goggles-for-drone-racing-for-2024/"><u>[New] Best 5 FPV Goggles for Drone Racing for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-offline-android-games-for-uninterrupted-fun/"><u>[New] In 2024, Essential Offline Android Games for Uninterrupted Fun</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[Updated] Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-of-mjpeg-videos-to-popular-formats-with-movavi/"><u>Free Online Conversion of MJPEG Videos to Popular Formats with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-converteren-van-mpeg-naar-3gp-professioneel-online-tool-by-movavi/"><u>Gratis Converteren Van MPEG Naar 3GP: Professioneel Online-Tool by Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-your-gameplay-proven-strategies-to-enhance-frame-rate-and-eliminate-lags-in-enlisted/"><u>Maximizing Your Gameplay: Proven Strategies to Enhance Frame Rate and Eliminate Lags in 'Enlisted'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/no-more-waiting-speeding-through-windows-11-update-processes-efficiently/"><u>No More Waiting: Speeding Through Windows 11 Update Processes Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/offline-minecraft-adventures-configuring-your-game-on-windows-10/"><u>Offline Minecraft Adventures: Configuring Your Game on Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-adjustments-correcting-iphone-video-washout-in-premiere-pro-for-2024/"><u>Precision Adjustments Correcting iPhone Video Washout in Premiere Pro for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolved-windows-error-during-drive-formatting-now-successful/"><u>Resolved: Windows Error During Drive Formatting – Now Successful</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965557319-solution-shielded-metal-arc-welding-smaw-and-gas-tungsten-arc-welding-gtaw-are-the-types-of-welding-processes-most-affected-by-arc-blow/"><u>Solution: Shielded Metal Arc Welding (SMAW) and Gas Tungsten Arc Welding (GTAW) Are the Types of Welding Processes Most Affected by Arc Blow.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unlocking-microsoft-azure-transcription-capabilities/"><u>[New] 2024 Approved Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premier-collectors-list-top-shorts-for-free-online/"><u>[New] In 2024, Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[New] In 2024, Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamlessly-downloading-hd-content-from-facebook/"><u>2024 Approved Seamlessly Downloading HD Content From Facebook</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/aifcaiff-movavi/"><u>完美轉換AIFC到AIFF：由 Movavi 提供的免費在線解決方案</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fresh-start-on-iphone-15-restart-techniques-unveiled/"><u>Fresh Start on iPhone 15: Restart Techniques Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-comfort-of-your-couch-mastering-3d-movie-streams-via-fandangos-service/"><u>From Comfort of Your Couch: Mastering 3D Movie Streams via Fandango's Service</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-canon-mg3600-software-upgrades-and-driver-downloads-here/"><u>Get the Most Recent Canon MG3600 Software Upgrades & Driver Downloads Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-stop-unwanted-mystery-calls-on-iphone-with-ease/"><u>Guide: Stop Unwanted Mystery Calls on iPhone with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-look-at-samsung-galaxy-z-fold-7-anticipated-cost-launch-timeline-and-features-latest-leaks/"><u>In-Depth Look at Samsung Galaxy Z Fold 7: Anticipated Cost, Launch Timeline & Features - Latest Leaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-and-fixing-sound-issues-in-windows/"><u>Pinpointing and Fixing Sound Issues in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-reasons-why-google-photos-has-became-indispensable-dont-miss-out/"><u>The Essential Reasons Why Google Photos Has Became Indispensable – Don’t Miss Out!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-simplified-approach-for-transforming-flac-music-tracks-into-m4a-format/"><u>The Simplified Approach for Transforming FLAC Music Tracks Into M4A Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-securing-your-devices-the-best-surge-protectors-reviewed/"><u>Ultimate Guide to Securing Your Devices: The Best Surge Protectors Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-win-os-anomalies-a-guide-to-debugging-errors-via-the-power-of-command-prompt/"><u>Unraveling Win-OS Anomalies: A Guide to Debugging Errors via the Power of Command Prompt</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-our-selection-of-top-7-alarm-clock-mobile-apps/"><u>Unveiling Our Selection of Top 7 Alarm Clock Mobile Apps</u></a></li>
 </ul></div>
 
