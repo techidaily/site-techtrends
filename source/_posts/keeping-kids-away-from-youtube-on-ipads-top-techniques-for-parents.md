@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-10-05T19:02:02.399Z
-updated: 2024-10-09T21:58:54.855Z
+date: 2024-10-16T19:40:23.577Z
+updated: 2024-10-21T21:31:38.755Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -49,10 +49,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -69,6 +69,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -80,13 +87,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -96,6 +96,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -120,10 +127,16 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -133,13 +146,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,24 +176,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-8-most-viewed-videos-on-facebook-for-2024/"><u>[New] 8 Most Viewed Videos on Facebook for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-reaching-more-posting-tiktok-videos-on-twitter/"><u>[Updated] 2024 Approved Reaching More Posting TikTok Videos on Twitter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clearing-android-cache-a-comprehensive-walkthrough/"><u>Clearing Android Cache - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-roku-stream-player-and-roku-ultra-which-offers-more/"><u>Comparing Roku Stream Player and Roku Ultra: Which Offers More?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnose-and-repair-dealing-with-rockalldlldll-not-found-system-issues/"><u>Diagnose and Repair: Dealing with Rockalldll.dll Not Found System Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725287670257-dvd-shrink5/"><u>DVD Shrinkより優れた5つの代替ソリューション:無料と有料オプション比較</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-to-overcome-the-annoying-code-39-error-on-your-pc/"><u>Easy Fixes to Overcome the Annoying Code 39 Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-internet-searches-with-bing-by-microsoft/"><u>Exploring the World of Internet Searches with Bing by Microsoft</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-how-to-restore-visuals-on-your-xbox-one-when-facing-a-no-signal-error/"><u>Guide: How to Restore Visuals on Your Xbox One When Facing a No Signal Error</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-meizu-21-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Meizu 21 Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pick-the-perfect-machine-a-guide-for-gamers-seeking-the-ultimate-pc/"><u>How To Pick The Perfect Machine: A Guide for Gamers Seeking the Ultimate PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-ace-2-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Ace 2 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>New 2024 Approved Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
-<li><a href="https://techtrends.techidaily.com/slack-strategies-for-effective-teamwork-in-a-remote-work-environment/"><u>Slack Strategies for Effective Teamwork in a Remote Work Environment</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/by-step-to-stellar-video-youtube-studio-edition-for-2024/"><u>Step-by-Step to Stellar Video YouTube Studio Edition for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/supreme-top-4k-tvs-for-gamers-for-2024/"><u>Supreme Top 4K TVs for Gamers for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/ultimate-picks-6-reliable-ai-applications-for-superior-video-upconversion-techniques/"><u>Ultimate Picks: 6 Reliable AI Applications for Superior Video Upconversion Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-expect-from-apples-ring-shaped-innovator-insights-on-price-debut-and-tech-specs/"><u>What to Expect From Apple's Ring-Shaped Innovator? Insights on Price, Debut & Tech Specs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[New] 2024 Approved Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[Updated] 2024 Approved Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726225671593-nef-movavi/"><u>無需金錢的網路NEF傳輸服務 - Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>Breakthrough Techniques for Streaming Success OBS Studio (Android)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descarga-la-herramienta-de-transferencia-de-trp-a-mpeg-gratuita-online-con-movavi/"><u>Descarga La Herramienta De Transferencia De TRP a MPEG Gratuita Online Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-mp4-converter-convert-ram-files-with-movavi/"><u>Free Online MP4 Converter: Convert RAM Files with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-academic-avenue-leading-educators-on-youtube/"><u>In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-creating-viral-hashtag-campaigns-on-twitter/"><u>In 2024, Creating Viral Hashtag Campaigns on Twitter</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x9b-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X9b</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726222640865-wavmp3-movavi/"><u>WAVファイルをMP3に変換: オンラインで自由な解析 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726223700740-6/"><u>이 연도, '동영상 자막 넣기'에 대한 최신 정보! 우리가 추천하는 6형제: 긍정적인 바로그 선택</u></a></li>
 </ul></div>
 

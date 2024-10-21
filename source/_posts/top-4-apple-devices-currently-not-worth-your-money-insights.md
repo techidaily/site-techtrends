@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights"
-date: 2024-10-06T00:09:00.282Z
-updated: 2024-10-09T19:15:05.626Z
+date: 2024-10-14T17:41:53.132Z
+updated: 2024-10-21T17:14:01.162Z
 tags:
   - apple
 categories:
@@ -68,16 +68,10 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -102,6 +96,13 @@ Along with the updated processor, this MacBook Air can also power two external m
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple Vision Pro**
 
 Apple Vision Pro on a stand
@@ -117,10 +118,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -138,13 +139,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -161,16 +155,16 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
+<span id="1374819">
 					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
@@ -234,18 +228,18 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-cracking-the-code-to-youtube-income-through-views/"><u>[New] 2024 Approved Cracking the Code to YouTube Income Through Views</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-drones-demystified-crucial-considerations-before-buying/"><u>[New] 2024 Approved Drones Demystified Crucial Considerations Before Buying</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturecast-unveiling-2023s-best-recording-software/"><u>[Updated] 2024 Approved CaptureCast Unveiling 2023'S Best Recording Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-telltale-signs-your-chat-is-hidden/"><u>[Updated] 2024 Approved Telltale Signs Your Chat Is Hidden</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-broadcasting-directly-on-instagram/"><u>[Updated] In 2024, OBS Broadcasting Directly on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-purchasing-video-games-for-oculus-quest-2/"><u>Complete Guide: Purchasing Video Games for Oculus Quest 2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-streaming-hardware-a-comprehensive-guide-on-devices-for-media-consumption/"><u>Demystifying Streaming Hardware: A Comprehensive Guide on Devices for Media Consumption</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-visual-fluidity-in-ps5-games-the-roadmap-to-120-frames-per-second/"><u>Enhancing Visual Fluidity in PS5 Games - The Roadmap to 120 Frames Per Second</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-a79-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo A79 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-have-educational-electronics-the-top-9-tools-for-todays-learners/"><u>Must-Have Educational Electronics: The Top 9 Tools for Today's Learners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-essential-order-for-watching-the-complete-x-men-film-universe/"><u>The Essential Order for Watching the Complete X-Men Film Universe</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-in-depth-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Reviews and News</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-relying-on-artificial-intelligence-for-your-windows-11-activation-is-a-bad-idea/"><u>Why Relying on Artificial Intelligence for Your Windows 11 Activation Is a Bad Idea</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-what-is-the-best-mp4-cutter-for-youtubers-on-mac/"><u>[New] 2024 Approved What Is the Best MP4 Cutter for YouTubers On Mac?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-how-to-edit-audio-on-youtube/"><u>[Updated] 2024 Approved How to Edit Audio on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-audio-software-win-edition/"><u>[Updated] Pro Audio Software Win Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-mp3-wma/"><u>1. 線上簡易音頻轉換器 - 準時地改變 MP3, WMA 以及其他音樂儲存格式</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-ultimate-guide-mastering-improved-capture-techniques-for-meta-quest-3-tips-from-zdnet/"><u>1. Ultimate Guide: Mastering Improved Capture Techniques for Meta Quest 3 - Tips From ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-ways-to-record-mobile-content-on-android/"><u>2024 Approved Innovative Ways to Record Mobile Content on Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/die-besten-programme-und-websites-zum-konvertieren-von-youtube-in-mp3-audio-dateien-vergleich-der-top-10-losungen/"><u>Die Besten Programme Und Websites Zum Konvertieren Von YouTube in MP3 Audio Dateien - Vergleich Der Top 10 Lösungen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-conversion-tools-change-mp4mpg-to-mpeg-format-online-with-ease/"><u>Free Conversion Tools - Change MP4/MPG to MPEG Format Online with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hoe-ik-mijn-videobestand-verdienbaar-maakt-met-een-zelfgemaakte-green-screen-deftig-2024/"><u>Hoe Ik Mijn Videobestand Verdienbaar Maakt Met Een Zelfgemaakte Green Screen - Deftig 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-k70-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi K70 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-performing-memory-cards-for-gopro-cameras-a-complete-guide/"><u>Top Performing Memory Cards for GoPro Cameras: A Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-file-avi-in-formato-mp3-online-e-gratuitamente-con-movavi/"><u>Trasforma File AVI in Formato MP3 Online E Gratuitamente Con Movavi</u></a></li>
 </ul></div>
 

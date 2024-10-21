@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-10-07T20:05:57.747Z
-updated: 2024-10-09T19:23:05.391Z
+date: 2024-10-18T19:35:40.810Z
+updated: 2024-10-21T21:38:32.244Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -54,10 +47,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -83,10 +76,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -105,6 +98,13 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -120,10 +120,10 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -162,17 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-direct-transition-from-youtube-to-instagram-reels/"><u>[New] 2024 Approved Direct Transition From YouTube to Instagram Reels</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-key-online-archives-of-free-motion-graphics/"><u>[New] 2024 Approved Key Online Archives of Free Motion Graphics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-youtubes-elite-annual-showcases-post-vidcon/"><u>2024 Approved YouTube's Elite Annual Showcases (Post-VidCon)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-zte-nubia-z60-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-guide-to-curved-picture-editing/"><u>Essential Guide to Curved Picture Editing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-permanently-delete-your-yahoo-mail-and-securely-protect-your-data/"><u>How to Permanently Delete Your Yahoo Mail and Securely Protect Your Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-pair-your-samsung-smartphone-with-the-tv-using-wireless-bluetooth-connection/"><u>How to Seamlessly Pair Your Samsung Smartphone with the TV Using Wireless Bluetooth Connection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-musical-video-enhancement-on-instagram-for-ultimate-engagement/"><u>Master the Art of Musical Video Enhancement on Instagram for Ultimate Engagement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rising-tides-of-streamers-a-guide-to-building-a-successful-chatter-for-2024/"><u>Rising Tides of Streamers A Guide to Building a Successful Chatter for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-32-open-source-backup-solutions-comprehensive-rating-and-reviews/"><u>Top 32 Open-Source Backup Solutions - Comprehensive Rating & Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-discount-websites-that-will-boost-your-savings/"><u>Top 6 Discount Websites That Will Boost Your Savings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-methods-to-restore-clarity-from-color-distortion-in-display-panels/"><u>Troubleshooting Methods to Restore Clarity From Color Distortion in Display Panels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagrams-latest-trends-for-successful-influencer-journeys-for-2024/"><u>[New] Instagram's Latest Trends for Successful Influencer Journeys for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-can-creators-expect-to-be-paid-by-youtube/"><u>[Updated] 2024 Approved How Often Can Creators Expect to Be Paid by YouTube?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>2024 Approved Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-visionary-groups-redefining-virtual-space/"><u>2024 Approved Visionary Groups Redefining Virtual Space</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aiff-avi-movavi/"><u>高效率在線 AIFF-AVI 邏輯導航: 利用 Movavi 易於操作的轉換器</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-flv-a-formato-avi-sin-coste-guia-completa-con-movavi/"><u>Cómo Convertir Archivos FLV a Formato AVI Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-crear-imagenes-con-fondo-transparente-en-photoshop/"><u>Cómo Crear Imágenes Con Fondo Transparente en Photoshop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-online-da-mkv-a-avi-movavi/"><u>Conversione Gratuita Online Da MKV a AVI - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-online-cambia-file-caf-in-m4r-con-movavis-convertitore-facile-e-veloce/"><u>Conversione Gratuita Online: Cambia File CAF in M4R Con Movavi's Convertitore Facile E Veloce</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/convertir-des-dvds-et-videos-efficacement-avec-le-logiciel-dedie-de-digiarty-software/"><u>Convertir Des DVDs Et Vidéos Efficacement Avec Le Logiciel Dédié De Digiarty Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-power-of-movavi-pro-video-tools-shop-and-enhance-your-business-today/"><u>Discover the Power of Movavi Pro Video Tools - Shop and Enhance Your Business Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-mp3-to-ogg-converter-online-service-by-movavi/"><u>Free MP3 to Ogg Converter - Online Service by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-video-converter-convert-wtv-to-mpeg-with-movavi/"><u>Free Online Video Converter: Convert WTV to MPEG with Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-takes-on-ai-dominance-with-bard-the-next-big-rival-to-microsofts-chatgpt/"><u>Google Takes on AI Dominance With Bard - The Next Big Rival to Microsoft’s ChatGPT</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-overcoming-critical-process-errors-and-bsod-in-windows-11/"><u>Guide to Overcoming Critical Process Errors and BSOD in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-xlivedll-not-found-or-missing-errors/"><u>How to Fix Xlive.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-v29-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V29 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformacion-gratis-y-rapida-convertir-archivos-m4v-a-mp4-con-herramienta-online-movavi/"><u>Transformación Gratis Y Rápida: Convertir Archivos M4V a MP4 Con Herramienta Online - Movavi</u></a></li>
 </ul></div>
 

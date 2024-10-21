@@ -1,7 +1,7 @@
 ---
 title: "How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider"
-date: 2024-10-08T00:02:11.700Z
-updated: 2024-10-09T21:04:11.493Z
+date: 2024-10-18T21:44:35.062Z
+updated: 2024-10-21T20:20:57.318Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -71,13 +78,6 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -87,13 +87,6 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -110,10 +103,10 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -124,6 +117,13 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Payment, wallet, and digital identity diversification:** In addition to new open transaction and digital identity platforms like OpenWallet, we might see further diversification in the digital wallet and payment systems market, reducing Apple's control over financial transactions with the predominance of Apple Pay on iOS devices, and potentially lowering transaction fees.
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
 
@@ -136,10 +136,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,20 +178,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-microvid-recorder-critique-with-alternatives/"><u>[New] MicroVid Recorder Critique with Alternatives</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-viral-video-roundup-top-tiktok-reaction-shenanigans/"><u>[Updated] Viral Video Roundup Top TikTok Reaction Shenanigans</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-adjust-privacy-settings-for-secure-online-viewing/"><u>2024 Approved Adjust Privacy Settings for Secure Online Viewing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-fongo-voip-solution-evaluation-in-canada/"><u>Comprehensive Fongo VoIP Solution Evaluation in Canada</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-trainer-strategies-using-chatgpt/"><u>Enhancing Trainer Strategies Using ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-every-iteration-of-macos-the-definitive-guide-to-mac-operating-system-versions/"><u>Exploring Every Iteration of macOS - The Definitive Guide to Mac Operating System Versions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fast-track-mastering-the-setup-of-brother-printers-in-minutes/"><u>Fast Track: Mastering the Setup of Brother Printers in Minutes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-parsing-errors-in-your-android-app-top-8-solutions/"><u>Fix Parsing Errors in Your Android App: Top 8 Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-yuva-2-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Yuva 2 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-speculations-around-new-apple-home-robots-features-scheduled-debut-and-cost-predictions/"><u>Inside Scoop: Speculations Around New Apple Home Robot's Features, Scheduled Debut, and Cost Predictions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smartwatch-shopping-checklist-what-to-consider-in-advance/"><u>Smartwatch Shopping Checklist: What to Consider in Advance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-latest-ios-software-upgrades/"><u>Step-by-Step Guide: Successfully Downloading & Installing Latest iOS Software Upgrades</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/techniques-for-gradual-audio-reduction-with-lumafusion/"><u>Techniques for Gradual Audio Reduction with Lumafusion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-checklist-for-powerless-computers-and-tablets/"><u>The Ultimate Troubleshooting Checklist for Powerless Computers and Tablets</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vanderperren-s-et-al-2008-the-impact-of-glyphosate-on-the-amphibian-rana-lessonae-evidence-for-a-non-target-effect-and-endocrine-disruption-at-environmental443/"><u>Vanderperren S., Et Al (2008). The Impact of Glyphosate on the Amphibian Rana Lessonae: Evidence for a Non-Target Effect and Endocrine Disruption at Environmentally Realistic Concentrations. Environ Sci Pollut Res, 15(6), 397-402</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-channels-with-flair-unveiling-10-innovative-design-platforms/"><u>[New] In 2024, Craft Channels with Flair Unveiling 10 Innovative Design Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lightroom-lut-guide-discovering-the-best-10-tools-for-color-grading/"><u>[New] Lightroom LUT Guide Discovering the Best 10 Tools for Color Grading</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premier-vhs-inspired-tricks-for-editing-excellence-for-2024/"><u>[New] Premier VHS-Inspired Tricks for Editing Excellence for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-rw2-files-to-jpg-for-free-using-movavis-online-tool/"><u>Convert RW2 Files to JPG for Free Using Movavi's Online Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descargue-e-importacion-gratuita-de-wma-a-flac-online-con-convertidor-de-audio-sin-coste/"><u>Descargue E Importación Gratuita De WMA a FLAC Online Con Convertidor De Audio Sin Coste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-change-your-videos-from-mkv-to-m4a-with-moveavi/"><u>Free Online Conversion: Change Your Videos From MKV to M4A with Moveavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-hub/"><u>Navigate the World of Computer Components with Tom's Hardware Hub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-efficient-avchd-to-m2ts-transcoding-top-hd-video-format-converter-solutions/"><u>Quick and Efficient AVCHD to M2TS Transcoding: Top HD Video Format Converter Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/sunday-success-with-chick-fil-a-innovative-tactics-for-profiting-on-a-rest-day-zdnet-insights/"><u>Sunday Success with Chick-Fil-A: Innovative Tactics for Profiting on a Rest Day | ZDNET Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ucretsiz-film-yapim-secenegi-18-ebaturlerin-windows-1187-daha-etkili-mekanlarini-sunuyor/"><u>Ücretsiz Film Yapım Seçeneği – 18 Ebatürlerin Windows 11/8/7 Daha Etkili Mekanlarını Sunuyor</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-stacked-selecting-best-budget-pc-boards/"><u>Value Stacked: Selecting Best Budget PC Boards</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
-date: 2024-10-13T01:15:03.511Z
-updated: 2024-10-15T16:46:35.032Z
+date: 2024-10-19T17:27:02.087Z
+updated: 2024-10-21T16:13:20.639Z
 categories:
   - BestProducts
 description: This Article Describes Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
  This article explains how to open[Command Prompt](https://www.lifewire.com/command-prompt-2625840) , which is one of the[command-line interface](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) programs used to execute[commands](https://www.lifewire.com/what-is-a-command-2625828) in Windows operating systems. These directions apply to Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP.  
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open Command Prompt in Windows 11 or 10
 
  There are a few ways, but using the search bar on the taskbar is one quick method for opening a command window.
@@ -50,25 +43,11 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
@@ -95,6 +74,13 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -104,16 +90,17 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -127,6 +114,13 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -172,20 +166,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-analyzing-audio-editing-tools-in-magix-producer-suite/"><u>[New] Analyzing Audio Editing Tools in Magix Producer Suite</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rafting-quick-cut-channel-sequences/"><u>[New] Crafting Quick-Cut Channel Sequences</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-metaverse-wisdom-a-compilation-of-inspiring-thoughts/"><u>[New] Metaverse Wisdom A Compilation of Inspiring Thoughts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/youtube-and-vimeopc/"><u>最適な動画表示設定 - YouTube & VimeoでPC画面方向をフリーマネジメントツール</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-15-tools-for-downloading-high-quality-audio-from-youtube/"><u>Best 15 Tools for Downloading High-Quality Audio From YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-tecno-pova-6-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Pova 6 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-personalized-music-lists-on-iphone-and-ipad-a-step-by-step-guide/"><u>Creating Personalized Music Lists on iPhone and iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-digital-deals-on-macx-gear-conveniently-shop-from-the-best-online-tech-store/"><u>Discover Digital Deals on MacX Gear – Conveniently Shop From the Best Online Tech Store!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-top-4k-ultra-hd-movies-in-2160p-resolution-free-access-to-bollywood-and-hollywood-hits/"><u>Download Top 4K Ultra HD Movies in 2160P Resolution: Free Access to Bollywood & Hollywood Hits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-how-to-stream-youtube-videos-on-your-macbook-air-with-no-hassle/"><u>Easy Steps: How to Stream YouTube Videos on Your MacBook Air with No Hassle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-your-presentations-with-smart-use-of-chatgpt/"><u>Elevating Your Presentations with Smart Use of ChatGPT</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tial-steps-to-implement-video-card-anchors-on-youtube-for-2024/"><u>Essential Steps to Implement Video Card Anchors on YouTube for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-instant-viral-potential-learn-kinemaster-memes/"><u>In 2024, Instant Viral Potential Learn KineMaster Memes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-full-potential-of-your-device-expert-guide-to-jailbreaking-ios-17/"><u>Unlocking the Full Potential of Your Device: Expert Guide to Jailbreaking iOS 17</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elite-filmmaking-tools-for-gopro-for-2024/"><u>[New] Elite Filmmaking Tools for GoPro for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-techniques-for-accurate-ps3-playback-rendering/"><u>[New] Techniques for Accurate PS3 Playback Rendering</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-the-perfect-harmony-fusing-lyrics-and-images-with-lyric-video-maker/"><u>[Updated] In 2024, Crafting the Perfect Harmony Fusing Lyrics & Images with Lyric Video Maker</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-plan-ahead-masterful-fb-timelines-using-free-resources/"><u>[Updated] In 2024, Plan Ahead Masterful Fb Timelines Using Free Resources</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-perfecting-your-youtube-presence-with-finalcut-pro-proficiency-for-2024/"><u>[Updated] Perfecting Your YouTube Presence with FinalCut Pro Proficiency for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-steps-to-enhance-your-ability-as-an-effective-interviewer-for-2024/"><u>[Updated] Steps to Enhance Your Ability as an Effective Interviewer for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-breathe-life-into-your-reel-tips-for-perfect-slow-motion/"><u>2024 Approved Breathe Life Into Your Reel Tips for Perfect Slow Motion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-itel-p40-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Itel P40 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-performance-by-purging-cache-on-android-devices-a-comprehensive-guide/"><u>Boost Performance by Purging Cache on Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-battlefield-tips-and-tricks-for-pokemon-unite-enthusiasts/"><u>Conquering the Battlefield: Tips and Tricks for Pokémon Unite Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-cutting-edge-technology-in-apples-latest-ipad-gen/"><u>Explore the Cutting-Edge Technology in Apple's Latest iPad Gen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-cell-phone-signal-on-your-apple-watch-effective-solutions-explored/"><u>Fixing Cell Phone Signal on Your Apple Watch: Effective Solutions Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-delete-your-twitch-account/"><u>How to Delete Your Twitch Account</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/jpeg-recovery-software-revives-damaged-images/"><u>JPEG Recovery Software - Revives Damaged Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-modifying-text-fonts-on-your-windows-11-device/"><u>Step-by-Step Guide: Modifying Text Fonts on Your Windows 11 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-consumers-guide-expert-strategies-for-finding-and-acquiring-the-best-tv-model-for-your-residence/"><u>The Consumer's Guide: Expert Strategies for Finding and Acquiring the Best TV Model for Your Residence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-next-gen-conversational-agents-as-great-replacements-for-chatgpt/"><u>Top 10 Next-Gen Conversational Agents as Great Replacements for ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-complimentary-and-open-access-dns-service-providers/"><u>Top Picks: Complimentary & Open Access DNS Service Providers</u></a></li>
 </ul></div>
 

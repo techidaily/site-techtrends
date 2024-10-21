@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
-date: 2024-10-08T23:19:53.444Z
-updated: 2024-10-15T23:27:50.367Z
+date: 2024-10-16T17:57:27.717Z
+updated: 2024-10-21T16:14:20.660Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![Checkbox next to Users must enter a user name and password to use this computer in User Accounts window, Windows 10](https://www.lifewire.com/thmb/T5n8YqosSlQDqoBzckQUD2kqKh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-do-i-auto-login-to-windows-2626066-5bd105c746e0fb0051d587a9.jpg)  
  Don't see that option? Skip to the next section below these steps to learn how a small tweak to the Windows Registry can reveal this checkbox.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**OK** at the bottom of the window.  
 ![OK button after Users must enter a user name and password to use this computer checkbox is unchecked](https://www.lifewire.com/thmb/Jid5rcDhN0RyGcKE4dmqgIVLB3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-do-i-auto-login-to-windows-2626066-5bd105e9c9e77c005114a69c.jpg)
 4. When the password prompt appears, enter the username you wish to use for your automatic login, followed by the password in the next two boxes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Windows 11, 10, and 8, if you're using a Microsoft account, be sure to enter the entire email address that you use to sign in to Windows, in the**User name** field. The defaults there might instead be the name associated with your account, not your actual username.
 5. Select**OK** to save and close the open windows.  
@@ -55,20 +55,13 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 6. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and make sure that Windows automatically logs you in. You may catch a glimpse of the sign-in screen, but only long enough to see it log you in without you having to type anything!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Are you a Desktop lover looking to speed up your Windows 8 boot process even more? In Windows 8.1 or later, you can make Windows start directly to the Desktop, skipping the Start screen. See[How to Boot to the Desktop in Windows 8.1](https://www.lifewire.com/how-to-boot-to-the-desktop-in-windows-8-1-2626240) for instructions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Automatic Login Checkbox Missing?
 
@@ -77,17 +70,18 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 1. [Open Registry Editor](https://www.lifewire.com/how-to-open-registry-editor-2625150) . It's most easily done by executing**regedit** from the search box after you select the Start button.  
 ![regedit command in Windows 10](https://www.lifewire.com/thmb/S5plzssdJfj5F_g0EWjnrY3y0y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/regedit-command-windows-10-a994eadfb12045c0bf2f41b22e2d65b0.png)  
  While following the steps below_exactly_ should be perfectly safe, we always recommend that you[back up the registry](https://www.lifewire.com/how-to-back-up-the-windows-registry-2625146) before making changes.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Paste this path into the navigation bar at the top of the editor:  
  `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
 3. Right-click the value called**DevicePasswordLessBuildVersion** , then choose**Delete** and confirm by pressing**Yes** . You can now repeat the above steps.  
 ![The DevicePasswordLessBuildVersion value highlighted in the Windows 11 registry editor](https://www.lifewire.com/thmb/-YZozQpXtRzfIaJbTZKstaiJLNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-passwordless-66acf1099df541fba128680eb6c4af06.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Auto Log in for Domain Scenarios
 
@@ -100,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![HKEY LOCAL MACHINE SOFTWARE registry editor path](https://www.lifewire.com/thmb/irNYI_pfuwf67jcRwZzYP_u5_WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-local-machine-software-92ed659b15ae4364ae031f0464b627b4.png)  
  If you're in an entirely separate location in the Windows Registry when you open it, just scroll to the very top on the left side until you see _Computer_ , and then collapse each hive until you reach HKEY\_LOCAL\_MACHINE.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Continue drilling down through the nested[registry keys](https://www.lifewire.com/what-is-a-registry-key-2625999) , first to**Microsoft** , then**Windows NT** , then**CurrentVersion** , and then finally**Winlogon** .
 4. With**Winlogon** selected on the left, locate the[registry value](https://www.lifewire.com/what-is-a-registry-value-2626042) of**AutoAdminLogon** on the right.
 5. Double-click_AutoAdminLogon_ and change the_Value data_ to**1** from 0.
@@ -114,21 +101,36 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![AutoAdminLogon Value data 0 in Registry Editor - OK button highlighted](https://www.lifewire.com/thmb/6WXdAG90hh6wKhr228JbWYMRqtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-do-i-auto-login-to-windows-2626066-5bd1118ec9e77c0051169fb2.jpg)
 7. Restart your computer and then follow the standard Windows auto-login procedure outlined above.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That_should_ work, but if not, you may have to manually add a few additional registry values yourself. It's not too difficult.
 
 1. Work back to**Winlogon** in the Windows registry, as outlined above from Step 1 through Step 3.
 2. Add the string values of**DefaultDomainName** ,**DefaultUserName** , and**DefaultPassword** , assuming they don't already exist.  
 ![New string value registry editor option in Windows 10](https://www.lifewire.com/thmb/AKZmRwHrLyDWxx-L5J12AqZuAuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-new-string-value-a458de15ea124fa79e8873f7422ff818.png)  
  You can[add a new string value](https://www.lifewire.com/how-to-add-change-delete-registry-keys-values-2625145) from the menu in Registry Editor through**Edit** \>**New** \>**String Value** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Set the_Value data_ as your**domain** ,**user name** , and**password** , respectively.  
 ![Screenshot of the Windows 10 registry with DefaultDomainName, DefaultUserName, and DefaultPassword highlighted](https://www.lifewire.com/thmb/_9Nkxmld9oRfhRYMTPwUn6KbJoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/default-autologin-registry-5ae0f5dfa9d4f900370a9b5b.png)
 4. Restart your computer and test to see that you can use the auto login without entering your normal Windows credentials.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is It Safe to Auto Log In to Windows?
@@ -187,18 +189,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transform-your-photos-to-slideshow/"><u>[New] 2024 Approved Transform Your Photos to Slideshow</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-accelerate-your-youtube-channels-growth-to-1kplus-for-2024/"><u>[New] Accelerate Your YouTube Channel's Growth to 1K+ for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-power-of-photos-a-comprehensive-polarr-guide-for-2024/"><u>[New] Unveiling the Power of Photos A Comprehensive Polarr Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elite-essentials-the-ultimate-collection-of-cardboard-vr-games/"><u>[Updated] Elite Essentials The Ultimate Collection of Cardboard VR Games</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-shadow-play-with-iphone-pro-photography-tips/"><u>2024 Approved Shadow Play with iPhone Pro Photography Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-future-with-verizons-cutting-edge-5g-technology/"><u>Anticipating the Future with Verizon's Cutting-Edge 5G Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminate-your-launchdll-missing-error-with-easy-troubleshooting-steps/"><u>Eliminate Your Launch.dll Missing Error with Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-wiring-your-anker-firestick-with-a-projector/"><u>Guide: Wiring Your Anker Firestick with a Projector</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-purchase-and-play-games-on-your-oculus-quest-headset/"><u>How To Easily Purchase & Play Games on Your Oculus Quest ² Headset</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovate-impress-and-captivate-in-solo-podcasting/"><u>Innovate, Impress, and Captivate in Solo Podcasting</u></a></li>
-<li><a href="https://win-forum.techidaily.com/leading-platforms-of-digital-expression-facebook-twitter-instagram-and-youtube/"><u>Leading Platforms of Digital Expression - Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-windows-10-users-with-nonworking-headset-devices/"><u>Quick Fixes for Windows 10 Users with Nonworking Headset Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-for-call-of-duty-warzone-as-of-2024/"><u>Troubleshooting PC Issues for Call of Duty: Warzone as of 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-video-capture-pro-for-windows-10-ultimate-quality/"><u>[New] Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-android-and-pc-users-choice-top-10-video-editing-software/"><u>[Updated] In 2024, Android & PC Users' Choice Top 10 Video Editing Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-year-end-curation-of-youtubes-most-compelling-stories/"><u>2024 Approved A Year-End Curation of YouTube’s Most Compelling Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-the-missing-physxloaderdll-error-message/"><u>Easy Solutions for Correcting the Missing physxloader.dll Error Message</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-deal-with-missing-d3dx928dll-error-messages/"><u>Effective Solutions to Deal with Missing d3dx9_28.dll Error Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/extend-your-ipads-lifespan-a-comprehensive-guide-to-replacing-its-battery/"><u>Extend Your iPad's Lifespan - A Comprehensive Guide to Replacing Its Battery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-d3dx-library-not-found-d3dx933dll-expert-tips-and-solutions/"><u>Fix D3DX Library Not Found (d3dx9_33.dll): Expert Tips and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/home-cinema-magic-access-fandango-movies-and-events-via-apple-tv/"><u>Home Cinema Magic: Access Fandango Movies and Events via Apple TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-connect-nintendo-switch-to-a-tv/"><u>How to Connect Nintendo Switch to a TV</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-moto-g73-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola Moto G73 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c32-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C32</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-crafting-impressive-hdr-images-using-lightroom/"><u>In 2024, The Art of Crafting Impressive HDR Images Using Lightroom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-13-difficulties-discover-these-6-and-their-quick-fixes/"><u>Navigating iPhone 13 Difficulties? Discover These 6 & Their Quick Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-initializing-resident-evil-5-on-personal-computers/"><u>Overcoming the Hurdle of Initializing Resident Evil 5 on Personal Computers</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/quickly-restore-lost-images-from-your-sony-device-with-these-two-simple-techniques/"><u>Quickly Restore Lost Images From Your Sony Device with These Two Simple Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-9-essential-educational-gadgets-that-empower-students/"><u>The Ultimate List of 9 Essential Educational Gadgets That Empower Students</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transferring-images-seamlessly-from-google-photo-library-to-apples-icloud/"><u>Transferring Images Seamlessly - From Google Photo Library to Apple's iCloud</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-huge-savings-the-best-6-coupons-and-discounts-websites-you-need-to-know-about/"><u>Unlock Huge Savings: The Best 6 Coupons & Discounts Websites You Need to Know About</u></a></li>
 </ul></div>
 

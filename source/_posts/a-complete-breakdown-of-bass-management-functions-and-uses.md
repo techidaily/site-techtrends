@@ -1,7 +1,7 @@
 ---
 title: A Complete Breakdown of Bass Management Functions & Uses
-date: 2024-10-03T18:45:18.103Z
-updated: 2024-10-09T23:55:02.711Z
+date: 2024-10-14T16:54:14.959Z
+updated: 2024-10-21T16:32:09.885Z
 categories:
   - BestProducts
 description: This Article Describes A Complete Breakdown of Bass Management Functions & Uses
@@ -37,6 +37,13 @@ Anthem AV
 
  You can perform bass management automatically or manually. Before starting,[place the speakers in the proper locations](https://www.lifewire.com/positioning-loudspeakers-and-subwoofer-1846808) , connect them to your home theater receiver, and then designate where the sound frequencies need to go.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Your Speaker Configuration
 
  For a basic[5.1 channel configuration](https://www.lifewire.com/5-1-vs-7-1-home-theater-receivers-1846774) , connect the left/right front speakers, center speaker, and left/right surround speakers. If you have a subwoofer, connect it to the receiver's subwoofer preamp output.
@@ -49,6 +56,13 @@ Anthem AV
 
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
 
  After confirming the speaker setup, designate how to route sound frequencies between the speakers and subwoofer.
@@ -59,6 +73,13 @@ Anthem AV
 * By moving lower frequencies to the subwoofer-only, you are extending low-frequency response further even if you have floor-standing speakers. However, since the subwoofer typically has a built-in amplifier, you are taking a load off the receiver that it can use to provide power for mid and high frequencies.
 * Experiment with both floor-standing speaker options (mixed or subwoofer only) for low frequencies and hear what works best for you. You can always redo the settings.
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Subwoofer vs. LFE
 
@@ -71,13 +92,6 @@ Anthem AV
 Many home theater receivers provide outputs for two subwoofers.
 
 ![Onkyo TX-NR787 Dual Subwoofer Output](https://www.lifewire.com/thmb/Jo0UqJirlpMSGg-_A1SWgcKZ8nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onkyo-tx-nr787-dual-sub-outs-a-5c07f338c9e77c000169e852.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Onkyo USA
 
@@ -99,22 +113,15 @@ Onkyo USA
  Although convenient for most setups, this method isn't always accurate. It can sometimes miscalculate speaker distance and the speaker/subwoofer frequency points, setting the center channel output too low or the subwoofer output too high. However, you can correct these manually after the fact, if desired.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting Bass Management Manually
 
  If you are more adventurous and have the time, you can implement bass management manually. To do this, besides setting the speaker configuration, signal routing, and size, you also need to set the crossover frequency.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Crossover Frequency Is and How to Set It
 
@@ -133,20 +140,13 @@ Onkyo USA
 
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -199,19 +199,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-ace-gaming-the-top-4k-tvs-on-market/"><u>[New] Ace Gaming The Top 4K TVs on Market</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-viral-instagram-cinematography-for-2024/"><u>[Updated] Mastering the Art of Viral Instagram Cinematography for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-video-threads-on-youtube/"><u>2024 Approved Exploring Video Threads on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-young-adult-movie-picks-available-on-netflix/"><u>Best Young Adult Movie Picks Available on Netflix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cloud-choice-best-value-in-data-safekeeping-for-2024/"><u>Cloud Choice Best Value in Data Safekeeping for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-resolving-silent-playback-from-home-theater-receivers/"><u>Expert Advice: Resolving Silent Playback From Home Theater Receivers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/free-customizable-design-templates-craft-stunning-fashion-flipbooks-with-flipbuildercom/"><u>Free Customizable Design Templates: Craft Stunning Fashion Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-received-a-new-voice-through-openai-for-command-based-engagements/"><u>How ChatGPT Received a New 'Voice' Through OpenAI for Command-Based Engagements</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ipad-printing-issues-solutions-for-when-your-device-cannot-connect-with-a-printer/"><u>IPad Printing Issues: Solutions For When Your Device Cannot Connect With A Printer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-fixes-for-http-504-timeout-problems-on-websites/"><u>Mastering Fixes for HTTP 504 Timeout Problems on Websites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/phones-history-keeper-voice-recordings-2024/"><u>Phone's History Keeper Voice Recordings 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fixing-the-missing-opengl32dll-error/"><u>Step-by-Step Guide to Fixing the 'Missing OpenGL32.dll' Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-disabling-your-facebook-app-on-android-devices/"><u>Step-by-Step Guide: Disabling Your Facebook App on Android Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-elevate-your-engagement-with-real-time-tweets-for-2024/"><u>[New] Elevate Your Engagement with Real-Time Tweets for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-masterclass-for-successful-instagram-broadcasts-for-2024/"><u>[New] OBS Masterclass for Successful Instagram Broadcasts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227329625-jpg-tiff-movavi/"><u>「お使いの JPG から高画質TIFFに自動変換 - Movavi無料」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nsvavi-movavi/"><u>「オンラインで簡単! NSVからAVIへ自由転送 -Movavi」</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/win112023/"><u>精選Win11免費音樂播放器清單，2023年最佳五款產品介紹</u></a></li>
+<li><a href="https://techtrends.techidaily.com/butun-movavi-yayinlari-acik-durum-suites/"><u>Bütün Movavi Yayınları - Açık Durum Suites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creare-gif-da-video-facilmente-i-migliori-metodi-di-conversione-per-tutti-gli-utenti-spiegati-da-movavi/"><u>Creare Gif Da Video Facilmente: I Migliori Metodi Di Conversione per Tutti Gli Utenti, Spiegati Da Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foundations-of-cinematography-15-must-know-shot-types/"><u>Foundations of Cinematography 15 Must-Know Shot Types</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-influence-tools-for-successful-career-growth/"><u>Navigating AI Influence: Tools for Successful Career Growth</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-image-transformation-guide-switching-from-bmp-to-png-without-costs-using-top-tools/"><u>Online Image Transformation Guide: Switching From BMP to PNG without Costs Using Top Tools!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/passare-da-avi-a-vob-la-tua-guida-alla-conversione-online-libera-e-facile-tramite-movavi/"><u>Passare Da AVI a VOB: La Tua Guida Alla Conversione Online Libera E Facile Tramite Movavi!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/surprise-refresh-on-tiktok-can-i-see-old-videos/"><u>Surprise Refresh on TikTok – Can I See Old Videos?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforme-seus-filmes-swf-em-mp4-gratuitamente-on-line-com-o-servico-da-movavi/"><u>Transforme Seus Filmes SWF Em MP4 Gratuitamente On-Line Com O Serviço Da Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-nvidia-driver-downloads-geforce-rtx-3080-ti-for-all-win-versions/"><u>Up-to-Date NVIDIA Driver Downloads: GeForce RTX 3080 Ti for All Win Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

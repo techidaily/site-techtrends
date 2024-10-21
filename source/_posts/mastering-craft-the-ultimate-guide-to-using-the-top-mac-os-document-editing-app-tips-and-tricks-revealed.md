@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-10-06T18:52:01.026Z
-updated: 2024-10-09T17:18:07.119Z
+date: 2024-10-17T21:20:58.563Z
+updated: 2024-10-21T19:57:22.995Z
 tags:
   - apple
 categories:
@@ -36,16 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,22 +134,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-channel-owner-uncovering-your-subscribers-for-2024/"><u>[New] Channel Owner Uncovering Your Subscribers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-restoring-hidden-watch-icon-for-optimal-experience/"><u>[Updated] 2024 Approved Restoring Hidden Watch Icon for Optimal Experience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-game-plan-to-trendsetting-video-content/"><u>[Updated] 2024 Approved The Game Plan to Trendsetting Video Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users-for-2024/"><u>[Updated] Elite Voice Capture Tech The Ultimate 5 Apps for Mac Users for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-wealth-wave-on-your-screen-monetizing-as-a-streamer-for-2024/"><u>[Updated] Wealth Wave on Your Screen Monetizing as a Streamer for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 11 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-audio-systems-what-sets-apart-home-theater-vs-stereo-receivers/"><u>Comparing Audio Systems: What Sets Apart Home Theater Vs. Stereo Receivers?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-correcting-the-missing-oleaut32dll-error-on-your-computer/"><u>Comprehensive Guide to Correcting the Missing oleAut32.dll Error on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-guide-to-restoring-connection-with-your-alexa-enabled-device/"><u>Essential Guide to Restoring Connection with Your Alexa-Enabled Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-audio-configuring-your-samsung-soundbar-with-your-television-unit/"><u>Mastering Audio: Configuring Your Samsung Soundbar with Your Television Unit</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-the-problem-handbrake-updated-to-64-bit-version-struggling-with-missing-64-bit-vlc-error-notification/"><u>Solving the Problem: Handbrake Updated to 64-Bit Version, Struggling with Missing 64-Bit VLC Error Notification!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-pairing-your-bluetooth-speaker-with-your-pc/"><u>Step-by-Step Guide: Pairing Your Bluetooth Speaker with Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tackling-the-mystery-of-error-code-0xc0000185-expert-advice-on-diagnosis-and-remediation/"><u>Tackling the Mystery of Error Code 0xC0000185: Expert Advice on Diagnosis & Remediation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-trick-to-taming-your-emails-with-advanced-gmail-rules/"><u>The Ultimate Trick to Taming Your Emails with Advanced Gmail Rules</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winning-the-battle-against-trustedinstaller-permissions-on-your-windows-11-pc/"><u>Winning the Battle Against TrustedInstaller Permissions on Your Windows 11 PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-starting-up-the-guide-to-youtube-fame-in-gaming/"><u>[New] In 2024, Starting Up The Guide to YouTube Fame in Gaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-optimize-video-posts-a-comprehensive-crop-and-export-method-for-2024/"><u>[New] Optimize Video Posts A Comprehensive Crop & Export Method for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-automate-calendar-events-to-zoom-on-mobile-devices-for-2024/"><u>[Updated] Automate Calendar Events to Zoom on Mobile Devices for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/instagram-gif/"><u>「Instagram 映像を GIF形式で簡単に保存するコツ」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-ogmwmv/"><u>網路直接免費轉檔Movavi OGM成WMV - 最佳線上換格器</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cambio-mpeg-a-formato-avi-online-senza-costi-servizi-di-movavi/"><u>Cambio MPEG a Formato AVI Online Senza Costi - Servizi Di Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/chromium-os-built-in-video-capturer/"><u>Chromium OS Built-In Video Capturer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-mpeg-a-formato-mkv-sin-coste-con-herramientas-en-la-web/"><u>Cómo Convertir Archivos MPEG a Formato MKV Sin Coste Con Herramientas en La Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-finest-15-no-cost-desktop-recording-tools-by-movavi-ratings/"><u>Discover the Finest 15 No-Cost Desktop Recording Tools by Movavi Ratings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-motion-trackers-compare-free-vs-paid-solutions-insights-from-movavi/"><u>Discover the Ultimate List of Motion Trackers: Compare Free vs Paid Solutions - Insights From Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-how-to-toggle-off-subtitles-on-amazon-prime-video-platform/"><u>Guide: How to Toggle Off Subtitles on Amazon Prime Video Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavimp3/"><u>Movaviでシームレスなオンライン無料MP3フォーマット変換サービス</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mpg-file-transformation-into-flv-format-free-quick-and-easy-with-movavi-converter/"><u>MPG File Transformation Into FLV Format Free - Quick & Easy with Movavi Converter</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-remedying-code-error-0x80072f8f/"><u>Preventing and Remedying Code Error 0X80072f8f</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-outils-logiciels-pour-creer-des-gifs-parfaits-la-selection-de-2024-avec-movavi/"><u>Top 10 Outils Logiciels Pour Créer Des GIFs Parfaits - La Sélection De 2024 Avec Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-gamer-tracker-apps-insight/"><u>Top 30 Gamer Tracker Apps Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-java-failure-in-windows-installation/"><u>Troubleshooting Java Failure in Windows Installation</u></a></li>
 </ul></div>
 

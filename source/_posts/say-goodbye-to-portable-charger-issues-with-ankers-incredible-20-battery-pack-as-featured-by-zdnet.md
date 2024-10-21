@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2024-10-09T23:24:30.918Z
-updated: 2024-10-15T22:04:03.939Z
+date: 2024-10-20T16:49:35.874Z
+updated: 2024-10-21T19:10:37.414Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 Lipstick-sized charger
 
@@ -70,6 +63,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -79,10 +79,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -98,16 +98,10 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,10 +109,16 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -155,20 +155,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-using-premiere-for-video-upload-for-2024/"><u>[New] Step-by-Step Using Premiere for Video Upload for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more/"><u>[Updated] Instant Transformation Gifs Becoming Stickers Across Discord, WhatsApp & More</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/100-secure-and-ethical-actions-for-tiktok-success/"><u>100% Secure & Ethical Actions for TikTok Success</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/comprendere-lestensione-dei-file-ts-tutorial-su-come-master-e-riprodurli/"><u>Comprendere L'Estensione Dei File .TS - Tutorial Su Come Master E Riprodurli</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722867844412-embark-on-a-journey-with-devices-and-novels-laptops-phones-and-bookshelves-galore/"><u>Embark on a Journey with Devices & Novels: Laptops, Phones, and Bookshelves Galore</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-creative-workflow-with-microsoft-copilots-new-video-generation-features/"><u>Enhancing Creative Workflow with Microsoft Copilot's New Video Generation Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-4-revolutionary-electric-vehicle-innovations-set-to-transform-transportation/"><u>Exploring 4 Revolutionary Electric Vehicle Innovations Set to Transform Transportation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-skepticism-to-success-uncover-the-truth-behind-common-fears-of-embracing-linux-over-windows/"><u>From Skepticism to Success: Uncover the Truth Behind Common Fears of Embracing Linux Over Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-under-the-lens-hero-4-meets-hero-5/"><u>In 2024, Under the Lens Hero 4 Meets Hero 5</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-100-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor 100 Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/introducing-amds-pro-8000-series-advanced-npu-capabilities-in-high-performance-desktops/"><u>Introducing AMD's Pro 8000 Series: Advanced NPU Capabilities in High-Performance Desktops</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-a-meta-quest-based-virtual-reality-device-awaiting-its-debut-as-a-rival-to-steam-deck/"><u>Is a Meta Quest-Based Virtual Reality Device Awaiting Its Debut as a Rival to Steam Deck?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-future-of-vr-sensory-experience-anticipating-the-integration-of-taste-touch-and-smell/"><u>The Future of VR Sensory Experience: Anticipating the Integration of Taste, Touch & Smell</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleashing-ai-supremacy-how-microsoft-integrates-next-gen-gpt-nturbo-into-copilot-and-bing-conversations/"><u>Unleashing AI Supremacy: How Microsoft Integrates Next-Gen GPT-nTurbo Into Copilot and Bing Conversations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-education-enhancement-the-art-of-lecture-transcription-on-macos/"><u>[New] In 2024, Education Enhancement The Art of Lecture Transcription on MacOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-nft-creation-with-minimal-fuss/"><u>[New] Learn NFT Creation with Minimal Fuss</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-broadcast-your-play-obs-studio-techniques/"><u>[Updated] 2024 Approved Broadcast Your Play - OBS Studio Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-screen-genius-ideal-4k-displays-for-editorial-work/"><u>[Updated] Screen Genius Ideal 4K Displays for Editorial Work</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/150plus-key-russian-terms-to-master-travel-lingo/"><u>150+ Key Russian Terms to Master Travel Lingo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-compact-cameras-for-mobile-cinematography/"><u>2024 Approved Compact Cameras for Mobile Cinematography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-cache-cleanup-a-comprehensive-tutorial-to-improve-performance/"><u>Android Cache Cleanup: A Comprehensive Tutorial to Improve Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-and-a-friend-enjoy-spotify-at-the-same-time-heres-what-you-need-to-know/"><u>Can You and a Friend Enjoy Spotify at the Same Time? Here's What You Need to Know!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-newly-announced-samsung-galaxy-z-fold-9-insights-on-price-points-arrival-dates-and-key-specifications/"><u>Explore the Newly Announced Samsung Galaxy Z Fold 9: Insights on Price Points, Arrival Dates and Key Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-openal32dll-could-not-be-found/"><u>How to Correctly Handle openAL32.dll Could Not Be Found</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-discovering-the-best-8-android-compatible-daws-for-musicians-and-producers/"><u>New In 2024, Discovering the Best 8 Android-Compatible DAWs for Musicians and Producers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-the-fm20dll-file-missing-error-on-your-computer/"><u>Solutions for Resolving the fm20.dll File Missing Error on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tech-advancements-and-your-smartphone-finding-balance-in-upgrades/"><u>Tech Advancements and Your Smartphone: Finding Balance in Upgrades</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-food-habits-the-ultimate-strategy-for-personalized-meal-planning-with-chatgpt/"><u>Transform Your Food Habits: The Ultimate Strategy for Personalized Meal Planning with ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unifying-spreadsheets-a-step-by-step-guide-on-merging-cells-in-microsoft-excel/"><u>Unifying Spreadsheets: A Step-by-Step Guide on Merging Cells in Microsoft Excel</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-iphones-headphone-problem-eight-proven-fixes-to-try-now/"><u>Unsticking iPhone's Headphone Problem: Eight Proven Fixes to Try Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-science-behind-electric-two-wheelers-how-they-function/"><u>Unveiling the Science Behind Electric Two-Wheelers: How They Function</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-live-outage-or-personal-connection-issue-how-to-tell-the-difference/"><u>Xbox Live Outage or Personal Connection Issue: How to Tell the Difference</u></a></li>
 </ul></div>
 

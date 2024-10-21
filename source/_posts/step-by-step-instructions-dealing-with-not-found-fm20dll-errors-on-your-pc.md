@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
-date: 2024-10-11T18:43:42.919Z
-updated: 2024-10-16T06:42:46.318Z
+date: 2024-10-18T19:12:56.918Z
+updated: 2024-10-21T20:08:22.777Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
@@ -24,10 +24,16 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -43,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
@@ -55,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
@@ -66,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
@@ -122,18 +134,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/exclusive-offer-secure-total-access-to-macxdvd-suite-with-a-complimentary-license-upgrade/"><u>[EXCLUSIVE OFFER] Secure Total Access to macXDVD Suite with a Complimentary License Upgrade!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-seamless-srt-to-advanced-subtitle-formats-a-compendium-for-2024/"><u>[New] Seamless SRT to Advanced Subtitle Formats A Compendium for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-educational-gaming-content-on-youtube-for-2024/"><u>[Updated] Educational Gaming Content on YouTube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-kmplayer-on-macos-top-video-player-for-enjoying-ultra-hd-content/"><u>Comprehensive Guide to KMPlayer on macOS: Top Video Player for Enjoying Ultra HD Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-download-of-gay-lesbian-and-telugu-horror-short-movies-on-youtube/"><u>Free Download of Gay, Lesbian & Telugu Horror Short Movies on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-legally-get-free-youtube-videos-on-your-device-a-comprehensive-guide/"><u>How to Legally Get Free YouTube Videos on Your Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-filmoras-recipe-for-captivating-youtube-trailers/"><u>In 2024, Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-thin-line-of-vr-content-availability/"><u>In 2024, Navigating the Thin Line of VR Content Availability</u></a></li>
-<li><a href="https://fox-making.techidaily.com/les-etapes-faciles-et-rapides-pour-migrer-windows-10-vers-un-ssd-de-taille-reduite/"><u>Les Étapes Faciles Et Rapides Pour Migrer Windows 10 Vers Un SSD De Taille Réduite</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-unlocking-profound-sound-a-guide-to-deepening-your-vocal-presence-via-filmora/"><u>New 2024 Approved Unlocking Profound Sound A Guide to Deepening Your Vocal Presence via Filmora</u></a></li>
-<li><a href="https://techtrends.techidaily.com/post-upgrade-why-android-file-transfer-is-less-effective-on-mac-after-switching-to-iphone/"><u>Post-Upgrade: Why Android File Transfer Is Less Effective on Mac After Switching to iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-failed-windows-speech-recognition-initialization/"><u>Solving Failed Windows Speech Recognition Initialization</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-rog-phone-7-by-fonelab-android-recover-video/"><u>The way to get back lost videos from ROG Phone 7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigate-the-digital-realm-uploading-to-instagram-tv/"><u>[New] In 2024, Navigate the Digital Realm Uploading to Instagram TV</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>[New] The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-vlog-heroes-the-best-video-capturers-unveiled/"><u>[Updated] VLog Heroes The Best Video Capturers Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/6-must-visit-sites-for-uploading-and-viewing-music-videoclips/"><u>6 Must-Visit Sites for Uploading and Viewing Music Videoclips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-edge-gadgets-for-elite-gamers-for-2024/"><u>Cutting-Edge Gadgets for Elite Gamers for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/end-windows-7-crash-woes-proven-methods-for-reliable-performance-all-in-one-guide/"><u>End Windows 7 Crash Woes: Proven Methods for Reliable Performance (All-in-One Guide)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-set-up-screen-mirroring-from-ios-15-devices-including-iphone-models-prior-to-iphone-12/"><u>How to Set Up Screen Mirroring From iOS 15 Devices, Including iPhone Models Prior to iPhone 12</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illuminating-interactions-mastering-animate-texts-in-stories-for-2024/"><u>Illuminating Interactions Mastering Animate Texts in Stories for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-do-a-poll-on-instagram-stories-the-only-guide-you-need-to-read/"><u>In 2024, How to Do a Poll on Instagram Stories The Only Guide You Need to Read</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-market-in-depth-review-of-the-forefront-gaming-units/"><u>Mastering the Market: In-Depth Review of the Forefront Gaming Units</u></a></li>
+<li><a href="https://techtrends.techidaily.com/multi-bluetooth-speaker-setup-streaming-audio-from-a-single-source/"><u>Multi-Bluetooth Speaker Setup: Streaming Audio From a Single Source</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-the-process-of-permanently-wiping-out-your-tiktok-account-with-ease/"><u>Navigate the Process of Permanently Wiping Out Your TikTok Account with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fix-for-when-windows-cant-locate-rpcrt4dll/"><u>Step-by-Step Fix for When Windows Can't Locate Rpcrt4.dll</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-connecting-to-battlenet-heres-how-to-tell-if-the-service-is-down/"><u>Trouble Connecting to Battle.net? Here's How to Tell if the Service Is Down</u></a></li>
 </ul></div>
 

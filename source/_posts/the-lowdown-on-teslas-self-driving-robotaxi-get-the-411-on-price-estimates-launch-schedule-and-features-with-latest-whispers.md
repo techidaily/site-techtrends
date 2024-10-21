@@ -1,7 +1,7 @@
 ---
 title: The Lowdown on Tesla's Self-Driving Robotaxi – Get the 411 on Price Estimates, Launch Schedule & Features with Latest Whispers
-date: 2024-10-06T22:14:36.520Z
-updated: 2024-10-09T21:29:03.417Z
+date: 2024-10-14T21:19:16.849Z
+updated: 2024-10-21T23:14:07.813Z
 categories:
   - BestProducts
 description: This Article Describes The Lowdown on Tesla's Self-Driving Robotaxi – Get the 411 on Price Estimates, Launch Schedule & Features with Latest Whispers
@@ -40,22 +40,15 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
  In May stockholder meeting materials, there’s mention of a “purpose-built robotaxi expected to be demo’ed this year.” Based on recent comments on his X profile, Musk seems to confirm that the October event will unveil a prototype: "Requested what I think is an important design change to the front, and extra time allows us to show off a few other things."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Lifewire's Release Date Estimate
 
  Though the Tesla Robotaxi unveiling happens sometime in October, we’re still probably several years away from a production-ready model.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tesla Robotaxi Price Rumors
 
@@ -64,6 +57,13 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
  However,[ Reuters reported that Tesla scrapped the entry-level Tesla](https://www.reuters.com/business/autos-transportation/tesla-scraps-low-cost-car-plans-amid-fierce-chinese-ev-competition-2024-04-05/) in favor of working toward the robotaxi, built on the same smaller platform as the planned mass-market EV. Musk denies that Tesla’s plans for a more affordable EV have been nixed.
 
  Either way, we don’t know much about the cost of a Tesla Robotaxi. The Tesla Model 3 might offer some clues: With Full Self-Driving added, the Model 3 comes in at about $50,000.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -81,6 +81,13 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
 
 ![Five views of the Tesla ride hailing app preview](https://www.lifewire.com/thmb/XfOPTS8UcMjMVRfXeu0pqU2wvNw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-ride-hailing-app-preview-4174be71b5f4423b85ce5395783d8056.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Preview of ride-hailing in the Tesla app. 
 
 Tesla
@@ -96,10 +103,10 @@ Tesla
 * Cybertruck-inspired bumper
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tesla Robotaxi Specs and Hardware
@@ -109,13 +116,6 @@ Tesla
  However, FSD uses a camera system rather than LiDAR and is far from fully autonomous. The most recent FSD 12 has made the biggest strides, but it’s still classified as Level 2 autonomous for routine city driving and under constant driver supervision.
 
  We’ll probably know more about the design and feature set after August 8, so stay tuned.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Latest News About the Tesla Robotaxi
 
@@ -144,16 +144,15 @@ Tesla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-efficiently-cut-out-distractions-in-your-iphone-photography/"><u>[Updated] In 2024, Efficiently Cut Out Distractions in Your iPhone Photography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024s-leading-selection-of-premium-suspended-speakers-for-immersive-home-theater-experience/"><u>2024'S Leading Selection of Premium Suspended Speakers for Immersive Home Theater Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expose-concealed-apps-on-ios-devices-with-these-easy-tips/"><u>Expose Concealed Apps on iOS Devices with These Easy Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-newcomers-guide-to-profitability-on-periscope-live-streaming/"><u>In 2024, Newcomer’s Guide to Profitability on Periscope Live Streaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-chip-war-puget-releases-data-showing-longer-lasting-intel-cpus-against-ryzen-system-builders-comparative-failure-rates-breakdown/"><u>Inside the Chip War: Puget Releases Data Showing Longer-Lasting Intel CPUs Against Ryzen – System Builder's Comparative Failure Rates Breakdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-making-all-ios-apps-visible-again/"><u>Master the Art of Making All iOS Apps Visible Again</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-webp-conversion-to-jpeg-for-2024/"><u>Mastering the Art of WebP Conversion to JPEG for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-data-access-across-devices-learn-to-map-a-network-drive-on-macos/"><u>Seamless Data Access Across Devices: Learn to Map a Network Drive on macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-win-vbox-install-deps-must-come-first/"><u>Secure Win VBox Install: Deps Must Come FIRST</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/thriving-on-youtube-11-secrets-to-boosting-video-search-rankings-for-2024/"><u>Thriving on YouTube 11 Secrets to Boosting Video Search Rankings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-advice-incorporating-voiceovers-for-visual-impact/"><u>[New] In 2024, Expert Advice Incorporating Voiceovers for Visual Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-apparition-editing-in-slow-motion/"><u>[Updated] Apparition Editing in Slow-Motion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-digital-doppelganger-designs-sketching-an-animated-self/"><u>2024 Approved Digital Doppelganger Designs Sketching an Animated Self</u></a></li>
+<li><a href="https://solve-help.techidaily.com/achieving-gpu-enhanced-video-transcoding-in-handbrake-without-using-cuda-what-are-your-options/"><u>Achieving GPU-Enhanced Video Transcoding in Handbrake Without Using CUDA – What Are Your Options?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/as-principais-17-aplicativos-de-captura-de-tela-do-windows-comanalizados-por-usos-finais-e-recomendacoes-de-especialistas-movavi/"><u>As Principais 17 Aplicativos De Captura De Tela Do Windows Comanalizados Por Usos Finais E Recomendações De Especialistas – Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuite-dape-en-ligne-avec-movavi-guide-ultime/"><u>Conversion Gratuite D'APE en Ligne Avec Movavi - Guide Ultime</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/daenerys-dialer-leading-online-picks-to-download-game-ringtones/"><u>Daenerys' Dialer Leading Online Picks to Download Game Ringtones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-review-choosing-the-right-video-converter-for-your-needs-xilisoft-or-movavi/"><u>In Depth Review: Choosing the Right Video Converter for Your Needs – Xilisoft or Movavi?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-z3-pro-motherboard-driver-pack-secure-download-now/"><u>MSI Z3# Pro Motherboard Driver Pack - Secure Download Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quelles-sont-les-options-de-remplacement-ideales-a-inshot-pour-un-environnement-windows/"><u>Quelles Sont Les Options De Remplacement Idéales À InShot Pour Un Environnement Windows ?</u></a></li>
 </ul></div>
 

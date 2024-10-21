@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights"
-date: 2024-10-06T23:44:41.017Z
-updated: 2024-10-09T22:20:19.694Z
+date: 2024-10-19T23:20:39.759Z
+updated: 2024-10-21T21:24:17.048Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,16 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -77,10 +71,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -96,10 +90,16 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,24 +136,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-structuring-vimeo-footage-chapter-creation-tips-for-2024/"><u>[New] Structuring Vimeo Footage Chapter Creation Tips for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-explore-the-best-free-passport-picture-creation-services-online/"><u>[Updated] 2024 Approved Explore the Best Free Passport Picture Creation Services Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[Updated] Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-awesome-igtv-channels-that-deliver-quality-content/"><u>2024 Approved Awesome IGTV Channels That Deliver Quality Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/emergency-tips-keeping-your-smartphone-charged-without-usual-charging-equipment/"><u>Emergency Tips: Keeping Your Smartphone Charged without Usual Charging Equipment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-horror-chronologically-watching-the-conjuring-franchise-correctly/"><u>Experience Horror Chronologically: Watching 'The Conjuring' Franchise Correctly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-on-fixing-the-notorious-code-19-error-in-windows-os/"><u>Expert Tips on Fixing the Notorious Code 19 Error in Windows OS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-6-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 6 If Youve Tried Everything</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x7-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X7 Ultra to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>In 2024, Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits/"><u>In 2024, What's Buzzing the Social Sphere? TikTok & Twitter Hits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-tricks-how-to-program-precise-text-reminders-and-alerts/"><u>IPhone Tricks: How to Program Precise Text Reminders & Alerts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leveraging-siris-voice-control-reading-text-aloud-on-apple-devices/"><u>Leveraging Siri's Voice Control: Reading Text Aloud on Apple Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/network-discovery-settings-toggle-steps-for-windows-11-operating-system/"><u>Network Discovery Settings Toggle: Steps for Windows 11 Operating System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-netflix-issue-step-by-step-guide-to-correcting-error-nw-1-19/"><u>Resolving Netflix Issue: Step-by-Step Guide to Correcting Error NW-1-19</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-quick-fix-how-to-optimize-and-hasten-your-computers-operation/"><u>The Quick Fix: How to Optimize and Hasten Your Computer's Operation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-tv-into-a-virtual-meeting-hub-a-tutorial-on-using-zoom/"><u>Transform Your TV Into a Virtual Meeting Hub: A Tutorial on Using Zoom</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/uk-enterprises-lead-the-way-with-robotics-and-analytics-new-study-finds-majority-investing-in-rpaprocess-mining-technologies-aabbyy-report/"><u>UK Enterprises Lead the Way with Robotics and Analytics: New Study Finds Majority Investing in RPA/Process Mining Technologies - AABBYY Report</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-recordings-mastering-zooms-features-for-audio-quality/"><u>[New] 2024 Approved Elevate Your Recordings Mastering Zoom's Features for Audio Quality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-path-to-pinpointing-your-liked-content-on-facebook/"><u>[Updated] In 2024, The Path to Pinpointing Your Liked Content on Facebook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-6s-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 6s? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-nokia-c12-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Nokia C12 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cost-free-webm-to-mp4-transformation-tool-online-moveavi/"><u>Cost-Free WebM to MP4 Transformation Tool Online - Moveavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuit-online-convertereen-van-tga-naar-tiff-professioneel-service-enkel-movavi/"><u>Gratuit Online Convertereen Van TGA Naar TIFF - Professioneel Service Enkel Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guia-facil-y-gratuita-para-cambiar-tu-video-3g2-a-formato-avi-en-internet-usando-movavi/"><u>Guía Fácil Y Gratuita Para Cambiar Tu Video 3G2 a Formato AVI en Internet Usando Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-video-converter-for-mac-how-to-convert-hd-videos-to-iphoneipad-compatible-format-on-your-mac/"><u>IPhone Video Converter for Mac - How to Convert HD Videos to iPhone/iPad Compatible Format on Your Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-wiskrachtig-en-gratuity-verzekerd-om-m4a-vormige-audio-bestanden-in-aac-te-veranderen-online-zonder-problemen/"><u>Movavi: Wiskrachtig en Gratuity Verzekerd Om M4A-Vormige Audio Bestanden in AAC Te Veranderen, Online Zonder Problemen.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-intellectual-appeal-of-tcls-smart-tv-a-detailed-review-of-the-32s325-roku-model-2019/"><u>The Intellectual Appeal of TCL's Smart TV – A Detailed Review of the 32S325 Roku Model (2019)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-samsung-revolution-diving-deep-into-the-ue590-monitor-review-for-2024/"><u>The Samsung Revolution - Diving Deep Into the UE590 Monitor Review for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-14-herramientas-de-creacion-para-excelentes-presentaciones-en-windows-10-softwares-avances-de-2024/"><u>Top 14 Herramientas De Creación Para Excelentes Presentaciones en Windows 10 - Softwares Avances De 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4swf-movavi/"><u>オンラインで簡単! MP4形式へのフリーSWF変換 - Movavi</u></a></li>
 </ul></div>
 

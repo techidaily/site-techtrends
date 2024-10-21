@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-10-12T18:14:24.448Z
-updated: 2024-10-15T18:37:07.177Z
+date: 2024-10-16T19:24:52.217Z
+updated: 2024-10-21T22:31:51.789Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -56,16 +56,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Advantages of Buying
@@ -78,6 +72,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -85,13 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -130,26 +124,26 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Julie Bang
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Build a Computer
@@ -195,20 +189,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/formerly-twitter-a-step-by-step-guide-to-optimizing-your-follow-list/"><u>[Formerly Twitter]: A Step-by-Step Guide to Optimizing Your Follow List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-choice-avi-player-with-multiplatform-support/"><u>Best Choice Avi Player with Multiplatform Support</u></a></li>
-<li><a href="https://article-posts.techidaily.com/best-data-buffering-option-for-sony-a7c/"><u>Best Data Buffering Option for Sony A7C</u></a></li>
-<li><a href="https://techtrends.techidaily.com/electric-vs-gasoline-vehicles-unveiling-the-superiority-of-evs-through-in-depth-comparisons/"><u>Electric Vs. Gasoline Vehicles: Unveiling the Superiority of EVs Through In-Depth Comparisons</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/essential-strategies-for-finding-fabulous-and-free-images-on-pexels-for-2024/"><u>Essential Strategies for Finding Fabulous and Free Images on Pexels for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-leading-selfie-aids-8-edition/"><u>In 2024, Iphone's Leading Selfie Aids - #8 Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-superior-techniques-for-adjusting-tempo-of-tracks-in-spotify/"><u>In 2024, Superior Techniques for Adjusting Tempo of Tracks in Spotify</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6 Making It Possible</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-rumors-of-sonys-next-gen-vr-setup-price-estimates-launch-window-and-specs-overview/"><u>Inside the Rumors of Sony's Next-Gen VR Setup: Price Estimates, Launch Window, and Specs Overview!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/problema-resuelto-error-de-tamano-en-disco-destino-con-clonzilla/"><u>Problema Resuelto: Error De Tamaño en Disco Destino Con Clonzilla</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-print-to-computer-file-sharing-techniques-explained/"><u>Seamless Print-to-Computer File Sharing Techniques Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-into-the-future-with-apples-newest-smartphone-innovation/"><u>Step Into the Future with Apple’s Newest Smartphone Innovation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-tracker-gauging-youtube-popularity-for-financial-insights-for-2024/"><u>The Ultimate Tracker Gauging YouTube Popularity for Financial Insights for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-correcting-missing-oleaut32dll-message/"><u>Troubleshooting Tips for Correcting 'Missing' Oleaut32.dll Message</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/why-does-instagram-keep-flipping-my-video-for-2024/"><u>Why Does Instagram Keep Flipping My Video for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-how-to-make-brands-see-you-as-a-valuable-youtube-sponsorship-candidate/"><u>[Updated] 2024 Approved How to Make Brands See You as a Valuable Youtube Sponsorship Candidate</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-breaking-down-whatsapps-voice-call-features/"><u>[Updated] In 2024, Breaking Down WhatsApp's Voice Call Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-unwanted-amber-alerts-on-your-android-device-heres-how/"><u>Avoid Unwanted AMBER Alerts on Your Android Device - Here's How!</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-git-proficiency-with-github-desktop-on-windows-11/"><u>Boost Your Git Proficiency with Github Desktop on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-ai-capabilities-for-enhanced-engagement-on-instagram/"><u>Harnessing AI Capabilities for Enhanced Engagement on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-12-pro-max-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone 12 Pro Max Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://driver-install.techidaily.com/immediate-upgrade-gtx-750-ti-drivers/"><u>Immediate Upgrade: GTX 750 Ti Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-frame-rate-and-eliminate-stutters-ultimate-guide-to-enhancing-performance-in-call-of-duty-mobile/"><u>Improve Frame Rate & Eliminate Stutters: Ultimate Guide to Enhancing Performance in Call of Duty Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-master-plugins-for-final-cut-pro/"><u>In 2024, Top 10 Master Plugins for Final Cut Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-using-gifs-as-responses-on-instagram-posts/"><u>Mastering the Art of Using GIFs as Responses on Instagram Posts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-playlists-the-ultimate-method-for-unliking-songs-on-spotify/"><u>Mastering Your Playlists: The Ultimate Method for Unliking Songs on Spotify</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-microsoft-teams-navigating-with-copilot-effortlessly/"><u>Unveiling the Secrets of Microsoft Teams: Navigating with Copilot Effortlessly</u></a></li>
 </ul></div>
 

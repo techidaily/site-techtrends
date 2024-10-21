@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-10-03T17:03:50.440Z
-updated: 2024-10-09T22:43:09.629Z
+date: 2024-10-14T18:45:42.877Z
+updated: 2024-10-21T18:32:51.779Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -135,13 +135,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,21 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-aerial-duels-unleashed-dji-spark-vs-gopro-black-session/"><u>[New] Aerial Duels Unleashed DJi Spark vs GoPro Black Session</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-attracting-more-youtube-admirers/"><u>2024 Approved Mastering the Art of Attracting More YouTube Admirers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ace-your-inbox-strategies-for-locating-and-restoring-lost-correspondence-on-google-mail/"><u>Ace Your Inbox: Strategies for Locating and Restoring Lost Correspondence on Google Mail</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-our-choice-selection-of-lgbt-cinema-hits-available-on-netflix-in-july-2024/"><u>Discover Our Choice Selection of LGBT Cinema Hits Available on Netflix in July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-guide-resolving-no-sound-issues-with-audio-amplifiers/"><u>Expert Guide: Resolving No-Sound Issues with Audio Amplifiers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-does-ussd-work-demystifying-unstructured-supplementary-service-code/"><u>How Does USSD Work? Demystifying Unstructured Supplementary Service Code</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-12plus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 12+ 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-streamlining-your-online-impact-with-correct-fb-video-dimensions/"><u>In 2024, Streamlining Your Online Impact with Correct FB Video Dimensions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/leading-fourteen-full-frame-photography-devices/"><u>Leading Fourteen Full Frame Photography Devices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/lenovos-new-international-release-yoga-portal-ai-with-a-compact-37l-design-and-integrated-14th-gen-intel-desktops/"><u>Lenovo's New International Release: Yoga Portal AI with a Compact 3.7L Design & Integrated 14Th Gen Intel Desktops</u></a></li>
-<li><a href="https://techtrends.techidaily.com/locked-out-of-facebook-bypass-the-blockade-with-a-phone-less-email-free-password-reset/"><u>Locked Out of Facebook? Bypass the Blockade with a Phone-Less, Email-Free Password Reset!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-for-when-jvmdll-is-nowhere-to-be-found-on-windows-systems/"><u>Quick Fixes for When jvm.dll Is Nowhere to Be Found on Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-have-fitness-tracking-apps/"><u>Top 10 Must-Have Fitness Tracking Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-premiere-pro-system-essentials-what-you-need-to-know-before-you-start/"><u>Updated Premiere Pro System Essentials What You Need to Know Before You Start</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>[Updated] 2024 Approved Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-user-experience-with-the-newly-redesigned-grid-layout-of-the-windows-11-start-menu/"><u>Enhancing User Experience with the Newly Redesigned Grid Layout of the Windows 11 Start Menu.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-dettagliata-al-registratore-dello-schermo-apowersoft-caratteristiche-essenziali-e-prezzi-comparati/"><u>Guida Dettagliata Al Registratore Dello Schermo Apowersoft: Caratteristiche Essenziali E Prezzi Comparati</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-revolutionizing-advertising-top-20-influential-expressions/"><u>In 2024, Revolutionizing Advertising Top 20 Influential Expressions</u></a></li>
+<li><a href="https://win-community.techidaily.com/microsoft-phases-out-windows-control-panel-insider-takes-a-skeptical-look-at-the-future-of-system-management/"><u>Microsoft Phases Out Windows Control Panel? Insider Takes a Skeptical Look at the Future of System Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-m4a-mpeg/"><u>Movavi로 M4A MPEG에서 인라인으로의 부정할 수 없는 바이트비 변환: 오픈소스 해결책</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-zettingen-van-3gp-files-met-movavi-kostenloos-en-efficient/"><u>Online Zettingen Van 3GP Files Met Movavi - Kostenloos en Efficiënt!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/os-melhores-softwares-gratuitos-para-retoque-de-fotos-em-2024-classificacao-do-movavi/"><u>Os Melhores Softwares Gratuitos Para Retoque De Fotos Em 2024 – Classificação Do Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pop-8-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 8 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-processors-by-toms-hardware-haven/"><u>The Ultimate Guide to Processors by Tom's Hardware Haven</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-performing-gif-creators-for-mac-os-x-movieedit/"><u>Top 12 Performing GIF Creators for Mac OS X - MovieEdit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformez-votre-fichier-mp4-en-format-m4v-sans-frais-gratuit-avec-movavi/"><u>Transformez Votre Fichier MP4 en Format M4V Sans Frais - Gratuit Avec Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-2024-gaming-laptops-performance-rankings-inside/"><u>Ultimate Guide to the Best 2024 Gaming Laptops - Performance Rankings Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vergeet-te-gebruiken-7-stappen-zodat-je-het-touch-screen-van-windows-10-aktiviteiten-kan-starten/"><u>Vergeet Te Gebruiken: 7 Stappen Zodat Je Het Touch Screen Van Windows 10 Aktiviteiten Kan Starten</u></a></li>
 </ul></div>
 

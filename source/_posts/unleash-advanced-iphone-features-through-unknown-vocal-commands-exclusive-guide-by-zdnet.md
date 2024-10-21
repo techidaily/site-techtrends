@@ -1,7 +1,7 @@
 ---
 title: Unleash Advanced iPhone Features Through Unknown Vocal Commands | Exclusive Guide by ZDNet
-date: 2024-10-03T17:40:32.361Z
-updated: 2024-10-09T17:32:37.205Z
+date: 2024-10-16T18:01:24.111Z
+updated: 2024-10-21T22:11:32.120Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -114,6 +114,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +132,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -166,19 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,21 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-night-avenger-black-vs-day-defender-silver/"><u>[New] Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ave-money-on-titles-exclusive-list-of-11-free-creators-for-2024/"><u>[New] Save Money on Titles - Exclusive List of 11 Free Creators for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/access-free-literature-the-ultimate-list-of-17-book-download-sites/"><u>Access Free Literature: The Ultimate List of 17 Book Download Sites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cross-platform-enjoyment-how-to-stream-your-favorite-videos-from-pc-or-mac-to-apple-tv-with-vlc/"><u>Cross-Platform Enjoyment: How to Stream Your Favorite Videos From PC or Mac to Apple TV with VLC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tricks-to-conquer-the-royal-match-challenge/"><u>Essential Tricks to Conquer the Royal Match Challenge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-gaming-to-memories-easy-steps-for-recording-ps4-games-live/"><u>From Gaming to Memories: Easy Steps for Recording PS4 Games Live</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-avoid-common-errors-while-spinning-videos-in-android-apps/"><u>In 2024, Avoid Common Errors While Spinning Videos in Android Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>In 2024, Meme Maniacs Twitter's Funniest Video Threads Roundup</u></a></li>
-<li><a href="https://facebook.techidaily.com/no-more-locked-out-mastering-password-resets-on-facebook/"><u>No More Locked Out! Mastering Password Resets on Facebook</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/oculus-quest-launches-multilingual-support-with-mondly/"><u>Oculus Quest Launches Multilingual Support with 'Mondly'!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-s23-tactical-edition-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy S23 Tactical Edition Black and White | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-tracking-and-analyzing-your-internet-consumption/"><u>Step-by-Step Guide: Tracking and Analyzing Your Internet Consumption</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-on-activating-wake-on-lan-for-latest-windows-versions/"><u>Step-by-Step Tutorial on Activating Wake-on-LAN for Latest Windows Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-powering-down-iphone-models-15-propro-max/"><u>The Ultimate Walkthrough for Powering Down iPhone Models 15 Pro/Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-tv-series-airing-currently-on-max-network/"><u>Top TV Series Airing Currently on MAX Network</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Updated 2024 Approved Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-youtubes-earning-potential-in-the-new-year/"><u>[Updated] In 2024, Unlocking YouTube's Earning Potential in the New Year</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-selecting-your-channel-weighing-up-the-merits-of-igtv-and-youtube/"><u>[Updated] Selecting Your Channel Weighing Up the Merits of IGTV & YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-pathway-to-premium-webcam-footage/"><u>2024 Approved The Ultimate Pathway to Premium Webcam Footage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726226133354-wma-movavi/"><u>網路無限 WMA格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erate-your-channel-growth-affordable-subscribers-available-for-2024/"><u>Accelerate Your Channel Growth - Affordable Subscribers Available for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-action-cameras-on-wheels-top-5-picks-for-23-riders/"><u>Best Action Cameras on Wheels – Top 5 Picks for '23 Riders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-ogv-files-to-mp4-format-free-of-charge-with-movavis-online-converter/"><u>Convert OGV Files to MP4 Format Free of Charge with Movavi's Online Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-archivos-a-mp3-sin-coste-soluciones-seguras-para-windows-y-mac/"><u>Convertir Archivos a Mp3 Sin Coste: Soluciones Seguras Para Windows Y Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-change-ogg-audio-files-to-mp3-format-with-movavi/"><u>Free Online Conversion: Change OGG Audio Files to MP3 Format with Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuita-online-conversao-aif-em-ogg-pelo-servico-web-de-movavi/"><u>Gratuita Online: Conversão AIF Em OGG Pelo Serviço Web De Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-a2-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo A2 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/masterful-bordering-techniques-for-stellar-instagram-videos-for-2024/"><u>Masterful Bordering Techniques for Stellar Instagram Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-no-cost-web-service-for-switching-from-nef-to-jpeg-images-seamlessly/"><u>Movavi's No-Cost Web Service for Switching From NEF to JPEG Images Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-mp4-mb/"><u>Movavi의 제공 MP4, MⅠB 프리미티를 원형값으로 바꾸기: 인터넷에서 가장 안전하고 쉽고 비용이 매우 낮은 솔루션</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-tips-to-reduce-initial-boot-time-frustrations-with-battlefront-ii-on-desktops/"><u>Quick Tips to Reduce Initial Boot Time Frustrations with Battlefront II on Desktops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-kostenloze-screen-sharing-werkluipsen-de-allerbeste-van-movavi/"><u>Top 15 Kostenloze Screen-Sharing Werkluipsen: De Allerbeste Van Movavi</u></a></li>
 </ul></div>
 

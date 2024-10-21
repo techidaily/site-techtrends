@@ -1,7 +1,7 @@
 ---
 title: 'ChatGPT Now Available on Apple Devices via Partnership with OpenAI | Detailed Report by ZDNET
-date: 2024-10-07T16:35:12.769Z
-updated: 2024-10-09T16:25:32.993Z
+date: 2024-10-14T20:53:58.742Z
+updated: 2024-10-21T21:11:22.907Z
 tags:
   - apple
 categories:
@@ -32,6 +32,19 @@ There are significant differences between the two devices, but with a recent upd
 
 **See our full reviews:** [Apple Watch](https://www.zdnet.com/article/apple-watch-series-7-review/) | [Whoop 4.0](https://www.zdnet.com/article/whoop-4-0-review-screenless-wearable-helps-you-avoid-injuries-track-sleep-details/) 
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Hardware
 
 The Whoop device is a basic black rectangle with sensors on the back and an unremarkable basic design. There is only one color available, although there are extensive options for bands and other body apparel.
@@ -54,13 +67,6 @@ Apple spent the last few years improving the health and wellness capabilities of
 
 The next version of WatchOS, version 9, will bring sleep stages, heart rate zones, running power, elevation, custom workout displays, running form metrics, medication reminders, and more. With improvements like this, Garmin, Polar, and others will be challenged in the advanced wearable market.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone software
 
 Given that there is no display on the Whoop 4.0, the smartphone application is a key component to the full user experience. The application launches with the Overview display with swipes from right to left showing details for strain, recovery, and sleep. Swipe up to view this same data for the past week with plots showing the trends in the data.
@@ -70,13 +76,6 @@ A coaching tab presents strain coaching information, sleep coaching guidance, he
 The Whoop iPhone app is also used for monitoring the battery life, performing firmware updates, setting alarms, and all of the other settings needed to customize the Whoop for your usage.
 
 When looking at the Apple Watch, there are three applications on your iPhone that are part of the Apple Watch experience. The Watch app is used to manage watch faces, find/install/uninstall applications, change settings, and perform functions to set up your Apple Watch for an optimal experience.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -100,6 +99,13 @@ In addition to a large assortment of bands to match your style, [Whoop Body acce
 
 Apple also offers a vast assortment of watch bands and thankfully these bands have worked on all Apple Watch models since the first generation so an investment in Apple Watch bands is one that you can take advantage of for years. In addition to bands, there are a plethora of charging docks, cases, screen protectors, and even a [camera](https://www.zdnet.com/product/wristcam/) to outfit your Apple Watch for your lifestyle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which one should you buy?
 
 For most people, the Apple Watch is the better option for health and fitness tracking because of its versatility and advanced functionality. Apple continues to improve the WatchOS experience and it may soon surpass most other wearables on the market.
@@ -109,16 +115,10 @@ The Whoop doesn't offer much for the casual athlete that doesn't find value in d
 For serious athletes, using both may offer the best experience with the Whoop 4.0 tracking all of their particulars 24/7 in a subtle manner while the Apple Watch is used for focused activities and other smartwatch functions.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives worth considering
@@ -136,10 +136,10 @@ Similar to the Whoop 4.0, the Oura Ring does not have a display and is a wearabl
 The Fitbit Sense is a smartwatch that competes with the Apple Watch, but has a heavy focus on health and wellness. Fitbit has mastered the art of providing you with actionable steps to take after the data is collected, but there is a monthly subscription fee to see those insights. It is not as advanced as the Apple Watch as a smartwatch, but it is affordable and does a good job with health and wellness tracking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FAQs
@@ -148,16 +148,16 @@ The Fitbit Sense is a smartwatch that competes with the Apple Watch, but has a h
 
 The Whoop 4.0 is designed to determine automatically when you start and end a workout, but you can also start this tracking manually in the smartphone app or edit the session after you are done if the start and end time aren't correct. The Whoop uses the workout results to calculate strain figures that it uses for calculating your recovery status. GPS tracks and other specifics are not captured by the Whoop.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I use either of these wearables without an iPhone?
 
 Whoop offers an Android application so it is fully supported on Android smartphones. While you do need an iPhone to set up an Apple Watch, Apple's Family Setup lets you set up an Apple Watch for someone that doesn't have an iPhone, so you could use an Apple Watch as a stand alone wearable with lots of limitations on its functionality. 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does the Apple Watch also measure HRV?
 
@@ -197,22 +197,17 @@ The Whoop 4.0 typically lasts about five days between charges while the Apple Wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-artistic-angles-a-selection-of-hot-snapchat-augments/"><u>[New] Artistic Angles A Selection of Hot Snapchat Augments</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] In 2024, Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-screen-capture-unveiled-with-irecorder-for-2024/"><u>[Updated] Screen Capture Unveiled with iRecorder for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-for-customizing-and-downloading-spiritual-audio-for-2024/"><u>[Updated] Step by Step for Customizing and Downloading Spiritual Audio for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-beginners-guide-to-efficiently-using-chatgpt-extensions/"><u>A Beginner's Guide to Efficiently Using ChatGPT Extensions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-places-to-watch-professional-sports-for-free-a-comprehensive-guide/"><u>Best Places to Watch Professional Sports for Free - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-productivity-with-triple-monitor-pc-setups-comprehensive-guide-and-troubleshooting-tips/"><u>Boost Productivity with Triple Monitor PC Setups - Comprehensive Guide and Troubleshooting Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bridging-streaming-services-a-comprehensive-guide-to-casting-apple-tv-plus-using-a-chromecast-stick/"><u>Bridging Streaming Services: A Comprehensive Guide to Casting Apple TV Plus Using a Chromecast Stick</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-to-activate-and-navigate-your-secret-file-tracker-menu/"><u>Discover How to Activate and Navigate Your Secret File Tracker Menu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-six-simple-methods-to-locate-individuals-on-facebook/"><u>Discover Six Simple Methods to Locate Individuals on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-instagram-hashtags-for-increased-engagement-and-reach/"><u>Essential Instagram Hashtags for Increased Engagement and Reach</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-13-ultra-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from 13 Ultra.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-of-windows-11s-malfunctioning-search-tool/"><u>How to Restore Functionality of Windows 11'S Malfunctioning Search Tool</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-diy-tips-getting-started-with-voice-over-filming/"><u>In 2024, DIY Tips Getting Started with Voice Over Filming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/repair-techniques-for-optical-drives-that-refuse-to-open-or-eject/"><u>Repair Techniques for Optical Drives That Refuse to Open or Eject</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-stutters-and-lags-in-half-life-alyx-pc-edition/"><u>Troubleshooting Stutters & Lags in 'Half-Life: Alyx' - PC Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-using-whatsapp-on-your-mac-computer/"><u>Ultimate Guide: Using WhatsApp on Your Mac Computer</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bettering-god-of-war-everyday-play/"><u>Bettering 'God of War': Everyday Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-de-fichiers-mod-en-wmv-gratuite-sur-internet-guide-facile-avec-movavi/"><u>Conversion De Fichiers MOD en WMV Gratuite Sur Internet : Guide Facile Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descubre-el-secreto-para-reducir-el-tamano-de-tus-videos-mp4-usando-la-herramienta-de-conversion-movavi/"><u>Descubre El Secreto Para Reducir El Tamaño De Tus Vídeos MP4 Usando La Herramienta De Conversión Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuito-conversor-de-mpe-para-ogg-online-herramienta-libre-y-facil-usar-con-movavi/"><u>Gratuito Conversor De MPE Para OGG Online - Herramienta Libre Y Fácil Usar Con Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-asus-rog-phone-7-ultimate-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Asus ROG Phone 7 Ultimate To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapshot-wizard-top-positions-for-iphone-photos/"><u>In 2024, Becoming a Snapshot Wizard Top Positions for iPhone Photos</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-email-campaign-optimization-through-split-testing-learn-with-massmail-tools/"><u>Mastering Email Campaign Optimization Through Split Testing – Learn with MassMail Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-tom-insightful-hardware-analysis-and-reviews/"><u>Navigating the World of Gadgets with Tom: Insightful Hardware Analysis and Reviews</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat/"><u>The Ultimate Checklist Seamless Conversion of Phone Photos to Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-recommended-video-downloaders-on-reddit-a-comprehensive-guide/"><u>Top 15 Recommended Video Downloaders on Reddit : A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformer-des-fichiers-raw-au-format-jpeg-gratuitement-sur-internet-avec-movavi/"><u>Transformer Des Fichiers RAW Au Format JPEG Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xcom-2-windows-stability-fix-no-more-game-crashes/"><u>XCOM 2 Windows Stability Fix: No More Game Crashes</u></a></li>
 </ul></div>
 

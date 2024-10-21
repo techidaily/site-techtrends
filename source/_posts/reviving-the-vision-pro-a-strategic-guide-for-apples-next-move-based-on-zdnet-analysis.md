@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Vision Pro: A Strategic Guide for Apple's Next Move Based on ZDNet Analysis"
-date: 2024-10-09T07:57:12.795Z
-updated: 2024-10-15T20:41:44.718Z
+date: 2024-10-19T20:51:47.844Z
+updated: 2024-10-21T19:11:19.982Z
 tags:
   - apple
 categories:
@@ -83,10 +83,16 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -109,19 +115,6 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -137,10 +130,10 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -153,6 +146,13 @@ The eye tracking and hand gestures interface that are the primary means of opera
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Stay away from cable tethering
 
 It makes sense to tether the Vision Pro to a Mac for an ultra-wide display. You want zero latency and uninterrupted power. But beyond that, tethering is annoying. Nothing says "early concept prototype" more than having to carry a tethered battery in your back pocket. 
@@ -164,13 +164,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -191,6 +184,13 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -241,22 +241,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-capture-the-moment-iphone-time-lapse-tutorial/"><u>[Updated] Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-elite-echo-engineer-for-podcasting-excellence/"><u>[Updated] Elite Echo Engineer for Podcasting Excellence</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-onestepcams-evaluation-are-we-overlooking-gems-in-2024/"><u>[Updated] OneStepCams Evaluation Are We Overlooking Gems, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photographic-prowess-the-best-lens-choices-for-stunning-images-2024-edition/"><u>[Updated] Photographic Prowess The Best Lens Choices for Stunning Images, 2024 Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles/"><u>Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehvew-of-best-practices-in-maintaining-a-clean-and-hygienic-mechanical-keyboard/"><u>Comprehvew of Best Practices in Maintaining a Clean and Hygienic Mechanical Keyboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dive-into-a-world-of-technology-and-tales-with-high-end-phones-computers-and-novels/"><u>Dive Into a World of Technology & Tales with High-End Phones, Computers, & Novels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-to-restore-and-recover-lost-shelldll-components/"><u>Effective Strategies to Restore and Recover Lost Shell.dll Components</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-typing-experience-secure-logitech-mk70mk710-driver-downloads-and-updates/"><u>Enhance Your Typing Experience: Secure Logitech MK70/MK710 Driver Downloads and Updates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macitunesmacx-dvditunesiphoneipod/"><u>Macユーザー向けに特化したiTunes変換フリープログラム：MacX を使いDVDファイルを無料でiTunes/iPhone/iPod互換へ</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-powerpoint-updates-a-comprehensive-how-to-guide/"><u>Mastering PowerPoint Updates: A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidias-official-rtx-3070-ti-graphics-drivers-for-windows-users-download-now/"><u>NVIDIA's Official RTX 3070 Ti Graphics Drivers for Windows Users: Download Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-shell32dll-file-cannot-be-found-dilemma/"><u>Resolving the 'Shell32.dll File Cannot Be Found' Dilemma</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-how-to-binge-watch-the-complete-dragon-ball-series/"><u>Step-by-Step Instructions on How to Binge-Watch the Complete Dragon Ball Series</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-using-the-split-view-feature-on-macbook-air/"><u>Step-by-Step Tutorial: Using the Split View Feature on MacBook Air</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-art-of-spotting-fake-friends-in-the-digital-world-handling-suspicious-friend-requests/"><u>The Art of Spotting Fake Friends in the Digital World: Handling Suspicious Friend Requests</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-revenue-pathways-and-payments-for-2024/"><u>YouTube Revenue Pathways and Payments for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-front-rows-of-recreation-beyond-the-sports-arena/"><u>[New] 2024 Approved Front Rows of Recreation Beyond the Sports Arena</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos/"><u>[New] In 2024, Secure and Convenient A Windows/Mac Downloading Guide for IGTV Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mini-marvels-ultimate-game-hunt-for-2024/"><u>[New] Mini Marvels' Ultimate Game Hunt for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-4-free-tools-for-youtube-audio-conversion-to-wav/"><u>[New] Top 4 Free Tools for YouTube Audio Conversion to WAV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-6-youtube-outro-makers-lots-of-free-options/"><u>[New] Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corporate-management-of-windows-configurations-status-update-and-solution/"><u>Corporate Management of Windows Configurations: Status Update and Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-creating-your-personalized-signature-with-godaddys-email-service/"><u>Easy Steps: Creating Your Personalized Signature with GoDaddy's Email Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722866255415-exploring-the-samsung-galaxy-z-flip-6-find-out-about-its-pricing-release-date-and-innovative-features/"><u>Exploring the Samsung Galaxy Z Flip 6 - Find Out About Its Pricing, Release Date & Innovative Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/googles-new-phone-announcement-projections-for-price-scheduled-debut-specifications-and-additional-rumors/"><u>Google's New Phone Announcement: Projections for Price, Scheduled Debut, Specifications, and Additional Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-grab-a-full-picture-of-your-work-screenshots-on-hp-systems-explained/"><u>How to Grab a Full Picture of Your Work: Screenshots on HP Systems Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-yuva-2-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Yuva 2 Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-130-music-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia 130 Music Data? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-ipados-a-detailed-walkthrough-of-each-software-release/"><u>Mastering iPadOS: A Detailed Walkthrough of Each Software Release</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-fix-for-when-d3dx940dll-is-lost-or-unavailable/"><u>The Definitive Fix for When d3dx9_40.dll Is Lost or Unavailable</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-empowerment-your-life-story-can-inspire-for-2024/"><u>Youth Empowerment Your Life Story Can Inspire for 2024</u></a></li>
 </ul></div>
 

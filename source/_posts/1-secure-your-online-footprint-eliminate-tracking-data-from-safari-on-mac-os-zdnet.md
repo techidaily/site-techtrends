@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-10-07T18:06:26.068Z
-updated: 2024-10-10T00:30:24.611Z
+date: 2024-10-15T18:51:06.250Z
+updated: 2024-10-21T20:04:52.302Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -66,10 +66,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -121,16 +121,24 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[New] Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerated-operating-system-driver-update/"><u>Accelerated Operating System Driver Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-gaming-experience-tips-for-reaching-120fps-on-playstation-5/"><u>Boost Your Gaming Experience: Tips for Reaching 120Fps on PlayStation 5</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-v600-scanner-drivers-free-download/"><u>Epson V600 Scanner Drivers - Free Download</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-for-multi-tasking-with-split-view-on-macbook-air/"><u>Essential Tips for Multi-Tasking with Split View on MacBook Air</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-defy-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resetting-your-lenovo-notebook-a-step-by-step-tutorial-for-fresh-startup/"><u>Resetting Your Lenovo Notebook: A Step-by-Step Tutorial for Fresh Startup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-completely-refreshing-any-ipad-model-through-a-hard-reset/"><u>Step-by-Step Instructions for Completely Refreshing Any iPad Model Through a Hard Reset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-streaming-systems-and-their-functions-in-todays-tech-scene/"><u>The Ultimate Breakdown of Streaming Systems and Their Functions in Today's Tech Scene</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/upload-with-ease-instagram-and-vimeo-harmony-for-2024/"><u>Upload with Ease Instagram and Vimeo Harmony for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-building-trust-through-words-docu-script-insights/"><u>[New] Building Trust Through Words Docu-Script Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lgs-lg-360-camera-update-unveiled-and-analyzed/"><u>[New] LG's LG 360 Camera Update Unveiled & Analyzed</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-12-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 12 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/15-best-windows-11-themes-to-download-for-free/"><u>15 Best Windows 11 Themes to Download for Free</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Phone When You Forget the Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-macos-15-sequoia-launch-date-and-comprehensive-overview-of-innovative-features/"><u>Discover MacOS 15 Sequoia: Launch Date & Comprehensive Overview of Innovative Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dive-into-the-speculations-around-samsungs-upcoming-marvel-the-galaxy-s25-pricing-launch-and-cutting-edge-tech-unveiled/"><u>Dive Into the Speculations Around Samsung's Upcoming Marvel – The Galaxy S25; Pricing, Launch and Cutting-Edge Tech Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-projector-screen-mastery-from-materials-to-setup/"><u>DIY Projector Screen Mastery: From Materials to Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-first-time-players-of-pokemon-go/"><u>Essential Tips for First-Time Players of 'Pokémon Go'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fun-toys-or-future-pros-selecting-the-best-gaming-systems-for-kids/"><u>Fun Toys or Future Pros? Selecting the Best Gaming Systems for Kids</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-calling-capabilities-on-an-unresponsive-android/"><u>How to Restore Calling Capabilities on an Unresponsive Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-5-best-igtv-editor-apps-for-improved-layouts/"><u>In 2024, 5 Best IGTV Editor Apps for Improved Layouts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics/"><u>In 2024, Capture and Share Your Games Like a Pro with These Windows 11 Tactics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-windows-10-from-scratch-a-comprehensive-walkthrough-for-your-new-hdd/"><u>Installing Windows 10 From Scratch: A Comprehensive Walkthrough for Your New HDD</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ipad/"><u>IPad重建失去的記事本：緊急修復沒有後備版本時，這是解決方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-pace-the-netflix-playback-guide/"><u>Mastering Pace The Netflix Playback Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-pdf-transformations-for-2024/"><u>Pinnacle PDF Transformations for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-opening-rar-formats-on-a-mac-computer/"><u>The Ultimate Walkthrough for Opening RAR Formats on a Mac Computer</u></a></li>
 </ul></div>
 

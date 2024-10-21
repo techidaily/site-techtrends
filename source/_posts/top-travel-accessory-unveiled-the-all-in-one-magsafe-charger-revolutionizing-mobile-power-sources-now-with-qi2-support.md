@@ -1,7 +1,7 @@
 ---
 title: "Top Travel Accessory Unveiled: The All-in-One MagSafe Charger Revolutionizing Mobile Power Sources, Now with Qi2 Support!"
-date: 2024-10-03T18:49:05.105Z
-updated: 2024-10-09T17:49:12.536Z
+date: 2024-10-18T17:53:43.442Z
+updated: 2024-10-21T19:19:37.211Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -81,10 +81,16 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -123,15 +129,24 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximizing-social-reach-with-tiktok-to-facebook-integration/"><u>[Updated] 2024 Approved Maximizing Social Reach with TikTok to Facebook Integration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-converting-sdr-video-to-hdr-a-comprehensive-tutorial/"><u>2024 Approved Converting SDR Video to HDR - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y77t-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y77t Unlock Without Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dota-2-crash-solutions-diagnosing-and-correcting-common-technical-glitches-in-the-game/"><u>Dota 2 Crash Solutions: Diagnosing & Correcting Common Technical Glitches in the Game</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-to-follow-steps-for-setting-up-your-bluetooth-computer-sound-system/"><u>Easy-To-Follow Steps for Setting Up Your Bluetooth Computer Sound System</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhanced-gaming-experience-no-more-stuttering-in-starfield/"><u>Enhanced Gaming Experience - No More Stuttering in Starfield</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 14?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mingwm10dll-file-not-detected-problem-a-step-by-step-guide/"><u>Solving the 'mingwm10.dll File Not Detected' Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-inside-chatgpt-an-in-depth-look-at-microsofts-ai-creation/"><u>What's Inside ChatGPT? An In-Depth Look at Microsoft’s AI Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wondering-if-chatgpt-plus-is-worth-your-time-here-are-5-compelling-reasons-to-get-started/"><u>Wondering if ChatGPT Plus Is Worth Your Time? Here Are 5 Compelling Reasons to Get Started!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-camera-buff-writers-choice-the-ultimate-list-of-5-low-frame-rate-cams/"><u>[New] In 2024, Camera Buff' Writers Choice The Ultimate List of 5 Low Frame Rate Cams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-secret-to-social-success-innovative-square-videography-tactics/"><u>[New] In 2024, The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-vdsm-video-recorder-prospectus-detailed-study/"><u>[New] In 2024, VDSM Video Recorder Prospectus Detailed Study</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726222512622-asfwav-movavi/"><u>網路直接無限制地移變ASF到WAV格式 - 避重回歸Movavi編輯器</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online-for-2024/"><u>AI Avatars | Online for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversor-de-video-online-gratuito-de-vob-para-asf-com-o-movavi-atualizacao-simplificada/"><u>Conversor De Vídeo Online Gratuito: De VOB Para ASF Com O Movavi - Atualização Simplificada!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-video-making-on-mac-with-movavi-a-comprehensive-step-by-step-instructional-guide/"><u>Effortless Video Making on Mac with Movavi - A Comprehensive Step-by-Step Instructional Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuiciel-convertisseur-video-compatible-mac-telecharger-facilement/"><u>Gratuiciel Convertisseur Vidéo Compatible Mac - Télécharger Facilement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-for-stream-backgrounds/"><u>In 2024, Best Practices for Stream Backgrounds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-11-pro-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 11 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 15</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inbygga-kop-movavi-fullstandig-karnvuxlig-videobehandlare/"><u>Inbygga Köp Movavi - Fullständig Kärnvuxlig Videobehandlare</u></a></li>
+<li><a href="https://techtrends.techidaily.com/krakende-dvd-naar-avi-format-methode-eenvoudige-conversie-met-movavi/"><u>Krakende DVD Naar Avi Format Methode - Eenvoudige Conversie Met Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-close-up-web-views-on-screen-for-2024/"><u>Mastering Close-Up Web Views on Screen for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>New 2024 Approved Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/scambia-webp-per-formato-tiff-online-gratuito-utilizzando-leditore-di-immagini-movavi/"><u>Scambia WEBP per Formato TIFF Online Gratuito Utilizzando L'editore Di Immagini Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-mix-fold-3-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Mix Fold 3 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-methods-for-converting-mov-files-into-mpeg-format-online-windows-and-mac-solutions/"><u>Top 8 Methods for Converting MOV Files Into MPEG Format: Online, Windows & Mac Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformez-rapidement-vos-fichiers-videos-au-format-flv-facilement-grace-a-lexpertise-du-convertisseur-rapidflt-de-movavi/"><u>Transformez Rapidement Vos Fichiers Vidéos Au Format FLV Facilement Grâce À L'expertise Du Convertisseur RapidFLT De Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2024-10-15T06:22:56.486Z
-updated: 2024-10-16T04:32:43.813Z
+date: 2024-10-15T22:44:16.777Z
+updated: 2024-10-21T22:32:56.286Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -54,10 +54,10 @@ I prefer the second way, which is simply to ask Siri to take the shot. All you h
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -99,10 +99,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -152,16 +152,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-perfecting-voiceovers-in-filming/"><u>[New] 2024 Approved Step-by-Step Guide Perfecting Voiceovers in Filming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-screencast-with-ezvide-maker-tool/"><u>[New] Mastering Screencast with EZvide Maker Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/booting-up-windows-sound-service-quick-fix-steps/"><u>Booting Up Windows Sound Service: Quick Fix Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-auto-clickers-for-android-no-root-necessary/"><u>Discover the Ultimate List of Auto-Clickers for Android: No Root Necessary</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-unmatched-ride-quality-of-the-tenways-cgo60/"><u>Discover the Unmatched Ride Quality of the Tenways CGO60</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-listening-experience-with-edifier-neobuds-pro-2-budget-friendly-and-android-compatible/"><u>Elevate Your Listening Experience with Edifier NeoBuds Pro 2 – Budget-Friendly and Android Compatible</u></a></li>
-<li><a href="https://techtrends.techidaily.com/evaluating-the-oneplus-watch-2-proficient-features-meet-mundane-design-in-our-comprehensive-review/"><u>Evaluating the OnePlus Watch 2: Proficient Features Meet Mundane Design in Our Comprehensive Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/evaluating-the-soundcore-life-pod-lite-comfortable-in-bed-audio-for-a-restful-nights-sleep/"><u>Evaluating the SoundCore Life Pod Lite: Comfortable In-Bed Audio for a Restful Night's Sleep</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-webcam-guide-5-best-options-with-mic-integration/"><u>Premium Webcam Guide 5 Best Options with Mic Integration</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-revolution-how-artificial-intelligence-is-transforming-the-future/"><u>AI Revolution: How Artificial Intelligence Is Transforming the Future</u></a></li>
+<li><a href="https://discover-data.techidaily.com/easy-steps-retrieving-vintage-videos-and-images-from-your-computer/"><u>Easy Steps: Retrieving Vintage Videos & Images From Your Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-list-of-fastest-usb-wi-fi-gadgets-2024-edition/"><u>Elite List of Fastest USB Wi-Fi Gadgets - 2024 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-stream-lifeline-high-quality-recorders-reviewed-in-obs-for-2024/"><u>Live Stream Lifeline High-Quality Recorders Reviewed in OBS for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-color-correction-techniques-for-2024/"><u>Mastering Color Correction Techniques for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New In 2024, Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-fixing-msxml4dll-error-messages-in-windows/"><u>Troubleshooting Tips for Fixing Msxml4.dll Error Messages in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-compact-gaming-pcs-with-maximum-performance/"><u>Ultimate List of Compact Gaming PCs with Maximum Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-awkward-potion-crafting-in-minecraft-for-ultimate-gameplay-enhancement/"><u>Unlock the Secrets of Awkward Potion Crafting in Minecraft for Ultimate Gameplay Enhancement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-techniques-for-newbies-in-pokemn-unite-arena/"><u>Winning Techniques for Newbies in Pokémn Unite Arena</u></a></li>
 </ul></div>
 

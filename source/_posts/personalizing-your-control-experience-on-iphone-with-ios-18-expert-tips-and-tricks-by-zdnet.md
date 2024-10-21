@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks by ZDNET"
-date: 2024-10-04T19:24:33.139Z
-updated: 2024-10-09T18:32:27.953Z
+date: 2024-10-14T18:03:19.365Z
+updated: 2024-10-21T19:38:15.318Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +59,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,18 +71,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -84,19 +91,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -140,24 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevating-your-contents-impact-an-in-depth-look-at-youtube-thumbnail-size/"><u>[New] 2024 Approved Elevating Your Content's Impact An In-Depth Look at YouTube Thumbnail Size</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-timestamps-youtube-video-in-2024/"><u>[New] How to Add Timestamps YouTube Video, In 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-traffic-elevate-rankings-essential-youtube-seo/"><u>[New] In 2024, Boost Traffic, Elevate Rankings - Essential YouTube SEO</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fixing-the-quake-tips-for-steadying-gopro-videos/"><u>[Updated] 2024 Approved Fixing the Quake Tips for Steadying GoPro Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-tips-for-overcoming-error-code-0x80004/"><u>Comprehensive Troubleshooting Tips for Overcoming Error Code 0X80004</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/defeating-windows-11-administrative-barriers/"><u>Defeating Windows 11 Administrative Barriers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-establish-your-virtual-space-oculus-questquest-2-registration/"><u>Easy Steps to Establish Your Virtual Space: Oculus Quest/Quest 2 Registration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-ways-to-establish-a-gmail-mailing-name-variant-for-privacy-and-organization/"><u>Easy Ways to Establish a Gmail Mailing Name Variant for Privacy and Organization</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminate-code-groovyerrors-with-these-proven-repair-methods-and-hacks/"><u>Eliminate Code groovyErrors with These Proven Repair Methods and Hacks.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-fe-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 FE Phones with/without a PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-18-unveiled-launch-dates-zero-cost-new-capabilities-and-latest-updates/"><u>IOS 18 Unveiled: Launch Dates, Zero Cost, New Capabilities & Latest Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-ai-from-home-expertly-curated-list-of-15-self-guided-cost-free-courses/"><u>Mastering AI From Home: Expertly Curated List of 15 Self-Guided, Cost-Free Courses</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-social-networking-spheres-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating Social Networking Spheres: Insights Into Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-uploading-multiple-photos-together-on-facebook/"><u>The Ultimate Guide to Uploading Multiple Photos Together on Facebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-spotifys-dual-playback-capabilities-for-paired-users/"><u>Understanding Spotify's Dual Playback Capabilities for Paired Users.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-to-reactivating-your-inactive-snapchat-id-a-comprehensive-walkthrough/"><u>Unlock the Secrets to Reactivating Your Inactive Snapchat ID – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wwdc-2025-insights-apples-latest-innovations-revealed/"><u>WWDC 2025 Insights: Apple's Latest Innovations Revealed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-getting-more-from-instagram-videos-and-photos/"><u>[New] 2024 Approved Getting More From Instagram Videos & Photos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-best-youtube-video-reaction-ideas/"><u>[New] In 2024, Best YouTube Video Reaction Ideas</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[New] Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>2024 Approved TikTok and Twittersphere Crossover The Viral Vids</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726226808594-jpegjpg-movavi/"><u>移動窗格：JPEG到JPG無限制地免費轉換 - Movavi解決方案</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-wmv-files-to-mp4-for-free-web-based-tools-with-movavicom/"><u>Convert WMV Files to MP4 For Free Web-Based Tools with Movavi.com</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converti-file-mpeg-a-formato-mp4-online-e-gratuitamente-con-movavi-prova-ora/"><u>Converti File MPEG a Formato MP4 Online E Gratuitamente Con Movavi - Prova Ora!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-archivos-3g2-a-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos .3G2 a Formato .3GP Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertissez-gratuitement-les-videos-wtv-en-streaming-en-direct-grace-a-movavi/"><u>Convertissez Gratuitement Les Vidéos WTV en Streaming en Direct Grâce À Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-enriched-viewing-experience-with-these-free-downloader-apps-for-youtubes/"><u>In 2024, Enriched Viewing Experience with These Free Downloader Apps for YouTubes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>In 2024, Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-samsung-galaxy-z-fold-6-anticipated-release-cost-estimates-and-in-depth-specs-analysis/"><u>Inside Samsung Galaxy Z Fold 6: Anticipated Release, Cost Estimates, and In-Depth Specs Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-detection-issues-successfully-recognizing-the-tl-wn722n-network-adapter-in-windows-environments/"><u>Overcoming Detection Issues: Successfully Recognizing the TL-WN722N Network Adapter in Windows Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-mejores-aplicaciones-de-grabacion-de-pantalla-con-funcionalidad-de-tiempo-para-windows-y-mac-guia-completa/"><u>Top 7 Mejores Aplicaciones De Grabación De Pantalla Con Funcionalidad De Tiempo Para Windows Y Mac: Guía Completa</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-tu-audio-de-w64-a-wav-por-internet-libre-y-sin-costo-mediante-movavi/"><u>Transforma Tu Audio De W64 a WAV Por Internet Libre Y Sin Costo Mediante Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vlc-guide-mastering-the-art-of-screen-recording-tips-and-tricks/"><u>VLC Guide: Mastering the Art of Screen Recording - Tips & Tricks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis"
-date: 2024-10-02T18:47:15.915Z
-updated: 2024-10-09T16:03:18.933Z
+date: 2024-10-17T22:20:26.552Z
+updated: 2024-10-21T22:18:44.756Z
 tags:
   - apple
 categories:
@@ -47,6 +47,13 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 
 Screenshot by Kayla Solino/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
 If you like the simplicity of the second-generation AirPods but think it's time for an upgrade, the entry-level AirPods 4 are for you. Like the second-generation AirPods, the [entry-level AirPods 4](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) don't have active noise cancellation or Transparency Mode. However, they debut with spatial audio, making music, movie-watching, and mobile gaming more immersive.
@@ -56,16 +63,10 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -74,16 +75,16 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
 
@@ -94,10 +95,10 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -109,13 +110,6 @@ If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier 
 You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPods since they give users the best of both worlds. You get upgraded audio features not found in the second or third-generation AirPods without offering too many advanced features found in the AirPods Pro 2.
 
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -151,24 +145,21 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-perfecting-your-presence-skills-to-master-with-logitech-cam/"><u>[Updated] 2024 Approved Perfecting Your Presence Skills to Master with Logitech Cam</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-audience-viewing-experience-how-to-choose-video-aspect-ratio-for-2024/"><u>[Updated] Audience Viewing Experience How to Choose Video Aspect Ratio for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-templates-for-panzoid-introduction/"><u>[Updated] Premium Templates for Panzoid Introduction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-beginners-blueprint-for-safelisting-your-email-address-efficiently/"><u>A Beginner's Blueprint for Safelisting Your Email Address Efficiently</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chinas-bargain-bin-of-virtual-reality-gear/"><u>China's Bargain Bin of Virtual Reality Gear</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-oneplus-nord-n10-5g-the-budget-phone-that-stands-out/"><u>Comprehensive Guide to the OnePlus Nord N10 5G - The Budget Phone That Stands Out</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-when-gmail-synchronization-fails-to-update/"><u>Effective Solutions When Gmail Synchronization Fails to Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722889513377-essential-tech-devices-for-avid-readers-discover-laptops-and-phones/"><u>Essential Tech Devices for Avid Readers: Discover Laptops and Phones!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-iptvs-and-connected-sets-what-you-need-to-know-about-online-streaming-devices/"><u>Exploring IPTVs and Connected Sets: What You Need to Know About Online Streaming Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-narzo-60-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme Narzo 60 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inside-the-new-picsart-full-guide-and-review-of-update-2024/"><u>Inside the New PicsArt - Full Guide & Review of Update 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-technology-with-tomn-hardware-insights/"><u>Navigate the World of Technology with Tom'n Hardware Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fix-guide-restoring-and-reinstalling-d3dx924dll-when-its-missing/"><u>Quick Fix Guide: Restoring and Reinstalling d3dx9_24.dll When It's Missing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sony-afela-unveiling-the-rumored-specifications-anticipated-launch-timeline-and-pricing-details/"><u>Sony AFELA: Unveiling the Rumored Specifications, Anticipated Launch Timeline & Pricing Details</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/thriving-in-a-world-of-negative-video-reviews-for-2024/"><u>Thriving in a World of Negative Video Reviews for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-must-play-imessage-games-you-cant-miss/"><u>Top 7 Must-Play iMessage Games You Can't Miss</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-made-easy-a-detailed-walkthrough-for-ipad-reboot-on-all-models/"><u>Troubleshooting Made Easy: A Detailed Walkthrough for iPad Reboot on All Models</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-power-to-compel-windows-os-into-safety-modes-a-comprehensive-breakdown/"><u>Unlocking the Power to Compel Windows OS Into Safety Modes: A Comprehensive Breakdown</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmvasf-movavi/"><u>WMVとASFファイルの効率的な無料変換 - Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-trustworthy-tactics-for-multiplying-a-million-views-on-youtube/"><u>[New] 2024 Approved Trustworthy Tactics for Multiplying a Million Views on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-create-animated-gifs-from-3gpp-files-instantly-and-free-with-our-easy-to-use-tool-explore-movavis-solutions/"><u>1. Create Animated GIFs From 3GPP Files Instantly & Free with Our Easy-to-Use Tool - Explore Movavi's Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-open-srt-soundtrack-on-windowsmacos/"><u>2024 Approved Open SRT Soundtrack on Windows/macOS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-connectivity-embedding-live-streams-from-twitch-to-fb/"><u>2024 Approved Social Media Connectivity Embedding Live Streams From Twitch to FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-ioswindows13/"><u>自由選擇便利使用: Android, iOS及Windows上，13種優秀文字轉成語音器件</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-formatos-de-audio-gratuitamente-con-el-sitio-web-de-movavi-transforme-sus-archivos-au-en-formato-mp3/"><u>Convertir Formatos De Audio Gratuitamente Con El Sitio Web De Movavi: Transforme Sus Archivos .au en Formato MP3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-performance-solutions-to-stop-stuttering-and-crashes-in-serious-sam-4-on-windows-computers/"><u>Enhancing Gaming Performance: Solutions to Stop Stuttering & Crashes in Serious Sam ^4 on Windows Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/las-nuevas-adiciones-excelsantes-a-la-estacion-de-trabajo-cinematografica-de-movavi/"><u>Las Nuevas Adiciones Excelsantes a La Estación De Trabajo Cinematográfica De Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-texts-on-iphone-heres-how-to-restore-sync-with-android-phones/"><u>Missing Texts on iPhone? Here's How to Restore Sync with Android Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/passare-da-flac-a-wma-online-senza-costi-effettoconvertitore-facile-e-gratuito/"><u>Passare Da FLAC a WMA Online Senza Costi - EffettoConvertitore Facile E Gratuito</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-xc10100bf-file-playback-error/"><u>Strategies to Address XC10100BF File Playback Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-dangers-in-user-interface-traps/"><u>The Hidden Dangers in User Interface Traps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-realme-gt-5-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme GT 5 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-tiff-photos-to-jpeg-at-no-cost-step-by-step-instructions-by-movavi/"><u>Transform TIFF Photos to JPEG at No Cost: Step-by-Step Instructions by Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-windows-edition-toolkit-for-videos-for-2024/"><u>Ultimate Windows Edition Toolkit for Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uma-jornada-de-aprendizagem-na-edicao-de-videos-no-seu-dispositivo-android-com-dicas-uteis-do-movavi-clips/"><u>Uma Jornada De Aprendizagem Na Edição De Vídeos No Seu Dispositivo Android Com Dicas Úteis Do Movavi Clips</u></a></li>
 </ul></div>
 

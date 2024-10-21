@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices Comprehensive Guide"
-date: 2024-10-05T17:48:03.649Z
-updated: 2024-10-09T17:41:19.188Z
+date: 2024-10-18T23:23:13.572Z
+updated: 2024-10-21T22:04:57.943Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -79,10 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -96,13 +96,6 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -141,10 +134,10 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -162,6 +155,13 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -218,22 +218,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-jokes-just-a-click-away-iphone-for-2024/"><u>[Updated] Jokes Just a Click Away (iPhone) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>[Updated] Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-maximize-your-mobile-experience-streaming-ultra-hd-content-from-youtube-on-iphone-and-ipad/"><u>1. Maximize Your Mobile Experience: Streaming Ultra HD Content From YouTube on iPhone and iPad</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages-for-2024/"><u>Chuckling and Crying on the Same IG Feed Top Memetic Pages for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-you-can-monitor-post-distribution-across-facebook-networks/"><u>Discover How You Can Monitor Post Distribution Across Facebook Networks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/do-it-yourself-simple-effective-strategies-for-refreshing-home-audio-peripherals/"><u>Do It Yourself: Simple, Effective Strategies for Refreshing Home Audio Peripherals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-install-the-latest-version-of-zoom-for-desktop-users/"><u>Easy Steps to Install the Latest Version of Zoom for Desktop Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-gpio-device-driver-instant-access/"><u>Get the Latest AMD GPIO Device Driver – Instant Access</u></a></li>
-<li><a href="https://techtrends.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-false-friends-on-social-media/"><u>Identifying Inauthentic Connections: A Guide to Recognizing False Friends on Social Media</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-drivers-free-download-for-windows-10-users/"><u>Latest Intel USB 3.0 Drivers - Free Download for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/no-physical-remote-heres-how-you-still-control-your-roku-tv/"><u>No Physical Remote? Here's How You Still Control Your Roku TV!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rescuing-your-soaked-ios-device-expert-tips-and-tricks/"><u>Rescuing Your Soaked iOS Device: Expert Tips & Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/resolved-how-to-overcome-the-steam-locked-content-file-error-efficiently/"><u>Resolved! How to Overcome the Steam 'Locked Content File' Error Efficiently</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3dx930dll-file-not-present-issues-on-your-pc/"><u>Resolving d3dx9_30.dll File Not Present Issues on Your PC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-big-on-youtube-how-much-do-ad-revenues-add-up-in-2024/"><u>Scoring Big on YouTube How Much Do Ad Revenues Add Up, In 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-des-10-applications-de-conversion-video-sans-frais-sur-windows-10-selection-officielle-pour-lannee-2023/"><u>Top Des 10 Applications De Conversion Vidéo Sans Frais Sur Windows 10 - Sélection Officielle Pour L'année 2023</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-factory-reset-your-pcs-bios/"><u>Ultimate Guide: Steps to Factory Reset Your PC's BIOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[New] 2024 Approved Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tarting-channels-right-youtube-equipment-101/"><u>[New] Starting Channels Right YouTube Equipment 101</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cut-to-perfection-producing-captivating-loop-content-for-instagram/"><u>[Updated] Cut to Perfection Producing Captivating Loop Content for Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-mov-in-formato-aiff-con-la-piattaforma-web-gratuitaiffy-di-movemovi/"><u>Conversione MOV in Formato AIFF Con La Piattaforma Web GratuitAiffy Di MoveMovi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-gratuitement-en-ligne-un-fichier-wmv-en-format-mp4-movavi/"><u>Convertir Gratuitement en Ligne Un Fichier WMV en Format MP4 - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-ai-unveiled-at-taipei-expo-2024/"><u>Future of AI Unveiled at Taipei Expo 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boy-reimagined-linux-terminal-edition/"><u>Game Boy Reimagined: Linux Terminal Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-surface-book-n-drivers-a-simple-downloading-and-updating-tutorial/"><u>Get the Latest Surface Book N Drivers - A Simple Downloading & Updating Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m4v-afbeeldingen-in-wms-kletsen-voor-zwdaarom-eenvoudig-gratis-en-betrouwbaar-met-movavi-converter/"><u>M4V-Afbeeldingen in Wms Kletsen Voor ZwDaarom - Eenvoudig, Gratis en Betrouwbaar Met Movavi Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-mp3-3gp/"><u>Movavi 全功能：無限制上網 MP3 轉化成 3GP影片</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-wi-fi-jpg-jpeg/"><u>Movavi의 실시간 제공 Wi-Fi 안전한 JPG 대신 JPEG 교체 서비스 - 무료</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-missing-osetupdll-errors-on-your-pc-step-by-step-guide/"><u>Resolving Missing osetup.dll Errors on Your PC - Step by Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/section-2b-five-factfactors-that-shape-employee-attitudes-toward-work/"><u>Section 2B: Five Fact.factors that Shape Employee Attitudes Toward Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shrink-your-gifs-with-ease-discover-the-best-movavi-programs-ranked-1-6-for-ultimate-image-slimming-solutions/"><u>Shrink Your GIFs with Ease! Discover the Best Movavi Programs Ranked #1-#6 for Ultimate Image Slimming Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transferez-gratuitement-un-fichier-aiff-vers-format-mov-en-ligne-convertisseur-video-movavi/"><u>Transférez Gratuitement Un Fichier AIFF Vers Format MOV en Ligne - Convertisseur Vidéo Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-to-top-8-android-collaboration-platforms-for-2024/"><u>Ultimate Guide to Top 8 Android Collaboration Platforms for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/voice-over-wifi-viber-out-evaluation-is-it-worth-switching/"><u>Voice over WiFi (Viber Out) Evaluation: Is It Worth Switching?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aacaiff-movavi/"><u>オンラインで免許なし、フリーのAACからAIFFへの直接変換 - Movavi</u></a></li>
 </ul></div>
 

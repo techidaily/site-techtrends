@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-10-12T21:13:49.553Z
-updated: 2024-10-15T18:39:23.758Z
+date: 2024-10-14T16:26:22.077Z
+updated: 2024-10-21T17:54:31.188Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -40,10 +40,10 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,6 +54,13 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -63,10 +70,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -84,13 +91,6 @@ In the resulting window (**Figure 4**), give the new Focus a name and select a c
 Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
 
@@ -148,19 +148,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-premier-zombie-apocalypse-battles-ranking-top-titles-for-2024/"><u>[New] Premier Zombie Apocalypse Battles Ranking Top Titles for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-erase-your-online-presence-post-facebook-stories/"><u>[Updated] 2024 Approved Erase Your Online Presence Post-Facebook Stories</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-13-mini-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 13 mini Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-capture-motion-blur-photos-with-iphone/"><u>How to Capture Motion Blur Photos with iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-hyper-v-installation-on-w11-home-systems/"><u>Master the Art of Hyper-V Installation on W11 Home Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/proton-drive-enhancements-unveiling-advanced-improvements/"><u>Proton Drive Enhancements: Unveiling Advanced Improvements</u></a></li>
-<li><a href="https://techtrends.techidaily.com/qr-codes-abundant-and-unlimited-supply-debunking-the-shortage-myth/"><u>QR Codes: Abundant and Unlimited Supply – Debunking the Shortage Myth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-for-wi-fi-management-in-win-11/"><u>Quick Tips for Wi-Fi Management in Win 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-your-messages-with-telegrams-chat-folder-feature-a-must-try-for-better-organization/"><u>Streamline Your Messages with Telegram's Chat Folder Feature - A Must-Try for Better Organization</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-past-costs-of-amazon-items-methods-and-insights/"><u>Uncover Past Costs of Amazon Items: Methods and Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-recovery-emails-essential-uses-and-how-to-set-up/"><u>Understanding Recovery Emails: Essential Uses & How To Set Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-benefits-of-gigabit-speeds-is-it-time-to-upgrade-for-you-find-out-here/"><u>Unlocking the Benefits of Gigabit Speeds - Is It Time to Upgrade for You? Find Out Here!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-vivid-visions-elevating-your-photographic-skills/"><u>[New] 2024 Approved Vivid Visions Elevating Your Photographic Skills</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-microsofts-hololens-demo-the-next-leap-in-tech-experience/"><u>[New] In 2024, Microsoft’s HoloLens Demo The Next Leap in Tech Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-trending-topics-the-best-10-music-videos-on-fb/"><u>[New] In 2024, Trending Topics The Best 10 Music Videos on FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-acting-availability-pledge/"><u>[Updated] Free Acting Availability Pledge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-screening-success-10-movies-that-energize-and-empower/"><u>[Updated] Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/films-best-shot-techniques-top-5-essentials-for-2024/"><u>Film's Best Shot Techniques Top 5 Essentials for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guia-inolvidable-reiniciar-tu-pc-con-windows-11-en-sus-configuraciones-originales-conjunto-de-tecnicas-integrales/"><u>Guía Inolvidable: Reiniciar Tu PC Con Windows 11 en Sus Configuraciones Originales [Conjunto De Técnicas Integrales]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-transition-to-gpts-new-browser-features/"><u>How to Seamlessly Transition to GPT's New Browser Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-tiktok-experience-a-comprehensive-troubleshooting-manual/"><u>Revive Your TikTok Experience: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-key-factors-when-selecting-your-next-stereo-speaker-set/"><u>The Ultimate Guide: Key Factors When Selecting Your Next Stereo Speaker Set</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-when-you-encounter-a-missing-binkw32dll-issue/"><u>Troubleshooting When You Encounter a Missing binkw32.dll Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiled-now-the-newest-addition-to-apples-macbook-lineup/"><u>Unveiled Now: The Newest Addition to Apple's MacBook Lineup</u></a></li>
 </ul></div>
 

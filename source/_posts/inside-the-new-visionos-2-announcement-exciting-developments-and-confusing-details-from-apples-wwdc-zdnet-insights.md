@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-10-09T16:17:04.152Z
-updated: 2024-10-15T16:21:06.048Z
+date: 2024-10-18T22:43:09.739Z
+updated: 2024-10-21T20:17:28.488Z
 tags:
   - apple
 categories:
@@ -42,18 +42,18 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -62,6 +62,13 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -87,6 +94,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1599a1fd-b080-4e5b-ae5c-a67c38755459%7Cdtp&dtb=1). 
@@ -94,13 +108,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -112,13 +119,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -129,10 +129,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -179,16 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-filming-techniques-on-tiktok-platforms/"><u>[New] 2024 Approved Mastering Filming Techniques on TikTok Platforms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-macwebcam-tutorial-filming-basics-decoded/"><u>[New] In 2024, MacWebCam Tutorial Filming Basics Decoded</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pixel-perfection-leading-ps5-compatible-hdmi-21-monitors/"><u>[New] Pixel Perfection Leading PS5 Compatible HDMI 2.1 Monitors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-picks-for-the-modern-buyer-advanced-360cams/"><u>[New] Top Picks for the Modern Buyer Advanced 360Cams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-youtube-videos-hands-free-with-leading-chrome-web-saver-apps/"><u>Download YouTube Videos Hands-Free with Leading Chrome Web Saver Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-your-favorite-tumblr-songs-and-videos-for-free-on-mobile-and-desktop-devices/"><u>Get Your Favorite Tumblr Songs & Videos For Free on Mobile & Desktop Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-playback-problems-when-using-a-beachbody-exercise-dvd-for-perfect-workouts/"><u>How to Resolve Playback Problems When Using a Beachbody Exercise DVD for Perfect Workouts</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/insiders-approach-to-webinar-preservation-for-2024/"><u>Insider's Approach to Webinar Preservation for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-10macx-mediatransiphoneitunes/"><u>IOS 10対応版のMacX MediaTransでiPhoneを正常に同期：iTunes認識不能？</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-strategy-to-clear-your-facebook-chronicle/"><u>The Ultimate Strategy to Clear Your Facebook Chronicle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>[New] 2024 Approved The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-demographic-relevance-for-higher-youtube-rankings-for-2024/"><u>[Updated] Demographic Relevance for Higher YouTube Rankings for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-google-pixel-fold-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Google Pixel Fold Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-quickly-transform-wav-files-into-m4a-format-with-movavi/"><u>Free Online Tool: Quickly Transform WAV Files Into M4A Format with Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-hot-30-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Hot 30 5G.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-motorola-mg7700-assessment-a-study-of-dependable-velocity/"><u>In-Depth Motorola MG7700 Assessment - A Study of Dependable Velocity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-with-manycam-top-features-of-a-virtual-webcam-solution/"><u>Live Streaming Made Easy with ManyCam: Top Features of a Virtual Webcam Solution.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-virtual-cameras/"><u>Live Streaming Made Easy: Discover the Power of ManyCam Virtual Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-manycam-top-choice-in-virtual-webcams-and-editing-tools/"><u>Live Streaming Made Easy: ManyCam - Top Choice in Virtual Webcams and Editing Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-professional-virtual-webcam-app/"><u>Live Streaming Mastery with ManyCam: Professional Virtual Webcam App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-video-editing-tool-and-online-webcam-solution/"><u>Live Streaming Mastery: Discover ManyCam, the Ultimate Video Editing Tool & Online Webcam Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-enhancing-your-videos-with-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Enhancing Your Videos with ManyCam - The Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-top-manycam-features-and-online-broadcasting-tools/"><u>Live Streaming Mastery: Top ManyCam Features and Online Broadcasting Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/modern-seismic-design-codes-incorporate-factors-like-material-ductility-redundancy-and-energy-dissipating-devices-to-reduce-the-risk-of-these-failure-modes-228/"><u>Modern Seismic Design Codes Incorporate Factors Like Material Ductility, Redundancy, and Energy-Dissipating Devices to Reduce the Risk of These Failure Modes During an Earthquake</u></a></li>
 </ul></div>
 

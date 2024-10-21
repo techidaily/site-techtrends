@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Subtitles in MKV Format on Windows and Mac with Movavi"
-date: 2024-09-10 21:32:57
-updated: 2024-09-13 12:23:17
+date: 2024-10-14T16:31:10.946Z
+updated: 2024-10-21T19:03:51.809Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4fb99ee9f899025e02ab5d17.jpg
@@ -166,6 +166,13 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -192,6 +199,13 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à jour les pilotes de votre GPU
 
 Le GPU (Graphics Processing Unit) est crucial pour votre expérience de jeu et pour les performances de votre PC dans les jeux, mais vous devez maintenir les pilotes de votre GPU à jour pour en profiter. De plus, un pilote obsolète peut entraîner des bogues, des problèmes et des pannes du système. Nous vous recommandons donc de prendre ce problème au sérieux et de prendre soin de vos pilotes.
@@ -209,6 +223,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -298,6 +319,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -305,6 +333,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -344,6 +379,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -351,6 +393,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -459,6 +508,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -536,11 +592,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-money-from-instagram-for-2024/"><u>[New] How to Make Money From Instagram for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-master-the-art-of-podcast-writing-with-expert-guidance/"><u>[New] Master the Art of Podcast Writing with Expert Guidance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-zoom-edge-advantage-essential-insights-for-format-alteration/"><u>[Updated] In 2024, Zoom Edge Advantage Essential Insights for Format Alteration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-professionelle-lizenz-fur-winx-dvd-ripper-gold-version-erwerben/"><u>1. Professionelle Lizenz Für WinX DVD-Ripper Gold Version Erwerben</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-ultimate-dvd-converter-pro-effortless-format-transfers-and-gpu-enhanced-playback/"><u>1. Ultimate DVD Converter Pro: Effortless Format Transfers and GPU-Enhanced Playback</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/accelerated-actions-fastest-lite-android-picks/"><u>Accelerated Actions: Fastest Lite Android Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converter-dvd-gratuitamente-para-mp3-no-ano-2023-solucoes-top-recomendadas-para-usuarios-do-windows-and-macos/"><u>Converter DVD Gratuitamente Para MP3 No Ano 2023: Soluções Top Recomendadas Para Usuários Do Windows & MacOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/gameplay-streaming-tools-revealed-obs-or-fraps-in-2024/"><u>Gameplay Streaming Tools Revealed OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-hot-40-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Hot 40 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-v29-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo V29 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-snapchat-through-your-computer-screen/"><u>Mastering Snapchat Through Your Computer Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/score-the-latest-tech-deal-apple-watch-series-10-at-an-unbeatable-price-of-99-on-preorder-via-best-buy-detailed-steps-inside/"><u>Score the Latest Tech Deal: Apple Watch Series 10 at an Unbeatable Price of $99 on Preorder via Best Buy - Detailed Steps Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-of-vlc-media-player-troubleshooting-hdr-compatibility-for-crystal-clear-4k-video-experience/"><u>Solving the Puzzle of VLC Media Player: Troubleshooting HDR Compatibility for Crystal Clear 4K Video Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-ottimizzatori-di-contenuti-multimediale-con-intelligenza-artificiale-gratis-per-pc-e-mac/"><u>Top 10 Ottimizzatori Di Contenuti Multimediale Con Intelligenza Artificiale Gratis per PC E Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trick-or-treat-yourself-join-the-hauntingly-good-2020-halloween-dvd-contest/"><u>Trick or Treat Yourself - Join the Hauntingly Good 2020 Halloween DVD Contest!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-incorrect-media-detected-on-your-dvd-player/"><u>Troubleshooting Tips: Resolving 'Incorrect Media Detected' On Your DVD Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-avi-file-extension-exploring-audio-video-interleave-in-dvd-creation/"><u>Understanding the AVI File Extension: Exploring Audio Video Interleave in DVD Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvideo-ai-ultimate-video-tutorial-and-user-guide-enhance-videos-with-audio-improvement-transcription-editing-compression-and-conversion-techniques/"><u>Winxvideo AI: Ultimate Video Tutorial & User Guide - Enhance Videos with Audio Improvement, Transcription, Editing, Compression, and Conversion Techniques</u></a></li>
+</ul></div>
+

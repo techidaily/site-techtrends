@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2024-10-15T04:31:16.454Z
-updated: 2024-10-16T06:49:37.254Z
+date: 2024-10-16T20:29:08.274Z
+updated: 2024-10-21T19:34:30.419Z
 tags:
   - apple
 categories:
@@ -32,26 +32,26 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -66,16 +66,16 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -90,6 +90,13 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -117,13 +124,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,24 +169,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-diving-into-zoom-breakout-room-setups-for-2024/"><u>[New] Diving Into Zoom Breakout Room Setups for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-enhancing-detail-in-youtube-clips/"><u>[Updated] 2024 Approved Enhancing Detail in YouTube Clips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-expertise-in-action-mastering-iphone-silhouette-art/"><u>[Updated] Expertise in Action Mastering iPhone Silhouette Art</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-change-voice-on-tiktok-step-by-step-tutorial-for-2024/"><u>[Updated] How to Change Voice on TikTok? [Step by Step Tutorial] for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023s-top-8-video-sensations-a-facebook-deep-dive/"><u>[Updated] In 2024, 2023'S Top 8 Video Sensations A Facebook Deep Dive</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-soundtrack-of-stills-visual-audio-crafting/"><u>2024 Approved The Soundtrack of Stills Visual-Audio Crafting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experiencing-zoom-lag-whats-the-culprit-internet-or-you/"><u>Experiencing Zoom Lag - What's the Culprit, Internet or You?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-hardware-with-tom-a-comprehensive-guide/"><u>Exploring Hardware with Tom: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facing-glitches-in-nintendos-cloud-gaming-service-is-it-a-widespaster-or-individual-problem/"><u>Facing Glitches in Nintendo's Cloud Gaming Service – Is It a Widespaster or Individual Problem?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a2-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo A2 Phone without Any Data Loss</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-savor-the-hype-the-best-of-the-best-15-culinary-creations-from-tiktoks-food-influencers/"><u>In 2024, Savor the Hype The Best of the Best 15 Culinary Creations From TikTok’s Food Influencers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-powerhouses-revealed-your-guide-to-the-planets-10-most-influential-websites/"><u>Online Powerhouses Revealed: Your Guide to the Planet’s 10 Most Influential Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ordered-guide-how-to-watch-the-entire-dragon-ball-series/"><u>Ordered Guide: How to Watch the Entire Dragon Ball Series</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-challenge-of-a-non-existent-or-unfound-d3dx934dll-file/"><u>Overcoming the Challenge of a Non-Existent or Unfound d3dx9_34.dll File</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722860152820-revolutionize-your-painting-task-with-these-4-handy-painting-apps/"><u>Revolutionize Your Painting Task with These 4 Handy Painting Apps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/stay-connected-anywhere-with-tp-links-compact-tl-wr902ac-travel-wi-fi-router/"><u>Stay Connected Anywhere with TP-Link's Compact TL-WR902AC Travel Wi-Fi Router</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-inner-workings-of-e-bikes-explained-for-enthusiasts/"><u>The Inner Workings of E-Bikes Explained for Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-new-brain-teasing-challenges-for-iphoneipad-reminiscent-of-classics-like-the-room-myst/"><u>Uncover New Brain-Teasing Challenges for iPhone/iPad Reminiscent of Classics Like The Room, Myst</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-did-my-car-speakers-stop-working/"><u>Why Did My Car Speakers Stop Working?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture-for-2024/"><u>[New] Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ice-warriors-top-performances-at-2022-olympics/"><u>2024 Approved Ice Warriors Top Performances at 2022 Olympics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-free-screen-recording-apps-reviewed-and-ranked-for-2024/"><u>Best Free Screen Recording Apps Reviewed & Ranked for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-variances-ipad-pro-mini-m4-vs-macbook-air-m3-an-in-depth-analysis/"><u>Decoding the Variances: IPad Pro Mini (M4) Vs. MacBook Air (M3) – An In-Depth Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delve-into-unknown-emoji-knowledge-discover-our-top-10-most-amazing-findings/"><u>Delve Into Unknown Emoji Knowledge – Discover Our Top 10 Most Amazing Findings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-patch-tuesday-enhance-it-security-for-organizations-worldwide/"><u>How Does Patch Tuesday Enhance IT Security for Organizations Worldwide?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-youtubes-economic-model-month-to-month-income/"><u>In 2024, YouTube's Economic Model Month-to-Month Income?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-rekindling-lost-conversations-in-bumble/"><u>Mastering The Art of Rekindling Lost Conversations in Bumble</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/quick-solution-not-all-icloud-backups-work-on-your-ios-update/"><u>Quick Solution: Not All iCloud Backups Work on Your iOS Update</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-beginners-guide-to-easy-multi-snap-chat-videos-and-edits-for-2024/"><u>The Beginner's Guide to Easy Multi-Snap Chat Videos & Edits for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-timed-publishing-for-x-and-twitter-accounts/"><u>The Ultimate Guide to Timed Publishing for X and Twitter Accounts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/top-10-ai-subtitle-translators-for-content-creators-for-2024/"><u>Top 10 AI Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-your-logitech-mouse-effortlessly/"><u>Ultimate Guide: Connecting Your Logitech Mouse Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-ultimate-icloud-mail-security-mastering-two-factor-authentication-setup/"><u>Unlocking Ultimate iCloud Mail Security: Mastering Two-Factor Authentication Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Exclusive Savings on Laptops for July 2Vee - Featured Selection by ZDNet
-date: 2024-10-13T22:47:43.743Z
-updated: 2024-10-16T01:19:45.541Z
+date: 2024-10-16T22:13:27.347Z
+updated: 2024-10-21T19:14:43.444Z
 tags:
   - apple
 categories:
@@ -97,19 +97,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ee85d8c-f8ab-4a63-8d7d-cdb5bbf528d1%7Cdtp&dtb=1)
@@ -123,13 +110,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ee85d8c-f8ab-4a63-8d7d-cdb5bbf528d1%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ee85d8c-f8ab-4a63-8d7d-cdb5bbf528d1%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -165,13 +145,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -194,21 +167,28 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
+<span id="1531879">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -220,12 +200,26 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -277,22 +271,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-getting-the-most-out-of-your-game-with-fraps/"><u>[New] In 2024, Getting the Most Out of Your Game with Fraps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[New] In 2024, Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-whos-gaining-thunder-in-the-video-cosmos/"><u>[New] Who's Gaining Thunder in the Video Cosmos?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ultimate-audio-treasures-for-video-crafting/"><u>[Updated] 2024 Approved Ultimate Audio Treasures for Video Crafting</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x9a-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X9a</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookie-settings-unleashed-how-to-allow-them-in-your-internet-explorergoogle-chromemozilla-firefox/"><u>Cookie Settings Unleashed: How To Allow Them In Your Internet Explorer/Google Chrome/Mozilla Firefox</u></a></li>
-<li><a href="https://techtrends.techidaily.com/do-you-experience-authentic-dolby-atmos-surround-sound-at-home/"><u>Do You Experience Authentic Dolby Atmos Surround Sound at Home?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/finding-the-perfect-performance-level-for-your-personal-pc/"><u>Finding the Perfect Performance Level for Your Personal PC</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/free-tune-in-top-strategies-for-streaming-music-at-no-cost-using-superior-audio-players/"><u>Free Tune-In: Top Strategies for Streaming Music at No Cost Using Superior Audio Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-update-the-time-setting-on-an-amazon-kindle-paperwhite-with-ease/"><u>How to Update the Time Setting on an Amazon Kindle Paperwhite with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-roku-without-the-clicker-unconventer-control-techniques-explored/"><u>Navigating Roku without the Clicker: Unconventer Control Techniques Explored</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-connection-issues-between-iphone-and-windows-10-itunes-troubleshooting-guide/"><u>Resolved: Fixing Connection Issues Between iPhone and Windows 10 - ITunes Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/switching-to-claude-3-heres-why-it-beats-gpt-3/"><u>Switching to Claude 3? Here's Why It Beats GPT-3</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-9-essential-skype-interview-strategies/"><u>Top 9 Essential Skype Interview Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-stop-code-0x0000005c-your-comprehensive-fixes/"><u>Troubleshooting Stop Code 0X0000005C - Your Comprehensive Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-claudes-ai-technology-why-it-stands-out/"><u>Understanding Claude's AI Technology: Why It Stands Out</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-503-service-temporarily-unavailable-message-and-solutions/"><u>Understanding the 503 Service Temporarily Unavailable Message & Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-through-the-noise-strategies-for-standout-instagram-success/"><u>[New] Cutting Through the Noise Strategies for Standout Instagram Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-revolutionize-your-videography-workflow-recordingediting-on-adobe-connect/"><u>[Updated] 2024 Approved Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-videotwit-extractor-directly-download-tweeted-media-for-mobile/"><u>[Updated] 2024 Approved VideoTwit Extractor Directly Download Tweeted Media for Mobile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-crucial-tips-for-buying-an-ipad-on-sale-or-pre-owned/"><u>5 Crucial Tips for Buying an iPad on Sale or Pre-Owned</u></a></li>
+<li><a href="https://win11.techidaily.com/beating-back-blue-screens-in-your-daily-computing-life/"><u>Beating Back Blue Screens in Your Daily Computing Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-apps-for-language-education-2024-edition/"><u>Best Free Apps for Language Education, 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-long-is-the-validity-period-of-your-mailcom-email-address/"><u>How Long Is the Validity Period of Your mail.com Email Address?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/igtv-content-expansion-direct-sharing-on-facebook-platform/"><u>IGTV Content Expansion Direct Sharing on Facebook Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-tricks-for-logitech-keyboards-explained/"><u>Mastering the Art of Screenshots: Tricks for Logitech Keyboards Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-guide-download-and-update-intel-rst-drivers/"><u>Quick & Easy Guide: Download & Update Intel RST Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Linking AirPods and MacBook Air Devices
-date: 2024-10-12T05:19:53.043Z
-updated: 2024-10-16T03:48:18.335Z
+date: 2024-10-19T22:43:02.184Z
+updated: 2024-10-21T17:22:20.414Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Linking AirPods and MacBook Air Devices
@@ -32,6 +32,14 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 1. Click the**Apple** menu in the top left corner, then click**System Settings or System Preferences** .  
 ![System Settings from the Apple menu in macOS.](https://www.lifewire.com/thmb/RV3WC-OSvMcKyguMtnNOLltQpxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_connect-airpods-to-macbook-air-5188769-8bd1663aa3354508b8e8efb92e8af0ad.jpg)
 2. Click**Bluetooth** . Toggle Bluetooth on or click**Turn Bluetooth On** . Keep this window open for the next few steps.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Bluetooth toggle from System Settings in macOS.](https://www.lifewire.com/thmb/xDyy0-wNQe-XeQ-GMd0y--hFjXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_connect-airpods-to-macbook-air-5188769-7b8ab0bf74af49d7a60326f58903a997.jpg)
 3. With both AirPods in the charging case, open the lid. Press the button on the AirPods case until the status light starts to blink.  
 ![The setup button on the AirPods case](https://www.lifewire.com/thmb/UluEXY72qkp63Gp8Wqrn11pixNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_connectairpods3-aa8835d06ca5488ea04a6597909f5872-72c6445e2b43481781ff26466cef507f.jpg)
@@ -41,20 +49,13 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 5. In a moment, the AirPods will be connected to your MacBook Air and you'll be ready to listen to audio.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can You Connect Two Pairs of AirPods to One MacBook Air?
 
@@ -66,26 +67,26 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The Audio MIDI Setup app from the Utilities folder in macOS.](https://www.lifewire.com/thmb/hDuapYeU0qS6jTic9j1qPLdfWRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_connect-airpods-to-macbook-air-5188769-1ed53dd151a7494d9e1818845e825a07.jpg)
 2. Click the**\+ (Plus)** sign, then select**Create Multi-Output Device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Create Multi-Output Device option from the add menu in the Audio MIDI Setup app in macOS.](https://www.lifewire.com/thmb/MqndcghTr5gA9bPNn5_9SqqiyRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_connect-airpods-to-macbook-air-5188769-5664d35fbbc2464d80a4f714c5955221.jpg)
 3. Check the box next to the two sets of AirPods. In the**Master Device** drop-down, choose your AirPods. Check the**Drift Correction** box next to your friend's AirPods.  
 ![AirPods selected and one set to Drift Correction in Audio MIDI Setup in macOS.](https://www.lifewire.com/thmb/OiH8Qk5hsmap5RKxp1rTMtNuzG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-connect-airpods-to-macbook-air-5188769-fba01d5c7c96478f9e3070fc2bdcfa7c.jpg)
 4. Go to the**Apple** menu >**System Settings** or**System Preferences** \>**Sound** \>**Output** \>**Multi-Output Device** . With that done, the MacBook Air's audio is sent to both sets of AirPods.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A Multi-Output Device selected from the Output tab in macOS Sound settings.](https://www.lifewire.com/thmb/WcwsnAzXRRb5xQABJalZ7xjF9eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-connect-airpods-to-macbook-air-5188769-40b916aaa66f4d22a180b33f9422adfc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Won't My AirPods Connect to My MacBook Air?
 
@@ -127,18 +128,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-strategy-breakthroughs-in-packaging/"><u>[New] Strategy Breakthroughs in Packaging</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728479674124-windows-11/"><u>已验证功能：如何在Windows 11中恢复缺失的桌面文件图标</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-of-the-google-pixel-8a-exceptional-features-at-a-questionable-price-point/"><u>Comprehensive Analysis of the Google Pixel 8a - Exceptional Features at a Questionable Price Point</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-evaluation-of-the-mophie-juice-pack-for-iphone-15-great-battery-boost-with-some-tradeoffs/"><u>Comprehensive Evaluation of the Mophie Juice Pack for iPhone 15: Great Battery Boost with Some Tradeoffs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-evaluation-of-ugreen-nexode-pro-65w-charging-station-your-ultimate-usb-c-solution/"><u>Comprehensive Evaluation of Ugreen Nexode Pro 65W Charging Station: Your Ultimate USB-C Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-baseus-powercombo-multi-functional-mini-power-strip-5-in-1-67w-a-must-have-for-efficient-energy-management/"><u>Comprehensive Review of Baseus PowerCombo Multi-Functional Mini Power Strip (5-in-1, 67W): A Must-Have for Efficient Energy Management</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-switchbot-review-a-closer-look-at-its-multi-functional-capabilities/"><u>Comprehensive SwitchBot Review: A Closer Look at Its Multi-Functional Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-mighty-performance-of-ankers-soundcore-boom-2-stellar-sound-quality-and-impressive-bass-in-a-compact-design/"><u>Discover the Mighty Performance of Anker's Soundcore Boom 2 – Stellar Sound Quality and Impressive Bass in a Compact Design</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-8-best-free-3d-video-player-for-window-and-mac/"><u>In 2024, 8 Best Free 3D Video Player for Window and Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715860564179-in-2024-activating-built-in-screen-recorders-mate-1020-and-p-series-devices-p20-p10/"><u>In 2024, Activating Built-In Screen Recorders Mate 10/20 & P-Series Devices (P20, P10).</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s18-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S18 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-lenovo-thinkpad-x1-nano-the-ultimate-guide-to-a-portable-workhorse/"><u>Unveiling the Lenovo ThinkPad X1 Nano: The Ultimate Guide to a Portable Workhorse</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/vegas-promp4movavi/"><u>VEGAS Proを使ってMP4/MOV/AVIフォーマットの動画が正しく表示されるようにする方法</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elite-workplace-cloud-data-haven/"><u>[Updated] 2024 Approved Elite Workplace Cloud Data Haven</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-anon-mode-unveiling-instagram-stories-across-oses/"><u>[Updated] Anon Mode Unveiling Instagram Stories Across OSes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-visuals-the-power-of-customized-luts/"><u>2024 Approved Transforming Visuals The Power of Customized LUTs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-new-google-pixel-10-pricing-predictions-release-dates-and-speculative-features/"><u>All You Need to Know About the New Google Pixel 10 - Pricing Predictions, Release Dates, and Speculative Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-in-house-digital-tv-quality-the-power-of-an-indoor-antenna-guide/"><u>Boosting In-House Digital TV Quality: The Power of an Indoor Antenna Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-performance-four-routes-to-windows-disk-explorer/"><u>Enhancing Performance: Four Routes to Windows Disk Explorer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/home-tech-support-quick-solutions-to-resolve-your-tvs-prevalent-problems/"><u>Home Tech Support: Quick Solutions to Resolve Your TV's Prevalent Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-firestick-remote-from-complete-disarray/"><u>Step-by-Step Guide: Reviving Your Firestick Remote From Complete Disarray</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-ideais-mais-confiaveis-para-desenho-de-identidade-visual-zero-costos-na-web/"><u>Top 15 Ideais Mais Confiáveis Para Desenho De Identidade Visual Zero-Costos Na Web</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-fortnite-corrective-steps-for-the-lack-of-permission-message/"><u>Unlocking Fortnite: Corrective Steps for the 'Lack of Permission' Message</u></a></li>
 </ul></div>
 

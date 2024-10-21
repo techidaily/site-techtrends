@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2024-10-05T22:44:06.637Z
-updated: 2024-10-10T00:37:48.184Z
+date: 2024-10-20T23:09:14.689Z
+updated: 2024-10-21T19:24:14.289Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -29,14 +29,14 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -47,21 +47,28 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
@@ -89,10 +96,16 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -145,21 +158,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-backwards-viewing-a-new-lens-for-analyzing-youtube-content-for-2024/"><u>[New] Backwards Viewing A New Lens for Analyzing YouTube Content for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-scrutinizing-the-advanced-features-of-dji-phantom-3/"><u>[New] Scrutinizing the Advanced Features of DJI Phantom 3</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-command-center-conundrums-deciphering-best-cloud-solutions/"><u>2024 Approved Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-the-lowdown-on-apples-anticipated-domestic-companion-bot-price-estimates-release-windows-and-tech-insights/"><u>Get the Lowdown on Apple's Anticipated Domestic Companion Bot: Price Estimates, Release Windows, and Tech Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-14-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 14 Plus online without SIM Card?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-spys-guide-to-unearthing-hidden-youtube-videos/"><u>In 2024, The Spy's Guide to Unearthing Hidden YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-command-line-start-command-prompt-within-directories/"><u>Master the Command Line: Start Command Prompt Within Directories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screen-captures-on-windows-and-mac-computers/"><u>Mastering the Art of Screen Captures on Windows and Mac Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/order-of-the-matrix-films-a-step-by-step-watchlist/"><u>Order of The Matrix Films - A Step-by-Step Watchlist</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-converting-and-importing-wmv-files-into-final-cut-pro/"><u>Step-by-Step Guide: Converting and Importing WMV Files Into Final Cut Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-accepting-shared-photographic-albums-on-ios-devices/"><u>Step-by-Step Instructions for Accepting Shared Photographic Albums on iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-basics-of-biometric-identification-systems-explained/"><u>The Basics of Biometric Identification Systems Explained</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-subtle-art-of-digital-etiquette-in-connection-requests/"><u>The Subtle Art of Digital Etiquette in Connection Requests</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-gifts-for-junior-video-game-enthusiasts-preferred-systems-and-accessories/"><u>Ultimate Gifts for Junior Video Game Enthusiasts: Preferred Systems and Accessories</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-network-growth-share-igtv-videos-and-fb/"><u>Unlocking Network Growth Share IGTV Videos & FB</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-ai-driven-high-quality-editing-platform/"><u>[Updated] AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726224231290-avchdmp4/"><u>「オンラインでフリー:高品質なAVCHDからMP4への変換ツール」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-iphone-close-up-tips-for-astounding-photos/"><u>2024 Approved Innovative iPhone Close-Up Tips for Astounding Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-the-native-pdf-reader-setup-in-windows/"><u>Altering the Native PDF Reader Setup in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-rectifying-delayed-folder-upload-in-onedrive-without-hitches/"><u>Comprehensive Guide: Rectifying Delayed Folder Upload in OneDrive without Hitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertissez-un-fichier-caf-en-fichier-m4r-gratuitement-sur-internet-movavi/"><u>Convertissez Un Fichier CAF en Fichier M4R Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuit-mp4-converteren-van-caf-naar-online-movavi/"><u>Gratuit MP4-Converteren Van CAF Naar Online - Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-free-uploads-more-views-youtubes-easily-overlooked-hacks/"><u>In 2024, Free Uploads, More Views YouTube's Easily Overlooked Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-photo-retoucher-the-ultimate-image-editing-tool/"><u>Movavi Photo Retoucher: The Ultimate Image Editing Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-a-comprehensive-guide-to-choosing-best-zero-cost-audio-modification-tools-for-windows-enthusiasts/"><u>New In 2024, A Comprehensive Guide to Choosing Best Zero-Cost Audio Modification Tools for Windows Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/webp-to-jpg-image-transformation-made-simple-with-movavis-conversion-software/"><u>WebP to JPG Image Transformation Made Simple with Movavi's Conversion Software</u></a></li>
 </ul></div>
 
