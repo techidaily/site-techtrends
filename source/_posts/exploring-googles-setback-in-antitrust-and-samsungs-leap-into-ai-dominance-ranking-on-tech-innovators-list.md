@@ -1,7 +1,7 @@
 ---
 title: Exploring Google’s Setback in Antitrust and Samsung’s Leap Into AI Dominance – Ranking on Tech Innovators List
-date: 2024-10-06T22:47:55.402Z
-updated: 2024-10-10T00:09:12.641Z
+date: 2024-10-21T19:58:57.969Z
+updated: 2024-10-27T19:47:40.959Z
 tags:
   - apple
 categories:
@@ -71,23 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-choices-excellent-youtubers-screen-recording-tools/"><u>[New] 2024 Approved Top Choices Excellent YouTubers' Screen Recording Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-settled-silent-shorter-showcase-ended/"><u>[Updated] 2024 Approved Settled Silent Shorter Showcase Ended</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bings-intelligence-vs-chatgpt-unveiling-the-top-ten-discrepancies/"><u>Bing's Intelligence Vs. ChatGPT: Unveiling the Top Ten Discrepancies</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-realme-gt-5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme GT 5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-common-kernel32dll-error-messages-on-windows-computers-easily/"><u>Fix the Common Kernel32.dll Error Messages on Windows Computers Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-change-or-remove-your-personal-identification-number-for-windows-10-logins/"><u>How to Change or Remove Your Personal Identification Number for Windows 10 Logins</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-irrevocably-removing-your-yahoo-mail-account/"><u>The Ultimate Walkthrough for Irrevocably Removing Your Yahoo Mail Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tips-to-undo-an-unintended-repost-in-your-tiktok-feed/"><u>Tips to Undo an Unintended Repost in Your TikTok Feed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-apple-watch-applications-enhancing-your-slumber-experience/"><u>Top 5 Apple Watch Applications Enhancing Your Slumber Experience</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-android-centric-top-downloads-for-youtube-videos-explored/"><u>[New] 2024 Approved Android-Centric Top Downloads for YouTube Videos Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>[New] The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-windows-video-editing-software-for-professional-use/"><u>[Updated] In 2024, Essential Windows Video Editing Software for Professional Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-effortless-techniques-for-transposing-mov-files-across-platforms-windows-mac-and-online-solutions/"><u>1. Effortless Techniques for Transposing Mov Files Across Platforms: Windows, Mac, and Online Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-dacs-why-are-they-important-for-your-audio-setup/"><u>All About DACs: Why Are They Important for Your Audio Setup?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-transfer-and-run-windows-11-on-a-fresh-hardware-setup/"><u>How to Successfully Transfer and Run Windows 11 on a Fresh Hardware Setup</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-gameplay-essential-steps-5-tips-for-mac-users/"><u>Master Your Gameplay: Essential Steps (5 Tips) for Mac Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-rapid-driver-installation-for-dell-g7-systems/"><u>Quick Guide: Rapid Driver Installation for Dell G7 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-for-creating-engaging-tiktok-duets/"><u>Step-by-Step Strategies for Creating Engaging TikTok Duets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-the-infamous-code-28-on-your-pc/"><u>Troubleshooting and Solving the Infamous Code ^[[2]8 on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-enabling-and-using-pip-feature-on-android-devices/"><u>Ultimate Tips for Enabling and Using PiP Feature on Android Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

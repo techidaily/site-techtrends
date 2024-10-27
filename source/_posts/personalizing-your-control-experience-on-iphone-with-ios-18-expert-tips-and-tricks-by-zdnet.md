@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks by ZDNET"
-date: 2024-10-14T18:03:19.365Z
-updated: 2024-10-21T19:38:15.318Z
+date: 2024-10-22T19:46:09.265Z
+updated: 2024-10-27T16:57:10.510Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,31 +58,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-getting-more-from-instagram-videos-and-photos/"><u>[New] 2024 Approved Getting More From Instagram Videos & Photos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-best-youtube-video-reaction-ideas/"><u>[New] In 2024, Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-desktop-and-mobile-capturing-team-video-conferences/"><u>[New] Mastering Desktop & Mobile Capturing Team Video Conferences</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>2024 Approved TikTok and Twittersphere Crossover The Viral Vids</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726226808594-jpegjpg-movavi/"><u>移動窗格：JPEG到JPG無限制地免費轉換 - Movavi解決方案</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-wmv-files-to-mp4-for-free-web-based-tools-with-movavicom/"><u>Convert WMV Files to MP4 For Free Web-Based Tools with Movavi.com</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converti-file-mpeg-a-formato-mp4-online-e-gratuitamente-con-movavi-prova-ora/"><u>Converti File MPEG a Formato MP4 Online E Gratuitamente Con Movavi - Prova Ora!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertir-archivos-3g2-a-formato-3gp-gratuito-en-linea-con-movavi/"><u>Convertir Archivos .3G2 a Formato .3GP Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertissez-gratuitement-les-videos-wtv-en-streaming-en-direct-grace-a-movavi/"><u>Convertissez Gratuitement Les Vidéos WTV en Streaming en Direct Grâce À Movavi</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-enriched-viewing-experience-with-these-free-downloader-apps-for-youtubes/"><u>In 2024, Enriched Viewing Experience with These Free Downloader Apps for YouTubes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>In 2024, Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-samsung-galaxy-z-fold-6-anticipated-release-cost-estimates-and-in-depth-specs-analysis/"><u>Inside Samsung Galaxy Z Fold 6: Anticipated Release, Cost Estimates, and In-Depth Specs Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-detection-issues-successfully-recognizing-the-tl-wn722n-network-adapter-in-windows-environments/"><u>Overcoming Detection Issues: Successfully Recognizing the TL-WN722N Network Adapter in Windows Environments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-mejores-aplicaciones-de-grabacion-de-pantalla-con-funcionalidad-de-tiempo-para-windows-y-mac-guia-completa/"><u>Top 7 Mejores Aplicaciones De Grabación De Pantalla Con Funcionalidad De Tiempo Para Windows Y Mac: Guía Completa</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforma-tu-audio-de-w64-a-wav-por-internet-libre-y-sin-costo-mediante-movavi/"><u>Transforma Tu Audio De W64 a WAV Por Internet Libre Y Sin Costo Mediante Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/vlc-guide-mastering-the-art-of-screen-recording-tips-and-tricks/"><u>VLC Guide: Mastering the Art of Screen Recording - Tips & Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360-for-2024/"><u>[New] Beat the Best Substitutes for Samsung's VR Camera Gear 360 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transform-your-content-expert-techniques-for-facebook-lives/"><u>[Updated] 2024 Approved Transform Your Content Expert Techniques for Facebook Lives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[Updated] 2024 Approved Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-diy-youtube-trailer-production-via-filmora-software/"><u>[Updated] In 2024, DIY YouTube Trailer Production via Filmora Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-zero-to-zoom-expertise-in-a-flash/"><u>[Updated] In 2024, From Zero to Zoom Expertise in a Flash</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crafting-a-tailored-pc-experience-versus-off-the-shelf-solutions/"><u>Crafting a Tailored PC Experience Versus Off-the-Shelf Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stream-windows-content-from-pc-to-tv-screen-via-google-casting-methods/"><u>How to Stream Windows Content From PC to TV Screen via Google Casting Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-12-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 12? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-potential-blend-the-best-of-tiktok-and-instagram-reel-artistry/"><u>In 2024, Unleash Potential Blend the Best of TikTok and Instagram Reel Artistry</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kid-friendly-gift-ideas-essential-gaming-systems-and-extras/"><u>Kid-Friendly Gift Ideas: Essential Gaming Systems and Extras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-d3dx925dll-file-missing-or-cannot-be-located-issues/"><u>Resolving d3dx9_25.dll File Missing or Cannot Be Located Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-hidden-wi-fi-passwords-on-windows-11-without-a-hitch/"><u>Revealing Hidden Wi-Fi Passwords on Windows 11 Without a Hitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-harry-potter-viewing-plan-from-sorcerers-stone-to-deathly-hallows-part-2/"><u>The Ultimate Harry Potter Viewing Plan From Sorcerer's Stone to Deathly Hallows Part 2</u></a></li>
 </ul></div>
 

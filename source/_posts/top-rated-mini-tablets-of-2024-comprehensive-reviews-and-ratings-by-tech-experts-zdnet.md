@@ -1,7 +1,7 @@
 ---
 title: Top Rated Mini Tablets of 2024 - Comprehensive Reviews & Ratings by Tech Experts | ZDNet
-date: 2024-10-05T21:19:43.037Z
-updated: 2024-10-09T21:16:14.371Z
+date: 2024-10-20T16:57:45.039Z
+updated: 2024-10-27T17:22:49.273Z
 tags:
   - apple
 categories:
@@ -26,13 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e447550-637c-42c3-b414-2bfd5c6e681c%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -48,14 +41,14 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-## Apple iPad Mini 6th Generation
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Apple iPad Mini 6th Generation
 
 ### Best small tablet overall
 
@@ -90,6 +83,13 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -120,6 +120,19 @@ Cons
 * Expensive
 * Some complaints of lag
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Boox Tab Mini C
 
 ### Best small tablet for note-taking
@@ -149,20 +162,13 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Kindle 11th generation
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet for reading
@@ -194,20 +200,19 @@ Cons
 * Performance could be better
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -232,6 +237,13 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Boox Tab Mini C        | $400      | 7.8 inches          | Electronic ink    |
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
 
@@ -266,6 +278,13 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -289,13 +308,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -343,17 +355,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-crafting-minecraft-perfect-circles-and-spheres-techniques/"><u>[Updated] In 2024, Crafting Minecraft Perfect Circles & Spheres Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722843826582-android-16-beta-revealed-free-access-info-upcoming-release-timeline-and-hardware-facts-whats-the-hype/"><u>Android 16 Beta Revealed: Free Access Info, Upcoming Release Timeline & Hardware Facts – What's the Hype?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-software-solutions-for-monitoring-hashtags-on-twitter/"><u>Best Software Solutions for Monitoring Hashtags on Twitter</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-zoom-meetings-to-your-big-screen-a-step-by-step-instructional/"><u>Connect Zoom Meetings to Your Big Screen: A Step-by-Step Instructional</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-it-when-a-mac-is-not-detecting-an-external-display/"><u>How to Fix It When a Mac Is Not Detecting an External Display</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-professional-radial-effects-step-by-step-guide-for-photoshop-experts/"><u>In 2024, Professional Radial Effects Step-by-Step Guide for Photoshop Experts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/infographic-mind-numbing-youtube-factsfigures-and-statistics-2017-for-2024/"><u>Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-effective-fixes-for-dealing-with-deathloop-pc-freezes-and-crashes/"><u>No More Frustration: Effective Fixes for Dealing with Deathloop PC Freezes & Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-2024-sony-unveil-cutting-edge-news-product-launches-and-events/"><u>The 2024 Sony Unveil: Cutting-Edge News, Product Launches & Events</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-rise-and-fall-of-google-hangouts-unveiling-its-true-identity/"><u>The Rise and Fall of Google Hangouts: Unveiling Its True Identity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-power-of-raspberry-pi-cm4-a-tribute-to-industrial-innovation/"><u>Unboxing the Power of Raspberry Pi CM4 - A Tribute to Industrial Innovation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-syncing-symphony-with-images-a-facebook-media-guide/"><u>[New] 2024 Approved Syncing Symphony with Images - A Facebook Media Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unveiling-the-most-advanced-youtube-mp3-converters/"><u>[Updated] In 2024, Unveiling the Most Advanced YouTube Mp3 Converters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-photo-editing-via-vsco-a-compreeved-guide/"><u>[Updated] In-Depth Photo Editing via VSCO A Compreeved Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-access-to-quality-sound-with-easy-vrecorder-downloads-for-2024/"><u>[Updated] Quick Access to Quality Sound with Easy VRecorder Downloads for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-cc-license-application-a-comprehensive-guide/"><u>2024 Approved Mastering CC License Application A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-the-rail-zombie-chase-top-tips-and-techniques-for-subway-surfers/"><u>Ace the Rail Zombie Chase: Top Tips and Techniques for 'Subway Surfers'</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-htc-u23-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-enters-the-spotlight-openais-latest-innovation-in-conversational-ai/"><u>ChatGPT Enters the Spotlight: OpenAI's Latest Innovation in Conversational AI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-updating-your-discord-avatar-easily/"><u>Complete Guide: Updating Your Discord Avatar Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-cross-platform-communication-a-users-guide-to-using-whatsapp-on-your-mac/"><u>Mastering Cross-Platform Communication: A User's Guide to Using WhatsApp on Your Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/premiere-guide-uploading-vids-for-youtube/"><u>Premiere Guide Uploading Vids for YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-setup-expert-advice-for-efficient-bose-soundlink-device-connection/"><u>Seamless Setup: Expert Advice for Efficient Bose Soundlink Device Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/surviving-the-elements-the-effectiveness-of-evs-under-severe-hot-or-cold-conditions/"><u>Surviving the Elements: The Effectiveness of EVs Under Severe Hot or Cold Conditions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-you-cant-see-your-wi-fi-network/"><u>Troubleshooting Tips for When You Can't See Your Wi-Fi Network</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-free-sound-blaster-z-driver-downloads-for-windows-11-systems/"><u>Ultimate Resource: Free Sound Blaster Z Driver Downloads for Windows 11 Systems</u></a></li>
 </ul></div>
 

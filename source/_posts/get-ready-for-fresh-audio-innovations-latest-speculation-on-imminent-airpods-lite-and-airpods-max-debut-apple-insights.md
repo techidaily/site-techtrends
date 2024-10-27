@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights"
-date: 2024-10-19T23:20:39.759Z
-updated: 2024-10-21T21:24:17.048Z
+date: 2024-10-25T18:09:24.272Z
+updated: 2024-10-27T17:19:01.666Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -70,18 +70,18 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -90,16 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -136,18 +130,20 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-recordings-mastering-zooms-features-for-audio-quality/"><u>[New] 2024 Approved Elevate Your Recordings Mastering Zoom's Features for Audio Quality</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-path-to-pinpointing-your-liked-content-on-facebook/"><u>[Updated] In 2024, The Path to Pinpointing Your Liked Content on Facebook</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-6s-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 6s? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-nokia-c12-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Nokia C12 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cost-free-webm-to-mp4-transformation-tool-online-moveavi/"><u>Cost-Free WebM to MP4 Transformation Tool Online - Moveavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuit-online-convertereen-van-tga-naar-tiff-professioneel-service-enkel-movavi/"><u>Gratuit Online Convertereen Van TGA Naar TIFF - Professioneel Service Enkel Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-facil-y-gratuita-para-cambiar-tu-video-3g2-a-formato-avi-en-internet-usando-movavi/"><u>Guía Fácil Y Gratuita Para Cambiar Tu Video 3G2 a Formato AVI en Internet Usando Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/iphone-video-converter-for-mac-how-to-convert-hd-videos-to-iphoneipad-compatible-format-on-your-mac/"><u>IPhone Video Converter for Mac - How to Convert HD Videos to iPhone/iPad Compatible Format on Your Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-wiskrachtig-en-gratuity-verzekerd-om-m4a-vormige-audio-bestanden-in-aac-te-veranderen-online-zonder-problemen/"><u>Movavi: Wiskrachtig en Gratuity Verzekerd Om M4A-Vormige Audio Bestanden in AAC Te Veranderen, Online Zonder Problemen.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-intellectual-appeal-of-tcls-smart-tv-a-detailed-review-of-the-32s325-roku-model-2019/"><u>The Intellectual Appeal of TCL's Smart TV – A Detailed Review of the 32S325 Roku Model (2019)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-samsung-revolution-diving-deep-into-the-ue590-monitor-review-for-2024/"><u>The Samsung Revolution - Diving Deep Into the UE590 Monitor Review for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-14-herramientas-de-creacion-para-excelentes-presentaciones-en-windows-10-softwares-avances-de-2024/"><u>Top 14 Herramientas De Creación Para Excelentes Presentaciones en Windows 10 - Softwares Avances De 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4swf-movavi/"><u>オンラインで簡単! MP4形式へのフリーSWF変換 - Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>[Updated] In 2024, Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ranking-the-best-ios-videography-tech-for-2024/"><u>[Updated] Ranking the Best iOS Videography Tech for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-the-most-popular-screen-recorders-free-version/"><u>2024 Approved Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accidentally-sent-an-important-email-heres-how-to-bring-it-back-in-outlook/"><u>Accidentally Sent an Important Email? Here's How to Bring It Back in Outlook!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/aural-adventures-next-gen-devices/"><u>Aural Adventures Next-Gen Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-leading-smartwatch-models/"><u>Discover the Leading Smartwatch Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-guide-connecting-your-zoom-call-with-smart-tv/"><u>Easy Guide: Connecting Your Zoom Call with Smart TV</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-success-secrets-maximizing-post-performance/"><u>In 2024, Instagram Success Secrets Maximizing Post Performance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quicksnap-hd-pro-logging-kit/"><u>QuickSnap HD Pro Logging Kit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-solve-the-magic-mouse-movement-error/"><u>Seamlessly Solve the Magic Mouse Movement Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartphone-refresh-cycle-finding-your-ideal-replacement-timeline/"><u>Smartphone Refresh Cycle: Finding Your Ideal Replacement Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streaming-made-easy-syncing-apple-tv-plus-with-your-chromecast/"><u>Streaming Made Easy: Syncing Apple TV Plus with Your Chromecast</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-rise-of-autofocus-aided-hdr-photography/"><u>The Rise of Autofocus Aided HDR Photography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-six-best-apps-for-monitoring-your-diet/"><u>The Ultimate List: Six Best Apps for Monitoring Your Diet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722897636212-unveiling-the-story-behind-google-hangouts-functionality-and-usage/"><u>Unveiling the Story Behind Google Hangouts: Functionality and Usage</u></a></li>
 </ul></div>
 

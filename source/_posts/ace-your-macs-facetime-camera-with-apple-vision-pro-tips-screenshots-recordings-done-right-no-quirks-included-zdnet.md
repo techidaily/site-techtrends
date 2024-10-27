@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2024-10-15T22:44:16.777Z
-updated: 2024-10-21T22:32:56.286Z
+date: 2024-10-23T17:58:28.837Z
+updated: 2024-10-27T19:15:56.423Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -54,10 +54,10 @@ I prefer the second way, which is simply to ask Siri to take the shot. All you h
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -99,10 +99,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -152,16 +152,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ai-revolution-how-artificial-intelligence-is-transforming-the-future/"><u>AI Revolution: How Artificial Intelligence Is Transforming the Future</u></a></li>
-<li><a href="https://discover-data.techidaily.com/easy-steps-retrieving-vintage-videos-and-images-from-your-computer/"><u>Easy Steps: Retrieving Vintage Videos & Images From Your Computer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-list-of-fastest-usb-wi-fi-gadgets-2024-edition/"><u>Elite List of Fastest USB Wi-Fi Gadgets - 2024 Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/live-stream-lifeline-high-quality-recorders-reviewed-in-obs-for-2024/"><u>Live Stream Lifeline High-Quality Recorders Reviewed in OBS for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-color-correction-techniques-for-2024/"><u>Mastering Color Correction Techniques for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>New In 2024, Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-fixing-msxml4dll-error-messages-in-windows/"><u>Troubleshooting Tips for Fixing Msxml4.dll Error Messages in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-list-of-compact-gaming-pcs-with-maximum-performance/"><u>Ultimate List of Compact Gaming PCs with Maximum Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-awkward-potion-crafting-in-minecraft-for-ultimate-gameplay-enhancement/"><u>Unlock the Secrets of Awkward Potion Crafting in Minecraft for Ultimate Gameplay Enhancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winning-techniques-for-newbies-in-pokemn-unite-arena/"><u>Winning Techniques for Newbies in Pokémn Unite Arena</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-free-floating-vr-without-nausea/"><u>[New] Navigating Free-Floating VR without Nausea</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-a-pros-approach-to-time-stamping-for-youtube-enthusiasts/"><u>[Updated] Unveiling a Pro's Approach to Time Stamping for YouTube Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adjusting-spotify-settings-stop-automated-podcast-suggestions-for-2024/"><u>Adjusting Spotify Settings Stop Automated Podcast Suggestions for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/altitude-achieved-a-critical-look-at-gopro-karma/"><u>Altitude Achieved A Critical Look at GoPro Karma</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-control-your-smart-home/"><u>Can ChatGPT Control Your Smart Home?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-windows-updates-an-offline-journey-150-chars/"><u>Conquering Windows Updates: An Offline Journey (150 Chars)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-ubisoft-connection-errors-comprehensive-guide-and-tips/"><u>Fixing Ubisoft Connection Errors – Comprehensive Guide and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-master-the-definitive-guide-to-playing-pokemon-go/"><u>From Novice to Master: The Definitive Guide to Playing Pokémon GO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-your-stubborn-airpods-back-on-track-resetting-made-easy/"><u>How To Get Your Stubborn AirPods Back On Track – Resetting Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quickly-address-not-found-or-missing-d3dx933dll-errors/"><u>How To Quickly Address 'Not Found' Or 'Missing' d3dx9_33.dll Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-fix-and-reset-an-unresponsive-samsung-soundbar/"><u>How to Successfully Fix and Reset an Unresponsive Samsung Soundbar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-ipads-equipped-with-onboard-navigation-systems/"><u>Identifying iPads Equipped with Onboard Navigation Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-youtube-insights-via-social-blade-mastering-your-video-metrics/"><u>In 2024, Unlock YouTube Insights via Social Blade Mastering Your Video Metrics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-custom-display-settings-in-apples-finder-full-guide-to-managing-folders-and-subfolders/"><u>Mastering the Art of Custom Display Settings in Apple's Finder - Full Guide to Managing Folders & Subfolders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-watching-fandango-on-your-apple-tv-at-home/"><u>The Ultimate Walkthrough for Watching Fandango on Your Apple TV at Home</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-gameplay-best-4k-hdmi-21-display-for-players-for-2024/"><u>Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players for 2024</u></a></li>
 </ul></div>
 

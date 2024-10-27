@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-10-20T20:02:04.346Z
-updated: 2024-10-21T20:43:44.811Z
+date: 2024-10-21T16:33:29.408Z
+updated: 2024-10-27T16:40:50.715Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -135,13 +135,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -160,10 +153,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps-for-2024/"><u>[New] Mastery Through Art The Ultimate List of FREE Mac Drawing Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-videography-guide-size-matters/"><u>2024 Approved Instagram Videography Guide - Size Matters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/engaging-and-educational-internet-games-perfect-for-little-ones/"><u>Engaging and Educational Internet Games Perfect for Little Ones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-intellectual-challenges-on-your-iphoneipad-with-games-like-the-room-myst/"><u>Enjoy Intellectual Challenges on Your iPhone/iPad with Games Like 'The Room', 'Myst'</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enunciate-elegance-tongue-twisters-for-improvement/"><u>Enunciate Elegance: Tongue Twisters for Improvement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-save-and-export-spotifys-playlists-as-readable-files-for-offline-use/"><u>How to Save and Export Spotify's Playlists as Readable Files for Offline Use</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-htc-u23-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from HTC U23 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-windows-playback-system/"><u>In 2024, Ultimate Windows Playback System</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>In 2024, Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722889994452-inside-scoop-on-the-next-apple-audio-wearable-price-release-schedule-and-leaked-specs/"><u>Inside Scoop on the Next Apple Audio Wearable - Price, Release Schedule, and Leaked Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-purchasing-the-right-tv-for-your-household-needs/"><u>Step-by-Step Guide: Purchasing the Right TV for Your Household Needs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-10-on-your-brand-new-storage-device/"><u>Step-by-Step Guide: Setting Up Windows 10 on Your Brand New Storage Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-premier-list-of-free-online-venues-for-live-sports-action/"><u>The Premier List of Free Online Venues for Live Sports Action</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-zoom-freezes-and-crashes-advanced-fixes-for-users-of-windows-11-and-10/"><u>Troubleshooting Zoom Freezes and Crashes: Advanced Fixes for Users of Windows 11 & 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-off-urgent-public-alerts-from-authorities-on-iphone/"><u>Turning Off Urgent Public Alerts From Authorities on iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-discord-downtime-a-guide-to-determine-if-its-a-server-issue-or-individual-connectivity/"><u>Understanding Discord Downtime: A Guide to Determine if It's a Server Issue or Individual Connectivity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>[New] Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ideal-editors-perfect-for-high-quality-youtube-videos/"><u>[Updated] 2024 Approved Ideal Editors Perfect for High-Quality YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoiding-spam-filters-how-to-ensure-your-emails-are-safelisted/"><u>Avoiding Spam Filters: How to Ensure Your Emails Are Safelisted</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cinematic-bliss-at-home-watch-our-picks-for-the-best-15-dolby-atmos-films/"><u>Cinematic Bliss at Home: Watch Our Picks for the Best 15 Dolby Atmos Films</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crucial-criteria-for-choosing-a-motherboard-unveiling-7-key-factors/"><u>Crucial Criteria for Choosing a Motherboard: Unveiling 7 Key Factors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/economical-essentials-for-assembling-a-budget-friendly-home-theatre/"><u>Economical Essentials for Assembling a Budget-Friendly Home Theatre</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-s17e-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo S17e</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X Flip Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-find-x7-ultra-easily-by-drfone-android/"><u>How To Unlock a Oppo Find X7 Ultra Easily?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-steam-deck-remote-play-to-stream-games-from-your-pc/"><u>How to Use Steam Deck Remote Play to Stream Games From Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-front-row-non-sports-options/"><u>In 2024, Best Front Row Non-Sports Options</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordering-up-the-ultimate-guide-to-viewing-all-transformers-films-sequentially/"><u>Ordering Up: The Ultimate Guide to Viewing All Transformers Films Sequentially</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-android-texting-problems-no-reception-fixes-explained/"><u>Solve Your Android Texting Problems – No Reception Fixes Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-the-missing-d3dx928dll-file-error/"><u>Step-by-Step Solution for the Missing d3dx9_28.dll File Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-step-by-step-process-of-finding-someones-number-online-a-comprehensive-guide/"><u>The Step-by-Step Process of Finding Someone's Number Online: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-unveils-the-best-flashlights-of-2024-professional-reviews-and-choices/"><u>ZDNet Unveils the Best Flashlights of 2024: Professional Reviews and Choices</u></a></li>
 </ul></div>
 

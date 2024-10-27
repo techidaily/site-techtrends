@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-10-18T22:43:09.739Z
-updated: 2024-10-21T20:17:28.488Z
+date: 2024-10-22T18:47:03.328Z
+updated: 2024-10-27T18:52:01.593Z
 tags:
   - apple
 categories:
@@ -42,18 +42,18 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -64,10 +64,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -95,10 +95,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -129,10 +129,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -179,20 +179,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>[New] 2024 Approved The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-demographic-relevance-for-higher-youtube-rankings-for-2024/"><u>[Updated] Demographic Relevance for Higher YouTube Rankings for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-amd-radeon-hd-7700-drivers-freshest-updates-instantly-available/"><u>Download AMD Radeon HD 7700 Drivers: Freshest Updates Instantly Available</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-google-pixel-fold-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Google Pixel Fold Location Settings | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-tool-quickly-transform-wav-files-into-m4a-format-with-movavi/"><u>Free Online Tool: Quickly Transform WAV Files Into M4A Format with Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-hot-30-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Hot 30 5G.</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-motorola-mg7700-assessment-a-study-of-dependable-velocity/"><u>In-Depth Motorola MG7700 Assessment - A Study of Dependable Velocity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-with-manycam-top-features-of-a-virtual-webcam-solution/"><u>Live Streaming Made Easy with ManyCam: Top Features of a Virtual Webcam Solution.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-virtual-cameras/"><u>Live Streaming Made Easy: Discover the Power of ManyCam Virtual Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-manycam-top-choice-in-virtual-webcams-and-editing-tools/"><u>Live Streaming Made Easy: ManyCam - Top Choice in Virtual Webcams and Editing Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-professional-virtual-webcam-app/"><u>Live Streaming Mastery with ManyCam: Professional Virtual Webcam App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-video-editing-tool-and-online-webcam-solution/"><u>Live Streaming Mastery: Discover ManyCam, the Ultimate Video Editing Tool & Online Webcam Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-enhancing-your-videos-with-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Enhancing Your Videos with ManyCam - The Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-top-manycam-features-and-online-broadcasting-tools/"><u>Live Streaming Mastery: Top ManyCam Features and Online Broadcasting Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/modern-seismic-design-codes-incorporate-factors-like-material-ductility-redundancy-and-energy-dissipating-devices-to-reduce-the-risk-of-these-failure-modes-228/"><u>Modern Seismic Design Codes Incorporate Factors Like Material Ductility, Redundancy, and Energy-Dissipating Devices to Reduce the Risk of These Failure Modes During an Earthquake</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enlarge-your-videos-thumbnail-on-youtube-easily-for-2024/"><u>[New] Enlarge Your Video's Thumbnail on YouTube Easily for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-seamlessly-add-snap-camera-to-microsoft-chats-for-2024/"><u>[Updated] How To Seamlessly Add Snap Camera to Microsoft Chats for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-smirkscribbler-visual-laughter-hub-for-2024/"><u>[Updated] SmirkScribbler Visual Laughter Hub for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[Updated] Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crafting-memorable-evenings-with-a-personalized-in-house-karaoke-event/"><u>Crafting Memorable Evenings with a Personalized In-House Karaoke Event</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rise-above-the-norm-with-these-excellent-win-11-widgets/"><u>Rise Above the Norm with These Excellent Win 11 Widgets</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-for-opening-origin-on-windows-10-and-11-systems/"><u>Solution Guide for Opening Origin on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-overcoming-stop-0x0000007b-critical-process-died-bsod-glitches/"><u>Step-by-Step Solutions for Overcoming STOP 0X0000007B Critical Process Died BSOD Glitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-blank-screens-solutions-for-computers-that-boot-without-display/"><u>Troubleshooting Blank Screens: Solutions for Computers that Boot Without Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-iphones-a-comprehensive-walkthrough-for-using-recovery-mode/"><u>Troubleshooting iPhones: A Comprehensive Walkthrough for Using Recovery Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-when-your-macos-app-wont-launch/"><u>Troubleshooting Steps When Your macOS App Won't Launch</u></a></li>
 </ul></div>
 

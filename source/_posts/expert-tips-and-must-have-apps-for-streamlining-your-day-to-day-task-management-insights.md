@@ -1,7 +1,7 @@
 ---
 title: Expert Tips & Must-Have Apps for Streamlining Your Day-to-Day Task Management - Insights
-date: 2024-10-03T19:28:53.284Z
-updated: 2024-10-09T23:57:22.725Z
+date: 2024-10-26T16:22:01.614Z
+updated: 2024-10-27T17:00:27.667Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -54,6 +61,19 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
@@ -73,6 +93,13 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -112,13 +139,6 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -156,13 +176,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -178,10 +191,10 @@ I just think of those users like more of my students. If any questions show up i
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Featured
@@ -194,10 +207,16 @@ By the way, this is also a great way to think about users, which I initially was
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## To-doing my to-do list
@@ -250,13 +269,6 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -286,18 +298,16 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-preferred-options-superior-mac-video-capture-apps/"><u>[New] 2024 Approved Preferred Options Superior Mac Video Capture Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-images-using-new-techniques/"><u>[New] In 2024, Elevate Your Images Using New Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speedy-sound-apps-phones-best-friends/"><u>[New] Speedy Sound Apps Phones' Best Friends</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-solitary-path-to-podcast-popularity/"><u>[New] The Solitary Path to Podcast Popularity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-for-implementing-bots-into-your-server-on-discord-platform/"><u>Easy Methods for Implementing Bots Into Your Server on Discord Platform</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-view-tiktok-clips-directly-on-your-tv-set/"><u>How To View TikTok Clips Directly on Your TV Set</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-13c-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi 13C 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-t2x-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo T2x 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/join-forces-with-friends-the-ultimate-tutorial-on-creating-tiktok-duets/"><u>Join Forces with Friends: The Ultimate Tutorial on Creating TikTok Duets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/star-trek-cinematic-journey-how-to-watch-movies-in-the-right-progression/"><u>Star Trek Cinematic Journey: How to Watch Movies in the Right Progression</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-zlibdll-not-found-problems/"><u>Troubleshooting Steps for 'zlib.dll Not Found' Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-connecting-your-logitech-mouse-seamlessly/"><u>Ultimate Guide: Connecting Your Logitech Mouse Seamlessly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-jaunt-vr-unleashed-an-in-depth-look/"><u>[New] In 2024, Jaunt VR Unleashed An In-Depth Look</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>[New] Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-beginners-guide-to-weekly-virtual-office-hours-for-2024/"><u>[Updated] The Beginner's Guide to Weekly Virtual Office Hours for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/administrators-handbook-altering-password-settings-for-different-accounts-on-windows-systems/"><u>Administrator's Handbook: Altering Password Settings for Different Accounts on Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-successful-strategies-for-navigating-lg-channels/"><u>Decoding Successful Strategies for Navigating LG Channels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-iphone-enthusiasts-can-join-and-view-shared-albums-with-simple-instructions/"><u>How iPhone Enthusiasts Can Join and View Shared Albums with Simple Instructions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Gionee F3 Pro FRP?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/reveal-the-secrets-top-12-ways-to-bring-non-showing-fb-vids-into-view/"><u>Reveal the Secrets Top 12 Ways to Bring Non-Showing FB Vids Into View</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selecting-prime-meme-blueprints/"><u>Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-d3dx930dll-file-not-found-step-by-step-guide/"><u>Solving the d3dx9_30.dll File Not Found: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-abilities-with-16-complimentary-sign-language-resources/"><u>Transform Your Abilities with 16 Complimentary Sign Language Resources</u></a></li>
 </ul></div>
 

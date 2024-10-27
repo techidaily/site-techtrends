@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Mobile Device Reviews - Inside Look
-date: 2024-10-06T20:31:17.131Z
-updated: 2024-10-09T19:16:04.868Z
+date: 2024-10-26T19:12:18.931Z
+updated: 2024-10-27T16:24:02.665Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What makes a phone ZDNET recommended?
 
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
@@ -45,10 +52,10 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -62,10 +69,10 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -79,10 +86,10 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -94,13 +101,6 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 **Also: [The best camera phone of 2024: Expert tested and reviewed](https://www.zdnet.com/article/best-camera-phone/)**
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Battery life and charging
 
@@ -156,18 +156,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile-for-2024/"><u>[New] Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-glimpse-into-virtual-frontiers-with-jaunt-vr/"><u>[Updated] 2024 Approved A Glimpse Into Virtual Frontiers with Jaunt VR</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-beat-to-freedom-online-fb-music-downloads/"><u>[Updated] Beat to Freedom Online FB Music Downloads</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-offline-entertainment-how-to-load-youtube-video-onto-your-apple-gear/"><u>2024 Approved Offline Entertainment How to Load YouTube Video Onto Your Apple Gear</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audiophiles-guide-selecting-prime-tools-for-vtuber-voice-alteration/"><u>Audiophile's Guide Selecting Prime Tools for VTuber Voice Alteration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficiently-fixing-the-driver-errors-of-logitech-headset-model-g930-on-pc-with-windows-os/"><u>Efficiently Fixing the Driver Errors of Logitech Headset Model G930 on PC with Windows OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-cutting-edge-what-to-know-about-the-new-macbook/"><u>Exploring the Cutting-Edge: What to Know About the New MacBook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-bitraser-drive-eraser-now-securely-wipe-usb-data/"><u>Get BitRaser Drive Eraser Now – Securely Wipe USB Data</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-zte-axon-40-lite-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your ZTE Axon 40 Lite Phone? Unlock It Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722862321446-solving-the-photoshop-scratch-disk-full-dilemma-a-comprehensive-guide/"><u>Solving the Photoshop Scratch Disk Full Dilemma: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-sharing-your-netflix-watch-party/"><u>Step-by-Step Guide: Sharing Your Netflix Watch Party</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-retrieving-deleted-messages-in-microsoft-outlook/"><u>Ultimate Guide: Retrieving Deleted Messages in Microsoft Outlook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/why-i-re-embraced-thunderbird-as-the-best-linux-email-solution/"><u>Why I Re-Embraced Thunderbird as the Best Linux Email Solution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shot-perfect-top-camera-techniques-and-trends-year-2024-edition/"><u>[New] Shot Perfect Top Camera Techniques and Trends - Year 2024 Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-the-leading-10-macwindows-srt-enhancers-for-2024/"><u>[Updated] Exploring the Leading 10 Mac/Windows SRT Enhancers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-5-ios-podcast-apps-your-ultimate-listing/"><u>2024 Approved Top 5 iOS Podcast Apps Your Ultimate Listing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-business-efficiency-managing-enterprise-devices-with-the-new-apple-vision-pro-insights-from-zdnet/"><u>Enhancing Business Efficiency: Managing Enterprise Devices with the New Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-advanced-mac-screen-plus-sound-capturer-extraordinaire/"><u>In 2024, Advanced Mac Screen + Sound Capturer Extraordinaire</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-audio-book-publishing-with-ease-a-modern-guide-for-2024/"><u>Mastering Audio Book Publishing with Ease A Modern Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-saving-instagram-dialogues-with-ease/"><u>Mastering the Art of Saving Instagram Dialogues with Ease</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-skagen-falster-2-an-elegant-option-against-apples-offerings/"><u>Review of the Skagen Falster 2: An Elegant Option Against Apple's Offerings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-fold-6s-arrival-get-ahead-with-release-dates-pricing-info-and-key-features/"><u>Samsung Galaxy Z Fold 6'S Arrival: Get Ahead with Release Dates, Pricing Info and Key Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/savvy-voyagers-guide-66-must-follow-travel-tweeters-for-dream-destinations-and-insider-secrets/"><u>Savvy Voyager's Guide: 66 Must-Follow Travel Tweeters for Dream Destinations and Insider Secrets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-smart-tvs-what-does-it-mean-to-be-internet-connected/"><u>Understanding Smart TVs: What Does It Mean to Be Internet-Connected?</u></a></li>
 </ul></div>
 

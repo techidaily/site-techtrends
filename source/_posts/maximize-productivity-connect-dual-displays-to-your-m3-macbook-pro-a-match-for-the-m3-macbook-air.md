@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - A Match for the M3 MacBook Air!"
-date: 2024-10-17T23:28:55.279Z
-updated: 2024-10-21T19:21:13.443Z
+date: 2024-10-25T17:20:59.882Z
+updated: 2024-10-27T19:06:03.056Z
 tags:
   - apple
 categories:
@@ -52,13 +52,6 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -72,10 +65,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -90,6 +83,19 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -103,10 +109,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -119,6 +125,13 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -128,13 +141,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -170,20 +176,15 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] 2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/current-months-best-value-packed-deals-from-verizon/"><u>Current Month's Best Value-Packed Deals From Verizon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-troubleshooting-error-code-0x80n4005/"><u>Effective Solutions for Troubleshooting Error Code 0X80n4005</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-your-visual-problems-with-updated-window-compatible-driver-solutions/"><u>Fix Your Visual Problems with Updated Window-Compatible Driver Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpts-content-creation-vs-se-expertise/"><u>GPT's Content Creation vs SE Expertise</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>In 2024, Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-3-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 3 Phone without PIN</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-step-by-step-to-stunning-snaps-with-snapseed/"><u>In 2024, Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-basics-of-twitch-chat-overcoming-novice-hurdles-and-misconceptions/"><u>Mastering the Basics of Twitch Chat: Overcoming Novice Hurdles and Misconceptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobilize-your-tetris-skills-on-android-and-ios/"><u>Mobilize Your Tetris Skills on Android and iOS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/quintessential-writes-for-diverse-cinematic-fields-for-2024/"><u>Quintessential Writes for Diverse Cinematic Fields for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-what-to-do-when-ac1st16dll-cant-be-found/"><u>Step-by-Step Guide: What to Do When ac1st16.dll Can’t Be Found</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-guide-how-can-you-get-verified-by-instagram/"><u>The Definitive Guide: How Can You Get Verified by Instagram?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-utilizing-the-telnet-command-line-tool-on-windows-os/"><u>The Ultimate Tutorial on Utilizing the Telnet Command Line Tool on Windows OS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-brand-your-content-download-complimentary-templates-for-youtube-makers/"><u>[New] Brand Your Content Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-novel-strategies-for-captivating-fb-video-marketing/"><u>[New] Novel Strategies for Captivating FB Video Marketing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-pcandroid-tutorial-successful-facebook-video-sharing/"><u>[Updated] In 2024, PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>[Updated] Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-entrepreneurs-must-haves-essential-items-for-kickstarting-success-for-2024/"><u>[Updated] The Entrepreneur's Must-Haves Essential Items for Kickstarting Success for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-reel-creation-guide/"><u>2024 Approved Instagram Reel Creation Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/city-escapes-unveiled-the-must-see-attractions-of-sydney-rome-and-barcelona/"><u>City Escapes Unveiled: The Must-See Attractions of Sydney, Rome, and Barcelona</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-setting-up-and-using-an-exterior-hard-disk-for-xbox-gaming/"><u>Step-by-Step Tutorial: Setting Up and Using an Exterior Hard Disk for Xbox Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tech-bargains-during-amazons-hottest-sale-event/"><u>Top Tech Bargains During Amazon's Hottest Sale Event</u></a></li>
+<li><a href="https://techtrends.techidaily.com/where-to-download-iphone-manuals-for-every-model/"><u>Where to Download iPhone Manuals for Every Model</u></a></li>
 </ul></div>
 

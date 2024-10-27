@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-10-18T17:48:35.159Z
-updated: 2024-10-21T16:17:15.747Z
+date: 2024-10-26T19:04:12.567Z
+updated: 2024-10-27T18:12:22.814Z
 tags:
   - apple
 categories:
@@ -30,11 +30,31 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,10 +71,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -64,10 +84,16 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -78,25 +104,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +146,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>[New] 2024 Approved Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-4k-resolution-reimagined-picking-the-right-vision-technology-for-2024/"><u>[Updated] 4K Resolution Reimagined Picking the Right Vision Technology for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>2024 Approved Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cross-gen-gaming-how-to-enjoy-ps4-games-on-ps5/"><u>Cross-Gen Gaming: How to Enjoy PS4 Games on PS5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-newest-features-on-apples-latest-macbook-release/"><u>Exploring the Newest Features on Apple's Latest MacBook Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-your-league-of-legends-network-issues/"><u>Guide to Repairing Your League of Legends Network Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-downloading-and-applying-new-fonts-on-ios-devices/"><u>Guide: Downloading and Applying New Fonts on iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-does-biometric-identification-work-and-why-its-important/"><u>How Does Biometric Identification Work and Why It's Important</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-stop-0x0000001d-errors/"><u>How to Fix STOP 0X0000001D Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improve-responses-quickly-7-dynamic-techniques-for-gpt-optimization/"><u>Improve Responses Quickly: 7 Dynamic Techniques for GPT Optimization</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-requesting-for-unrestricted-access-to-shared-visual-and-audio-content/"><u>In 2024, Requesting for Unrestricted Access to Shared Visual & Audio Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/obs-rescue-cameras-are-back-up/"><u>OBS Rescue Cameras Are Back Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reattaching-a-missing-keystroke-a-step-by-step-guide/"><u>Reattaching a Missing Keystroke: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stepwise-procedure-elevating-to-virtualbox-version-70-on-windows-11/"><u>Stepwise Procedure: Elevating to VirtualBox Version 7.0 on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-on-and-off-switch-for-network-discovery-in-windows-10-systems/"><u>The Ultimate Guide: On and Off Switch for Network Discovery in Windows 10 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-workspace-with-this-innovative-pckeyboard-hybrid-featuring-a-powerful-amd-ryzen-cpu-and-built-in-trackpad/"><u>Transform Your Workspace With This Innovative PC/Keyboard Hybrid Featuring a Powerful AMD Ryzen CPU and Built-In Trackpad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-xiaomi-14-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi 14? Fixed | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-popular-comment-pathways/"><u>[New] Navigating Popular Comment Pathways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-user-preferences-with-instagrams-real-time-feedback-for-2024/"><u>[New] Unlocking User Preferences with Instagram's Real-Time Feedback for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-the-cheapest-deals-on-top-tier-gopros/"><u>[Updated] Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-tiktok-photo-tricks-for-instant-fame-for-2024/"><u>[Updated] Top TikTok Photo Tricks for Instant Fame for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amd-radeon-graphics-cards-upgrade-your-driver-with-the-latest-2410-update/"><u>AMD Radeon Graphics Cards: Upgrade Your Driver with the Latest 24.10 Update</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-the-samsung-un65ru8000fxxa-where-aesthetics-and-intelligent-tech-converge/"><u>Comprehensive Review: The Samsung Un65ru8000fxxa - Where Aesthetics and Intelligent Tech Converge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-free-community-driven-dns-solutions/"><u>Essential Guide to Free Community-Driven DNS Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-17-most-effective-graphic-design-tools-today/"><u>Explore the 17 Most Effective Graphic Design Tools Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-explained-separating-real-from-synthetic-texts/"><u>GPTZero Explained: Separating Real From Synthetic Texts</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-mac-computers-failing-to-connect-with-peripheral-displays/"><u>How To Troubleshoot Mac Computers Failing to Connect with Peripheral Displays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-netflix-troubleshooting-19-tips-for-perfect-playback-on-lg-displays/"><u>Mastering Netflix Troubleshooting: 19 Tips for Perfect Playback on LG Displays</u></a></li>
+<li><a href="https://driver-install.techidaily.com/opengl-hardware-interface-documentation/"><u>OpenGL Hardware Interface Documentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-owning-apples-4th-generation-smart-streaming-device/"><u>The Comprehensive Guide to Owning Apple's 4Th-Generation Smart Streaming Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-a-failed-authentication-fixing-401-http-status-codes/"><u>Troubleshooting a Failed Authentication: Fixing 401 HTTP Status Codes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-history-with-the-wayback-machine-tips-for-effective-use-in-digital-research/"><u>Unlocking History with the Wayback Machine: Tips for Effective Use in Digital Research</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple Greenlights Refurbished Pieces in iPhone Repairs, Sparks Industry Shift | Findings"
-date: 2024-10-16T17:05:11.580Z
-updated: 2024-10-21T19:36:00.492Z
+date: 2024-10-23T18:14:46.965Z
+updated: 2024-10-27T16:14:58.572Z
 tags:
   - apple
 categories:
@@ -46,16 +46,16 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -73,18 +73,18 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -155,10 +155,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -174,10 +174,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -218,21 +218,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-avoiding-blur-techniques-for-hand-held-stability/"><u>[New] In 2024, Avoiding Blur Techniques for Hand-Held Stability</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-command-attention-on-instagram-nine-paths-to-social-media-glory/"><u>[Updated] Command Attention on Instagram Nine Paths to Social Media Glory</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-masterclass-in-capturing-high-quality-vimeo-videos/"><u>[Updated] Masterclass in Capturing High-Quality Vimeo Videos</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5qpluso5pel44gu5l2c5qwt44oh44kj44os44kv44oi44oq44ks57ch5y2y44gr6ksh6ko944gz44kl44kz44oeic0g44or44o844k944ok44or44oe44on44k444oh44oz44oi/"><u>毎日の作業ディレクトリを簡単に複製するコツ - パーソナルマネジメント</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-using-manycams-powerful-features-and-webcam-emulation/"><u>Enhance Your Livestreams Using ManyCam's Powerful Features and Webcam Emulation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-innovative-live-video-tech/"><u>Enhance Your Online Presence Using ManyCam's Innovative Live Video Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-powerful-video-editing-and-virtual-cam-tech/"><u>Enhance Your Online Presence Using ManyCam's Powerful Video Editing and Virtual Cam Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-with-manycam-advanced-live-video-broadcasting-and-remote-webcams/"><u>Enhance Your Online Presence with ManyCam - Advanced Live Video Broadcasting and Remote Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-with-manycams-advanced-webcam-and-broadcasting-tools/"><u>Enhance Your Online Presence with ManyCam's Advanced Webcam and Broadcasting Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-magic-5-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor Magic 5 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-an-impressive-online-brand-presence/"><u>In 2024, Crafting an Impressive Online Brand Presence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-manycam-advanced-software-and-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover ManyCam - Advanced Software and Virtual Camera Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-discover-the-best-manycam-app-and-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover the Best ManyCam App and Virtual Camera Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-role-of-sleep-mode-in-enhancing-the-user-experience-on-messenger-kids/"><u>The Role of Sleep Mode in Enhancing the User Experience on Messenger Kids</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-the-best-of-mobile-entertainment-on-ios-through-arcade/"><u>Uncovering the Best of Mobile Entertainment on iOS Through Arcade</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers-for-2024/"><u>[New] Echoes of the Past The Top 10 YouTube Sources for History Lovers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quick-steps-for-recording-insta-stories/"><u>[New] Quick Steps for Recording Insta Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>[New] Unleash Your Creativity The Leading Phone Apps for Image Stickers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimal-energy-solutions-official-and-third-party-hero5-batteries-for-2024/"><u>[Updated] Optimal Energy Solutions - Official & Third-Party Hero5 Batteries for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-mastery-essential-tech-to-enhance-your-streams-for-2024/"><u>[Updated] YouTube Mastery Essential Tech to Enhance Your Streams for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-proven-strategies-to-resolve-amber-screen-anomalies-on-your-ios-device/"><u>9 Proven Strategies to Resolve Amber Screen Anomalies on Your iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-music-streaming-on-a-budget-securing-spotifys-educational-offer/"><u>Affordable Music Streaming on a Budget: Securing Spotify's Educational Offer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-engagement-a-comprehensive-guide-to-embedding-annotations-on-ig-stories/"><u>Boost Engagement: A Comprehensive Guide to Embedding Annotations on IG Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-repairing-jvmdll-is-missing-or-corrupt-issues/"><u>Comprehensive Guide: Repairing 'JVM.DLL Is Missing or Corrupt' Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-where-to-watch-films-without-payment/"><u>Discover the Ultimate List: Where to Watch Films Without Payment</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/gratis-wmv-in-het-online-mmf-konverteren-veilig-en-eenvoudig/"><u>Gratis WMV-In Het Online MMF Konverteren - Veilig en Eenvoudig</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-rectify-missing-d3d941dll-error-messages-on-your-pc/"><u>How to Rectify Missing D3d9_41.dll Error Messages on Your PC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-craft-a-signature-sound-how-to-modify-voices-for-instagram/"><u>In 2024, Craft a Signature Sound How to Modify Voices for Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-terminal-tricks-for-accessing-concealed-files-easily/"><u>MacOS Terminal Tricks for Accessing Concealed Files Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-casting-technology-connect-your-device-to-an-lg-smart-tv/"><u>Mastering Casting Technology: Connect Your Device to an LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-citations-how-to-credit-chatgpt-in-academic-writing/"><u>Mastering Citations: How to Credit ChatGPT in Academic Writing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-no-cost-photo-editing-software-options/"><u>Top 6 No-Cost Photo Editing Software Options</u></a></li>
 </ul></div>
 

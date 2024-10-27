@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Secret: The Development of a Secure Operating System for AI Data Facilities – Insights and Updates | TechInsider"
-date: 2024-10-17T23:38:06.542Z
-updated: 2024-10-21T20:36:26.594Z
+date: 2024-10-21T18:22:11.760Z
+updated: 2024-10-27T16:46:58.448Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -56,16 +56,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -75,13 +69,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -97,6 +84,13 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -106,13 +100,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -131,6 +118,13 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -185,21 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-roi-setting-up-and-assessing-fb-instream-ads-for-2024/"><u>[New] Maximizing ROI Setting Up & Assessing FB Instream Ads for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-optimizing-television-access-to-facebook-events-for-2024/"><u>[New] Optimizing Television Access to Facebook Events for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-strategies-for-fbx-gameplay-capture/"><u>[Updated] In 2024, Expert Strategies for FBX Gameplay Capture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>2024 Approved Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726227414785-mp3aac-movavi/"><u>網路直接無限制地將MP3格式改為AAC - 使用Movavi音頻轉換器</u></a></li>
-<li><a href="https://techtrends.techidaily.com/create-videos-on-mac-with-moveaveer-a-comprehensive-guide/"><u>Create Videos on Mac with Moveaveer - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detective-guide-resolving-the-non-functional-print-screen-feature-on-windows-11/"><u>Detective Guide: Resolving the Non-Functional Print Screen Feature on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fast-and-easy-tips-expert-advice-on-slicing-videos-with-movavi-clips-for-android-users/"><u>Fast & Easy Tips: Expert Advice on Slicing Videos with Movavi Clips for Android Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-hd-converteren-de-tweede-lijst-van-beste-videovervangerarer-till-dvd-formaten/"><u>Gratis HD Converteren: De Tweede Lijst Van Beste Videovervangerarer Till DVD-Formaten</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-pause-auto-play-on-apple-music-and-take-control-of-your-listening/"><u>How to Pause Auto-Play on Apple Music and Take Control of Your Listening</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-130-music-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia 130 Music to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-swf-files-on-a-mac-top-players-and-tutorials/"><u>Mastering SWF Files on a Mac: Top Players and Tutorials</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformer-un-fichier-mka-en-mp3-gratuitement-en-ligne-avec-convertisseur-rapide-movavi/"><u>Transformer Un Fichier MKA en MP3 Gratuitement en Ligne Avec Convertisseur Rapide - Movavi</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/win10-video-capture-pro-professional-edition/"><u>Win10 Video Capture Pro - Professional Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premiere-pro-know-how-optimizing-youtube-video-uploads/"><u>[New] 2024 Approved Premiere Pro Know-How Optimizing YouTube Video Uploads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-seamlessly-incorporate-video-game-banners/"><u>[New] In 2024, How to Seamlessly Incorporate Video Game Banners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-meme-design-props/"><u>[New] The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-viewsplit-diagnostics/"><u>[Updated] 2024 Approved ViewSplit Diagnostics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-exclusive-list-affordable-efficient-high-quality-passport-photos-creators/"><u>[Updated] Exclusive List Affordable, Efficient, High-Quality Passport Photos Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expanding-digital-presence-stream-to-youtube-plus-additional-platforms-for-2024/"><u>[Updated] Expanding Digital Presence Stream to YouTube + Additional Platforms for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-steady-shots-expert-tips-on-tripods-in-vlog-production-for-2024/"><u>[Updated] Steady Shots Expert Tips on Tripods in Vlog Production for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-features-what-is-google-hangouts/"><u>Exploring the Features: What Is Google Hangouts?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-picture-in-picture-on-your-android/"><u>How to Use Picture-in-Picture on Your Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-watch-star-wars-movies-in-order-on-disney-plus/"><u>How to Watch ‘Star Wars’ Movies in Order on Disney Plus</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-150-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia 150 (2023) Location by Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-the-most-anticipated-shopping-extravaganza-amazon-prime-day-2024/"><u>Inside Look at the Most Anticipated Shopping Extravaganza - Amazon Prime Day #2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-efficiency-the-ultimate-guide-to-setting-up-slack-notifications/"><u>Mastering Efficiency: The Ultimate Guide to Setting Up Slack Notifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-precision-disabling-mouse-acceleration-on-a-mac-os/"><u>Mastering Precision: Disabling Mouse Acceleration on a Mac OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808308093-quick-install-of-directx-on-your-pc-with-windows-11-or-10-effortless-downloads/"><u>Quick Install of DirectX on Your PC with Windows 11 or 10: Effortless Downloads!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-rpcrt4dll-file-missing-a-comprehensive-guide/"><u>Resolving RPCRT4.DLL File Missing: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-tuning-into-the-exclusive-samsung-product-launch-online/"><u>Tips for Tuning Into the Exclusive Samsung Product Launch Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-retrieving-deleted-messages-in-microsoft-outlook/"><u>Ultimate Guide: Retrieving Deleted Messages in Microsoft Outlook</u></a></li>
 </ul></div>
 

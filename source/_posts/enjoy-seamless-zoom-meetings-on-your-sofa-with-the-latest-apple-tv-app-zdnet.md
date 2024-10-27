@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-10-20T18:15:45.522Z
-updated: 2024-10-21T22:27:43.000Z
+date: 2024-10-25T19:43:03.391Z
+updated: 2024-10-27T16:25:35.630Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -48,10 +41,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -76,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -83,10 +83,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -105,13 +105,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -125,6 +118,13 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,19 +162,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-tailoring-content-to-thrive-on-youtube-select-the-best-formats/"><u>[New] 2024 Approved Tailoring Content to Thrive on YouTube – Select the Best Formats</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-cinematic-motion-smear-in-adobe/"><u>[New] Capture Cinematic Motion Smear in Adobe</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-utilizing-snapchat-highlights-effectively/"><u>[Updated] Expert Tips for Utilizing Snapchat Highlights Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-vote-ventures-5-top-political-game-showdowns/"><u>[Updated] In 2024, Vote-Ventures 5 Top Political Game Showdowns</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171021579-enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-communication-seamlessly-a-guide-to-using-google-duo-on-gmail/"><u>Enhancing Communication Seamlessly: A Guide to Using Google Duo on Gmail</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/five-trailblazers-shaping-the-webs-audiovideo-landscape/"><u>Five Trailblazers Shaping the Web's Audio/Video Landscape</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enable-two-step-verification-on-your-icloud-email-for-added-security/"><u>How to Enable Two-Step Verification on Your iCloud Email for Added Security</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-boost-ps5-capacity-by-fitting-in-an-additional-solid-state-drive/"><u>How to Successfully Boost PS5 Capacity by Fitting in an Additional Solid State Drive</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-a70-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel A70 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mystery-unveiled-latest-leaks-on-the-upcoming-m4-mac-minis-hardware-specs-expected-release-and-pricing-range/"><u>Mystery Unveiled: Latest Leaks on the Upcoming M4 Mac Mini's Hardware Specs, Expected Release and Pricing Range</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-watch-7-details-unpacking-its-price-tag-availability-and-cutting-edge-specs/"><u>Samsung Galaxy Watch 7 Details: Unpacking Its Price Tag, Availability, and Cutting-Edge Specs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-of-gaomon-pd1560-drawing-board-pros-and-cons/"><u>Unveiling the Features of Gaomon PD1560 Drawing Board: Pros and Cons</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated In 2024, Learning How to Slow Down a Video on iPhone Properly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-accuracy-at-hand-editing-tiktoks-personal-info/"><u>[Updated] Accuracy at Hand Editing TikTok's Personal Info</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-snap-save-and-share-like-a-pro-with-the-mi-11-screen-recording-suite/"><u>[Updated] In 2024, Snap, Save and Share Like a Pro with the Mi 11 Screen Recording Suite</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>[Updated] The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-11x-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme 11X 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delve-into-the-upcoming-tesla-robotaxi-latest-rumors-on-pricing-availability-and-features-unpacked/"><u>Delve Into the Upcoming Tesla Robotaxi – Latest Rumors on Pricing, Availability, and Features Unpacked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-getting-rid-of-the-ai-copilot-add-on-from-windows-11-computers/"><u>Expert Tips for Getting Rid of the AI Copilot Add-On From Windows 11 Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-the-lowdown-on-apples-anticipated-domestic-companion-bot-price-estimates-release-windows-and-tech-insights/"><u>Get the Lowdown on Apple's Anticipated Domestic Companion Bot: Price Estimates, Release Windows, and Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-dealing-with-microsoft-word-files-that-wont-load/"><u>Guide on Dealing with Microsoft Word Files That Won't Load</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-the-mobile-landscape-start-your-entrepreneurial-or-personal-youtube-channel/"><u>In 2024, Navigating the Mobile Landscape Start Your Entrepreneurial or Personal YouTube Channel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-of-the-matrix-films-a-step-by-step-watchlist/"><u>Order of The Matrix Films - A Step-by-Step Watchlist</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-no-signal-on-your-xbox-console/"><u>Quick Fixes for 'No Signal' On Your Xbox Console</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-image-capture-with-ios-11-updates/"><u>Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-accepting-shared-photographic-albums-on-ios-devices/"><u>Step-by-Step Instructions for Accepting Shared Photographic Albums on iOS Devices</u></a></li>
 </ul></div>
 

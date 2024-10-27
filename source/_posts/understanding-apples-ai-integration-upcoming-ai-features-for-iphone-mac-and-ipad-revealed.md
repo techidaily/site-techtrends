@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-10-20T23:03:28.485Z
-updated: 2024-10-21T22:27:37.273Z
+date: 2024-10-23T17:18:35.443Z
+updated: 2024-10-27T16:18:38.502Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -136,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -159,19 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -179,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,22 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-culinary-kings-and-queens-youtube-food-experts/"><u>2024 Approved Culinary Kings & Queens YouTube Food Experts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-of-crafting-persuasive-video-covers-for-social-media-platforms/"><u>2024 Approved The Art of Crafting Persuasive Video Covers for Social Media Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-beginners-guide-accessing-hulu-through-your-lg-smart-tv/"><u>A Beginner's Guide: Accessing Hulu Through Your LG Smart TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-rumored-personal-household-robot-anticipated-pricing-scheduled-drop-and-technical-details-revealed/"><u>Apple's Rumored Personal Household Robot - Anticipated Pricing, Scheduled Drop, and Technical Details Revealed</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-narzo-60x-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Narzo 60x 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-the-elusive-steamdll-error-on-your-computer/"><u>Effective Fixes for the Elusive Steam.dll Error on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-dealing-with-missing-helperdll-errors/"><u>Effective Strategies for Dealing with Missing Helper.dll Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-codec-library-errors-the-case-of-msvcr120dll-not-found/"><u>Fixing Codec Library Errors: The Case of MSVCR120.dll Not Found</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-moto-g04-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G04 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-future-of-filming-xs-100is-bold-journey/"><u>In 2024, The Future of Filming XS 100I's Bold Journey</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>In 2024, Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/queer-culture-unveiled-your-ultimate-guide-to-lgbtq-focused-series-on-netflix-july-2024-edition/"><u>Queer Culture Unveiled: Your Ultimate Guide to LGBTQ-Focused Series on Netflix (July 2024 Edition)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-integration-hooking-up-your-psvr-console-with-your-windows-pc/"><u>Seamless Integration: Hooking Up Your PSVR Console with Your Windows PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-onoff-the-touch-typing-feature-on-windows-10-a-step-by-step-guide/"><u>Turning On/Off the Touch Typing Feature on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-apple-watch-series-n-an-understated-update-with-outstanding-performance/"><u>Unveiling Apple Watch Series N – An Understated Update With Outstanding Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oneplus-ace-2v-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Ace 2V Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-review-the-t5-eye-unleashing-potential/"><u>[New] Review The T5 Eye, Unleashing Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>[New] Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-crop-image-online/"><u>2024 Approved How To Crop Image Online?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-upcoming-product-launch-date-confirmation-new-rumors-and-insider-info/"><u>Apple's Upcoming Product Launch – Date Confirmation, New Rumors & Insider Info</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-zte-nubia-flip-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your ZTE Nubia Flip 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cable-free-connectivity-guide-on-accessing-the-web-without-traditional-services/"><u>Cable-Free Connectivity: Guide on Accessing the Web without Traditional Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/coming-soon-to-google-store-the-pixel-buds-pro-2-leak-what-we-know-about-price-and-specs/"><u>Coming Soon to Google Store? The Pixel Buds Pro 2 Leak – What We Know About Price and Specs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-oppo-reno-11-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Oppo Reno 11 5G.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-on-deleting-cache-data-for-leading-internet-browsers/"><u>Comprehensive Tutorial on Deleting Cache Data for Leading Internet Browsers</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/data-safe-fixes-for-a-malfunctioning-usb-flash-drive-using-command-prompt/"><u>Data-Safe Fixes for a Malfunctioning USB Flash Drive Using Command Prompt</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-schedule-a-technical-support-session-with-apples-experts/"><u>Easy Ways to Schedule a Technical Support Session with Apple's Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-free-streaming-options-similar-to-netflix-ranked/"><u>Explore the Best Free Streaming Options Similar To Netflix, Ranked!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hulu-or-hulu-plus-understanding-their-key-distinctions/"><u>Hulu or Hulu Plus: Understanding Their Key Distinctions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-focus-on-details-masterful-close-up-techniques-for-gaming/"><u>In 2024, Focus on Details Masterful Close-Up Techniques for Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-blues-with-nintendo-switch-online-outage-or-user-error/"><u>Navigating the Blues with Nintendo Switch Online - Outage or User Error?</u></a></li>
+<li><a href="https://win-special.techidaily.com/simple-techniques-for-converting-mp3-files-into-wma-format/"><u>Simple Techniques for Converting MP3 Files Into WMA Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-android-users-who-cant-get-texts-delivered/"><u>Troubleshooting Steps for Android Users Who Can’t Get Texts Delivered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-hello-finding-compatible-cameras/"><u>Windows Hello: Finding Compatible Cameras</u></a></li>
 </ul></div>
 

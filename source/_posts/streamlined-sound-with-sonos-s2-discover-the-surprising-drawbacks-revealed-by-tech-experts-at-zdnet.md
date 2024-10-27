@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-10-18T19:35:40.810Z
-updated: 2024-10-21T21:38:32.244Z
+date: 2024-10-23T18:42:42.217Z
+updated: 2024-10-27T19:25:41.203Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -45,13 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -69,18 +69,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -92,6 +92,13 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -99,10 +106,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -118,13 +125,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,24 +162,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagrams-latest-trends-for-successful-influencer-journeys-for-2024/"><u>[New] Instagram's Latest Trends for Successful Influencer Journeys for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-can-creators-expect-to-be-paid-by-youtube/"><u>[Updated] 2024 Approved How Often Can Creators Expect to Be Paid by YouTube?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>2024 Approved Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-visionary-groups-redefining-virtual-space/"><u>2024 Approved Visionary Groups Redefining Virtual Space</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aiff-avi-movavi/"><u>高效率在線 AIFF-AVI 邏輯導航: 利用 Movavi 易於操作的轉換器</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-flv-a-formato-avi-sin-coste-guia-completa-con-movavi/"><u>Cómo Convertir Archivos FLV a Formato AVI Sin Coste: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-crear-imagenes-con-fondo-transparente-en-photoshop/"><u>Cómo Crear Imágenes Con Fondo Transparente en Photoshop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversione-gratuita-online-da-mkv-a-avi-movavi/"><u>Conversione Gratuita Online Da MKV a AVI - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversione-gratuita-online-cambia-file-caf-in-m4r-con-movavis-convertitore-facile-e-veloce/"><u>Conversione Gratuita Online: Cambia File CAF in M4R Con Movavi's Convertitore Facile E Veloce</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/convertir-des-dvds-et-videos-efficacement-avec-le-logiciel-dedie-de-digiarty-software/"><u>Convertir Des DVDs Et Vidéos Efficacement Avec Le Logiciel Dédié De Digiarty Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-power-of-movavi-pro-video-tools-shop-and-enhance-your-business-today/"><u>Discover the Power of Movavi Pro Video Tools - Shop and Enhance Your Business Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-mp3-to-ogg-converter-online-service-by-movavi/"><u>Free MP3 to Ogg Converter - Online Service by Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-video-converter-convert-wtv-to-mpeg-with-movavi/"><u>Free Online Video Converter: Convert WTV to MPEG with Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-takes-on-ai-dominance-with-bard-the-next-big-rival-to-microsofts-chatgpt/"><u>Google Takes on AI Dominance With Bard - The Next Big Rival to Microsoft’s ChatGPT</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-overcoming-critical-process-errors-and-bsod-in-windows-11/"><u>Guide to Overcoming Critical Process Errors and BSOD in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-xlivedll-not-found-or-missing-errors/"><u>How to Fix Xlive.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-v29-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V29 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformacion-gratis-y-rapida-convertir-archivos-m4v-a-mp4-con-herramienta-online-movavi/"><u>Transformación Gratis Y Rápida: Convertir Archivos M4V a MP4 Con Herramienta Online - Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-step-by-step-instructions-for-finding-recent-facebook-views/"><u>[Updated] In 2024, Step-by-Step Instructions for Finding Recent Facebook Views</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fb-live-tv-broadcast-4-innovative-methods/"><u>2024 Approved FB Live TV Broadcast 4 Innovative Methods</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-driven-data-collection-enhance-your-websites-analytics/"><u>Cookiebot-Driven Data Collection: Enhance Your Website's Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-youtube-outages-what-you-need-to-know/"><u>Dealing with YouTube Outages: What You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-top-8-advanced-email-solutions-better-than-gmail-in-the-new-year-of-2024/"><u>Discover the Top 8 Advanced Email Solutions Better Than Gmail in the New Year of 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-fix-fresh-installation-of-intel-optane-driver-for-enhanced-windows-performance/"><u>Easy Fix: Fresh Installation of Intel Optane Driver for Enhanced Windows Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-correcting-xlivedll-missing-errors-in-windows-systems/"><u>Effective Strategies for Correcting Xlive.dll Missing Errors in Windows Systems ⌨️</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-detection-and-access-for-unresponsive-wd-my-passport-ultra-in-windows-systems/"><u>How to Enable Detection and Access for Unresponsive WD My Passport Ultra in Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-x-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 15 Plus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-roadmap-to-getting-your-account-verified-on-the-rebranded-network-of-x-previously-twitter/"><u>The Roadmap to Getting Your Account Verified on the Rebranded Network of X (Previously Twitter)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/twitch-deletion-procedures-a-comprehensive-tutorial/"><u>Twitch Deletion Procedures: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

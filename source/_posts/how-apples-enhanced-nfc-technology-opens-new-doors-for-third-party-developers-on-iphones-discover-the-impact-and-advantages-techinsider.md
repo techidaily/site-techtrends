@@ -1,7 +1,7 @@
 ---
 title: "How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider"
-date: 2024-10-18T21:44:35.062Z
-updated: 2024-10-21T20:20:57.318Z
+date: 2024-10-20T16:46:32.078Z
+updated: 2024-10-27T17:59:11.820Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -77,6 +77,13 @@ Sideloading increases the risk of malware infections, phishing attacks, data lea
 Sideloading could circumvent iOS's privacy controls, allowing apps to access and share user data without proper oversight. Apps obtained outside of the App Store might not receive timely updates, exposing users to unpatched security vulnerabilities.
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## App Store changes
 
@@ -102,13 +109,6 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -119,10 +119,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -136,10 +136,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,18 +178,19 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-craft-channels-with-flair-unveiling-10-innovative-design-platforms/"><u>[New] In 2024, Craft Channels with Flair Unveiling 10 Innovative Design Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lightroom-lut-guide-discovering-the-best-10-tools-for-color-grading/"><u>[New] Lightroom LUT Guide Discovering the Best 10 Tools for Color Grading</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-premier-vhs-inspired-tricks-for-editing-excellence-for-2024/"><u>[New] Premier VHS-Inspired Tricks for Editing Excellence for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-rw2-files-to-jpg-for-free-using-movavis-online-tool/"><u>Convert RW2 Files to JPG for Free Using Movavi's Online Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descargue-e-importacion-gratuita-de-wma-a-flac-online-con-convertidor-de-audio-sin-coste/"><u>Descargue E Importación Gratuita De WMA a FLAC Online Con Convertidor De Audio Sin Coste</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-change-your-videos-from-mkv-to-m4a-with-moveavi/"><u>Free Online Conversion: Change Your Videos From MKV to M4A with Moveavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-hub/"><u>Navigate the World of Computer Components with Tom's Hardware Hub</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-and-efficient-avchd-to-m2ts-transcoding-top-hd-video-format-converter-solutions/"><u>Quick and Efficient AVCHD to M2TS Transcoding: Top HD Video Format Converter Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sunday-success-with-chick-fil-a-innovative-tactics-for-profiting-on-a-rest-day-zdnet-insights/"><u>Sunday Success with Chick-Fil-A: Innovative Tactics for Profiting on a Rest Day | ZDNET Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ucretsiz-film-yapim-secenegi-18-ebaturlerin-windows-1187-daha-etkili-mekanlarini-sunuyor/"><u>Ücretsiz Film Yapım Seçeneği – 18 Ebatürlerin Windows 11/8/7 Daha Etkili Mekanlarını Sunuyor</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-stacked-selecting-best-budget-pc-boards/"><u>Value Stacked: Selecting Best Budget PC Boards</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-chord-of-clicks-infusing-music-into-ig-story-posts/"><u>[New] In 2024, The Chord of Clicks Infusing Music Into IG Story Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-creative-filmmaking-instagrams-green-room-technique/"><u>[Updated] 2024 Approved Unlock Creative Filmmaking Instagram's Green Room Technique</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-zooming-in-and-out-like-a-storytelling-pro-insta-tips/"><u>[Updated] In 2024, Zooming in and Out Like a Storytelling Pro Insta Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overlooked-wonders-latest-free-macspeech-software/"><u>[Updated] Overlooked Wonders Latest Free macSpeech Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ideal-android-video-recording-tools-ranked-five-best/"><u>2024 Approved Ideal Android Video Recording Tools Ranked Five Best</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1728466256531-ssd/"><u>面對硬碟危機：如何在SSD出現問題時進行初始化</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-i-get-rid-of-default-iphone-software-programs-easily/"><u>Can I Get Rid of Default iPhone Software Programs Easily?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-smartwatch-innovation-how-these-devices-enhance-daily-life/"><u>Exploring Smartwatch Innovation - How These Devices Enhance Daily Life</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-13-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 13 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-macs-look-how-to-change-folder-color-settings/"><u>Revamp Your Mac's Look: How to Change Folder Color Settings</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-security-rankings/"><u>Social Network Security Rankings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-projecting-your-laptop-screen-onto-a-television-with-hdmi/"><u>Step-by-Step Tutorial on Projecting Your Laptop Screen Onto a Television with HDMI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-solving-the-d3dx924dll-missing-error/"><u>Ultimate Guide: Solving The d3dx9_24.dll Missing Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-full-potential-step-by-step-guide-to-enhancing-apple-tv-functionality/"><u>Unlock Full Potential: Step-by-Step Guide to Enhancing Apple TV Functionality</u></a></li>
 </ul></div>
 

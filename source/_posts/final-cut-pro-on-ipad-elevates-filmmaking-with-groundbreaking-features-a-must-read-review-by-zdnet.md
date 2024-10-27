@@ -1,7 +1,7 @@
 ---
 title: Final Cut Pro on iPad Elevates Filmmaking with Groundbreaking Features - A Must-Read Review by ZDNet!
-date: 2024-10-08T19:54:50.672Z
-updated: 2024-10-09T20:35:56.638Z
+date: 2024-10-20T19:15:45.722Z
+updated: 2024-10-27T19:10:25.345Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -64,10 +70,10 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -79,10 +85,16 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -92,10 +104,10 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -136,17 +148,20 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-interactive-webinar-writer/"><u>[New] Innovative Interactive Webinar Writer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-convenient-methods-for-recording-playtime-footage/"><u>[Updated] In 2024, Convenient Methods for Recording Playtime Footage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>[Updated] Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/converse-confidently-in-german-with-these-25-must-know-phrases/"><u>Converse Confidently in German with These 25 Must-Know Phrases</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-accurately-use-the-in-built-measurement-application-on-android-devices/"><u>Expert Advice: How To Accurately Use The In-Built Measurement Application On Android Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-quintessential-collection-5-unbeatable-free-cross-border-chat-services/"><u>Explore the Quintessential Collection: 5 Unbeatable Free Cross-Border Chat Services</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oppo-a59-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Oppo A59 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722844396954-leading-gps-solutions-for-your-iphone-here-are-our-favorites/"><u>Leading GPS Solutions for Your iPhone - Here Are Our Favorites!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-to-past-notifications-a-step-by-step-iphone-guide/"><u>Navigating to Past Notifications: A Step-by-Step iPhone Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-your-lcd-best-practices-for-dust-free-and-smudge-less-television-displays/"><u>Protecting Your LCD: Best Practices for Dust-Free and Smudge-Less Television Displays</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915399984-upgrade-to-revo-uninstaller-pro-5-the-ultimate-tool-for-a-clean-and-efficient-system/"><u>Upgrade to Revo Uninstaller Pro 5 - The Ultimate Tool for a Clean & Efficient System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/virtual-reality-of-genuine-ppc-games/"><u>Virtual Reality of Genuine PPC Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-insight-into-watermark-functionality-for-fb-media/"><u>[New] 2024 Approved Insight Into Watermark Functionality for Fb Media</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-creating-engaging-content-through-discord-streams/"><u>[New] In 2024, Creating Engaging Content Through Discord Streams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-key-principles-to-write-captivating-vlog-dialogues/"><u>[Updated] 2024 Approved Key Principles to Write Captivating Vlog Dialogues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-premium-5-noise-canceling-gaming-mics/"><u>[Updated] Premium 5 Noise-Canceling Gaming Mics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-adding-subtitles-to-your-instagram-story-content/"><u>A Step-by-Step Guide: Adding Subtitles to Your Instagram Story Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-spark-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Spark 20</u></a></li>
+<li><a href="https://techtrends.techidaily.com/immerse-yourself-in-middle-earth-watching-lord-of-the-rings-in-correct-progression/"><u>Immerse Yourself in Middle-Earth: Watching ‘Lord of the Rings’ In Correct Progression</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-view-and-modify-mac-pages-documents-using-microsoft-office-suite/"><u>Masterclass: View and Modify Mac Pages Documents Using Microsoft Office Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-troubleshooting-how-to-fix-persistent-hyper-scape-disruptions-and-crashes/"><u>PC Gaming Troubleshooting: How to Fix Persistent Hyper Scape Disruptions and Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-your-account-preventing-social-media-scams/"><u>Securing Your Account: Preventing Social Media Scams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-essential-gadgets-and-tools-for-students-in-the-classroom/"><u>Top 9 Essential Gadgets and Tools for Students in the Classroom</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functional-xbox-series-x-and-s-headsets/"><u>Troubleshooting Guide: Resolving Issues with Non-Functional Xbox Series X & S Headsets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-mysterious-black-display-in-windows-11/"><u>Ultimate Guide: Resolving the Mysterious Black Display in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-kinemaster-for-mac-download-guide-for-you/"><u>Updated In 2024, KineMaster for Mac Download Guide for You</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vdq-video-snatcher-assessment-comprehensive-analysis/"><u>VDQ Video Snatcher Assessment Comprehensive Analysis</u></a></li>
 </ul></div>
 

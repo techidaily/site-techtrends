@@ -1,7 +1,7 @@
 ---
 title: "The Future of Wearables: Tech News Reveals Apple to Unveil Cameras Inside AirPods by 2026 | Reported"
-date: 2024-10-15T21:12:59.043Z
-updated: 2024-10-21T18:38:14.996Z
+date: 2024-10-20T19:33:32.342Z
+updated: 2024-10-27T18:40:01.416Z
 tags:
   - apple
 categories:
@@ -71,29 +71,27 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-ultimate-8-filtration-options-for-professional-streams/"><u>[New] Ultimate 8 Filtration Options for Professional Streams</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[Updated] In 2024, Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-sony-xperia-5-v-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Sony Xperia 5 V</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-espnpluss-innovative-approach-to-broadcasting-live-and-on-demand-content/"><u>Exploring ESPN+'s Innovative Approach to Broadcasting Live and On-Demand Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/harry-potter-movie-marathon-the-correct-order-to-enjoy-them/"><u>Harry Potter Movie Marathon - The Correct Order to Enjoy Them</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-clear-network-connections-and-setup-from-scratch-on-a-mac-computer/"><u>How to Clear Network Connections & Setup From Scratch on a Mac Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-shift-literature-the-ultimate-guide-for-migrating-epub-pdf-files-into-kobo-device/"><u>How To Shift Literature: The Ultimate Guide for Migrating EPUB, PDF Files Into Kobo Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-ps5-slim-worth-it-a-comprehensive-comparison-to-the-regular-playstation-5-console/"><u>Is the PS5 Slim Worth It? A Comprehensive Comparison to the Regular PlayStation 5 Console</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-gopro-essentials-of-time-lapse-photography/"><u>Mastering GoPro Essentials of Time-Lapse Photography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-notification-history-tips-for-finding-past-alerts-on-an-iphone/"><u>Mastering Notification History: Tips for Finding Past Alerts on an iPhone</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-the-unstoppable-social-giant/"><u>Meta: The Unstoppable Social Giant</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-g54-5g-music-recovery-recover-deleted-music-from-motorola-g54-5g-by-fonelab-android-recover-music/"><u>Motorola G54 5G Music Recovery - Recover Deleted Music from Motorola G54 5G</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-start-making-your-own-sports-highlight-film/"><u>Quick Start Making Your Own Sports Highlight Film</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-boosting-dtv-reception-in-urban-settings-with-an-interior-antenna-setup/"><u>Step-by-Step Guide: Boosting DTV Reception in Urban Settings with an Interior Antenna Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-strategies-for-securely-archiving-and-protecting-your-digital-files/"><u>Top 5 Strategies for Securely Archiving & Protecting Your Digital Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-iphone-15s-resistance-to-liquids-and-its-durability-in-wet-conditions/"><u>Understanding the iPhone 15'S Resistance to Liquids and Its Durability in Wet Conditions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/verlustfreie-verarbeitung-von-dvds-mit-garantierter-unveranderter-qualitat-perfekt-rippbar/"><u>Verlustfreie Verarbeitung Von DVDs Mit Garantierter, Unveränderter Qualität – Perfekt Rippbar!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-an-easy-to-follow-guide-to-applying-cc-license-types/"><u>[New] An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-cutting-edge-screen-recording-free-from-lag-frames/"><u>[New] Cutting-Edge Screen Recording Free From Lag Frames</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-halting-real-time-recordings-on-qt-player/"><u>[Updated] Halting Real-Time Recordings on QT Player</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improving-viewer-experience-with-clearer-web-content/"><u>2024 Approved Improving Viewer Experience with Clearer Web Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-top-performing-moisture-proof-phone-safeguards/"><u>Comprehensive Review: Top-Performing Moisture-Proof Phone Safeguards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-0xc0000185-blue-screen-of-death-a-comprehensive-guide/"><u>Demystifying the 0xC0000185 Blue Screen of Death - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/downloadable-driver-support-for-your-xbox-360-gamepad-get-started-now/"><u>Downloadable Driver Support for Your Xbox 360 Gamepad - Get Started Now!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-sony-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Sony FRP In 3 Different Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-sewindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone SE/Windows/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-account-a-complete-walkthrough-to-change-xs-sign-in-key/"><u>Protect Your Account: A Complete Walkthrough to Change X's Sign-In Key</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-kernel-data-inpage-mishaps-a-step-by-step-guide/"><u>Resolving Kernel Data Inpage Mishaps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-streaming-experience-fixing-issues-with-amazon-primes-subtitle-feature/"><u>Revive Your Streaming Experience: Fixing Issues with Amazon Prime's Subtitle Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-a-step-by-step-guide-on-correcting-cmos-checksum-mismatches/"><u>Solving the Puzzle: A Step-by-Step Guide on Correcting CMOS Checksum Mismatches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-on-how-to-end-your-paramountplus-service/"><u>Step-by-Step Process on How to End Your Paramount+ Service</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722124628093-unpacking-the-pace-problem-why-is-chatgpt-4-not-as-fast-as-its-predecessor-chatgpt-3e/"><u>Unpacking the Pace Problem: Why Is ChatGPT-4 Not As Fast As Its Predecessor, ChatGPT-3.e</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

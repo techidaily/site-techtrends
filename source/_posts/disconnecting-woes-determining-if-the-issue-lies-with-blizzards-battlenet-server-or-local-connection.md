@@ -1,7 +1,7 @@
 ---
 title: "Disconnecting Woes: Determining If the Issue Lies With Blizzard's Battle.net Server or Local Connection"
-date: 2024-10-02T17:24:52.087Z
-updated: 2024-10-09T17:37:59.826Z
+date: 2024-10-20T16:33:55.075Z
+updated: 2024-10-27T18:10:11.096Z
 categories:
   - BestProducts
 description: "This Article Describes Disconnecting Woes: Determining If the Issue Lies With Blizzard's Battle.net Server or Local Connection"
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  If you can't open the websites from Step 1 or nothing else works, then your whole network is probably not working. Try [restarting your router](https://www.lifewire.com/how-to-properly-restart-a-router-modem-2624570) or following our[troubleshooting steps for Wi-Fi issues](https://www.lifewire.com/what-to-do-when-theres-no-wi-fi-internet-connection-2378240) .
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
 
@@ -76,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -92,25 +113,11 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Skype for Computers
 
@@ -123,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
@@ -138,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -166,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
@@ -180,10 +173,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 9: Verify the Microphone Works
@@ -191,6 +184,13 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -231,24 +231,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-free-videographers-essential-openers-for-2024/"><u>[New] Free Videographer's Essential Openers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-optimal-media-transfer-top-free-youtube-mp3-apps-revealed/"><u>[Updated] 2024 Approved Optimal Media Transfer Top Free YouTube-MP3 Apps Revealed</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-how-to-define-ai-video/"><u>2024 Approved How to Define AI Video?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-success-implementing-green-screen-innovations/"><u>2024 Approved Streaming Success Implementing Green Screen Innovations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-setting-up-windows-11-on-your-brand-new-ssd/"><u>Complete Guide: Setting Up Windows 11 on Your Brand-New SSD</u></a></li>
-<li><a href="https://fox-info.techidaily.com/comprehensive-tutorial-on-gdocs-voice-to-text-feature-for-2024/"><u>Comprehensive Tutorial on GDoc's Voice-to-Text Feature for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-tecno-spark-10-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Tecno Spark 10 5G.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-eliminating-screen-burn-in-across-all-displays/"><u>Effective Solutions: Eliminating Screen Burn-In Across All Displays</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/ensuring-longevity-for-androidmac-snapshots-for-2024/"><u>Ensuring Longevity for Android/Mac Snapshots for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-every-aspect-of-the-revolutionary-netflix-online-platform/"><u>Exploring Every Aspect of the Revolutionary Netflix Online Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-screenshotting-in-windows-11-four-essential-strategies/"><u>Guide: Screenshotting in Windows 11 - Four Essential Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-problems-that-occur-during-the-post/"><u>How to Fix Problems that Occur During the POST</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-facts-alive-facebook-amps-up-against-hoaxes/"><u>Keeping Facts Alive: Facebook Amps Up Against Hoaxes</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-best-free-online-video-editor-jaycut-tutorial-and-review/"><u>New In 2024, Discover the Best Free Online Video Editor Jaycut Tutorial and Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/order-of-attraction-how-to-enjoy-every-james-bond-movie-without-missing-a-beat/"><u>Order of Attraction: How to Enjoy Every James Bond Movie Without Missing a Beat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-teleconferencing-integrating-zoom-meetings-with-your-smart-tv-setup/"><u>Seamless Teleconferencing: Integrating Zoom Meetings with Your Smart TV Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-ntdlldll-failures-in-different-windows-systems/"><u>Step-by-Step Fixes for ntdll.dll Failures in Different Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-new-in-ipados-v17-unlock-the-release-schedule-gratis-access-top-features-and-latest-news-highlights/"><u>What's New in iPadOS v17? Unlock the Release Schedule, Gratis Access, Top Features & Latest News Highlights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-8-tactics-for-striking-youtube-thumbnails-that-perform-well/"><u>[New] Top 8 Tactics for Striking YouTube Thumbnails That Perform Well</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiered-patterns-for-panzoid-creation/"><u>2024 Approved Premiered Patterns for Panzoid Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-android-screen-recorder-options-list/"><u>2024 Approved Ultimate Android Screen Recorder Options List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-integrating-audio-into-your-instagram-videos-with-ease/"><u>Guide: Integrating Audio Into Your Instagram Videos with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-solve-code-39-printer-problems-in/"><u>How to Successfully Solve Code 39 Printer Problems In</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-lost-contacts-uncover-deleted-numbers-on-your-android-device/"><u>Recovering Lost Contacts: Uncover Deleted Numbers on Your Android Device</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/say-goodbye-forever-top-10-tools-you-need-to-fully-wipe-out-your-iphones-history-and-data/"><u>Say Goodbye Forever: Top 10 Tools You Need To Fully Wipe Out Your iPhone's History and Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-quintessential-setup-key-applications-for-every-twitch-creator/"><u>The Quintessential Setup: Key Applications for Every Twitch Creator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-rise-of-web-connected-televisions-how-they-work-and-why-they-matter/"><u>The Rise of Web-Connected Televisions: How They Work & Why They Matter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-fixing-and-replacing-fallen-computer-keyboard-buttons/"><u>The Ultimate Tutorial: Fixing and Replacing Fallen Computer Keyboard Buttons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transforming-organizational-strategy-with-digital-intelligence-insights-from-an-abbyy-expert/"><u>Transforming Organizational Strategy with Digital Intelligence: Insights From an ABBYY Expert</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-saying-goodbye-to-facebook-could-mean-a-better-you-a-top-10-list/"><u>Why Saying Goodbye to Facebook Could Mean a Better You - A Top 10 List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/years-premier-picks-top-15-youtube-channels-revolutionizing-product-reviews-2024/"><u>Year's Premier Picks Top 15 YouTube Channels Revolutionizing Product Reviews, 2024</u></a></li>
 </ul></div>
 

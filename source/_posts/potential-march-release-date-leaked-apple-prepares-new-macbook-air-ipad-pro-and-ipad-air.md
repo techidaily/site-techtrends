@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-10-14T21:13:30.940Z
-updated: 2024-10-21T22:31:58.885Z
+date: 2024-10-26T17:30:25.450Z
+updated: 2024-10-27T18:25:44.486Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -76,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -105,10 +105,10 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -116,10 +116,16 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -168,22 +174,17 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/hoot-cool-vids-from-scratch-with-your-mac-newcomers-guide/"><u>[New] Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-troubleshooting-tips-for-fixing-undelivered-sms-issues/"><u>Android Troubleshooting Tips for Fixing Undelivered SMS Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-new-apple-listening-device-insights-on-cost-timing-and-technical-specs/"><u>Anticipating the New Apple Listening Device: Insights on Cost, Timing, and Technical Specs</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-100-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 100 Pro Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-x6-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco X6 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-multi-speaker-sync-link-your-bluetooth-audio-devices-with-ease/"><u>Mastering Multi-Speaker Sync: Link Your Bluetooth Audio Devices with Ease</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-power-solutions-for-gopro-hero5-official-and-third-party-brands-for-2024/"><u>Optimal Power Solutions for GoPro Hero5 Official & Third-Party Brands for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/revisiting-perception-why-consoles-arent-outdone/"><u>Revisiting Perception: Why Consoles Aren't Outdone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-art-of-email-classification-in-gmail-strategically-using-labels-for-better-organization/"><u>The Art of Email Classification in Gmail: Strategically Using Labels for Better Organization</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-evolution-of-immersive-experiences-clarifying-ar-vs-vr-with-additional-insights-on-mr-and-xr/"><u>The Evolution of Immersive Experiences: Clarifying AR vs VR with Additional Insights on MR and XR</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-off-the-alarm-eliminating-unwanted-amber-notifications-on-your-android-device/"><u>Turning Off the Alarm: Eliminating Unwanted AMBER Notifications on Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-concealed-apps-on-your-ios-device-with-ease/"><u>Unlocking Concealed Apps on Your iOS Device with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-expect-from-apple-watch-ultra-2-a-closer-look-at-forecasted-pricing-release-and-technical-details/"><u>What to Expect From Apple Watch Ultra 2: A Closer Look at Forecasted Pricing, Release & Technical Details</u></a></li>
-<li><a href="https://facebook.techidaily.com/when-will-your-messages-be-private-with-fb-messenger-e2ee/"><u>When Will Your Messages Be Private with FB Messenger E2EE?</u></a></li>
+<li><a href="https://win-community.techidaily.com/5aac5l2v5lul6zu25oiq5pys5ogi5asn5yig6zmk5zco55qe5pah5lu277ya6leo5lin5zcm5oof5b2i55qe5oyh5y2x5lio5pa55rov/"><u>如何以零成本恢复删除后的文件：跨不同情形的指南与方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategy-on-flagging-all-email-threads-simultaneously-in-gmail/"><u>Comprehensive Strategy on Flagging All Email Threads Simultaneously in Gmail</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-techniques-and-tools-for-fast-quality-image-reductions/"><u>In 2024, Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-spark-10-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Spark 10 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-top-free-film-selections-to-watch-this-july-2024-on-youtube/"><u>The Ultimate List: Top Free Film Selections to Watch This July 2024 on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-lava-storm-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Lava Storm 5G Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transition-from-gmail-with-ease-find-your-perfect-match-among-these-8-services/"><u>Transition From Gmail with Ease: Find Your Perfect Match Among These 8 Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-stop-code-0x0000001d-expert-solutions/"><u>Troubleshooting Stop Code 0X0000001D: Expert Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-online-video-editors-compatible-with-chromebook/"><u>Updated 2024 Approved Top-Rated Online Video Editors Compatible with Chromebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-woes-be-gone-a-users-manual-for-restoring-winhttpdll-files/"><u>Windows Woes Be Gone: A User’s Manual for Restoring Winhttp.dll Files</u></a></li>
 </ul></div>
 

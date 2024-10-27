@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-10-15T16:22:05.786Z
-updated: 2024-10-21T16:49:47.685Z
+date: 2024-10-24T18:52:52.063Z
+updated: 2024-10-27T17:56:56.958Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,16 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -70,6 +64,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -77,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -96,19 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -146,21 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-choosing-your-stream-mvp-analyzing-xsplit-and-obs-features/"><u>[New] In 2024, Choosing Your Stream MVP Analyzing XSplit and OBS Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>[New] In 2024, The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-moviemakermag-comprehensive-editor-review/"><u>[Updated] MovieMakerMag Comprehensive Editor Review</u></a></li>
-<li><a href="https://win-dash.techidaily.com/achieve-perfect-synergy-between-sandisk-and-windows-10-expert-guide-to-downloading-and-installing-drivers-instantly/"><u>Achieve Perfect Synergy Between SanDisk & Windows 10: Expert Guide to Downloading and Installing Drivers Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-find-user-guides-for-all-iphone-models/"><u>Comprehensive Guide: How To Find User Guides For All iPhone Models</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-updated-realtek-bluetooth-drivers-now-optimized-for-windows-11-and-10-systems/"><u>Get Updated Realtek Bluetooth Drivers Now: Optimized for Windows 11 & 10 Systems!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards/"><u>In 2024, Reversing the Flow A Guide to Tracing Instagram Pics Backwards</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-simply-screen-recording-apowersofts-cost-free-software-review/"><u>In 2024, Simply Screen Recording Apowersoft's Cost-Free Software Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-glitches-with-samsung-tv-applications-a-users-guide/"><u>Overcoming Glitches with Samsung TV Applications: A User's Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-iphone-remote-control-hiccups-effective-problem-solving-strategies/"><u>Overcoming iPhone Remote Control Hiccups: Effective Problem-Solving Strategies</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/reliable-techniques-for-updating-and-installing-amd-ryzen-gpu-drivers-safely/"><u>Reliable Techniques for Updating & Installing AMD Ryzen GPU Drivers Safely</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-battle-of-brilliance-comparing-neo-qled-and-oled-tv-screens/"><u>The Battle of Brilliance: Comparing Neo QLED and OLED TV Screens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-system-files-fix-procpsdll-errors-today/"><u>Troubleshooting the 'Missing System Files': Fix Procps.dll Errors Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-list-the-10-highest-ranking-crypto-questions-for-chatgpt/"><u>Ultimate List: The 10 Highest-Ranking Crypto Questions for ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/voice-enabled-assistance-making-siri-read-your-iphone-or-mac-content-aloud/"><u>Voice-Enabled Assistance: Making Siri Read Your iPhone or Mac Content Aloud</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-does-my-car-battery-consistently-lose-charge-uncovering-the-top-six-reasons-behind-this-issue/"><u>Why Does My Car Battery Consistently Lose Charge? Uncovering the Top Six Reasons Behind This Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta/"><u>[New] In 2024, Turning Tides in Visuals Mastering the Art of Angles and Rotations on Insta</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-visual-snipping-strategy-in-windows-11s-photos-app-for-2024/"><u>[New] Visual Snipping Strategy in Windows 11'S Photos App for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-you-experiencing-issues-with-aol-email-service-or-is-the-platform-actually-undergoing-maintenance/"><u>Are You Experiencing Issues with AOL Email Service or Is the Platform Actually Undergoing Maintenance?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-iphone-models-for-an-immersive-gaming-experience/"><u>Best iPhone Models for an Immersive Gaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-snappydriver-v113-software-evaluation-insights-and-tips/"><u>Comprehensive SnappyDriver V1.13 Software Evaluation: Insights & Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-15-complimentary-windows-11-visual-overhauls/"><u>Discover the Ultimate List of 15 Complimentary Windows 11 Visual Overhauls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-repair-tips-for-a-samsung-soundbar-that-wont-turn-on-or-work-properly/"><u>DIY Repair Tips for a Samsung Soundbar That Won't Turn On or Work Properly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 14</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-a-smooth-experience-with-the-windows-11-photos-app/"><u>In 2024, Steps for a Smooth Experience with the Windows 11 Photos App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/making-sense-of-staying-connected-a-guide-to-understanding-t-mobiles-domestic-roaming-plan/"><u>Making Sense of Staying Connected: A Guide to Understanding T-Mobile's Domestic Roaming Plan</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restart-your-ringtone-steps-to-resolve-iphones-that-wont-make-a-sound/"><u>Restart Your Ringtone: Steps to Resolve iPhones That Won't Make a Sound</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/stream-snipping-specialists-2023-version-for-2024/"><u>Stream Snipping Specialists, 2023 Version for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-dos-and-donts-of-keeping-your-smart-tv-screen-pristine/"><u>The Do's and Don'ts of Keeping Your Smart TV Screen Pristine</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-picking-the-right-voice-assistant-amazons-alexa-vs-googles-answer-to-it/"><u>The Ultimate Guide to Picking the Right Voice Assistant: Amazon's Alexa Vs. Google's Answer to It.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-hdmi-21-tvs-spec-by-spec-comparison-guide/"><u>Top 6 HDMI 2.1 TVs Spec-by-Spec Comparison Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722859884530-unlock-the-power-of-mobile-communication-how-metro-by-t-mobiles-unlimited-plans-work-with-seamless-cellular-and-wi-fi-roaming-across-the-us/"><u>Unlock the Power of Mobile Communication: How Metro by T-Mobile's Unlimited Plans Work With Seamless Cellular and Wi-Fi Roaming Across the U.S.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2024-10-19T16:05:14.109Z
-updated: 2024-10-21T21:53:17.175Z
+date: 2024-10-23T19:01:02.505Z
+updated: 2024-10-27T16:38:33.187Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -38,15 +38,21 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Reminder confirmation](https://www.lifewire.com/thmb/PzyebHvUXsi9Hje98FToFqDftnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackreminderresult-a1aede9c7212420fad2f823efe967309.jpg)
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
 
@@ -56,17 +62,37 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![List of reminders](https://www.lifewire.com/thmb/93fmPOaAUZSyg_r2w9V_Eko55e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-78e950d238934f26bea0fad0dc6c6106.jpg)
 2. Select**Delete** next to the task you want to remove.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The /remind command works the same whether you're using Slack on the web or the Slack mobile app.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set a Reminder in Slack From Messages
 
@@ -76,34 +102,8 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Adding a reminder in Slack from a message](https://www.lifewire.com/thmb/Aof2e6hSv-K9tdZj-mb6_4JL1M0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremindmeaboutthis-76786ff068db4882884989ab933b45ca.jpg)
 2. To add a reminder from a message on the Slack app, long-press on the message and select**Remind Me** from the pop-up menu.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. On the**Remind me** window, tap the time when you want to be reminded. Select**Custom** to set your own date, time, or custom reminder text.  
 ![Remind Me in Slack app](https://www.lifewire.com/thmb/5qXQiml1lToF3zCuFYZVOfTFy2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackappremindme-9ada02a06c2c490bb9fa654470dd6913.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These reminders will show up in the Slackbot channel just like any of the other reminders that you've set for yourself using the /remind command.
 
@@ -136,19 +136,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-visualize-vibrancy-generate-memes-with-kapwing-for-2024/"><u>[New] Visualize Vibrancy Generate Memes with Kapwing for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>[Updated] 2024 Approved Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-archive-snaps-from-android-plus-mac-systems-for-2024/"><u>[Updated] How to Archive Snaps From Android + Mac Systems for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>2024 Approved Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessing-the-need-for-an-early-monterey-upgrade/"><u>Assessing the Need for an Early Monterey Upgrade</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-started-with-iphone-bluetooth-settings-for-beginners/"><u>Getting Started with iPhone Bluetooth Settings for Beginners</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-asus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Asus Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mfc71dll-missing-heres-how-to-restore-it-and-fix-the-issue-fast/"><u>MFC71.DLL Missing? Here's How to Restore It & Fix the Issue Fast</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pcwinx-mediatrans/"><u>PCとスマートデバイスに対応したWinX MediaTrans: 簡単な操作で音楽、ビデオ、画像のシームレス転送</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rewriting-history-with-instagram-how-to-adjust-your-direct-messages-seamlessly/"><u>Rewriting History with Instagram: How to Adjust Your Direct Messages Seamlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-a-step-by-step-guide-on-restoring-power-to-your-malfunctioning-roku-television/"><u>Solving the Dilemma: A Step-by-Step Guide on Restoring Power to Your Malfunctioning Roku Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fix-for-android-devices-unable-to-place-or-receive-calls/"><u>Step-by-Step Fix for Android Devices Unable to Place or Receive Calls</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-ranked-smart-irrigation-controllers-comparing-rachio-rainmachine-wyze-and-beyond-insights-from-zdnet/"><u>Top-Ranked Smart Irrigation Controllers : Comparing Rachio, RainMachine, Wyze, and Beyond - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-is-dac-and-do-you-need-one/"><u>What Is DAC, and Do You Need One?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-zero-to-youtube-creating-a-stellar-new-chanel-for-2024/"><u>[New] From Zero to YouTube Creating a Stellar New Chanel for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-pickers-best-websites-to-secure-snapalert-music/"><u>[Updated] Premium Pickers Best Websites to Secure SnapAlert Music</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-places-to-get-free-downloads-of-ebooks-online/"><u>Discover the Best Places to Get Free Downloads of Ebooks Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-hands-on-hot-tech-deals-this-years-amazon-prime-day-extravaganza/"><u>Get Your Hands on Hot Tech Deals – This Year's Amazon Prime Day Extravaganza</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-copilot-in-microsoft-teams/"><u>How to Use Copilot in Microsoft Teams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-8-best-website-for-3d-graffiti-fonts/"><u>In 2024, 8 Best Website for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart TV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/trategic-use-of-tags-a-guide-to-youtube-success/"><u>The Strategic Use of Tags A Guide to YouTube Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-exclusive-academic-deals-a-guide-to-securing-the-tidal-education-price-break/"><u>Unlocking Exclusive Academic Deals: A Guide to Securing the Tidal Education Price Break</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-hierarchy-the-number-of-tiers-within-royal-match-revealed/"><u>Unveiling the Hierarchy: The Number of Tiers Within 'Royal Match' Revealed</u></a></li>
 </ul></div>
 

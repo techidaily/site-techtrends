@@ -1,7 +1,7 @@
 ---
 title: How to Fix It When Roku Closed Captioning Won't Turn On
-date: 2024-10-02T23:22:40.010Z
-updated: 2024-10-09T18:15:03.941Z
+date: 2024-10-24T19:36:04.898Z
+updated: 2024-10-27T19:20:29.206Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix It When Roku Closed Captioning Won't Turn On
@@ -24,10 +24,16 @@ thumbnail: https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/fi
  This article will walk you through the steps for how to reset network settings on a Mac. Unlike resetting network settings on an iPhone or Windows 10 computer, there’s no specific function on Macs for refreshing internet and wireless connection preferences, but it can still be done via the two methods shown below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Reset Network Settings in macOS?
@@ -45,6 +51,13 @@ thumbnail: https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/fi
 1. Click the**Wi-Fi** icon in menu bar.  
 ![Wi-Fi icon in macOS menu bar.](https://www.lifewire.com/thmb/ZQJSC9POWF9sWOG1QhLW7RDze88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_reset-network-settings-on-mac-5184072-8a2df70ce23140b4840713440a0b7006.jpg)
 2. Choose**Wi-Fi Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also get to this area from**Apple** icon >**System Settings** \>**Network** \>**Wi-Fi** .  
 ![Wi-Fi Settings option from Wi-Fi menu bar in macOS.](https://www.lifewire.com/thmb/FTW5VOi-SWCWJTkAeO-JixFq45Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_reset-network-settings-on-mac-5184072-82054f43a0e64b3bbf42514fba247325.jpg)
@@ -69,41 +82,27 @@ thumbnail: https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/fi
 3. With Wi-Fi off, click**Go** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mac desktop with Wi-Fi off and Go highlighted](https://www.lifewire.com/thmb/c7krTBV2WzWM6wsQcEyD81P-gMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/203-reset-network-settings-on-mac-5184072-b8edc379dfbf4d488636aa9946738cea.jpg)
 4. From the Go menu, click**Go to Folder** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mac Go menu with Go to Folder highlighted](https://www.lifewire.com/thmb/ltrHX0TSFM8xzCtAJYBX0Gye-qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/204-reset-network-settings-on-mac-5184072-6e152a92bd3b4f5f9ba473ba76127c8c.jpg)
 5. Type**/Library/Preferences/SystemConfiguration/** into the text field and Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac Go to Field](https://www.lifewire.com/thmb/oInJvndiGGUBjiVV4dCuYipWrK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/205-reset-network-settings-on-mac-5184072-01298987aa224234b7e9e2f8faa9633d.jpg)
 6. Select the following five files:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * **com.apple.airport.preferences.plist**  
    * **com.apple.network.identification.plist** or**com.apple.network.eapolclient/configuration.plist**  
@@ -113,6 +112,14 @@ thumbnail: https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/fi
  Depending on your macOS version, you may not see all of the above files.  
 ![Mac network settings with five files highlighted](https://www.lifewire.com/thmb/4knKSgQkHK2UZGhEN6af3HgOVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/206-reset-network-settings-on-mac-5184072-b943ca5296604916a56612a49afabb87.jpg)
 7. **Command+click** to choose the select files, select**Copy** , then right-click the desktop and select**Paste** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Five Mac files selected and and Paste highlighted](https://www.lifewire.com/thmb/BIuvI7-mjZvRyw2DUhbjeF6nbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/207-reset-network-settings-on-mac-5184072-bbc93c2a2a934c8dbc520bf40201ff4b.jpg)
 8. Right-click the files in their original location and select**Move to Trash** to delete them.  
 
@@ -120,15 +127,15 @@ thumbnail: https://www.lifewire.com/thmb/5TA0uUEj3d0A_8FG2XepFc8tz6Q=/400x300/fi
 ![Mac selected files with Move to Trash highlighted](https://www.lifewire.com/thmb/Sn7RQOe_p_Sep46jpbpmtSngU3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/208-reset-network-settings-on-mac-5184072-f136a9e1ab444832a681b2f7bb014497.jpg)
 9. Restart your Mac as usual and turn its Wi-Fi back on. The deleted files should be recreated within their original location, and all your network settings should now be reset.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mac network settings files in folder](https://www.lifewire.com/thmb/TFIJTKhjr13-gJm5a2b7c1Qvs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/209-reset-network-settings-on-mac-5184072-6ccf3e11aa614ea6b334efc3bb44c1ec.jpg)  
  If everything is working fine, feel free to delete the copies of the files on your desktop.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Will Resetting My Network Settings Do?
 
@@ -173,17 +180,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023-for-2024/"><u>[New] Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023 for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-eliminating-an-obsolete-linkedin-identity-stepwise-guide/"><u>[New] Eliminating an Obsolete LinkedIn Identity Stepwise Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-arsenal-for-modern-enterprise-top-trending-gadgets-and-tech-to-own/"><u>[Updated] Essential Arsenal for Modern Enterprise Top Trending Gadgets and Tech To Own</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ideal-recording-software-to-enrich-your-online-collaboration-for-2024/"><u>[Updated] Ideal Recording Software to Enrich Your Online Collaboration for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/achieve-free-streaming-your-ultimate-guide-to-getting-netflix-without-paying/"><u>Achieve Free Streaming: Your Ultimate Guide to Getting Netflix Without Paying</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722847380373-best-8-unique-dual-phone-numbers-apps-you-must-try/"><u>Best 8 Unique Dual Phone Numbers Apps You Must Try</u></a></li>
-<li><a href="https://facebook.techidaily.com/clearing-your-facebook-footprint-on-android/"><u>Clearing Your Facebook Footprint on Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-solutions-for-a-408-request-timed-out-issue-online/"><u>Mastering Solutions for a 408 Request Timed Out Issue Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-to-resolve-missing-dependencies-in-windows-applications/"><u>Step-by-Step Strategies to Resolve Missing Dependencies in Windows Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-tutorial-on-assessing-monthly-bandwidth-expenditure/"><u>The Comprehensive Tutorial on Assessing Monthly Bandwidth Expenditure</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-legal-implications-of-youtube-video-savings/"><u>[Updated] In 2024, Legal Implications of YouTube Video Savings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-ios-gaming-apps-with-cutting-edge-vr-features/"><u>[Updated] In 2024, Top iOS Gaming Apps with Cutting-Edge VR Features</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-engaging-slideshows-with-final-cut-pro-a-step-by-step-guide/"><u>Create Engaging Slideshows with Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-non-functional-intel-driver-assistance-tools/"><u>Expert Solutions: Overcoming Non-Functional Intel Driver Assistance Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-enabling-imessage-functionality-on-your-android-device/"><u>Guide: Enabling iMessage Functionality on Your Android Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p55-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P55 5G Phones with/without a PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-bumble-search-strategies-for-finding-your-perfect-match/"><u>Mastering Bumble Search: Strategies for Finding Your Perfect Match</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-repair-techniques-dealing-with-common-screen-line-problems-on-tvs/"><u>Mastering Repair Techniques: Dealing with Common Screen Line Problems on TVs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-chatgpt-app-integration-on-your-android-device/"><u>Mastering the ChatGPT App Integration on Your Android Device</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-honor-x8b-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor X8b</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-workflows-with-faster-less-memory-hungry-tools/"><u>Revolutionizing Workflows with Faster, Less Memory-Hungry Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplified-methods-to-erase-your-login-pin-from-windows-10-system/"><u>Simplified Methods to Erase Your Login PIN From Windows 10 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-keeping-your-electronic-records-safe-discover-5-proven-approaches/"><u>The Ultimate Guide to Keeping Your Electronic Records Safe – Discover 5 Proven Approaches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watch-fandango-films-on-apple-tv-the-ultimate-step-by-step-tutorial/"><u>Watch Fandango Films on Apple TV - The Ultimate Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

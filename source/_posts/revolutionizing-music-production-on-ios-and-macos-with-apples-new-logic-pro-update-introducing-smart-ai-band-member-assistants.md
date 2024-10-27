@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Music Production on iOS and macOS with Apple's New Logic Pro Update - Introducing Smart, AI 'Band Member' Assistants
-date: 2024-10-05T19:30:02.851Z
-updated: 2024-10-10T00:30:48.174Z
+date: 2024-10-22T17:43:12.621Z
+updated: 2024-10-27T19:48:33.191Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -64,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,17 +130,21 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-filter-techniques/"><u>[New] 2024 Approved Mastering Instagram Filter Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-synchronized-screenshots-pc-or-cloud-perfection/"><u>[New] 2024 Approved Synchronized Screenshots PC or Cloud Perfection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-minimca-houses-best-abode-guides-for-new-players/"><u>[Updated] 2024 Approved MiniMCA Houses Best Abode Guides for New Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-music-for-imovie-all-you-need-to-know-are-here/"><u>2024 Approved Music for iMovie All You Need to Know Are Here</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-in-screenshots-a-detailed-guide/"><u>2024 Approved Precision in Screenshots A Detailed Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows/"><u>Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-turning-off-facebook-access-on-android-smartphones/"><u>Expert Tips for Turning Off Facebook Access on Android Smartphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pinnacle-screenplays-reviewed-for-2024/"><u>Pinnacle Screenplays Reviewed for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi on Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-kernel32dll-issues-on-your-pc-step-by-step-guide/"><u>Resolving Kernel32.dll Issues on Your PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-gaming-stocking-stuffers-consoles-extras-kids-choice/"><u>Ultimate Gaming Stocking Stuffers: Consoles, Extras, Kid's Choice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/waterproof-features-of-the-latest-iphone-15-what-you-need-to-know-before-diving-in/"><u>Waterproof Features of the Latest iPhone 15: What You Need to Know Before Diving In</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games/"><u>[Updated] 2024 Approved Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-rapid-audience-expansion-without-breaking-the-bank-for-2024/"><u>[Updated] Rapid Audience Expansion Without Breaking the Bank for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-best-practices-in-confirming-your-youtube-access/"><u>2024 Approved Best Practices in Confirming Your YouTube Access</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-snap-in-hours-stars-quick-hit-video-winners/"><u>2024 Approved Snap-in-Hours Stars Quick Hit Video Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-vital-game-components-that-grab-users-attention/"><u>6 Vital Game Components that Grab Users’ Attention</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-the-common-problem-of-a-lost-binkw32dll-file/"><u>Comprehensive Solutions to the Common Problem of a Lost binkw32.dll File</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discover-the-best-no-cost-soundtracks-for-video-production-for-2024/"><u>Discover the Best No-Cost Soundtracks for Video Production for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-the-missing-wlanapidll-error-in-windows/"><u>Effective Fixes for the Missing Wlanapi.dll Error in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-experience-correcting-call-of-duty-warzones-disc-read-mistakes-with-50-31/"><u>Error-Free Gaming Experience - Correcting Call of Duty Warzone's Disc Read Mistakes with [5.0, 3.1]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-need-for-rtx-graphics-card-enhancement/"><u>Evaluating the Need for RTX Graphics Card Enhancement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-can-you-retrieve-your-lost-email-address-a-comprehensive-guide/"><u>How Can You Retrieve Your Lost Email Address? A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-and-enhance-your-sound-experience-with-idt-hd-audio-codec-driver-on-windows-10/"><u>How to Fix and Enhance Your Sound Experience with IDT HD Audio Codec Driver on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-malfunctioning-spell-check-in-your-email-client-outlook-edition/"><u>How to Fix Malfunctioning Spell Check in Your Email Client - Outlook Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reverse-your-snaps-on-snapchat-a-step-by-step-guide/"><u>Reverse Your Snaps on Snapchat - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-taking-off-and-replacing-your-phones-screen-safeguard/"><u>Step-by-Step Instructions for Taking Off & Replacing Your Phone's Screen Safeguard</u></a></li>
 </ul></div>
 

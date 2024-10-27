@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Expert Tips for Tailoring and Optimizing Your iPhone's Control Center Features"
-date: 2024-10-20T22:44:27.402Z
-updated: 2024-10-21T22:50:54.083Z
+date: 2024-10-24T16:48:24.530Z
+updated: 2024-10-27T16:11:13.668Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,13 +50,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -77,6 +63,13 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -86,16 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -103,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,20 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/onetization-mastery-thriving-in-the-youtube-economy-no-ads-included-for-2024/"><u>[New] Monetization Mastery Thriving in the YouTube Economy, No Ads Included for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-screen-capture-central-apowsort-vs-competitors-explored/"><u>[New] Screen Capture Central Apowsort vs Competitors Explored</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-understanding-livestream-technology-explained/"><u>[New] Understanding Livestream Technology Explained</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-essential-checklist-for-integrating-subtitle-track-into-mp4s/"><u>[Updated] In 2024, Essential Checklist for Integrating Subtitle Track Into MP4s</u></a></li>
-<li><a href="https://win-special.techidaily.com/affordable-microsoft-project-and-visio-professional-licenses-on-sale-at-20-shop-now-zdnet/"><u>Affordable Microsoft Project & Visio Professional Licenses on Sale at $20 - Shop Now | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-raw-photos-to-png-for-free-effortless-image-editing-by-movavi/"><u>Convert RAW Photos to PNG for Free - Effortless Image Editing by Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-mp4-en-format-asf-avec-movavi/"><u>En Ligne : Convertissez Gratuitement Des Fichiers MP4 en Format ASF Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ferramenta-on-line-livre-para-converter-arquivos-ogv-em-mp4-com-movavi-comandos-simples-e-rapidos/"><u>Ferramenta On-Line Livre Para Converter Arquivos OGV Em MP4 Com Movavi - Comandos Simples E Rápidos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-png-konvertierung-mit-movavi-effektive-online-bildbearbeitungssoftware-fur-freigegebene-dateiubersetzungen/"><u>Gratis PNG Konvertierung Mit Movavi - Effektive Online-Bildbearbeitungssoftware Für Freigegebene Dateiübersetzungen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavis-online-service-transform-mp4-files-into-m4b-format-at-no-cost/"><u>Movavi's Online Service - Transform MP4 Files Into M4B Format at No Cost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4-mka-movavi/"><u>MP4 표준으로 MKA 영상 변환하기 – 무가스 Movavi 도구를 사용한다</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/the-easiest-way-to-edit-gopro-videos-a-beginners-guide-for-2024/"><u>The Easiest Way to Edit GoPro Videos A Beginners Guide for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-mac-ts/"><u>Windows 또는 Mac에서 .TS 파일을 사용한 영상 프레임워크 구현 방법</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-epicurean-education-recipe-film-making/"><u>[New] In 2024, Epicurean Education Recipe Film-Making</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] In 2024, Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>[New] Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-5-free-video-effects-sites/"><u>[Updated] 2024 Approved Top 5 Free Video Effects Sites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-end-hardware-a-showcase-of-excellence/"><u>[Updated] High-End Hardware A Showcase of Excellence</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avs-video-editor-a-review-of-its-performance-and-capabilities/"><u>AVS Video Editor A Review of Its Performance and Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-huion-h420-simple-updates-for-windows/"><u>Enhance Huion H420: Simple Updates for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-play-ps4-games-using-the-new-sony-playstation-5/"><u>How To Play PS4 Games Using the New Sony PlayStation 5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-project-your-virtual-meetings-onto-a-television-for-larger-groups/"><u>How To Project Your Virtual Meetings Onto a Television for Larger Groups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-the-notorious-0x8e070570-fault-with-ease/"><u>How To Resolve The Notorious '0X8e070570' Fault With Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-14s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi 14s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-non-ejectable-dvd-bd-and-cd-players/"><u>Step-by-Step Solutions for Non-Ejectable DVD, BD & CD Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-valorant-from-crashing-effective-solutions-for-pc-gamers/"><u>Stop Valorant From Crashing - Effective Solutions for PC Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-is-now-a-closer-look-at-the-new-foldable-iphone-price-estimates-and-launch-expectations-amidst-rising-rumors/"><u>The Future Is Now - A Closer Look at the New Foldable iPhone, Price Estimates & Launch Expectations Amidst Rising Rumors</u></a></li>
 </ul></div>
 

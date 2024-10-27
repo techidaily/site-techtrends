@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-10-16T19:40:23.577Z
-updated: 2024-10-21T21:31:38.755Z
+date: 2024-10-24T19:27:22.683Z
+updated: 2024-10-27T17:02:20.737Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -48,13 +48,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -63,18 +56,18 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -87,6 +80,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -96,13 +96,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -127,16 +120,16 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -146,6 +139,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,17 +176,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[New] 2024 Approved Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[Updated] 2024 Approved Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726225671593-nef-movavi/"><u>無需金錢的網路NEF傳輸服務 - Movavi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>Breakthrough Techniques for Streaming Success OBS Studio (Android)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descarga-la-herramienta-de-transferencia-de-trp-a-mpeg-gratuita-online-con-movavi/"><u>Descarga La Herramienta De Transferencia De TRP a MPEG Gratuita Online Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-mp4-converter-convert-ram-files-with-movavi/"><u>Free Online MP4 Converter: Convert RAM Files with Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-academic-avenue-leading-educators-on-youtube/"><u>In 2024, Academic Avenue Leading Educators on YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-creating-viral-hashtag-campaigns-on-twitter/"><u>In 2024, Creating Viral Hashtag Campaigns on Twitter</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x9b-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X9b</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726222640865-wavmp3-movavi/"><u>WAVファイルをMP3に変換: オンラインで自由な解析 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726223700740-6/"><u>이 연도, '동영상 자막 넣기'에 대한 최신 정보! 우리가 추천하는 6형제: 긍정적인 바로그 선택</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-visual-clarity-quest-deciphering-ultrawide-and-uhd-4k-monitors/"><u>[New] In 2024, Visual Clarity Quest Deciphering UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster-for-2024/"><u>[Updated] Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-make-every-gaming-moment-count-top-5-ways-to-record-in-minecraft-on-a-mac/"><u>2024 Approved Make Every Gaming Moment Count Top 5 Ways to Record in Minecraft on a Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/captivating-and-trending-the-best-507-instagram-captions-to-use/"><u>Captivating and Trending: The Best 507 Instagram Captions to Use</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-visual-experience-upgrade-to-the-latest-nvidia-geforce-210-drivers-on-windows-10/"><u>Enhance Your Visual Experience: Upgrade to the Latest Nvidia GeForce 210 Drivers on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-notfound-ssleay32dll-error-in-windows-systems/"><u>Fixing NotFound: Ssleay32.dll Error in Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/managing-several-youtube-channels-at-once-how-feasible-is-this/"><u>Managing Several YouTube Channels At Once: How Feasible Is This?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-get-closer-to-the-artistic-marvels-of-ai-portrait-generator/"><u>New In 2024, Get Closer to the Artistic Marvels of AI Portrait Generator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-mfc42ddll-file-missing-bugs-with-these-proven-steps/"><u>Overcoming 'mfc42d.dll File Missing' Bugs with These Proven Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pros-and-cons-of-minecraft-realms-a-comprehensive-guide/"><u>Pros and Cons of Minecraft Realms: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-phone-grove-with-our-insights-into-7-key-wi-fi-issues/"><u>Speed Up Your Phone' Grove with Our Insights Into 7 Key Wi-Fi Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-repair-techniques-for-a-non-functional-microsoft-edge/"><u>Step-by-Step Repair Techniques for a Non-Functional Microsoft Edge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-significance-of-quick-memory-retrieval-for-enhanced-pc-functionality/"><u>The Significance of Quick Memory Retrieval for Enhanced PC Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-syncing-your-devices-with-a-bose-soundlink-speaker/"><u>Ultimate Guide: Syncing Your Devices with a Bose SoundLink Speaker</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-12-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 12 Pro has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

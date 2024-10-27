@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-10-17T21:20:58.563Z
-updated: 2024-10-21T19:57:22.995Z
+date: 2024-10-20T19:49:39.282Z
+updated: 2024-10-27T19:07:17.897Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,22 +134,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-starting-up-the-guide-to-youtube-fame-in-gaming/"><u>[New] In 2024, Starting Up The Guide to YouTube Fame in Gaming</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-optimize-video-posts-a-comprehensive-crop-and-export-method-for-2024/"><u>[New] Optimize Video Posts A Comprehensive Crop & Export Method for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-automate-calendar-events-to-zoom-on-mobile-devices-for-2024/"><u>[Updated] Automate Calendar Events to Zoom on Mobile Devices for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/instagram-gif/"><u>「Instagram 映像を GIF形式で簡単に保存するコツ」</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-ogmwmv/"><u>網路直接免費轉檔Movavi OGM成WMV - 最佳線上換格器</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambio-mpeg-a-formato-avi-online-senza-costi-servizi-di-movavi/"><u>Cambio MPEG a Formato AVI Online Senza Costi - Servizi Di Movavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/chromium-os-built-in-video-capturer/"><u>Chromium OS Built-In Video Capturer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-mpeg-a-formato-mkv-sin-coste-con-herramientas-en-la-web/"><u>Cómo Convertir Archivos MPEG a Formato MKV Sin Coste Con Herramientas en La Web</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-finest-15-no-cost-desktop-recording-tools-by-movavi-ratings/"><u>Discover the Finest 15 No-Cost Desktop Recording Tools by Movavi Ratings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-motion-trackers-compare-free-vs-paid-solutions-insights-from-movavi/"><u>Discover the Ultimate List of Motion Trackers: Compare Free vs Paid Solutions - Insights From Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-how-to-toggle-off-subtitles-on-amazon-prime-video-platform/"><u>Guide: How to Toggle Off Subtitles on Amazon Prime Video Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavimp3/"><u>Movaviでシームレスなオンライン無料MP3フォーマット変換サービス</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mpg-file-transformation-into-flv-format-free-quick-and-easy-with-movavi-converter/"><u>MPG File Transformation Into FLV Format Free - Quick & Easy with Movavi Converter</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-remedying-code-error-0x80072f8f/"><u>Preventing and Remedying Code Error 0X80072f8f</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-outils-logiciels-pour-creer-des-gifs-parfaits-la-selection-de-2024-avec-movavi/"><u>Top 10 Outils Logiciels Pour Créer Des GIFs Parfaits - La Sélection De 2024 Avec Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-30-gamer-tracker-apps-insight/"><u>Top 30 Gamer Tracker Apps Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-java-failure-in-windows-installation/"><u>Troubleshooting Java Failure in Windows Installation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-buyers-guide-to-picking-a-perfect-motherboard-the-essential-7-considerations/"><u>A Buyer's Guide to Picking a Perfect Motherboard - The Essential 7 Considerations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-maximizing-gameplay-smoothness-by-fixing-frames-per-second-fps-issues-on-desktop-computers/"><u>Expert Tips for Maximizing Gameplay Smoothness by Fixing Frames Per Second (FPS) Issues on Desktop Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479903252-facing-issues-with-your-iphones-cellular-data-discover-10-remedies/"><u>Facing Issues with Your iPhone's Cellular Data? Discover 10 Remedies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-superior-panzoid-constructs-guide/"><u>In 2024, Superior Panzoid Constructs Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastermind-of-motherboards-how-to-make-an-informed-decision-using-these-7-considerations/"><u>Mastermind of Motherboards: How to Make an Informed Decision Using These 7 Considerations</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/mikro-sd-speicherpartitionen-wiederherstellen-effiziente-methoden-bei-myrecover/"><u>Mikro-SD Speicherpartitionen Wiederherstellen - Effiziente Methoden Bei MyRecover</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-ultimate-64-bit-video-editor-for-windows-for-2024/"><u>New Discover the Ultimate 64-Bit Video Editor for Windows for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722891834112-resolving-the-comctl32dll-error-a-step-by-step-guide/"><u>Resolving the Comctl32.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/star-trek-movie-saga-the-ultimate-viewing-guide/"><u>Star Trek Movie Saga: The Ultimate Viewing Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722885664541-top-8-search-tools-to-locate-any-person-online/"><u>Top 8 Search Tools To Locate Any Person Online</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-free-tools-seamless-conversion-of-videos-into-multiple-languages/"><u>Top Free Tools: Seamless Conversion of Videos Into Multiple Languages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-update-and-installation-issues-error-code-0x80070643/"><u>Troubleshooting Guide: Resolving Windows Update and Installation Issues (Error Code 0X80070643)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-d3dx-library-correcting-d3dx933dll-absence/"><u>Troubleshooting the D3DX Library: Correcting d3dx9_33.dll Absence</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How iOS Update Brought Back Lost Memories: Insights Into Deleted Photos Resurfacing with iPhone OS 17.5 | Tech Digest"
-date: 2024-10-14T19:29:04.543Z
-updated: 2024-10-21T21:24:50.760Z
+date: 2024-10-22T18:33:17.916Z
+updated: 2024-10-27T16:46:41.817Z
 tags:
   - apple
 categories:
@@ -24,13 +24,6 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 
 ## Here's how to back up your iPhone with iCloud
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Go to settings and tap on your name at the top
 
 Image: Maria Diaz / ZDNet
@@ -45,6 +38,13 @@ Image: Maria Diaz / ZDNet
 
 Image: Maria Diaz / ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 4: Enable iCloud Backup and select Back up Now
 
 Image: Maria Diaz / ZDNet
@@ -53,24 +53,30 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's how to back up your iPhone on a Mac
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Connect your iPhone to the computer
 
 Image: Maria Diaz / ZDNet
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Open Finder to find your iPhone in Locations
@@ -88,10 +94,10 @@ Be sure to select **Back up all of the data on your iPhone to this Mac** before 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much does iCloud cost?
@@ -149,22 +155,20 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-budget-friendly-hd-video-capturing-for-home-studios/"><u>[New] Budget-Friendly HD Video Capturing for Home Studios</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-compact-drone-guide-unraveling-dji-sparks-selfie-prowess-for-2024/"><u>[New] The Ultimate Compact Drone Guide Unraveling DJI Spark's Selfie Prowess for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-list-of-ai-named-generators-for-podcasters/"><u>[Updated] The Ultimate List of AI Named Generators for Podcasters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-video-narrative-enhancer/"><u>[Updated] Video Narrative Enhancer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-access-pass-explore-the-premier-free-sports-streaming-websites-of-2e-year/"><u>All Access Pass: Explore the Premier Free Sports Streaming Websites of 2E-Year</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-chatgpt-replacements/"><u>Discover the Ultimate List of ChatGPT Replacements</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enabling-cross-platform-viewing-streaming-diverse-content-from-vlc-to-apple-tv/"><u>Enabling Cross-Platform Viewing: Streaming Diverse Content From VLC to Apple TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-digital-dialogue-how-does-wi-fi-calling-work/"><u>Exploring Digital Dialogue: How Does Wi-Fi Calling Work?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/how-to-analyze-your-and-competitors-youtube-video-for-2024/"><u>How to Analyze Your and Competitor’s YouTube Video for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-comparing-screen-recorders-the-leader-vs-contenders/"><u>In 2024, Comparing Screen Recorders The Leader Vs. Contenders</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone without PIN</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>In 2024, Pivotal Video Moments Secrets to Stellar Text Enhancements</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-work-efficiency-with-split-screen-functionality-on-your-macbook-air/"><u>Maximizing Work Efficiency with Split Screen Functionality on Your MacBook Air</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-msvcr71dll-file-not-found-problems/"><u>Step-by-Step Solution for 'MSVCR71.DLL' File Not Found Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/waterlogged-woes-be-gone-testing-the-waterproof-claims-for-iphone-15-pro-max/"><u>Waterlogged Woes Be Gone? Testing the Waterproof Claims for iPhone 15 Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winning-approval-from-trustedinstaller-on-windows-11-a-step-by-step-guide/"><u>Winning Approval From TrustedInstaller on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-branding-beats-technicalities-focus-on-your-streams-signature-style-for-2024/"><u>[New] Branding Beats Technicalities Focus on Your Stream's Signature Style for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-capture-and-keep-best-five-extensions-for-fb-videos/"><u>[Updated] Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-infinite-gaming-space-10-ssds-hdds-for-ps5/"><u>[Updated] Infinite Gaming Space #10 SSDs, HDDs for PS5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mov-to-3gp-movavi/"><u>無料で高品質MOV to 3GP変換 – Movaviの使いやすさ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-minecraft-realms-worth-your-time-an-in-depth-analysis/"><u>Are Minecraft Realms Worth Your Time? An In-Depth Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-walkthrough-for-restoring-default-network-settings-on-a-mac-computer/"><u>Complete Walkthrough for Restoring Default Network Settings on a Mac Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x80072f8f-on-your-pc-easy-fixes-for-windows-11-and-10/"><u>Error 0X80072F8F on Your PC? Easy Fixes for Windows 11 and 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-stinger-headset-microphone-issues-step-by-step-guide/"><u>Fixing HyperX Cloud Stinger Headset Microphone Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-malfunctioning-subtitles-on-amazon-prime-a-step-by-step-tutorial/"><u>Fixing Malfunctioning Subtitles on Amazon Prime – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/follow-these-steps-to-create-a-fresh-stronger-password-for-your-formerly-known-as-twitter-profile-on-x-app/"><u>Follow These Steps to Create a Fresh, Stronger Password for Your Formerly Known as Twitter Profile on X App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-image-safekeepers-online/"><u>In 2024, Best Image Safekeepers Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-directx-dll-issues-a-step-by-step-guide/"><u>Solving DirectX DLL Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-vr-disappeared-here-are-6-clever-fixes-to-get-it-back-on-track/"><u>Steam VR Disappeared? Here Are 6 Clever Fixes to Get It Back on Track!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-off-the-autoplay-feature-for-a-better-apple-music-experience/"><u>Turn Off the Autoplay Feature for a Better Apple Music Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-nothing-phone-3-anticipated-launch-details-cost-estimates-and-leaked-specifications/"><u>Unveiling the 'Nothing Phone 3': Anticipated Launch Details, Cost Estimates & Leaked Specifications</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
-date: 2024-10-16T23:26:48.575Z
-updated: 2024-10-21T16:02:43.139Z
+date: 2024-10-26T18:02:31.714Z
+updated: 2024-10-27T18:01:43.025Z
 categories:
   - BestProducts
 description: This Article Describes Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
@@ -26,13 +26,6 @@ Close
 
  This article explains how to combine multiple JPEGs into one PDF on Windows and Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Make Multiple JPEGs Into One PDF on Windows
 
  Follow these steps to merge multiple images into one PDF on Windows:
@@ -49,27 +42,41 @@ Close
 ![Microsoft Print to PDF in Windows 10 Printer dialog](https://www.lifewire.com/thmb/p3IiqiFSFIE5T7z1aC3c8Y9RVnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle49-bc1e4c00c6774f3facef9276808e1a6b.jpg)
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
 6. Select**Print** , then enter a name for the PDF and choose where you want to save it. Select**Save** to finish.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You now have a PDF file containing all your images you can print or attach to an email.  
 
  Websites like the[ JPG to PDF converter tool](https://smallpdf.com/jpg-to-pdf) also let you upload images and then download a PDF.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Combine Images Into a PDF on a Mac
 
@@ -78,19 +85,20 @@ Close
 1. Open your images in the Preview app. Press the**Command** key as you choose multiple images, then right-click and select**Open with** \>**Preview** .  
 ![Preview in the Finder context menu on Mac](https://www.lifewire.com/thmb/cd431MkhBC0DtgvHDda29AAVxyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle52-7e463ca835a8452a8e6255c8f84e7bc5.jpg)
 2. Click-and-drag the photos in the sidebar to rearrange their order. When you're satisfied, select**File** \>**Print** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
 
  Alternately, choose**Send in Mail** to send the PDF to someone directly as an email attachment.  
 ![Save as PDF in Mac Printer dialog](https://www.lifewire.com/thmb/T5qiCILDPCq3USXycr-nMv-R36I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle54-46f2d6bf443140d78f6fc2c1494e5921.jpg)
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
 
@@ -134,20 +142,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unveil-the-art-of-creating-astonishing-gopro-time-lapse-videos/"><u>[New] Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-streamlining-media-formats-from-srt-to-advanced-standards/"><u>[Updated] In 2024, Streamlining Media Formats From SRT to Advanced Standards</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-key-techniques-boosting-video-reach-across-both-platforms-for-2024/"><u>[Updated] Key Techniques Boosting Video Reach Across Both Platforms for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726224483278-m4v-vob-movavi/"><u>線上 免費M4V 至 VOB 轉換器: 一項全面解決方案 - Movavi指南</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-drive-samsung-galaxy-note20-ultra-5g-unboxed-and-analyzed/"><u>Comprehensive Test Drive: Samsung Galaxy Note20 Ultra 5G Unboxed & Analyzed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-pbm-images-into-jpeg-format-free-of-cost-moveavi/"><u>Convert PBM Images Into JPEG Format Free of Cost - MoveAVI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-stunning-youtube-previews-discover-the-leading-on-demand-banner-crafters/"><u>Creating Stunning YouTube Previews? Discover the Leading On-Demand Banner Crafters!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-3gpp-to-mp4-converter-by-movavi-quick-and-easy-file-transformation/"><u>Free Online 3GPP to MP4 Converter by Movavi: Quick and Easy File Transformation</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-error-to-ease-the-nvidia-install-journey/"><u>From Error to Ease: The NVIDIA Install Journey</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ga-till-digital-med-vhs-filmer-komplett-guide-till-konvertering-av-din-videoproduktion/"><u>Gå Till Digital Med Vhs-Filmer: Komplett Guide Till Konvertering Av Din Videoproduktion</u></a></li>
-<li><a href="https://win-docs.techidaily.com/how-to-quickly-deploy-windows-os-installs-on-several-machines-at-once/"><u>How to Quickly Deploy Windows OS Installs on Several Machines at Once</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-full-dynamics-review-2023/"><u>In 2024, Full Dynamics Review 2023</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavis-latest-free-image-converter-tool-now-available-for-online-use/"><u>Movavi's Latest Free Image Converter Tool Now Available for Online Use</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-silent-gameplay-restoring-sounds-in-call-of-duty-black-ops-cold-war-for-pc-players/"><u>Solving Silent Gameplay: Restoring Sounds in Call of Duty: Black Ops Cold War for PC Players</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-tricky-feed-functions-more-vids-please/"><u>[New] In 2024, Unveiling Tricky Feed Functions More Vids Please</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-survival-skills-in-minecraft-the-ultimate-guide-to-using-teleport-command-effectively/"><u>Advanced Survival Skills in Minecraft: The Ultimate Guide to Using Teleport Command Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-game-crashes-correct-the-error-of-missing-or-unavailable-d3dx941dll/"><u>Avoid Game Crashes: Correct the Error of Missing or Unavailable d3dx9_41.dll</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-mobile-intelligence-in-android-systems-for-enhanced-user-experience/"><u>Demystifying Mobile Intelligence in Android Systems for Enhanced User Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ting-your-content-6-steps-to-higher-youtube-visibility/"><u>Elevating Your Content 6 Steps to Higher YouTube Visibility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrate-srt-into-windowsmacos-operations/"><u>In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-empty-phone-3-prospect-release-dates-price-forecast-and-leaked-hardware-features-unveiled/"><u>Inside the 'Empty Phone 3': Prospect Release Dates, Price Forecast & Leaked Hardware Features Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-overcoming-black-screen-issues-in-facetime-sessions/"><u>Step-by-Step Tutorial: Overcoming Black Screen Issues in FaceTime Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-struggle-in-a-galaxy-far-far-away-resolving-battlefront-iis-pc-freezing-problems/"><u>Stop Struggle in a Galaxy Far, Far Away: Resolving Battlefront II's PC Freezing Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cant-locate-powershell-console/"><u>What to Do When Windows Can't Locate PowerShell Console</u></a></li>
 </ul></div>
 

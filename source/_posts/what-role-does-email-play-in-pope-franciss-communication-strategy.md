@@ -1,7 +1,7 @@
 ---
 title: What Role Does Email Play in Pope Francis's Communication Strategy?
-date: 2024-09-13T00:51:26.791Z
-updated: 2024-09-17T23:40:44.318Z
+date: 2024-10-24T17:01:49.253Z
+updated: 2024-10-27T18:02:24.964Z
 categories:
   - BestProducts
 description: This Article Describes What Role Does Email Play in Pope Francis's Communication Strategy?
@@ -27,13 +27,40 @@ thumbnail: https://www.lifewire.com/thmb/jBVYmCK8o7kU6_SXUFE-7K3qvYU=/400x300/fi
 
  Don't add "Italy" to the address. The Vatican is a separate political entity from Italy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Pope Doesn't Use Email
 
  Despite his lack of email accessibility, Pope Francis sees modern communication options as beneficial. When[Tim Cook, Apple's CEO](https://www.lifewire.com/who-is-tim-cook-1994301) , visited the Vatican in January 2016, Pope Francis released a message titled   _Communication and Mercy: A Fruitful Encounter, for the 50th World Day of Social Communications_ . In it, he said that the internet, text messages, and social networks are "gifts from God."
 
 ![Pope Francis Delivers 'Urbi Et Orbi' Blessing During Easter Mass In St. Peter's Square](https://www.lifewire.com/thmb/z5bZaGaAuEBbtVki4q-_xec1lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Giulio Origlia / Getty Images
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Popes in the Information Age
 
@@ -70,18 +97,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snap-game-with-these-top-tips-for-2024/"><u>[Updated] Transform Your Snap Game with These Top Tips for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/behind-the-code-of-cyberpunk-2077-a-game-with-flaws-amidst-its-brilliance/"><u>Behind the Code of Cyberpunk 2077: A Game with Flaws Amidst Its Brilliance</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/decryptage-des-conditions-de-remboursement-par-movavi-conseils-et-astuces-essentiels/"><u>Décryptage Des Conditions De Remboursement Par Movavi : Conseils Et Astuces Essentiels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-apples-top-4-irresistible-motivators-to-invest-in-the-latest-ipad-air-a-closer-look-techworld/"><u>Discover Apple's Top 4 Irresistible Motivators to Invest in the Latest iPad Air - A Closer Look | TechWorld</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-sound-management-with-hidden-drawbacks/"><u>Discover the Ease of Sonos' S2 App: Advanced Sound Management with Hidden Drawbacks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-switching-on-windows-11s-dynamic-hdr-mode-for-2024/"><u>Guide Switching on Windows 11'S Dynamic HDR Mode for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-apple-safeguard-your-cloud-based-ai-information-understanding-its-impact-on-privacy-zdnet/"><u>How Does Apple Safeguard Your Cloud-Based AI Information? Understanding Its Impact on Privacy | ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-s23-fe-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy S23 FE Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-11-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 11 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-monthly-revenue-streams-for-video-content-creators/"><u>In 2024, Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-snapchats-photo-alterations-a-step-by-step-guide-for-2024/"><u>Mastering Snapchat's Photo Alterations A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-queer-series-to-binge-on-netflix-for-lgbtqplus-fans-in-july-2024/"><u>The Best Queer Series to Binge on Netflix for LGBTQ+ Fans in July 2024</u></a></li>
+</ul></div>
 

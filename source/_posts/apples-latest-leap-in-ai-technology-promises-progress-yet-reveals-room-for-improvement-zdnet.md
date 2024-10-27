@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-10-17T20:40:55.048Z
-updated: 2024-10-21T22:00:21.260Z
+date: 2024-10-21T17:00:24.819Z
+updated: 2024-10-27T16:37:47.951Z
 tags:
   - apple
 categories:
@@ -69,29 +69,31 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-rapid-route-to-reclaimed-reddit-articles/"><u>[Updated] Rapid Route to Reclaimed Reddit Articles</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>[Updated] The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unlock-the-power-of-online-interaction-essential-tips-for-successful-zoom-chats/"><u>[Updated] Unlock the Power of Online Interaction Essential Tips for Successful Zoom Chats</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>2024 Approved Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-the-ios-181-preview-today-discover-apples-latest-ai-features-on-your-device-get-set-up-techinsider/"><u>Access the IOS 18.1 Preview Today! Discover Apple's Latest AI Features on Your Device – Get Set Up | TechInsider</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/engaging-generations-on-social-media-with-tiktok-campaigns/"><u>Engaging Generations on Social Media with TikTok Campaigns</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-repairing-missing-or-corrupt-user3cu2dll-issues/"><u>Expert Tips for Repairing 'Missing or Corrupt' User3cu2.dll Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/precision-adjusting-windows-locksleep-timer/"><u>Precision: Adjusting Windows Lock/Sleep Timer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-broadcasting-with-manycam-virtual-camera-solutions-and-online-streaming-tools/"><u>Real-Time Broadcasting with ManyCam: Virtual Camera Solutions and Online Streaming Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-streaming-made-easy-discover-the-power-of-manycam-your-ultimate-live-video-and-virtuall-cam-solution/"><u>Real-Time Streaming Made Easy: Discover the Power of ManyCam, Your Ultimate Live Video and Virtuall Cam Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-streaming-mastery-unleash-your-potential-with-manycams-live-video-tools/"><u>Real-Time Streaming Mastery: Unleash Your Potential with ManyCam's Live Video Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-video-editing-with-manycam-your-ultimate-live-streaming-companion/"><u>Real-Time Video Editing with ManyCam: Your Ultimate Live Streaming Companion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-video-editing-master-the-art-with-manycam-virtual-camera-tech-unleashed/"><u>Real-Time Video Editing: Master the Art with ManyCam - Virtual Camera Tech Unleashed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionize-online-broadcasting-with-manycam-the-top-tool-for-live-video-and-remote-webcams/"><u>Revolutionize Online Broadcasting with ManyCam - The Top Tool for Live Video and Remote Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/superior-live-streaming-solutions-using-manycams-virtual-camera-technology/"><u>Superior Live Streaming Solutions Using ManyCam's Virtual Camera Technology</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-no-cost-complete-media-players-ideal-options-for-windows-and-macos-users/"><u>Top No-Cost Complete Media Players: Ideal Options for Windows & macOS Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-virtual-webcams-and-live-software-discover-manycam-features/"><u>Top Virtual Webcams and Live Software: Discover ManyCam Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-channel-success-strategies-a-comprehensive-guide-to-spotlighting/"><u>2024 Approved Channel Success Strategies A Comprehensive Guide to Spotlighting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-value-plans-for-switching-phones-at-verizon-current-month/"><u>Best Value Plans for Switching Phones at Verizon – [Current Month]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-missing-d3d9dll-errors-strategies-to-restore-the-file/"><u>Dealing with Missing d3d9.dll Errors: Strategies to Restore the File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-instagram-everything-you-need-to-know-about-this-popular-platform/"><u>Discovering Instagram: Everything You Need to Know About This Popular Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevated-experience-selective-best-of-the-series/"><u>Elevated Experience Selective Best of the Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-in-red-dead-redemption-2-by-eliminating-lag-stuttering-and-low-fps-issues/"><u>Enhance Gameplay in Red Dead Redemption 2 by Eliminating Lag, Stuttering, & Low FPS Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y100i-power-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y100i Power 5G Is Unlocked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-harness-siris-ability-to-audibly-interpret-written-content-on-ipads-iphones-and-mac-computers/"><u>How to Harness Siri's Ability to Audibly Interpret Written Content on iPads, iPhones & Mac Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-iphone-picture-perfection-mastering-resolution-shifts/"><u>In 2024, IPhone Picture Perfection Mastering Resolution Shifts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-nord-ce-3-lite-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Nord CE 3 Lite 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-phone-case-selection-key-considerations-and-strategies/"><u>Mastering Phone Case Selection: Key Considerations and Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-tiktok-virality-10-essential-techniques/"><u>Mastering the Art of TikTok Virality: 10 Essential Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/neo-qled-versus-oled-screens-a-comprehensive-showdown/"><u>Neo QLED Versus OLED Screens - A Comprehensive Showdown</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-announces-phoenix-software-for-mac-superior-jpeg-fixing/"><u>Stellar Announces Phoenix Software for Mac - Superior JPEG Fixing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-8-most-effective-online-supervision-tools/"><u>The Ultimate List: 8 Most Effective Online Supervision Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-k70-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi K70 Screen | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-correcting-distorted-colors-and-images-on-computer-displays/"><u>Troubleshooting Techniques for Correcting Distorted Colors and Images on Computer Displays</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-videos-the-best-free-4k-video-conversion-tools/"><u>Updated In 2024, Elevate Your Videos The Best Free 4K Video Conversion Tools</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

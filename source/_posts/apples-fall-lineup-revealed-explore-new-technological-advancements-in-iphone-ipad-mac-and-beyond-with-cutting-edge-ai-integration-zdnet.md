@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2024-10-17T21:10:28.605Z
-updated: 2024-10-21T16:09:36.060Z
+date: 2024-10-20T18:45:14.870Z
+updated: 2024-10-27T17:02:46.785Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,6 +74,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +100,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,19 +121,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -129,6 +130,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -158,19 +166,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -178,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -230,18 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-streamline-social-video-downloads-with-new-app/"><u>[New] 2024 Approved Streamline Social Video Downloads with New App</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-constructing-an-inviting-subscribe-link-for-youtube-enthusiasts/"><u>[New] In 2024, Constructing an Inviting Subscribe Link for YouTube Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/orfjpg-movavi/"><u>「オンラインで手軽にORFをJPGに変換 Movavi - お金不要ガイド」</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-income-impact-of-sharing-on-youtube-shorts/"><u>2024 Approved The Income Impact of Sharing on YouTube Shorts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-change-avi-to-3gp-format-with-movavi/"><u>Free Online Converter: Change AVI to 3GP Format with Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-setup-of-your-scansnap-device-downloads-for-windows-inside/"><u>Hassle-Free Setup of Your ScanSnap Device - Downloads for Windows Inside!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>In 2024, Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-go-2023-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark Go (2023) to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-hear-now-or-never-the-solution-for-twitter-vids/"><u>In 2024, Hear Now or Never The Solution for Twitter Vids</u></a></li>
-<li><a href="https://techtrends.techidaily.com/m4v-naar-wav-konvertieren-vrije-onlinelastkundige-movavi/"><u>M4V Naar WAV Konvertieren Vrije Onlinelastkundige - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-m4v-mp4/"><u>Movavi提供快速免費線上讓你改變格式：將 M4V 轉換為 MP4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/setting-up-weather-notifications-keep-track-of-outside-temperatures-directly-from-your-smartphone/"><u>Setting Up Weather Notifications: Keep Track of Outside Temperatures Directly From Your Smartphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-mkv-formats-essential-tips-for-easily-opening-and-viewing-matroska-media-content/"><u>Unraveling MKV Formats: Essential Tips for Easily Opening and Viewing Matroska Media Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-maximizing-visibility-post-facebook-update/"><u>[New] 2024 Approved Maximizing Visibility Post-Facebook Update</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-starting-from-scratch-best-game-editing-programs-for-newbies/"><u>[New] 2024 Approved Starting From Scratch Best Game Editing Programs for Newbies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-apples-finest-free-apps-to-perfect-your-selfies-for-2024/"><u>[New] Apple's Finest FREE Apps to Perfect Your Selfies for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-painting-with-light-an-experts-guide-to-color-grading/"><u>[New] In 2024, Painting with Light An Expert's Guide to Color Grading</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-ai-infused-gaming-broadcasts/"><u>[New] In 2024, The Ultimate Guide to AI-Infused Gaming Broadcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/19-ways-to-fix-netflix-not-working-on-an-lg-tv/"><u>19 Ways to Fix Netflix Not Working on an LG TV</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-asmr-creators-to-follow/"><u>2024 Approved Essential ASMR Creators to Follow</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-guide-to-aether-insights-into-its-essence-and-entry-strategies/"><u>A Guide to Aether – Insights Into Its Essence and Entry Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieving-no-cost-entertainment-with-these-tips-on-getting-netflix-gratis/"><u>Achieving No-Cost Entertainment with These Tips on Getting Netflix Gratis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-worlds-the-best-6-android-apps-for-an-advanced-window-11-experience/"><u>Blend Worlds: The Best 6 Android Apps for an Advanced Window 11 Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-functionality-of-western-digital-data-lifeguard-toolkit-a-thorough-seo-friendly-product-assessment/"><u>Decoding the Functionality of Western Digital Data LifeGuard Toolkit - A Thorough SEO-Friendly Product Assessment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-fastest-methods-for-accelerating-your-laptop-efficiency/"><u>Discover the Fastest Methods for Accelerating Your Laptop Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-how-to-overcome-a-504-gateway-error-quickly/"><u>Effective Solutions: How To Overcome A 504 Gateway Error Quickly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-path-to-affordable-dell-tech-with-student-discount-benefits/"><u>Navigating the Path to Affordable Dell Tech with Student Discount Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722890330427-teen-must-see-cinema-selection-on-netflix-unveiled/"><u>Teen Must-See Cinema Selection on Netflix Unveiled</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-mohu-blade-review-distinct-design-with-superior-in-house-signal-reception/"><u>The Mohu Blade Review: Distinct Design with Superior In-House Signal Reception</u></a></li>
 </ul></div>
 

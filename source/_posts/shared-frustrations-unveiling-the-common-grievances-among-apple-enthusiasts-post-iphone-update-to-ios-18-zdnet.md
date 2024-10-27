@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet"
-date: 2024-10-20T21:19:14.361Z
-updated: 2024-10-21T19:58:41.865Z
+date: 2024-10-21T17:42:34.909Z
+updated: 2024-10-27T19:40:59.287Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,16 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -122,18 +116,20 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-9-free-youtube-logo-makers/"><u>[New] In 2024, Best 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-make-your-discord-conversation-stand-out-with-pins/"><u>[Updated] 2024 Approved Make Your Discord Conversation Stand Out with Pins</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-building-impressive-pixelated-photo-combinations-for-2024/"><u>[Updated] Building Impressive Pixelated Photo Combinations for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertire-i-file-mkv-in-disco-ottimale-top-3-metodi-multiuso-windows-e-macos/"><u>Convertire I File MKV in Disco Ottimale: Top 3 Metodi Multiuso Windows E macOS</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cut-buffering-time-turn-on-av1-in-youtube-settings/"><u>Cut Buffering Time – Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-rapida-agregar-texto-a-tus-fotos-usando-el-programa-gratuito-movavi/"><u>Guía Rápida: Agregar Texto a Tus Fotos Usando El Programa Gratuito Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-facile-pour-prendre-des-captures-decran-accelerees-en-directavec-movavi-compatible-multiplateforme/"><u>Guide Facile Pour Prendre Des Captures D'écran Accélérées en Directavec Movavi - Compatible Multiplateforme</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/learn-how-to-minimize-wav-file-sizes-with-professional-tools-from-movavi/"><u>Learn How to Minimize WAV File Sizes with Professional Tools From Movavi</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-fresh-installation-of-windows-11-for-optimal-performance/"><u>Mastering Fresh Installation of Windows 11 for Optimal Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-breakthrough-in-language-learning-2022-edition/"><u>Mondly's Breakthrough in Language Learning, 2022 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/w64-wav-movavi/"><u>무료 원도 크리스토그래피 W64에서 WAV로 쉽게 전환: 온라인 가이드 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726227811368-f4v-movavi/"><u>오픈소스 속도를 위해 F4V 모티보드 무료 전환 - MovaVi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-brighter-days-with-five-winter-themed-backgrounds/"><u>[New] In 2024, Brighter Days with Five Winter-Themed Backgrounds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-modify-twitter-video-screenshot/"><u>[New] In 2024, Modify Twitter Video Screenshot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-playbook-no-10-essentials/"><u>[New] The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] In 2024, 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-look-back-at-yahoo-messenger-origins-purpose-and-shutdown-rationale/"><u>A Look Back at Yahoo! Messenger: Origins, Purpose, and Shutdown Rationale</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-of-the-best-trivia-channels/"><u>Best of the Best Trivia Channels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-resolving-the-ssleay32dll-error-on-your-pc/"><u>Comprehensive Guide: Resolving the ssLeay32.dll Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-netflixs-legacy-beginnings-with-its-dvd-rental-venture-explained/"><u>Discovering Netflix’s Legacy Beginnings with Its DVD Rental Venture Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-addressing-the-mfc42dll-not-found-problem/"><u>Effective Solutions for Addressing the mfc42.dll Not Found Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-systems-missing-d3dx939dll-file-a-step-by-step-guide/"><u>Fix Your System's Missing d3dx9_39.dll File - A Step by Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-gt-5-240w-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme GT 5 (240W) Is Unlocked</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-asus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Asus FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-gaming-iphones-which-model-takes-the-crown/"><u>Top Gaming iPhones: Which Model Takes the Crown?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-fixing-a-missing-comctl32dll-error-on-your-pc/"><u>Troubleshooting Tips for Fixing a Missing Comctl32.dll Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-starter-guide-understanding-and-choosing-the-right-home-audio-system/"><u>Ultimate Starter Guide: Understanding and Choosing the Right Home Audio System</u></a></li>
 </ul></div>
 

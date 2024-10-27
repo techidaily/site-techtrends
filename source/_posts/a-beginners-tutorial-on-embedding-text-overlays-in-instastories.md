@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Tutorial on Embedding Text Overlays in InstaStories
-date: 2024-10-17T19:28:47.030Z
-updated: 2024-10-21T18:37:21.331Z
+date: 2024-10-24T16:20:16.948Z
+updated: 2024-10-27T16:47:17.914Z
 categories:
   - BestProducts
 description: This Article Describes A Beginner's Tutorial on Embedding Text Overlays in InstaStories
@@ -27,6 +27,13 @@ thumbnail: https://www.lifewire.com/thmb/D7EdS_MHuVzjVop6wq6cjiqxwXI=/540x405/fi
 
 lolostock / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -40,34 +47,29 @@ lolostock / Getty Images
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
-![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
-6. Click on your desired printer, then click**Manage** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
+6. Click on your desired printer, then click**Manage** .  
 
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
@@ -85,39 +87,33 @@ lolostock / Getty Images
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  FAQ
 
@@ -157,17 +153,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-engaging-tactics-for-increased-subscriber-count/"><u>2024 Approved Engaging Tactics for Increased Subscriber Count</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-mp3-files-to-wav-format-at-no-cost-in-windows/"><u>Convert MP3 Files to WAV Format at No Cost in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-most-economical-cell-service-deals-our-expert-picks/"><u>Discover the Most Economical Cell Service Deals : Our Expert Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-to-a-broken-iphone-control-center-top-8-fixes/"><u>How to Restore Functionality to a Broken iPhone Control Center - Top 8 Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-x7b-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor X7b Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-benefits-of-using-apc-back-ups-pro-eby-powerful-protection-multiple-outlets-and-swappable-batteries/"><u>In-Depth Review: Benefits of Using APC Back-UPS Pro Eby - Powerful Protection, Multiple Outlets, and Swappable Batteries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-streaming-discover-the-versatility-of-manycam-your-ultimate-webcam-and-vr-solution/"><u>Real-Time Streaming: Discover the Versatility of ManyCam - Your Ultimate Webcam and VR Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-live-streaming-tools-discover-the-power-of-manycams-virtual-webcams-and-hd-video-recording/"><u>Top Live Streaming Tools: Discover the Power of ManyCam's Virtual Webcams and HD Video Recording</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-webcam-tools-and-extensions-boost-your-doctors-visits-on-doxyme-using-manycam-features/"><u>Top Webcam Tools & Extensions: Boost Your Doctor's Visits on Doxy.me Using ManyCam Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-videos-with-manycam-the-ultimate-online-broadcasting-solution/"><u>Transform Your Videos with ManyCam - The Ultimate Online Broadcasting Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-videos-with-manycam-the-ultimate-livestream-and-online-webcam-tool/"><u>Transform Your Videos with ManyCam: The Ultimate Livestream and Online Webcam Tool!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-stream-video-smoothly-save-pcmac-screens-to-youtube/"><u>[New] 2024 Approved Stream Video Smoothly Save PC/Mac Screens to YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-new-to-youtube-how-to-skip-the-top-8-common-errors-on-your-platform-journey/"><u>[Updated] New to YouTube How to Skip the Top 8 Common Errors on Your Platform Journey</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>2024 Approved Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-next-level-shooting-lens-selections-for-online-creators/"><u>2024 Approved Next-Level Shooting Lens Selections for Online Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-sound-systems-how-do-home-theaters-and-stereo-receivers-stack-up/"><u>Comparing Sound Systems: How Do Home Theaters and Stereo Receivers Stack Up?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-remove-windows-restore-partition/"><u>Complete Guide: Steps to Remove Windows Restore Partition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-mobile-tools-4-apps-that-revolutionize-diy-house-painting/"><u>Essential Mobile Tools: 4 Apps That Revolutionize DIY House Painting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-nspr4dll-file-is-missing-a-comprehensive-guide/"><u>Solving the 'Nspr4.dll' File Is Missing - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-ipados-16-launch-timeline-cost-free-access-and-comprehensive-feature-list/"><u>Unveiling iPadOS 16: Launch Timeline, Cost-Free Access & Comprehensive Feature List</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-efficient-video-editing-how-to-cut-and-trim-avi-files-fast/"><u>Updated In 2024, Unlock Efficient Video Editing How to Cut and Trim AVI Files Fast</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-editing-showdown-bandicams-capabilities-compared-to-camtasia/"><u>Video Editing Showdown Bandicam's Capabilities Compared to Camtasia</u></a></li>
 </ul></div>
 

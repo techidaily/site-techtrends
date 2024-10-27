@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-10-14T18:45:42.877Z
-updated: 2024-10-21T18:32:51.779Z
+date: 2024-10-26T16:44:36.667Z
+updated: 2024-10-27T16:49:11.858Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +101,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -123,6 +130,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -152,13 +166,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +218,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>[Updated] 2024 Approved Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enhancing-user-experience-with-the-newly-redesigned-grid-layout-of-the-windows-11-start-menu/"><u>Enhancing User Experience with the Newly Redesigned Grid Layout of the Windows 11 Start Menu.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guida-dettagliata-al-registratore-dello-schermo-apowersoft-caratteristiche-essenziali-e-prezzi-comparati/"><u>Guida Dettagliata Al Registratore Dello Schermo Apowersoft: Caratteristiche Essenziali E Prezzi Comparati</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-revolutionizing-advertising-top-20-influential-expressions/"><u>In 2024, Revolutionizing Advertising Top 20 Influential Expressions</u></a></li>
-<li><a href="https://win-community.techidaily.com/microsoft-phases-out-windows-control-panel-insider-takes-a-skeptical-look-at-the-future-of-system-management/"><u>Microsoft Phases Out Windows Control Panel? Insider Takes a Skeptical Look at the Future of System Management</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-m4a-mpeg/"><u>Movavi로 M4A MPEG에서 인라인으로의 부정할 수 없는 바이트비 변환: 오픈소스 해결책</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-zettingen-van-3gp-files-met-movavi-kostenloos-en-efficient/"><u>Online Zettingen Van 3GP Files Met Movavi - Kostenloos en Efficiënt!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/os-melhores-softwares-gratuitos-para-retoque-de-fotos-em-2024-classificacao-do-movavi/"><u>Os Melhores Softwares Gratuitos Para Retoque De Fotos Em 2024 – Classificação Do Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pop-8-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pop 8 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-processors-by-toms-hardware-haven/"><u>The Ultimate Guide to Processors by Tom's Hardware Haven</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-performing-gif-creators-for-mac-os-x-movieedit/"><u>Top 12 Performing GIF Creators for Mac OS X - MovieEdit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-votre-fichier-mp4-en-format-m4v-sans-frais-gratuit-avec-movavi/"><u>Transformez Votre Fichier MP4 en Format M4V Sans Frais - Gratuit Avec Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-2024-gaming-laptops-performance-rankings-inside/"><u>Ultimate Guide to the Best 2024 Gaming Laptops - Performance Rankings Inside</u></a></li>
-<li><a href="https://techtrends.techidaily.com/vergeet-te-gebruiken-7-stappen-zodat-je-het-touch-screen-van-windows-10-aktiviteiten-kan-starten/"><u>Vergeet Te Gebruiken: 7 Stappen Zodat Je Het Touch Screen Van Windows 10 Aktiviteiten Kan Starten</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sharing-success-replicating-content-on-insta/"><u>[New] Sharing Success Replicating Content on Insta</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cutting-confinement-with-comedy-best-facebook-incarceration-laughs-of-today-for-2024/"><u>[Updated] Cutting Confinement with Comedy Best Facebook Incarceration Laughs of Today for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[Updated] Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-professional-insights-for-better-gopro-recording/"><u>[Updated] Professional Insights for Better GoPro Recording</u></a></li>
+<li><a href="https://facebook.techidaily.com/8-essential-calendar-tools-to-plan-your-feeds/"><u>8 Essential Calendar Tools to Plan Your Feeds</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clearing-space-on-your-photoshop-scratch-disk-easy-fixes-and-tips/"><u>Clearing Space on Your Photoshop Scratch Disk – Easy Fixes and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-online-movie-repositories-a-guide-to-11-great-options/"><u>Discover the Best Free Online Movie Repositories: A Guide to 11 Great Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-wi-fi-networks-secret-key-on-windows-11-a-step-by-step-guide/"><u>Discovering Your Wi-Fi Network's Secret Key on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-on-how-to-link-your-samsung-universal-remote-to-any-tv/"><u>Easy Instructions on How to Link Your Samsung Universal Remote to Any TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-our-top-picks-the-6-greatest-apps-to-track-your-eats/"><u>Explore Our Top Picks: The 6 Greatest Apps to Track Your Eats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-control-your-pcs-network-discovery-functionality-on-windows-11/"><u>How to Control Your PC's Network Discovery Functionality on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-perfection-mastering-the-top-5-techniques/"><u>In 2024, Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y27-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y27 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi Redmi Note 12T Pro</u></a></li>
 </ul></div>
 

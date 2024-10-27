@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-10-18T18:48:11.263Z
-updated: 2024-10-21T17:45:42.332Z
+date: 2024-10-23T16:05:32.669Z
+updated: 2024-10-27T18:47:26.763Z
 tags:
   - apple
 categories:
@@ -58,13 +58,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -81,6 +74,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -90,6 +90,13 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -119,6 +126,13 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -133,13 +147,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -164,10 +171,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
@@ -183,13 +190,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -231,10 +231,16 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -286,21 +292,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-iphones-best-camera-recording-aid/"><u>[Updated] IPhone's Best Camera Recording Aid</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ejecucion-perfecta-de-una-reflectividad-automatica-usando-aomei-backupper-en-tu-dispositivo-apple/"><u>Ejecución Perfecta De Una Reflectividad Automática Usando AOMEI Backupper en Tu Dispositivo Apple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expertly-curated-list-of-9-prime-free-sites-to-learn-any-language/"><u>Expertly Curated List of 9 Prime Free Sites to Learn Any Language</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-windows-nvidia-conflict-geforce-7025nforce-630a/"><u>Fixing Windows-Nvidia Conflict, GeForce 7025/nForce 630A</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-restore-python24dll-solutions-for-missing-dependency-errors/"><u>Guide to Restore Python24.dll: Solutions for Missing Dependency Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-x50-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor X50 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-poco-c50-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco C50 FRP?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-t2x-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo T2x 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-personalized-excel-views-preserving-and-sharing-preferred-workbook-layouts/"><u>Mastering Personalized Excel Views: Preserving and Sharing Preferred Workbook Layouts</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-motorola-edge-40-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Edge 40 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-for-linking-your-ps-vr-headset-to-your-computer/"><u>Steps for Linking Your PS VR Headset to Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-crackle-enjoy-free-films-and-series-on-the-web/"><u>Stream Crackle: Enjoy Free Films & Series on the Web!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-unleashing-creativity-with-the-iphone-ios-n-photo-cutout-tool/"><u>The Ultimate Tutorial: Unleashing Creativity with the iPhone (iOS N) Photo Cutout Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-how-educators-can-thrive-with-ai-integration/"><u>Top 8: How Educators Can Thrive with AI Integration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-solve-the-missing-wininetdll-a-step-by-step-approach/"><u>Troubleshoot and Solve the Missing 'wininet.dll': A Step-by-Step Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-unresponsive-airpods/"><u>Troubleshooting Guide: Resolving Issues with Unresponsive AirPods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-immortalizing-moments-live-photo-to-dynamic-video/"><u>[New] In 2024, Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pushing-the-envelope-in-display-technology-detailed-examination-of-benq-bl2711u/"><u>[New] In 2024, Pushing the Envelope in Display Technology Detailed Examination of BenQ BL2711U</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-speedy-instagram-content-mobile-and-online-solutions/"><u>[New] Speedy Instagram Content Mobile & Online Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quickcapture-plus-voice-guided-session-maker/"><u>2024 Approved QuickCapture + Voice-Guided Session Maker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-an-abruptly-failing-vehicle-radio-system/"><u>Diagnosing and Fixing an Abruptly Failing Vehicle Radio System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-for-when-minecraft-just-wont-move-past-the-loading-phase/"><u>Expert Solutions for When Minecraft Just Won't Move Past the Loading Phase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862810426-massive-44-discount-on-the-27-pixel-dense-viewfinity-samsung-monitor-wbuilt-in-4k-webcam-now-at-899/"><u>Massive 44% Discount on the 27 Pixel-Dense ViewFinity Samsung Monitor W/Built-In 4K Webcam - Now at $899!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v17-files-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.7 Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-issues-on-snapchat-connecting-with-customer-care-directly/"><u>Solving Your Issues on Snapchat: Connecting With Customer Care Directly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-correcting-ntdlldll-error-messages-in-windows-os/"><u>Step-by-Step Tutorial: Correcting ntdll.dll Error Messages in Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-hidden-treasures-of-going-electric-parking-convenience-and-hov-lane-access-explained/"><u>The Hidden Treasures of Going Electric: Parking Convenience & HOV Lane Access Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-instagrams-gold-standard-your-guide-to-official-account-recognition/"><u>Unlocking Instagram's Gold Standard: Your Guide to Official Account Recognition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-mechanics-behind-t-mobiles-nationwide-wi-fi-and-cellular-roaming-features/"><u>Unveiling the Mechanics Behind T-Mobile’s Nationwide Wi-Fi and Cellular Roaming Features</u></a></li>
 </ul></div>
 

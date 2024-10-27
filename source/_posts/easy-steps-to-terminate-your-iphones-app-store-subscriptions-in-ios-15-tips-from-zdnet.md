@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-10-17T22:00:05.087Z
-updated: 2024-10-21T22:39:07.168Z
+date: 2024-10-25T19:45:21.895Z
+updated: 2024-10-27T18:41:43.865Z
 tags:
   - apple
 categories:
@@ -30,19 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -50,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -64,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -71,10 +65,16 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -92,10 +92,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,22 +140,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-combining-zoom-and-fb-live-for-2024/"><u>[Updated] The Ultimate Guide to Combining ZOOM & FB Live for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-transforming-personal-snaps-into-motion-stories-for-2024/"><u>[Updated] Transforming Personal Snaps Into Motion Stories for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-tips-for-mastering-iphones-sound-capture/"><u>2024 Approved Expert Tips for Mastering iPhone's Sound Capture</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capturing-desktop-views-on-hp-computers-a-detailed-tutorial/"><u>Capturing Desktop Views on HP Computers: A Detailed Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-error-code-800-in-vpn-setups-for-clients-and-servers-best-practices/"><u>Diagnosing and Repairing Error Code 800 in VPN Setups for Clients and Servers: Best Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-efficient-maintenance-of-mechanical-keyboards/"><u>Expert Tips for Efficient Maintenance of Mechanical Keyboards</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/nba-2k20-gameplay-hacked-eliminate-crashes-with-these-simple-fixes/"><u>NBA 2K20 Gameplay Hacked: Eliminate Crashes with These Simple Fixes!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-common-issues-with-non-functioning-zoom-cameras/"><u>Solving Common Issues with Non-Functioning Zoom Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-powerpoint-playback-sounds-issues/"><u>Step-by-Step Fixes for PowerPoint Playback Sounds Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-6s-plus-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 6s Plus Activation Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-unlocking-mac-files-with-unverified-developers/"><u>Troubleshooting: Unlocking Mac Files with Unverified Developers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-understanding-and-fixing-blue-screen-stop-codes/"><u>Ultimate Guide: Understanding and Fixing Blue Screen Stop Codes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncovering-concealed-apps-on-your-iphone-easy-steps-inside/"><u>Uncovering Concealed Apps on Your iPhone: Easy Steps Inside</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>Updated 2024 Approved Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-wireless-keyboard-issues-heres-what-you-can-do/"><u>Windows Wireless Keyboard Issues? Here's What You Can Do</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/xboxs-next-gen-vr-headset-projected-price-release-schedule-and-specs-revealed/"><u>Xbox's Next-Gen VR Headset: Projected Price, Release Schedule & Specs Revealed!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-gigglegraphs-designing-delightful-memes-for-2024/"><u>[New] GiggleGraphs Designing Delightful Memes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos/"><u>[New] Mastering Mobile Media 3 Key Steps to Stabilize iPhone Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>[New] Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-new-era-of-racing-vr-bike-selection-guide/"><u>[Updated] New Era of Racing VR Bike Selection Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-changing-your-instagram-message-text/"><u>A Step-by-Step Guide: Changing Your Instagram Message Text</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alexa-vs-google-assistant-showdown-determining-the-ideal-choice/"><u>Alexa Vs. Google Assistant Showdown: Determining the Ideal Choice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-recommendations-the-ultimate-list-of-current-online-film-favorites/"><u>Expert Recommendations: The Ultimate List of Current Online Film Favorites</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-nubia-z60-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Nubia Z60 UltraFRP Lock</u></a></li>
+<li><a href="https://win-lab.techidaily.com/migrate-your-windows-10-system-seamlessly-a-dual-approach-transferring-between-ssds/"><u>Migrate Your Windows 10 System Seamlessly: A Dual Approach Transferring Between SSDs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-slideshow-magic-on-mac-easy-video-editing-with-ezvid/"><u>New In 2024, Slideshow Magic on Mac Easy Video Editing with Ezvid</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-for-discontinuing-access-to-paramountplus/"><u>Simple Steps for Discontinuing Access to Paramount+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-repairing-a-non-responsive-keyboard/"><u>Step-by-Step Guide: Repairing a Non-Responsive Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-pair-how-to-integrate-your-fire-tv-stick-with-google-chromecast/"><u>The Perfect Pair: How to Integrate Your Fire TV Stick with Google Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-dolby-atmos-films-ultimate-movie-watching-experience-from-the-comfort-of-your-couch/"><u>Top 15 Dolby Atmos Films: Ultimate Movie-Watching Experience From the Comfort of Your Couch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-integration-at-wwdc-could-transform-user-experience-zdnet-insights/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Integration at WWDC Could Transform User Experience | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/workshops-and-webinars/"><u>Workshops and Webinars</u></a></li>
 </ul></div>
 
