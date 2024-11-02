@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2024-10-20T18:45:14.870Z
-updated: 2024-10-27T17:02:46.785Z
+date: 2024-10-30T09:41:21.920Z
+updated: 2024-11-02T05:42:47.988Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -76,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -101,10 +101,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -131,13 +131,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -148,6 +141,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -218,22 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-maximizing-visibility-post-facebook-update/"><u>[New] 2024 Approved Maximizing Visibility Post-Facebook Update</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-starting-from-scratch-best-game-editing-programs-for-newbies/"><u>[New] 2024 Approved Starting From Scratch Best Game Editing Programs for Newbies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-apples-finest-free-apps-to-perfect-your-selfies-for-2024/"><u>[New] Apple's Finest FREE Apps to Perfect Your Selfies for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-painting-with-light-an-experts-guide-to-color-grading/"><u>[New] In 2024, Painting with Light An Expert's Guide to Color Grading</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-ai-infused-gaming-broadcasts/"><u>[New] In 2024, The Ultimate Guide to AI-Infused Gaming Broadcasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/19-ways-to-fix-netflix-not-working-on-an-lg-tv/"><u>19 Ways to Fix Netflix Not Working on an LG TV</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-asmr-creators-to-follow/"><u>2024 Approved Essential ASMR Creators to Follow</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-guide-to-aether-insights-into-its-essence-and-entry-strategies/"><u>A Guide to Aether – Insights Into Its Essence and Entry Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/achieving-no-cost-entertainment-with-these-tips-on-getting-netflix-gratis/"><u>Achieving No-Cost Entertainment with These Tips on Getting Netflix Gratis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blend-worlds-the-best-6-android-apps-for-an-advanced-window-11-experience/"><u>Blend Worlds: The Best 6 Android Apps for an Advanced Window 11 Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-functionality-of-western-digital-data-lifeguard-toolkit-a-thorough-seo-friendly-product-assessment/"><u>Decoding the Functionality of Western Digital Data LifeGuard Toolkit - A Thorough SEO-Friendly Product Assessment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-fastest-methods-for-accelerating-your-laptop-efficiency/"><u>Discover the Fastest Methods for Accelerating Your Laptop Efficiency</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-how-to-overcome-a-504-gateway-error-quickly/"><u>Effective Solutions: How To Overcome A 504 Gateway Error Quickly</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-path-to-affordable-dell-tech-with-student-discount-benefits/"><u>Navigating the Path to Affordable Dell Tech with Student Discount Benefits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722890330427-teen-must-see-cinema-selection-on-netflix-unveiled/"><u>Teen Must-See Cinema Selection on Netflix Unveiled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-mohu-blade-review-distinct-design-with-superior-in-house-signal-reception/"><u>The Mohu Blade Review: Distinct Design with Superior In-House Signal Reception</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-3d-toolkit-creating-engaging-video-beginnings-for-2024/"><u>[Updated] Essential 3D Toolkit Creating Engaging Video Beginnings for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-resizing-youtube-images-step-by-step-guide/"><u>[Updated] In 2024, Resizing YouTube Images Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-connoisseurs-guide-to-whatsapp-mastery/"><u>[Updated] The Connoisseur's Guide to WhatsApp Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-you-having-trouble-on-roblox-distinguishing-between-a-widespread-outage-and-individual-connectivity-issues/"><u>Are You Having Trouble on Roblox? Distinguishing Between a Widespread Outage and Individual Connectivity Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-top-6-classic-mario-adventures-on-pc-an-ultimate-collection/"><u>Best Top 6 Classic Mario Adventures on PC: An Ultimate Collection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-and-repairing-code-31-problems-expert-tips-for-windows-users/"><u>Bypassing and Repairing Code 31 Problems: Expert Tips for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-default-login-credentials-for-d-link-routers-july-2024-edition/"><u>Comprehensive Guide: Default Login Credentials for D-Link Routers - July 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-latest-graphics-drivers-for-the-nvidia-gtx-980-ti/"><u>Direct Links: Latest Graphics Drivers for the NVIDIA GTX 980 Ti</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dive-into-digital-viewing-access-an-array-of-films-and-series-at-zero-cost-with-crackle/"><u>Dive Into Digital Viewing: Access an Array of Films and Series at Zero Cost with Crackle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-when-wmvcoredll-is-nowhere-found-an-in-depth-tutorial/"><u>Effective Fixes for When Wmvcore.dll Is Nowhere Found: An In-Depth Tutorial</u></a></li>
+<li><a href="https://article-tips.techidaily.com/harmony-match-maker-for-2024/"><u>Harmony Match Maker for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harnessing-power-down-magic-for-w10w11-on-standby/"><u>Harnessing Power-Down Magic for W10/W11 on Standby</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 13 Pro and iPad</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-luts-guide-to-professional-movie-coloring/"><u>In 2024, Luts Guide to Professional Movie Coloring</u></a></li>
+<li><a href="https://techtrends.techidaily.com/monitoring-your-internet-bandwidth-a-step-by-step-guide/"><u>Monitoring Your Internet Bandwidth: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-issues-is-aol-mail-down-or-are-you-facing-connection-problems/"><u>Navigating Through Issues: Is AOL Mail Down or Are You Facing Connection Problems?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-shelldll-errors-tips-for-recovering-or-repairing-missing-components/"><u>Overcoming the Shell.dll Errors: Tips for Recovering or Repairing Missing Components</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965405555-updated-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alt/"><u>Updated Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-freedom-across-borders-an-insight-into-t-mobile-metro-unlimited-roaming-guidelines/"><u>Wireless Freedom Across Borders: An Insight Into T-Mobile Metro Unlimited Roaming Guidelines</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-10-24T16:23:48.170Z
-updated: 2024-10-27T16:41:43.291Z
+date: 2024-10-26T16:32:45.444Z
+updated: 2024-11-01T23:44:41.983Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -74,10 +81,10 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -109,10 +116,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -143,6 +150,13 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -156,13 +170,6 @@ The M3 MacBook Air is powerful enough to feel like a desktop. Here, it's powerin
 Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
 
@@ -189,13 +196,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,22 +243,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-compilation-of-top-10-free-youtube-spaces-for-digital-illustrators/"><u>[New] 2024 Approved The Ultimate Compilation of Top 10 Free YouTube Spaces for Digital Illustrators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevating-your-snapping-game-tips-for-uninterrupted-streaks/"><u>[New] Elevating Your Snapping Game Tips for Uninterrupted Streaks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-choice-the-greatest-11-multi-angle-cams/"><u>[New] Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-gopro-the-15-top-waterproof-cams-for-adventure-for-2024/"><u>Beyond GoPro The 15 Top Waterproof Cams for Adventure for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/down-of-mr-beasts-financial-powerhouse/"><u>Breakdown of Mr. Beast's Financial Powerhouse</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-best-content-to-binge-on-discovery-plus-this-july-2024/"><u>Explore the Best Content to Binge on Discovery Plus This July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-enable-imessage-on-your-android-device/"><u>Guide: Enable iMessage on Your Android Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hero-session-vs-hero-session-duel/"><u>Hero Session Vs Hero Session Duel</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-sony-xperia-5-v-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Sony Xperia 5 V Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>In 2024, Syma X5C Insights Choosing the Best Drone for Aviation Rookies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-factors-to-assess-when-choosing-your-next-video-recording-equipment/"><u>Key Factors to Assess When Choosing Your Next Video Recording Equipment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-sending-audio-notes-using-your-iphone/"><u>Mastering the Art of Sending Audio Notes Using Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-surface-pro-and-wi-fi-woes-expert-advice-for-seamless-connectivity/"><u>Microsoft Surface Pro and Wi-Fi Woes: Expert Advice for Seamless Connectivity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-msxml4dll-file-could-not-be-foundmissing-issue-on-your-pc/"><u>Resolving the 'Msxml4.dll' File Could Not Be Found/Missing Issue on Your PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/secrets-to-a-never-ending-snapstreak-inside-knowledge-for-2024/"><u>Secrets to a Never-Ending Snapstreak Inside Knowledge for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-key-trackers-of-2024-your-ultimate-guide/"><u>Top Rated Key Trackers of 2024: Your Ultimate Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-ultimate-list-of-15-free-booting-anti-virus-applications/"><u>Unveiling the Ultimate List of 15 Free Booting Anti-Virus Applications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-light-and-shade-mastery-in-photographic-edits/"><u>[New] Light & Shade Mastery in Photographic Edits</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos-for-2024/"><u>[New] Streamline Video Communication Learn to Add Timely Captions on FB Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-live-broadcasting-bliss-comprehensive-list-of-hardware-and-software-for-successful-streams/"><u>[Updated] Live Broadcasting Bliss Comprehensive List of Hardware & Software for Successful Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/asus-zenwifi-ax6600-mesh-network-rigorously-tested-comprehensive-review/"><u>ASUS ZenWifi AX6600 Mesh Network Rigorously Tested - Comprehensive Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-classic-lg-watch-style-insights-into-navigating-wear-os-20-smartwatches/"><u>Evaluating the Classic LG Watch Style: Insights Into Navigating Wear OS 2.0 Smartwatches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-jsksriptdll-disappeared-or-non-existent-file-error-with-ease/"><u>Fix 'jsksript.dll' Disappeared or Non-Existent File Error with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-a-computer-fan-thats-loud-or-making-noise/"><u>How to Fix a Computer Fan That's Loud or Making Noise</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 7 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-meizu-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Meizu</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-lameencdll-issues-in-audacity-comprehensive-guide/"><u>Resolving lame_enc.dll Issues in Audacity – Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-airpods-charging-woes-top-9-methods/"><u>Solve Your AirPods Charging Woes: Top 9 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
 </ul></div>
 

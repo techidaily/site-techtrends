@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-10-26T19:04:12.567Z
-updated: 2024-10-27T18:12:22.814Z
+date: 2024-10-31T20:44:02.178Z
+updated: 2024-11-01T21:31:46.131Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,16 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -70,13 +57,6 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -84,16 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -104,11 +78,31 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -146,22 +140,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-popular-comment-pathways/"><u>[New] Navigating Popular Comment Pathways</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-user-preferences-with-instagrams-real-time-feedback-for-2024/"><u>[New] Unlocking User Preferences with Instagram's Real-Time Feedback for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-explore-the-cheapest-deals-on-top-tier-gopros/"><u>[Updated] Explore the Cheapest Deals on Top-Tier GoPros</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-top-tiktok-photo-tricks-for-instant-fame-for-2024/"><u>[Updated] Top TikTok Photo Tricks for Instant Fame for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amd-radeon-graphics-cards-upgrade-your-driver-with-the-latest-2410-update/"><u>AMD Radeon Graphics Cards: Upgrade Your Driver with the Latest 24.10 Update</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-the-samsung-un65ru8000fxxa-where-aesthetics-and-intelligent-tech-converge/"><u>Comprehensive Review: The Samsung Un65ru8000fxxa - Where Aesthetics and Intelligent Tech Converge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-guide-to-free-community-driven-dns-solutions/"><u>Essential Guide to Free Community-Driven DNS Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-17-most-effective-graphic-design-tools-today/"><u>Explore the 17 Most Effective Graphic Design Tools Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gptzero-explained-separating-real-from-synthetic-texts/"><u>GPTZero Explained: Separating Real From Synthetic Texts</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-mac-computers-failing-to-connect-with-peripheral-displays/"><u>How To Troubleshoot Mac Computers Failing to Connect with Peripheral Displays</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-netflix-troubleshooting-19-tips-for-perfect-playback-on-lg-displays/"><u>Mastering Netflix Troubleshooting: 19 Tips for Perfect Playback on LG Displays</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-hardware-interface-documentation/"><u>OpenGL Hardware Interface Documentation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-owning-apples-4th-generation-smart-streaming-device/"><u>The Comprehensive Guide to Owning Apple's 4Th-Generation Smart Streaming Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-a-failed-authentication-fixing-401-http-status-codes/"><u>Troubleshooting a Failed Authentication: Fixing 401 HTTP Status Codes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-history-with-the-wayback-machine-tips-for-effective-use-in-digital-research/"><u>Unlocking History with the Wayback Machine: Tips for Effective Use in Digital Research</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-clicker-article-titles-maker-for-2024/"><u>[New] Top Clicker Article Titles Maker for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-video-recording-and-editing-with-adobe-connect/"><u>[Updated] 2024 Approved Mastering Video Recording & Editing with Adobe Connect</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-deep-dive-into-toolwiz-app-for-professional-photos/"><u>[Updated] A Deep Dive Into Toolwiz App for Professional Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>[Updated] In 2024, Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tools-for-perfect-linux-screenshots/"><u>In 2024, Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-a60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel A60 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/offline-minecraft-adventures-configuring-your-game-on-windows-10/"><u>Offline Minecraft Adventures: Configuring Your Game on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolved-windows-error-during-drive-formatting-now-successful/"><u>Resolved: Windows Error During Drive Formatting – Now Successful</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-style-regular-not-applicable-in-verdana-font-complete-guide/"><u>Resolving the Issue: 'Style Regular' Not Applicable in Verdana Font - Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-camera-apps-loss-of-recorded-images/"><u>Reversing Camera App's Loss of Recorded Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-logitech-wireless-clicker-a-comprehensive-troubleshooting-approach/"><u>Reviving Your Logitech Wireless Clicker: A Comprehensive Troubleshooting Approach</u></a></li>
+<li><a href="https://techtrends.techidaily.com/safe-bios-updating-practices-a-comprehensive-timing-and-method-guide/"><u>Safe BIOS Updating Practices: A Comprehensive Timing and Method Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-clearing-your-browsers-cache-in-windows-11/"><u>Step-by-Step Guide: Clearing Your Browser's Cache in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-repair-tips-for-a-nonfunctional-logitech-wireless-device/"><u>Step-by-Step Repair Tips for a Nonfunctional Logitech Wireless Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-yuva-3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Yuva 3 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://discover-help.techidaily.com/update-announcement-wonderfox-document-manager-elevates-features-in-latest-version-12-release/"><u>Update Announcement: WonderFox Document Manager Elevates Features in Latest Version 1.2 Release</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
-date: 2024-10-26T18:02:31.714Z
-updated: 2024-10-27T18:01:43.025Z
+date: 2024-10-29T07:34:56.123Z
+updated: 2024-11-01T19:16:42.037Z
 categories:
   - BestProducts
 description: This Article Describes Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
@@ -42,41 +42,21 @@ Close
 ![Microsoft Print to PDF in Windows 10 Printer dialog](https://www.lifewire.com/thmb/p3IiqiFSFIE5T7z1aC3c8Y9RVnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle49-bc1e4c00c6774f3facef9276808e1a6b.jpg)
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
 6. Select**Print** , then enter a name for the PDF and choose where you want to save it. Select**Save** to finish.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You now have a PDF file containing all your images you can print or attach to an email.  
 
  Websites like the[ JPG to PDF converter tool](https://smallpdf.com/jpg-to-pdf) also let you upload images and then download a PDF.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Combine Images Into a PDF on a Mac
 
@@ -87,20 +67,34 @@ Close
 2. Click-and-drag the photos in the sidebar to rearrange their order. When you're satisfied, select**File** \>**Print** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternately, choose**Send in Mail** to send the PDF to someone directly as an email attachment.  
 ![Save as PDF in Mac Printer dialog](https://www.lifewire.com/thmb/T5qiCILDPCq3USXycr-nMv-R36I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle54-46f2d6bf443140d78f6fc2c1494e5921.jpg)
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
 
 ![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you open the PDF, you can add more images by dragging them into the document. To delete an image, select it > go to the Preview menu > click**Edit** \>**Delete** .
 
@@ -142,16 +136,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-tricky-feed-functions-more-vids-please/"><u>[New] In 2024, Unveiling Tricky Feed Functions More Vids Please</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advanced-survival-skills-in-minecraft-the-ultimate-guide-to-using-teleport-command-effectively/"><u>Advanced Survival Skills in Minecraft: The Ultimate Guide to Using Teleport Command Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-game-crashes-correct-the-error-of-missing-or-unavailable-d3dx941dll/"><u>Avoid Game Crashes: Correct the Error of Missing or Unavailable d3dx9_41.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-mobile-intelligence-in-android-systems-for-enhanced-user-experience/"><u>Demystifying Mobile Intelligence in Android Systems for Enhanced User Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ting-your-content-6-steps-to-higher-youtube-visibility/"><u>Elevating Your Content 6 Steps to Higher YouTube Visibility</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrate-srt-into-windowsmacos-operations/"><u>In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-empty-phone-3-prospect-release-dates-price-forecast-and-leaked-hardware-features-unveiled/"><u>Inside the 'Empty Phone 3': Prospect Release Dates, Price Forecast & Leaked Hardware Features Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-overcoming-black-screen-issues-in-facetime-sessions/"><u>Step-by-Step Tutorial: Overcoming Black Screen Issues in FaceTime Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-struggle-in-a-galaxy-far-far-away-resolving-battlefront-iis-pc-freezing-problems/"><u>Stop Struggle in a Galaxy Far, Far Away: Resolving Battlefront II's PC Freezing Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cant-locate-powershell-console/"><u>What to Do When Windows Can't Locate PowerShell Console</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-confrontation-of-dusk-defender-and-dawn-protector/"><u>[New] Confrontation of Dusk Defender and Dawn Protector</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-picart-tips-effortless-face-blurring-trick/"><u>[New] In 2024, PicArt Tips Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-strategic-showdowns-unleashed-exploring-7-best-games/"><u>[Updated] In 2024, Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 11 without Passcode or Face ID</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-origin-downloads-top-strategies-for-improved-performance/"><u>Accelerate Origin Downloads: Top Strategies for Improved Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-closed-captioning-in-amazon-prime-streaming-services/"><u>Disabling Closed Captioning in Amazon Prime Streaming Services</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-8-to-16gb-unveiling-windows-new-standard-ram/"><u>From 8 to 16GB: Unveiling Windows' New Standard RAM</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-scheduling-your-visit-with-ease-how-to-book-a-time-at-the-apple-store/"><u>Guide: Scheduling Your Visit with Ease - How to Book a Time at the Apple Store</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-is-verizon-pioneering-the-new-era-of-5g-connectivity/"><u>How Is Verizon Pioneering the New Era of 5G Connectivity?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insights-into-atandts-approach-to-cellular-device-roaming-charges/"><u>Insights Into AT&T's Approach to Cellular Device Roaming Charges</u></a></li>
+<li><a href="https://fox-access.techidaily.com/iphone-solutions-for-reverse-playback/"><u>IPhone Solutions for Reverse Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rpcrt4-dll-file-missing-heres-how-you-can-rectify-it/"><u>RPCRT4 DLL File Missing? Here's How You Can Rectify It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-shopping-the-7-key-aspects-for-buying-the-perfect-smart-tv/"><u>Smart Shopping: The 7 Key Aspects for Buying the Perfect Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-choosing-the-ideal-traffic-control-application/"><u>Ultimate Guide to Choosing the Ideal Traffic Control Application</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-dual-displays-with-macos/"><u>Ultimate Guide: Setting up Dual Displays with macOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210909488-9781734889918-what-i-believe-truth/"><u>What I Believe-Truth | Free Book</u></a></li>
 </ul></div>
 

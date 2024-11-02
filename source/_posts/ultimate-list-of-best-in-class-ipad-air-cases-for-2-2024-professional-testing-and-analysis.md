@@ -1,7 +1,7 @@
 ---
 title: "Ultimate List of Best-in-Class iPad Air Cases for 2지 2024: Professional Testing & Analysis"
-date: 2024-10-24T19:24:35.006Z
-updated: 2024-10-27T18:14:53.913Z
+date: 2024-11-01T09:14:39.052Z
+updated: 2024-11-02T02:09:38.139Z
 tags:
   - apple
 categories:
@@ -29,6 +29,19 @@ That's why we've gone hands-on with iPad Air cases to find the best ones to suit
 The [Zugu iPad Air case](https://www.zugucase.com/collections/ipad-cases/products/ipad-air-4th-gen-alpha-case?) is currently our top pick for the best iPad Air case overall, thanks to its multiple stand configurations, solid protection and security, fair price, top features, and excellent warranty. But there is a sea of iPad cases to choose from -- that's why we went hands-on and dove deep into expert research to find the best iPad Air cases for you. See the best iPad Air cases and covers to not only protect your tablet, but also help with [productivity](https://www.zdnet.com/article/best-ipad-keyboard/), functionality, and even add a bit of flare below. 
 
 **Also:** [**The best iPad keyboard cases you can buy**](https://www.zdnet.com/article/best-ipad-keyboard-case/)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best iPad Air cases of 2024
 
@@ -121,13 +134,6 @@ Cons
 * Not the most protective
 * A bit pricey
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Moft Snap Float Folio Case
 
 ### Best versatile iPad Air case
@@ -194,6 +200,13 @@ Cons
 * No color options
 * A bit bulky
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## OtterBox Defender Series Pro Case
 
 ### Best iPad Air case for durability
@@ -223,19 +236,6 @@ Pros
 Cons 
 * Expensive
 * Limited drop protection
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Smart Folio
 
@@ -297,15 +297,22 @@ If you're in the market for an iPad Air case, here's a few factors to keep in mi
 * **Budget:** There are many affordable case options available, but there are also some that cost well over $100, depending on design and features. Set a budget for yourself -- it will help narrow your search parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these best iPad Air cases?
 
 We chose these iPad Air case options after extensive research into the product category and by going hands-on with some of these products. We looked at renowned brands and reviews (both good and bad) and noted the top-rated iPad Air cases for different wants and needs. Ultimately, factors like cost, compatibility, use case, size, and practicality guided our top picks. We additionally consider ease of use, function, design, and other direct features to help ensure we recommend the best to you. We also looked for the top nice-to-have features, such as Apple Pencil charging capabilities, keyboards, and multiple stand configurations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the new iPad models?
 
@@ -315,13 +322,6 @@ Apple announced the 6th-generation iPad Air and the 7th-generation iPad Pro mode
 
 The new iPad Air comes in two sizes for the first time (11 inches and 13 inches) and features the M2 chip. In addition, the iPad Air now starts at 128GB instead of the mere 64GB that Apple previous included in the base model. The 2022 iPad Air has a display size of 10.9-inches. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are the iPad Air 2022 and iPad Air 2024 the same size?
 
 No, the newest 2024 iPad Air is not the same display size as the previous iteration. The new iPad Air is available in either an 11-inch or 13-inch configuration, while the two previous versions, the iPad Air 5th Gen and 4th Gen, feature a 10.9-inch display. 
@@ -329,10 +329,10 @@ No, the newest 2024 iPad Air is not the same display size as the previous iterat
 This means that if you purchase a new iPad Air, you will need a new case designed for the 11-inch or 13-inch size, or one that stipulates it is compatible with your model. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will iPad Air 10.9-inch cases fit the iPad Air 11-inch model?
@@ -345,16 +345,16 @@ If you already have a 10.9-inch case, it won't hurt to try it on your iPad Air 1
 
 The 2022 iPad and iPad Air iterations do both offer a 10.9-inch screen display, as well as similar Liquid Retina displays. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the iPad Air sizes?
 
 The 4th and 5th Gen iPad Air models have a 10.9-inch display, and the latest iPad Pro models have either an 11-inch or 12.9-inch display (iPad Pro 11-inch 4th Gen or iPad Pro 12.9-inch 6th Gen). The new iPad Air and iPad Pro models both come in an 11-inch or 13-inch display. You can compare sizes and see display and model information on the [Apple website](https://www.apple.com/ipad/compare/?modelList=ipad-air-3rd-gen,ipad-air-5th-gen,ipad-10th-gen). 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do I really need a case for my iPad Air?
 
@@ -378,35 +378,22 @@ The trick here is confirming that you're buying a case designed to fit the gener
 
 Just be sure not to accidentally purchase cases designed for other iPad models and display sizes. Reading the specs and features before finalizing your purchase can help avoid any unnecessary or incorrect purchases. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will the case make my iPad Air waterproof?
 
 None of the cases we've discussed here will make it safe to dunk your iPad Air. What's more, you'll be hard-pressed to find a reputable waterproof iPad Air case on the market today, especially for 4th and 5th Gen tablets. 
 
 It's also worth noting that Apple doesn't build in the same level of water resistance as many people might expect. While their later-model iPhones generally offer some water resistance, they make no such claim with their iPad Air. Long story short, your new tablet and water don't mix. 
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Where can I find iPad Air cases?
 
 Most major retailers like Best Buy, Walmart, and Amazon have several iPad Air cases for sale in-store and online. If you're looking for more bespoke brands, such as Casetify, you may have to look directly on those individual retailers sites to see their iPad Air case offerings. But don't fret -- starting your search at ZDNET is always a good decision. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative iPad Air cases to consider?
 
@@ -415,6 +402,13 @@ Yes, there are tons of iPad Air cases on the market, each with different offerin
 [Best iPad Air keyboard case alternative Apple Magic Keyboard Apple's Magic Keyboard case is the tech giant's companion for the iPad Pro and iPad Air. It comes in white or black and features a trackpad, USB-C port for charging, backlit keys, and front and back protection. Thanks to a magnetic hold, you can also adjust it to a comfortable viewing angle. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-magic-keyboard-for-11-inch-ipad-pro-1st-2nd-or-3rd-generation-and-ipad-air-4th-or-5th-generation-black%2F6340356.p%3FskuId%3D6340356&publisher_slug=itechdaily19598&exclusive=1)[Best basic iPad Air case for 2024 iPad Air ESR iPad Air Magnetic Shift Case for 10.9, 11, 13-inch If you're upgrading to the newest iPad Air models or need a case for the 10.9-inch display, ESR already has cases available to fit. This folio case comes in five colors, has a built-in holder for the Apple Pencil, features raised screen view, and configures into nine different viewing angles. View at Esrgear](https://shareasale.com/r.cfm?b=1200223&u=4338022&m=80610&afftrack=techidaily&urllink=https%3A%2F%2Ftinyland.pxf.io%2Forg4ra)
 
 ### Best simple iPad Air case
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Casetify Impact Case
 
@@ -478,21 +472,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-epic-historical-combat-showdowns-the-top-7-games/"><u>[New] 2024 Approved Epic Historical Combat Showdowns – The Top 7 Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-effective-strategies-for-capturing-online-gatherings-mac-pc-for-2024/"><u>[New] Effective Strategies for Capturing Online Gatherings (Mac, PC) for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/expertenrat-schritt-fur-schritt-guide-zum-sicherung-von-daten-auf-einer-internen-festplatte/"><u>Expertenrat: Schritt-Für-Schritt-Guide Zum Sicherung Von Daten Auf Einer Internen Festplatte</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-dnssddll-misplacement-or-loss-error-in-windows-10/"><u>Fixing dnssd.dll Misplacement or Loss Error in Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-blend-multiple-spotify-playlists-into-a-single-harmonious-list/"><u>How To Blend Multiple Spotify Playlists Into A Single Harmonious List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-share-multiple-photos-on-facebook-at-once-without-hassle/"><u>How To Share Multiple Photos On Facebook At Once Without Hassle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improve-gaming-with-this-expert-tutorial-on-adding-an-ssd-to-your-playstation-5/"><u>Improve Gaming with This Expert Tutorial on Adding an SSD to Your PlayStation 5</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-blaze-2-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Blaze 2 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-15-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 15 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-premium-microphones-for-ultra-hd-videography/"><u>In 2024, Selecting Premium Microphones for Ultra-HD Videography</u></a></li>
-<li><a href="https://driver-download.techidaily.com/intel-graphics-driver-download-and-how-to-for-windows-10-and-11-systems/"><u>Intel Graphics Driver Download and How-To for Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-your-samsung-soundbar-with-your-television/"><u>Step-by-Step Guide: Setting Up Your Samsung Soundbar with Your Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-walkthrough-on-utilizing-copilot-with-microsoft-teams/"><u>Step-by-Step Walkthrough on Utilizing Copilot with Microsoft Teams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-challenge-of-business-processes-insights-from-the-abbyy-perspective/"><u>The Challenge of Business Processes: Insights From the ABBYY Perspective</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-experience-with-vitas-complete-editor-detailed-review-2024/"><u>The Ultimate Experience with Vita's Complete Editor - Detailed Review 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-correcting-the-mss3-2-dll-file-is-absent-problem-in-simple-steps/"><u>The Ultimate Fix: Correcting the 'Mss3 2 DLL File Is Absent' Problem in Simple Steps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>[New] Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-your-twitter-presence-a-comprehensive-guide-to-gaining-more-followers/"><u>Boosting Your Twitter Presence: A Comprehensive Guide to Gaining More Followers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-these-4-amazing-free-online-planners-that-will-organize-your-life/"><u>Discover These 4 Amazing Free Online Planners That Will Organize Your Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-viewing-pleasure-on-apple-tv-secrets-to-getting-the-most-out-of-your-device/"><u>Elevate Your Viewing Pleasure on Apple TV: Secrets to Getting the Most Out of Your Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-website-tracking-how-to-turn-on-cookies-in-chromefirefoxsafari/"><u>Enabling Website Tracking: How to Turn On Cookies in Chrome/Firefox/Safari</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>In 2024, Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>In 2024, FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-modern-photography-editing-with-polarr-insights/"><u>In 2024, Mastering Modern Photography Editing with Polarr Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-checklist-for-top-tier-instagram-reels/"><u>In 2024, The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/laptop-leaps-phone-flips-book-wonders-embracing-the-modern-day-library/"><u>Laptop Leaps, Phone Flips, Book Wonders - Embracing the Modern-Day Library!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-extracting-still-images-from-videos-10-reliable-converters-for-2024/"><u>New Extracting Still Images From Videos 10 Reliable Converters for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/resolved-cod-modern-warfare-3-bug-now-running-smoothly/"><u>Resolved COD Modern Warfare 3 Bug - Now Running Smoothly!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-7-underappreciated-issues-in-games-on-the-go/"><u>The 7 Underappreciated Issues in Games on the Go</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-methods-to-boost-image-resolution/"><u>Top 5 Methods to Boost Image Resolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tactics-for-playing-pokemon-unite-optimally-on-the-pc-platform/"><u>Top Tactics for Playing Pokémon Unite Optimally on the PC Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-how-netflix-transformed-from-a-dvd-by-mail-operation/"><u>Understanding How Netflix Transformed From a DVD-by-Mail Operation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-strategies-your-ultimate-guide-to-excelling-at-royal-match/"><u>Unlocking Strategies: Your Ultimate Guide to Excelling at Royal Match</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-your-email-experience-mozilla-thunderbird-version-52/"><u>Upgrade Your Email Experience: Mozilla Thunderbird Version 52</u></a></li>
 </ul></div>
 

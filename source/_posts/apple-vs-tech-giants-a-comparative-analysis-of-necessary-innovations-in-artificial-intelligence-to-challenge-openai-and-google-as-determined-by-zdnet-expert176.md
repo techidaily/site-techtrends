@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-10-21T16:33:29.408Z
-updated: 2024-10-27T16:40:50.715Z
+date: 2024-10-29T05:38:07.580Z
+updated: 2024-11-02T13:15:33.235Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -108,10 +108,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,6 +123,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -152,13 +159,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,22 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>[New] Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ideal-editors-perfect-for-high-quality-youtube-videos/"><u>[Updated] 2024 Approved Ideal Editors Perfect for High-Quality YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoiding-spam-filters-how-to-ensure-your-emails-are-safelisted/"><u>Avoiding Spam Filters: How to Ensure Your Emails Are Safelisted</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cinematic-bliss-at-home-watch-our-picks-for-the-best-15-dolby-atmos-films/"><u>Cinematic Bliss at Home: Watch Our Picks for the Best 15 Dolby Atmos Films</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crucial-criteria-for-choosing-a-motherboard-unveiling-7-key-factors/"><u>Crucial Criteria for Choosing a Motherboard: Unveiling 7 Key Factors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/economical-essentials-for-assembling-a-budget-friendly-home-theatre/"><u>Economical Essentials for Assembling a Budget-Friendly Home Theatre</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-s17e-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo S17e</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X Flip Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-find-x7-ultra-easily-by-drfone-android/"><u>How To Unlock a Oppo Find X7 Ultra Easily?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-steam-deck-remote-play-to-stream-games-from-your-pc/"><u>How to Use Steam Deck Remote Play to Stream Games From Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-front-row-non-sports-options/"><u>In 2024, Best Front Row Non-Sports Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ordering-up-the-ultimate-guide-to-viewing-all-transformers-films-sequentially/"><u>Ordering Up: The Ultimate Guide to Viewing All Transformers Films Sequentially</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solve-your-android-texting-problems-no-reception-fixes-explained/"><u>Solve Your Android Texting Problems – No Reception Fixes Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-the-missing-d3dx928dll-file-error/"><u>Step-by-Step Solution for the Missing d3dx9_28.dll File Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-step-by-step-process-of-finding-someones-number-online-a-comprehensive-guide/"><u>The Step-by-Step Process of Finding Someone's Number Online: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-unveils-the-best-flashlights-of-2024-professional-reviews-and-choices/"><u>ZDNet Unveils the Best Flashlights of 2024: Professional Reviews and Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-stop-the-sponsored-snippet-stops-in-fb/"><u>[New] 2024 Approved Stop the Sponsored Snippet Stops in FB</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-fcp-no-cost-access-a-guide/"><u>[New] FCP No-Cost Access A Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>[New] In 2024, How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-dissecting-video-ranking-algorithms-on-youtube/"><u>[Updated] 2024 Approved Dissecting Video Ranking Algorithms on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-correcting-gopros-fish-eye-distortion-techniques/"><u>2024 Approved Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-dorm-room-to-mainstream-trending-short-hashtags/"><u>From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
+<li><a href="https://win-updates.techidaily.com/new-release-alert-explore-the-advanced-capabilities-of-apowermanager-version-30/"><u>New Release Alert: Explore the Advanced Capabilities of ApowerManager Version 3.0!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solved-how-to-reduce-antimalware-service-executable-cpu-usage-in-windows-11-and-10/"><u>Solved: How to Reduce Antimalware Service Executable CPU Usage in Windows 11 & 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-audio-issues-optimizing-your-airpods-sound-quality-on-a-windows-computer/"><u>Solving Audio Issues: Optimizing Your AirPods' Sound Quality on a Windows Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stuck-keys-on-your-windows-keyboard-heres-how-you-can-unstick-them/"><u>Stuck Keys on Your Windows Keyboard? Here's How You Can Unstick Them!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/successfully-installs-windows-when-encountered-with-non-gpt-drive-limitations/"><u>Successfully Installs Windows When Encountered with Non-GPT Drive Limitations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-free-pairing-of-beats-wireless-headphones-with-your-windows-11-pc-expert-advice-and-tips/"><u>Trouble-Free Pairing of Beats Wireless Headphones with Your Windows 11 PC – Expert Advice & Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-future-of-personal-assistants-on-your-wrist-6-insightful-ways-to-integrate-chatgpt-into-smartwatches/"><u>Unlock the Future of Personal Assistants on Your Wrist: 6 Insightful Ways to Integrate ChatGPT Into Smartwatches</u></a></li>
 </ul></div>
 

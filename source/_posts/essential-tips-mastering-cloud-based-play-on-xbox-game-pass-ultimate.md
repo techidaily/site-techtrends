@@ -1,7 +1,7 @@
 ---
 title: "Essential Tips: Mastering Cloud-Based Play on Xbox Game Pass Ultimate"
-date: 2024-09-12T23:21:29.975Z
-updated: 2024-09-18T00:04:50.067Z
+date: 2024-10-30T18:59:50.878Z
+updated: 2024-11-02T11:29:35.492Z
 categories:
   - BestProducts
 description: "This Article Describes Essential Tips: Mastering Cloud-Based Play on Xbox Game Pass Ultimate"
@@ -61,9 +61,23 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display
 
@@ -74,13 +88,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  We've also heard that Google could borrow from Apple this year and[use the same display the company will use in the iPhone 16 Pro](https://9to5google.com/2024/07/01/google-pixel-9-display-samsung-iphone-report/) . According to the report's source, the Samsung OLED display is supposed to be brighter and last longer and will be used across the whole lineup, including the Pixel 9 Pro Fold.  
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Performance
 
@@ -93,10 +100,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 MySmartPrice
@@ -105,18 +112,18 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -125,13 +132,6 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -154,5 +154,21 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-essential-checklist-for-consistent-content-creators/"><u>[New] 2024 Approved The Essential Checklist for Consistent Content Creators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimal-6-secure-virtual-communication-tools-for-smbs/"><u>[Updated] Optimal 6 Secure Virtual Communication Tools for SMBs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ergodriven-topo-mat-review-a-step-towards-a-comfortable-and-healthy-office-life-with-the-best-standing-desk-accessory/"><u>Ergodriven Topo Mat Review: A Step Towards a Comfortable and Healthy Office Life with the Best Standing Desk Accessory.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-a-non-responsive-search-in-windows-10-easily-and-quickly/"><u>Fixing a Non-Responsive Search in Windows 10 Easily & Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-correcting-the-error-when-your-computer-cant-find-xinput13dll-file/"><u>Guide: Correcting the Error When Your Computer Can’t Find xinput1_3.dll File</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-google-pixel-fold-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Google Pixel Fold Phones with/without a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>In 2024, Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
+<li><a href="https://win-dash.techidaily.com/liver-transplantation-in-btc-patients-requires-strict-criteria-to-be-met-due-to-cancer-recurrence-concerns/"><u>Liver Transplantation in BTC Patients Requires Strict Criteria to Be Met Due to Cancer Recurrence Concerns.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-realtek-alc892a-hd-audio-driver-for-windows-10/"><u>Quick Download: Realtek ALC892A HD Audio Driver for Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsungs-roadmap-to-2eplus6-a-comprehensive-guide-on-dates-announcements-and-buzz-for-tech-enthusiasts/"><u>Samsung's Roadmap to 2E+6: A Comprehensive Guide on Dates, Announcements & Buzz for Tech Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-apple-watch-deals-this-month/"><u>The Best Apple Watch Deals This Month</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722868813082-top-tips-for-optimizing-your-television-system-for-a-memorable-super-bowl-viewing-party/"><u>Top Tips for Optimizing Your Television System for a Memorable Super Bowl Viewing Party</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-macbook-air-freezes-up-solutions-inside/"><u>What to Do When Your MacBook Air Freezes Up - Solutions Inside</u></a></li>
+</ul></div>
 

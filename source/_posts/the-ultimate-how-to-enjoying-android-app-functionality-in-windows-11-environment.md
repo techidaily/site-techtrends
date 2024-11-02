@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate How-To: Enjoying Android App Functionality in Windows 11 Environment"
-date: 2024-10-22T18:16:01.184Z
-updated: 2024-10-27T19:28:26.226Z
+date: 2024-10-28T20:19:20.672Z
+updated: 2024-11-02T05:34:08.837Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate How-To: Enjoying Android App Functionality in Windows 11 Environment"
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 * To control your phone from Windows 10, install**AirDroid** and turn on**Screen Mirroring** and**Remote Control** .
 
  This article describes two ways to use Android apps on a Windows 10 PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install BlueStacks to Run Android Apps on a PC
 
@@ -42,41 +49,14 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 ![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
 6. Tap**Continue** on the permission request to access your phone's files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
 9. Select**OK** on the Security & Remote Features screen to continue setup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
 ![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
 11. Select**Continue** on the prompt to allow display over other apps.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 12. Tap**AirDroid** from your list of apps.
 13. Tap the toggle next to**Allow display over other apps** .  
@@ -85,24 +65,27 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
@@ -110,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
@@ -125,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
 
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -166,22 +156,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>[New] Oculus Odyssey A Journey Through Best VR Headsets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-movie-file-processing-in-windows-11-for-2024/"><u>[Updated] Streamlining Movie File Processing in Windows 11 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-terras-treasures-selecting-the-top-mapping-games/"><u>2024 Approved Terra's Treasures Selecting the Top Mapping Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-reboot-your-macs-network-preferences/"><u>Complete Guide: Steps to Reboot Your Mac's Network Preferences</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-dropping-several-points-of-interest-with-google-maps/"><u>Efficiently Dropping Several Points of Interest with Google Maps</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhanced-navigation-on-windows-xpvista/"><u>Enhanced Navigation on Windows XP/Vista</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facebook-alternatives-using-messenger-independently-of-your-main-profile/"><u>Facebook Alternatives: Using Messenger Independently of Your Main Profile</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-correctly-addressing-the-a-disk-read-error-occurred-warning-in-windows-11/"><u>Guide: Correctly Addressing the 'A Disk Read Error Occurred' Warning in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-stream-your-windows-pc-screen-onto-a-television-using-chromecast/"><u>How To Stream Your Windows PC Screen Onto A Television Using Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/identifying-inauthentic-facebook-invites-a-guide/"><u>Identifying Inauthentic Facebook Invites: A Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-echo-device-is-offline-errors-effective-solutions-for-users-of-amazons-voice-assistant/"><u>Overcoming 'Echo Device Is Offline' Errors: Effective Solutions for Users of Amazon's Voice Assistant</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-12-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 12</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-fixing-the-annoying-whirring-noise-in-subwoofers/"><u>The Ultimate Guide to Fixing the Annoying Whirring Noise in Subwoofers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unlock-full-potential-of-streaming-with-dual-display-on-netflix/"><u>Unlock Full Potential of Streaming with Dual Display on Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-bass-management-a-comprehensive-guide/"><u>Unlocking the Secrets of Bass Management: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/value-beyond-measure-the-compact-power-of-this-superior-8-in-1-adapter-tech-reveal-on-zdnet/"><u>Value Beyond Measure: The Compact Power of This Superior 8-in-1 Adapter - Tech Reveal on ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-screenplay-scribblers-hub/"><u>[New] In 2024, Top Screenplay Scribblers Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>2024 Approved Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-installing-the-latest-zoom-update-on-windowsmac-os/"><u>Easy Steps for Installing the Latest Zoom Update on Windows/Mac OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-setting-up-bots-on-your-discord-platform/"><u>Guide: Setting Up Bots on Your Discord Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-fix-ios-17s-malfunctioning-screen-capture-feature/"><u>How to Fix iOS 17'S Malfunctioning Screen Capture Feature</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-c67-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme C67 5G Without PUK Codes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-unlock-the-door-to-others-tiktok-lives/"><u>In 2024, Unlock the Door to Others' TikTok Lives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-insta-without-an-account-a-comprehensive-tutorial/"><u>Navigating Insta Without an Account – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-excellent-11-digital-audio-manipulation-apps-on-android/"><u>New Excellent 11 Digital Audio Manipulation Apps on Android</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/professionelles-bildaufnehmen-mit-blick-auf-den-usb-stick-anleitung-fur-windows-benutzer/"><u>Professionelles Bildaufnehmen Mit Blick Auf Den USB Stick - Anleitung Für Windows Benutzer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-guide-to-repairing-msvcrtdll-file-absence-issues/"><u>Solving the Mystery: A Guide to Repairing MSVCRT.DLL File Absence Issues</u></a></li>
 </ul></div>
 

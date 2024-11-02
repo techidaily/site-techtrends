@@ -1,7 +1,7 @@
 ---
 title: "Essential '80S Cinema: A Guide to Must-Watch Retro Flicks of the Decade"
-date: 2024-09-16T18:47:17.377Z
-updated: 2024-09-17T21:22:00.313Z
+date: 2024-10-27T13:18:17.738Z
+updated: 2024-11-01T19:39:13.750Z
 categories:
   - BestProducts
 description: "This Article Describes Essential '80S Cinema: A Guide to Must-Watch Retro Flicks of the Decade"
@@ -24,6 +24,19 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Type a Heart on a Windows Keyboard
 
  The heart symbol ❤️ is a commonly used emoji character, but most keyboards don’t have a designated key. Fortunately, you_can_ [type emoji from your keyboard on Windows and Macs](https://www.lifewire.com/how-to-type-emojis-4685680) if you know the right keyboard shortcuts.
@@ -40,6 +53,26 @@ These instructions apply to PCs running Windows 10 and up.
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -55,13 +88,6 @@ These instructions apply to PCs running Windows 10 and up.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -71,10 +97,16 @@ These instructions apply to PCs running Windows 10 and up.
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
@@ -90,6 +122,13 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the**NumLock button** to bring up the number pad.  
 
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
@@ -137,5 +176,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-dells-direct-methods-easy-screenshot-solutions-for-2024/"><u>[New] Dell's Direct Methods Easy Screenshot Solutions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glow-dynamics-enhancing-visual-storytelling-through-lighting/"><u>[New] Glow Dynamics Enhancing Visual Storytelling Through Lighting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-by-step-drawing-faces-on-snapchat/"><u>[New] In 2024, Step-by-Step Drawing Faces on Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-restoring-libcurldll-dll-files-fixes-for-not-found-problems/"><u>Guide to Restoring libcurl.dll DLL Files: Fixes for 'Not Found' Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/horizon-harmony-best-online-spots-for-high-res-sky-views-for-2024/"><u>Horizon Harmony Best Online Spots for High-Res Sky Views for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-hard-restart-technique-for-every-kind-of-ipad-device/"><u>Master the Hard Restart Technique for Every Kind of iPad Device</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/mastering-coastal-photo-shoots-tools-of-the-trade-unveiled/"><u>Mastering Coastal Photo Shoots: Tools of the Trade Unveiled</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/no-cost-dvd-converter-ultimate-guide-to-downloading-your-movies-from-dvds-to-computer/"><u>No-Cost DVD Converter - Ultimate Guide to Downloading Your Movies From DVDs to Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-assistants-face-off-why-alexa-or-google-assistant-might-be-your-ideal-pick/"><u>Smart Assistants Face-Off: Why Alexa or Google Assistant Might Be Your Ideal Pick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-linking-your-firestick-device-to-a-mobile-hotspot/"><u>Ultimate Guide: Linking Your Firestick Device to a Mobile Hotspot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-deep-dive-navigating-through-and-acquiring-trustedinstaller-access/"><u>Windows 11 Deep Dive: Navigating Through and Acquiring TrustedInstaller Access</u></a></li>
+</ul></div>
 

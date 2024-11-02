@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-10-23T17:18:35.443Z
-updated: 2024-10-27T16:18:38.502Z
+date: 2024-11-01T13:30:53.993Z
+updated: 2024-11-02T07:55:57.167Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -100,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,6 +114,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +130,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,13 +148,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-review-the-t5-eye-unleashing-potential/"><u>[New] Review The T5 Eye, Unleashing Potential</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>[New] Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-crop-image-online/"><u>2024 Approved How To Crop Image Online?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-upcoming-product-launch-date-confirmation-new-rumors-and-insider-info/"><u>Apple's Upcoming Product Launch – Date Confirmation, New Rumors & Insider Info</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-zte-nubia-flip-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your ZTE Nubia Flip 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cable-free-connectivity-guide-on-accessing-the-web-without-traditional-services/"><u>Cable-Free Connectivity: Guide on Accessing the Web without Traditional Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/coming-soon-to-google-store-the-pixel-buds-pro-2-leak-what-we-know-about-price-and-specs/"><u>Coming Soon to Google Store? The Pixel Buds Pro 2 Leak – What We Know About Price and Specs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-oppo-reno-11-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Oppo Reno 11 5G.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-on-deleting-cache-data-for-leading-internet-browsers/"><u>Comprehensive Tutorial on Deleting Cache Data for Leading Internet Browsers</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/data-safe-fixes-for-a-malfunctioning-usb-flash-drive-using-command-prompt/"><u>Data-Safe Fixes for a Malfunctioning USB Flash Drive Using Command Prompt</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-ways-to-schedule-a-technical-support-session-with-apples-experts/"><u>Easy Ways to Schedule a Technical Support Session with Apple's Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-best-free-streaming-options-similar-to-netflix-ranked/"><u>Explore the Best Free Streaming Options Similar To Netflix, Ranked!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hulu-or-hulu-plus-understanding-their-key-distinctions/"><u>Hulu or Hulu Plus: Understanding Their Key Distinctions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-focus-on-details-masterful-close-up-techniques-for-gaming/"><u>In 2024, Focus on Details Masterful Close-Up Techniques for Gaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-blues-with-nintendo-switch-online-outage-or-user-error/"><u>Navigating the Blues with Nintendo Switch Online - Outage or User Error?</u></a></li>
-<li><a href="https://win-special.techidaily.com/simple-techniques-for-converting-mp3-files-into-wma-format/"><u>Simple Techniques for Converting MP3 Files Into WMA Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-android-users-who-cant-get-texts-delivered/"><u>Troubleshooting Steps for Android Users Who Can’t Get Texts Delivered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-hello-finding-compatible-cameras/"><u>Windows Hello: Finding Compatible Cameras</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[Updated] 2024 Approved Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[Updated] Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-impact-with-effective-backlink-strategies-for-2024/"><u>[Updated] Elevate Your Online Impact with Effective Backlink Strategies for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-top-tiktok-anthems-melodies-you-cant-get-out-of-your-head/"><u>2024 Approved Top TikTok Anthems Melodies You Can't Get Out of Your Head</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazingly-unexplored-aspects-the-hidden-world-of-emoji-trivia/"><u>Amazingly Unexplored Aspects: The Hidden World of Emoji Trivia</u></a></li>
+<li><a href="https://techtrends.techidaily.com/begin-again-with-confidence-windows-10-installation-tips-for-a-new-hard-disk-setup/"><u>Begin Again with Confidence: Windows 10 Installation Tips for a New Hard Disk Setup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>Compreehing Movavi's Progress An In-Depth Look at the 2024 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722720375922-comprehensive-dying-light-co-op-gameplay-guide-unleash-your-inner-survivor-with-dynamic-parkour/"><u>Comprehensive Dying Light Co-Op Gameplay Guide - Unleash Your Inner Survivor with Dynamic Parkour!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/comprehensive-explanation-deciphering-google-podcasts-app-for-2024/"><u>Comprehensive Explanation Deciphering Google Podcasts App for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-transforming-spotify-lists-into-plain-text-files/"><u>Easy Methods for Transforming Spotify Lists Into Plain Text Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-io-device-malfunctions/"><u>Effective Solutions for Resolving I/O Device Malfunctions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-yahoo-messenger-understanding-its-origins-and-reason-for-closure/"><u>Exploring Yahoo! Messenger: Understanding Its Origins and Reason for Closure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-run-android-apps-in-windows-10/"><u>How to Run Android Apps in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-androids-quick-settings-a-step-by-step-guide/"><u>Mastering Your Android's Quick Settings: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reclaiming-control-regain-entry-to-facebook-without-traditional-contacts/"><u>Reclaiming Control: Regain Entry to Facebook Without Traditional Contacts</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/techniques-pour-recouvrer-des-donnees-de-disque-dur-endommage-et-lecture-impossible-guide-complet/"><u>Techniques Pour Recouvrer Des Données De Disque Dur Endommagé Et Lecture Impossible : Guide Complet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-understanding-the-true-significance-behind-bsod-errors/"><u>Unraveling the Mystery: Understanding the True Significance Behind BSOD Errors</u></a></li>
 </ul></div>
 

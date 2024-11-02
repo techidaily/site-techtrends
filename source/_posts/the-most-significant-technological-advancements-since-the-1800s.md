@@ -1,7 +1,7 @@
 ---
 title: The Most Significant Technological Advancements Since the 1800S
-date: 2024-09-12T17:11:55.012Z
-updated: 2024-09-17T23:09:40.993Z
+date: 2024-10-26T20:24:15.678Z
+updated: 2024-11-02T07:28:10.697Z
 categories:
   - BestProducts
 description: This Article Describes The Most Significant Technological Advancements Since the 1800S
@@ -35,6 +35,13 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
 ![Farmer's Market nakid light bulb and blurred crowd of people](https://www.lifewire.com/thmb/dRnmrB6C-Glo5fY5DZyfp1nXZys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/farmer-s-market-nakid-light-bulb-and-blurred-crowd-of-people-973596466-d897fc63f042430bb949766ff4b76cc5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Eriko Tsukamoto / Getty Images
 
  A few years later, Edison let there be light with the incandescent bulb. It’s difficult to appreciate what an incredible invention this was, until you’re dealing with a power outage and your only light source at night is candlelight.
@@ -53,16 +60,16 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 EdnaM / Getty Images
 
@@ -72,21 +79,22 @@ EdnaM / Getty Images
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launched in 1973, the Global Positioning System (GPS) became fully operational in 1995\. Originally called Navstar GPS, the U.S. government owns it, and the U.S. Air Force operates it.
@@ -96,13 +104,6 @@ EdnaM / Getty Images
 ## The Internet: ARPANET — 1973
 
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ARPANET /Public domain
 
@@ -142,33 +143,40 @@ ARPANET /Public domain
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Programm: National Center for Supercomputing Applications/CC0
 
  Surfing the web was made more comfortable with the arrival of Mosaic, a web browser that was significantly more intuitive than its predecessors.
 
  Compatible with Windows, Mosaic was accessible to the masses, not just tech types, though Netscape Navigator eventually dethroned it. But we can thank Mosaic for giving us modern browsers like Chrome and Firefox.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Social Media — 2004
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Modern Smartphone — 2007
 
@@ -211,5 +219,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os/"><u>[New] Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-create-the-loop-instagrams-boomerang-mastery/"><u>[Updated] 2024 Approved Create the Loop Instagram's Boomerang Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exclusive-list-top-5-advanced-webcams-for-remote-meetings/"><u>[Updated] 2024 Approved Exclusive List Top 5 Advanced Webcams for Remote Meetings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-full-access-to-itunes-radio-features/"><u>[Updated] In 2024, Unlocking Full Access to iTunes Radio Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ace-windows-10-tricks-to-save-time-and-energy/"><u>Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-users-handbook-the-process-of-deactivating-facebook-apps/"><u>Android Users' Handbook: The Process of Deactivating Facebook Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipate-the-innovation-discover-samsungs-newest-creation-galaxy-z-fold-6-cost-and-release-info/"><u>Anticipate The Innovation: Discover Samsung's Newest Creation - Galaxy Z Fold 6 Cost and Release Info</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-ch340g-usb-to-serial-adapter-drivers-for-windows-10/"><u>Download & Upgrade: CH340G USB-to-Serial Adapter Drivers for Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-sony-xperia-10-v-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>In 2024, Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-super-bowl-enjoyment-with-advanced-tv-and-sound-system-configurations/"><u>Maximizing Your Super Bowl Enjoyment with Advanced TV and Sound System Configurations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-iphones-for-gamers-finding-the-perfect-phone-for-playing-games/"><u>Navigating iPhones for Gamers: Finding the Perfect Phone for Playing Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-for-creating-a-secondary-email-address-in-gmail/"><u>The Beginner's Handbook for Creating a Secondary Email Address in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-buzz-on-pc-fans-how-to-reduce-the-noise-of-your-machines-cooler/"><u>The Buzz on PC Fans: How to Reduce the Noise of Your Machine's Cooler</u></a></li>
+<li><a href="https://techtrends.techidaily.com/thermal-resistance-increases-with-material-thickness-reducing-the-rate-of-heat-flow-through-that-layer/"><u>Thermal Resistance Increases with Material Thickness, Reducing the Rate of Heat Flow Through that Layer.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-gaming-systems-in-2-the-future-unveiled/"><u>Top Rated Gaming Systems in 2# - The Future Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-mystery-of-a-non-functional-youtube/"><u>Troubleshooting Tips: Solving the Mystery of a Non-Functional YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/webm-hd-mp4/"><u>WEBM 폴리핑을 원고 부티프로 HD MP4로 쉽게 바꾸기: 무료, 온라인 가이드</u></a></li>
+</ul></div>
 

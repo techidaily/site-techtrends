@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-10-20T17:53:33.893Z
-updated: 2024-10-27T19:47:54.996Z
+date: 2024-10-28T00:02:38.378Z
+updated: 2024-11-02T07:52:22.937Z
 tags:
   - apple
 categories:
@@ -51,10 +51,16 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -66,10 +72,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -121,24 +127,15 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagrams-best-grids-built-by-the-top-tools-compiled-here-for-2024/"><u>[New] Instagram's Best Grids Built by the Top Tools Compiled Here for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-now-and-next-how-todays-drones-shape-tomorrows-world/"><u>[Updated] In 2024, Now & Next How Today's Drones Shape Tomorrow's World</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-premium-tablet-showdown-apple-ipad-air-vs-ipad-pro/"><u>Affordable Premium Tablet Showdown: Apple iPad Air Vs. IPad Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-honor-magic-6-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Honor Magic 6 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-to-follow-steps-for-setting-up-your-bluetooth-computer-sound-system/"><u>Easy-To-Follow Steps for Setting Up Your Bluetooth Computer Sound System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-role-of-bass-management-in-sound-quality-enhancement/"><u>Exploring the Role of Bass Management in Sound Quality Enhancement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-a-full-reimbursement-for-unsatisfactory-games-purchased-on-steam/"><u>How to Get a Full Reimbursement for Unsatisfactory Games Purchased on Steam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-back-deletes-mobile-numbers-in-android-a-comprehensive-guide/"><u>How to Get Back Deletes Mobile Numbers in Android: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-phantom-v-fold-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Phantom V Fold Phone? Unlock It Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016829509-onikuma-headset-mic-problems-heres-how-you-can-fix-them/"><u>Onikuma Headset Mic Problems? Here's How You Can Fix Them!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/outdoor-enthusiasts-essential-gear-reviewed-discover-the-super-bright-anker-tactical-beam/"><u>Outdoor Enthusiast's Essential Gear Reviewed – Discover the Super Bright Anker Tactical Beam</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-guide-initiating-sticky-note-windows-session/"><u>Quick Access Guide: Initiating Sticky Note Windows Session</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-tv-troubleshooting-how-to-perform-a-full-reset-effectively/"><u>Samsung TV Troubleshooting: How to Perform a Full Reset Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-alternatives-to-chatgpt-discover-the-best-conversational-ais/"><u>Top 10 Alternatives to ChatGPT: Discover the Best Conversational AIs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-z-fold-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy Z Fold 5 FRP Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-proprietor-of-chatgpt-a-comprehensive-guide/"><u>Unveiling the Proprietor of ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-inside-chatgpt-an-in-depth-look-at-microsofts-ai-creation/"><u>What's Inside ChatGPT? An In-Depth Look at Microsoft’s AI Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wondering-if-chatgpt-plus-is-worth-your-time-here-are-5-compelling-reasons-to-get-started/"><u>Wondering if ChatGPT Plus Is Worth Your Time? Here Are 5 Compelling Reasons to Get Started!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tapping-into-asmrs-potential-for-self-improvement/"><u>[Updated] Tapping Into ASMR's Potential for Self-Improvement</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-storm-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Storm 5G without App | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-streaming-gadgets-an-in-depth-look/"><u>Exploring the World of Streaming Gadgets: An In-Depth Look</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skys-the-limit-with-dji-spark-an-in-depth-miniature-drone-study/"><u>In 2024, Sky's the Limit with DJI Spark An In-Depth Miniature Drone Study</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95689793-9781440536434-love-astrology-scorpio/"><u>Love Astrology: Scorpio | Free Book</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximize-your-engagement-with-full-screen-facebook-videos-for-2024/"><u>Maximize Your Engagement with Full-Screen Facebook Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-integrating-apple-homepod-and-your-tv/"><u>Step-by-Step Tutorial on Integrating Apple HomePod and Your TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-viewing-the-how-to-train-your-dragon-films-in-correct-order/"><u>The Ultimate Guide to Viewing the How to Train Your Dragon Films - In Correct Order!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-desktop-with-a-new-taskbar-shade/"><u>Transforming Your Windows 11 Desktop with a New Taskbar Shade</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/using-snapchat-via-pc-a-comprehensive-tutorial/"><u>Using Snapchat via PC - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

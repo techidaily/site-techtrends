@@ -1,7 +1,7 @@
 ---
 title: A Complete Breakdown of Bass Management Functions & Uses
-date: 2024-10-24T16:18:41.810Z
-updated: 2024-10-27T19:54:12.427Z
+date: 2024-10-31T19:43:31.933Z
+updated: 2024-11-02T10:39:41.711Z
 categories:
   - BestProducts
 description: This Article Describes A Complete Breakdown of Bass Management Functions & Uses
@@ -32,10 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 Anthem AV
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Implementing Bass Management
@@ -45,10 +45,10 @@ Anthem AV
  You can perform bass management automatically or manually. Before starting,[place the speakers in the proper locations](https://www.lifewire.com/positioning-loudspeakers-and-subwoofer-1846808) , connect them to your home theater receiver, and then designate where the sound frequencies need to go.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Your Speaker Configuration
@@ -57,18 +57,18 @@ Anthem AV
 
 ![Home Theater Surround Sound Setup](https://www.lifewire.com/thmb/C2Ylgsm50obYhBhgkcAnDxWB1TI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/home-theater-surround-sound-setup-a-585c25c23df78ce2c3549b62.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  adventtr / Getty Images
 
  After you connect the speakers with (or without) a subwoofer, go into the home theater receiver's on-screen setup menu and find the speaker setup or configuration menu. There should be an option to tell the receiver which speakers and subwoofer are connected.
 
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
 
@@ -82,10 +82,10 @@ Anthem AV
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Subwoofer vs. LFE
@@ -94,18 +94,18 @@ Anthem AV
 
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
 
 Many home theater receivers provide outputs for two subwoofers.
 
 ![Onkyo TX-NR787 Dual Subwoofer Output](https://www.lifewire.com/thmb/Jo0UqJirlpMSGg-_A1SWgcKZ8nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onkyo-tx-nr787-dual-sub-outs-a-5c07f338c9e77c000169e852.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Onkyo USA
 
@@ -199,24 +199,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-snap-to-share-the-ultimate-guide-to-archiving-photos/"><u>[New] From Snap to Share The Ultimate Guide to Archiving Photos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elite-7-cameras-elevating-interactive-learning-vlogs-and-tutorials/"><u>[Updated] 2024 Approved Elite 7 Cameras Elevating Interactive Learning Vlogs & Tutorials</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-strategies-for-efficient-whatsapp-use/"><u>[Updated] 2024 Approved Expert Strategies for Efficient WhatsApp Use</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/come-ripristinare-il-backup-sul-tuo-windows-server-201/"><u>Come Ripristinare Il Backup Sul Tuo Windows Server 201</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/descargar-video-gratis-de-trp-a-formato-mp4-con-conversor-de-movavi-online/"><u>Descargar Video GRATIS De TRP a Formato MP4 Con Conversor De Movavi Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-prevent-unwanted-news-content-from-appearing-on-your-windows-briendesktop/"><u>Easy Steps to Prevent Unwanted News Content From Appearing on Your Windows ˈbɛriəʊn/Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/"><u>Explore 66 Premier Twitter Profiles Offering Unbeatable Travel Advice, Offers, & Epic Adventures</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-edge-40-by-drfone-android/"><u>How to Bypass FRP from Motorola Edge 40?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-efficient-transitions-streamlining-zoom-video-conversion/"><u>In 2024, Efficient Transitions Streamlining Zoom Video Conversion</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 6s Plus without Password?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-resolution-bluetooth-try-connection-failure-fix/"><u>Quick Resolution: Bluetooth 'Try Connection' Failure Fix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-method-for-sending-files-from-printer-to-desktop/"><u>Seamless Method for Sending Files From Printer to Desktop</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-90-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-fix-wlan-api-dll-not-found-issue/"><u>Step-by-Step Solutions to Fix WLAN API DLL Not Found Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-the-dark-display-dilemma-on-your-android-device/"><u>Troubleshooting Tips: Resolving the Dark Display Dilemma on Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unbeatable-technological-savings-on-prime-day-at-amazon/"><u>Unbeatable Technological Savings on Prime Day at Amazon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-unlimited-viewing-with-these-10-free-streamers-competing-with-netflix/"><u>Unlock Unlimited Viewing with These 10 Free Streamers Competing With Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-superior-ceiling-sound-solutions-for-your-home-in-ebrary-2024/"><u>Unveiling the Superior Ceiling Sound Solutions for Your Home in Ebrary 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-is-my-nintendo-wii-failing-to-read-games-fixes-and-solutions-explored/"><u>Why Is My Nintendo Wii Failing to Read Games? Fixes & Solutions Explored</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-skycam-conflict-dji-phantom-vs-gopro-hero5-black/"><u>[New] In 2024, SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-visual-harmony-how-m1-chips-enhance-editing-speed-and-precision/"><u>[New] Visual Harmony How M1 Chips Enhance Editing Speed and Precision</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-firecapture-extensions-for-ff-users-for-2024/"><u>[Updated] FireCapture Extensions for FF Users for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connect-and-display-a-detailed-tutorial-of-broadcasting-window-os-interface-to-your-hdtv-with-chromecast/"><u>Connect and Display: A Detailed Tutorial of Broadcasting Window OS Interface to Your HDTV with Chromecast</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-effective-kitty-cam-unveiling/"><u>Cost-Effective Kitty Cam Unveiling</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-usb-20-performance-benefits-wire-varieties-and-plug-ins/"><u>Decoding USB 2.0: Performance Benefits, Wire Varieties, and Plug-Ins</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-most-impressive-new-additions-decoded-for-2024/"><u>Facebook's Most Impressive New Additions Decoded for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/galaxy-z-fold-6-specs-what-to-expect-in-terms-of-cost-and-availability-this-year/"><u>Galaxy Z Fold 6 Specs - What to Expect in Terms of Cost and Availability This Year?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-creativity-with-magix-video-pro-x/"><u>In 2024, Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-software-for-group-video-conferencing/"><u>Leading Software for Group Video Conferencing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-for-restoring-lenovo-ideapad-series-ideapad-300n210-with-lenovos-onekey-backup-and-recovery-tool/"><u>Step-by-Step Guide for Restoring Lenovo Ideapad Series (IdeaPad 300/N210) with Lenovo's OneKey Backup and Recovery Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-installing-popcorn-time-on-your-ipad-without-jailbreaking/"><u>Step-by-Step Guide: Installing Popcorn Time on Your iPad Without Jailbreaking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-apple-watch-ultra-2-industry-rumors-on-features-specs-forecasted-price-points-and-release-timing/"><u>The Next Apple Watch Ultra 2: Industry Rumors on Features, Specs, Forecasted Price Points and Release Timing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-achieving-top-ranking-on-apple-tv/"><u>Ultimate Guide: Achieving Top Ranking on Apple TV</u></a></li>
 </ul></div>
 

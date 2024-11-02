@@ -1,7 +1,7 @@
 ---
 title: "Behind the Wizardry of ChatGPT: Microsoft's Brainchild Explored"
-date: 2024-09-10T21:55:53.791Z
-updated: 2024-09-17T18:37:18.771Z
+date: 2024-10-26T12:29:10.023Z
+updated: 2024-11-02T01:41:37.466Z
 categories:
   - BestProducts
 description: "This Article Describes Behind the Wizardry of ChatGPT: Microsoft's Brainchild Explored"
@@ -34,11 +34,25 @@ Close
 
  Although there was some turmoil in the OpenAI board in the Fall of 2023, where CEO Sam Altman was temporarily ousted, he soon returned after an exodus of OpenAI staff. Altman and OpenAI's president, Greg Brockman, also work as part of an advanced AI research team at Microsoft despite OpenAI continuing to be their main focus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  When Did ChatGPT Come Out?
 
  Although OpenAI developed a number of GPT language models internally as part of its AI research efforts, it only released its first commercial ChatGPT service in December 2022\. This first version of the AI chatbot was based on its GPT-3.5 language model,
 
 ![ChatGPT main page.](https://www.lifewire.com/thmb/NHebqSA2n4TcEKIMK_5Uig6pAKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chatgpt0111-4c3933ae2610433489dcbf124c7f8872.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ChatGPT window as it is seen in 2024, with the GPT-4o language model. 
 
@@ -47,6 +61,13 @@ Close
  Microsoft would go on to launch[ Copilot](https://www.lifewire.com/what-is-microsoft-copilot-8572496) , a chatbot for Windows and its Office applications based on OpenAI technology. Copilot does not use the ChatGPT language models.  
 
  OpenAI launched the latest version of ChatGPT in May 2024\. GPT-4o introduced multi-modality to the AI in a much broader array of capabilities than ever before. This version is faster than its predecessor and offers more functionality to both free and paid users.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who Invented ChatGPT?
 
@@ -57,16 +78,10 @@ Close
  Symbolic efforts were made to develop NLP models over the ensuing decades, but it wasn't until the integration with big data and machine learning, along with the advanced computing power of the 2010s, that its development really accelerated. This led to the first viable NLM commercial product in ChatGPT.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What Else Does OpenAI Make?
@@ -102,5 +117,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-sparkling-ideas-creating-engaging-fb-ad-videos/"><u>[New] 2024 Approved Sparkling Ideas Creating Engaging FB Ad Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-networking-with-fb-link-downloader-tools-for-2024/"><u>[Updated] Maximize Networking with FB Link Downloader Tools for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-for-registering-a-new-oculus-quest-and-quest-2-account-on-metas-platform/"><u>Easy Instructions for Registering a New Oculus Quest and Quest 2 Account on Meta's Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-digital-labeling-the-essentials-of-how-and-why-we-tag/"><u>Exploring Digital Labeling: The Essentials of How and Why We Tag</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/guide-complet-comment-configurer-des-sauvegardes-automatiques-vers-un-nas/"><u>Guide Complet : Comment Configurer Des Sauvegardes Automatiques Vers Un NAS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-your-online-speed-essential-fixes-for-slow-connections/"><u>Improve Your Online Speed: Essential Fixes for Slow Connections</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone XR iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://video-capture.techidaily.com/latest-guide-on-saving-twitch-video-broadcasts-from-2022/"><u>Latest Guide on Saving Twitch Video Broadcasts From 2022</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-roku-remote-enabling-your-devices-closed-captions-effortlessly/"><u>Mastering the Roku Remote: Enabling Your Device’s Closed Captions Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mobile-hotspot-magic-enabling-streaming-on-your-fire-stick-without-traditional-wi-fi/"><u>Mobile Hotspot Magic: Enabling Streaming on Your Fire Stick Without Traditional Wi-Fi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-your-snaps-the-ultimate-method-for-reactivating-a-deactivated-account/"><u>Recovering Your Snaps: The Ultimate Method for Reactivating a Deactivated Account</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-into-the-future-crafting-immersive-3d-photos-for-fb/"><u>Step Into the Future: Crafting Immersive 3D Photos for FB</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1726027052046-youtube/"><u>テレビでYouTubeを楽しむ：簡単な操作説明と録画方法</u></a></li>
+</ul></div>
 

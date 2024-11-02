@@ -1,7 +1,7 @@
 ---
 title: "How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers"
-date: 2024-09-10T17:04:23.705Z
-updated: 2024-09-17T20:12:45.719Z
+date: 2024-10-30T11:09:33.757Z
+updated: 2024-11-02T05:27:04.668Z
 categories:
   - BestProducts
 description: "This Article Describes How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers"
@@ -57,6 +57,13 @@ lolostock / Getty Images
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Mac
 
  Scanning from a Mac is just as easy as on Windows 10 (arguably, even easier).
@@ -65,11 +72,39 @@ lolostock / Getty Images
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 
@@ -77,6 +112,13 @@ lolostock / Getty Images
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -114,12 +156,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-big-sur-tech-requirements-a-quick-reference-guide-for-2024/"><u>[New] Big Sur Tech Requirements A Quick Reference Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/addressing-web-browser-errors-a-guide-to-rectifying-not-secured-notifications/"><u>Addressing Web Browser Errors: A Guide to Rectifying 'Not Secured' Notifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-newly-announced-samsung-galaxy-z-fold-6-find-out-price-availability-and-specifications/"><u>All About the Newly Announced Samsung Galaxy Z Fold 6 - Find Out Price, Availability & Specifications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-firefoxs-pip-multimedia-feature/"><u>Decoding Firefox's PIP Multimedia Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-enjoyable-free-movies-streaming-on-youtube-this-july-2nd4/"><u>Discover the Most Enjoyable Free Movies Streaming on YouTube This July 2nD4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-missing-libcurldll-error-fixes/"><u>Effective Solutions for Missing Libcurl.dll Error Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-fixing-the-error-when-d3dx933dll-is-nowhere-to-be-found/"><u>Expert Tips: Fixing the Error When d3dx9_33.dll Is Nowhere to Be Found</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-gt-neo-5-se-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT Neo 5 SE working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/making-your-mark-on-facebooks-algorithmic-landscape-for-2024/"><u>Making Your Mark on Facebook's Algorithmic Landscape for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-safe-online-identifying-common-temu-deceptions-shared-across-platforms-according-to-zdnet-reports/"><u>Stay Safe Online: Identifying Common Temu Deceptions Shared Across Platforms, According to ZDNET Reports</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steps-to-upgrade-your-intel-hd-graphics-5500-drivers-successfully/"><u>Steps to Upgrade Your Intel HD Graphics 5500 Drivers Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-finest-active-sports-movies-that-will-inspire-you-tonight/"><u>The Finest Active Sports Movies That Will Inspire You Tonight!</u></a></li>
+</ul></div>
 

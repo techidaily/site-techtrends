@@ -1,7 +1,7 @@
 ---
 title: How to Fix Audio Playback Issues in PowerPoint Presentations
-date: 2024-09-14T19:36:27.466Z
-updated: 2024-09-17T21:05:10.179Z
+date: 2024-10-31T09:17:54.496Z
+updated: 2024-11-02T05:27:20.457Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix Audio Playback Issues in PowerPoint Presentations
@@ -42,10 +42,31 @@ thumbnail: https://www.lifewire.com/thmb/WGjurT6eL6LVcjZabSkhr5_rq7I=/400x300/fi
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/5RZwYhTcpXjS0K1VBHG9SGvcj9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW10-d805952bf4c34b1bbaef6067467b8299.jpg)  
  The**Autoplay** icon is the one that looks like an infinity symbol.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If done correctly, the Autoplay playlist should immediately disappear, and Apple Music will now stop automatically playing.
 6. You can now return to the app's front screen by tapping the**Up Next** icon once again and then swiping down to minimize the player.  
 ![Turning off Autoplay settings in Apple Music app on iPhone.](https://www.lifewire.com/thmb/YoFjmsf47ULgcOPG60luN9ht2os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NEW11-526478ba77314060b7b3b20047261680.jpg)  
  To enable Autoplay in Apple Music, repeat these steps and make sure that the icon is highlighted and the Autoplay playlist is visible.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips to Stop Apple Music From Playing Automatically
 
@@ -58,6 +79,13 @@ thumbnail: https://www.lifewire.com/thmb/WGjurT6eL6LVcjZabSkhr5_rq7I=/400x300/fi
 * **Disable Handoff** . The[iPhone’s Handoff feature](https://www.lifewire.com/everything-you-need-to-know-about-handoff-4079966) continues media playback on devices once they’re detected automatically. You can customize and even disable Handoff by opening**Settings** and going to**General** \>**AirPlay & Handoff** .  
 ![iPhone Settings showing path to AirPlay & Handoff](https://www.lifewire.com/thmb/-G0RK2zIvlOyL5-54T1esisg2Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-stop-apple-music-from-automatically-playing-5119158-a00b00cf58384f85a4071b2272798f2c.jpg)  
  FAQ  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * How do I stop an Apple Music subscription?  
     To[cancel an Apple Music subscription](https://www.lifewire.com/cancel-apple-music-subscription-1999488) on an iPhone, launch**Settings** , tap**your** **name** \>**Subscriptions** , select**Apple Music** , and tap**Cancel Subscription** . Or, go to the[Apple Music website](https://music.apple.com/browse) , sign in, tap your**account** icon >**Settings** \>**Subscriptions** \>**Manage** , and choose**Cancel Subscription** .  
@@ -93,12 +121,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-your-media-with-top-free-android-editing-tools/"><u>[New] 2024 Approved Enhance Your Media with Top Free Android Editing Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cutting-edge-radio-theatre-scripting/"><u>[Updated] 2024 Approved Cutting-Edge Radio Theatre Scripting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-from-idea-to-airtime-crafting-compelling-content-live/"><u>[Updated] 2024 Approved From Idea to Airtime Crafting Compelling Content Live</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-all-encompassing-evaluation-gecatas-live-recording/"><u>[Updated] In 2024, All-Encompassing Evaluation Gecata's Live Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-alternatives-to-chatgpt-a-guide-to-the-10-leading-conversational-ai-platforms/"><u>Best Alternatives to ChatGPT: A Guide to the 10 Leading Conversational AI Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparative-pricing-uber-or-taxi-for-your-ride-needs/"><u>Comparative Pricing: Uber or Taxi for Your Ride Needs?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-6-exceptional-journaling-applications-for-enhanced-productivity/"><u>Explore These 6 Exceptional Journaling Applications for Enhanced Productivity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipados-18-expected-release-window-no-expense-involved-remarkable-new-properties-and-recent-developments-covered/"><u>IPadOS 18: Expected Release Window, No Expense Involved, Remarkable New Properties and Recent Developments Covered</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-dysfunction-on-windows-10/"><u>Keyboard Dysfunction on Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/g-mastery-in-the-digital-age-a-comprehensive-guide-for-2024/"><u>Naming Mastery in the Digital Age A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamline-your-zoom-meetings-screen-sharing-essentials-for-2024/"><u>Streamline Your Zoom Meetings Screen Sharing Essentials for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/turn-your-cr2-photos-to-bmp-without-cost-using-movavis-web-based-tool/"><u>Turn Your CR2 Photos to BMP without Cost Using Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-no-spin-lock-available-bsod-issue/"><u>Understanding & Repairing 'No Spin Lock Available' BSOD Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/youtube-premium-on-a-budget-tips-and-tricks-for-students/"><u>YouTube Premium on a Budget: Tips and Tricks for Students</u></a></li>
+</ul></div>
 

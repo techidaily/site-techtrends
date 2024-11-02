@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Creating Versatile Filters in Gmail
-date: 2024-10-20T16:09:52.027Z
-updated: 2024-10-27T19:20:49.061Z
+date: 2024-10-29T09:07:04.341Z
+updated: 2024-11-02T12:20:37.007Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Tutorial on Creating Versatile Filters in Gmail
@@ -102,22 +102,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Proton Mail](https://proton.me/mail)
 
 ![ProtonMail inbox](https://www.lifewire.com/thmb/2A5ZBpitET9klvQvOoZKvrgjXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/proton-mail-09e4a81823e3432fa07c5076fb0e8ec9.png)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -196,13 +190,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [iCloud Mail](https://www.icloud.com/mail)
 
 ![iCloud Mail](https://www.lifewire.com/thmb/w_acnV8MBdPn4-ciceRK00WKSYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icloud-mail-5afed13dfa6bcc0036e3ac4f.PNG)
@@ -235,15 +222,22 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Tuta](https://tuta.com/)
 
 ![The New Email prompt at Tuta Mail](https://www.lifewire.com/thmb/QJuKx-B118vphcRrC7pLrccc_z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tuta-free-email-248d1566745f4c88bfbe3cd0d302c8f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -281,16 +275,16 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Yandex Mail](https://360.yandex.com/mail/)
 
 ![An email open in Yandex Mail](https://www.lifewire.com/thmb/82p_aFODzg3ro3jmqbUYSRVdA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-30f9ebbff5954531b460ae29d40a882e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -366,15 +360,22 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [10 Minute Mail](https://10minutemail.net/)
 
 ![10 minute mail disposable email account inbox](https://www.lifewire.com/thmb/z54bILlMdpNst4W5XMOQWgjMozs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/10-minute-mail-87c7ad30b94c4a8da83103d31ea84bc3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  What We Like
@@ -404,19 +405,6 @@ of 10
 10
 
 of 10
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Zoho Mail](https://www.zoho.com/mail/)
 
@@ -459,10 +447,10 @@ of 10
 [Android](https://play.google.com/store/apps/details?id=com.zoho.mail)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips for Choosing a Free Email Service
@@ -504,21 +492,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-channel-identity-constructing-memorable-templates-for-gamers/"><u>[Updated] Channel Identity Constructing Memorable Templates for Gamers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-add-border-to-instagram-photos-for-2024/"><u>[Updated] How to Add Border to Instagram Photos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/easy-guide-to-blur-background-in-google-meet-laptop-and-mobile-for-2024/"><u>Easy Guide to Blur Background in Google Meet [Laptop and Mobile] for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-streaming-disneyplus-on-your-tv-using-chromecast/"><u>Guide: Streaming Disney+ on Your TV Using Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/immersing-in-innovation-is-the-iphone-15-pro-max-impervious-to-liquid/"><u>Immersing in Innovation: Is The iPhone 15 Pro Max Impervious to Liquid?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 12 Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-creating-stunning-canon-time-lapse-videos/"><u>In 2024, Creating Stunning Canon Time-Lapse Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-store-expert-insights-on-technology-gadgets/"><u>Inside Tom's Hardware Store: Expert Insights on Technology Gadgets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macbook-air-vs-ipad-pro-a-comprehensive-difference-analysis/"><u>MacBook Air Vs. IPad Pro: A Comprehensive Difference Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-and-using-whatsapp-on-your-mac/"><u>Step-by-Step Guide: Accessing and Using WhatsApp on Your Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-strategies-to-conquer-lynels-in-zeldas-botw-adventure/"><u>Top Strategies to Conquer Lynels in Zelda's BOTW Adventure</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-alienware-aurora-r11-analysis-ultimate-gamers-choice/"><u>Top-Ranked Alienware Aurora R11 Analysis: Ultimate Gamer's Choice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolution-of-msvcr7cudll-error-code-19354/"><u>Troubleshooting and Resolution of Msvcr7cu.dll Error Code 19354</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-actual-pc-requirements-balancing-speed-and-functionality/"><u>Unveiling Actual PC Requirements: Balancing Speed and Functionality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-creative-time-manipulation-in-fcpx-freeze-frames-and-slow-motion/"><u>Updated Creative Time Manipulation in FCPX Freeze Frames and Slow Motion</u></a></li>
-<li><a href="https://fox-that.techidaily.com/your-iphone-needs-checkup-discover-apples-rde-for-easy-hardware-testing/"><u>Your iPhone Needs Checkup? Discover Apple's RDE for Easy Hardware Testing!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-exploring-the-disparities-between-youtube-and-dailymention/"><u>[New] In 2024, Exploring the Disparities Between YouTube and DailyMention</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/"><u>[New] In 2024, Zoom Savvy Key Techniques for Clear and Confident Remote Conversations</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-depth-review-of-budget-friendly-clouds-for-2024/"><u>[Updated] In-Depth Review of Budget-Friendly Clouds for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-crafting-comedy-mastering-kinemaster/"><u>2024 Approved Crafting Comedy Mastering KineMaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>2024 Approved Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-m14-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy M14 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-a-vpn-on-xbox-one-quickly-and-easily/"><u>How to Use a VPN on Xbox One | Quickly & Easily!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-meizu-21-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Meizu 21.</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/protecting-your-outlook-365-mailbox-via-imap-a-dual-approach-guide/"><u>Protecting Your Outlook 365 Mailbox via IMAP – A Dual Approach Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-setup-obtain-the-latest-google-usb-drivers-here/"><u>Quick Setup: Obtain the Latest Google USB Drivers Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-windows-n10-login-issues-a-comprehensive-guide/"><u>Resolving Windows N10 Login Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-accessing-the-windows-8-control-panel-with-ease/"><u>Simple Steps: Accessing the Windows 8 Control Panel with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-a-screenshot-on-your-dell-notebook/"><u>Step-by-Step Guide: Capturing a Screenshot on Your Dell Notebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essentials-of-random-password-tools-discovering-their-functions-and-applications/"><u>The Essentials of Random Password Tools: Discovering Their Functions & Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-walkthrough-to-enjoy-fallout-3-on-your-new-windows-nx-pc/"><u>Ultimate Walkthrough to Enjoy Fallout 3 on Your New Windows nX PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-your-digital-footprint-get-a-free-ip-location-tool-now/"><u>Uncover Your Digital Footprint: Get a Free IP Location Tool Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c67-4g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C67 4G Device</u></a></li>
 </ul></div>
 

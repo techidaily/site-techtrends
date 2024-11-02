@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices Currently Not Worth Your Money: Insights"
-date: 2024-10-24T19:43:18.931Z
-updated: 2024-10-27T16:41:07.988Z
+date: 2024-10-28T21:39:37.035Z
+updated: 2024-11-02T01:53:02.696Z
 tags:
   - apple
 categories:
@@ -60,10 +60,10 @@ Don't buy these devices:
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -90,10 +83,10 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -124,6 +117,13 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -139,13 +139,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -160,6 +153,13 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -222,24 +222,21 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-tiktoks-timeless-classics-the-songs-that-keep-coming-back/"><u>[New] In 2024, TikTok's Timeless Classics The Songs That Keep Coming Back</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-proven-techniques-for-obs-broadcasting-on-fb/"><u>[New] Proven Techniques for OBS Broadcasting on FB</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-best-mac-video-software-alternatives-to-bandicam/"><u>[Updated] In 2024, Best Mac Video Software Alternatives to Bandicam</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-sharing-tactics-igtv-for-a-larger-fb-audience/"><u>[Updated] In 2024, Sharing Tactics IGTV for a Larger FB Audience</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-google-docs-speech-to-text-a-complete-guidebook/"><u>2024 Approved Google Docs Speech-to-Text A Complete Guidebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-the-ranked-hierarchy-within-royal-match/"><u>Discovering the Ranked Hierarchy Within Royal Match</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-everything-you-need-to-know-about-netflixs-top-tier-streaming-platform/"><u>Exploring Everything You Need to Know About Netflix's Top-Tier Streaming Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-performance-dealing-with-deathloops-freezing-problems-on-pc-and-ps5/"><u>How To Ensure Smooth Performance: Dealing With Deathloop's Freezing Problems On PC & PS5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-for-systems-that-start-but-show-no-image-on-monitor/"><u>Quick Fixes for Systems That Start but Show No Image on Monitor</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-start-guide-registering-and-configuring-your-oculus-meta-headset-questquest-2/"><u>Quick Start Guide: Registering and Configuring Your Oculus Meta Headset (Quest/Quest 2)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-your-powerpoints-volume-and-playback-quirks-a-guide/"><u>Resolve Your PowerPoint's Volume and Playback Quirks - A Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/silencing-the-autoplay-in-file-explorer/"><u>Silencing the Autoplay in File Explorer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taming-language-through-ai-understanding-bot-content-filters/"><u>Taming Language Through AI: Understanding Bot Content Filters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-5-mobile-apps-to-expand-your-circle-of-friends/"><u>The Ultimate List of 5 Mobile Apps to Expand Your Circle of Friends</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-6-tips-for-resolving-roblox-pc-malfunctions-swiftly-updated-for-2veary/"><u>Top 6 Tips for Resolving Roblox PC Malfunctions Swiftly, Updated for 2Veary</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-family-organization-tools-best-shared-calendars-for-keeping-busy-schedules-in-check/"><u>Top 7 Family Organization Tools: Best Shared Calendars for Keeping Busy Schedules in Check</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-trending-devices-and-reading-materials-laptops-phones-and-literary-treasures/"><u>Top Trending Devices & Reading Materials: Laptops, Phones, & Literary Treasures!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-update-failure-messages-in-warframe/"><u>Troubleshooting Guide: Overcoming 'Update Failure' Messages in Warframe</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-espnplus-how-disneys-streaming-service-transforms-sports-viewership-online/"><u>Unveiling ESPN+: How Disney's Streaming Service Transforms Sports Viewership Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-ammo-face-off-prodigy-cameras-compared-black-vs-session/"><u>[Updated] Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-samsung-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Samsung Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-your-youtube-content-for-specific-crowds/"><u>Crafting Your YouTube Content for Specific Crowds</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-film-picks-lifewires-top-movie-recommendations-for-instant-viewing/"><u>Exclusive Film Picks: Lifewire's Top Movie Recommendations for Instant Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-next-generation-apples-cutting-edge-iphone-unveiled/"><u>Experience the Next Generation: Apple's Cutting-Edge iPhone Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-on-fixing-when-your-system-cant-find-msvcr80dll-file/"><u>Guide on Fixing When Your System Can't Find MSVCR80.DLL File</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2020-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2020) With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-stock-watch-top-15-youtube-guides/"><u>In 2024, Stock Watch Top 15 YouTube Guides</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic-v2-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic V2 Black and White | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/restarting-disrupted-streams-on-fb-fixes-for-todays-broadcasters-for-2024/"><u>Restarting Disrupted Streams on FB Fixes for Today's Broadcasters for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-your-snapsphere-effective-strategies-for-removing-multiples-friends-simultaneeusly-on-snapchat/"><u>Simplify Your Snapsphere: Effective Strategies for Removing Multiples Friends Simultaneeusly on Snapchat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-how-to-deal-with-a-stuck-macbook-air/"><u>Step-by-Step Solutions: How To Deal With A Stuck MacBook Air</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-step-by-step-path-to-watch-dragon-ball-chronologically/"><u>The Ultimate Step-by-Step Path to Watch Dragon Ball Chronologically</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-of-2024-explore-the-best-free-standalone-car-racing-experiences-without-an-internet-connection/"><u>Top Picks of 2024: Explore the Best Free, Standalone Car Racing Experiences Without an Internet Connection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-performance-activating-gpu-scheduling-with-hardware-acceleration-on-windows-11/"><u>Unlocking Performance: Activating GPU Scheduling with Hardware Acceleration on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2024-10-23T19:25:33.161Z
-updated: 2024-10-27T16:45:44.202Z
+date: 2024-10-30T01:57:51.149Z
+updated: 2024-11-02T14:30:23.473Z
 tags:
   - apple
 categories:
@@ -32,15 +32,28 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -51,6 +64,13 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -58,10 +78,10 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -75,13 +95,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -117,13 +130,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,24 +175,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-effective-methods-to-document-facetime-calls/"><u>[Updated] 2024 Approved Effective Methods to Document FaceTime Calls</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-step-by-step-minecraft-recording-guide-for-mac-enthusiasts/"><u>[Updated] 2024 Approved Step by Step Minecraft Recording Guide for Mac Enthusiasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortlessdataback-take/"><u>[Updated] In 2024, EffortlessDataback Take</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-troubleshooting-apple-tv-for-facebook-content/"><u>[Updated] In 2024, Troubleshooting Apple TV for Facebook Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001937468-a-step-by-step-walkthrough-getting-your-rocket-league-game-running-smoothly-again/"><u>A Step-by-Step Walkthrough: Getting Your Rocket League Game Running Smoothly Again.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-twitch-presence-with-these-critical-5-features/"><u>Boost Your Twitch Presence with These Critical 5 Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/error-resolved-a-comprehensive-tutorial-on-ac1st16dll-restoration/"><u>Error Resolved: A Comprehensive Tutorial on Ac1st16.dll Restoration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-cutting-edge-features-of-samsungs-new-phone-lineup/"><u>Explore the Cutting-Edge Features of Samsung's New Phone Lineup</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-ban-conundrum-regain-a-friends-trust/"><u>Facebook Ban Conundrum: Regain a Friend's Trust</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-x100-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo X100 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breaking-barriers-with-brightness-the-comprehensive-guide-to-the-lg-31mu97-b-screen/"><u>In 2024, Breaking Barriers with Brightness – The Comprehensive Guide to the LG 31MU97-B Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-m3-macbook-pro-updates-and-pricing-unveiling-the-new-features/"><u>Latest M3 MacBook Pro Updates & Pricing | Unveiling the New Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-power-down-comprehensive-steps-for-resetting-every-version-of-an-ipad/"><u>Mastering the Power Down: Comprehensive Steps for Resetting Every Version of an iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-whats-keeping-your-apple-watch-touchscreen-inactive/"><u>Solving the Mystery: What's Keeping Your Apple Watch Touchscreen Inactive?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-players-handbook-essential-tips-and-insider-know-how-for-conquering-subway-surfers/"><u>The Complete Player's Handbook: Essential Tips and Insider Know-How for Conquering Subway Surfers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-deal-with-d3dx941dll-missing-file-problems/"><u>Troubleshooting: How to Deal with d3dx9_41.dll Missing File Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-google-pixel-timepiece-3-release-schedule-and-features-overview-whats-the-buzz/"><u>Upcoming Google Pixel Timepiece 3: Release Schedule & Features Overview – What's the Buzz?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-windows-pc-with-the-latest-sapphire-graphics-driver-software-today/"><u>Update Your Windows PC with the Latest Sapphire Graphics Driver Software Today!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-online-privacy-youtubes-access-controls/"><u>[Updated] 2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-become-a-shorts-connoisseur-must-know-facts-for-2024/"><u>[Updated] Become a Shorts Connoisseur Must-Know Facts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-expert-picks-laptops-that-transform-raw-footage-for-2024/"><u>[Updated] Expert Picks Laptops That Transform Raw Footage for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-personal-branding-essential-strategies-for-facebook-bio-crafting/"><u>2024 Approved Mastering Personal Branding Essential Strategies for Facebook Bio Crafting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-7-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 7 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-9130cw-printer-software-free-downloads-available/"><u>Brother MFC-9130CW Printer Software - Free Downloads Available</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723807910471-fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside</u></a></li>
+<li><a href="https://fox-access.techidaily.com/master-the-waterfront-top-5-cameras-for-big-waters/"><u>Master the Waterfront Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/palette-perfection-a-guide-to-grading-filmmaking-for-2024/"><u>Palette Perfection A Guide to Grading Filmmaking for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-identifying-and-viewing-installed-applications-in-windows/"><u>Step-by-Step Tutorial: Identifying and Viewing Installed Applications in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-game-sharing-via-steam-get-started-today/"><u>The Ultimate Tutorial for Game Sharing via Steam - Get Started Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-setting-up-and-resolving-issues-with-miracast-on-windows-1011/"><u>Troubleshooting Guide: Setting Up and Resolving Issues with Miracast on Windows 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-resolving-cold-war-fps-issues-and-stutters-in-pc-games/"><u>Ultimate Guide to Resolving Cold War FPS Issues & Stutters in PC Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-ultimate-csgo-speed-top-strategies-for-optimizing-frames-per-second-fps/"><u>Unlock Ultimate CS:GO Speed: Top Strategies for Optimizing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-isnt-my-logitech-mouse-working-step-by-step-fix-guide/"><u>Why Isn't My Logitech Mouse Working? Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-7-end-of-lifesupport-everything-you-need-to-know/"><u>Windows 7 End of Life/Support: Everything You Need to Know</u></a></li>
 </ul></div>
 

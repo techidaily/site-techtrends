@@ -1,7 +1,7 @@
 ---
 title: "Create Digital Love: The Ultimate Guide to Entering a Heart Emoji on Any Keyboard"
-date: 2024-09-14T17:16:14.427Z
-updated: 2024-09-18T02:53:03.363Z
+date: 2024-10-26T16:53:47.276Z
+updated: 2024-11-02T12:00:26.245Z
 categories:
   - BestProducts
 description: "This Article Describes Create Digital Love: The Ultimate Guide to Entering a Heart Emoji on Any Keyboard"
@@ -34,11 +34,39 @@ These instructions apply to PCs running Windows 10 and up.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
 
@@ -55,13 +83,6 @@ These instructions apply to PCs running Windows 10 and up.
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -69,6 +90,13 @@ These instructions apply to PCs running Windows 10 and up.
  Things work a little differently on Macs, as the Apple keyboard uses option keys to insert symbols. However, you’ll have to change your keyboard settings to use the Unicode Hex Input method to do this.
 
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Make a Heart Without a Number Pad?
 
@@ -82,14 +110,14 @@ These instructions apply to PCs running Windows 10 and up.
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
@@ -137,5 +165,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-harvest-heartbeats-top-farm-games-for-friendly-fun/"><u>[New] Harvest Heartbeats Top Farm Games for Friendly Fun</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>[New] Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-scene-selection-mastery-livestreams/"><u>[New] Scene Selection Mastery Livestreams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-glimpse-into-whats-coming-advancements-in-verizon-5g-connectivity/"><u>A Glimpse Into What's Coming: Advancements in Verizon 5G Connectivity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/animatedapp-full-guide-and-review-24-overview/"><u>AnimatedApp Full Guide & Review '24 Overview</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films-for-2024/"><u>Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/browse-unseen-a-guide-to-invisible-surfing-in-google-chrome-microsoft-edge-mozilla-firefox-apple-safari-and-opera/"><u>Browse Unseen: A Guide to Invisible Surfing in Google Chrome, Microsoft Edge, Mozilla Firefox, Apple Safari, and Opera</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-nuisance-sms-tips-for-stopping-unwanted-texts-on-iphones/"><u>Eliminate Nuisance SMS: Tips for Stopping Unwanted Texts on iPhones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-razr-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Razr 40 ?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-migrate-windows-10-to-a-newly-replaced-hdd/"><u>How to Migrate Windows 10 to a Newly Replaced HDD</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-solarmovie-alternatives-watch-movies-online/"><u>New Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-windows-users-download-and-install-arduino-nano-drivers-smoothly-in-5-simple-steps/"><u>Quick Fix for Windows Users: Download and Install Arduino Nano Drivers Smoothly in 5 Simple Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shutting-off-your-new-iphone-15-pro-or-pro-max-in-simple-steps/"><u>Shutting Off Your New iPhone 15 Pro or Pro Max in Simple Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-gathering-insights-on-latest-trends-and-speculations/"><u>Upcoming Google Gathering: Insights on Latest Trends & Speculations</u></a></li>
+</ul></div>
 

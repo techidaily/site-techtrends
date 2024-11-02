@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Pinning Several Locations Simultaneously in Google Maps"
-date: 2024-09-16T02:13:54.313Z
-updated: 2024-09-18T00:51:38.586Z
+date: 2024-10-30T07:52:01.125Z
+updated: 2024-11-01T21:14:20.004Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Pinning Several Locations Simultaneously in Google Maps"
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable a New Mail Sound for Gmail
 
  If you want to hear a new email sound when you use Gmail in your desktop web browser, you can make that happen—just not in Gmail itself.
@@ -36,8 +43,23 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
@@ -50,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -100,5 +122,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/subway-surfers-cheatsheet-advanced-play-methods-from-gaming-pros/"><u>'Subway Surfers' Cheatsheet: Advanced Play Methods From Gaming Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learning-the-art-of-softly-amplifying-audio-tracks/"><u>2024 Approved Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/budget-friendly-chinese-innovations-in-vr/"><u>Budget-Friendly Chinese Innovations in VR</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertissez-votre-mp3-a-laide-dun-online-conversion-flv-gratuit-solution-facile-et-efficace/"><u>Convertissez Votre MP3 À L'aide D'un Online Conversion FLV Gratuit - Solution Facile Et Efficace</u></a></li>
+<li><a href="https://win-blog.techidaily.com/embracing-eternity-a-story-of-unyielding-survival-in-black-reincarnation-loop/"><u>Embracing Eternity: A Story of Unyielding Survival in 'Black Reincarnation Loop'</u></a></li>
+<li><a href="https://fox-access.techidaily.com/empower-your-imagery-free-lut-techniques-for-ar/"><u>Empower Your Imagery Free LUT Techniques for AR</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-online-speed-on-your-mac-by-resetting-dns-settings/"><u>Enhance Online Speed on Your Mac by Resetting DNS Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-to-address-helperdll-cant-be-found-mistake/"><u>Essential Tips to Address Helper.dll Can't Be Found Mistake</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-concept-of-output-impedance-what-you-need-to-know/"><u>Exploring the Concept of Output Impedance: What You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/legal-ways-to-discover-someones-mobile-number-online/"><u>Legal Ways to Discover Someone’s Mobile Number Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a79-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A79 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-slow-motion-instagram-a-reel-guide-for-2024/"><u>Mastering Slow-Motion Instagram A Reel Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-black-screen-issues-in-hitman-3-on-your-pc/"><u>Resolving 'Black Screen' Issues in Hitman 3 on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-six-most-effective-money-saving-website-sources-for-deals-and-coupon-savings/"><u>The Six Most Effective Money-Saving Website Sources for Deals and Coupon Savings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-features-to-evaluate-before-purchasing-your-next-projector/"><u>Top Features to Evaluate Before Purchasing Your Next Projector</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-restoring-deleted-messages-on-gmail/"><u>Ultimate Guide: Restoring Deleted Messages on Gmail</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-youtubes-best-viewing-experience-with-ratios/"><u>Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722851932959-vizio-televisions-and-wi-fi-woes-heres-how-you-can-fix-it/"><u>Vizio Televisions and Wi-Fi Woes? Here's How You Can Fix It!</u></a></li>
+</ul></div>
 

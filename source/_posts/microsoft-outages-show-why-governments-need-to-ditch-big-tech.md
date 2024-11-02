@@ -1,7 +1,7 @@
 ---
 title: Microsoft Outages Show Why Governments Need to Ditch Big Tech
-date: 2024-09-13T22:08:43.830Z
-updated: 2024-09-17T21:26:25.661Z
+date: 2024-10-27T17:22:36.604Z
+updated: 2024-11-02T04:51:41.196Z
 categories:
   - BestProducts
 description: This Article Describes Microsoft Outages Show Why Governments Need to Ditch Big Tech
@@ -31,11 +31,25 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
 [Windows 12](https://www.lifewire.com/windows-12-news-and-rumors-6753587) is the next major operating system expected from Microsoft.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Latest Major Updates to Windows 10
 
  The last major update to [Windows 10](https://www.lifewire.com/windows-10-2626217) is Windows 10 Version 22H2, referred to as the_Windows 10 2022 Update_ . Updating, like in Windows 11, is automatic through Windows Update.
 
  See more about the individual fixes and improvements on Microsoft's[What's New in Windows 10 Version 22H2](https://learn.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-22h2) page.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Latest Major Updates to Windows 8
 
@@ -48,10 +62,10 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
  Microsoft isn't planning another big update to Windows 8, like a_Windows 8.2_ or_Windows 8.1 Update 2_ . New features, if available, will instead be pushed through updates on[Patch Tuesday](https://www.lifewire.com/patch-tuesday-2625783) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Latest Microsoft Windows Service Packs (Windows 7, Vista, XP)
@@ -110,5 +124,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/erfecting-your-clips-top-youtubers-cameras-listed-for-2024/"><u>[New] Perfecting Your Clips Top YouTubers' Cameras Listed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-plug-in-proweries-expert-analysis/"><u>2024 Approved PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-pro-w5700-drivers-download-now-for-windows-11107/"><u>AMD Radeon Pro W5700 Drivers: Download Now for Windows 11/10/7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-chromecast-and-fire-stick-for-perfect-playback/"><u>Connecting Chromecast and Fire Stick for Perfect Playback</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-p60-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Huawei P60 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-premium-free-fb-media-designer-toolkit/"><u>In 2024, Premium Free FB Media Designer Toolkit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/methodology-for-locating-personal-numbers-on-internet-platforms/"><u>Methodology for Locating Personal Numbers on Internet Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-propsysdll-file-couldnt-be-located-issue/"><u>Solving the PropSys.dll File Couldn't Be Located Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speculations-surrounding-the-new-pixel-fold-2-price-estimates-expected-arrival-date-and-comprehensive-tech-details/"><u>Speculations Surrounding the New Pixel Fold 2: Price Estimates, Expected Arrival Date & Comprehensive Tech Details</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tapping-into-asmrs-potential-for-self-improvement/"><u>Tapping Into ASMR's Potential for Self-Improvement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tesla-model-3-cutting-edge-features-complement-its-stylish-appearance-in-the-new-2024-release/"><u>Tesla Model 3: Cutting-Edge Features Complement Its Stylish Appearance in the New 2024 Release</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-apple-watch-ultra-2-sneak-peek-estimated-price-points-expected-arrival-date-and-potential-features-discussed/"><u>The Apple Watch Ultra 2 Sneak Peek - Estimated Price Points, Expected Arrival Date & Potential Features Discussed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-protection-and-convenience-kit-expert-review-on-the-oculus-quest-2s-elite-strap-featuring-integrated-power-and-robust-carrying-pouch/"><u>The Ultimate Protection and Convenience Kit: Expert Review on the Oculus Quest 2'S Elite Strap Featuring Integrated Power & Robust Carrying Pouch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-ultimate-guide-to-the-best-twitter-management-apps-and-programs/"><u>Top Picks: Ultimate Guide to the Best Twitter Management Apps & Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-sending-texts-from-your-ipad/"><u>Ultimate Guide: Sending Texts From Your iPad</u></a></li>
+</ul></div>
 

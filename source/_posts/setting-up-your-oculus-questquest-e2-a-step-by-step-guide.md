@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Oculus Quest/Quest E2: A Step-by-Step Guide"
-date: 2024-09-10T16:09:58.022Z
-updated: 2024-09-18T02:23:48.855Z
+date: 2024-10-27T05:57:16.324Z
+updated: 2024-11-01T18:51:20.926Z
 categories:
   - BestProducts
 description: "This Article Describes Setting Up Your Oculus Quest/Quest E2: A Step-by-Step Guide"
@@ -49,6 +49,13 @@ Close
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/yZBHmK0_xpR3kumYCRlTLW2e5MY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-6595176977494c05b9f40e2e35b3e401.jpg)
 6. Verify the information you’ve entered, and select**Create account** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create account highlighted on Meta.](https://www.lifewire.com/thmb/woj9LZKjFZpaAHG5vAXYME3dJuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-8b458d2656cb42a39a4571c9d1660f9d.jpg)
 7. Retrieve the verification code from your email, and select**Continue** .  
 ![Continue highlighted on Meta.](https://www.lifewire.com/thmb/4yRl1B6vvg0shG08zEqIjYKKH0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7-01d4792b442b4de2917322affcf21ed8.jpg)
@@ -66,6 +73,14 @@ Close
 1. Navigate to**Meta's site** and select**Continue with Facebook** .  
 ![Create account highlighted on Meta.](https://www.lifewire.com/thmb/HqGcXv4zBqPDCj6DBYSqwQ964TE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-eab7d9d2bcf449f09001be376aa8f13e.jpg)
 2. Select**Continue as (your name)** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Continue as (name) highlighted on Meta.](https://www.lifewire.com/thmb/D8NiqRTtuFUVSzrRwg9wEIzj2oM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-3bd7e79e9ad04dad8fe27b00641a61ea.jpg)  
  You’ll have to log in first if you aren’t already logged into Facebook on this device.
 
@@ -82,6 +97,14 @@ Close
 6. Select**Continue** .  
 ![Continue highlighted on Meta.](https://www.lifewire.com/thmb/Ce2BSRIeI2_RDZGpJm-hAy3r_tQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook6-16ad6a2553b743aba9566b34a42aae3c.jpg)
 7. Select**Finish account setup** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Finish account setup highlighted on Meta.](https://www.lifewire.com/thmb/wbhyT7CUpWE8nWCIcJtC_fJOFJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook7-32fedea2920747a1935f821b636945d3.jpg)
 8. Select**Next** .  
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/G0LKm5VXnVKxQ_r4ljKx2NSox_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook8-2734df7b0544415a8699afa35f77af6f.jpg)
@@ -90,12 +113,27 @@ Close
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/WDrCXvuuilJSUs5YeMfhjsscbNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook9-b7e5c30b3d904007b969420920a934d5.jpg)
 10. Select**Next** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/Uyvewo95TZaj624Jl2lZtTqaV70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook10-4c87bebc47d74b1b916d999153a5a682.jpg)
 11. Choose a privacy level, and select**Review** .  
 ![Review highlighted on meta.](https://www.lifewire.com/thmb/NZ2kYXotroGmxnkXZoFwO9GBxmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-60ce546e32d640398be9e321231671e3.jpg)
 12. Review your choices, and select**Accept and Continue** .  
 ![Accept and continue highlighted on Meta.](https://www.lifewire.com/thmb/RW6WU0Si6BgBgXm7bocsol3C2gY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook12-acc5c2370b1f41b181c4630529920c4e.jpg)
 13. Select**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Next highlighted on Meta.](https://www.lifewire.com/thmb/6EpqV1ZtS7zM-Z0jCznGH5y-MHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook13-1c3be6888d664491bb6de190b75783e5.jpg)  
  If you want to add a link to your Facebook account to your Horizon profile, click or tap the toggle.
 
@@ -104,10 +142,17 @@ Close
 15. Your Meta account is now set up and connected to your Facebook account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Connect Your Quest to Your New Meta Account
@@ -123,10 +168,10 @@ Close
 4. Your Quest will restart, and then you’ll be able to use it with your new Meta account.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Separate a Meta Account From Facebook
@@ -150,13 +195,6 @@ Close
 
 ![Remove (name) highlighted on Accounts Center.](https://www.lifewire.com/thmb/N4w3eL9MaOtAY-mUpQx2H5A9eG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_how-to-create-a-meta-oculus-quest-or-quest-2-account-6503595-f71157308d6d4d249eed864d07fadea9.jpg)
 5. Your Meta account will be removed from your Facebook account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do You Make a Meta Account?
 
@@ -209,5 +247,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-hide-and-stream-avoiding-the-spotlight-on-instagram/"><u>[New] Hide and Stream Avoiding the Spotlight on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ai-integration-for-vr-marketplaces-for-2024/"><u>[Updated] AI Integration for VR Marketplaces for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-beginners-guide-to-simple-yet-effective-filming-gear/"><u>[Updated] Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-efficiently-capturing-professional-movies-on-your-windows-pc-for-2024/"><u>[Updated] Efficiently Capturing Professional Movies on Your Windows PC for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-kid-friendly-quadcopters-top-5-selection-guide/"><u>[Updated] In 2024, Kid-Friendly Quadcopters Top 5 Selection Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ogmwmv-vimeovavi/"><u>無料ウェビサイトを利用したOGMとWMVの高速変換サービス - Vimeovavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-vos-fichiers-nsv-en-format-wmv-gratuitement-sur-internet-avec-movavi/"><u>Convertissez Vos Fichiers .nsv en Format WMV Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-connection-methods-for-ps-vr-and-your-desktop-system/"><u>Easy Connection Methods for PS VR and Your Desktop System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-solve-msvcr80dll-missing-issues/"><u>How to Correctly Address and Solve MSVCR80.DLL Missing Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-remove-the-built-in-news-update-section-on-your-pc-running-windows-11/"><u>How to Remove the Built-In News Update Section on Your PC Running Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-new-iphone-16-worth-it-expert-advice-on-why-to-embrace-or-avoid-the-upgrade-analysis/"><u>Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-for-laptop-and-desktop-enthusiasts-master-the-mobile-app-on-a-larger-screen/"><u>Snapchat for Laptop and Desktop Enthusiasts: Master the Mobile App on a Larger Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-resolve-the-shell32dll-missing-error/"><u>Solutions: Resolve the 'Shell32.dll Missing' Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-finding-wi-fi-passwords-on-windows-11/"><u>Unlocking the Secrets: Finding Wi-Fi Passwords on Windows 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/value-vs-power-showdown-how-the-hp-omen-obelisk-reigns-supreme-for-gamers/"><u>Value Vs. Power Showdown: How the HP Omen Obelisk Reigns Supreme for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whea-fatal-errors-demystified-your-ultimate-repair-manual/"><u>WHEA Fatal Errors Demystified - Your Ultimate Repair Manual</u></a></li>
+</ul></div>
 

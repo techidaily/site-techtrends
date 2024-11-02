@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Management: Launching Terminal in Windows Directories"
-date: 2024-09-15T01:16:58.298Z
-updated: 2024-09-17T18:35:20.804Z
+date: 2024-10-25T21:23:29.698Z
+updated: 2024-11-01T23:07:55.966Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering File Management: Launching Terminal in Windows Directories"
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
  It's easy to[start Command Prompt the normal way](https://www.lifewire.com/how-to-open-command-prompt-2618089) , but if you know which folder you want to run commands in, you'll save yourself a step or two if you open Command Prompt in the folder from the start. Below are two methods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Change the Folder Path
 
  Follow these steps for the fastest way to open Command Prompt in a folder. All you have to do is type**cmd** in the right place.
@@ -39,14 +46,14 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 ![CMD written in the folder path in File Explorer](https://www.lifewire.com/thmb/rr8ptOhLYrnBgD6w_Hjye9YQuYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-folder-path-file-explorer-300f168551ca419ca508d6d57c6b4eb4.png)
 4. Press**Enter** . This will open Command Prompt directly to that folder.  
 
-![Command Prompt set to a specific folder](https://www.lifewire.com/thmb/ImWlJT46vdUQ80eKbgJrFAaBcFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/command-prompt-open-to-folder-33b0154a3b924977be06347bb84ef696.png)  
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Command Prompt set to a specific folder](https://www.lifewire.com/thmb/ImWlJT46vdUQ80eKbgJrFAaBcFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/command-prompt-open-to-folder-33b0154a3b924977be06347bb84ef696.png)  
 
 ### Use a Keyboard Shortcut
 
@@ -58,10 +65,17 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 [Terminal](https://www.lifewire.com/windows-terminal-4779951) is the command line tool used in Windows 11\. Follow that link to learn how to access Command Prompt and other tools from Terminal.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Command for Changing Folders in Command Prompt
@@ -105,5 +119,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-manycam-review-is-there-a-better-alternative-in-2024/"><u>[New] ManyCam Review Is There A Better Alternative, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-home-vr-construct-how-to-assemble-your-own-google-cardboard-for-2024/"><u>[Updated] Home VR Construct How to Assemble Your Own Google Cardboard for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-10-graphics-via-driver-update/"><u>Boost Windows 10 Graphics via Driver Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-steps-to-correct-the-mscorwksdll-not-present-problem/"><u>Comprehensive Troubleshooting Steps to Correct the Mscorwks.dll Not Present Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-signs-that-show-when-someone-reads-your-sms-essential-insights/"><u>Decoding the Signs That Show When Someone Reads Your SMS: Essential Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722087581066-how-excel-outperforms-chatgpt-in-data-management-discover-3-ways/"><u>How Excel Outperforms ChatGPT in Data Management - Discover 3 Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-cutting-edge-zoom-recording-techniques/"><u>In 2024, Cutting-Edge Zoom Recording Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-peakquality-resizer-cross-platform-edition/"><u>In 2024, PeakQuality Resizer – Cross-Platform Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nba-live-action-your-guide-to-15-effective-livestream-tips/"><u>NBA Live Action Your Guide to 15 Effective Livestream Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-viewing-the-definitive-sequence-to-enjoy-the-magic-of-harry-potter-films/"><u>Ordered Viewing: The Definitive Sequence to Enjoy the Magic of Harry Potter Films</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedying-the-error-oleaut32dll-file-not-located-on-your-pc/"><u>Remedying the Error: 'OleAut32.dll' File Not Located on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-a-missing-user32dll-file/"><u>Resolving the Issue: What To Do When You Encounter a Missing User32.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sony-car-afeela-breaking-down-the-latest-rumors-on-costs-specs-and-release-timeline/"><u>Sony Car Afeela - Breaking Down the Latest Rumors on Costs, Specs, and Release Timeline</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-the-latest-windows-11-updates/"><u>Step-by-Step Guide: Removing the Latest Windows 11 Updates</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-zen-of-sleep-curated-asmr-vocalists/"><u>The Zen of Sleep Curated ASMR Vocalists</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ocidll-missing-files-a-comprehensive-guide/"><u>Understanding and Repairing 'Oci.dll' Missing Files – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-a-408-request-timeout-diagnosis-and-repair-tips/"><u>What Is a 408 Request Timeout? Diagnosis and Repair Tips</u></a></li>
+</ul></div>
 

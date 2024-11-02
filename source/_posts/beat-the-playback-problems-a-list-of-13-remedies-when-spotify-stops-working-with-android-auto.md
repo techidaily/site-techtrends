@@ -1,7 +1,7 @@
 ---
 title: "Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto"
-date: 2024-09-11T18:33:34.777Z
-updated: 2024-09-18T02:19:00.738Z
+date: 2024-10-29T20:57:22.331Z
+updated: 2024-11-02T00:27:15.069Z
 categories:
   - BestProducts
 description: "This Article Describes Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto"
@@ -35,6 +35,13 @@ Close
 
 [ Check if Spotify is down for everyone](https://www.lifewire.com/is-spotify-down-or-is-it-just-you-5071705) before jumping into the steps below. It's smart to rule this out first because if it turns out that many users are experiencing problems with the service, all you can do is wait for Spotify to resolve the issue on their end.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Fix Spotify Not Working on Android Auto
 
  Follow these tips in the order you see them to fix it when Android Auto won't play Spotify:
@@ -51,6 +58,13 @@ Close
 ![Customize launcher and Spotify box highlighted in Android Auto app.](https://www.lifewire.com/thmb/jXWD0NGnFxfUegWGkihjZgvpqUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-12WaystoFixSpotifyNotWorkingonAndroidAuto-annotated-9713c09fa9394da09e34bea96f5f8089.jpg)  
  You shouldn't need to do this because it happens automatically once Spotify is installed on your phone. However, it's possible to hide apps from displaying in Android Auto, which would explain why Spotify is missing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Quickly check whether other apps, like Google Maps, work with Android Auto. If they are having trouble, too, check out this more general guide:[ Ways to Fix It When Android Auto Is Not Working](https://www.lifewire.com/fix-android-auto-not-working-5093747) . That article will also help you determine if your car is compatible with Android Auto.
 7. Allow Spotify to run in the background to fix things like buffering issues and unresponsive screens. Here's how to do that on a Google Pixel: Go to**Settings** \>**Apps** \>**Spotify** \>**App battery usage** , then switch on**Allow background usage** .
 8. [ Check your phone's mobile internet connection](https://www.lifewire.com/fix-mobile-data-not-working-4769125) , which must be solid to avoid audio cutting out while streaming.  
@@ -63,6 +77,13 @@ Close
  To do this, first,[ enable Android Auto's developer mode](https://9to5google.com/2023/01/25/how-to-enable-developer-mode-in-android-auto-and-why-you-might-want-to/) , and then from the three-dot menu, tap**Developer settings** \>**Unknown sources** . Finally, completely close down Android Auto and Spotify before you try using it again.  
 ![Three-dot menu, Developer settings, and Unknown sources highlighted in Android Auto app.](https://www.lifewire.com/thmb/BVN_pr772ACMU1MySxYD7iZX6eA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A-12-12WaystoFixSpotifyNotWorkingonAndroidAuto-annotated-67335ebc6afc41ebbcea61301d5c5ef4.jpg)
 13. Turn on autostart for Spotify. This will allow the app to start back up again in the background after being closed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is only relevant on some phones, like those from Xiaomi, Huawei, and Realme. Here are some steps to try, depending on your phone maker:  
    * **Security** \>**Manage apps** \>**Permissions** \>**Autostart** \>**Spotify** .  
@@ -105,12 +126,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-introduction-editors-for-all-your-tech/"><u>[New] 2024 Approved Cutting-Edge Introduction Editors for All Your Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-20-auto-surveillance-cams-reviews/"><u>[New] 2024 Approved Top 20 Auto Surveillance Cams Reviews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterpieces-without-barriers-publicly-available-artwork/"><u>[New] Masterpieces Without Barriers Publicly Available Artwork</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unique-14-motion-graphics-showcasing-text/"><u>[New] Unique 14 Motion Graphics Showcasing Text</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-review-of-sns-hdr-vs-top-hdr-applications/"><u>[Updated] The Ultimate Review of SNS HDR Vs. Top HDR Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888039286-dealing-with-nspr4dll-not-detected-top-strategies-and-tips/"><u>Dealing with 'Nspr4.dll Not Detected' - Top Strategies and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/differences-between-an-ipad-and-common-tablets-what-you-need-to-know/"><u>Differences Between An iPad And Common Tablets: What You Need To Know</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209921108-9781446359235-everyday-magic/"><u>Everyday Magic | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-steam-dll-repair-eliminate-errors-enjoy-uninterrupted-play/"><u>Mastering Steam Dll Repair: Eliminate Errors, Enjoy Uninterrupted Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-productivity-with-three-monitors-a-users-handbook-for-integrating-multiple-screens-into-your-system/"><u>Maximize Productivity with Three Monitors: A User's Handbook for Integrating Multiple Screens Into Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-student-discount-opportunutes-on-lenovo-products-and-services/"><u>Navigating Student Discount Opportunutes on Lenovo Products and Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-your-choices-a-guide-to-ipad-series-offering-inbuilt-gps-technology/"><u>Navigating Your Choices: A Guide to iPad Series Offering Inbuilt GPS Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-compatibility-errors-in-windows-11-on-aging-cpu-architecture/"><u>Resolving Compatibility Errors in Windows 11 on Aging CPU Architecture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-five-crucial-questions-to-ask-prior-to-investing-in-a-smartwatch/"><u>The Five Crucial Questions to Ask Prior to Investing in a Smartwatch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranked-gaming-systems-in-22024/"><u>Top-Ranked Gaming Systems in 2#2024</u></a></li>
+</ul></div>
 

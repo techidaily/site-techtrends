@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-10-25T19:45:21.895Z
-updated: 2024-10-27T18:41:43.865Z
+date: 2024-10-26T04:51:54.394Z
+updated: 2024-11-02T10:28:21.851Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,10 +52,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,19 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -92,10 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -103,6 +96,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,21 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-gigglegraphs-designing-delightful-memes-for-2024/"><u>[New] GiggleGraphs Designing Delightful Memes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-mobile-media-3-key-steps-to-stabilize-iphone-videos/"><u>[New] Mastering Mobile Media 3 Key Steps to Stabilize iPhone Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-precision-photography-and-videography-prime-lens-excellence-in-4k/"><u>[New] Precision Photography & Videography Prime Lens Excellence in 4K</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-new-era-of-racing-vr-bike-selection-guide/"><u>[Updated] New Era of Racing VR Bike Selection Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-changing-your-instagram-message-text/"><u>A Step-by-Step Guide: Changing Your Instagram Message Text</u></a></li>
-<li><a href="https://techtrends.techidaily.com/alexa-vs-google-assistant-showdown-determining-the-ideal-choice/"><u>Alexa Vs. Google Assistant Showdown: Determining the Ideal Choice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-recommendations-the-ultimate-list-of-current-online-film-favorites/"><u>Expert Recommendations: The Ultimate List of Current Online Film Favorites</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-nubia-z60-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Nubia Z60 UltraFRP Lock</u></a></li>
-<li><a href="https://win-lab.techidaily.com/migrate-your-windows-10-system-seamlessly-a-dual-approach-transferring-between-ssds/"><u>Migrate Your Windows 10 System Seamlessly: A Dual Approach Transferring Between SSDs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-slideshow-magic-on-mac-easy-video-editing-with-ezvid/"><u>New In 2024, Slideshow Magic on Mac Easy Video Editing with Ezvid</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-for-discontinuing-access-to-paramountplus/"><u>Simple Steps for Discontinuing Access to Paramount+</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-repairing-a-non-responsive-keyboard/"><u>Step-by-Step Guide: Repairing a Non-Responsive Keyboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-perfect-pair-how-to-integrate-your-fire-tv-stick-with-google-chromecast/"><u>The Perfect Pair: How to Integrate Your Fire TV Stick with Google Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-15-dolby-atmos-films-ultimate-movie-watching-experience-from-the-comfort-of-your-couch/"><u>Top 15 Dolby Atmos Films: Ultimate Movie-Watching Experience From the Comfort of Your Couch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-integration-at-wwdc-could-transform-user-experience-zdnet-insights/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Integration at WWDC Could Transform User Experience | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/workshops-and-webinars/"><u>Workshops and Webinars</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-list-5-high-res-tvs-perfecting-chromatic-balance/"><u>[New] A-List 5 High-Res TVs Perfecting Chromatic Balance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cutting-to-a-consensus-in-news-endings-for-2024/"><u>[Updated] Cutting to a Consensus in News Endings for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-prime-mac-screen-capture-options-for-2024/"><u>[Updated] The Prime Mac Screen Capture Options for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experiencing-issues-with-nintendo-switch-online-service-outage-or-connection-problem/"><u>Experiencing Issues with Nintendo Switch Online - Service Outage or Connection Problem?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/global-audience-picks-top-10-most-visited-sites-online/"><u>Global Audience Picks: Top 10 Most Visited Sites Online</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-upload-personal-video-content-to-apple-tv-application/"><u>Guide: Upload Personal Video Content to Apple TV Application</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-the-economics-behind-youtubes-shorts-fund/"><u>In 2024, Understanding the Economics Behind YouTube's Shorts Fund</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-fcp-2023-the-ultimate-guide-to-reversing-video-footage/"><u>New In 2024, FCP 2023 The Ultimate Guide to Reversing Video Footage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-network-the-official-july-2024-list-of-linksys-default-passwords-exposed/"><u>Secure Your Network: The Official July 2024 List of Linksys Default Passwords Exposed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-viewing-spider-man-no-way-home-through-streaming-services/"><u>Step-by-Step Tips on Viewing 'Spider Man: No Way Home' Through Streaming Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-enjoy-family-friendly-films-on-disneyplus-this-july/"><u>Top Picks: Enjoy Family-Friendly Films on Disney+ This July</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-achieving-instagram-verification-status/"><u>Ultimate Guide: Achieving Instagram Verification Status</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-distinctions-mac-vs-pc-a-comprehensive-guide/"><u>Unveiling the Distinctions: Mac Vs. PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
 

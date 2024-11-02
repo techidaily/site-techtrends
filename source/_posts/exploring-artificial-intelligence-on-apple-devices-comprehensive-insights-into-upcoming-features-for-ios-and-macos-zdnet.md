@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-10-26T16:44:36.667Z
-updated: 2024-10-27T16:49:11.858Z
+date: 2024-10-27T21:51:41.100Z
+updated: 2024-11-02T04:09:17.351Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -100,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -121,6 +107,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -132,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +218,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-sharing-success-replicating-content-on-insta/"><u>[New] Sharing Success Replicating Content on Insta</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-cutting-confinement-with-comedy-best-facebook-incarceration-laughs-of-today-for-2024/"><u>[Updated] Cutting Confinement with Comedy Best Facebook Incarceration Laughs of Today for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-free-youtube-artwork-hacks-snag-high-res-thumbnails-now/"><u>[Updated] Free YouTube Artwork Hacks - Snag High-Res Thumbnails Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-professional-insights-for-better-gopro-recording/"><u>[Updated] Professional Insights for Better GoPro Recording</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-essential-calendar-tools-to-plan-your-feeds/"><u>8 Essential Calendar Tools to Plan Your Feeds</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clearing-space-on-your-photoshop-scratch-disk-easy-fixes-and-tips/"><u>Clearing Space on Your Photoshop Scratch Disk – Easy Fixes and Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-free-online-movie-repositories-a-guide-to-11-great-options/"><u>Discover the Best Free Online Movie Repositories: A Guide to 11 Great Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-your-wi-fi-networks-secret-key-on-windows-11-a-step-by-step-guide/"><u>Discovering Your Wi-Fi Network's Secret Key on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructions-on-how-to-link-your-samsung-universal-remote-to-any-tv/"><u>Easy Instructions on How to Link Your Samsung Universal Remote to Any TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-our-top-picks-the-6-greatest-apps-to-track-your-eats/"><u>Explore Our Top Picks: The 6 Greatest Apps to Track Your Eats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-control-your-pcs-network-discovery-functionality-on-windows-11/"><u>How to Control Your PC's Network Discovery Functionality on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-perfection-mastering-the-top-5-techniques/"><u>In 2024, Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y27-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y27 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-correct-msodll-not-found-issues/"><u>Comprehensive Guide: How to Correct 'mso.dll' Not Found Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-7-most-popular-imessage-games/"><u>Discover the Ultimate List: 7 Most Popular iMessage Games</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-achieving-professional-editing-without-the-price-tag/"><u>In 2024, Achieving Professional Editing Without the Price Tag</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-g2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo G2 Phone Hassle-Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-x50-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor X50 GT without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/netflix-watch-party-a-step-by-step-tutorial-on-how-to-screen-share-the-service/"><u>Netflix Watch Party: A Step-by-Step Tutorial on How to Screen Share the Service</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users-for-2024/"><u>New DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photo-flexibility-perfecting-image-reshaping/"><u>Photo Flexibility Perfecting Image Reshaping</u></a></li>
+<li><a href="https://extra-information.techidaily.com/select-high-quality-drones-for-sale/"><u>Select High-Quality Drones For Sale</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-fresh-storage/"><u>Step-by-Step Guide: Setting Up Windows 11 on Fresh Storage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-great-debate-unpacking-the-contrast-between-cable-and-streaming-media/"><u>The Great Debate: Unpacking the Contrast Between Cable and Streaming Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-critical-ntldr-issues-on-your-windows-pc-steps-and-tips/"><u>Troubleshooting Critical NTLDR Issues on Your Windows PC - Steps & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-reducing-ping-fluctuations-in-bless-unleashed-on-your-gaming-pc/"><u>Ultimate Guide to Reducing Ping Fluctuations in Bless Unleashed on Your Gaming PC</u></a></li>
 </ul></div>
 

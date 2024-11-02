@@ -1,7 +1,7 @@
 ---
 title: Anticipating the Arrival of Google Pixel 9 - Estimated Pricing Details Revealed
-date: 2024-09-12T03:42:52.469Z
-updated: 2024-09-18T04:54:59.300Z
+date: 2024-10-26T08:57:24.302Z
+updated: 2024-11-02T05:13:32.972Z
 categories:
   - BestProducts
 description: This Article Describes Anticipating the Arrival of Google Pixel 9 - Estimated Pricing Details Revealed
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/0f935ebe417d47bcf2165f433dd2058985bf2be66
 ## When Will the Google Pixel 9 Be Released?
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -62,10 +69,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Pixel 9 Specs and Hardware
@@ -82,13 +89,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
@@ -100,10 +100,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 MySmartPrice
@@ -118,6 +118,13 @@ MySmartPrice
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Other Specs
 
  Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
@@ -125,13 +132,6 @@ MySmartPrice
  The Pixel 9 Pro might come with more RAM this year. An unnamed source with access to a purported Pixel 9 Pro (via[Rozetked](https://rozetked.me/news/33143-eksklyuziv-zhivye-foto-google-pixel-9-pro-ot-rozetked) ) claims the phone will have an additional 4 GB of RAM compared to last year's device, shooting it up to 16 GB of total memory.
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Latest News About the Google Pixel 9
 
@@ -154,5 +154,21 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-full-screen-in-obs-no-more-worry/"><u>[New] In 2024, Full Screen in Obs, No More Worry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-zero-cost-green-screens-for-professionals/"><u>[New] In 2024, Zero-Cost Green Screens for Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visual-filmmaking-resources-environmentally-conscious-for-2024/"><u>[New] Visual Filmmaking Resources - Environmentally Conscious for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-advanced-steps-in-monitoring-and-archiving-system-sounds/"><u>[Updated] 2024 Approved Advanced Steps in Monitoring & Archiving System Sounds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-a-beginners-guide-to-professional-gif-creation-for-2024/"><u>[Updated] A Beginner's Guide to Professional GIF Creation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-scriptwriting-a-comprerancial-guide-to-slug-lines/"><u>2024 Approved Scriptwriting A Comprerancial Guide to Slug Lines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-your-ipads-lock-screen-a-step-by-step-guide/"><u>Bypassing Your iPad's Lock Screen: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-on-disabling-cortana-and-copilot-on-windows-11-devices/"><u>Easy Tutorial on Disabling Cortana and Copilot on Windows 11 Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-twitch-account-security-with-2fa-tips-and-tricks-for-easy-configuration/"><u>Enhance Your Twitch Account Security with 2FA: Tips & Tricks for Easy Configuration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essentials-the-initial-five-tasks-for-a-smooth-laptop-startup/"><u>Essentials: The Initial Five Tasks for a Smooth Laptop Startup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-decades-best-writes-across-film-classifications/"><u>In 2024, A Decade's Best Writes Across Film Classifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-must-have-journaling-applications/"><u>Top 6 Must-Have Journaling Applications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-videos-using-video-enhancer-v22/"><u>Transform Your Videos Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-turn-off-apple-musics-automatic-song-streaming/"><u>Tutorial: Turn Off Apple Music's Automatic Song Streaming</u></a></li>
+</ul></div>
 

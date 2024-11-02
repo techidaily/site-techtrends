@@ -1,7 +1,7 @@
 ---
 title: "Mastering Notification History: Tips for Finding Past Alerts on an iPhone"
-date: 2024-09-13T21:28:04.320Z
-updated: 2024-09-17T20:51:21.061Z
+date: 2024-10-31T05:20:15.529Z
+updated: 2024-11-02T07:06:04.222Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Notification History: Tips for Finding Past Alerts on an iPhone"
@@ -39,22 +39,43 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -101,5 +122,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-purge-personal-youtube-history-records/"><u>[New] In 2024, How to Purge Personal YouTube History Records</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-enhance-your-game-experience-with-these-5-screen-capture-techniques-for-minecraft-mac/"><u>2024 Approved Enhance Your Game Experience with These 5 Screen Capture Techniques for Minecraft (Mac)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865781259-best-15-free-anti-malware-programs-for-a-safer-pc-experience-try-them-today/"><u>Best 15 Free Anti-Malware Programs for a Safer PC Experience, Try Them Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capturing-better-photos-a-guide-to-upgrading-your-ios-devices-cameras/"><u>Capturing Better Photos: A Guide to Upgrading Your iOS Device's Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-503-service-down-message-and-steps-for-recovery/"><u>Deciphering the 503 Service Down Message and Steps for Recovery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-language-mastery-the-ultimate-selection-of-apps/"><u>Free Language Mastery: The Ultimate Selection of Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oneplus-ace-2v-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on OnePlus Ace 2V</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-tips-and-tricks-for-effective-at-home-charge-your-ev-systems/"><u>Insider Tips and Tricks for Effective At-Home Charge Your EV Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pinnacle-picture-enhancer-resolution-rise-for-2024/"><u>Pinnacle Picture Enhancer Resolution Rise for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-updating-usb-30-drivers-on-windows-11-7-and-8/"><u>Quick Guide: Updating USB 3.0 Drivers on Windows 11, 7 and 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategizing-together-best-practices-for-friend-battles-in-pokemon-go/"><u>Strategizing Together: Best Practices for Friend Battles in Pokemon Go</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/structuring-stimulating-podcast-trailers/"><u>Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-of-macos-unveiling-each-release-and-its-features-in-detail/"><u>The Evolution of macOS: Unveiling Each Release and Its Features in Detail</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-freedom-of-forgetting-faces-online/"><u>The Freedom of Forgetting Faces Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/187310-9781932681208-the-mirror-of-alchemy/"><u>The Mirror of Alchemy | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/travel-smart-mastering-the-art-of-roku-streaming-on-the-go/"><u>Travel Smart: Mastering the Art of Roku Streaming On-the-Go</u></a></li>
+</ul></div>
 

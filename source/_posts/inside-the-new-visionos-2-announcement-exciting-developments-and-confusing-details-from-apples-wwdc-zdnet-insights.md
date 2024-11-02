@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-10-22T18:47:03.328Z
-updated: 2024-10-27T18:52:01.593Z
+date: 2024-10-26T12:51:17.430Z
+updated: 2024-11-02T10:27:19.885Z
 tags:
   - apple
 categories:
@@ -42,6 +42,13 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -49,10 +56,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -63,13 +70,6 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -77,6 +77,13 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -93,13 +100,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -119,6 +119,19 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -127,13 +140,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,17 +185,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enlarge-your-videos-thumbnail-on-youtube-easily-for-2024/"><u>[New] Enlarge Your Video's Thumbnail on YouTube Easily for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-seamlessly-add-snap-camera-to-microsoft-chats-for-2024/"><u>[Updated] How To Seamlessly Add Snap Camera to Microsoft Chats for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-smirkscribbler-visual-laughter-hub-for-2024/"><u>[Updated] SmirkScribbler Visual Laughter Hub for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[Updated] Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crafting-memorable-evenings-with-a-personalized-in-house-karaoke-event/"><u>Crafting Memorable Evenings with a Personalized In-House Karaoke Event</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rise-above-the-norm-with-these-excellent-win-11-widgets/"><u>Rise Above the Norm with These Excellent Win 11 Widgets</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-for-opening-origin-on-windows-10-and-11-systems/"><u>Solution Guide for Opening Origin on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-overcoming-stop-0x0000007b-critical-process-died-bsod-glitches/"><u>Step-by-Step Solutions for Overcoming STOP 0X0000007B Critical Process Died BSOD Glitches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-blank-screens-solutions-for-computers-that-boot-without-display/"><u>Troubleshooting Blank Screens: Solutions for Computers that Boot Without Display</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-iphones-a-comprehensive-walkthrough-for-using-recovery-mode/"><u>Troubleshooting iPhones: A Comprehensive Walkthrough for Using Recovery Mode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-when-your-macos-app-wont-launch/"><u>Troubleshooting Steps When Your macOS App Won't Launch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[New] 2024 Approved Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-methods-for-saving-youtube-videos/"><u>2024 Approved Easy Methods for Saving YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722876016475-aol-mail-issues-determining-whether-its-a-downtime-scenario-or-personal-connectivity-problem/"><u>AOL Mail Issues: Determining Whether It's a Downtime Scenario or Personal Connectivity Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-sale-of-watch-series-9-and-ultra-restarts-after-temporary-legal-halt/"><u>Apple's Sale of Watch Series 9 & Ultra Restarts After Temporary Legal Halt</u></a></li>
+<li><a href="https://fox-that.techidaily.com/are-your-deleted-iphone-pictures-still-lurking-uncover-these-8-steps-to-reclaim-space/"><u>Are Your Deleted iPhone Pictures Still Lurking? Uncover These 8 Steps to Reclaim Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-walkthrough-to-screenshot-on-your-windows-11-pc/"><u>Complete Walkthrough to Screenshot on Your Windows 11 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-4-free-web-based-calendar-tools-available-today/"><u>Discover the Best 4 Free Web-Based Calendar Tools Available Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-sites-to-view-free-music-videos-on-your-computer-or-phone/"><u>Discover the Best Sites to View Free Music Videos on Your Computer or Phone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expand-your-verbal-horizons/"><u>Expand Your Verbal Horizons</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-20c-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark 20C Phone that is Locked?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>In 2024, Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/learn-how-to-mirror-your-smartphone-or-tablet-onto-an-lg-tv-easily/"><u>Learn How to Mirror Your Smartphone or Tablet Onto an LG TV Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-your-deactivated-instagram-presence-effective-strategies-and-solutions/"><u>Recovering Your Deactivated Instagram Presence: Effective Strategies and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-modifying-location-preferences-on-your-iphone/"><u>Step-by-Step Tutorial: Modifying Location Preferences on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamline-your-chaotic-life-with-these-7-essential-shared-calendar-solutions-for-families/"><u>Streamline Your Chaotic Life with These 7 Essential Shared Calendar Solutions for Families</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-getting-your-surface-pro-reconnected-to-wi-fi/"><u>The Ultimate Fix: Getting Your Surface Pro Reconnected to Wi-Fi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-buying-durable-and-watertight-phone-covers/"><u>Ultimate Guide to Buying Durable and Watertight Phone Covers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-10-24T18:52:52.063Z
-updated: 2024-10-27T17:56:56.958Z
+date: 2024-10-27T02:59:13.451Z
+updated: 2024-11-02T05:33:58.493Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -78,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -134,22 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-turning-tides-in-visuals-mastering-the-art-of-angles-and-rotations-on-insta/"><u>[New] In 2024, Turning Tides in Visuals Mastering the Art of Angles and Rotations on Insta</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-visual-snipping-strategy-in-windows-11s-photos-app-for-2024/"><u>[New] Visual Snipping Strategy in Windows 11'S Photos App for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-you-experiencing-issues-with-aol-email-service-or-is-the-platform-actually-undergoing-maintenance/"><u>Are You Experiencing Issues with AOL Email Service or Is the Platform Actually Undergoing Maintenance?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-iphone-models-for-an-immersive-gaming-experience/"><u>Best iPhone Models for an Immersive Gaming Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-snappydriver-v113-software-evaluation-insights-and-tips/"><u>Comprehensive SnappyDriver V1.13 Software Evaluation: Insights & Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-15-complimentary-windows-11-visual-overhauls/"><u>Discover the Ultimate List of 15 Complimentary Windows 11 Visual Overhauls</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-repair-tips-for-a-samsung-soundbar-that-wont-turn-on-or-work-properly/"><u>DIY Repair Tips for a Samsung Soundbar That Won't Turn On or Work Properly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 14</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-steps-for-a-smooth-experience-with-the-windows-11-photos-app/"><u>In 2024, Steps for a Smooth Experience with the Windows 11 Photos App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/making-sense-of-staying-connected-a-guide-to-understanding-t-mobiles-domestic-roaming-plan/"><u>Making Sense of Staying Connected: A Guide to Understanding T-Mobile's Domestic Roaming Plan</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/restart-your-ringtone-steps-to-resolve-iphones-that-wont-make-a-sound/"><u>Restart Your Ringtone: Steps to Resolve iPhones That Won't Make a Sound</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stream-snipping-specialists-2023-version-for-2024/"><u>Stream Snipping Specialists, 2023 Version for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-dos-and-donts-of-keeping-your-smart-tv-screen-pristine/"><u>The Do's and Don'ts of Keeping Your Smart TV Screen Pristine</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-picking-the-right-voice-assistant-amazons-alexa-vs-googles-answer-to-it/"><u>The Ultimate Guide to Picking the Right Voice Assistant: Amazon's Alexa Vs. Google's Answer to It.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-6-hdmi-21-tvs-spec-by-spec-comparison-guide/"><u>Top 6 HDMI 2.1 TVs Spec-by-Spec Comparison Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722859884530-unlock-the-power-of-mobile-communication-how-metro-by-t-mobiles-unlimited-plans-work-with-seamless-cellular-and-wi-fi-roaming-across-the-us/"><u>Unlock the Power of Mobile Communication: How Metro by T-Mobile's Unlimited Plans Work With Seamless Cellular and Wi-Fi Roaming Across the U.S.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-easy-replay-on-iphone-set-videos-cycling/"><u>[New] 2024 Approved Easy Replay on iPhone Set Videos Cycling</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-video-appeal-20-premium-thumbnail-fonts-for-2024/"><u>[New] Enhancing Video Appeal 20 Premium Thumbnail Fonts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-masterful-transitioning-8-leading-convertors-for-sub-and-srt/"><u>[New] Masterful Transitioning 8 Leading Convertors for Sub and SRT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-creativity-top-10-yt-reaction-hacks/"><u>[New] Mastering Creativity Top 10 YT Reaction Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-onestream-playbook-for-live-streamers/"><u>[Updated] The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/4tb-hddnasnashdd/"><u>効率的な4TB HDDのNASメモリーアップグレード方法：NAS非対応HDDから始めよう</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-productivity-top-shortcut-strategies-for-apple-devices/"><u>Boost Your Productivity: Top Shortcut Strategies for Apple Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-walkthrough-on-how-to-register-with-playstation-network/"><u>Complete Walkthrough on How to Register with PlayStation Network</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-ways-to-refresh-dell-docking-station-driver-software/"><u>Easy Ways to Refresh DELL Docking Station Driver Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-d3dx930dll-is-missing-on-your-pc/"><u>Effective Solutions for When d3dx9_30.dll Is Missing on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-out-when-and-why-your-mailpress-email-might-expire/"><u>Find Out When and Why Your Mail.press Email Might Expire</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Meizu 21 Pro Bootloader Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iphone-users-learn-simple-screen-recording-now/"><u>In 2024, Iphone Users, Learn Simple Screen Recording Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-twitter-discussions-how-to-successfully-contribute/"><u>Mastering the Art of Twitter Discussions: How to Successfully Contribute</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preventing-unintentional-sleep-for-macbooks-a-guide-when-closing-the-lid/"><u>Preventing Unintentional Sleep for MacBooks: A Guide When Closing the Lid</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solution-to-correct-haldll-error-on-your-outdated-windows-xp-system/"><u>Solution to Correct Hal.dll Error on Your Outdated Windows XP System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-msodll-file-missing-issues/"><u>Solutions for Resolving 'Mso.dll File Missing' Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-instagram-a-comprehensive-guide/"><u>Understanding Instagram: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better-in-2024/"><u>YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better, In 2024</u></a></li>
 </ul></div>
 

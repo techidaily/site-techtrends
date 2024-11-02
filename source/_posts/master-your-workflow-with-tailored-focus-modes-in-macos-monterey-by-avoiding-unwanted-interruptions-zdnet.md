@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-10-22T18:17:07.378Z
-updated: 2024-10-27T18:19:42.426Z
+date: 2024-10-29T01:13:21.759Z
+updated: 2024-11-02T13:34:25.335Z
 tags:
   - apple
 categories:
@@ -28,16 +28,16 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -48,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,13 +61,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,6 +78,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,18 +148,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-free-editing-software-rankings/"><u>[New] 2024 Approved Essential Free Editing Software Rankings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-boosting-productivity-how-to-capture-your-online-meeting-experience/"><u>[New] In 2024, Boosting Productivity How to Capture Your Online Meeting Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-instagram-imagery-with-striking-borders/"><u>[Updated] Elevate Your Instagram Imagery with Striking Borders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/breaking-down-cellular-networks-what-exactly-is-a-phone-carrier/"><u>Breaking Down Cellular Networks: What Exactly Is a Phone Carrier?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/buying-guide-how-to-find-the-best-television-model-for-optimal-viewing-comfort-at-home/"><u>Buying Guide: How to Find the Best Television Model for Optimal Viewing Comfort at Home</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-linksys-default-passwords-update-july-2024-edition/"><u>Comprehensive Guide: Linksys Default Passwords Update - July 2024 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-restoring-windows-10-search-capability-get-started-now/"><u>Expert Tips for Restoring Windows 10 Search Capability – Get Started Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-magic-v2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor Magic V2 Data? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-macbook-heat-top-tips-for-monitoring-your-laptops-temperature/"><u>Mastering MacBook Heat: Top Tips for Monitoring Your Laptop's Temperature</u></a></li>
-<li><a href="https://article-helps.techidaily.com/reducing-camera-movement-in-post-processing-necessary-in-2024/"><u>Reducing Camera Movement in Post-Processing Necessary, In 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-power-play-facebook-reels-and-the-tiktok-dilemran/"><u>The Power Play: Facebook, Reels, and the TikTok Dilemran</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-dslr-streaming-on-personal-devices-for-2024/"><u>The Ultimate Guide DSLR Streaming on Personal Devices for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unreposting-correcting-auto-repost-mistakes-on-tiktok-made-simple/"><u>Unreposting: Correcting Auto-Repost Mistakes on TikTok Made Simple</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-overcoming-full-screen-issues-in-obs/"><u>[Updated] In 2024, Overcoming Full Screen Issues in Obs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-actual-ram-velocity-a-guide-for-windows-11-users/"><u>Discovering Your Actual RAM Velocity: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-epson-printer-setup-instructions-a-comprehensive-walkthrough/"><u>DIY Epson Printer Setup Instructions - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-netgear-wireless-network-adapter-drivers/"><u>Download & Update: Latest NETGEAR Wireless Network Adapter Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-modding-guide-for-fallout-4-gameplay-enhancements-on-your-computer-windows-or-mac/"><u>Easy Modding Guide for Fallout 4 Gameplay Enhancements on Your Computer (Windows or Mac)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fast-track-to-faster-boot-times-in-windows-11-a-comprehensive-guide/"><u>Fast Track to Faster Boot Times in Windows 11 – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-a-frozen-windows-update-easily-get-your-system-updating-again/"><u>Fixing a Frozen Windows Update Easily – Get Your System Updating Again!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infuse-humor-in-content-simple-text-meme-creation-for-2024/"><u>Infuse Humor in Content Simple Text Meme Creation for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-audio-issues-on-your-laptop-a-comprehensive-guide-restored/"><u>Solve Audio Issues on Your Laptop: A Comprehensive Guide [Restored]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-infinix-smart-8-plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Smart 8 Plus Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

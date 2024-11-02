@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-10-23T18:42:42.217Z
-updated: 2024-10-27T19:25:41.203Z
+date: 2024-11-01T11:51:42.473Z
+updated: 2024-11-02T06:47:48.299Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -70,10 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -81,6 +81,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -92,25 +99,11 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -119,6 +112,13 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -162,18 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-step-by-step-instructions-for-finding-recent-facebook-views/"><u>[Updated] In 2024, Step-by-Step Instructions for Finding Recent Facebook Views</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fb-live-tv-broadcast-4-innovative-methods/"><u>2024 Approved FB Live TV Broadcast 4 Innovative Methods</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-driven-data-collection-enhance-your-websites-analytics/"><u>Cookiebot-Driven Data Collection: Enhance Your Website's Analytics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dealing-with-youtube-outages-what-you-need-to-know/"><u>Dealing with YouTube Outages: What You Need to Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-top-8-advanced-email-solutions-better-than-gmail-in-the-new-year-of-2024/"><u>Discover the Top 8 Advanced Email Solutions Better Than Gmail in the New Year of 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-fix-fresh-installation-of-intel-optane-driver-for-enhanced-windows-performance/"><u>Easy Fix: Fresh Installation of Intel Optane Driver for Enhanced Windows Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-correcting-xlivedll-missing-errors-in-windows-systems/"><u>Effective Strategies for Correcting Xlive.dll Missing Errors in Windows Systems ⌨️</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-detection-and-access-for-unresponsive-wd-my-passport-ultra-in-windows-systems/"><u>How to Enable Detection and Access for Unresponsive WD My Passport Ultra in Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-x-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 15 Plus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-roadmap-to-getting-your-account-verified-on-the-rebranded-network-of-x-previously-twitter/"><u>The Roadmap to Getting Your Account Verified on the Rebranded Network of X (Previously Twitter)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/twitch-deletion-procedures-a-comprehensive-tutorial/"><u>Twitch Deletion Procedures: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-streamlining-your-social-space-stop-following-steps/"><u>[Updated] 2024 Approved Streamlining Your Social Space Stop Following Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[Updated] Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accessing-your-linksys-router-fresh-passwords-and-usernames-july-2024-insights/"><u>Accessing Your Linksys Router: Fresh Passwords and Usernames, July 2024 Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aol-mail-not-working-understanding-if-its-a-global-outage-or-personal-problem/"><u>AOL Mail Not Working - Understanding if It’s a Global Outage or Personal Problem</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-v27-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo V27 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-hot-30-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Hot 30 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-functionality-of-a-smartwatch-an-in-depth-examination/"><u>Navigating the Functionality of a Smartwatch: An In-Depth Examination</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sony-virtual-reality-headset-unveiling-the-release-date-speculated-costs-detailed-specifications-and-latest-buzz/"><u>Sony Virtual Reality Headset: Unveiling the Release Date, Speculated Costs, Detailed Specifications, and Latest Buzz</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-best-free-mobile-apps-for-global-voice-calls/"><u>Top 5 Best Free Mobile Apps for Global Voice Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-7-shooter-games-you-must-play-today/"><u>Top 7 Shooter Games You Must Play Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-inpage-kernel-failures/"><u>Troubleshooting and Repairing InPage Kernel Failures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-msvcr71dll-file-not-found-issue-for-windows-users/"><u>Troubleshooting the Msvcr71.dll File Not Found Issue for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-premium-samsung-smart-tv-apps-of-the-year/"><u>Ultimate Guide to Premium Samsung Smart TV Apps of the Year</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/zero-cost-film-aids-eco-edition-for-2024/"><u>Zero-Cost Film Aids Eco Edition for 2024</u></a></li>
 </ul></div>
 

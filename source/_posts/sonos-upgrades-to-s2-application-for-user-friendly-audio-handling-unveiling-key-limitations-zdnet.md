@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-10-22T18:15:10.951Z
-updated: 2024-10-27T16:59:58.187Z
+date: 2024-10-29T12:12:10.194Z
+updated: 2024-11-02T03:31:13.611Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,16 +76,16 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -107,10 +107,10 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -128,10 +128,10 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -172,24 +172,22 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/asters-designing-virtual-marvel-realms-for-2024/"><u>[New] Masters Designing Virtual Marvel Realms for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-10-best-free-passport-photo-maker-online-and-desktop/"><u>[Updated] In 2024, 10 Best Free Passport Photo Maker Online and Desktop</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-x-professional-audio-toolkit-personal-computing/"><u>[Updated] In 2024, X-Professional Audio Toolkit, Personal Computing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tales-of-trial-by-fire-vs-innovative-challenges-for-2024/"><u>[Updated] Tales of Trial by Fire Vs. Innovative Challenges for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c51-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-unwanted-amber-alerts-tips-for-android-users/"><u>Avoid Unwanted AMBER Alerts: Tips for Android Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/common-fixes-for-android-messaging-problems-and-no-text-reception/"><u>Common Fixes for Android Messaging Problems and No Text Reception</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-revival-on-mac-platform-a-comprehensive-guide-to-top-8-applications/"><u>Data Revival on Mac Platform - A Comprehensive Guide to Top 8 Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dealing-with-security-alerts-how-to-correct-can-not-be-opened-due-to-unverified-developer-on-mac-computers/"><u>Dealing with Security Alerts: How to Correct 'Can Not Be Opened Due to Unverified Developer' On Mac Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-errors-related-to-absence-of-msvcr1-groovydll-file/"><u>Fixing Errors Related to Absence of MSVCR1 groovy.dll File</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-phantom-v-fold-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Phantom V Fold Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-find-x7-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X7 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stabilize-your-obs-stream-fixing-crashes-on-windows-11-and-10/"><u>How to Stabilize Your OBS Stream: Fixing Crashes on Windows 11 and 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-it-possible-to-pair-airpods-with-a-nintendo-switch-device/"><u>Is It Possible To Pair AirPods With A Nintendo Switch Device?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-for-common-issues-how-to-perform-a-smooth-startup-on-your-macbook-pro/"><u>Quick Fixes for Common Issues: How To Perform a Smooth Startup on Your MacBook Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-iphone-email-issues-a-comprehensive-guide-for-users/"><u>Solving iPhone Email Issues: A Comprehensive Guide for Users</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-z50-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Z50 Ultra ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-guide-to-adding-an-extra-address-to-your-gmail-account/"><u>The Beginner's Guide to Adding an Extra Address to Your Gmail Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-apple-devices-hidden-app-features/"><u>Unlocking Your Apple Device's Hidden App Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-enhancing-cinematics-with-kinemasters-transition-magic/"><u>[New] 2024 Approved Enhancing Cinematics with Kinemaster's Transition Magic</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-knowledge-zooming-into-clustered-rooms/"><u>[New] In 2024, Essential Knowledge Zooming Into Clustered Rooms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-youtube-thumbnail-sizes/"><u>[New] The Ultimate Guide to YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-tips-for-naming-your-podcast-right-plus-inspiring-title-ideas-countdown/"><u>[New] Top-Tier Tips for Naming Your Podcast Right + Inspiring Title Ideas Countdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-gemini-vs-chatgpt-plus-showdown-determining-the-best-conversational-ai/"><u>Advanced Gemini Vs. ChatGPT Plus Showdown: Determining the Best Conversational AI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/assessing-inshot-a-thorough-comparative-study-for-2024/"><u>Assessing InShot A Thorough Comparative Study for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-your-systems-memory-fast-and-simple-ways-to-check-ram-on-windows-machines/"><u>Discover Your System's Memory: Fast and Simple Ways to Check RAM on Windows Machines</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-connection-tips-how-to-pair-a-bluetooth-keyboard-successfully/"><u>Easy Connection Tips: How To Pair A Bluetooth Keyboard Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-checking-your-nvidia-drivers-a-step-by-score/"><u>Easy Methods for Checking Your NVIDIA Drivers – A Step-by-Score</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-capturing-screen-images-in-windows-11/"><u>Easy Steps for Capturing Screen Images in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-completely-delete-programs-from-windows-10/"><u>Easy Steps to Completely Delete Programs From Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enduring-endless-wait-times-for-windows-10-updates-heres-how-to-fix-it/"><u>Enduring Endless Wait Times for Windows 10 Updates? Here's How to Fix It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhanced-skyrim-experience-unleash-the-ultimate-fps-boost-in-the-special-edition/"><u>Enhanced Skyrim Experience: Unleash the Ultimate FPS Boost in the Special Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-guide-fixing-the-logitech-c922-webcam-for-seamless-video-capture/"><u>Expert Guide: Fixing the Logitech C922 Webcam for Seamless Video Capture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-your-bargain-priced-85-inch-tcl-smart-tv-before-its-gone-just-900-during-the-holiday-weekend-exclusive-deals-at-zdnet/"><u>Grab Your Bargain-Priced 85-Inch TCL Smart TV Before It's Gone! Just $900 During the Holiday Weekend - Exclusive Deals at ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-reach-and-recognition-viewership-metrics-for-insta-photos/"><u>In 2024, Reach and Recognition Viewership Metrics for Insta Photos</u></a></li>
 </ul></div>
 
