@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-10-29T18:49:13.178Z
-updated: 2024-11-02T09:09:53.541Z
+date: 2024-11-02T01:49:59.754Z
+updated: 2024-11-08T06:17:04.824Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -58,13 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,19 +166,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-mac-productivity-a-comprehensive-guide-to-configuring-and-benefiting-from-hot-corners-in-macos/"><u>1. Maximize Your Mac Productivity: A Comprehensive Guide to Configuring & Benefiting From Hot Corners in macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-the-libxml2dll-file-missing-errors/"><u>Effective Solutions to the libxml2.dll File Missing Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-samsung-galaxy-a25-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy A25 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/must-visit-websites-for-obtaining-desired-youtube-ringtones-for-2024/"><u>Must-Visit Websites for Obtaining Desired YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-icmp-protocol-mastering-website-pings-for-optimal-performance/"><u>Navigating ICMP Protocol: Mastering Website Pings for Optimal Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-wireless-networking-demystifying-the-evolution-of-ieee-80211nbgstandard-to-80211ax-advancements/"><u>Navigating Through Wireless Networking: Demystifying the Evolution of IEEE 802.11nB/gStandard to 802.11Ax Advancements</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-edit-videos-like-a-pro-microsoft-video-editor-for-windows-10-8-and-7-for-2024/"><u>New Edit Videos Like a Pro Microsoft Video Editor for Windows 10, 8, and 7 for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/resize-or-crop-your-pdf-with-these-paid-and-no-cost-solutions-say-goodbye-to-adobe-dependency/"><u>Resize or Crop Your PDF with These Paid & No-Cost Solutions - Say Goodbye to Adobe Dependency</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-for-efficient-ipad-screen-recordings/"><u>Step-by-Step for Efficient iPad Screen Recordings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-phase0exception-error-stop-code-0x00000078/"><u>Ultimate Guide: Resolving the PHASE0_EXCEPTION Error (STOP Code 0X00000078)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-why-your-automobiles-power-source-may-keep-depleting-a-closer-look-at-6-common-factors/"><u>Understanding Why Your Automobile's Power Source May Keep Depleting: A Closer Look at 6 Common Factors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-past-strategies-for-tracking-down-erased-contact-information-on-android-devices/"><u>Unveiling the Past: Strategies for Tracking Down Erased Contact Information on Android Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-you-should-consider-ditching-gas-for-electric-vehicles-today/"><u>Why You Should Consider Ditching Gas for Electric Vehicles Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-cameras-for-pixel-perfect-stop-motion/"><u>[New] 2024 Approved Elite Cameras for Pixel-Perfect Stop Motion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-music-infused-content-sharing-strategies-for-facebook/"><u>[New] 2024 Approved Music-Infused Content Sharing Strategies for Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-seamless-integration-offline-watching-of-youtube-via-ios/"><u>[Updated] In 2024, Seamless Integration Offline Watching of YouTube via iOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-intro-excellence-app-your-device-friendly-solution/"><u>[Updated] Intro Excellence App Your Device-Friendly Solution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>[Updated] The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>2024 Approved Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/complete-guide-securing-your-files-with-windows-10s-backup-features/"><u>Complete Guide: Securing Your Files with Windows 10'S Backup Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-mov-a-mp4-sur-les-systemes-mac-et-windows-1110-convertissez-directement-en-ligne/"><u>Conversion Gratuite De Fichiers MOV À MP4 Sur Les Systèmes Mac Et Windows 11/10 - Convertissez Directement en Ligne</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cprmdvd-vr/"><u>CPRMを解除してDVD-VRを利用可能に!: 複数デバイスで再生するための変換法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-and-update-guide-windows-11-mobile-as-a-microsoft-insider-user/"><u>Download & Update Guide: Windows 11 Mobile as a Microsoft Insider User</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289097119-dvd/"><u>DVDリッピング・コピー・再生できないエラー - 基本から上級まで 修正手順</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-screen-webcam-and-audio-capturing-with-winxvideo-ai-technology/"><u>Effortless Screen, Webcam, and Audio Capturing with Winxvideo AI Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fastest-authorized-winx-dvd-ripper-pro-convert-dvds-to-hdmp4-quickly-with-h23-hevc-codecs/"><u>Fastest [AUTHORIZED] WinX DVD Ripper Pro: Convert DVDs to HDMP4 Quickly with H.2^3 / HEVC Codecs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-find-electric-vehicle-chargers-in-your-area-with-google-maps-a-comprehensive-guide/"><u>How to Find Electric Vehicle Chargers in Your Area with Google Maps: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/les-meilleurs-lecteurs-de-videos-mkv-pour-windowsmac-en-2020-comparaisons-des-fonctionnalites-et-recommandations-de-logiciels-gratuits-a-lessai/"><u>Les Meilleurs Lecteurs De Vidéos MKV Pour Windows/Mac en 2020: Comparaisons Des Fonctionnalités Et Recommandations De Logiciels Gratuits À L'essai</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimal-video-quality-with-handbrake-comparing-h2e64-and-mpeg-4-dvd-to-file-convertors/"><u>Optimal Video Quality with HandBrake: Comparing H.2e64 and MPEG-4 DVD to File Convertors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/snagit-screen-recorder-review-and-alternatives-for-2024/"><u>Snagit Screen Recorder Review and Alternatives for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-dvd-ripper-video-converter-top-seo-tech-guide-for-media-transformation-solutions/"><u>WinX DVD Ripper - Video Converter: Top SEO Tech Guide for Media Transformation Solutions</u></a></li>
 </ul></div>
 

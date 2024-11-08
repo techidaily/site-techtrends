@@ -1,7 +1,7 @@
 ---
 title: Best 12 No-Cost Typing Tutorials Suitable for Any Age
-date: 2024-09-11T17:39:05.879Z
-updated: 2024-09-12T17:39:05.879Z
+date: 2024-11-01T09:15:20.163Z
+updated: 2024-11-08T03:58:55.907Z
 categories:
   - BestProducts
 description: This Article Describes Best 12 No-Cost Typing Tutorials Suitable for Any Age
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/DJpX03Q4FDZYSDfA5XS0Kb2dw9w=/400x300/fi
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Type a Heart on a Windows Keyboard
 
  The heart symbol ❤️ is a commonly used emoji character, but most keyboards don’t have a designated key. Fortunately, you_can_ [type emoji from your keyboard on Windows and Macs](https://www.lifewire.com/how-to-type-emojis-4685680) if you know the right keyboard shortcuts.
@@ -41,23 +34,16 @@ These instructions apply to PCs running Windows 10 and up.
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Type a Heart on a Mac Keyboard
@@ -74,20 +60,20 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the heart you'd like to type and it will appear in the text box.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
@@ -111,36 +97,24 @@ These instructions apply to PCs running Windows 10 and up.
 4. Click the**NumLock button** to bring up the number pad.  
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
@@ -184,5 +158,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-mp4-to-fb-migration-tool-for-2024/"><u>[New] Expert MP4 To-FB Migration Tool for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-direct-data-delivery-master-5-techniques-for-uploading-files/"><u>[Updated] 2024 Approved Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-achieve-high-quality-recordings-with-these-5-windows-11-tips-for-2024/"><u>[Updated] Achieve High-Quality Recordings with These 5 Windows 11 Tips for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/apple-m1-pro-vs-m1-max-whats-the-difference-in-2024/"><u>Apple M1 Pro Vs. M1 Max What's the Difference, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-troublesome-code-0x80lete-80070570-quick-fixes-and-tips/"><u>Bypassing Troublesome Code 0X80lete 80070570: Quick Fixes & Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-your-love-of-language-our-pick-of-the-9-greatest-gratis-linguistic-sites/"><u>Discover Your Love of Language: Our Pick of the 9 Greatest Gratis Linguistic Sites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-rid-of-pin-based-login-from-windows-11-detailed-steps-inside/"><u>How to Get Rid of Pin-Based Login From Windows 11 - Detailed Steps Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heaviest-heroes-in-the-air-drone-power-list/"><u>In 2024, Heaviest Heroes in the Air Drone Power List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-why-google-chrome-fails-to-open-and-how-to-repair-it/"><u>Solution Guide: Why Google Chrome Fails to Open and How to Repair It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/watching-hulu-made-easy-a-step-by-step-tutorial-for-lg-smart-tv-owners/"><u>Watching Hulu Made Easy - A Step-by-Step Tutorial for LG Smart TV Owners</u></a></li>
+</ul></div>
 

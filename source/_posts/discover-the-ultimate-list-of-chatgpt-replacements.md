@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of ChatGPT Replacements
-date: 2024-09-17T03:54:21.771Z
-updated: 2024-09-18T00:35:48.522Z
+date: 2024-11-02T22:36:05.341Z
+updated: 2024-11-07T19:13:17.749Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Ultimate List of ChatGPT Replacements
@@ -41,19 +41,19 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -81,10 +81,10 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -98,10 +98,16 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
@@ -125,6 +131,13 @@ thumbnail: https://www.lifewire.com/thmb/CPU20qf_UGmD-3MAVY9KfjfbHyU=/540x405/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -161,5 +174,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-your-reality-best-of-samsung-gear-vr-titles/"><u>[Updated] In 2024, Elevate Your Reality Best of Samsung Gear VR Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-immersive-video-experiences-using-captivate/"><u>2024 Approved Crafting Immersive Video Experiences Using Captivate</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-video-sharing-showdown-deciding-between-vimeo-youtube-and-dailymotion/"><u>2024 Approved Video Sharing Showdown Deciding Between Vimeo, YouTube & DailyMotion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-integrates-openais-chatgpt-into-ios-ipados-and-macos-a-new-era-of-conversational-interfaces-zdnet/"><u>Apple Integrates OpenAI's ChatGPT Into iOS, iPadOS & MacOS: A New Era of Conversational Interfaces - ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/effortless-conversion-of-srt-to-subtitles-subc-for-2024/"><u>Effortless Conversion of SRT to Subtitles (SUBC) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-these-10-free-alternatives-to-netflixs-entertainment-library/"><u>Explore These 10 Free Alternatives to Netflix's Entertainment Library</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-zero-to-hero-on-twitter-live/"><u>From Zero to Hero on Twitter Live</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-zero-30-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-maximizing-clicks-ultimate-youtube-banner-guidebook/"><u>In 2024, Maximizing Clicks Ultimate YouTube Banner Guidebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-terminate-your-paramountplus-membership/"><u>Steps to Terminate Your Paramount+ Membership</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-testing-your-hard-drives-for-free-updated-july-2024/"><u>The Essential Guide to Testing Your Hard Drives for Free (Updated July 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-enjoying-live-activities-on-your-ios-16-device/"><u>The Ultimate Tutorial for Enjoying Live Activities on Your iOS 16 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tips-for-successfully-interacting-with-trustedinstaller-on-your-windows-11-system/"><u>Tips for Successfully Interacting with TrustedInstaller on Your Windows 11 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-msvcp60dll-is-absent-error-appears/"><u>Troubleshooting Tips for When msvcp60.dll Is Absent Error Appears</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-top-causes-of-recurrently-drained-car-batteries/"><u>Understanding the Top Causes of Recurrently Drained Car Batteries</u></a></li>
+</ul></div>
 

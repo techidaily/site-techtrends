@@ -1,7 +1,7 @@
 ---
 title: "Google's New Phone Announcement: Projections for Price, Scheduled Debut, Specifications, and Additional Rumors"
-date: 2024-09-11T17:37:47.784Z
-updated: 2024-09-12T17:37:47.784Z
+date: 2024-11-03T03:31:27.500Z
+updated: 2024-11-08T06:57:03.168Z
 categories:
   - BestProducts
 description: "This Article Describes Google's New Phone Announcement: Projections for Price, Scheduled Debut, Specifications, and Additional Rumors"
@@ -27,20 +27,27 @@ thumbnail: https://thmb.techidaily.com/376af438f950837c2d73b8b405a038336106e727f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Will the Google Pixel 9 Be Released?
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Price Rumors
 
@@ -53,25 +60,11 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -85,19 +78,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display
 
@@ -119,13 +99,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
@@ -133,10 +106,10 @@ MySmartPrice
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Battery
@@ -144,6 +117,13 @@ MySmartPrice
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -174,5 +154,24 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/months-hottest-bargains-on-the-latest-apple-smartwatches/"><u>[Month]'s Hottest Bargains on the Latest Apple Smartwatches</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-improve-office-productivity-with-speech-to-text-conversion-in-microsoft-word/"><u>[New] 2024 Approved Improve Office Productivity with Speech to Text Conversion in Microsoft Word</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expert-tips-to-dominate-kinemaster-and-identify-top-online-video-services-for-2024/"><u>[Updated] Expert Tips to Dominate KineMaster & Identify Top Online Video Services for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-yearly-revelation-of-cost-effective-editing-apps/"><u>2024 Approved The Yearly Revelation of Cost-Effective Editing Apps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/3-techniques-to-retrieve-and-save-youtubes-iconic-images-for-2024/"><u>3 Techniques to Retrieve & Save YouTube's Iconic Images for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-common-headset-problems-in-the-xbox-series-xs-console-setup/"><u>Diagnosing and Repairing Common Headset Problems in the Xbox Series X/S Console Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-champions-the-best-of-self-driving-car-manufacturing/"><u>Discover the Champions: The Best of Self-Driving Car Manufacturing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-setting-up-your-apple-homepod-as-a-component-of-your-tv-audio-experience/"><u>How To: Setting up Your Apple HomePod as a Component of Your TV Audio Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-interactive-webinar-writer-for-2024/"><u>Innovative Interactive Webinar Writer for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-updated-amd-radeon-gpu-software-v2410-for-optimal-performance/"><u>Installing Updated AMD Radeon GPU Software v24.10 for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-best-notetaking-tools-for-professionals-and-students-2024-edition/"><u>Navigating Through the Best Notetaking Tools for Professionals and Students - 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sharing-playlists-how-many-people-can-use-spotify-together/"><u>Sharing Playlists: How Many People Can Use Spotify Together?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-resolving-a-black-screen-problem-on-your-dell-notebook/"><u>The Ultimate Guide to Resolving a Black Screen Problem on Your Dell Notebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-addressing-and-repairing-msvcr1errors-on-your-pc/"><u>Troubleshooting Tips: Addressing and Repairing MSVCR1#ERRORS on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-activating-your-new-echo-dots-setup-mode/"><u>Ultimate Guide: Activating Your New Echo Dot's Setup Mode</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-xiaomi-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi ?</u></a></li>
+</ul></div>
 

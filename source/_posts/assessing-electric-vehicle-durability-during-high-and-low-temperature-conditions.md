@@ -1,7 +1,7 @@
 ---
 title: Assessing Electric Vehicle Durability During High and Low-Temperature Conditions
-date: 2024-09-11T17:35:40.042Z
-updated: 2024-09-12T17:35:40.042Z
+date: 2024-10-31T21:17:08.594Z
+updated: 2024-11-07T22:11:30.314Z
 categories:
   - BestProducts
 description: This Article Describes Assessing Electric Vehicle Durability During High and Low-Temperature Conditions
@@ -27,23 +27,9 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Temperature Generally Affects Electric Car Batteries
 
 ![An overhead view of an EV's lithium ion battery.](https://www.lifewire.com/thmb/PCIEIMaVKLmsy8FYcB1gH5PmQks=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/LithiumionbatteryofanEV_Westend61_Getty-de12313f778243f1ae701060be61c5a3.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Westend61/Getty
 
@@ -65,13 +51,6 @@ Westend61/Getty
 
 [  How Long to Expect Your EV Battery to Last (and How to Extend Its Life) ](https://www.lifewire.com/how-long-will-ev-battery-last-5201587) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Temperature Specifically Affects EV Range
 
  Temperature issues don’t just affect the battery itself. It can also impact an EV’s overall range. 
@@ -92,10 +71,10 @@ Westend61/Getty
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PHOTO:
@@ -107,10 +86,16 @@ Bailey Mariner
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Heat Pumps vs. Resistive Heaters in EVs
@@ -126,10 +111,10 @@ Bailey Mariner
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9 Ways to Manage Range in Extreme Weather Conditions
@@ -137,6 +122,13 @@ Bailey Mariner
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
 
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Kameleon007/Getty
 
@@ -165,5 +157,26 @@ Kameleon007/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-explore-the-hd-landscape-youtube-twitters-and-more/"><u>[New] 2024 Approved Explore the HD Landscape YouTube, Twitters, and More</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quick-guide-to-sharing-your-favorite-gifs-on-instagram-for-2024/"><u>[New] Quick Guide to Sharing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-innovative-ways-to-decrease-audio-levels/"><u>[Updated] Innovative Ways to Decrease Audio Levels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-images-basic-tips-with-lunapic/"><u>2024 Approved Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-mac-systems-evolving-enough-to-challenge-pc-dominance-in-the-gamer-arena/"><u>Are Mac Systems Evolving Enough to Challenge PC Dominance in the Gamer Arena?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-alternatives-to-windows-top-linux-distributions-comparison/"><u>Best Alternatives to Windows: Top Linux Distributions Comparison</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bon-voyage-to-microsofts-virtual-realm-the-end-of-windows-mixed-reality/"><u>Bon Voyage to Microsoft's Virtual Realm: The End of Windows Mixed Reality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-pc-experience-crossover-24-offers-windows-application-support-for-maclinux-at-a-bargain/"><u>Boost Your PC Experience: CrossOver 24 Offers Windows Application Support for Mac/Linux at a Bargain!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-pc-resilience-and-security-with-backup-bootable-linux-drives/"><u>Boosting PC Resilience and Security with Backup Bootable Linux Drives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/budget-friendly-powerhouse-the-comprehensive-guide-to-the-lenovo-legion-5i-ila92-gaming-laptop-review/"><u>Budget-Friendly Powerhouse: The Comprehensive Guide to the Lenovo Legion 5I (ILA92) Gaming Laptop Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-platform-dreams-dashed-no-mac-operating-system-for-ipads-ahead/"><u>Cross-Platform Dreams Dashed: No Mac Operating System for iPads Ahead</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discounted-crossover-24-enhances-compatibility-of-windows-applications-on-mac-and-linux-systems/"><u>Discounted Crossover 24 Enhances Compatibility of Windows Applications on Mac and Linux Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-fedora-40s-latest-enhancements-the-most-recent-advancements-in-this-popular-linux-distribution/"><u>Discover Fedora 40'S Latest Enhancements: The Most Recent Advancements in This Popular Linux Distribution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g84-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-play-7t-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Play 7T Phones? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-speed-kings-and-queens-of-2022/"><u>In 2024, Speed Kings and Queens of 2022</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-solving-ipad-cannot-connect-to-printer/"><u>Troubleshooting Guide: Solving 'iPad Cannot Connect To Printer'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/voice-to-text-review/"><u>Voice to Text Review</u></a></li>
+</ul></div>
 

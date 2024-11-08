@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-10-26T02:43:55.894Z
-updated: 2024-11-02T11:40:31.377Z
+date: 2024-10-31T17:19:41.603Z
+updated: 2024-11-08T00:07:15.098Z
 tags:
   - apple
 categories:
@@ -69,29 +69,26 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11/"><u>[New] 2024 Approved Advanced Movie Editing Saving and Enhancing MOV Files in Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-sphere-of-imaging-who-takes-the-crown/"><u>[New] 2024 Approved Sphere of Imaging Who Takes the Crown?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[New] How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] 2024 Approved Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-distinctions-how-does-ipad-mini-stack-up-against-ipad-air/"><u>Decoding the Distinctions: How Does iPad Mini Stack Up Against iPad Air?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-strategies-safeguarding-your-information-through-effective-backups/"><u>Essential Strategies: Safeguarding Your Information Through Effective Backups</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-wallpaper-engine-freezing-issues-in-windows-11-and-10/"><u>Fixes for Wallpaper Engine Freezing Issues in Windows 11 & 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-ac1st16dll-error-on-your-computer/"><u>Fixing the ac1st16.dll Error on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-perfectly-blend-music-with-your-video-posts-on-insta/"><u>How To Perfectly Blend Music With Your Video Posts on Insta</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-p40plus-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel P40+ Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/identify-anything-anywhere-8-key-search-engines-for-personal-locator-services/"><u>Identify Anything, Anywhere: 8 Key Search Engines for Personal Locator Services</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-essential-virtual-reality-cinema-experiences/"><u>In 2024, Essential Virtual Reality Cinema Experiences</u></a></li>
-<li><a href="https://techtrends.techidaily.com/integrating-apple-homepod-sound-into-your-hdtv-viewing-experience/"><u>Integrating Apple HomePod Sound Into Your HDTV Viewing Experience</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-5-kid-friendly-song-downloading-sites-build-an-engaging-music-collection-for-your-little-ones/"><u>Top 5 Kid-Friendly Song Downloading Sites: Build an Engaging Music Collection for Your Little Ones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-solving-ocidll-is-absent-in-your-computer-system/"><u>Understanding and Solving 'oci.dll Is Absent' In Your Computer System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-best-8-platforms-for-tracking-down-persons-of-interest/"><u>Unveiling the Best 8 Platforms for Tracking Down Persons of Interest</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-investigating-the-pinnacle-of-sound-design-software-assessing-the-merits-of-magix-samplitude/"><u>Updated 2024 Approved Investigating the Pinnacle of Sound Design Software Assessing the Merits of MAGIX Samplitude</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos/"><u>[New] In 2024, Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-15-video-downloader-add-ons-facebook-and-firefox-compatible/"><u>[Updated] In 2024, Top 15 Video Downloader Add-Ons Facebook & FireFox Compatible</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-innovation-unleashed-cutting-edge-ar-games-for-2024/"><u>[Updated] Innovation Unleashed Cutting-Edge AR Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/access-the-unreleased-best-in-class-5gb-console-emulators-for-windows-pcs/"><u>Access the Unreleased Best-in-Class 5GB Console Emulators for Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/achieve-perfect-print-quality-how-to-stop-layer-distortion-on-3d-devices/"><u>Achieve Perfect Print Quality: How to Stop Layer Distortion on 3D Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-firmware-hp-laserjet-pro-1007-printer-software-upgrade/"><u>Download the Latest Firmware: HP LaserJet Pro 1007 Printer Software Upgrade</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-engagement-insights-tracking-who-has-shared-your-content-online/"><u>Facebook Engagement Insights: Tracking Who Has Shared Your Content Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fresh-start-a-lenovo-laptop-the-definitive-factory-reset-guide/"><u>How To Fresh-Start a Lenovo Laptop: The Definitive Factory Reset Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>In 2024, The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://win-webster.techidaily.com/navigating-system-preparation-with-sysprep-a-comprehensive-tutorial-for-windows-1011-users/"><u>Navigating System Preparation with Sysprep: A Comprehensive Tutorial for Windows 10/11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-natural-language-processing-with-chatgpt/"><u>Navigating the World of Natural Language Processing with ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-system-with-the-best-15-windows-11-aesthetic-makeovers-free/"><u>Revamp Your System with the Best 15 Windows 11 Aesthetic Makeovers (Free)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-boosting-your-iphones-call-audio-level/"><u>Solving the Mystery: Boosting Your iPhone's Call Audio Level</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722870959454-top-rated-ipad-offers-exclusive-savings-today/"><u>Top-Rated iPad Offers - Exclusive Savings Today</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

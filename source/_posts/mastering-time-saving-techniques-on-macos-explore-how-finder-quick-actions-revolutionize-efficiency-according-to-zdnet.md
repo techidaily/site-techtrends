@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-10-29T12:47:54.969Z
-updated: 2024-11-02T00:01:57.297Z
+date: 2024-11-03T02:04:33.593Z
+updated: 2024-11-08T10:00:51.637Z
 tags:
   - apple
 categories:
@@ -54,19 +54,6 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
@@ -113,13 +100,6 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -131,6 +111,13 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -148,10 +135,10 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -176,6 +163,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -189,13 +183,6 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -237,10 +224,10 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -248,6 +235,13 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -292,22 +286,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-integrating-zoom-and-fb-live-effortlessly/"><u>[New] 2024 Approved Integrating ZOOM and FB Live Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-perfecting-live-photo-your-ios-journey/"><u>[New] Perfecting Live Photo Your iOS Journey</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-virtual-reality-awaits-discovering-top-10-pc-headsets-for-360-videos/"><u>[New] Virtual Reality Awaits Discovering Top 10 PC Headsets for 360 Videos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-virtual-performances-on-kuaishou/"><u>2024 Approved Virtual Performances on Kuaishou</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-install-and-execute-android-applications-on-your-windows-10-pc/"><u>Guide: Install and Execute Android Applications on Your Windows 10 PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-does-a-connected-tv-revolutionize-your-viewing-experience/"><u>How Does a Connected TV Revolutionize Your Viewing Experience?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enjoy-fubotv-content-with-an-amazon-firestick-step-by-step-instructions/"><u>How to Enjoy FuboTV Content with an Amazon Firestick - Step-by-Step Instructions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-repair-dll-could-not-be-located-and-similar-windows-problems/"><u>How to Repair DLL Could Not Be Located and Similar Windows Problems</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-resolve-the-win32-app-crash-issue-error-code-0xc000001-on-windows-11/"><u>How to Resolve the Win32 App Crash Issue - Error Code 0xC000001 on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macbook-pro-reboot-tactics-effortless-steps-unveiled/"><u>MacBook Pro Reboot Tactics: Effortless Steps Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/perfecting-your-setup-with-the-asus-rog-swift-oled-pg32ucdp-an-authoritative-review/"><u>Perfecting Your Setup with The Asus ROG Swift OLED PG32UCDP - An Authoritative Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-repair-unresponsive-apps-on-your-mac-computer/"><u>Step-by-Step Guide to Repair Unresponsive Apps on Your Mac Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-future-of-smart-rings-dive-into-latest-rumors-on-price-release-date-and-specs-for-apples-next-innovation/"><u>The Future of Smart Rings? Dive Into Latest Rumors on Price, Release Date, and Specs for Apple's Next Innovation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y100t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y100t for Streaming | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-solutions-for-a-blackout-on-android-phones-expert-fixes/"><u>Unlocking Solutions for a Blackout on Android Phones - Expert Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-high-res-gaming-the-best-screen-capture-options-for-2024/"><u>[New] High-Res Gaming The Best Screen Capture Options for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-if-quick-youtube-subscriptions-really-work/"><u>[New] In 2024, Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immediate-picture-and-film-correction-via-3dlut-apps/"><u>2024 Approved Immediate Picture & Film Correction via 3DLUT Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp3aacdvdtop10/"><u>快適な操作でMP3やAACにDVD音声を変換！人気の無料ソフトウェアTOP10リスト</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-expansion-via-youtube-outros-maximizing-visibility/"><u>Channel Expansion via YouTube Outros Maximizing Visibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-between-handbrakes-h264-and-mpeg-4-for-dvd-conversion-which-codec-is-best/"><u>Choosing Between HandBrake's H.264 And MPEG-4 for DVD Conversion: Which Codec Is Best?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-find-out-who-is-observing-your-uploads-on-youtube/"><u>How to Find Out Who Is Observing Your Uploads on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-compatible-high-definition-avchd-mkv-mov-mp4-file-format-conversion-with-winx-hd-video-converter/"><u>Mac Compatible: High-Definition AVCHD, MKV, MOV, MP4 File Format Conversion with WinX HD Video Converter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-compatible-movavi-slideshow-creator-ultimate-presentation-tool/"><u>Mac-Compatible Movavi Slideshow Creator: Ultimate Presentation Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/regles-de-remboursement-des-logiciels-winxdvd-chez-digiarty-guide-complet/"><u>Règles De Remboursement Des Logiciels WinXDVD Chez Digiarty - Guide Complet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/revive-your-aging-pc-with-these-5-free-fixes-times-running-out-in-windows-10-zdnet/"><u>Revive Your Aging PC with These 5 FREE Fixes - Time's Running Out in Windows 10! | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-transforming-video-object-vob-to-mp4-on-pcs-with-windows-11-and-mac-computers/"><u>Step-by-Step Tutorial for Transforming Video Object (VOB) to MP4 on PCs with Windows 11 & Mac Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/triumph-over-troubled-networks-in-terraria-with-these-proven-fixes/"><u>Triumph Over Troubled Networks in Terraria with These Proven Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209981292-9781788174923-your-secret-laws-of-power/"><u>Your Secret Laws of Power | Free Book</u></a></li>
 </ul></div>
 

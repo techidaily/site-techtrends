@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-10-27T02:59:13.451Z
-updated: 2024-11-02T05:33:58.493Z
+date: 2024-11-02T03:07:27.269Z
+updated: 2024-11-07T20:18:23.166Z
 tags:
   - apple
 categories:
@@ -37,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,13 +51,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -65,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -78,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -97,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +134,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-easy-replay-on-iphone-set-videos-cycling/"><u>[New] 2024 Approved Easy Replay on iPhone Set Videos Cycling</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nhancing-video-appeal-20-premium-thumbnail-fonts-for-2024/"><u>[New] Enhancing Video Appeal 20 Premium Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-masterful-transitioning-8-leading-convertors-for-sub-and-srt/"><u>[New] Masterful Transitioning 8 Leading Convertors for Sub and SRT</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/astering-creativity-top-10-yt-reaction-hacks/"><u>[New] Mastering Creativity Top 10 YT Reaction Hacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-onestream-playbook-for-live-streamers/"><u>[Updated] The Ultimate OneStream Playbook for Live Streamers</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/4tb-hddnasnashdd/"><u>効率的な4TB HDDのNASメモリーアップグレード方法：NAS非対応HDDから始めよう</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-productivity-top-shortcut-strategies-for-apple-devices/"><u>Boost Your Productivity: Top Shortcut Strategies for Apple Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-walkthrough-on-how-to-register-with-playstation-network/"><u>Complete Walkthrough on How to Register with PlayStation Network</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-ways-to-refresh-dell-docking-station-driver-software/"><u>Easy Ways to Refresh DELL Docking Station Driver Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-d3dx930dll-is-missing-on-your-pc/"><u>Effective Solutions for When d3dx9_30.dll Is Missing on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-out-when-and-why-your-mailpress-email-might-expire/"><u>Find Out When and Why Your Mail.press Email Might Expire</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Meizu 21 Pro Bootloader Easily</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iphone-users-learn-simple-screen-recording-now/"><u>In 2024, Iphone Users, Learn Simple Screen Recording Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-twitter-discussions-how-to-successfully-contribute/"><u>Mastering the Art of Twitter Discussions: How to Successfully Contribute</u></a></li>
-<li><a href="https://techtrends.techidaily.com/preventing-unintentional-sleep-for-macbooks-a-guide-when-closing-the-lid/"><u>Preventing Unintentional Sleep for MacBooks: A Guide When Closing the Lid</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solution-to-correct-haldll-error-on-your-outdated-windows-xp-system/"><u>Solution to Correct Hal.dll Error on Your Outdated Windows XP System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-msodll-file-missing-issues/"><u>Solutions for Resolving 'Mso.dll File Missing' Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-instagram-a-comprehensive-guide/"><u>Understanding Instagram: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better-in-2024/"><u>YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-unmatched-visuals-the-ultimate-guide-to-video-enhancer-22/"><u>[Updated] Achieve Unmatched Visuals The Ultimate Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/buy-digiarty-software-centers-winx-dvd-video-converter-at-a-special-price/"><u>Buy Digiarty Software Center's WinX DVD Video Converter at a Special Price!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-advantages-of-8k-video-and-high-definition-uhd-televisions/"><u>Exploring the Advantages of 8K Video & High-Definition UHD Televisions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/fun-meets-fear-in-7-days-to-die-a-game-changing-adventure-through-zombie-apocalypse/"><u>Fun Meets Fear in '7 Days to Die': A Game-Changing Adventure Through Zombie Apocalypse</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keeping-secrets-safe-in-custom-gpt-environments/"><u>Keeping Secrets Safe in Custom GPT Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/losungen-fur-haufig-auftretende-probleme-mit-dvds-wenn-sie-nicht-funktionieren/"><u>Lösungen Für Häufig Auftretende Probleme Mit DVDs: Wenn Sie Nicht Funktionieren</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-future-a-look-at-top-long-range-routers-of-2024/"><u>Navigating the Future: A Look at Top Long-Range Routers of 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-integration-of-icloud-notebooks-into-your-linux-system-tutorial/"><u>Seamless Integration of iCloud Notebooks Into Your Linux System | Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-gratis-4k-video-converter-fur-windows-und-mac-os-hochskalierung-von-1080p-zu-4k/"><u>Top 12 Gratis 4K Video-Converter Für Windows Und Mac OS - Hochskalierung Von 1080P Zu 4K</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-free-video-converters-para-windows-10-explicado-su-eficiencia-demostrada/"><u>Top 6 Free Video Converters Para Windows 10 Explicado - Su Eficiencia Demostrada</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vhs-to-dvddigital-transformation-should-you-go-solo-or-outsource/"><u>VHS to DVD/Digital Transformation - Should You Go Solo or Outsource?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-10-30T00:43:01.531Z
-updated: 2024-11-01T20:52:46.125Z
+date: 2024-11-02T07:42:47.040Z
+updated: 2024-11-08T00:59:10.998Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -48,10 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -76,18 +76,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -105,6 +105,13 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -112,13 +119,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -162,20 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-prime-techniques-for-silent-videography-for-2024/"><u>[New] Prime Techniques for Silent Videography for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-correcting-smudged-stream-content-on-facebook-devices-for-2024/"><u>[Updated] Correcting Smudged Stream Content on Facebook Devices for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-step-by-step-guide-to-green-room-editing/"><u>[Updated] In 2024, Instagram's Step-by-Step Guide to Green Room Editing</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-the-key-to-rapid-likes-smart-bio-hacks-that-really-work-on-tinder/"><u>[Updated] In 2024, The Key to Rapid Likes? Smart Bio Hacks that Really Work on Tinder</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-ray-tracing-techniques/"><u>Exploring the World of Ray Tracing Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hardware-glitch-43-cleared-up/"><u>Hardware Glitch 43 Cleared Up</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mac-studios-unique-feature-that-influences-my-decision-over-upgrading-to-a-fall-release-of-the-m4-mac-mini-perspectives/"><u>Mac Studio’s Unique Feature that Influences My Decision over Upgrading to a Fall Release of the M4 Mac Mini Perspectives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steam-game-refund-process-a-step-by-step-guide/"><u>Steam Game Refund Process: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-entertainment-a-step-by-step-tutorial-for-linking-chromecast-remote/"><u>Streamline Entertainment: A Step-by-Step Tutorial for Linking Chromecast Remote</u></a></li>
-<li><a href="https://techtrends.techidaily.com/swift-control-understanding-and-utilizing-androids-quick-settings-menu/"><u>Swift Control: Understanding and Utilizing Android’s Quick Settings Menu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-detailed-breakdown-of-iphone-15-pro-max-and-galaxy-s24-ultra-who-wins/"><u>The Detailed Breakdown of iPhone 15 Pro Max and Galaxy S24 Ultra – Who Wins?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-monthly-savings-on-verizon-phone-upgrades-score-your-new-device-today/"><u>Top Monthly Savings on Verizon Phone Upgrades – Score Your New Device Today!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/vmware-optimierung-steigern-sie-die-geschwindigkeit-ihrer-virtuellen-maschinen-mit-diesen-7-tipps/"><u>VMware Optimierung: Steigern Sie Die Geschwindigkeit Ihrer Virtuellen Maschinen Mit Diesen 7 Tipps!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-iphone-drivers-step-by-step-download-and-installation-guide/"><u>Windows 11 Compatible iPhone Drivers: Step-by-Step Download & Installation Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/x-men-film-series-the-definitive-viewing-order/"><u>X-Men Film Series: The Definitive Viewing Order</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aster-guide-to-finding-cheap-transcript-extractors/"><u>[New] Master Guide to Finding Cheap Transcript Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasp-the-basics-of-sub4sub-success-our-guide-lays-it-out-clearly-for-2024/"><u>[Updated] Grasp the Basics of Sub4sub Success - Our Guide Lays It Out Clearly for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-thriving-through-thoughts-transforming-video-into-cash/"><u>[Updated] In 2024, Thriving Through Thoughts Transforming Video Into Cash</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-learn-to-convert-youtube-videos-on-twitter-downloads/"><u>[Updated] Learn to Convert YouTube Videos on Twitter Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725287836938-winx-dvd-ripper-platinum-dvd/"><u>【公式】無料ダウンロード WinX DVD Ripper Platinum - 最新型 DVD リッピングソフト、現在もアップデート中で特注のコピー機能あり!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289195838-dvd/"><u>新しい方法で合法的なDVDコピー - 不可欠のリッピング解禁情報!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginner-to-professional-ultimate-list-of-top-video-editing-tools-for-enhancing-your-youtube-content/"><u>Beginner-to-Professional: Ultimate List of Top Video Editing Tools for Enhancing Your YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-imgburn-free-software-effortless-conversion-of-copy-protected-dvds-into-iso-files/"><u>Download ImgBurn Free Software: Effortless Conversion of Copy-Protected DVDs Into ISO Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-your-preferred-iphone-manual-detailed-directions-for-all-models/"><u>Download Your Preferred iPhone Manual - Detailed Directions for All Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-guides/"><u>Exploring the Latest Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-completa-alla-supporto-telematico-per-winx-dvd-ripper-and-winxvideo-ai-ottimizza-il-tuo-business-e-commerce/"><u>Guida Completa Alla Supporto Telematico per WinX DVD Ripper & Winxvideo AI: Ottimizza Il Tuo Business E-Commerce</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/integrating-meta-quest-workout-metrics-into-apple-health-step-by-step-instructions/"><u>Integrating Meta Quest Workout Metrics Into Apple Health: Step-by-Step Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-dvd-to-mp3-converter-tools-para-windows-and-mac-guia-completo-2023/"><u>Top Free DVD to MP3 Converter Tools Para Windows & Mac – Guia Completo 2023</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-your-creativity-with-winxvideo-ai-innovative-tutorials-for-expert-video-editing-and-conversion/"><u>Unleash Your Creativity with Winxvideo AI: Innovative Tutorials for Expert Video Editing and Conversion</u></a></li>
 </ul></div>
 

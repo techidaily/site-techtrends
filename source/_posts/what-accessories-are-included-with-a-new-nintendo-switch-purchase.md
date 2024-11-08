@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2024-10-27T19:21:30.953Z
-updated: 2024-11-01T19:30:29.368Z
+date: 2024-11-05T04:38:28.983Z
+updated: 2024-11-08T09:40:49.240Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -41,15 +41,15 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -65,10 +65,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play Together With Your Buddy in 'Pokémon Go'
@@ -83,10 +83,16 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -94,18 +100,18 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -146,24 +152,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-10plus-leading-web-based-screen-capture-tools/"><u>[New] In 2024, 10+ Leading Web-Based Screen Capture Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[Updated] Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-beginners-insight-into-ussd-unstructured-supplementary-service-data-definition-functionality-and-applications/"><u>A Beginner's Insight Into USSD (Unstructured Supplementary Service Data): Definition, Functionality, and Applications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comparing-avi-and-mp4-a-guide-to-choosing-the-right-video-format/"><u>Comparing AVI and MP4: A Guide to Choosing the Right Video Format</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-mobile-brilliance-inside-the-world-of-android-intelligent-systems/"><u>Demystifying Mobile Brilliance: Inside the World of Android Intelligent Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-iphone-gps-applications-our-1-picks/"><u>Discover the Best iPhone GPS Applications: Our #1 Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-service-temporarily-unavailable-message-a-step-by-step-guide/"><u>Fixing the 'Service Temporarily Unavailable' Message: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-integrating-automation-with-your-discord-community/"><u>Guide: Integrating Automation with Your Discord Community</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-efficiently-use-chkdsk-for-windows-system-maintenance/"><u>How to Efficiently Use Chkdsk for Windows System Maintenance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-and-fix-the-missing-d3dx940dll-error-in-windows-systems/"><u>How to Restore and Fix the Missing d3dx9_40.dll Error in Windows Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p55-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P55 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/resoudre-les-problemes-de-demarrage-du-peripherique-non-trouvable-guides-dinstallation-et-de-maintenance/"><u>Résoudre Les Problèmes De Démarrage Du Périphérique Non Trouvable : Guides D'Installation Et De Maintenance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/supercharge-your-media-with-winxvideo-ai-effortless-video-and-photo-enhancement-conversion-recording/"><u>Supercharge Your Media with WinxVideo AI - Effortless Video & Photo Enhancement, Conversion, Recording</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-not-found-error-for-python24dll-file/"><u>Troubleshooting the 'Not Found' Error for Python24.dll File</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-minecraft-a-sandbox-experience-suitable-for-all-generations/"><u>Ultimate Guide to Minecraft: A Sandbox Experience Suitable for All Generations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-ntdlldll-error-messages-on-various-windows-versions/"><u>Ultimate Guide: Resolving ntdll.dll Error Messages on Various Windows Versions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/ultimate-list-of-top-hashtag-tracker-tools-fb-twitter-insta/"><u>Ultimate List of Top Hashtag Tracker Tools (FB, Twitter, Insta)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-quick-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[New] A Quick Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-10-volume-elevators-for-windows-ios-and-android/"><u>[New] In 2024, Best 10 Volume Elevators for Windows, iOS & Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-anonymity-in-action-insta-stories-guide/"><u>[Updated] Anonymity in Action Insta Stories Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-successful-videos-on-youtube-for-beginners/"><u>[Updated] In 2024, Crafting Successful Videos on YouTube for Beginners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-8-premium-complimentary-streaming-media-processors/"><u>2024 Approved 8 Premium Complimentary Streaming Media Processors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-to-securely-wipe-files-in-windows-10-without-recovery-options/"><u>Complete Guide to Securely Wipe Files in Windows 10 Without Recovery Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-troubleshooting-steps-for-fixing-the-pink-screen-on-dvd-players/"><u>Effortless Troubleshooting Steps for Fixing the Pink Screen on DVD Players</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138576882-9781617640179-el-poder-latente/"><u>El Poder Latente | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/erfolgreich-komprimieren-und-konvertieren-sie-ihre-4k-inhalte-mit-diesen-7-bewahrten-methoden-in-1080p/"><u>Erfolgreich Komprimieren Und Konvertieren Sie Ihre 4K Inhalte Mit Diesen 7 Bewährten Methoden in 1080P</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-winx-dvd-ripper-and-video-converter-for-windows-11-effortless-transformation-of-your-dvds-into-hdmp4-files/"><u>Free WinX DVD Ripper & Video Converter for Windows 11: Effortless Transformation of Your DVDs Into HDMP4 Files</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211454958-9798218498870-listening-circles-seeding-life/"><u>Listening Circles, Seeding Life | Free Book</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/pinterest-a-players-sharing-snapchat-stories-for-2024/"><u>Pinterest A-Players Sharing Snapchat Stories for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-easy-your-step-by-step-tutorial-for-changing-avi-to-vob-format-with-windows-nx-system/"><u>Quick and Easy: Your Step-by-Step Tutorial for Changing AVI to VOB Format with Windows nX System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplify-your-streaming-experience-with-the-ultimate-webm-codec-bundle/"><u>Simplify Your Streaming Experience with the Ultimate WebM Codec Bundle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-free-4k-video-software-compatible-with-windows-10-11-and-mac-computers/"><u>The Ultimate List of Free 4K Video Software Compatible with Windows 10, 11, and Mac Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-heic-photos-into-jpegs-across-windows-10-and-mac-systems-simple-tips-and-tricks/"><u>Transforming HEIC Photos Into JPEGs Across Windows 10 & Mac Systems - Simple Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-fixing-issues-with-windows-movie-maker-in-various-versions-of-windows-os/"><u>Troubleshooting Tips: Fixing Issues with Windows Movie Maker in Various Versions of Windows OS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-find-out-the-top-ten-3d-video-maker-and-editor-apps-that-will-help-you-create-stunning-3d-videos-now-create-professional-level-3d-videos-with-ease-w/"><u>Updated Find Out the Top Ten 3D Video Maker and Editor Apps that Will Help You Create Stunning 3D Videos. Now Create Professional-Level 3D Videos with Ease with the Best Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725284536151-ai-8/"><u>무료 AI 기술을 사용하여 오래된 사진을 다시 효과적으로 제공: 8가지 유일한 소프트웨어</u></a></li>
 </ul></div>
 

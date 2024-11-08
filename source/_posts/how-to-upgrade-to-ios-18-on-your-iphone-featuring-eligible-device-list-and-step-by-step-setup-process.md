@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade To iOS 18 On Your iPhone? Featuring Eligible Device List and Step-by-Step Setup Process
-date: 2024-10-26T07:06:33.137Z
-updated: 2024-11-02T00:07:25.731Z
+date: 2024-10-31T23:05:32.750Z
+updated: 2024-11-07T16:02:48.760Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -39,13 +46,6 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -57,14 +57,14 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -77,10 +77,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -102,6 +102,19 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -117,13 +130,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,18 +175,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-exposing-sham-numbers-the-danger-of-fabricated-youtube-views/"><u>[New] Exposing Sham Numbers The Danger of Fabricated YouTube Views</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/altering-mac-screenshot-format-on-the-fly-for-2024/"><u>Altering Mac Screenshot Format on the Fly for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/combat-firefox-stutter-and-freeze-advanced-troubleshooting-techniques/"><u>Combat Firefox Stutter and Freeze: Advanced Troubleshooting Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-cross-device-configuration-consistency-in-windows-11/"><u>Guide: Cross-Device Configuration Consistency in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hassle-free-methods-for-upgrading-video-card-software-in-microsofts-latest-os/"><u>Hassle-Free Methods for Upgrading Video Card Software in Microsoft's Latest OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-connect-ps4-controller/"><u>How to Connect PS4 Controller</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-when-your-hdd-cant-be-seen-by-windows-11/"><u>How to Fix When Your HDD Can’t Be Seen by Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-make-google-the-first-thing-you-see-on-launch-easy-methods-inside/"><u>How To Make Google The First Thing You See on Launch: Easy Methods Inside!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-remove-password-in-windows-10-easily/"><u>How to Remove Password in Windows 10. Easily!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>In 2024, Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223986357-mkv/"><u>MKVファイルを簡単に解放 - 無料でオンライン変換!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-opus-files-and-methods-for-easy-opening-instructions/"><u>Understanding OPUS Files & Methods for Easy Opening Instructions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods/"><u>[New] Digital Decoder Masterful Online TV Recording Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-design-best-practices-for-engaging-youtube-thumbnails/"><u>[Updated] 2024 Approved Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-techniques-top-lenses-for-youtube-stars-for-2024/"><u>[Updated] Cutting-Edge Techniques Top Lenses for YouTube Stars for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screenflow-extensive-review-unveiling-the-mac-experience/"><u>[Updated] In 2024, ScreenFlow Extensive Review Unveiling the Mac Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-three-safe-methods-for-directly-downloading-youtubes-audios-as-mp3/"><u>[Updated] Three Safe Methods for Directly Downloading YouTube's Audios as MP3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-methods-for-monitoring-internet-consumption/"><u>Efficient Methods for Monitoring Internet Consumption</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-for-handling-mass-email-selection-on-googles-mail-service/"><u>How-To for Handling Mass Email Selection on Google's Mail Service</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C 5G Phone without PIN</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-illumination-incor-writings-on-visual-canvases-online/"><u>In 2024, Image Illumination Incor Writings on Visual Canvases Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2022-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2022) Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-androids-picture-in-picture-mode-a-comprehensive-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-hurdle-of-a-non-starting-device-a-comprehensive-guide-on-resolving-code-10-faults/"><u>Overcoming the Hurdle of a Non-Starting Device - A Comprehensive Guide on Resolving Code 10 Faults</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-how-to-for-inserting-lines-in-word-processor-applications/"><u>The Complete How-To for Inserting Lines in Word Processor Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tiktok-not-responding-heres-how-you-can-fix-it/"><u>TikTok Not Responding? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-water-resistance-of-iphone-15-how-much-protection-does-it-offer/"><u>Understanding the Water Resistance of iPhone 15: How Much Protection Does It Offer?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips-for-2024/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips for 2024</u></a></li>
 </ul></div>
 

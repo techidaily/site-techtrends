@@ -1,7 +1,7 @@
 ---
 title: Hunt Down Hot Tech Deals Only on Amazon for Prime Day
-date: 2024-09-11T17:38:14.824Z
-updated: 2024-09-12T17:38:14.824Z
+date: 2024-11-01T05:49:37.423Z
+updated: 2024-11-08T08:04:52.831Z
 categories:
   - BestProducts
 description: This Article Describes Hunt Down Hot Tech Deals Only on Amazon for Prime Day
@@ -27,30 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/FjnmIUGFEYaMlZNpJcZbPoNCrZ8=/540x405/fi
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
@@ -59,22 +39,8 @@ thumbnail: https://www.lifewire.com/thmb/FjnmIUGFEYaMlZNpJcZbPoNCrZ8=/540x405/fi
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
@@ -82,10 +48,10 @@ thumbnail: https://www.lifewire.com/thmb/FjnmIUGFEYaMlZNpJcZbPoNCrZ8=/540x405/fi
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Awkward Potion Recipe
@@ -99,10 +65,10 @@ thumbnail: https://www.lifewire.com/thmb/FjnmIUGFEYaMlZNpJcZbPoNCrZ8=/540x405/fi
 * 1 Nether Wart  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does an Awkward Potion Do in Minecraft?
@@ -149,5 +115,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-high-quality-camera-gimbals-iphoneandroiddslr-reconnaissance/"><u>[New] 10 High-Quality Camera Gimbals IPhone/Android/DSLR Reconnaissance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-techniques-for-immaculate-vr-gaming-footage/"><u>[New] 2024 Approved Techniques for Immaculate VR Gaming Footage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-download-vimeo-video-to-mp3/"><u>[New] How to Download Vimeo Video to MP3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortlessly-sync-youtube-videos-with-fb-feeds-using-autoplay-mode/"><u>[New] In 2024, Effortlessly Sync YouTube Videos with FB Feeds Using Autoplay Mode</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-lore-legends-top-10-roguelike-experiences-for-2024/"><u>[New] Lore Legends Top 10 Roguelike Experiences for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-thorough-review-easy-approach-to-hdr-enhancement/"><u>[New] Thorough Review Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-techniques-for-finding-original-images-in-instagram-posts-for-2024/"><u>[Updated] Techniques for Finding Original Images in Instagram Posts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/8-tricks-to-remove-the-unwanted-blue-glow-from-your-television-set-for-perfect-picture-quality/"><u>8 Tricks to Remove the Unwanted Blue Glow From Your Television Set for Perfect Picture Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-list-of-new-linksys-default-credentials-as-of-july-2024/"><u>Comprehensive List of New Linksys Default Credentials as of July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hilarious-tricks-you-can-play-using-your-iphone-or-ipad-on-buddies/"><u>Hilarious Tricks You Can Play Using Your iPhone or iPad on Buddies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-the-right-smartwatch-a-guide-with-5-key-considerations/"><u>How to Choose the Right Smartwatch: A Guide with 5 Key Considerations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-detach-a-device-safely-from-the-google-home-environment/"><u>How to Detach a Device Safely From the Google Home Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-voice-message-basics-a-simple-tutorial-for-seamless-audio-sharing-on-ios-devices/"><u>IPhone Voice Message Basics: A Simple Tutorial for Seamless Audio Sharing on iOS Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-the-drivers-for-your-usb-to-serial-converter/"><u>Step-by-Step Guide: Updating the Drivers for Your USB-to-Serial Converter</u></a></li>
+</ul></div>
 

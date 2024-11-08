@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-10-29T01:13:21.759Z
-updated: 2024-11-02T13:34:25.335Z
+date: 2024-11-02T09:31:59.908Z
+updated: 2024-11-08T05:25:40.819Z
 tags:
   - apple
 categories:
@@ -28,13 +28,6 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
@@ -48,10 +41,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,6 +54,13 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -79,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +100,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,16 +148,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-overcoming-full-screen-issues-in-obs/"><u>[Updated] In 2024, Overcoming Full Screen Issues in Obs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-your-actual-ram-velocity-a-guide-for-windows-11-users/"><u>Discovering Your Actual RAM Velocity: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-epson-printer-setup-instructions-a-comprehensive-walkthrough/"><u>DIY Epson Printer Setup Instructions - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-netgear-wireless-network-adapter-drivers/"><u>Download & Update: Latest NETGEAR Wireless Network Adapter Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-modding-guide-for-fallout-4-gameplay-enhancements-on-your-computer-windows-or-mac/"><u>Easy Modding Guide for Fallout 4 Gameplay Enhancements on Your Computer (Windows or Mac)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fast-track-to-faster-boot-times-in-windows-11-a-comprehensive-guide/"><u>Fast Track to Faster Boot Times in Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-a-frozen-windows-update-easily-get-your-system-updating-again/"><u>Fixing a Frozen Windows Update Easily – Get Your System Updating Again!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/infuse-humor-in-content-simple-text-meme-creation-for-2024/"><u>Infuse Humor in Content Simple Text Meme Creation for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-audio-issues-on-your-laptop-a-comprehensive-guide-restored/"><u>Solve Audio Issues on Your Laptop: A Comprehensive Guide [Restored]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-infinix-smart-8-plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Smart 8 Plus Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>[New] 2024 Approved From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-introduce-dynamic-blurring-to-pics-in-ps-for-2024/"><u>[New] Introduce Dynamic Blurring to Pics in PS for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-high-definition-horizons-with-sony-unraveling-xperia-xz-for-2024/"><u>[Updated] High-Definition Horizons with Sony - Unraveling Xperia XZ for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/app-tastic-mystery-adventures-for-iphoneipad-explore-games-as-enthralling-as-the-room-and-myst/"><u>App-Tastic Mystery Adventures for iPhone/iPad - Explore Games as Enthralling as The Room and Myst</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/bezna-nahravka-obrazok-bez-zvuku-movari-prostredek-pro-videcke-filmy/"><u>Běžná Nahrávka Obrazok Bez Zvuku - MoVaRi Prostředek Pro Vídecké Filmy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-review-of-line-application-is-it-worth-your-time/"><u>Detailed Review of Line Application - Is It Worth Your Time?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-to-link-up-a-shared-network-printer-in-your-home-or-office/"><u>Easy Methods to Link Up a Shared Network Printer in Your Home or Office</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevated-experience-premium-seating-for-the-taller-set/"><u>Elevated Experience: Premium Seating for the Taller Set</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-online-webcam-solution-for-content-creators/"><u>Enhance Your Broadcasts Using ManyCam - The Ultimate Online Webcam Solution for Content Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-restoring-connection-with-your-echo-what-to-do-when-alexa-says-its-offline/"><u>Guide to Restoring Connection with Your Echo: What to Do When Alexa Says It's Offline</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-c12-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia C12 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-keeping-your-mac-from-going-into-sleep-mode/"><u>Mastering the Art of Keeping Your Mac From Going Into Sleep Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/scrutinizing-the-financial-lifelines-that-drive-tseries-youtube-success-for-2024/"><u>Scrutinizing the Financial Lifelines that Drive TSeries' Youtube Success for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-stop-0x0000003d-bsod-a-comprehensive-fix-manual/"><u>Solutions for STOP 0X0000003D BSOD – A Comprehensive Fix Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-wi-fi-connection-issues-a-step-by-step-guide-to-restoring-internet-on-your-ipad/"><u>Solving Your Wi-Fi Connection Issues: A Step-by-Step Guide to Restoring Internet on Your iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-science-behind-oleds-working-principle-explained/"><u>The Science Behind OLEDs: Working Principle Explained</u></a></li>
 </ul></div>
 

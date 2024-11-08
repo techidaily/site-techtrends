@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-10-31T08:05:10.379Z
-updated: 2024-11-01T16:38:10.120Z
+date: 2024-11-04T18:45:36.155Z
+updated: 2024-11-07T22:30:40.554Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -91,28 +91,34 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -128,10 +134,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,20 +174,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-creating-polished-video-content-in-captivate-for-2024/"><u>[New] Creating Polished Video Content in Captivate for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfect-your-snapchat-boomerangs-quickly/"><u>[Updated] In 2024, Perfect Your Snapchat Boomerangs Quickly</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-supreme-selection-ideal-sierra-dvd-and-video-apps/"><u>2024 Approved Supreme Selection Ideal Sierra Dvd & Video Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cloud-gaming-demystified-how-to-harness-the-power-of-xbox-game-pass-ultimate-for-an-unparalleled-experience/"><u>Cloud Gaming Demystified: How to Harness the Power of Xbox Game Pass Ultimate for an Unparalleled Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-walkthrough-navigating-apple-pay-features-on-the-apple-watch/"><u>Complete Walkthrough: Navigating Apple Pay Features on the Apple Watch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-food-monitoring-tools-the-ultimate-top-6-list/"><u>Essential Food Monitoring Tools: The Ultimate Top 6 List</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-access-to-asus-atk0110-acpi-drivers-get-your-version-today/"><u>Free Access to ASUS ATK0110 ACPI Drivers - Get Your Version Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-experience-the-full-thrill-of-indiana-jones-a-proper-watching-schedule/"><u>How to Experience the Full Thrill of Indiana Jones: A Proper Watching Schedule</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-d3dx941dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_41.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>In 2024, Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-fixing-when-ksuserdll-is-missing-or-cant-be-located-errors/"><u>The Ultimate Guide to Fixing When Ksuser.dll Is Missing or Can’t Be Located Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-tech-bargains-during-amazons-prime-shopping-event/"><u>Top Tech Bargains During Amazon's Prime Shopping Event</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>2024 Approved Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-moto-g73-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Moto G73 5G.</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-imposes-fines-on-spreading-falsehoods/"><u>Facebook Imposes Fines on Spreading Falsehoods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-static-to-spinning-mastering-photo-effects-in-illustrator/"><u>From Static to Spinning Mastering Photo Effects in Illustrator</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-perform-a-cmos-memory-erase-for-refreshed-bios-configurations/"><u>How To Perform a CMOS Memory Erase for Refreshed BIOS Configurations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-see-who-has-viewed-a-google-doc/"><u>How to See Who Has Viewed a Google Doc</u></a></li>
+<li><a href="https://techtrends.techidaily.com/practical-tips-for-programming-time-specific-sms-from-ios-phones/"><u>Practical Tips for Programming Time-Specific SMS From iOS Phones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reigning-on-rankings-transforming-your-online-presence/"><u>Reigning on Rankings Transforming Your Online Presence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-amoled-11-idt-hd-audio-codec-driver-problems/"><u>Resolving Windows Amoled 11 IDT HD Audio Codec Driver Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sneak-peek-at-the-next-gen-samsung-galaxy-z-fold-7-projections-on-price-and-release-with-expert-speculations-on-specifications/"><u>Sneak Peek at the Next-Gen Samsung Galaxy Z Fold 7: Projections on Price and Release with Expert Speculations on Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-multi-device-remote-software/"><u>Step-by-Step Tutorial on Creating Multi-Device Remote Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-syncing-multiple-bose-soundlink-speakers/"><u>Step-By-Step Tutorial on Syncing Multiple Bose SoundLink Speakers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tips-and-tricks-to-excel-at-pokemon-unite-on-pc/"><u>Ultimate Tips and Tricks to Excel at Pokémon Unite on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-rcs-the-future-of-mobile-messaging-explained/"><u>Understanding RCS: The Future of Mobile Messaging Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/webcasts-on-demand-a-straightforward-recording-technique-for-2024/"><u>Webcasts On Demand A Straightforward Recording Technique for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-10-26T12:51:17.430Z
-updated: 2024-11-02T10:27:19.885Z
+date: 2024-11-03T04:22:28.002Z
+updated: 2024-11-07T18:39:18.552Z
 tags:
   - apple
 categories:
@@ -42,25 +42,11 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -69,6 +55,13 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -79,10 +72,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -90,6 +83,19 @@ On the other hand, Apple "later this year" will enable you to create displays wi
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -120,16 +126,16 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -185,22 +191,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[New] 2024 Approved Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-methods-for-saving-youtube-videos/"><u>2024 Approved Easy Methods for Saving YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722876016475-aol-mail-issues-determining-whether-its-a-downtime-scenario-or-personal-connectivity-problem/"><u>AOL Mail Issues: Determining Whether It's a Downtime Scenario or Personal Connectivity Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-sale-of-watch-series-9-and-ultra-restarts-after-temporary-legal-halt/"><u>Apple's Sale of Watch Series 9 & Ultra Restarts After Temporary Legal Halt</u></a></li>
-<li><a href="https://fox-that.techidaily.com/are-your-deleted-iphone-pictures-still-lurking-uncover-these-8-steps-to-reclaim-space/"><u>Are Your Deleted iPhone Pictures Still Lurking? Uncover These 8 Steps to Reclaim Space</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/complete-walkthrough-to-screenshot-on-your-windows-11-pc/"><u>Complete Walkthrough to Screenshot on Your Windows 11 PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-4-free-web-based-calendar-tools-available-today/"><u>Discover the Best 4 Free Web-Based Calendar Tools Available Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-sites-to-view-free-music-videos-on-your-computer-or-phone/"><u>Discover the Best Sites to View Free Music Videos on Your Computer or Phone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expand-your-verbal-horizons/"><u>Expand Your Verbal Horizons</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-20c-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark 20C Phone that is Locked?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>In 2024, Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/learn-how-to-mirror-your-smartphone-or-tablet-onto-an-lg-tv-easily/"><u>Learn How to Mirror Your Smartphone or Tablet Onto an LG TV Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recovering-your-deactivated-instagram-presence-effective-strategies-and-solutions/"><u>Recovering Your Deactivated Instagram Presence: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-modifying-location-preferences-on-your-iphone/"><u>Step-by-Step Tutorial: Modifying Location Preferences on Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-your-chaotic-life-with-these-7-essential-shared-calendar-solutions-for-families/"><u>Streamline Your Chaotic Life with These 7 Essential Shared Calendar Solutions for Families</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-getting-your-surface-pro-reconnected-to-wi-fi/"><u>The Ultimate Fix: Getting Your Surface Pro Reconnected to Wi-Fi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-buying-durable-and-watertight-phone-covers/"><u>Ultimate Guide to Buying Durable and Watertight Phone Covers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics-for-2024/"><u>[New] Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-highlight-your-pc-gaming-6-effective-screen-methods/"><u>[Updated] In 2024, Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-investigating-the-upside-down-issue-on-instavideos/"><u>2024 Approved Investigating the Upside-Down Issue on InstaVideos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-strategies-for-protecting-personal-information-online/"><u>Android Strategies for Protecting Personal Information Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-traditional-cable-with-modern-streaming-platforms/"><u>Comparing Traditional Cable with Modern Streaming Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-unveiling-the-top-features-of-recuva-leading-file-restoration-software/"><u>Comprehensive Guide: Unveiling The Top Features Of Recuva - Leading File Restoration Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-no-cost-shared-dns-services-online/"><u>Discover the Best No-Cost, Shared DNS Services Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-epson-v39-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson V39 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-honor-magic-5-lite-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor Magic 5 Lite Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts/"><u>In 2024, Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/investigating-xbox-live-downtime-identifying-if-its-network-wide-or-specific-to-your-setup/"><u>Investigating Xbox Live Downtime - Identifying if It's Network-Wide or Specific to Your Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-technology-a-deep-dive-into-toms-computer-analysis/"><u>Mastering Technology: A Deep Dive Into Tom's Computer Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalized-phone-selection-why-iphone-might-be-right-or-maybe-not-compared-to-android/"><u>Personalized Phone Selection: Why iPhone Might Be Right, Or Maybe Not – Compared to Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-remotely-clear-iphones-and-ipads-of-sensitive-information/"><u>The Ultimate Guide to Remotely Clear iPhones & iPads of Sensitive Information</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-ultimate-credit-cards-for-e-commerce-purchases-expert-reviews-by-zdnet/"><u>Top 5 Ultimate Credit Cards for E-Commerce Purchases - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/universal-access-guide-sync-icloud-pictures-across-apple-windows-and-android-gadgets/"><u>Universal Access Guide: Sync iCloud Pictures Across Apple, Windows, and Android Gadgets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Next Big Thing: Speculation and Gossip About Pricing, Release Date & Specs"
-date: 2024-09-11T17:27:35.796Z
-updated: 2024-09-12T17:27:35.796Z
+date: 2024-11-02T04:07:05.090Z
+updated: 2024-11-07T21:39:48.212Z
 categories:
   - BestProducts
 description: "This Article Describes Apple's Next Big Thing: Speculation and Gossip About Pricing, Release Date & Specs"
@@ -29,10 +29,16 @@ In This Article
 * **Specs** : Clamshell form factor, small outer screen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Will the Foldable iPhone Be Released?
@@ -57,23 +63,9 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Price Rumors
 
@@ -91,15 +83,22 @@ iPhone Fold concept.
 
 Michal Dufka
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Foldable iPhone Features
@@ -113,13 +112,6 @@ Michal Dufka
  Given a larger phone could resemble a tablet, it makes sense that it would support the[Apple Pencil](https://www.lifewire.com/review-apple-pencil-3887601) . The latest version currently works only on a small selection of iPads, but expect a new version for the foldable iPhone (unless it's more of a flip phone than a tablet).
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Foldable iPhone Specs and Hardware
 
@@ -146,16 +138,10 @@ Michal Dufka
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About the Foldable iPhone
@@ -181,5 +167,22 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios/"><u>[Updated] In 2024, Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-from-old-moniker-to-new-dawn-a-comprehensive-tiktok-name-change-blueprint/"><u>2024 Approved From Old Moniker to New Dawn A Comprehensive TikTok Name Change Blueprint</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-webm-files-an-insightful-introduction/"><u>Exploring the World of WebM Files - An Insightful Introduction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 Pro Max With or Without Password</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-100-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor 100 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-brand-presence-effective-instagram-video-marketing-techniques/"><u>In 2024, Elevate Brand Presence Effective Instagram Video Marketing Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-f15-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy F15 5G Is Unlocked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-10th-new-york-times-daily-connection-quiz-challenge-395-uncover-the-answers-today/"><u>July 10Th New York Times Daily Connection Quiz: Challenge #395 – Uncover the Answers Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-15th-insights-unlocking-the-secrets-of-todays-new-york-times-connection-quiz-400/"><u>July 15Th Insights: Unlocking the Secrets of Today's New York Times Connection Quiz #400</u></a></li>
+<li><a href="https://techtrends.techidaily.com/may-25th-new-york-times-connection-puzzles-solved-349-edition/"><u>May 25Th New York Times Connection Puzzles Solved - #349 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/proton-drive-enhancements-unveiling-advanced-improvements/"><u>Proton Drive Enhancements: Unveiling Advanced Improvements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/qr-codes-abundant-and-unlimited-supply-debunking-the-shortage-myth/"><u>QR Codes: Abundant and Unlimited Supply – Debunking the Shortage Myth</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-writing-helpers-to-transform-your-windows-experience/"><u>Top Writing Helpers to Transform Your Windows Experience</u></a></li>
+</ul></div>
 

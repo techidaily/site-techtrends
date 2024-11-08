@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2024-10-26T11:52:03.347Z
-updated: 2024-11-02T00:47:15.099Z
+date: 2024-11-03T01:07:30.121Z
+updated: 2024-11-08T08:20:17.258Z
 tags:
   - apple
 categories:
@@ -27,13 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -41,28 +34,15 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -72,6 +52,13 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -80,14 +67,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -104,6 +91,19 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -163,14 +163,16 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-essential-apps-for-annotating-mobile-images/"><u>[New] Essential Apps for Annotating Mobile Images</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-iphone-tactics-for-capturing-glass-surfaces/"><u>[New] Innovative iPhone Tactics for Capturing Glass Surfaces</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-economics-of-entertainment-pewdiepies-profit/"><u>[Updated] In 2024, The Economics of Entertainment PewDiePie's Profit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024s-top-iphone-selfie-assistants-ranked-8/"><u>2024'S Top iPhone Selfie Assistants Ranked #8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-tutorial-on-retrieving-lost-files-through-windows-11s-built-in-restore-feature/"><u>Complete Tutorial on Retrieving Lost Files Through Windows 11'S Built-In Restore Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decode-the-access-denied-error-resolving-error-code-0x05-on-windows-updates-easily/"><u>Decode the Access Denied Error: Resolving Error Code 0X05 on Windows Updates Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/determining-actual-ram-frequency-in-windows-11-top-techniques-for-accurate-measurement/"><u>Determining Actual RAM Frequency in Windows 11 – Top Techniques for Accurate Measurement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/directx-12-installation-on-windows-11-a-step-by-step-tutorial/"><u>DirectX 12 Installation on Windows 11: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-review-cutting-edge-portability-with-samsungs-latest-galaxy-chromebook-model/"><u>Expert Review: Cutting-Edge Portability with Samsung's Latest Galaxy Chromebook Model</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-pioneering-photography-with-advanced-software/"><u>[New] In 2024, Pioneering Photography with Advanced Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-visuals-with-these-top-12-no-cost-ai-video-tools-for-windows-and-macos-users/"><u>Enhance Your Visuals with These Top 12 No-Cost AI Video Tools for Windows & macOS Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-novice-to-expert-a-telegram-web-blueprint/"><u>From Novice to Expert A Telegram Web Blueprint</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/hpe-litigates-against-chinas-inspur-patent-violation-allegations-overshadowed-by-ongoing-sanction-defying-business-activities-in-the-us/"><u>HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>In 2024, The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimal-video-codecs-and-settings-for-smartphones-samsung-vs-apple/"><u>Optimal Video Codecs and Settings for Smartphones: Samsung vs Apple</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-bluetooth-compatibility-for-windows-7-fast-driver-downloads-available/"><u>Seamless Bluetooth Compatibility for Windows 7 - Fast Driver Downloads Available!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/select-one-of-the-imported-avi-files-as-the-source-video-by-clicking-on-it-within-the-program-interface/"><u>Select One of the Imported AVI Files as the Source Video by Clicking on It Within the Program Interface.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/silent-scripting-the-leading-list-of-offline-transcription-software-for-2024/"><u>Silent Scripting The Leading List of Offline Transcription Software for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-top-rated-free-video-capture-apps-ranked/"><u>The Ultimate List of Top-Rated Free Video Capture Apps - Ranked!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-issue-of-non-responsive-netflix-streaming-across-all-your-gadgets/"><u>Troubleshooting Tips: Solving the Issue of Non-Responsive Netflix Streaming Across All Your Gadgets</u></a></li>
 </ul></div>
 

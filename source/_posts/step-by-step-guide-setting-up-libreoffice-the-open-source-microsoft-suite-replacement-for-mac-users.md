@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-10-31T20:44:02.178Z
-updated: 2024-11-01T21:31:46.131Z
+date: 2024-11-06T21:41:09.308Z
+updated: 2024-11-08T03:19:11.640Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -37,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -63,13 +70,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -79,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,16 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,21 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-clicker-article-titles-maker-for-2024/"><u>[New] Top Clicker Article Titles Maker for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-video-recording-and-editing-with-adobe-connect/"><u>[Updated] 2024 Approved Mastering Video Recording & Editing with Adobe Connect</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-deep-dive-into-toolwiz-app-for-professional-photos/"><u>[Updated] A Deep Dive Into Toolwiz App for Professional Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-spotlight-on-the-5-most-advanced-game-streaming-webcams/"><u>[Updated] In 2024, Spotlight On The 5 Most Advanced Game Streaming Webcams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tools-for-perfect-linux-screenshots/"><u>In 2024, Essential Tools for Perfect Linux Screenshots</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-a60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel A60 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/offline-minecraft-adventures-configuring-your-game-on-windows-10/"><u>Offline Minecraft Adventures: Configuring Your Game on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolved-windows-error-during-drive-formatting-now-successful/"><u>Resolved: Windows Error During Drive Formatting – Now Successful</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-style-regular-not-applicable-in-verdana-font-complete-guide/"><u>Resolving the Issue: 'Style Regular' Not Applicable in Verdana Font - Complete Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-camera-apps-loss-of-recorded-images/"><u>Reversing Camera App's Loss of Recorded Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-your-logitech-wireless-clicker-a-comprehensive-troubleshooting-approach/"><u>Reviving Your Logitech Wireless Clicker: A Comprehensive Troubleshooting Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/safe-bios-updating-practices-a-comprehensive-timing-and-method-guide/"><u>Safe BIOS Updating Practices: A Comprehensive Timing and Method Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-clearing-your-browsers-cache-in-windows-11/"><u>Step-by-Step Guide: Clearing Your Browser's Cache in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-repair-tips-for-a-nonfunctional-logitech-wireless-device/"><u>Step-by-Step Repair Tips for a Nonfunctional Logitech Wireless Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-yuva-3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Yuva 3 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://discover-help.techidaily.com/update-announcement-wonderfox-document-manager-elevates-features-in-latest-version-12-release/"><u>Update Announcement: WonderFox Document Manager Elevates Features in Latest Version 1.2 Release</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-break-through-the-crowd-your-guide-to-choosing-free-intro-masters/"><u>[New] 2024 Approved Break Through the Crowd - Your Guide to Choosing Free Intro Masters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-vs-fraps-best-screen-recording-tools-battle/"><u>[New] OBS Studio vs Fraps Best Screen Recording Tools Battle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-super-video-pack/"><u>「どうやってネット通販で高品質なWinX Super Video Packを手に入れますか?」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>2024 Approved Instant Insight Method for Punctuation of Timelines in Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725287976370-convert-mov-files-to-mp4-for-free-compatible-with-mac-and-windows-11/"><u>Convert MOV Files to MP4 for Free: Compatible with Mac & Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-s23plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel S23+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-revert-from-ios-16-back-to-ios-15-a-step-by-step-guide/"><u>How To Successfully Revert From iOS 16 Back To iOS 15: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>In 2024, The Social Media Elite Playbook Cultivate Your Stardom in 9 Easy Steps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creative-vision-adobe-premiere-pro-for-mac-professionals/"><u>New In 2024, Unleash Your Creative Vision Adobe Premiere Pro for Mac Professionals</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 Pro Max | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-sites-for-legally-downloading-free-ultra-hd-4k-video-clips/"><u>Top Sites for Legally Downloading Free Ultra HD (4K) Video Clips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979126947-windows-10-compatible-realtek-hardware-drivers-secure-your-system-now/"><u>Windows 10 Compatible Realtek Hardware Drivers – Secure Your System Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290503984-wondershare/"><u>Wondershareのロゴ取り撤去ガイドと、スピーディかつクリアなビデオエディット</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286622649-windows-10/"><u>オーガーフォントへのビデオ変換 - Windows 10で完全無料ガイド</u></a></li>
 </ul></div>
 

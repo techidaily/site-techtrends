@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Linking AirPods and MacBook Air Devices
-date: 2024-10-26T12:35:56.247Z
-updated: 2024-11-02T09:55:55.785Z
+date: 2024-11-01T19:29:35.514Z
+updated: 2024-11-07T23:02:06.810Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Linking AirPods and MacBook Air Devices
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 
  This article explains how to connect AirPods to a MacBook Air, to create a light, portable pair for mobile work and listening to audio.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Connect Your AirPods to a MacBook Air
 
  Connecting AirPods to a MacBook Air is pretty simple. In a few clicks and button presses and you'll be listening to wireless audio. Here's what to do:
@@ -46,15 +39,15 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The setup button on the AirPods case](https://www.lifewire.com/thmb/UluEXY72qkp63Gp8Wqrn11pixNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_connectairpods3-aa8835d06ca5488ea04a6597909f5872-72c6445e2b43481781ff26466cef507f.jpg)
 4. The AirPods will appear in the Bluetooth preferences window. Click**Connect** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Connect button for an available set of AirPods Pro in macOS Bluetooth settings.](https://www.lifewire.com/thmb/KG0yU2YAi6Ct5NjtMCIkdfyAA7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_connect-airpods-to-macbook-air-5188769-baf578afb7944e938c59b082037e82d4.jpg)
 5. In a moment, the AirPods will be connected to your MacBook Air and you'll be ready to listen to audio.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
 
@@ -68,20 +61,27 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The Audio MIDI Setup app from the Utilities folder in macOS.](https://www.lifewire.com/thmb/hDuapYeU0qS6jTic9j1qPLdfWRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_connect-airpods-to-macbook-air-5188769-1ed53dd151a7494d9e1818845e825a07.jpg)
 2. Click the**\+ (Plus)** sign, then select**Create Multi-Output Device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Create Multi-Output Device option from the add menu in the Audio MIDI Setup app in macOS.](https://www.lifewire.com/thmb/MqndcghTr5gA9bPNn5_9SqqiyRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_connect-airpods-to-macbook-air-5188769-5664d35fbbc2464d80a4f714c5955221.jpg)
 3. Check the box next to the two sets of AirPods. In the**Master Device** drop-down, choose your AirPods. Check the**Drift Correction** box next to your friend's AirPods.  
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![AirPods selected and one set to Drift Correction in Audio MIDI Setup in macOS.](https://www.lifewire.com/thmb/OiH8Qk5hsmap5RKxp1rTMtNuzG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-connect-airpods-to-macbook-air-5188769-fba01d5c7c96478f9e3070fc2bdcfa7c.jpg)
@@ -90,10 +90,10 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![A Multi-Output Device selected from the Output tab in macOS Sound settings.](https://www.lifewire.com/thmb/WcwsnAzXRRb5xQABJalZ7xjF9eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-connect-airpods-to-macbook-air-5188769-40b916aaa66f4d22a180b33f9422adfc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Won't My AirPods Connect to My MacBook Air?
@@ -136,15 +136,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://mondly-stories.techidaily.com/essential-croatian-language-skills-for-cultural-immersion-success/"><u>Essential Croatian Language Skills for Cultural Immersion Success!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-elevate-your-channel-techniques-for-logo-insertion-in-videos/"><u>In 2024, Elevate Your Channel Techniques for Logo Insertion in Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/lenovo-savvy-efficient-screencasting-made-simple/"><u>Lenovo Savvy Efficient Screencasting Made Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-easy-chrome-browser-tricks-for-effective-website-blocking/"><u>Quick & Easy Chrome Browser Tricks for Effective Website Blocking</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reinstallreset-windows-10-step-by-step/"><u>Reinstall/Reset Windows 10 [Step By Step]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reset-your-pc-with-ease-a-4-step-tutorial-for-windows-nvme-11-users/"><u>Reset Your PC with Ease: A 4-Step Tutorial for Windows Nvme 11 Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/resolving-issues-with-overwolfs-recording-feature-expert-advice/"><u>Resolving Issues with Overwolf's Recording Feature - Expert Advice!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-overcoming-tarkov-error-103003/"><u>Resolving the Issue: A Step-by-Step Guide to Overcoming Tarkov Error 103003</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-logitech-k780-effective-fixes-for-a-dysfunctional-keyboard/"><u>Revive Your Logitech K780: Effective Fixes for a Dysfunctional Keyboard</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>[Updated] Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unwind-and-capture-your-games-in-peace-for-2024/"><u>[Updated] Unwind and Capture Your Games in Peace for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ensuring-accuracy-correcting-your-tiktok-profiles-age/"><u>2024 Approved Ensuring Accuracy Correcting Your TikTok Profile's Age</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-the-myths-authentic-strategies-for-language-acquisition/"><u>Beyond the Myths: Authentic Strategies for Language Acquisition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bluetooth-battle-royale-apple-airpods-pro-versus-samsung-buds-pro/"><u>Bluetooth Battle Royale: Apple AirPods Pro versus Samsung Buds Pro</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/die-beste-externe-festplatte-fur-datenwiedergabe-ihre-entscheidungsgrundlage/"><u>Die Beste Externe Festplatte Für Datenwiedergabe - Ihre Entscheidungsgrundlage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-increasing-your-insta-crowd/"><u>Effective Techniques for Increasing Your Insta Crowd</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/monitor-your-macbook-pro-temperature-effective-techniques-and-tools/"><u>Monitor Your MacBook Pro Temperature - Effective Techniques & Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-to-snapchats-official-help-center-for-quick-solutions/"><u>Navigating to Snapchat's Official Help Center for Quick Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-modifying-a-different-accounts-password-on-windows/"><u>Step-by-Step Guide: Modifying a Different Account's Password on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-twitter-master-the-process-of-creating-a-fresh-password-on-x/"><u>Transforming Twitter: Master the Process of Creating a Fresh Password on X</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-creating-tiktok-duets-with-our-in-depth-guide/"><u>Unlock the Secrets of Creating TikTok Duets with Our In-Depth Guide</u></a></li>
 </ul></div>
 

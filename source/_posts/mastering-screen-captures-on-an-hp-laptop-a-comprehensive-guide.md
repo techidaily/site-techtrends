@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Captures on an HP Laptop – A Comprehensive Guide
-date: 2024-09-11T17:35:51.815Z
-updated: 2024-09-12T17:35:51.815Z
+date: 2024-11-06T02:37:41.675Z
+updated: 2024-11-07T16:40:35.968Z
 categories:
   - BestProducts
 description: This Article Describes Mastering Screen Captures on an HP Laptop – A Comprehensive Guide
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -39,13 +32,6 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
  On some computers, the**Fn** (function) key needs to be pressed along with**PrtSc** .
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
 
@@ -60,10 +46,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -81,6 +67,13 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -90,17 +83,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -112,10 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -162,5 +148,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-complete-guide-to-record-desktop-screen-on-windows-for-free-3-ways/"><u>[New] 2024 Approved Complete Guide to Record Desktop Screen on Windows for Free [3 Ways]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-activating-built-in-screen-recorders-mate-1020-and-p-series-devices-p20-p10/"><u>[Updated] Activating Built-In Screen Recorders Mate 10/20 & P-Series Devices (P20, P10)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-tactical-approaches-to-youtube-revenue-with-adsense-for-2024/"><u>[Updated] Tactical Approaches to YouTube Revenue with AdSense for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-on-a-budget-combining-free-tools-for-cost-effective-solutions/"><u>AI on a Budget: Combining Free Tools for Cost-Effective Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-virtual-versus-augmented-versus-mixed-realities-an-in-depth-guide-to-types-of-digital-environments/"><u>Decoding Virtual Versus Augmented Versus Mixed Realities: An In-Depth Guide to Types of Digital Environments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensuring-optimal-performance-updating-windows-screengraphics-drivers/"><u>Ensuring Optimal Performance: Updating Window's Screen/Graphics Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-your-perfect-wallpaper-in-the-spectacular-visuals-of-the-james-webb-space-observatory/"><u>Find Your Perfect Wallpaper in the Spectacular Visuals of the James Webb Space Observatory</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-home-automation-discover-why-smartthings-pro-is-the-top-choice/"><u>Maximizing Your Home Automation: Discover Why SmartThings Pro Is the Top Choice</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-free-green-screen-apps-for-mobile/"><u>New Unleash Your Creativity Top Free Green Screen Apps for Mobile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionizing-electric-vehicle-charging-chargepoints-latest-strategy-enhancing-charger-dependability/"><u>Revolutionizing Electric Vehicle Charging: ChargePoint's Latest Strategy Enhancing Charger Dependability</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-orbital-secrets-how-amazons-breakthrough-in-space-based-laser-technology-is-revolutionizing-satellite-internet/"><u>Unlocking Orbital Secrets: How Amazon's Breakthrough in Space-Based Laser Technology Is Revolutionizing Satellite Internet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-insights-anticipating-the-ai-breakthrough-beyond-chatgpt-at-openais-upcoming-may-13th-presentation/"><u>Unveiling Insights: Anticipating the AI Breakthrough Beyond ChatGPT at OpenAI's Upcoming May 13Th Presentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-perplexity-ai-understanding-and-utilizing-the-trending-conversation-bot-efficiently/"><u>Unveiling Perplexity AI: Understanding and Utilizing the Trending Conversation Bot Efficiently</u></a></li>
+</ul></div>
 

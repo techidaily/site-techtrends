@@ -1,7 +1,7 @@
 ---
 title: "The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET"
-date: 2024-10-27T01:45:26.690Z
-updated: 2024-11-01T18:12:33.357Z
+date: 2024-11-04T09:07:42.430Z
+updated: 2024-11-07T18:25:49.261Z
 tags:
   - apple
 categories:
@@ -66,10 +66,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 \*Original MSRP
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -80,23 +80,9 @@ Kerry Wan/ZDNET
 
 ## You should buy the Apple Watch Series 10 if...
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -105,13 +91,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 **Also:** [**The best smart rings: Expert tested**](https://www.zdnet.com/article/best-smart-ring/)
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
 
@@ -122,6 +101,13 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -139,6 +125,13 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -152,6 +145,19 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -187,22 +193,19 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-laughlounge-app-join-the-meme-revolution-for-2024/"><u>[New] LaughLounge App - Join the Meme Revolution for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-the-secrets-of-snapchat-boomerang-tricks/"><u>[New] Unlocking the Secrets of Snapchat Boomerang Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streaming-success-without-xsplit/"><u>[Updated] Streaming Success Without Xsplit</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-regulations-on-personal-recordings-for-2024/"><u>[Updated] YouTube Regulations on Personal Recordings for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-wont-start-here-are-proven-fixes-to-get-you-gaming-in-no-time/"><u>Cyberpunk 2077 Won't Start? Here Are Proven Fixes To Get You Gaming In No Time</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-leading-parent-monitoring-solutions-for-2-the-essential-guide-to-top-8-family-safety-applications-of-2024-best-practices-with-8-key-parental-ov29/"><u>Discover the Leading Parent Monitoring Solutions for 2# The Essential Guide to Top 8 Family Safety Applications of 2024 / Best Practices with 8 Key Parental Oversight Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-access-tips-unlocking-the-power-of-androids-quick-settings-menu/"><u>Easy Access Tips: Unlocking the Power of Android's Quick Settings Menu</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/easy-guide-transforming-your-iphone-videos-into-high-quality-mp3-files/"><u>Easy Guide: Transforming Your iPhone Videos Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-audiences-on-major-social-media-sites-facebook-to-youtube-journey/"><u>Engage Audiences on Major Social Media Sites: Facebook to YouTube Journey</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-british-originals-and-favorites-on-netflix-for-now/"><u>Leading British Originals & Favorites on Netflix for Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-lg-channels-crucial-tips-and-knowledge/"><u>Navigating Through LG Channels: Crucial Tips & Knowledge</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixes-for-non-operational-audio-services/"><u>Resolved: Fixes for Non-Operational Audio Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-helperdll-file-error-a-step-by-step-guide/"><u>Solving 'Helper.dll' File Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-identifying-individuals-who-spread-your-content-on-facebook/"><u>The Ultimate Guide: Identifying Individuals Who Spread Your Content on Facebook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-apple-pay-10-hassle-free-methods-to-address-usual-glitches/"><u>Troubleshoot Your Apple Pay: 10 Hassle-Free Methods to Address Usual Glitches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-full-picture-potential-on-instagram-the-ultimate-guide/"><u>Unlocking Full Picture Potential on Instagram: The Ultimate Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-youtubes-premier-subscription-rates-with-student-discount-tactics/"><u>Unlocking YouTube's Premier Subscription Rates with Student Discount Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-media-magic-an-in-depth-analysis-of-magix-vpx-for-2024/"><u>[New] Exploring Media Magic An In-Depth Analysis of Magix VPX for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remier-popularity-prognosticator-for-video-charts-for-2024/"><u>[New] Premier Popularity Prognosticator for Video Charts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-gamers-manual-to-top-frame-rate-enhancers/"><u>2024 Approved A Gamer's Manual to Top Frame Rate Enhancers</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-guerir-un-plantage-du-systeme-en-reparant-le-code-ntfs-guide-complet/"><u>Comment Guérir Un Plantage Du Système en Réparant Le Code NTFS - Guide Complet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-top-cable-modem-and-wireless-routers-for-enhanced-connectivity-best-picks-2024/"><u>Comprehensive Review: Top Cable Modem & Wireless Routers for Enhanced Connectivity (Best Picks, 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eias-are-mandated-by-nepa-for-all-major-federal-actions-that-significantly-affect-the-environment/"><u>EIAs Are Mandated by NEPA for All Major Federal Actions that Significantly Affect the Environment.</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/essential-15-ideas-to-boost-your-snap-score-for-2024/"><u>Essential 15 Ideas to Boost Your Snap Score for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-not-found-error-a-comprehensive-guide-to-restoring-ftd2xxdll/"><u>Fix the Not Found Error: A Comprehensive Guide to Restoring ftd2xx.dll</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 FE Phone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-mini-moviemaker-a-fun-guide-for-kids-to-make-their-own-movies-for-2024/"><u>New The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide-to-identifying-and-resolving-the-issue/"><u>Understanding Error Code 0xC0000185: A Comprehensive Guide to Identifying & Resolving the Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpacking-the-nintendo-switch-whats-included-in-the-box/"><u>Unpacking the Nintendo Switch: What's Included in the Box</u></a></li>
 </ul></div>
 

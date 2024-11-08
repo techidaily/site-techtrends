@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-11-01T13:30:53.993Z
-updated: 2024-11-02T07:55:57.167Z
+date: 2024-11-03T08:01:15.638Z
+updated: 2024-11-08T01:22:35.639Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,13 +93,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,13 +107,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -132,10 +118,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -166,6 +152,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,22 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[Updated] 2024 Approved Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>[Updated] Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-online-impact-with-effective-backlink-strategies-for-2024/"><u>[Updated] Elevate Your Online Impact with Effective Backlink Strategies for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-top-tiktok-anthems-melodies-you-cant-get-out-of-your-head/"><u>2024 Approved Top TikTok Anthems Melodies You Can't Get Out of Your Head</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazingly-unexplored-aspects-the-hidden-world-of-emoji-trivia/"><u>Amazingly Unexplored Aspects: The Hidden World of Emoji Trivia</u></a></li>
-<li><a href="https://techtrends.techidaily.com/begin-again-with-confidence-windows-10-installation-tips-for-a-new-hard-disk-setup/"><u>Begin Again with Confidence: Windows 10 Installation Tips for a New Hard Disk Setup</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>Compreehing Movavi's Progress An In-Depth Look at the 2024 Edition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722720375922-comprehensive-dying-light-co-op-gameplay-guide-unleash-your-inner-survivor-with-dynamic-parkour/"><u>Comprehensive Dying Light Co-Op Gameplay Guide - Unleash Your Inner Survivor with Dynamic Parkour!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/comprehensive-explanation-deciphering-google-podcasts-app-for-2024/"><u>Comprehensive Explanation Deciphering Google Podcasts App for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-for-transforming-spotify-lists-into-plain-text-files/"><u>Easy Methods for Transforming Spotify Lists Into Plain Text Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-io-device-malfunctions/"><u>Effective Solutions for Resolving I/O Device Malfunctions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-yahoo-messenger-understanding-its-origins-and-reason-for-closure/"><u>Exploring Yahoo! Messenger: Understanding Its Origins and Reason for Closure</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-run-android-apps-in-windows-10/"><u>How to Run Android Apps in Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-androids-quick-settings-a-step-by-step-guide/"><u>Mastering Your Android's Quick Settings: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reclaiming-control-regain-entry-to-facebook-without-traditional-contacts/"><u>Reclaiming Control: Regain Entry to Facebook Without Traditional Contacts</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/techniques-pour-recouvrer-des-donnees-de-disque-dur-endommage-et-lecture-impossible-guide-complet/"><u>Techniques Pour Recouvrer Des Données De Disque Dur Endommagé Et Lecture Impossible : Guide Complet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-understanding-the-true-significance-behind-bsod-errors/"><u>Unraveling the Mystery: Understanding the True Significance Behind BSOD Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highpoint-design-suite-examination/"><u>2024 Approved Highpoint Design Suite Examination</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-video-subtitles-off-a-comprehensive-guide/"><u>Amazon Prime Video Subtitles Off: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/black-friday-macxdvd-extravaganza-exclusive-deals-and-chance-to-win/"><u>Black Friday MacXDVD Extravaganza: Exclusive Deals & Chance to Win!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-your-output-v305-aio-driver-enhancement-in-win7/"><u>Boost Your Output: V305 AIO Driver Enhancement in Win7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/css-dvd/"><u>CSS キーを使った DVD ディスク複製に失敗しました。解決策は何でしょうか？</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effiziente-datenreduktion-verkleinerung-von-hd-4k-und-8k-videoinhalten-um-90/"><u>Effiziente Datenreduktion: Verkleinerung Von HD, 4K Und 8K Videoinhalten Um 90%</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enable-and-stream-av1-content-with-plex-step-by-step-instructions/"><u>Enable and Stream AV1 Content with Plex: Step-by-Step Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/frei-handhabung-von-dvd-regionscodes-bei-der-konvertierung-fur-verschiedene-gebiete-auf-windows-7810/"><u>Frei Handhabung Von DVD-Regionscodes Bei Der Konvertierung Für Verschiedene Gebiete Auf Windows 7/8/10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/head-to-head-analysis-of-leading-mac-dvd-ripping-tools-macx-dvd-ripper-pro-vs-mac-dvdripper-pro-vs-mac-the-ripper/"><u>Head-to-Head Analysis of Leading Mac DVD Ripping Tools: MacX DVD Ripper Pro vs Mac DVDRipper Pro vs Mac The Ripper</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-merge-multiple-mp4-videos-in-easy-steps/"><u>How to Merge Multiple MP4 Videos in Easy Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/rapid-access-accelerating-vimeo-videos/"><u>Rapid Access Accelerating Vimeo Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-video-konvertierer-programme-fur-windows-11-sicher-und-effizient/"><u>Top 10 Video Konvertierer Programme Für Windows 11: Sicher Und Effizient</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-ebook-purchases-a-users-guide-to-utilizing-the-books-app-on-apple-tablets-and-phones/"><u>Unlocking eBook Purchases: A User’s Guide to Utilizing the Books App on Apple Tablets and Phones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/value-addition-techniques/"><u>Value Addition Techniques</u></a></li>
 </ul></div>
 

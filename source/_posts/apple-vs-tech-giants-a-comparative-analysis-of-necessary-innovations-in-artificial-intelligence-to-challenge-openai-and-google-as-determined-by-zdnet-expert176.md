@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-10-29T05:38:07.580Z
-updated: 2024-11-02T13:15:33.235Z
+date: 2024-11-07T05:18:29.931Z
+updated: 2024-11-08T07:26:35.380Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -93,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,18 +218,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-stop-the-sponsored-snippet-stops-in-fb/"><u>[New] 2024 Approved Stop the Sponsored Snippet Stops in FB</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-fcp-no-cost-access-a-guide/"><u>[New] FCP No-Cost Access A Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>[New] In 2024, How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-dissecting-video-ranking-algorithms-on-youtube/"><u>[Updated] 2024 Approved Dissecting Video Ranking Algorithms on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-correcting-gopros-fish-eye-distortion-techniques/"><u>2024 Approved Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/from-dorm-room-to-mainstream-trending-short-hashtags/"><u>From Dorm Room to Mainstream Trending Short Hashtags</u></a></li>
-<li><a href="https://win-updates.techidaily.com/new-release-alert-explore-the-advanced-capabilities-of-apowermanager-version-30/"><u>New Release Alert: Explore the Advanced Capabilities of ApowerManager Version 3.0!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solved-how-to-reduce-antimalware-service-executable-cpu-usage-in-windows-11-and-10/"><u>Solved: How to Reduce Antimalware Service Executable CPU Usage in Windows 11 & 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-audio-issues-optimizing-your-airpods-sound-quality-on-a-windows-computer/"><u>Solving Audio Issues: Optimizing Your AirPods' Sound Quality on a Windows Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stuck-keys-on-your-windows-keyboard-heres-how-you-can-unstick-them/"><u>Stuck Keys on Your Windows Keyboard? Here's How You Can Unstick Them!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/successfully-installs-windows-when-encountered-with-non-gpt-drive-limitations/"><u>Successfully Installs Windows When Encountered with Non-GPT Drive Limitations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trouble-free-pairing-of-beats-wireless-headphones-with-your-windows-11-pc-expert-advice-and-tips/"><u>Trouble-Free Pairing of Beats Wireless Headphones with Your Windows 11 PC – Expert Advice & Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-future-of-personal-assistants-on-your-wrist-6-insightful-ways-to-integrate-chatgpt-into-smartwatches/"><u>Unlock the Future of Personal Assistants on Your Wrist: 6 Insightful Ways to Integrate ChatGPT Into Smartwatches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-list-of-premium-screen-free-gaming-on-android-devices-for-2024/"><u>[New] Exclusive List of Premium Screen-Free Gaming on Android Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-must-have-tiktok-instruments-boosting-fame-in-the-shortest-time/"><u>[New] Must-Have TikTok Instruments Boosting Fame in the Shortest Time</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>[New] Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chuckles-churner-visual-composer/"><u>[Updated] Chuckles Churner Visual Composer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[Updated] In 2024, From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vs/"><u>「ライティングVSアウトプット:それぞれの違いを解き明かし、最高のツールも紹介！」</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-hot-40i-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-resolving-any-and-all-troubles-with-windows-11-updates/"><u>Complete Guide: Resolving Any and All Troubles with Windows 11 Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essence-of-turing-test-and-possibility-to-surpass/"><u>Essence of Turing Test and Possibility to Surpass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expertenhilfe-online-techniker-support-fur-winx-dvd-ripping-and-videokonvertierungsprogramme/"><u>Expertenhilfe Online: Techniker Support Für WinX DVD Ripping & Videokonvertierungsprogramme</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-gopro-hero4-silver-edition/"><u>In 2024, Complete Analysis GoPro HERO4 Silver Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>In 2024, Masterful Video Lighting Ultimate Techniques for Stunning Visuals</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/mastering-vmware-effective-techniques-to-launch-and-manage-vcenter-functions/"><u>Mastering VMware: Effective Techniques to Launch and Manage vCenter Functions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-converting-your-mp4-videos-to-mpeg-with-these-proven-methods-on-windows-and-macos/"><u>Quick Guide: Converting Your MP4 Videos to MPEG with These Proven Methods on Windows and MacOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolved-handbrake-hiccups-smoothly-complete-your-video-conversions/"><u>Resolved Handbrake Hiccups: Smoothly Complete Your Video Conversions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-playeras-de-dvd-mais-populares-para-sistemas-operacionais-windows-11-guia-completo/"><u>Top 12 Playeras De DVD Mais Populares Para Sistemas Operacionais Windows 11: Guia Completo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-gratuits-de-coupe-video-compatible-avec-windowsmac-pour-eliminer-les-passages-video-non-voulus/"><u>Top Gratuits De Coupe-Vidéo Compatible Avec Windows/Mac Pour Éliminer Les Passages Vidéo Non Voulus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-video-editor-winx-hd-advanced-gpu-accelerated-video-conversion-and-editing-features/"><u>Ultimate Video Editor: WinX HD - Advanced GPU-Accelerated Video Conversion & Editing Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pciphone/"><u>スマホからPCへ：IPhoneビデオ取り込み・再生手順検討</u></a></li>
 </ul></div>
 

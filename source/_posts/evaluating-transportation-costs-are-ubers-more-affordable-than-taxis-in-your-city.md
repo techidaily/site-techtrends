@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Transportation Costs: Are Ubers More Affordable Than Taxis in Your City?"
-date: 2024-09-11T17:38:20.055Z
-updated: 2024-09-12T17:38:20.055Z
+date: 2024-11-05T07:38:42.113Z
+updated: 2024-11-07T19:55:46.342Z
 categories:
   - BestProducts
 description: "This Article Describes Evaluating Transportation Costs: Are Ubers More Affordable Than Taxis in Your City?"
@@ -27,23 +27,9 @@ of 10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Organize All Your Notes Into Categorized Notebooks: Evernote](https://evernote.com/)
 
 ![Evernote website](https://www.lifewire.com/thmb/9oleNje8SO__JGQQ0VGFGJiKDmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at2.20.13PM-58ee71395f9b582c4dc3d173.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -79,13 +65,6 @@ of 10
 
 ![GingerLabs Notability website](https://www.lifewire.com/thmb/thNiSXfw8G3iysBhc2IHZBZv7KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-15at5.02.40PM-58f28ac55f9b582c4d5c1cbf.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What We Like
 
 * Good text-formatting options.
@@ -115,13 +94,6 @@ of 10
 ## [Use Cards to Make Note-Taking Fun and Colorful: Google Keep](https://www.google.com/keep/)
 
 ![Google Keep website](https://www.lifewire.com/thmb/ztU4ICqf971rpM5HCwySkDaAI1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.16.47PM-58ee7d993df78cd3fc52e00a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -155,6 +127,13 @@ of 10
 04
 
 of 10
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## [Build on the Power of Microsoft Apps: OneNote](https://www.onenote.com/)
 
@@ -195,21 +174,22 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## [Note-Taking for the Minimalist: Simplenote](https://simplenote.com/)
 
 ![Simplenote website](https://www.lifewire.com/thmb/_9N5RUSjHN_SraN7hIAJ7L4x_yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-12at3.02.14PM-58ee79ed5f9b582c4dd97d0a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -242,13 +222,6 @@ of 10
 06
 
 of 10
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [A Stunningly Visual Note-Taking Experience: Zoho Notebook](https://www.zoho.com/notebook/)
 
@@ -287,29 +260,9 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [A Collaborative Note-Taking App for Your Whole Team: Dropbox Paper](https://www.dropbox.com/paper/start)
 
 ![Dropbox Paper website](https://www.lifewire.com/thmb/3Y9VYshyhwfzEAhYUQo6qfLW-v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-17at9.13.18PM-58f5693f5f9b581d59046520.png)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -340,16 +293,16 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Best App for Taking Digital Handwritten Notes: Squid](https://www.squidnotes.com/)
 
 ![SquidNotes website](https://www.lifewire.com/thmb/elX17TRYlBrhykILBHZdUnmrAzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-18at3.28.23PM-58f669393df78ca159210743.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -375,13 +328,6 @@ of 10
 09
 
 of 10
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## [Most Flexible Note-Taking App: Bear](https://bear.app/)
 
@@ -415,9 +361,23 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Basic, Minimal, and Possibly All You Need: Notes](https://apps.apple.com/app/notes/id1110145109)
 
 ![Apple Notes website](https://www.lifewire.com/thmb/a3hdmF_cqcF1RmxUS5cVmozIgpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2017-04-25at7.10.21PM-58ffd86f5f9b581d59b97459.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ​
 
@@ -475,5 +435,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-the-process-of-android-video-u-turns-for-2024/"><u>[New] The Process of Android Video U-Turns for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-cutting-edge-game-recording-for-league-of-legends-lol-players-for-2024/"><u>[Updated] Cutting-Edge Game Recording for League of Legends LoL Players for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-studios-secret-for-seamless-video-editing/"><u>[Updated] YouTube Studio's Secret for Seamless Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-repairing-and-preventing-screen-burn-in-across-various-displays/"><u>Effective Solutions: Repairing and Preventing Screen Burn-In Across Various Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-network-recognition-issues-a-practical-guide-for-your-samsung-device/"><u>Fixing Network Recognition Issues: A Practical Guide for Your Samsung Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-long-does-a-mailcom-email-last-before-its-deactivated/"><u>How Long Does a Mail.com Email Last Before It's Deactivated?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-low-cost-android-calls-compared-ranking/"><u>In 2024, Best Low-Cost Android Calls Compared Ranking</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-epson-ds-530-printer-drivers-optimized-for-windows-11-64-bit/"><u>Install Epson DS-530 Printer Drivers - Optimized for Windows 11 (64-Bit)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reconnect-to-wi-fi-a-detailed-fix-for-your-surface-pro-woes/"><u>Reconnect to Wi-Fi: A Detailed Fix for Your Surface Pro Woes</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-a2-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi A2 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-try-these-7-methods/"><u>Struggling with iPhone's Auto-Brightness? Try These 7 Methods</u></a></li>
+</ul></div>
 

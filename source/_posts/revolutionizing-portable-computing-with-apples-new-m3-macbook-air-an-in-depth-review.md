@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-10-26T16:32:45.444Z
-updated: 2024-11-01T23:44:41.983Z
+date: 2024-11-01T04:44:22.712Z
+updated: 2024-11-07T16:10:52.389Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -74,18 +74,18 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -116,10 +116,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -150,13 +150,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -186,6 +179,19 @@ The M3 MacBook Air in Midnight now has the same anodized coating as the M3 MacBo
 Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -243,17 +249,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-light-and-shade-mastery-in-photographic-edits/"><u>[New] Light & Shade Mastery in Photographic Edits</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos-for-2024/"><u>[New] Streamline Video Communication Learn to Add Timely Captions on FB Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-live-broadcasting-bliss-comprehensive-list-of-hardware-and-software-for-successful-streams/"><u>[Updated] Live Broadcasting Bliss Comprehensive List of Hardware & Software for Successful Streams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/asus-zenwifi-ax6600-mesh-network-rigorously-tested-comprehensive-review/"><u>ASUS ZenWifi AX6600 Mesh Network Rigorously Tested - Comprehensive Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-classic-lg-watch-style-insights-into-navigating-wear-os-20-smartwatches/"><u>Evaluating the Classic LG Watch Style: Insights Into Navigating Wear OS 2.0 Smartwatches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-jsksriptdll-disappeared-or-non-existent-file-error-with-ease/"><u>Fix 'jsksript.dll' Disappeared or Non-Existent File Error with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-a-computer-fan-thats-loud-or-making-noise/"><u>How to Fix a Computer Fan That's Loud or Making Noise</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 7 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-meizu-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Meizu</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-lameencdll-issues-in-audacity-comprehensive-guide/"><u>Resolving lame_enc.dll Issues in Audacity – Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solve-your-airpods-charging-woes-top-9-methods/"><u>Solve Your AirPods Charging Woes: Top 9 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-online-hostility-on-video-platforms/"><u>[New] Navigating Online Hostility on Video Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-anatomy-of-hand-tracking-techniques-and-types/"><u>[Updated] Anatomy Of Hand Tracking Techniques and Types</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-beginners-vectors-guide-types-and-applications-demystified/"><u>[Updated] In 2024, Beginner's Vectors Guide Types & Applications Demystified</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-como-optimizar-videos-para-facebook-reduccion-eficiente-del-tamano-original/"><u>1. Cómo Optimizar Videos Para Facebook: Reducción Eficiente Del Tamaño Original</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-14-design-techniques-for-text-animation-for-2024/"><u>Advanced 14 Design Techniques for Text Animation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/die-effektivsten-kostenlosen-ansatze-zum-reduzieren-der-dateigrosse-von-mkv-videoinhalten-entdecken-sie-die-top-4-methoden/"><u>Die Effektivsten Kostenlosen Ansätze Zum Reduzieren Der Dateigröße Von MKV-Videoinhalten: Entdecken Sie Die Top 4 Methoden!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experiencing-trouble-with-discord-voice-chat-heres-what-to-do/"><u>Experiencing Trouble With Discord Voice Chat? Here's What to Do!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-mx-player-download-with-eac3-audio-support-aio-zip-version-1490/"><u>Free MX Player Download with EAC3 Audio Support (AIO ZIP, Version 1.49.0)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-completa-alla-conversione-gratuita-di-dvd-in-formato-mp4-usando-winxdvd-su-windows-e-mac/"><u>Guida Completa Alla Conversione Gratuita Di DVD in Formato MP4 Usando WinXDVD Su Windows E Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-the-art-of-crafting-compelling-content-in-60-second-videos/"><u>Mastering the Art of Crafting Compelling Content in 60-Second Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-9gag-meme-landscape-a-beginners-guide/"><u>Navigating the 9GAG Meme Landscape A Beginner's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/os-melhores-10-softwares-de-transcodificacao-dvd-para-mp4-em-windows-11-e-macos-guia-completo-do-ano-2023/"><u>Os Melhores 10 Softwares De Transcodificação DVD Para MP4 Em Windows 11 E macOS: Guia Completo Do Ano 2023</u></a></li>
+<li><a href="https://techtrends.techidaily.com/professional-media-transformation-leading-specialists-in-dvd-and-video-software-digiarty-systems/"><u>Professional Media Transformation: Leading Specialists in DVD and Video Software - Digiarty Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-distorted-audio-for-windows-10-and-7-users-step-by-step-guide/"><u>Troubleshooting Distorted Audio for Windows 10 and 7 Users: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd6windowsandmac/"><u>フリーDVD再生ソフト6品紹介：使いやすさを考慮したWindows&Mac用ソフト選手権【プレイ方法も解説】</u></a></li>
 </ul></div>
 

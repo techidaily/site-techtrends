@@ -1,7 +1,7 @@
 ---
 title: Personalize System Appearance - Alter Fonts in Windows 11 Easily
-date: 2024-09-11T00:26:04.492Z
-updated: 2024-09-17T22:22:23.084Z
+date: 2024-11-04T06:51:28.859Z
+updated: 2024-11-07T16:24:20.267Z
 categories:
   - BestProducts
 description: This Article Describes Personalize System Appearance - Alter Fonts in Windows 11 Easily
@@ -38,8 +38,23 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
 4. Click the**Choose your color** drop down, and select**Custom** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Custom highlighted in the choose your color Windows personalization dropdown box.](https://www.lifewire.com/thmb/eA7uewut5FM7kZcZg4i8rTtsoAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customannotated-e732222a31ff4e7084109b0cde824d2f.jpg)
 5. Under**Choose your default Windows mode** , click**Dark** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dark highlighted under Choose your default Windows mode.](https://www.lifewire.com/thmb/hwscXAtkVVGnRXJOxVPrK4-g_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Darkannotated-24f27a05096643cbaea9db7154eb3c20.jpg)
 6. Click**Custom color** .  
 ![Custom color highlighted in Windows color settings.](https://www.lifewire.com/thmb/M8gPUzgdrRCHL-40UiGLeUBo8i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Customcolorannotated-b599f0b8b4fe4e0b92240f051aee0d90.jpg)
@@ -50,7 +65,21 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Can’t I Change the Color of My Taskbar?
 
@@ -58,14 +87,14 @@ thumbnail: https://www.lifewire.com/thmb/-cTvGd46z-nxjaB4BcHIRDdTv0U=/400x300/fi
 
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
- You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
 ## Why Has My Taskbar Changed Color in Windows 10?
 
@@ -113,5 +142,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[New] In 2024, Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-whatsapp-wisdom-top-30-astrology-inspired-biographies-for-2024/"><u>[New] WhatsApp Wisdom – Top 30 Astrology-Inspired Biographies for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-konvertereen-van-m4a-naar-swf-professioneel-onlinedienst-by-movavi/"><u>Gratis Konvertereen Van M4A Naar SWF: Professioneel Onlinedienst by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-the-power-of-cookiebot-for-effective-ad-targeting/"><u>Harnessing the Power of Cookiebot for Effective Ad Targeting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-document-automation-exploring-the-power-of-abbyy-and-pegasystems/"><u>Innovative Document Automation: Exploring the Power of ABBYY & Pegasystems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovatives-mehrsprachiges-modul-jobrouter-zur-optimierung-von-abgyy-gestutzten-arbeitsablaufen/"><u>Innovatives Mehrsprachiges Modul JobRouter Zur Optimierung Von ABGYY-Gestützten Arbeitsabläufen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrate-abbyy-textgrabber-and-finescanner-with-your-ios-devices-using-siri-shortcuts/"><u>Integrate ABBYY TextGrabber & FineScanner with Your iOS Devices Using Siri Shortcuts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside!</u></a></li>
+<li><a href="https://win-data.techidaily.com/wd-my-cloud-visibility-issues-how-to-resolve-connectivity-problems-with-windows-11/"><u>WD My Cloud Visibility Issues: How to Resolve Connectivity Problems with Windows 11</u></a></li>
+</ul></div>
 

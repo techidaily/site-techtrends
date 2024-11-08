@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-10-31T12:22:19.435Z
-updated: 2024-11-02T07:03:16.983Z
+date: 2024-11-04T09:54:13.875Z
+updated: 2024-11-07T21:23:06.790Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -55,19 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -78,19 +65,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -100,10 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
@@ -121,6 +95,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -133,6 +114,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -143,18 +131,18 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Julie Bang
 
@@ -201,17 +189,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dive-into-the-world-of-youtube-shorts-mastering-video-creation-for-2024/"><u>[Updated] Dive Into the World of YouTube Shorts Mastering Video Creation for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premium-20-free-to-use-pubg-image-arrays/"><u>[Updated] In 2024, Premium 20 Free-to-Use PUBG Image Arrays</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/bandicam-screen-recorder-review-for-2024/"><u>Bandicam Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-techniques-for-troubleshooting-advapi32dll-missing-errors/"><u>Effective Techniques for Troubleshooting 'Advapi32.dll Missing' Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-your-new-linksys-admin-password-the-july-2024-edition/"><u>Find Your New Linksys Admin Password: The July 2024 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-running-android-apps-seamlessly-on-a-windows-10-machine/"><u>Guide: Running Android Apps Seamlessly on a Windows 10 Machine</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-overview-of-google-docs-voice-input-functionality/"><u>In 2024, Comprehensive Overview of Google Docs Voice Input Functionality</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-a15-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy A15 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-superior-microphones-for-livestreaming/"><u>In 2024, Superior Microphones for Livestreaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pairing-it-right-your-essential-handbook-for-duets-on-the-popular-app-tiktok/"><u>Pairing It Right: Your Essential Handbook for Duets on the Popular App TikTok</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-correctly-address-a-missing-mssfmtdll-file-error-message/"><u>Steps to Correctly Address a Missing mssfmt.dll File Error Message</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>[New] Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725288666568-dvd/"><u>「ウィンドストームDVDバックアップソフトウェアパックのネット販売を見つける」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-how-to-fix-distorted-aspect-ratio-when-converting-dvd-vob-files-to-mp4-using-handbrake/"><u>1. How to Fix Distorted Aspect Ratio when Converting DVD VOB Files to MP4 Using Handbrake</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024-buyers-pick-elite-collection-of-stylish-google-pixel-wristbands-reviewed/"><u>2024 Buyer’s Pick: Elite Collection of Stylish Google Pixel Wristbands Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/202410/"><u>2024年必見！【最新】動画変換のプロフェッショナルソフトウェア10選：優良無料高画質オプションも!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4-mjpeg-movavi/"><u>線上免費 MP4 到 MJPEG 格式轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-transferring-dvd-content-from-winx-dvd-ripper-for-mac-to-your-ipadapple-tv-devices/"><u>Comprehensive Guide to Transferring DVD Content From WinX DVD Ripper for Mac to Your iPad/Apple TV Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-install-and-utilize-the-instagram-app-for-pcs-windows-11-8-7/"><u>Discover How to Install and Utilize the Instagram App for PCs (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eliminate-the-runtunk13-glitch-in-hulu-an-effective-fix-guide-for-users/"><u>Eliminate the RUNTUNK13 Glitch in Hulu – An Effective Fix Guide for Users.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-picks-the-best-6-online-communities-for-enterprise-expansion/"><u>Key Picks The Best 6 Online Communities for Enterprise Expansion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/plante-vegetacao-nativa/"><u>Plante Vegetação Nativa</u></a></li>
+<li><a href="https://win11.techidaily.com/remove-bland-look-from-windows-volume-controls/"><u>Remove Bland Look From Windows Volume Controls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-handbrake-dvd-ripper-corruption-issues/"><u>Resolving HandBrake DVD Ripper Corruption Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/strategies-to-ensure-iphone-camera-focus/"><u>Strategies to Ensure iPhone Camera Focus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-il-tuo-video-h264-in-h265-con-perdite-di-qualita-zero-guida-completa-gratuita/"><u>Trasforma Il Tuo Video H.264 In H.265 Con Perdite Di Qualità Zero - Guida Completa Gratuita!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/vobwindows1078macos/"><u>VOBファイル融合手順：Windows10/7/8・macOS対応ガイド</u></a></li>
 </ul></div>
 

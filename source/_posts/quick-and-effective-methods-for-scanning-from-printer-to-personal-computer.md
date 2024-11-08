@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2024-10-28T08:18:57.625Z
-updated: 2024-11-02T01:41:09.998Z
+date: 2024-11-01T02:16:18.336Z
+updated: 2024-11-07T21:48:51.481Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -38,32 +38,25 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
@@ -72,21 +65,28 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
 
@@ -104,17 +104,17 @@ lolostock / Getty Images
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  FAQ
 
@@ -154,22 +154,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-access-creative-banners-for-video-makers-at-zero-price/"><u>[New] 2024 Approved Access Creative Banners for Video Makers at Zero Price</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-essential-list-of-7-high-performance-mobile-video-streaming-tools-iphoneandroid/"><u>[New] 2024 Approved Discover Essential List of 7 High-Performance Mobile Video Streaming Tools (iPhone/Android)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[New] In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-art-of-video-transmission-from-fb-to-whatsapp/"><u>2024 Approved The Art of Video Transmission From FB to WhatsApp</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-of-the-best-top-32-free-backup-utilities-and-their-comparative-assessments/"><u>Best of the Best: Top 32 Free Backup Utilities & Their Comparative Assessments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-on-linking-laptop-display-to-television-using-hdmi-cable/"><u>Comprehensive Instructions on Linking Laptop Display to Television Using HDMI Cable</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-visual-content-with-effective-snapchat-zoom-techniques/"><u>Elevate Visual Content with Effective Snapchat Zoom Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/error-troubleshooting-repairing-missing-shell32dll-messages-on-your-computer/"><u>Error Troubleshooting: Repairing Missing shell32.dll Messages on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-tackling-and-solving-power-surges-in-hub-terminals/"><u>Expert Advice for Tackling and Solving Power Surges in Hub Terminals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-lack-of-sound-in-samsung-galaxy-buds-plus-g435/"><u>Fixing Lack of Sound in Samsung Galaxy Buds Plus (G435)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-13-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 13 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722896595342-how-to-solve-when-your-system-cant-locate-dbghelpdll/"><u>How to Solve When Your System Can’t Locate dbghelp.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-review-of-the-premier-undelete-program-exploring-recuva-capabilities/"><u>In-Depth Review of the Premier Undelete Program: Exploring Recuva Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-new-mac-mini-m4-insights-into-potential-price-points-arrival-date-and-advanced-features/"><u>Inside the New Mac Mini M4 - Insights Into Potential Price Points, Arrival Date & Advanced Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-undetected-hurdles-successfully-recognizing-your-western-digital-my-passport-ultra-in-windows/"><u>Overcoming Undetected Hurdles: Successfully Recognizing Your Western Digital My Passport Ultra in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-advancements-and-impacts-of-5g-technology-by-verizon/"><u>The Advancements and Impacts of 5G Technology by Verizon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-finest-gaming-micro-atx-systems-reviewed-and-rated/"><u>The Finest Gaming Micro ATX Systems Reviewed and Rated</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-academic-avenue-leading-educators-on-youtube-for-2024/"><u>[New] Academic Avenue Leading Educators on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastery-in-managing-w10-photos-crashes-with-expert-tips-for-2024/"><u>[New] Mastery in Managing W10 Photos Crashes with Expert Tips for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-seamless-ppt-showcase-across-tablets-and-laptops-for-gmeet/"><u>[Updated] 2024 Approved Seamless PPT Showcase Across Tablets & Laptops for GMeet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-windows-11-dvd-ripper-ultimate-free-software-for-converting-dvds-to-avi-mp4-and-more-on-android-iphone-ipad/"><u>1. Windows 11 DVD Ripper: Ultimate Free Software for Converting DVDs to AVI, MP4 & More on Android, iPhone, iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvid-ai/"><u>如何利用WinxVid AI提高影片品質，達到最佳效果</u></a></li>
+<li><a href="https://techtrends.techidaily.com/burn-your-mkv-videos-into-a-perfectly-playable-dvd-using-these-3-free-tools/"><u>Burn Your Mkv Videos Into a Perfectly Playable DVD Using These 3 Free Tools!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-graviter-vers-des-conversions-de-dvd-en-h265-a-partir-de-fichiers-blu-ray-sans-cout/"><u>Comment Graviter Vers Des Conversions De DVD en H.265 À Partir De Fichiers Blu-Ray Sans Coût ?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-virtual-reality-experience-with-apples-immersive-3d-videos-compatible-with-oculus-quest-get-started-now/"><u>Enhance Your Virtual Reality Experience with Apple's Immersive 3D Videos Compatible with Oculus Quest | Get Started Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-your-xbox-one-gameplay-converting-43-content-to-wide-screen-169-format/"><u>Expanding Your Xbox One Gameplay: Converting 4:3 Content to Wide-Screen 16:9 Format</u></a></li>
+<li><a href="https://win-guides.techidaily.com/mastering-the-windows-11-deployment-process-with-winpe-bootable-usb-solutions/"><u>Mastering the Windows 11 Deployment Process with WinPE Bootable USB Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-top-free-video-editing-tools-for-gamers/"><u>New Best Top Free Video Editing Tools for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-when-alan-wakes-sequel-doesnt-launch/"><u>Solutions for When Alan Wake's Sequel Doesn't Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-importing-your-snapchat-images-from-iphone-to-desktop/"><u>Step-by-Step Guide: Importing Your Snapchat Images From iPhone to Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-developer-issue-no-5573-in-call-of-duty-warzone-a-complete-tutorial-for-pc-and-console-players/"><u>Troubleshooting Developer Issue No. 5573 in Call of Duty: Warzone – A Complete Tutorial for PC and Console Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-typical-windows-rainmeter-setbacks-and-how-to-overcome-them/"><u>Unraveling Typical Windows Rainmeter Setbacks and How to Overcome Them</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxvideo-ai-professionelles-video-und-bildoptimierungstool-fur-skalierung-stabilisierung-umwandlung-bearbeitung-and-videonutzung/"><u>WinxVideo AI: Professionelles Video- Und Bildoptimierungstool Für Skalierung, Stabilisierung, Umwandlung, Bearbeitung & Videonutzung</u></a></li>
 </ul></div>
 

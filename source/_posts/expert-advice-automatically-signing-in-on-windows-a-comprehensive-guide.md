@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
-date: 2024-10-29T11:29:24.663Z
-updated: 2024-11-02T12:08:51.404Z
+date: 2024-11-03T05:53:01.988Z
+updated: 2024-11-08T00:50:37.347Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  This article explains how to automatically log in to Windows 11, 10, 8, 7, Vista, and XP. It also includes information on using auto login in a domain scenario and tips for when the normal steps don't work.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Automatically Log On to Windows
 
  There are plenty of good reasons to auto log in to your computer, and there are several reasons not to (see the_Is It Safe_ section below). If security isn't an issue, follow these steps to make Windows log in automatically:  
@@ -49,17 +42,17 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![OK button after Users must enter a user name and password to use this computer checkbox is unchecked](https://www.lifewire.com/thmb/Jid5rcDhN0RyGcKE4dmqgIVLB3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-do-i-auto-login-to-windows-2626066-5bd105e9c9e77c005114a69c.jpg)
 4. When the password prompt appears, enter the username you wish to use for your automatic login, followed by the password in the next two boxes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Windows 11, 10, and 8, if you're using a Microsoft account, be sure to enter the entire email address that you use to sign in to Windows, in the**User name** field. The defaults there might instead be the name associated with your account, not your actual username.
 5. Select**OK** to save and close the open windows.  
 ![OK button in Automatically sign in window appears in Windows 10 User Accounts panel](https://www.lifewire.com/thmb/NbSrcUiWhOzBqCWlhrmtJvXMDdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-do-i-auto-login-to-windows-2626066-5bd1061646e0fb00264cb246.jpg)
 6. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and make sure that Windows automatically logs you in. You may catch a glimpse of the sign-in screen, but only long enough to see it log you in without you having to type anything!
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Are you a Desktop lover looking to speed up your Windows 8 boot process even more? In Windows 8.1 or later, you can make Windows start directly to the Desktop, skipping the Start screen. See[How to Boot to the Desktop in Windows 8.1](https://www.lifewire.com/how-to-boot-to-the-desktop-in-windows-8-1-2626240) for instructions.
 
@@ -71,16 +64,23 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![regedit command in Windows 10](https://www.lifewire.com/thmb/S5plzssdJfj5F_g0EWjnrY3y0y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/regedit-command-windows-10-a994eadfb12045c0bf2f41b22e2d65b0.png)  
  While following the steps below_exactly_ should be perfectly safe, we always recommend that you[back up the registry](https://www.lifewire.com/how-to-back-up-the-windows-registry-2625146) before making changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Paste this path into the navigation bar at the top of the editor:  
  `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
 3. Right-click the value called**DevicePasswordLessBuildVersion** , then choose**Delete** and confirm by pressing**Yes** . You can now repeat the above steps.  
 ![The DevicePasswordLessBuildVersion value highlighted in the Windows 11 registry editor](https://www.lifewire.com/thmb/-YZozQpXtRzfIaJbTZKstaiJLNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-passwordless-66acf1099df541fba128680eb6c4af06.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Auto Log in for Domain Scenarios
@@ -94,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![HKEY LOCAL MACHINE SOFTWARE registry editor path](https://www.lifewire.com/thmb/irNYI_pfuwf67jcRwZzYP_u5_WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-local-machine-software-92ed659b15ae4364ae031f0464b627b4.png)  
  If you're in an entirely separate location in the Windows Registry when you open it, just scroll to the very top on the left side until you see _Computer_ , and then collapse each hive until you reach HKEY\_LOCAL\_MACHINE.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Continue drilling down through the nested[registry keys](https://www.lifewire.com/what-is-a-registry-key-2625999) , first to**Microsoft** , then**Windows NT** , then**CurrentVersion** , and then finally**Winlogon** .
 4. With**Winlogon** selected on the left, locate the[registry value](https://www.lifewire.com/what-is-a-registry-value-2626042) of**AutoAdminLogon** on the right.
 5. Double-click_AutoAdminLogon_ and change the_Value data_ to**1** from 0.
@@ -108,19 +101,19 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![AutoAdminLogon Value data 0 in Registry Editor - OK button highlighted](https://www.lifewire.com/thmb/6WXdAG90hh6wKhr228JbWYMRqtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-do-i-auto-login-to-windows-2626066-5bd1118ec9e77c0051169fb2.jpg)
 7. Restart your computer and then follow the standard Windows auto-login procedure outlined above.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That_should_ work, but if not, you may have to manually add a few additional registry values yourself. It's not too difficult.
 
 1. Work back to**Winlogon** in the Windows registry, as outlined above from Step 1 through Step 3.
 2. Add the string values of**DefaultDomainName** ,**DefaultUserName** , and**DefaultPassword** , assuming they don't already exist.  
 ![New string value registry editor option in Windows 10](https://www.lifewire.com/thmb/AKZmRwHrLyDWxx-L5J12AqZuAuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-new-string-value-a458de15ea124fa79e8873f7422ff818.png)  
  You can[add a new string value](https://www.lifewire.com/how-to-add-change-delete-registry-keys-values-2625145) from the menu in Registry Editor through**Edit** \>**New** \>**String Value** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Set the_Value data_ as your**domain** ,**user name** , and**password** , respectively.  
 ![Screenshot of the Windows 10 registry with DefaultDomainName, DefaultUserName, and DefaultPassword highlighted](https://www.lifewire.com/thmb/_9Nkxmld9oRfhRYMTPwUn6KbJoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/default-autologin-registry-5ae0f5dfa9d4f900370a9b5b.png)
@@ -131,10 +124,16 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  As great as it sounds to be able to skip over that sometimes annoying login process when Windows starts, it's not always a good idea. In fact, it may even be a bad idea, and here's why:_computers are less and less physically secure_ .
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security Risks and Auto Log In
@@ -144,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  On the other hand, if you're using a Windows laptop, netbook, tablet, or another portable computer that often leaves your home, we _highly_ recommend that you don't configure it to automatically log in.
 
  The login screen is the first defense your computer has from a user who shouldn't have access. If your computer is stolen and you've configured it to skip right over that basic protection, the thief will have access to everything you have on it—email, social networks, other passwords, bank accounts, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Multiple User Accounts and Auto Log In
 
@@ -189,24 +195,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tiktok-to-facebook-social-media-linking-guide/"><u>[New] In 2024, TikTok-to-Facebook Social Media Linking Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solved-logitech-k520-keyboard-not-working-quickly-and-easily/"><u>[SOLVED] Logitech K520 Keyboard Not Working | Quickly & Easily</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-ios-video-editor-apps-top-10-best-to-know/"><u>[Updated] In 2024, Essential iOS Video Editor Apps Top 10 Best to Know</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>[Updated] YouTube's Copyright Landscape Decoded A Complete Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/bringing-friends-together-with-games-from-steam/"><u>Bringing Friends Together with Games From Steam</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/godfall-critique-underwhelming-narrative-and-gameplay-as-ps5-exclusive-debut/"><u>Godfall Critique: Underwhelming Narrative and Gameplay as PS5 Exclusive Debut</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-14-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 14 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial/"><u>Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/relative-roughness-ed-is-a-critical-parameter-along-with-reynolds-number-when-using-the-moody-chart/"><u>Relative Roughness (Ε/D) Is a Critical Parameter Along with Reynolds Number when Using the Moody Chart.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-inoperative-drag-and-drop-problems-on-microsoft-windows-systems/"><u>Resolve Inoperative Drag & Drop Problems on Microsoft Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-connectivity-issues-how-to-fix-external-hdds-unrecognized-by-windows-11/"><u>Resolving Connectivity Issues: How to Fix External HDDs Unrecognized by Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-steps-getting-rid-of-unwanted-programs-on-windows-10-devices/"><u>Seamless Steps: Getting Rid of Unwanted Programs on Windows 10 Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solved-how-to-repair-broken-usb-connectivity-in-your-computers-ports/"><u>Solved! How to Repair Broken USB Connectivity in Your Computer's Ports</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-the-superrepo-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up the SuperRepo Addon in Kodi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-windows-11-search-functionality-for-easy-solutions/"><u>Troubleshooting Windows 11 Search Functionality for Easy Solutions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-permission-problems-with-usb-installation-on-windows/"><u>Troubleshooting: Permission Problems with USB Installation on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-mastering-live-streams-with-manycam-virtual-webcams/"><u>Ultimate Guide: Mastering Live Streams with ManyCam Virtual Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/updating-your-pcs-drivers-with-windows-10s-built-in-tool-a-step-by-step-guide/"><u>Updating Your PC's Drivers with Windows 10'S Built-In Tool: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-premier-top-selections-affordable-sbd-applications/"><u>[New] In 2024, Premier Top Selections Affordable SBD Applications</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions-for-2024/"><u>[Updated] Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-dvd-creation-tutorial-how-to-successfully-free-burn-discs-across-multiple-operating-systems-including-windows-and-mac-os-x-versions-11-10-8-and-7/"><u>DIY DVD Creation Tutorial: How to Successfully Free Burn Discs Across Multiple Operating Systems, Including Windows and Mac OS X Versions 11, 10, 8 & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-solution-for-non-playable-udf-movies-mastering-playback-with-winx-dvd-ripper/"><u>Effortless Solution for Non-Playable UDF Movies: Mastering Playback with WinX DVD Ripper</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone SE without Password?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-window-call-apps-2-1-sorted/"><u>In 2024, Leading Window Call Apps, #2-#1 Sorted</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-power-and-portability-in-the-razer-blade-pro-17/"><u>In-Depth Analysis: Power and Portability in the Razer Blade Pro 17</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macmp4mkvm2ts/"><u>Mac上的無限影片下載：免費轉換MP4、MKV、M2TS和更多格式</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speedy-hd-video-conversion-winx-dvd-ripper-pro-transform-your-dvds-to-mp4hevc-format-under-5-minutes/"><u>Speedy HD Video Conversion: WinX DVD Ripper Pro - Transform Your DVDs to MP4/HEVC Format Under 5 Minutes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/thawing-out-your-pc-a-step-by-step-guide-to-resolving-freezes-on-windows-11/"><u>Thawing Out Your PC: A Step-by-Step Guide to Resolving Freezes on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-quality-adjustments-optimizing-your-4k-television-display-with-leading-brand-models/"><u>Top Quality Adjustments: Optimizing Your 4K Television Display with Leading Brand Models</u></a></li>
+<li><a href="https://facebook.techidaily.com/trends-in-account-compromises-on-websites/"><u>Trends in Account Compromises on Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-to-reduce-file-size-of-avi-movies-in-windows-ask-label-the-following-with-either-false-or-true/"><u>Ultimate Tips to Reduce File Size of AVI Movies in Windows # Ask: Label the Following with Either False or True</u></a></li>
 </ul></div>
 

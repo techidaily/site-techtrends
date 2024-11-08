@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-10-28T00:02:38.378Z
-updated: 2024-11-02T07:52:22.937Z
+date: 2024-11-02T04:38:44.201Z
+updated: 2024-11-08T05:03:17.438Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -72,10 +66,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -127,15 +121,18 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-tapping-into-asmrs-potential-for-self-improvement/"><u>[Updated] Tapping Into ASMR's Potential for Self-Improvement</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-storm-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Storm 5G without App | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-streaming-gadgets-an-in-depth-look/"><u>Exploring the World of Streaming Gadgets: An In-Depth Look</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-skys-the-limit-with-dji-spark-an-in-depth-miniature-drone-study/"><u>In 2024, Sky's the Limit with DJI Spark An In-Depth Miniature Drone Study</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95689793-9781440536434-love-astrology-scorpio/"><u>Love Astrology: Scorpio | Free Book</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/maximize-your-engagement-with-full-screen-facebook-videos-for-2024/"><u>Maximize Your Engagement with Full-Screen Facebook Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-integrating-apple-homepod-and-your-tv/"><u>Step-by-Step Tutorial on Integrating Apple HomePod and Your TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-viewing-the-how-to-train-your-dragon-films-in-correct-order/"><u>The Ultimate Guide to Viewing the How to Train Your Dragon Films - In Correct Order!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-desktop-with-a-new-taskbar-shade/"><u>Transforming Your Windows 11 Desktop with a New Taskbar Shade</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/using-snapchat-via-pc-a-comprehensive-tutorial/"><u>Using Snapchat via PC - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-beginners-guide-to-simple-yet-effective-filming-gear/"><u>[New] In 2024, Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-how-to-free-fix-a-corrupted-mp4-video-file-on-pc-or-mac-step-by-step-guide/"><u>1. How to Free Fix a Corrupted MP4 Video File on PC or Mac - Step by Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/breakthrough-ways-to-transform-your-powerpoint-presentations/"><u>Breakthrough Ways to Transform Your PowerPoint Presentations</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/comment-recuperer-les-fichiers-dun-sauvegarde-sur-windows-server-2012-r2/"><u>Comment Recuperer Les Fichiers D'Un Sauvegarde Sur Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-cloning-guide-transferring-content-from-dvds-to-your-pc-using-windows-version-11-10-and-earlier/"><u>DVD Cloning Guide: Transferring Content From DVDs to Your PC Using Windows (Version 11, 10 & Earlier)</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-find-x6-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Find X6 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-mov-to-mp3-conversion-guide-top-free-tools-and-tutorials-for-mac-users/"><u>Effortless MOV-to-MP3 Conversion Guide: Top Free Tools & Tutorials for Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-transformation-with-digiarty-software-dvd-to-videofromat-converter/"><u>Effortless Transformation with Digiarty Software - DVD to Videofromat Converter</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-agni-2-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Agni 2 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streamline-your-workflow-macos-screencast-tutorial/"><u>In 2024, Streamline Your Workflow MacOS Screencast Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-your-entire-photo-collection-from-iphones-up-to-model-15/"><u>Step-by-Step Guide: Removing Your Entire Photo Collection From iPhones Up to Model 15</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-dji-4k-video-editing-software-compared-best-picks-for-windows-and-mac-in-202n/"><u>Top-Ranking DJI 4K Video Editing Software Compared: Best Picks for Windows and Mac in 202N</u></a></li>
 </ul></div>
 
