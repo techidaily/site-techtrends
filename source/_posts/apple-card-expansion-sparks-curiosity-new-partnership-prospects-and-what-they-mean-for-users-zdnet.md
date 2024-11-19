@@ -1,7 +1,7 @@
 ---
 title: "Apple Card Expansion Sparks Curiosity: New Partnership Prospects and What They Mean for Users | ZDNET"
-date: 2024-10-26T19:42:20.158Z
-updated: 2024-10-27T16:52:58.174Z
+date: 2024-11-17T01:54:28.276Z
+updated: 2024-11-18T21:28:58.558Z
 tags:
   - apple
 categories:
@@ -51,13 +51,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Goldman Sachs's consumer business: A lot to swallow
 
 Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 billion, encompasses several key segments:
@@ -68,10 +61,16 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The potential acquisition scenarios
@@ -81,10 +80,10 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The potential new partners
@@ -97,10 +96,10 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customer expectations will remain high
@@ -108,6 +107,13 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 The transition will have significant implications for Apple Card users. Maintaining the card's security, functionality, and user trust is crucial. Apple Card customers are used to excellent tech support and issue resolution, [something that I personally have experienced, especially during the worst of COVID-19 pandemic](https://www.zdnet.com/article/why-i-love-apple-card-in-the-age-of-covid/). Whoever takes over the banking relationship must also provide the [same great backend for Apple's UX in Wallet](https://www.zdnet.com/article/insanely-great-apple-card-is-a-few-features-away-from-conquering-everything/) and great phone support.
 
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
 
@@ -151,24 +157,22 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-complete-playbook-for-youtube-beginners/"><u>[New] The Complete Playbook for YouTube Beginners</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-zen-and-jam-the-best-20-tranquil-country-tracks-to-shake-off-stress-tiktok/"><u>[Updated] In 2024, Zen & Jam The Best 20 Tranquil Country Tracks to Shake Off Stress (TikTok)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-through-tiktoks-video-palettes/"><u>[Updated] Navigating Through TikTok's Video Palettes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-three-proven-steps-for-archiving-your-favorite-discord-shows/"><u>2024 Approved Three Proven Steps for Archiving Your Favorite Discord Shows</u></a></li>
-<li><a href="https://win11.techidaily.com/a-compreran-guide-resolving-source-disk-errors-in-microsoft-oses/"><u>A Compreran Guide: Resolving Source Disk Errors in Microsoft OSes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solution-for-the-persistent-0x80072efd-problem-in-windows-10/"><u>Complete Solution for the Persistent 0X80072EFD Problem in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-hassle-free-charging-how-the-viral-tangle-resistant-usb-c-cable-became-my-travel-lifesaver-innovation-spotlights-by-zdnet/"><u>Experience Hassle-Free Charging: How the Viral Tangle-Resistant USB-C Cable Became My Travel Lifesaver | Innovation Spotlights by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-preventing-spam-sms-on-your-iphone-device/"><u>Guide: Preventing Spam SMS on Your iPhone Device</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-se-2022-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone SE (2022) After Forgetting the Passcode?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/making-imessage-work-with-android-the-ultimate-walkthrough/"><u>Making iMessage Work with Android: The Ultimate Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-cloud-play-your-essential-steps-with-xbox-game-pass-ultimate/"><u>Mastering Cloud Play: Your Essential Steps with Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-device-with-a-complete-list-of-ipados-versions-explained/"><u>Mastering Your Device with a Complete List of iPadOS Versions Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secrets-unveiled-a-guide-on-landing-a-free-netflix-subscription/"><u>Secrets Unveiled: A Guide on Landing a Free Netflix Subscription</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-issue-how-to-prevent-far-cry-6-from-crashing-on-your-computer/"><u>Solved Issue: How to Prevent Far Cry 6 From Crashing on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722892861535-surface-pro-display-dilemma-discover-how-to-stop-the-shakingflickering/"><u>Surface Pro Display Dilemma? Discover How To Stop the Shaking/Flickering</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-insiders-guide-to-expanding-your-twitter-circle-secrets-to-drawing-in-a-loyal-audience/"><u>The Insider's Guide to Expanding Your Twitter Circle: Secrets to Drawing in a Loyal Audience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-on-google-nest-hello-intelligent-facial-recognition-innovative-package-sensing-and-advanced-home-automation-features/"><u>The Ultimate Review on Google Nest Hello: Intelligent Facial Recognition, Innovative Package Sensing, and Advanced Home Automation Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-checking-your-data-plan-utilization/"><u>Understanding and Checking Your Data Plan Utilization</u></a></li>
-<li><a href="https://techtrends.techidaily.com/who-saw-my-google-doc-uncover-viewers-with-ease/"><u>Who Saw My Google Doc? Uncover Viewers with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-recommendations-for-limitless-data-holding/"><u>[Updated] In 2024, Expert Recommendations for Limitless Data Holding</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems/"><u>[Updated] In 2024, Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x9b-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor X9b</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-tiny-powerhouse-on-your-pocket-in-depth-insights-into-the-samsung-galaxy-s10e/"><u>A Tiny Powerhouse on Your Pocket: In-Depth Insights Into the Samsung Galaxy S10e</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-samsung-tv-apps-features-functionality-and-tips-for-optimal-use/"><u>All About Samsung TV Apps: Features, Functionality, and Tips for Optimal Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aol-email-outage-faqs-identifying-if-the-problem-is-with-your-account-or-network/"><u>AOL Email Outage FAQs: Identifying if the Problem Is with Your Account or Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beating-the-0x80070570-glitch-expert-troubleshooting-steps/"><u>Beating the 0X80070570 Glitch: Expert Troubleshooting Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-ig-content-three-steps-for-compelling-video-descriptions/"><u>Boost IG Content - Three Steps for Compelling Video Descriptions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-the-autoplay-feature-in-apple-music-tips-and-tricks/"><u>Disabling the Autoplay Feature in Apple Music - Tips & Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-play-8t-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Play 8T to Protect Your Individual Information</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-for-streamlining-iphone-video-content/"><u>In 2024, The Ultimate Guide for Streamlining iPhone Video Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-playlist-integration-on-spotify-for-a-seamless-listening-experience/"><u>Mastering the Art of Playlist Integration on Spotify for a Seamless Listening Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-mastering-quantum-hdr-for-2024/"><u>Step by Step Guide to Mastering Quantum HDR for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamlined-setup-connecting-multiple-bluetooth-units-to-a-single-source/"><u>Streamlined Setup: Connecting Multiple Bluetooth Units to a Single Source</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-impact-of-memory-bandwidth-and-delay-on-computer-performance/"><u>Understanding the Impact of Memory Bandwidth & Delay on Computer Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-on-screen-keyboard-management-a-quick-how-to/"><u>Windows 11 On-Screen Keyboard Management - A Quick How-To</u></a></li>
 </ul></div>
 

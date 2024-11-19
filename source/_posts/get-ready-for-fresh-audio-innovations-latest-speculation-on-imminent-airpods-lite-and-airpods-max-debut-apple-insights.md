@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights"
-date: 2024-10-25T18:09:24.272Z
-updated: 2024-10-27T17:19:01.666Z
+date: 2024-11-11T20:59:50.503Z
+updated: 2024-11-19T01:46:33.499Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -77,10 +77,16 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +96,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,20 +136,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>[Updated] In 2024, Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ranking-the-best-ios-videography-tech-for-2024/"><u>[Updated] Ranking the Best iOS Videography Tech for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-discover-the-most-popular-screen-recorders-free-version/"><u>2024 Approved Discover the Most Popular Screen Recorders - Free Version</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accidentally-sent-an-important-email-heres-how-to-bring-it-back-in-outlook/"><u>Accidentally Sent an Important Email? Here's How to Bring It Back in Outlook!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/aural-adventures-next-gen-devices/"><u>Aural Adventures Next-Gen Devices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-smartwatch-models/"><u>Discover the Leading Smartwatch Models</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-guide-connecting-your-zoom-call-with-smart-tv/"><u>Easy Guide: Connecting Your Zoom Call with Smart TV</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-success-secrets-maximizing-post-performance/"><u>In 2024, Instagram Success Secrets Maximizing Post Performance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quicksnap-hd-pro-logging-kit/"><u>QuickSnap HD Pro Logging Kit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamlessly-solve-the-magic-mouse-movement-error/"><u>Seamlessly Solve the Magic Mouse Movement Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smartphone-refresh-cycle-finding-your-ideal-replacement-timeline/"><u>Smartphone Refresh Cycle: Finding Your Ideal Replacement Timeline</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streaming-made-easy-syncing-apple-tv-plus-with-your-chromecast/"><u>Streaming Made Easy: Syncing Apple TV Plus with Your Chromecast</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-rise-of-autofocus-aided-hdr-photography/"><u>The Rise of Autofocus Aided HDR Photography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-six-best-apps-for-monitoring-your-diet/"><u>The Ultimate List: Six Best Apps for Monitoring Your Diet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722897636212-unveiling-the-story-behind-google-hangouts-functionality-and-usage/"><u>Unveiling the Story Behind Google Hangouts: Functionality and Usage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-average-income-derived-from-each-video-watcher/"><u>[New] 2024 Approved The Average Income Derived From Each Video Watcher</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-digital-transit-how-to-route-files-to-your-computer-for-2024/"><u>[New] Digital Transit How to Route Files to Your Computer for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-the-apple-podcast-platform/"><u>2024 Approved Navigating the Apple Podcast Platform</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/demystifying-ai-game-generators-from-definition-to-distinction-for-2024/"><u>Demystifying AI Game Generators From Definition to Distinction for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-effective-no-cost-language-learning-tools-for-this-year/"><u>Discover the Most Effective No-Cost Language Learning Tools for This Year</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-game-crashes-with-d3dx923dll-file-issues-a-comprehensive-guide/"><u>Fix Your Game Crashes with d3dx9_2‌3.dll File Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-an-economical-power-station-transformed-my-cross-country-journey-insights-from-zdnet-testing/"><u>How an Economical Power Station Transformed My Cross-Country Journey - Insights From ZDNet Testing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-your-android-device-stopping-apps-running-secretly/"><u>How to Optimize Your Android Device - Stopping Apps Running Secretly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-maximize-your-impact-with-snapchat-spotlight/"><u>In 2024, How to Maximize Your Impact with Snapchat Spotlight</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-info-on-apples-upcoming-release-timelines-rumored-details-and-more-factors-for-anticipation/"><u>Insider Info on Apple's Upcoming Release: Timelines, Rumored Details & More Factors for Anticipation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-highlight-reel-a-selection-of-the-finest-max-documentaries-available-now/"><u>July 2024 Highlight Reel: A Selection of the Finest Max Documentaries Available Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-watch-disneyplus-movie-selection-currently-streaming/"><u>Must-Watch Disney+ Movie Selection Currently Streaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-driver-with-windows-10-pcs/"><u>Sync HP Envy 5530 Driver with Windows 10 PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-captivating-teen-dramas-and-comedies-on-netflix/"><u>The Ultimate List of Captivating Teen Dramas and Comedies on Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-safety-alerts-on-iphone-best-practices-explained/"><u>Turning Off Safety Alerts on iPhone: Best Practices Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-and-controlling-safaris-pip-feature/"><u>Understanding and Controlling Safari's PIP Feature</u></a></li>
 </ul></div>
 

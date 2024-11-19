@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet"
-date: 2024-10-21T17:42:34.909Z
-updated: 2024-10-27T19:40:59.287Z
+date: 2024-11-14T19:10:40.460Z
+updated: 2024-11-18T23:38:13.402Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,10 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,20 +116,24 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-brighter-days-with-five-winter-themed-backgrounds/"><u>[New] In 2024, Brighter Days with Five Winter-Themed Backgrounds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-modify-twitter-video-screenshot/"><u>[New] In 2024, Modify Twitter Video Screenshot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-playbook-no-10-essentials/"><u>[New] The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-30-must-have-youtube-intros-tools-for-beginners-all-free/"><u>[Updated] In 2024, 30 Must-Have YouTube Intros Tools for Beginners, All Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-look-back-at-yahoo-messenger-origins-purpose-and-shutdown-rationale/"><u>A Look Back at Yahoo! Messenger: Origins, Purpose, and Shutdown Rationale</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-of-the-best-trivia-channels/"><u>Best of the Best Trivia Channels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-resolving-the-ssleay32dll-error-on-your-pc/"><u>Comprehensive Guide: Resolving the ssLeay32.dll Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-netflixs-legacy-beginnings-with-its-dvd-rental-venture-explained/"><u>Discovering Netflix’s Legacy Beginnings with Its DVD Rental Venture Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-addressing-the-mfc42dll-not-found-problem/"><u>Effective Solutions for Addressing the mfc42.dll Not Found Problem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-systems-missing-d3dx939dll-file-a-step-by-step-guide/"><u>Fix Your System's Missing d3dx9_39.dll File - A Step by Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-gt-5-240w-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme GT 5 (240W) Is Unlocked</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-asus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Asus FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-gaming-iphones-which-model-takes-the-crown/"><u>Top Gaming iPhones: Which Model Takes the Crown?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-fixing-a-missing-comctl32dll-error-on-your-pc/"><u>Troubleshooting Tips for Fixing a Missing Comctl32.dll Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-starter-guide-understanding-and-choosing-the-right-home-audio-system/"><u>Ultimate Starter Guide: Understanding and Choosing the Right Home Audio System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quickcapture-lite-basic-chromecasting-tool/"><u>[Updated] 2024 Approved QuickCapture Lite Basic Chromecasting Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-adding-fubotv-services-to-your-firestick-media-player/"><u>Comprehensive Guide to Adding FuboTV Services to Your Firestick Media Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-code-41-troubles-within-hardware-manager/"><u>Diagnosing and Repairing Code 41 Troubles Within Hardware Manager</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-optimal-video-and-audio-formats-compatible-with-high-definition-amazon-kindle-fire-hd-and-hdx-models/"><u>Discover Optimal Video and Audio Formats Compatible with High-Definition Amazon Kindle Fire HD & HDX Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-schedule-pinning-with-our-top-5-pinterest-tool-recommendations/"><u>Efficiently Schedule Pinning with Our Top 5 Pinterest Tool Recommendations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-and-tricks-resolve-your-streaming-hurdles-with-these-19-netflix-fixes-for-lg-televisions/"><u>Expert Tips & Tricks: Resolve Your Streaming Hurdles with These 19 Netflix Fixes for LG Televisions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/final-farewells-on-social-media-the-how-to-manual-for-erasing-your-tiktok-existence/"><u>Final Farewells on Social Media: The How-To Manual for Erasing Your TikTok Existence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/get-official-winx-dvd-ripper-and-converter-buy-and-download-now/"><u>Get Official WinX DVD Ripper & Converter – Buy and Download Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-muting-the-audio-tour-option-in-your-samsung-television-system/"><u>Guide to Muting the Audio Tour Option in Your Samsung Television System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unveiling-video-magic-mastering-your-youtube-studio/"><u>In 2024, Unveiling Video Magic Mastering Your YouTube Studio</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-the-upcoming-google-pixel-tablet-preview-of-features-and-release-plans-announced/"><u>Inside Look at the Upcoming Google Pixel Tablet - Preview of Features and Release Plans Announced</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-fixes-for-the-persistent-code-28-glitch-in-windows/"><u>Mastering Fixes for the Persistent Code 28 Glitch in Windows</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/meilleurs-substituts-a-redo-backup-et-restauration-solutions-optimisees/"><u>Meilleurs Substituts À Redo Backup Et Restauration: Solutions Optimisées</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-off-unwanted-auto-starts-in-your-apple-music-experience/"><u>Turn Off Unwanted Auto-Starts in Your Apple Music Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-googles-breakthrough-a-deep-dive-into-the-powerful-world-of-palm-2-large-language-models/"><u>Understanding Google's Breakthrough: A Deep Dive Into the Powerful World of PaLM 2 Large Language Models</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q</u></a></li>
+<li><a href="https://driver-download.techidaily.com/usb-c-compatibility-install-official-drivers-on-windows-11/"><u>USB-C Compatibility: Install Official Drivers on Windows 11</u></a></li>
 </ul></div>
 

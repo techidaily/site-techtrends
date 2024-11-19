@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-11-07T05:18:29.931Z
-updated: 2024-11-08T07:26:35.380Z
+date: 2024-11-17T19:38:55.006Z
+updated: 2024-11-18T23:44:01.248Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -114,6 +114,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,13 +130,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -141,6 +141,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,24 +218,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-list-of-premium-screen-free-gaming-on-android-devices-for-2024/"><u>[New] Exclusive List of Premium Screen-Free Gaming on Android Devices for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-must-have-tiktok-instruments-boosting-fame-in-the-shortest-time/"><u>[New] Must-Have TikTok Instruments Boosting Fame in the Shortest Time</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/"><u>[New] Ultimate Buyer's Guide to Top 6 HDMI Monitors (2.1)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-chuckles-churner-visual-composer/"><u>[Updated] Chuckles Churner Visual Composer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[Updated] In 2024, From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
-<li><a href="https://techtrends.techidaily.com/vs/"><u>「ライティングVSアウトプット:それぞれの違いを解き明かし、最高のツールも紹介！」</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-hot-40i-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-resolving-any-and-all-troubles-with-windows-11-updates/"><u>Complete Guide: Resolving Any and All Troubles with Windows 11 Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essence-of-turing-test-and-possibility-to-surpass/"><u>Essence of Turing Test and Possibility to Surpass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expertenhilfe-online-techniker-support-fur-winx-dvd-ripping-and-videokonvertierungsprogramme/"><u>Expertenhilfe Online: Techniker Support Für WinX DVD Ripping & Videokonvertierungsprogramme</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-gopro-hero4-silver-edition/"><u>In 2024, Complete Analysis GoPro HERO4 Silver Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>In 2024, Masterful Video Lighting Ultimate Techniques for Stunning Visuals</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/mastering-vmware-effective-techniques-to-launch-and-manage-vcenter-functions/"><u>Mastering VMware: Effective Techniques to Launch and Manage vCenter Functions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-guide-converting-your-mp4-videos-to-mpeg-with-these-proven-methods-on-windows-and-macos/"><u>Quick Guide: Converting Your MP4 Videos to MPEG with These Proven Methods on Windows and MacOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolved-handbrake-hiccups-smoothly-complete-your-video-conversions/"><u>Resolved Handbrake Hiccups: Smoothly Complete Your Video Conversions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-playeras-de-dvd-mais-populares-para-sistemas-operacionais-windows-11-guia-completo/"><u>Top 12 Playeras De DVD Mais Populares Para Sistemas Operacionais Windows 11: Guia Completo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-gratuits-de-coupe-video-compatible-avec-windowsmac-pour-eliminer-les-passages-video-non-voulus/"><u>Top Gratuits De Coupe-Vidéo Compatible Avec Windows/Mac Pour Éliminer Les Passages Vidéo Non Voulus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-video-editor-winx-hd-advanced-gpu-accelerated-video-conversion-and-editing-features/"><u>Ultimate Video Editor: WinX HD - Advanced GPU-Accelerated Video Conversion & Editing Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pciphone/"><u>スマホからPCへ：IPhoneビデオ取り込み・再生手順検討</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-raw-photos-to-png-for-free-effortless-image-editing-by-movavi/"><u>Convert RAW Photos to PNG for Free - Effortless Image Editing by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-mp4-en-format-asf-avec-movavi/"><u>En Ligne : Convertissez Gratuitement Des Fichiers MP4 en Format ASF Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ferramenta-on-line-livre-para-converter-arquivos-ogv-em-mp4-com-movavi-comandos-simples-e-rapidos/"><u>Ferramenta On-Line Livre Para Converter Arquivos OGV Em MP4 Com Movavi - Comandos Simples E Rápidos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-png-konvertierung-mit-movavi-effektive-online-bildbearbeitungssoftware-fur-freigegebene-dateiubersetzungen/"><u>Gratis PNG Konvertierung Mit Movavi - Effektive Online-Bildbearbeitungssoftware Für Freigegebene Dateiübersetzungen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-14-plus-by-drfone-ios/"><u>How to Unlock Verizon iPhone 14 Plus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-mka-movavi/"><u>MP4 표준으로 MKA 영상 변환하기 – 무가스 Movavi 도구를 사용한다</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-negative-space-how-to-flip-vids-on-instagram-for-2024/"><u>Navigating Negative Space How to Flip Vids on Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-tutorial-for-building-movies-on-windows-8/"><u>Step-by-Step Tutorial for Building Movies on Windows 8</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/0-history-youtube-channels-for-students-and-history-lovers-for-2024/"><u>Top 10 History YouTube Channels for Students & History Lovers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-right-tablet-expert-evaluations-and-ratings/"><u>Ultimate Guide to Choosing the Right Tablet : Expert Evaluations and Ratings</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-tecno-camon-20-premier-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Camon 20 Premier 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

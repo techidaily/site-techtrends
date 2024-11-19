@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-10-27T21:51:41.100Z
-updated: 2024-11-02T04:09:17.351Z
+date: 2024-11-17T19:39:51.927Z
+updated: 2024-11-18T21:49:39.839Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,13 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -93,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,13 +130,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -159,6 +159,13 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +218,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-correct-msodll-not-found-issues/"><u>Comprehensive Guide: How to Correct 'mso.dll' Not Found Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-7-most-popular-imessage-games/"><u>Discover the Ultimate List: 7 Most Popular iMessage Games</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-achieving-professional-editing-without-the-price-tag/"><u>In 2024, Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-g2-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo G2 Phone Hassle-Free</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-honor-x50-gt-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Honor X50 GT without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/netflix-watch-party-a-step-by-step-tutorial-on-how-to-screen-share-the-service/"><u>Netflix Watch Party: A Step-by-Step Tutorial on How to Screen Share the Service</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users-for-2024/"><u>New DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/photo-flexibility-perfecting-image-reshaping/"><u>Photo Flexibility Perfecting Image Reshaping</u></a></li>
-<li><a href="https://extra-information.techidaily.com/select-high-quality-drones-for-sale/"><u>Select High-Quality Drones For Sale</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-fresh-storage/"><u>Step-by-Step Guide: Setting Up Windows 11 on Fresh Storage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-great-debate-unpacking-the-contrast-between-cable-and-streaming-media/"><u>The Great Debate: Unpacking the Contrast Between Cable and Streaming Media</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-critical-ntldr-issues-on-your-windows-pc-steps-and-tips/"><u>Troubleshooting Critical NTLDR Issues on Your Windows PC - Steps & Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-reducing-ping-fluctuations-in-bless-unleashed-on-your-gaming-pc/"><u>Ultimate Guide to Reducing Ping Fluctuations in Bless Unleashed on Your Gaming PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[New] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-peoples-take-on-vllo/"><u>[New] The People's Take on VLLO</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-hd-lens-guide-for-pro-level-cinematography-for-2024/"><u>[New] Ultimate HD Lens Guide for Pro-Level Cinematography for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/checking-if-roblox-is-unavailable-or-your-connection-is-the-problem/"><u>Checking if Roblox Is Unavailable or Your Connection Is the Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-missing-msstdfmtdll-error-on-your-computer-today/"><u>Fix the Missing Msstdfmt.dll Error on Your Computer Today!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-single-shots-to-spectaculary-screenshots-for-2024/"><u>From Single Shots to Spectaculary Screenshots for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-cellular-service-companies-work-unveiling-the-basics/"><u>How Do Cellular Service Companies Work? Unveiling the Basics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-rumors-on-apples-new-hearing-device-a-comprehensive-guide-to-expected-costs-release-plans-and-tech-specs/"><u>Inside Rumors on Apple's New Hearing Device - A Comprehensive Guide to Expected Costs, Release Plans & Tech Specs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-media-library-proven-fixes-for-usual-photography-hiccups/"><u>Navigating iPhone Media Library: Proven Fixes for Usual Photography Hiccups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-the-zoom-client-on-windows-and-macos/"><u>Step-by-Step Guide: Updating the Zoom Client on Windows and macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-app-problem-solving-with-7-actions/"><u>Streamlining Windows App Problem-Solving with 7 Actions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-power-issues-with-your-roku-device/"><u>Troubleshooting Steps: Resolving Power Issues with Your Roku Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ttml-xml-and-beyond-creating-flawless-srts-for-audio-files/"><u>TTML, XML & Beyond Creating Flawless SRTs for Audio Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-ultra-smooth-gaming-achieving-120-fps-on-your-playstation-5-console/"><u>Unleash Ultra-Smooth Gaming: Achieving 120 FPS on Your PlayStation 5 Console</u></a></li>
 </ul></div>
 

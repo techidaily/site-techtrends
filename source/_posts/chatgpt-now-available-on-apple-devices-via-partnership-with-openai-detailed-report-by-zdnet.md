@@ -1,7 +1,7 @@
 ---
 title: 'ChatGPT Now Available on Apple Devices via Partnership with OpenAI | Detailed Report by ZDNET
-date: 2024-11-01T14:09:31.580Z
-updated: 2024-11-02T00:10:57.145Z
+date: 2024-11-13T17:04:21.991Z
+updated: 2024-11-18T21:57:06.542Z
 tags:
   - apple
 categories:
@@ -54,19 +54,6 @@ Apple spent the last few years improving the health and wellness capabilities of
 
 The next version of WatchOS, version 9, will bring sleep stages, heart rate zones, running power, elevation, custom workout displays, running form metrics, medication reminders, and more. With improvements like this, Garmin, Polar, and others will be challenged in the advanced wearable market.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone software
 
 Given that there is no display on the Whoop 4.0, the smartphone application is a key component to the full user experience. The application launches with the Overview display with swipes from right to left showing details for strain, recovery, and sleep. Swipe up to view this same data for the past week with plots showing the trends in the data.
@@ -77,6 +64,13 @@ The Whoop iPhone app is also used for monitoring the battery life, performing fi
 
 When looking at the Apple Watch, there are three applications on your iPhone that are part of the Apple Watch experience. The Watch app is used to manage watch faces, find/install/uninstall applications, change settings, and perform functions to set up your Apple Watch for an optimal experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best fitness trackers Fitness trackers offer a reasonably-priced alternative to smartwatches.  Read now](https://www.zdnet.com/article/best-fitness-tracker/)
@@ -84,6 +78,13 @@ When looking at the Apple Watch, there are three applications on your iPhone tha
 Inside the Fitness application, the status of your move, exercise, and stand rings can be viewed. The workouts you complete are also shown on the summary page, along with mindfulness, trends, and awards that you have earned. The activity of your friends can also be viewed in the Fitness application. Lastly, Apple's Fitness Plus service is embedded in the Fitness application so you can use your Apple Watch for various workouts.
 
 The Apple Health app brings in data collected by your Apple Watch and data captured by various other devices, services, and applications. Data in Apple Health includes fitness stats, health stats, health records, sleep details, and much more. It is a very comprehensive application and Apple is starting to roll out more instructive information here so you can understand why the data is important and what you can do to improve your life.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pricing
 
@@ -107,13 +108,6 @@ The Whoop doesn't offer much for the casual athlete that doesn't find value in d
 
 For serious athletes, using both may offer the best experience with the Whoop 4.0 tracking all of their particulars 24/7 in a subtle manner while the Apple Watch is used for focused activities and other smartwatch functions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternatives worth considering
 
 [Apple Watch SE View now at Amazon](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -129,10 +123,10 @@ Similar to the Whoop 4.0, the Oura Ring does not have a display and is a wearabl
 The Fitbit Sense is a smartwatch that competes with the Apple Watch, but has a heavy focus on health and wellness. Fitbit has mastered the art of providing you with actionable steps to take after the data is collected, but there is a monthly subscription fee to see those insights. It is not as advanced as the Apple Watch as a smartwatch, but it is affordable and does a good job with health and wellness tracking.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FAQs
@@ -142,26 +136,26 @@ The Fitbit Sense is a smartwatch that competes with the Apple Watch, but has a h
 The Whoop 4.0 is designed to determine automatically when you start and end a workout, but you can also start this tracking manually in the smartphone app or edit the session after you are done if the start and end time aren't correct. The Whoop uses the workout results to calculate strain figures that it uses for calculating your recovery status. GPS tracks and other specifics are not captured by the Whoop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I use either of these wearables without an iPhone?
 
 Whoop offers an Android application so it is fully supported on Android smartphones. While you do need an iPhone to set up an Apple Watch, Apple's Family Setup lets you set up an Apple Watch for someone that doesn't have an iPhone, so you could use an Apple Watch as a stand alone wearable with lots of limitations on its functionality. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does the Apple Watch also measure HRV?
 
 Heart rate variability (HRV) is a measure of the variation in the time interval between heat beats and a higher value indicates you are healthier, happier, and less stressed. It is often used as the key metric in recovery calculations. To view the HRV values measured by your Apple Watch, open the Apple Health app, tap the Browse tab, select Heart, and then select Heart Rate Variability. You can view the HRV data by day, week, month, six months, and one year. Whoop provides you with recommendations and insights about HRV, but Apple does not yet provide any further useful information. There are third party apps, such as Training Today, that pick up where Apple left off and provide recovery and other recommendation to help you avoid injury and maintain peak performance.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How does battery life compare between the two?
 
@@ -197,24 +191,19 @@ The Whoop 4.0 typically lasts about five days between charges while the Apple Wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-device-independent-intro-editing-excellence-for-2024/"><u>[Updated] Device-Independent Intro Editing Excellence for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-mastering-nikon-d7500/"><u>[Updated] The Ultimate Guide to Mastering Nikon D7500</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>2024 Approved Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehvew-into-meta-ai-and-its-impact-on-tech-innovations/"><u>A Comprehvew Into Meta AI and Its Impact on Tech Innovations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-samsung-z-fold-4-price-breakdown-launch-timeline-and-tech-overview/"><u>All About the Upcoming Samsung Z Fold 4 - Price Breakdown, Launch Timeline & Tech Overview</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-10-cutting-edge-fitness-apps-of-2024-that-will-revolutionize-how-you-train/"><u>Discover 10 Cutting-Edge Fitness Apps of 2024 That Will Revolutionize How You Train</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-free-music-platforms-online-top-15/"><u>Discover the Best Free Music Platforms Online (Top 15)</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/download-exclusive-video-content-from-e-patterns-central-hub/"><u>Download Exclusive Video Content From E-Patterns Central Hub</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-on-reconfiguring-your-samsung-tv-back-to-defaults/"><u>Expert Tips on Reconfiguring Your Samsung TV Back to Defaults</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/flawless-photography-made-simple-the-cloud-capable-nixplay-iris/"><u>Flawless Photography Made Simple: The Cloud-Capable Nixplay Iris</u></a></li>
-<li><a href="https://techtrends.techidaily.com/icloud-photo-sharing-made-easy-for-ios-windows-and-android-users/"><u>ICloud Photo Sharing Made Easy for iOS, Windows & Android Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/spotify-dislike-strategy-how-to-clear-all-song-likes-in-one-go/"><u>Spotify Dislike Strategy: How to Clear All Song Likes in One Go</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-oneplus/"><u>The OnePlus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-user-friendly-way-to-hide-subtitles-during-an-amazon-video-binge-session/"><u>The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-lowering-cpu-load-after-wdf-update-fixes/"><u>Troubleshooting Guide: Lowering CPU Load After WDF Update Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-days-gone-game-crashes/"><u>Ultimate Guide: Solving 'Days Gone' Game Crashes</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Razr 40</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-movie-maker-a-beginner-friendly-video-editing-companion/"><u>YouTube Movie Maker A Beginner-Friendly Video Editing Companion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/zoom-update-process-a-comprehensive-guide-for-windows-and-macos-users/"><u>Zoom Update Process: A Comprehensive Guide for Windows & macOS Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-leveraging-twitter-archive-for-research/"><u>[New] In 2024, Leveraging Twitter Archive for Research</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-herogo-black-vs-star-sj7-camera/"><u>[Updated] 2024 Approved Action HeroGo Black Vs Star SJ7 Camera</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-your-videos-shape-with-aspect-ratio/"><u>[Updated] Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v30-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V30 is off? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-remove-unwanted-vertical-or-horizontal-lines-appearing-on-screen/"><u>Effective Techniques to Remove Unwanted Vertical or Horizontal Lines Appearing On Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/engaging-audiences-the-impact-of-adding-youtube-music-to-videos/"><u>Engaging Audiences The Impact of Adding YouTube Music to Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-down-triller-its-distinctive-position-in-the-video-world/"><u>In 2024, Breaking Down Triller Its Distinctive Position in the Video World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/neo-qled-versus-oled-technology-a-detailed-comparison-for-consumers/"><u>Neo QLED Versus OLED Technology: A Detailed Comparison for Consumers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-quality-movie-maker-turn-everyday-video-clips-into-high-quality-for-2024/"><u>New Quality Movie Maker Turn Everyday Video Clips Into High Quality for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-your-android-experience-by-clearing-the-cache-heres-how/"><u>Optimize Your Android Experience by Clearing the Cache – Here’s How!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-missing-mingwm10dll-error/"><u>Step-by-Step Guide: Correcting the Missing mingwm10.dll Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-26-free-pc-tuneup-utilities-the-ultimate-list/"><u>Top 26 Free PC Tuneup Utilities - The Ultimate List!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-507-trending-instagram-caption-ideas/"><u>Top 507 Trending Instagram Caption Ideas</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-power-of-digital-theatre-systems-dts-virtualx-an-in-depth-look/"><u>Unveiling the Power of Digital Theatre Systems (DTS) Virtual:X - An In-Depth Look</u></a></li>
 </ul></div>
 

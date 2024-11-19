@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2024-11-01T03:32:09.965Z
-updated: 2024-11-07T16:27:45.708Z
+date: 2024-11-13T01:13:15.569Z
+updated: 2024-11-19T02:55:31.946Z
 tags:
   - apple
 categories:
@@ -32,16 +32,16 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -51,6 +51,13 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -59,35 +66,22 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -109,10 +103,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 Screenshot: Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
@@ -175,17 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-2022s-pinnacle-moments-in-snowboarding-x/"><u>[New] 2022'S Pinnacle Moments in Snowboarding X</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-peek-into-the-viral-world-of-stock-photo-memes/"><u>[New] A Peek Into the Viral World of Stock Photo Memes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-beginners-guide-to-mesmerizing-bokeh-in-instagram-stories/"><u>[Updated] The Beginner’s Guide to Mesmerizing Bokeh in Instagram Stories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024-ogg-to-mp3/"><u>2024年度更新 - オールインワンの高品質Ogg to MP3コンバーター:無料アプリと使用ガイド</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-software-top-3-hd-compatible-windows-11-dvd-ripping-tools-no-cost-downloads/"><u>Best Free Software : Top 3 HD-Compatible Windows 11 DVD Ripping Tools (No Cost Downloads)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effizientes-video-konvertierungsskript-mit-handbrake-fur-die-umwandlung-und-rippung-von-dvds/"><u>Effizientes Video-Konvertierungsskript Mit HandBrake Für Die Umwandlung Und Rippung Von DVDs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-unlocking-discords-role-feature-capabilities/"><u>In 2024, Unlocking Discord's Role Feature Capabilities</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-latency-issues-for-a-smoother-experience-in-avatar-the-game-pandora-edition/"><u>Overcoming Latency Issues for a Smoother Experience in Avatar: The Game - Pandora Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-issues-in-pathfinders-latest-title-wrath-of-the-righteous-keeps-crashing-down/"><u>Persistent Issues in Pathfinder's Latest Title - Wrath of the Righteous Keeps Crashing Down</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-dvds-to-digital-format-across-pc-mac-and-mobile-devices/"><u>Step-by-Step Guide: Converting DVDs to Digital Format Across PC, Mac, and Mobile Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/story-1-the-misunderstanding-of-transmission/"><u>Story 1: The Misunderstanding of Transmission</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-a-masterpiece-top-8-iphone-drawing-apps-reviewed/"><u>[New] Craft a Masterpiece Top 8 iPhone Drawing Apps Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-instagrams-unpredictable-video-playback/"><u>[New] Exploring Instagram's Unpredictable Video Playback</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-itunes-video-management-made-simple-for-2024/"><u>[New] ITunes Video Management Made Simple for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-connect-and-entertain-stream-xbox-games-on-the-worlds-stage-facebook/"><u>[Updated] Connect & Entertain Stream Xbox Games on the World's Stage - Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726218984999-movavi/"><u>簡単な手順で動画に自由形式の字幕を追加：Movavi・モバビ使い方【字幕編集】</u></a></li>
+<li><a href="https://techtrends.techidaily.com/webmp4-movavi/"><u>無償で簡単にWEBムービーMP4へのリマスター - Movaviプロ</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-file-system-interactions-a-step-bystep-guide/"><u>Advanced File System Interactions: A Step-Bystep Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprendre-le-programme-daffiliation-de-movavi-pour-reussir-en-marketing-daffiliation/"><u>Comprendre Le Programme D'Affiliation De Movavi Pour Réussir en Marketing D'Affiliation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-dun-fichier-aiff-vers-un-format-flac-gratuite-avec-movavi/"><u>Conversion D'un Fichier AIFF Vers Un Format FLAC Gratuite - Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-converter-voor-onze-kleuren-online-omzetten-van-filetypes-movavi/"><u>Gratis Converter Voor Onze Kleuren - Online Omzetten Van Filetypes: MOVAVI</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-vocal-variance-for-visuals-dynamic-voiceover-strategies-on-slides/"><u>In 2024, Vocal Variance for Visuals Dynamic Voiceover Strategies on Slides</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-driver-packs-for-optimizing-your-acer-aspire-e15-with-windows-10/"><u>Latest Driver Packs for Optimizing Your Acer Aspire E15 With Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ogg-mp4/"><u>OGG 영상을 MP4로 쉽게 대화형 변환하는 오토바이오 – 제네릭</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-text-tools-elevating-creative-compositions-for-2024/"><u>Top 10 Text Tools Elevating Creative Compositions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-all-about-dji-inspire-2-today/"><u>Unlocking All About DJI Inspire 2 Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uskok-bezplatneho-editora-pro-avi-pro-s-prikladmi-v-windows-1087-a-macos/"><u>Úskok Bezplatného Editora Pro AVI Pro S Příkladmi v Windows 10/8/7 a macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/waarom-movavi-het-beste-is-voor-je-veiligheidscentrum-inzien-en-ontdekken-van-een-goedkeurende-software-en-site/"><u>Waarom Movavi Het Beste Is Voor Je Veiligheidscentrum: Inzien en Ontdekken Van Een Goedkeurende Software en Site</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726219476854-wavmp3-movavi/"><u>オンラインでも簡単な無料WAVファイルをMP3に変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ease of Sonos' S2 App: Advanced Sound Management with Hidden Drawbacks"
-date: 2024-10-21T18:05:58.536Z
-updated: 2024-10-27T17:34:01.645Z
+date: 2024-11-18T02:51:59.983Z
+updated: 2024-11-18T19:58:46.017Z
 tags:
   - apple
 categories:
@@ -35,6 +35,13 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Pro 11-inch Wi-Fi (M4)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J6L2ZC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2836/7222685)
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Macs with a Thread radio:
 
@@ -70,40 +77,39 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Click on the device's report
 
 Clicking on the device's report will bring up a list of all the reports created for the device available through the FCC.
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Find the Thread testing report
 
@@ -120,6 +126,13 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -146,10 +159,10 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will iPads and Macs be Thread border routers?
@@ -159,13 +172,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 **Also: [Govee's new smart outdoor lights brighten your home in three colorful ways](https://www.zdnet.com/home-and-office/smart-home/govees-new-smart-outdoor-lights-brighten-your-home-in-three-colorful-ways/)**
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the iPad a smart home hub?
 
@@ -219,24 +225,24 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-amazon-prime-hits-twitters-trendiest-watchers-and-lovers/"><u>[New] Amazon Prime Hits Twitter's Trendiest Watchers & Lovers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-whats-the-real-cost-of-youtube-paid-engagement/"><u>[New] What's the Real Cost of Youtube Paid Engagement?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-best-mp4-to-facebook-converter-for-2024/"><u>[Updated] Best MP4 to Facebook Converter for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tailored-walkthrough-watching-facebook-videos-seamlessly-on-apple-tv/"><u>[Updated] In 2024, Tailored Walkthrough Watching Facebook Videos Seamlessly on Apple TV</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-definitive-guide-to-affordable-video-calls-online/"><u>[Updated] In 2024, The Definitive Guide to Affordable Video Calls Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimizing-ps4-games-for-live-capture-in-obs/"><u>[Updated] Optimizing PS4 Games for Live Capture in OBS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-distribute-your-youtube-collection-for-2024/"><u>[Updated] Step-by-Step Guide Distribute Your YouTube Collection for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-optimization-tips-how-to-reset-and-clear-device-cache-safely/"><u>Android Optimization Tips: How to Reset and Clear Device Cache Safely</u></a></li>
-<li><a href="https://techtrends.techidaily.com/building-friendships-and-capturing-monsters-a-players-handbook-to-pokemon-go-social-play/"><u>Building Friendships & Capturing Monsters: A Player's Handbook to 'Pokémon Go' Social Play</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-prices-is-hailing-an-uber-a-cheaper-alternative-to-cabs/"><u>Comparing Prices: Is Hailing an Uber a Cheaper Alternative to Cabs?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-ssd-replacement-for-playstation-5-improve-speed-and-capacity/"><u>DIY SSD Replacement for PlayStation 5: Improve Speed & Capacity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-ways-to-add-new-typefaces-to-your-iphone-a-complete-walkthrough/"><u>Easy Ways to Add New Typefaces to Your iPhone – A Complete Walkthrough</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-130-music-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia 130 Music</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-msiexecexe-is-not-found-or-missing-msidll-a-step-by-step-guide/"><u>Resolving the Issue of 'msiexec.exe Is Not Found' Or 'Missing msi.dll': A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-process-clear-icloud-images-without-affecting-iphone-storage/"><u>Step-by-Step Process: Clear iCloud Images Without Affecting iPhone Storage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-solutions-to-rectify-file-not-found-error-for-msvc-runtime-library/"><u>The Ultimate Solutions to Rectify 'File Not Found' Error for MSVC Runtime Library</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-overwatch-2-pc-game-crashes-a-comprehensive-guide/"><u>Troubleshooting Overwatch 2 PC Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-how-to-refresh-your-macs-internet-connection-settings/"><u>Troubleshooting Tips: How to Refresh Your Mac's Internet Connection Settings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-social-landsayer-how-to-spark-fb-engagement/"><u>[New] Navigating the Social Landsayer How to Spark FB Engagement</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram-for-2024/"><u>[Updated] Smooth Streams Combining a Multitude of Images & Videos for Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-image-editing-on-ios-best-tools-to-erase-objects-from-photos/"><u>2024 Approved Innovative Image Editing on iOS Best Tools to Erase Objects From Photos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-leading-choices-for-impenetrable-phone-casing/"><u>2024'S Leading Choices for Impenetrable Phone Casing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-electric-cars-handle-intense-heat-or-freezing-cold-a-detailed-analysis/"><u>Can Electric Cars Handle Intense Heat or Freezing Cold? A Detailed Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-connect-and-use-a-network-drive-on-your-mac/"><u>Easy Steps to Connect and Use a Network Drive on Your Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-insights-adjusting-tempo-for-optimal-snapchat-viewing-for-2024/"><u>Expert Insights Adjusting Tempo for Optimal Snapchat Viewing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-history-deciphering-steams-cost-evolution/"><u>Game History: Deciphering Steam's Cost Evolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harry-potter-marathon-best-way-to-watch-the-magic-unfold-in-order/"><u>Harry Potter Marathon - Best Way to Watch the Magic Unfold in Order</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f15-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F15 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-meizu-21-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Meizu 21 Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-11-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 11 Pro Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-fix-for-failed-android-sms-deliveries/"><u>Mastering the Fix for Failed Android SMS Deliveries</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reconnect-your-surface-pro-to-the-internet-tips-and-solutions/"><u>Reconnect Your Surface Pro to the Internet – Tips & Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-correcting-ntfs-boot-files-missing-issues-on-windows-pcs/"><u>Step-by-Step Tutorial: Correcting NTFS Boot Files Missing Issues on Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-apples-latest-addition-to-pro-studios-is-the-27-inch-5k-screen-worth-its-cost-insider-tips-and-analysis-by-zdnet-experts/"><u>Unboxing Apple's Latest Addition to Pro Studios – Is the 27-Inch 5K Screen Worth Its Cost? Insider Tips and Analysis by ZDNet Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-cutting-edge-tablet-innovation-the-new-ipad-lineup/"><u>Unveiling Apple's Cutting-Edge Tablet Innovation - The New iPad Lineup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-file-management-mastering-command-prompt-navigation/"><u>Unveiling the Secrets of File Management: Mastering Command Prompt Navigation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whatsapp-on-mac-the-ultimate-walkthrough-for-seamless-communication/"><u>WhatsApp on Mac: The Ultimate Walkthrough for Seamless Communication</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2024-11-03T00:56:47.428Z
-updated: 2024-11-08T09:05:06.445Z
+date: 2024-11-14T17:41:43.946Z
+updated: 2024-11-18T21:48:41.946Z
 tags:
   - apple
 categories:
@@ -64,10 +64,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -79,16 +79,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -104,10 +98,10 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,16 +109,10 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -161,19 +149,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/future-of-driving-top-4-manufacturers-dominating-driverless-cars/"><u>Future of Driving: Top 4 Manufacturers Dominating Driverless Cars</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/geevensamenvoeging-waardevollen-gratuite-programmas-en-apps-voor-beste-resultaten-online-of-desktop-gebruikers/"><u>Geevensamenvoeging Waardevollen Gratuite Programma's en Apps Voor Beste Resultaten, Online of Desktop-Gebruikers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-set-for-ios-navigating-through-its-release-timeline-features-and-news-all-accessible-at-zero-cost/"><u>Get Set for iOS Navigating Through Its Release Timeline, Features & News - All Accessible at Zero Cost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-record-screen-on-windows-11-and-macos/"><u>How to Record Screen on Windows 11 & macOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-selections-best-virtual-reality-titles-for-cardboard/"><u>In 2024, Exclusive Selections Best Virtual Reality Titles for Cardboard</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-lifecam-videoapp-quality-checkup/"><u>In 2024, LifeCam VideoApp Quality Checkup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-105-classic-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia 105 Classic IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-accessibility-features-disabling-or-activating-the-touch-typing-tool-on-windows-11/"><u>Mastering Accessibility Features: Disabling or Activating the Touch Typing Tool on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/nintendo-switch-package-contents-whats-inside/"><u>Nintendo Switch Package Contents: What's Inside?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-unable-to-open-due-to-unverified-developer-dilemma-in-macos/"><u>Overcoming the 'Unable to Open Due to Unverified Developer' Dilemma in macOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/side-hustle-scouting-is-chatgpt-a-smart-investment/"><u>Side Hustle Scouting: Is ChatGPT a Smart Investment?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-repair-persistent-image-retention-on-screens/"><u>Step-by-Step Strategies to Repair Persistent Image Retention on Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-prime-mac-screen-capture-options-for-2024/"><u>[New] The Prime Mac Screen Capture Options for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>2024 Approved Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-10c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Spark 10C Unlock Without Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-powered-techniques-for-cleaner-sound-removing-unwanted-noise-from-your-recordings/"><u>AI-Powered Techniques for Cleaner Sound: Removing Unwanted Noise From Your Recordings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/carrie-marshall-professional-photographer-at-movavi-capture-your-perfect-moments/"><u>Carrie Marshall: Professional Photographer at Movavi - Capture Your Perfect Moments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-mov-files-to-wav-format-for-free-onlinevideoconvert/"><u>Convert MOV Files to WAV Format for Free - OnlineVideoConvert</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-fixes-for-a-stuck-chrome-browser-on-windows-10-devices/"><u>Effortless Fixes for a Stuck Chrome Browser on Windows 10 Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70e-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70E to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ignite-your-screenplay-essential-wins11-apps-and-games/"><u>In 2024, Ignite Your Screenplay Essential Wins11 Apps & Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-reviewing-videoshow-in-its-fullest-for-24-edition/"><u>In 2024, Reviewing VideoShow in Its Fullest for '24 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-t2-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo T2 5G Device</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-correcting-execution-fault-messages-in-windows-11/"><u>Step-by-Step Guide to Correcting Execution Fault Messages in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranked-vob-video-player-reviews-your-ultimate-guide/"><u>Top-Ranked VOB Video Player Reviews: Your Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transcode-webm-a-ogg-online-gratuitement-avec-movavi/"><u>Transcode WebM À OGG Online Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-webp-pictures-into-animated-gifs-easily-using-the-movavi-image-tool/"><u>Transform Your WebP Pictures Into Animated GIFs Easily Using the Movavi Image Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wma-3gp-tv/"><u>WMA에서 3GP로 스마트 TV 및 모바일 시켓기의 유용한 정기적인 무료 전환 도구</u></a></li>
 </ul></div>
 

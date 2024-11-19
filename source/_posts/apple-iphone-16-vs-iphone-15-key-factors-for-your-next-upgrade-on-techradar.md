@@ -1,7 +1,7 @@
 ---
 title: "Apple iPhone 16 Vs. IPhone 15: Key Factors for Your Next Upgrade on TechRadar"
-date: 2024-11-06T18:40:23.568Z
-updated: 2024-11-08T03:11:29.274Z
+date: 2024-11-14T17:12:28.696Z
+updated: 2024-11-19T00:51:41.752Z
 tags:
   - apple
 categories:
@@ -65,6 +65,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You want "next-level performance"
 
 Powering the iPhone 16 will be Apple's A18 chipset which the tech giant claims "delivers a huge leap in performance and power efficiency." Its processor is 30 faster than the iPhone 15's A16 Bionic chip and requires 30 percent less power for the same workloads. The GPU on the iPhone 16 is better too, boasting a 40 percent speed boost over the previous generation.
@@ -84,10 +91,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -95,10 +108,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -109,13 +122,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -125,10 +131,10 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6418071%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6418071.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,20 +171,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-maximize-visual-potential-the-finest-overlays-on-androidiphone/"><u>[Updated] Maximize Visual Potential – The Finest Overlays on Android/iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-the-theater-from-your-couch-how-to-watch-3d-movies-via-fandango/"><u>Experience the Theater From Your Couch: How to Watch 3D Movies via Fandango</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/foremost-ai-solutions-transforming-web-search-experience/"><u>Foremost AI Solutions Transforming Web Search Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-infancy-to-manhood-watching-supermans-journey-through-cinema-chronologically/"><u>From Infancy to Manhood: Watching Superman's Journey Through Cinema Chronologically</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-update-on-the-google-pixel-tablet-specifications-and-expected-launch-announcement/"><u>Latest Update on the Google Pixel Tablet - Specifications & Expected Launch Announcement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-missing-haldll-issues-on-your-windows-xp-machine/"><u>Resolving 'Missing hal.dll' Issues on Your Windows XP Machine</u></a></li>
-<li><a href="https://article-helps.techidaily.com/resource-hub-free-high-quality-slide-decks-and-ideas/"><u>Resource Hub Free, High-Quality Slide Decks and Ideas</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-s24-ultra-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy S24 Ultra Android SIM Unlock APK</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-discord-is-down-or-your-network/"><u>Troubleshooting Connection Issues: How to Tell if Discord Is Down or Your Network</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-stuck-ios-updates-on-iphone-a-guide-with-11-effective-fixes/"><u>Troubleshooting Stuck iOS Updates on iPhone: A Guide with 11 Effective Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-finding-vanished-emails-in-gmail-a-comprehensive-recovery-guide/"><u>Unlock the Secrets of Finding Vanished Emails in Gmail – A Comprehensive Recovery Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/vanguard-visual-transformers-lenscrafters-art-for-2024/"><u>Vanguard Visual Transformers LensCrafters' Art for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-mastery-tips-for-producing-cutting-edge-videos-for-2024/"><u>YouTube Mastery Tips for Producing Cutting-Edge Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-effortless-radial-blur-implementation-for-photoshop-users-for-2024/"><u>[New] Effortless Radial Blur Implementation for Photoshop Users for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-organize-and-download-fb-links-optimized-tools-for-23-for-2024/"><u>[New] Organize and Download FB Links Optimized Tools for '23 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-captureeverything-a-deep-dive-into-laptop-recording/"><u>[Updated] CaptureEverything A Deep Dive Into Laptop Recording</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-ioswindows13/"><u>自由選擇便利使用: Android, iOS及Windows上，13種優秀文字轉成語音器件</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/driving-impact-with-data-informed-spotify-ads/"><u>Driving Impact with Data-Informed Spotify Ads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-for-unseen-airpods-in-apples-find-my-app/"><u>Essential Troubleshooting Steps for Unseen AirPods in Apple’s Find My App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/krakende-dvd-naar-avi-format-methode-eenvoudige-conversie-met-movavi/"><u>Krakende DVD Naar Avi Format Methode - Eenvoudige Conversie Met Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/las-nuevas-adiciones-excelsantes-a-la-estacion-de-trabajo-cinematografica-de-movavi/"><u>Las Nuevas Adiciones Excelsantes a La Estación De Trabajo Cinematográfica De Movavi</u></a></li>
+<li><a href="https://fox-where.techidaily.com/losungen-fur-den-fehler-unzugangliches-startgerat-beim-einrichten-von-windows-server-2019/"><u>Lösungen Für Den Fehler «Unzugängliches Startgerät» Beim Einrichten Von Windows Server 2019</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-6-video-dubbing-software-for-pc/"><u>New Best 6 Video Dubbing Software for PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/passare-da-flac-a-wma-online-senza-costi-effettoconvertitore-facile-e-gratuito/"><u>Passare Da FLAC a WMA Online Senza Costi - EffettoConvertitore Facile E Gratuito</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-tiff-photos-to-jpeg-at-no-cost-step-by-step-instructions-by-movavi/"><u>Transform TIFF Photos to JPEG at No Cost: Step-by-Step Instructions by Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uma-jornada-de-aprendizagem-na-edicao-de-videos-no-seu-dispositivo-android-com-dicas-uteis-do-movavi-clips/"><u>Uma Jornada De Aprendizagem Na Edição De Vídeos No Seu Dispositivo Android Com Dicas Úteis Do Movavi Clips</u></a></li>
 </ul></div>
 

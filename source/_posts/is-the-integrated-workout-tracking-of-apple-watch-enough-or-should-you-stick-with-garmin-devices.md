@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2024-11-03T01:07:30.121Z
-updated: 2024-11-08T08:20:17.258Z
+date: 2024-11-15T00:04:07.370Z
+updated: 2024-11-19T01:22:49.066Z
 tags:
   - apple
 categories:
@@ -27,6 +27,13 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -34,15 +41,22 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -53,10 +67,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -68,13 +82,6 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 ## Enable the Collaboration feature
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -91,19 +98,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -163,16 +157,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-pioneering-photography-with-advanced-software/"><u>[New] In 2024, Pioneering Photography with Advanced Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-visuals-with-these-top-12-no-cost-ai-video-tools-for-windows-and-macos-users/"><u>Enhance Your Visuals with These Top 12 No-Cost AI Video Tools for Windows & macOS Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-novice-to-expert-a-telegram-web-blueprint/"><u>From Novice to Expert A Telegram Web Blueprint</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/hpe-litigates-against-chinas-inspur-patent-violation-allegations-overshadowed-by-ongoing-sanction-defying-business-activities-in-the-us/"><u>HPE Litigates Against China's Inspur: Patent Violation Allegations Overshadowed by Ongoing Sanction-Defying Business Activities in the U.S</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>In 2024, The Art of Edible Entertainment 7 Steps to Perfect Plating on Camera</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimal-video-codecs-and-settings-for-smartphones-samsung-vs-apple/"><u>Optimal Video Codecs and Settings for Smartphones: Samsung vs Apple</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-bluetooth-compatibility-for-windows-7-fast-driver-downloads-available/"><u>Seamless Bluetooth Compatibility for Windows 7 - Fast Driver Downloads Available!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/select-one-of-the-imported-avi-files-as-the-source-video-by-clicking-on-it-within-the-program-interface/"><u>Select One of the Imported AVI Files as the Source Video by Clicking on It Within the Program Interface.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/silent-scripting-the-leading-list-of-offline-transcription-software-for-2024/"><u>Silent Scripting The Leading List of Offline Transcription Software for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-top-rated-free-video-capture-apps-ranked/"><u>The Ultimate List of Top-Rated Free Video Capture Apps - Ranked!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-issue-of-non-responsive-netflix-streaming-across-all-your-gadgets/"><u>Troubleshooting Tips: Solving the Issue of Non-Responsive Netflix Streaming Across All Your Gadgets</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-critical-components-affecting-youtube-video-scores-for-2024/"><u>[Updated] Critical Components Affecting YouTube Video Scores for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-lost-footage-immediate-removal-impacts/"><u>2024 Approved Lost Footage Immediate Removal Impacts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-avimp4mp3/"><u>無料変換サービス – Movavi: AVI/MP4をMP3に転送しやすく解説 – オンラインで使える方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beskyttet-screen-recordereprogram-erfaringer-med-top-sorters/"><u>Beskyttet Screen Recordereprogram - Erfaringer Med Top Sorters</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cambia-tus-audios-de-aiff-a-formato-flac-sin-gastar-descubre-el-metodo-gratuitamente-en-linea-para-una-transicion-perfecta/"><u>Cambia Tus Audios De AIFF a Formato FLAC Sin Gastar: Descubre El Método Gratuitamente en Línea Para Una Transición Perfecta</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-enabling-cookie-functionality-on-browsers/"><u>Complete Tutorial: Enabling Cookie Functionality on Browsers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-pro-enhancing-your-videos-with-manycams-virtual-webcam-capabilities/"><u>Live Streaming Pro: Enhancing Your Videos with ManyCam's Virtual Webcam Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-recordings-top-5-budget-friendly-software/"><u>Revamp Your Recordings: Top 5 Budget-Friendly Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-user-manual-to-navigate-windows-11s-innovative-battery-report-feature/"><u>The Essential User Manual to Navigate Windows 11'S Innovative Battery Report Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-game-changing-lg-gram-156-inch-notebook-review-2018-power-meets-lightweight-durability-and-long-battery-life/"><u>The Game-Changing LG Gram 15.6 Inch Notebook Review (2018) - Power Meets Lightweight Durability & Long Battery Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformar-videos-do-formato-ogg-em-mpeg-livre-e-online-pelo-site-da-movavi/"><u>Transformar Vídeos Do Formato OGG Em MPEG Livre E Online Pelo Site Da Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformez-facilement-votre-m4a-en-m4b-gratuitement-en-ligne-avec-movavi/"><u>Transformez Facilement Votre M4A en M4B Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wav-avi/"><u>WAV 파일을 AVI로 자유성 버전화하는 방법: 웹사이트 내용의 가장 나은 해결책</u></a></li>
 </ul></div>
 

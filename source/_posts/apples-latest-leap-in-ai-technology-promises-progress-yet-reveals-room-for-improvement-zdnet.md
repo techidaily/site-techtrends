@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-10-31T17:19:41.603Z
-updated: 2024-11-08T00:07:15.098Z
+date: 2024-11-14T02:08:14.212Z
+updated: 2024-11-18T18:08:32.748Z
 tags:
   - apple
 categories:
@@ -69,26 +69,29 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-access-a-world-of-content-anywhere-anyplace-with-the-leading-6-best-and-cost-free-tools-to-download-youtubes-short-videos/"><u>[New] In 2024, Access a World of Content Anywhere, Anyplace with the Leading 6 Best and Cost-Free Tools to Download YouTubes' Short Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-15-video-downloader-add-ons-facebook-and-firefox-compatible/"><u>[Updated] In 2024, Top 15 Video Downloader Add-Ons Facebook & FireFox Compatible</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-innovation-unleashed-cutting-edge-ar-games-for-2024/"><u>[Updated] Innovation Unleashed Cutting-Edge AR Games for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/access-the-unreleased-best-in-class-5gb-console-emulators-for-windows-pcs/"><u>Access the Unreleased Best-in-Class 5GB Console Emulators for Windows PCs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/achieve-perfect-print-quality-how-to-stop-layer-distortion-on-3d-devices/"><u>Achieve Perfect Print Quality: How to Stop Layer Distortion on 3D Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-firmware-hp-laserjet-pro-1007-printer-software-upgrade/"><u>Download the Latest Firmware: HP LaserJet Pro 1007 Printer Software Upgrade</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facebook-engagement-insights-tracking-who-has-shared-your-content-online/"><u>Facebook Engagement Insights: Tracking Who Has Shared Your Content Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fresh-start-a-lenovo-laptop-the-definitive-factory-reset-guide/"><u>How To Fresh-Start a Lenovo Laptop: The Definitive Factory Reset Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>In 2024, The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
-<li><a href="https://win-webster.techidaily.com/navigating-system-preparation-with-sysprep-a-comprehensive-tutorial-for-windows-1011-users/"><u>Navigating System Preparation with Sysprep: A Comprehensive Tutorial for Windows 10/11 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-natural-language-processing-with-chatgpt/"><u>Navigating the World of Natural Language Processing with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamp-your-system-with-the-best-15-windows-11-aesthetic-makeovers-free/"><u>Revamp Your System with the Best 15 Windows 11 Aesthetic Makeovers (Free)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-boosting-your-iphones-call-audio-level/"><u>Solving the Mystery: Boosting Your iPhone's Call Audio Level</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722870959454-top-rated-ipad-offers-exclusive-savings-today/"><u>Top-Rated iPad Offers - Exclusive Savings Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>[New] The Sound of You How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-ogmwmv/"><u>網路直接免費轉檔Movavi OGM成WMV - 最佳線上換格器</u></a></li>
+<li><a href="https://win-tips.techidaily.com/comprehensive-robocopy-tutorial-one-directional-copying-methods-and-top-open-source-solutions/"><u>Comprehensive Robocopy Tutorial: One-Directional Copying Methods and Top Open Source Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-finest-15-no-cost-desktop-recording-tools-by-movavi-ratings/"><u>Discover the Finest 15 No-Cost Desktop Recording Tools by Movavi Ratings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>In 2024, A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-competing-visions-of-virtual-space-google-against-samsung/"><u>In 2024, Competing Visions of Virtual Space Google Against Samsung</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-audio-with-apods/"><u>In 2024, Navigating the World of Audio with APods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/longest-flight-drone-champions-unveiled/"><u>Longest Flight Drone Champions Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mpg-file-transformation-into-flv-format-free-quick-and-easy-with-movavi-converter/"><u>MPG File Transformation Into FLV Format Free - Quick & Easy with Movavi Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-outils-logiciels-pour-creer-des-gifs-parfaits-la-selection-de-2024-avec-movavi/"><u>Top 10 Outils Logiciels Pour Créer Des GIFs Parfaits - La Sélection De 2024 Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-meta-vision-pro-the-new-virtual-reality-gear-with-apples-unexpected-innovation-zdnet-coverage/"><u>Unveiling the Meta Vision Pro: The New Virtual Reality Gear with Apple's Unexpected Innovation - ZDNet Coverage</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

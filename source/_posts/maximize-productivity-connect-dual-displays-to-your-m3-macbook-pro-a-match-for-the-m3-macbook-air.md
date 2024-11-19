@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - A Match for the M3 MacBook Air!"
-date: 2024-11-04T22:37:45.505Z
-updated: 2024-11-08T01:49:28.561Z
+date: 2024-11-14T01:27:37.705Z
+updated: 2024-11-18T23:46:34.623Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -84,10 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -103,10 +103,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -119,13 +119,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -135,6 +128,13 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -170,20 +170,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-inside-look-analyzing-androids-photoshop-substitute-lightroom/"><u>[New] In 2024, Inside Look Analyzing Android's Photoshop Substitute, Lightroom</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-no-cost-screenshot-masters-the-best-on-windows-1-5-guide/"><u>[Updated] 2024 Approved No-Cost Screenshot Masters – The Best on Windows #1-5 Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advanced-mac-hd-video-converter-software-effizientes-konvertieren-von-avchd-m2ts-mkv-und-flv-dateien-auf-dem-mac/"><u>Advanced Mac HD Video Converter Software - Effizientes Konvertieren Von AVCHD, M2TS, MKV Und FLV Dateien Auf Dem Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-folder-empty-warning-on-windows-pcs/"><u>Avoiding Folder Empty Warning on Windows PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effizienter-mp4-codec-experten-ratgeber-fur-die-qualitatsoptimierung-von-mp4-videos/"><u>Effizienter MP4 Codec: Experten Ratgeber Für Die Qualitätsoptimierung Von MP4 Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/erfolg-versprechende-strategien-zum-komprimieren-und-konvertieren-hochauflosender-videos-von-4k-auf-1080p/"><u>Erfolg Versprechende Strategien Zum Komprimieren Und Konvertieren Hochauflösender Videos Von 4K Auf 1080P</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-6-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 6 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guida-alla-ritrovista-in-rotazione-di-filmati-mp4-con-trasformazione-a-90-180-o-270-senza-degradazione-della-qualita/"><u>Guida Alla Ritrovista in Rotazione Di Filmati MP4 Con Trasformazione a 90, 180 O 270° Senza Degradazione Della Qualità</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-facile-convertir-gratuitement-des-videos-mkv-en-disque-dvd-a-laide-de-winx-dvd-author-pour-windows-1087/"><u>Guide Facile : Convertir Gratuitement Des Vidéos MKV en Disque DVD À L'aide De WinX DVD Author Pour Windows 10/8/7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hence-in-just-5-minutes/"><u>Hence, in Just 5 Minutes!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-must-haves-best-android-picture-adjusters/"><u>In 2024, Must-Haves Best Android Picture Adjusters</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-and-refine-stellars-phoenix-software-unleashes-its-power-on-macos/"><u>Revive and Refine: Stellar’s Phoenix Software Unleashes Its Power on macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-viewing-mkv-captions-on-vlc-media-player-mpc-and-high-definition-televisions/"><u>Troubleshooting Tips for Viewing MKV Captions on VLC Media Player, MPC, and High Definition Televisions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inclusivity-in-tech-the-expert-take-on-easeus/"><u>[Updated] Inclusivity in Tech The Expert Take on EaseUS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024-windows-117/"><u>2024年度推薦: Windows 11上最佳免費屏幕錄影器材7組 - 如何選?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/5zwf55sojpluswuiewfqow8leatjiflipog73nmotlhbpplk7mlrnms5xor6bop6m/"><u>啟用'安全引擎'功能的关键方法详解</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-edge-40-neo-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Edge 40 Neo to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-escribir-en-imagenes-usando-el-editor-de-fotos-de-movavi-un-metodo-sencillo/"><u>Como Escribir en Imágenes Usando El Editor De Fotos De Movavi – Un Método Sencillo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-e-facile-trasforma-il-tuo-gif-nel-formato-mov-utilizzando-movavi-online/"><u>Conversione Gratuita E Facile: Trasforma Il Tuo GIF Nel Formato MOV Utilizzando Movavi Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-mov-files-to-avi-format-for-free-with-movavis-web-based-tool/"><u>Convert Your MOV Files to AVI Format for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-camon-20-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Camon 20 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-superior-livestream-with-top-providers/"><u>In 2024, Crafting a Superior Livestream with Top Providers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kannst-du-mit-adobe-premiere-pro-av1-videos-importieren-und-exportieren/"><u>Kannst Du Mit Adobe Premiere Pro AV1-Videos Importieren Und Exportieren?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-muzikalarinizla-uygulama-yapmak-icin-mac-managerlara-dogru-taliman/"><u>Movavi Müzikalarınızla Uygulama Yapmak Için Mac Managerlara Doğru Taliman</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-pef-png/"><u>Movavi 서비스로 PEF PNG에 대한 무료 온라인 변환 - 영어</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-roku-streaming-devices-and-sticks-latest-reviews-by-zdnet/"><u>Top-Ranking Roku Streaming Devices & Sticks - Latest Reviews by ZDNet</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/verzerrtes-video-wiederherstellen-mit-handbrake-unter-windows-10-eine-schritt-fur-schritt-anleitung/"><u>Verzerrtes Video Wiederherstellen Mit HandBrake Unter Windows 10 - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

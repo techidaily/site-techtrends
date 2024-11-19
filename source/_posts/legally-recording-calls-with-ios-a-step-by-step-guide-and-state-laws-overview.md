@@ -1,7 +1,7 @@
 ---
 title: "Legally Recording Calls with iOS: A Step-by-Step Guide & State Laws Overview"
-date: 2024-11-07T00:15:27.810Z
-updated: 2024-11-07T19:59:12.384Z
+date: 2024-11-17T19:25:34.260Z
+updated: 2024-11-19T02:38:02.446Z
 tags:
   - apple
 categories:
@@ -48,24 +48,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 * An [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running iOS 18.1 beta or an iPhone XS or newer model running iOS 18.1 beta 4
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Start a phone call
 
 Initiate a call. You'll see a new icon in the upper-left corner of the call screen -- click it to begin recording. 
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Make sure recording has started
 
 Once you've begun the recording, you'll see a notification alerting all parties, and an audio message that recording has been initiated. 
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. End recording and view transcript
 
@@ -112,13 +119,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check whether you need to inform the other party that you're recording
 
 Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.) if the state you're recording and residing in is a one-party or all-party state for recording consent. 
@@ -126,6 +126,13 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -160,10 +167,10 @@ Open up sharing options. You can also trim or rename the recording to something 
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other ways to record
@@ -175,10 +182,10 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Rev Voice Recorder
@@ -190,10 +197,10 @@ Rev has a few options depending on what you need. If you want to record phone ca
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Voice
@@ -214,21 +221,7 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -247,6 +240,13 @@ Alternatively, you can use most mic-equipped computers or tablets to record phon
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
 
@@ -286,19 +286,22 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-masterclass-in-screenshotting-professional-level-techniques-using-mobizen/"><u>[Updated] Masterclass in Screenshotting Professional-Level Techniques Using Mobizen</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-smartphone-cinematography-crafting-perfect-youtube-thumbnails/"><u>[Updated] Smartphone Cinematography Crafting Perfect YouTube Thumbnails</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/debugging-strategies-for-a-stable-experience-in-naraka-bladepoint/"><u>Debugging Strategies for a Stable Experience in Naraka: Bladepoint</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-the-fm20dll-file-isnt-present-or-cant-be-located/"><u>How To Address: The fm20.dll File Isn’t Present or Can't Be Located</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-step-into-retro-gaming-with-top-5-ps1-emulators-for-pc/"><u>In 2024, Step Into Retro Gaming with Top 5 PS1 Emulators for PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-microsofts-regular-security-updates-and-patch-releases/"><u>Inside Microsoft's Regular Security Updates and Patch Releases</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/lizenzcode-und-serienschlussel-zum-macx-dvd-ripper-pro-genuine-keys-verfugbar-fur-die-volle-version-im-jahr-2021/"><u>Lizenzcode Und Serienschlüssel Zum MacX DVD Ripper Pro – Genuine Keys Verfügbar Für Die Volle Version Im Jahr 2021</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-the-journey-easy-steps-for-obtaining-and-installing-new-ios-versions-on-your-device/"><u>Navigate the Journey: Easy Steps for Obtaining & Installing New iOS Versions on Your Device</u></a></li>
-<li><a href="https://win-top.techidaily.com/page-unavailable-encountering-the-error-404-moment/"><u>Page Unavailable – Encountering the Error 404 Moment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/scriptwriting-essentials-for-realistic-chatter-for-2024/"><u>Scriptwriting Essentials for Realistic Chatter for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-tutorials-to-excel-at-google-meet-free-edition-for-2024/"><u>Step-by-Step Tutorials to Excel at Google Meet (Free Edition) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ins-and-outs-of-unlimited-wireless-with-metro-by-t-mobile-a-guide-to-nationwide-data-roaming-benefits/"><u>The Ins and Outs of Unlimited Wireless with Metro by T-Mobile: A Guide to Nationwide Data Roaming Benefits</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-gopro-quik-review-is-it-the-best-video-editor-for-your-needs-for-2024/"><u>Updated GoPro Quik Review Is It the Best Video Editor for Your Needs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/zero-price-chat-tools-compatible-with-your-iphone-and-ipod-touch/"><u>Zero Price Chat Tools Compatible with Your iPhone & iPod Touch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction-for-2024/"><u>[New] Getting the Most Out of Your Youtube Videos Thumbnails Extraction for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransforming-trending-searches-into-video-concepts-for-2024/"><u>[New] Transforming Trending Searches Into Video Concepts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ultimate-image-booster-intense-visual-upgrade/"><u>[Updated] 2024 Approved Ultimate Image Booster Intense Visual Upgrade</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-tips-for-instagrams-query-tagging/"><u>[Updated] In 2024, Essential Tips for Instagram's Query Tagging</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-select-best-dvd-software-for-sierra-mac-users/"><u>[Updated] Select Best Dvd Software for Sierra Mac Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-ultimate-guide-to-samsungs-spectacular-qn90b-qled-television-a-vibrant-choice-for-well-lit-rooms-techradar/"><u>1. Ultimate Guide to Samsung's Spectacular QN90B QLED Television - A Vibrant Choice for Well-Lit Rooms | TechRadar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-owm-video-para-conversao-online-pelo-movavi-ferramenta-livre-e-simples-de-uso/"><u>Gratis OWM Vídeo Para Conversão Online Pelo Movavi - Ferramenta Livre E Simples De Uso</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuiti-conversione-vob-a-mkv-online-con-moveavi-guida-istantanea/"><u>Gratuiti Conversione VOB a MKV Online Con Moveavi - Guida Istantanea</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-best-of-digital-entertainment-the-8-premier-google-play-pass-games/"><u>Navigating the Best of Digital Entertainment: The 8 Premier Google Play Pass Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-vrije-flv-wma-converter-professioneel-met-gratis-service-movavi/"><u>Online Vrije FLV-WMA Converter: Professioneel Met Gratis Service - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/riporta-immagini-jp2-a-formato-jpeg-fatto-in-casa-metodo-libero-e-facile-movavi/"><u>Riporta Immagini JP2 a Formato JPEG Fatto in Casa: Metodo Libero E Facile - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/side-by-side-video-editing-tutorial-on-how-to-create-split-screen-videos-easily/"><u>Side-By-Side Video Editing: Tutorial on How To Create Split Screen Videos Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/techniques-gratuites-pour-transformer-des-fichiers-jpg-en-ligne-avec-movavi/"><u>Techniques Gratuites Pour Transformer Des Fichiers JPG en Ligne Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tecnicas-experto-para-hacer-de-windows-10-tu-plataforma-ideal-de-juego-guia-completa/"><u>Técnicas Experto Para Hacer De Windows 10 Tu Plataforma Ideal De Juego [Guía Completa]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-f5-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Poco F5 Pro 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iuyypouuloyypcruytrljtsmkqg7ian64pluseioyhsoyglsdtkoa6iouqqouwloumroydmcdstzzsg4hsniqg6riw64ql7jeqioumgo2vncdsnpdshljtlzwg7kea7lmoig/"><u>오디오/비디오 속도 조정 풀: 모바리의 최상위 기능에 대한 자세한 지침</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/xvid/"><u>원격 XviD 발음기 적용에 대한 단계별 가이드 프로그래밍</u></a></li>
 </ul></div>
 

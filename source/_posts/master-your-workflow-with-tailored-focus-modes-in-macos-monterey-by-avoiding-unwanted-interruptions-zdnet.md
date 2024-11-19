@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-11-02T09:31:59.908Z
-updated: 2024-11-08T05:25:40.819Z
+date: 2024-11-14T02:10:56.302Z
+updated: 2024-11-18T22:51:05.114Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
@@ -41,10 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -56,10 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -79,10 +86,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -98,13 +105,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,22 +148,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-from-blurred-to-bold-a-comprehensive-approach-to-buying-high-resolution-monitors/"><u>[New] 2024 Approved From Blurred to Bold A Comprehensive Approach to Buying High-Resolution Monitors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-introduce-dynamic-blurring-to-pics-in-ps-for-2024/"><u>[New] Introduce Dynamic Blurring to Pics in PS for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-high-definition-horizons-with-sony-unraveling-xperia-xz-for-2024/"><u>[Updated] High-Definition Horizons with Sony - Unraveling Xperia XZ for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/app-tastic-mystery-adventures-for-iphoneipad-explore-games-as-enthralling-as-the-room-and-myst/"><u>App-Tastic Mystery Adventures for iPhone/iPad - Explore Games as Enthralling as The Room and Myst</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/bezna-nahravka-obrazok-bez-zvuku-movari-prostredek-pro-videcke-filmy/"><u>Běžná Nahrávka Obrazok Bez Zvuku - MoVaRi Prostředek Pro Vídecké Filmy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detailed-review-of-line-application-is-it-worth-your-time/"><u>Detailed Review of Line Application - Is It Worth Your Time?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-to-link-up-a-shared-network-printer-in-your-home-or-office/"><u>Easy Methods to Link Up a Shared Network Printer in Your Home or Office</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevated-experience-premium-seating-for-the-taller-set/"><u>Elevated Experience: Premium Seating for the Taller Set</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-online-webcam-solution-for-content-creators/"><u>Enhance Your Broadcasts Using ManyCam - The Ultimate Online Webcam Solution for Content Creators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-restoring-connection-with-your-echo-what-to-do-when-alexa-says-its-offline/"><u>Guide to Restoring Connection with Your Echo: What to Do When Alexa Says It's Offline</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-c12-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia C12 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-keeping-your-mac-from-going-into-sleep-mode/"><u>Mastering the Art of Keeping Your Mac From Going Into Sleep Mode</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/scrutinizing-the-financial-lifelines-that-drive-tseries-youtube-success-for-2024/"><u>Scrutinizing the Financial Lifelines that Drive TSeries' Youtube Success for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-stop-0x0000003d-bsod-a-comprehensive-fix-manual/"><u>Solutions for STOP 0X0000003D BSOD – A Comprehensive Fix Manual</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-your-wi-fi-connection-issues-a-step-by-step-guide-to-restoring-internet-on-your-ipad/"><u>Solving Your Wi-Fi Connection Issues: A Step-by-Step Guide to Restoring Internet on Your iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-science-behind-oleds-working-principle-explained/"><u>The Science Behind OLEDs: Working Principle Explained</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-boost-your-sales-opening-plans/"><u>[New] 2024 Approved Boost Your Sales Opening Plans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-dive-into-yi-4k-plus-action-camera-an-all-encompassing-review-for-2024/"><u>[Updated] Dive Into Yi 4K + Action Camera An All-Encompassing Review for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-10-relaxing-hobbies-outside-the-athletic-domain-for-2024/"><u>[Updated] Top 10 Relaxing Hobbies Outside the Athletic Domain for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-captivating-journey-through-narrative-and-creation-review-of-sci-fi-rpg-torment-tides-of-numenera/"><u>A Captivating Journey Through Narrative and Creation - Review of Sci-Fi RPG 'Torment: Tides of Numenera'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-online-resources-for-free-audio-clips-and-sound-editing-tools/"><u>Best Online Resources for FREE Audio Clips & Sound Editing Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converte-gratuitamente-arquivos-m4a-em-flac-on-line-com-o-movavi/"><u>Converte Gratuitamente Arquivos M4A Em FLAC On-Line Com O Movavi</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/free-online-converter-transform-avi-files-into-m4a-format-with-ease-moveavi/"><u>Free Online Converter: Transform AVI Files Into M4A Format with Ease - MoveAVi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-leading-virtual-reality-glasses-revolutionizing-productivity-and-journeys-with-their-latest-updates-insights-at-zdnet/"><u>The Leading Virtual Reality Glasses Revolutionizing Productivity and Journeys with Their Latest Updates | Insights at ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transcodificar-streams-de-asxwav-a-formato-ogg-opus-gratuito-mediante-movavi/"><u>Transcodificar Streams De ASX/WAV a Formato Ogg Opus Gratuito Mediante Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-filetti-3gp-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma Filetti 3GP in MP4 Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlock-the-top-3-secrets-to-transferring-all-your-information-effortlessly-from-an-aged-ipad-to-a-new-one-no-need-for-icloud/"><u>Unlock the Top 3 Secrets to Transferring All Your Information Effortlessly From an Aged iPad to a New One - No Need for iCloud!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Deceitful Networking Tactics: How to Detect False Friend Invitations on Social Media"
-date: 2024-09-11T17:30:31.070Z
-updated: 2024-09-12T17:30:31.070Z
+date: 2024-11-11T20:42:28.351Z
+updated: 2024-11-19T01:20:28.724Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling Deceitful Networking Tactics: How to Detect False Friend Invitations on Social Media"
@@ -13,19 +13,6 @@ thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db
 
 Close 
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  What to Know
 
 * Scammers, former or current romantic partners, or private investigators might send fake friend requests.
@@ -34,16 +21,16 @@ Close
  This article explains who might send a fake friend request, why they might do so, and how to spot a suspicious request on social media platforms.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Someone Sends a Fake Friend Request 
@@ -59,10 +46,16 @@ Close
 * **Private investigators** : Private investigators can use false profile friend requests to learn more information about you—the kind of information you normally restrict from public view and reserve for friends only.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Spot a Fake Friend Request 
@@ -76,10 +69,10 @@ Close
 * **Is there little personal content on their timeline?** You likely won't see a lot of day-to-day activity on a fake profile because of the effort required to generate "real" content. You may see some pictures, perhaps some links, but you probably won't see many location check-ins or status updates. This may or may not be true for scammers of the catfishing type, as they may spend a lot of time and effort making their online personas seem as real as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What to Do With a Fake Friend Request 
@@ -89,10 +82,10 @@ Close
 ![Person viewing a social media profile on a smartphone](https://www.lifewire.com/thmb/6jisheWax_8d--rEBde3lJazSN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1287186695-e166148abb6e43c7bbe7f2c5a9733ce2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tero Vesalainen / Getty Images
@@ -133,5 +126,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-soft-focus-the-secret-of-great-bokeh-in-stories/"><u>[New] Mastering Soft Focus The Secret of Great Bokeh in Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-prime-action-mic-choices-for-clear-videos/"><u>[Updated] Prime Action Mic Choices for Clear Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-your-sidekick-alexa-or-google-assistant-the-ultimate-showdown/"><u>Choosing Your Sidekick: Alexa or Google Assistant – The Ultimate Showdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-criteria-for-selecting-the-best-pc-for-gamers/"><u>Essential Criteria for Selecting the Best PC for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-communication-apple-bolsters-imessage-security-for-upcoming-challenges/"><u>Future-Proofing Communication: Apple Bolsters iMessage Security for Upcoming Challenges</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-smart-buying-refurbished-computer-insights-you-need/"><u>Guide to Smart Buying: Refurbished Computer Insights You Need</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-enable-or-disable-lan-search-capabilities-in-windows-11-a-comprehensive-tutorial/"><u>How to Easily Enable or Disable LAN Search Capabilities in Windows 11: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-efficiently-leverage-slacks-reminder-feature-for-better-productivity/"><u>How to Efficiently Leverage Slack's Reminder Feature for Better Productivity</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-streaming-success-implementing-green-screen-innovations/"><u>In 2024, Streaming Success Implementing Green Screen Innovations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-scope-of-panoramic-filmmaking-explained/"><u>In 2024, The Scope of Panoramic Filmmaking Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-netgear-device-password-guide-comprehensive-default-codes/"><u>July 2024 NETGEAR Device Password Guide: Comprehensive Default Codes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cket-views-with-these-essential-youtube-seo-hacks/"><u>Skyrocket Views with These Essential YouTube SEO Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-pdhdll-errors-comprehensive-guide-to-rectifying-missing-and-not-found-issues/"><u>Solving pdh.dll Errors: Comprehensive Guide to Rectifying 'Missing' And 'Not Found' Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-missing-haldll-problem-on-your-windows-xp-machine/"><u>Solving the 'Missing hal.dll' Problem on Your Windows XP Machine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-the-ultimate-tablet-savings-for-prime-day-extravaganza-2ebe-2024-limited-time-deals-featured/"><u>Uncover the Ultimate Tablet Savings for Prime Day Extravaganza 2Ebe 2024 - Limited Time Deals Featured !</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-11-06T21:41:09.308Z
-updated: 2024-11-08T03:19:11.640Z
+date: 2024-11-12T18:34:49.636Z
+updated: 2024-11-18T23:01:32.331Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,13 +43,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -57,6 +50,13 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -79,10 +79,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +98,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,19 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-break-through-the-crowd-your-guide-to-choosing-free-intro-masters/"><u>[New] 2024 Approved Break Through the Crowd - Your Guide to Choosing Free Intro Masters</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-vs-fraps-best-screen-recording-tools-battle/"><u>[New] OBS Studio vs Fraps Best Screen Recording Tools Battle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-super-video-pack/"><u>「どうやってネット通販で高品質なWinX Super Video Packを手に入れますか?」</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>2024 Approved Instant Insight Method for Punctuation of Timelines in Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725287976370-convert-mov-files-to-mp4-for-free-compatible-with-mac-and-windows-11/"><u>Convert MOV Files to MP4 for Free: Compatible with Mac & Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-s23plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel S23+ Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-revert-from-ios-16-back-to-ios-15-a-step-by-step-guide/"><u>How To Successfully Revert From iOS 16 Back To iOS 15: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-social-media-elite-playbook-cultivate-your-stardom-in-9-easy-steps/"><u>In 2024, The Social Media Elite Playbook Cultivate Your Stardom in 9 Easy Steps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creative-vision-adobe-premiere-pro-for-mac-professionals/"><u>New In 2024, Unleash Your Creative Vision Adobe Premiere Pro for Mac Professionals</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 Pro Max | Stellar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-sites-for-legally-downloading-free-ultra-hd-4k-video-clips/"><u>Top Sites for Legally Downloading Free Ultra HD (4K) Video Clips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722979126947-windows-10-compatible-realtek-hardware-drivers-secure-your-system-now/"><u>Windows 10 Compatible Realtek Hardware Drivers – Secure Your System Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725290503984-wondershare/"><u>Wondershareのロゴ取り撤去ガイドと、スピーディかつクリアなビデオエディット</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725286622649-windows-10/"><u>オーガーフォントへのビデオ変換 - Windows 10で完全無料ガイド</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-affordable-asmr-microphones-with-peak-performance-quality-crest/"><u>[New] In 2024, Affordable ASMR Microphones with Peak Performance, Quality Crest</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvdblu-ray-mp3/"><u>自由轉換 DVD/Blu-Ray 成MP3 - 最佳在線錄音下載器</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/automating-the-transformation-from-mxf-to-mp3-a-comprehensive-tutorial/"><u>Automating the Transformation From MXF to MP3: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-online-libre-para-archivos-webm-a-m4a-guia-completa-y-ejemplo-con-movavi/"><u>Conversión Online Libre Para Archivos WEBM a M4A: Guía Completa Y Ejemplo Con Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-interaction-failures-in-new-windows-11-os/"><u>Fixing Interaction Failures in New Windows 11 OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/het-voorkeurslijst-van-hoegek-pdf-leessoftware-kies-zijnhaar-favoriet/"><u>Het VoorkeursLijst Van HoeGek PDF Leessoftware | Kies Zijn/Haar Favoriet!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-gionee-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Gionee Phone Hassle-Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-10-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 10 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-video-converter-effortless-gif-to-mp4-transformation/"><u>Movavi Video Converter - Effortless GIF to MP4 Transformation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/overcoming-iphone-lens-focus-discrepancies/"><u>Overcoming iPhone Lens Focus Discrepancies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-login-issues-caused-by-malfunctioning-keyboards/"><u>Solution Found: Fixing Login Issues Caused by Malfunctioning Keyboards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-20-ultimate-free-tools-convert-wav-to-mp3-on-any-device-windows-mac-and-online-options/"><u>Top 20 Ultimate Free Tools: Convert WAV to MP3 on Any Device - Windows, Mac & Online Options</u></a></li>
+<li><a href="https://win-great.techidaily.com/top-vob-video-editing-tools-a-step-by-step-guide-to-cutting-joining-and-more/"><u>Top VOB Video Editing Tools: A Step-by-Step Guide to Cutting, Joining & More</u></a></li>
+<li><a href="https://techtrends.techidaily.com/video-steadying-techniques-with-warp-stabilizer-expert-guide/"><u>Video Steadying Techniques with Warp Stabilizer - Expert Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y100i-power-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Power 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

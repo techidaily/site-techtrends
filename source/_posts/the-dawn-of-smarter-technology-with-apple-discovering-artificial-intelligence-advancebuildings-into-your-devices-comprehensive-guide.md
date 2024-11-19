@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices Comprehensive Guide"
-date: 2024-10-22T17:50:57.785Z
-updated: 2024-10-27T18:00:08.677Z
+date: 2024-11-16T19:07:38.739Z
+updated: 2024-11-18T17:32:49.702Z
 tags:
   - apple
 categories:
@@ -55,13 +55,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,6 +71,13 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -91,10 +91,16 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -108,13 +114,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -139,6 +138,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -172,10 +178,16 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,22 +230,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-complete-guide-for-incorporating-funny-and-engaging-gifs-into-your-discord-chats/"><u>[Updated] 2024 Approved The Complete Guide for Incorporating Funny & Engaging GIFs Into Your Discord Chats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-pioneers-of-immersion-history-in-vr/"><u>[Updated] Pioneers of Immersion History in VR</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-quality-real-time-broadcast-frameworks/"><u>2024 Approved High-Quality Real-Time Broadcast Frameworks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-most-advanced-mesh-networking-devices-reviewed-and-ranked/"><u>2024'S Most Advanced Mesh Networking Devices Reviewed and Ranked!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/are-folding-phone-innovations-just-for-show-or-here-to-stay-in-the-tech-world/"><u>Are Folding Phone Innovations Just for Show, or Here to Stay in the Tech World?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722865539892-discover-the-best-iphone-gps-trackers-our-top-picks/"><u>Discover the Best iPhone GPS Trackers: Our Top Picks!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-for-maintaining-a-hygienic-mechanical-keyboard-at-home-or-office/"><u>Expert Advice for Maintaining a Hygienic Mechanical Keyboard at Home or Office</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-transforming-dvd-media-into-wmv-format-with-excellent-quality-on-pc/"><u>Guide: Transforming DVD Media Into WMV Format with Excellent Quality on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-achieve-precise-cursor-movement-by-disabling-acceleration-in-macos-systems/"><u>How to Achieve Precise Cursor Movement by Disabling Acceleration in macOS Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-step-by-step-process-for-high-quality-thumbnails/"><u>In 2024, Step-by-Step Process for High-Quality Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-and-leveraging-influencers-on-snapchat/"><u>In 2024, Understanding and Leveraging Influencers on Snapchat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-future-bright-with-blu-ray-a-guide-on-choosing-your-player-wisely/"><u>Is the Future Bright with Blu-Ray? A Guide on Choosing Your Player Wisely</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722898054676-symptoms-of-uterine-rupture-include-sudden-severe-abdominal-pain-and-fetal-distress-immediate-emergency-cesarean-delivery-is-often-required/"><u>Symptoms of Uterine Rupture Include Sudden Severe Abdominal Pain and Fetal Distress; Immediate Emergency Cesarean Delivery Is Often Required</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-crafting-memorable-posts-507-standout-instagram-captions/"><u>The Essential Guide to Crafting Memorable Posts: 507 Standout Instagram Captions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-step-by-step-approach-to-resolve-missing-x3daudiodll-errors/"><u>The Step-by-Step Approach to Resolve Missing X3DAudio.DLL Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-list-elite-gaming-consoles/"><u>Ultimate List: Elite Gaming Consoles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726223414652-ogm/"><u>お使いのコンピュータですぐにスタート! OGMから任意の形式へ対話型変換 -無料-</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-speed-up-video-on-tiktok/"><u>[New] 2024 Approved How to Speed Up Video on TikTok?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-often-should-you-upload-videos-to-youtube-to-get-more-views/"><u>[Updated] How Often Should You Upload Videos to YouTube to Get More Views</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-guide-to-starting-a-successful-youtube-gaming-channel/"><u>[Updated] In 2024, The Guide to Starting a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-common-glitches-in-apple-tv-remote-on-iphone/"><u>Easy Solutions for Common Glitches in Apple TV Remote on iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-converter-change-ogm-files-into-mkv-format-movavi/"><u>Free Online Converter: Change OGM Files Into MKV Format - Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-spark-20-by-drfone-android/"><u>How to Bypass FRP from Tecno Spark 20?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-techniques-for-seamless-youtube-subtitling-and-captions/"><u>In 2024, Step-by-Step Techniques for Seamless YouTube Subtitling & Captions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/launchpad-to-efficiency-crucial-beginnings-for-your-recently-acquired-pc/"><u>Launchpad to Efficiency: Crucial Beginnings for Your Recently Acquired PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macbook-air-users-handbook-a-comprehensive-walkthrough-of-dividing-your-display/"><u>MacBook Air Users' Handbook: A Comprehensive Walkthrough of Dividing Your Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-zooms-filters-for-clear-premium-calls/"><u>Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-privacy-easy-methods-for-modifying-facebook-password/"><u>Protecting Your Privacy: Easy Methods for Modifying Facebook Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamping-your-chromecast-screen-how-to-update-the-background-scenery/"><u>Revamping Your Chromecast Screen: How to Update the Background Scenery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silencing-the-noise-a-step-by-nstep-solution-to-cracking-speakers-on-pcs-with-windows-710/"><u>Silencing the Noise: A Step-by-nStep Solution to Cracking Speakers on PCs with Windows 7/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-the-zoom-app-for-windows-and-macos-users/"><u>Step-by-Step Guide: Updating the Zoom App for Windows and macOS Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-contenders-who-will-lead-the-autonomous-vehicle-market/"><u>Top Contenders: Who Will Lead the Autonomous Vehicle Market ?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-actual-computing-velocity-how-quick-is-your-pc-in-practice/"><u>Unveiling Actual Computing Velocity: How Quick Is Your PC in Practice?</u></a></li>
 </ul></div>
 

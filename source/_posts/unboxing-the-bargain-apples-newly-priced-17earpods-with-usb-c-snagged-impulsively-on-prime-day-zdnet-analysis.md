@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis"
-date: 2024-10-31T06:24:33.629Z
-updated: 2024-11-02T06:00:07.267Z
+date: 2024-11-14T02:54:10.110Z
+updated: 2024-11-18T23:03:28.694Z
 tags:
   - apple
 categories:
@@ -47,6 +47,13 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 
 Screenshot by Kayla Solino/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
 If you like the simplicity of the second-generation AirPods but think it's time for an upgrade, the entry-level AirPods 4 are for you. Like the second-generation AirPods, the [entry-level AirPods 4](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) don't have active noise cancellation or Transparency Mode. However, they debut with spatial audio, making music, movie-watching, and mobile gaming more immersive.
@@ -56,10 +63,10 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -68,22 +75,22 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
 
@@ -92,13 +99,6 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 **Also: [Your AirPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
 
@@ -111,10 +111,10 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -151,20 +151,24 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-from-fresh-face-to-hashtag-hero-unleash-the-secrets-for-swift-social-media-success-on-instagram/"><u>[New] From Fresh Face to Hashtag Hero Unleash the Secrets for Swift Social Media Success on Instagram</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expert-strategies-for-exceptional-live-thumbnail-appeal/"><u>[Updated] 2024 Approved Expert Strategies for Exceptional Live Thumbnail Appeal</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-drone-dynamics-yuneecs-4k-flight-exploration/"><u>2024 Approved Drone Dynamics Yuneec's 4K Flight Exploration</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-maximizing-your-mac-preview-experience-step-by-step/"><u>2024 Approved Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevating-your-instagram-presence-with-metaai-insider-tips-and-tricks/"><u>Elevating Your Instagram Presence with MetaAI: Insider Tips and Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-guide-to-freely-enhancing-your-pdfs-top-13-tools-for-july-2024/"><u>Essential Guide to Freely Enhancing Your PDFs: Top 13 Tools for July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-on-how-to-thoroughly-clean-a-mechanical-keyboard/"><u>Expert Tips on How To Thoroughly Clean A Mechanical Keyboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-splash-proof-features-of-apples-latest-innovation-the-iphone-15/"><u>Exploring the Splash-Proof Features of Apple's Latest Innovation: The iPhone 15</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-reinstall-a-broken-or-missing-laptop-key/"><u>How to Successfully Reinstall a Broken or Missing Laptop Key</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture-for-2024/"><u>Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-samsung-smart-tv-applications-a-must-know-guide/"><u>Navigating the World of Samsung Smart TV Applications: A Must-Know Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-newest-google-pixel-on-horizon-what-we-know-so-far-about-costs-release-schedule-specs-and-rumors/"><u>The Newest Google Pixel on Horizon: What We Know So Far About Costs, Release Schedule, Specs & Rumors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-words-that-shaped-a-warrior-culture/"><u>The Words That Shaped a Warrior Culture</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-magic5-ultimate-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Magic5 Ultimate Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-must-play-android-and-ios-gaming-apps/"><u>Top 8 Must-Play Android & iOS Gaming Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-navigating-new-horizons-a-tech-upgrade-blueprint/"><u>[New] 2024 Approved Navigating New Horizons A Tech Upgrade Blueprint</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-snapshotstop-screen-shot-on-demand-guide/"><u>[New] 2024 Approved SnapshotStop Screen Shot on Demand Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-the-potential-of-filters-and-masks-for-online-conferencing/"><u>[New] 2024 Approved Unlocking the Potential of Filters and Masks for Online Conferencing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-discover-top-affordable-video-editors-of-2023-today/"><u>[Updated] 2024 Approved Discover Top Affordable Video Editors of 2023 Today!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-roadmap-to-fandom-10-secrets-for-rampant-fb-engagement/"><u>[Updated] 2024 Approved The Roadmap to Fandom 10 Secrets for Rampant FB Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-new-windows-exploit-targets-devices-with-ipv-addressing-system/"><u>Breaking: New Windows Exploit Targets Devices with IPv# Addressing System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-costs-is-riding-with-uber-more-affordable-than-taking-a-cab/"><u>Comparing Costs: Is Riding with Uber More Affordable than Taking a Cab?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connectivity-woes-resolved-fixing-your-stadia-headsets-pairing-problems/"><u>Connectivity Woes Resolved: Fixing Your Stadia Headset's Pairing Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-502-http-errors-identification-and-remediation-techniques-for-webmasters/"><u>Decoding 502 HTTP Errors: Identification & Remediation Techniques for Webmasters</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effective-techniques-to-slash-your-videos-size-by-up-to-90-preserving-quality/"><u>Effective Techniques to Slash Your Video's Size by Up to 90%, Preserving Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-file-navigation-with-personalized-finder-view-settings-for-hierarchical-folders/"><u>Enhancing File Navigation with Personalized Finder View Settings for Hierarchical Folders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-depths-how-well-does-iphone-15-pro-max-handle-water-exposure/"><u>Exploring the Depths: How Well Does iPhone #15 Pro Max Handle Water Exposure?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-red-magic-9-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Nubia Red Magic 9 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insiders-look-at-amazon-prime-day-2024-tips-dates-and-deals-unveiled/"><u>Insider's Look at Amazon Prime Day 2024: Tips, Dates, and Deals Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-streaming-netflix-possible-on-nintendo-switch/"><u>Is Streaming Netflix Possible on Nintendo Switch?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/practical-steps-for-tying-together-your-apple-homepod-and-tv-unit/"><u>Practical Steps for Tying Together Your Apple HomePod and TV Unit</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-how-to-repair-your-unresponsive-mic-on-pcs-with-windows-10/"><u>Step-by-Step Solution: How to Repair Your Unresponsive Mic on PCs with Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-most-effective-notetaking-applications/"><u>Top 10 Most Effective Notetaking Applications</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-virtualdub-the-go-to-tool-for-shrinking-mpeg2-file-sizes/"><u>Updated 2024 Approved VirtualDub The Go-To Tool for Shrinking MPEG2 File Sizes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Water-Resistance Rating of the Newly Launched iPhone 15
-date: 2024-09-11T17:31:59.794Z
-updated: 2024-09-12T17:31:59.794Z
+date: 2024-11-11T17:28:41.838Z
+updated: 2024-11-18T17:33:49.340Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Water-Resistance Rating of the Newly Launched iPhone 15
@@ -27,31 +27,11 @@ thumbnail: https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/fi
 
 ![Z Fold, Z Flip, Galaxy Tab, and Galaxy 24 devices by Samsung](https://www.lifewire.com/thmb/ph0bgMizYzTv5loBL9A-fipQ3qc=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Samsung-Galaxy-AI-products-2c855edca4d44ce49a2635bc570e42de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Samsung
 
  Generative AI with Google's Imagen 2 platform powers the photo-editing options. New tools let you quickly remove or modify both backgrounds and foreground subjects. To maintain security and trust, Samsung says that modified photos will have both a watermark and a note in image metadata noting that they've been altered.
 
  All S24 phones run on the third generation of Qualcomm's Snapdragon 8 chipset to handle all the extra work, and they all have a variable refresh rate of 1-120Hz for smoother videos and animations.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Coolest Features of the Samsung Galaxy S24 and S24 Plus
 
@@ -64,16 +44,10 @@ Samsung
 [Samsung Doubles Down On AI At Galaxy Unpacked 2024](https://www.lifewire.com/samsung-ai-galaxy-unpacked-2024-8430782)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Samsung Galaxy S24 and S24 Plus Pricing and Availability
@@ -90,10 +64,10 @@ Samsung
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%272880%27 height=%27896%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![The Galaxy S24 series](https://www.lifewire.com/thmb/H8-QOm52O_whCuEeJB99b-JlfD0=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Galaxy-S24-series-side-8dcbaec3364645939e41673b77364f49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PHOTO:
@@ -101,10 +75,16 @@ Samsung
 Samsung
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Galaxy S24 Ultra
@@ -119,13 +99,6 @@ Samsung
 
 [Samsung Drops New Galaxy Line With Wi-Fi 7-Enabled S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-line-with-wi-fi-7-8426902)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Coolest Features of the S24 Ultra
 
  The S24 Ultra has many of the same features as the S24 and S24+, but it has some things all its own. Here are our favorites:
@@ -136,6 +109,13 @@ Samsung
 * **Gorilla Armor** : This new glass from Corning promises both protection from scratches and better visibility.
 
 [Samsung Taps Corning's New Gorilla Glass for Galaxy S24 Series](https://www.lifewire.com/samsung-corning-gorilla-armor-galaxy-s24-8430937)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Galaxy S24 Ultra Pricing and Availability
 
@@ -170,5 +150,23 @@ Samsung
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>2024 Approved Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-a-firestick-with-your-projector-a-comprehensive-guide/"><u>Connecting a Firestick with Your Projector: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-f04-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy F04 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-premier-photo-retouching-software-suites-for-your-computer/"><u>Discover the Premier Photo Retouching Software Suites for Your Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-gaming-excellence-a-guide-to-top-consoles/"><u>Discovering Gaming Excellence - A Guide to Top Consoles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-viewing-contents-of-rar-files-using-macos-tools/"><u>Easy Methods for Viewing Contents of RAR Files Using macOS Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-i-manage-multiple-youtube-accounts-effectively/"><u>How Do I Manage Multiple YouTube Accounts Effectively?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-11-proplus-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme 11 Pro+ to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-seamless-video-editing-in-windows-10-without-expensive-software/"><u>In 2024, Seamless Video Editing in Windows 10 Without Expensive Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-laptop-at-best-buy-this-labor-day-exclusive-deals/"><u>Limited Time Offer: Save $350 on the HP Victus 15 Laptop at Best Buy This Labor Day – Exclusive Deals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-macbook-thermal-management-tips-for-monitoring-your-laptops-heat-levels/"><u>Mastering MacBook Thermal Management: Tips for Monitoring Your Laptop's Heat Levels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-5-key-questions-to-ask-when-shopping-for-the-perfect-smartwatch/"><u>The 5 Key Questions to Ask When Shopping for the Perfect Smartwatch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-x6-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find X6 Pro Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-unifying-your-epic-games-profiles/"><u>Ultimate Guide: Unifying Your Epic Games Profiles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zoom-connection-issues-are-you-facing-them-or-is-the-platform-at-fault/"><u>Zoom Connection Issues: Are You Facing Them or Is the Platform at Fault?</u></a></li>
+<li><a href="https://win-online.techidaily.com/imavarasalshana-para-anapalbthha-iphone-ma-tata-haaa-data-kasa-panaraparapata-kaya-jae/"><u>इमोवेर्सिलेशन पर अनुपलब्ध, iPhone में टूटा हुआ डेटा कैसे पुनर्प्राप्त किया जाए</u></a></li>
+</ul></div>
 

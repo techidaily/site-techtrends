@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade To iOS 18 On Your iPhone? Featuring Eligible Device List and Step-by-Step Setup Process
-date: 2024-10-31T23:05:32.750Z
-updated: 2024-11-07T16:02:48.760Z
+date: 2024-11-16T01:41:12.117Z
+updated: 2024-11-18T16:48:05.837Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -46,6 +46,13 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -59,29 +66,22 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -90,6 +90,13 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -101,19 +108,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -175,21 +169,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-digital-decoder-masterful-online-tv-recording-methods/"><u>[New] Digital Decoder Masterful Online TV Recording Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-design-best-practices-for-engaging-youtube-thumbnails/"><u>[Updated] 2024 Approved Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-techniques-top-lenses-for-youtube-stars-for-2024/"><u>[Updated] Cutting-Edge Techniques Top Lenses for YouTube Stars for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screenflow-extensive-review-unveiling-the-mac-experience/"><u>[Updated] In 2024, ScreenFlow Extensive Review Unveiling the Mac Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-three-safe-methods-for-directly-downloading-youtubes-audios-as-mp3/"><u>[Updated] Three Safe Methods for Directly Downloading YouTube's Audios as MP3</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficient-methods-for-monitoring-internet-consumption/"><u>Efficient Methods for Monitoring Internet Consumption</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-for-handling-mass-email-selection-on-googles-mail-service/"><u>How-To for Handling Mass Email Selection on Google's Mail Service</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C 5G Phone without PIN</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-illumination-incor-writings-on-visual-canvases-online/"><u>In 2024, Image Illumination Incor Writings on Visual Canvases Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2022-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2022) Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-androids-picture-in-picture-mode-a-comprehensive-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-hurdle-of-a-non-starting-device-a-comprehensive-guide-on-resolving-code-10-faults/"><u>Overcoming the Hurdle of a Non-Starting Device - A Comprehensive Guide on Resolving Code 10 Faults</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-how-to-for-inserting-lines-in-word-processor-applications/"><u>The Complete How-To for Inserting Lines in Word Processor Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tiktok-not-responding-heres-how-you-can-fix-it/"><u>TikTok Not Responding? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-water-resistance-of-iphone-15-how-much-protection-does-it-offer/"><u>Understanding the Water Resistance of iPhone 15: How Much Protection Does It Offer?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-creme-de-la-creme-of-4k-unforgettable-video-clips-for-2024/"><u>Updated The Crème De La Crème of 4K Unforgettable Video Clips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10plus-top-tips-for-accessing-the-best-of-international-cricket-online/"><u>[New] 10+ Top Tips for Accessing the Best of International Cricket Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-snapchat-blueprint-for-effective-marketing/"><u>[New] The Snapchat Blueprint for Effective Marketing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/12-proven-steps-for-free-conversion-from-cr2-to-jpeg-format/"><u>12 Proven Steps for Free Conversion From CR2 to JPEG Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-mp4-video-splitter-software-top-7-options-for-pc-and-mac-users/"><u>Best FREE MP4 Video Splitter Software: Top 7 Options for PC & Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-image-converter-convert-raw-files-to-jpg-using-movavi-tool/"><u>Free Online Image Converter: Convert RAW Files to JPG Using Movavi Tool</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-process-of-purging-audio-content-in-the-latest-avi-codec/"><u>In 2024, The Process of Purging Audio Content in the Latest AVI Codec</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/scarica-ed-converti-file-mpegavi-in-formato-ogg-per-free-movavi-video-converter/"><u>Scarica Ed Converti File MPEG/AVI in Formato OGG per Free - Movavi Video Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-file-rmvb-in-formato-m4v-free-con-movavi/"><u>Trasforma File RMVB in Formato M4V Free Con Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a34-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A34 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-designing-a-user-friendly-smart-home-for-everyone-in-the-household/"><u>Ultimate Guide: Designing a User-Friendly Smart Home for Everyone in the Household</u></a></li>
 </ul></div>
 

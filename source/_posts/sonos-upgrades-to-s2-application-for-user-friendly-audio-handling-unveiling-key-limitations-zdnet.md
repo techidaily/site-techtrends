@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-11-05T04:49:41.832Z
-updated: 2024-11-07T19:59:57.523Z
+date: 2024-11-16T23:27:17.328Z
+updated: 2024-11-19T01:44:35.148Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,10 +76,10 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -101,10 +101,10 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -122,10 +122,10 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -166,24 +166,22 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-footage-to-fame-premiere-pro-edition-tricks-for-youtube/"><u>[New] In 2024, From Footage to Fame Premiere Pro Edition Tricks for YouTube</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-personal-snaps-into-motion-stories/"><u>[Updated] Transforming Personal Snaps Into Motion Stories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-window-snapshots-in-windows-3-methods-for-2024/"><u>[Updated] Unlocking Window Snapshots in Windows (3 Methods) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725289993674-ai-windows-and-mac/"><u>頂級免費AI影片強化器選擇清單: Windows & Mac版本</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725288227917-dvd/"><u>英語が苦手な方のための、日本語対応DVD書き込みツールをご紹介!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-18-video-player-apps-compatible-with-macos-windows-11-ios-and-android-devices/"><u>Best 18 Video Player Apps Compatible with macOS, Windows 11, iOS, and Android Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-usar-correctamente-el-programa-de-grabador-de-dvd-winxdvd-guia-practica-how-to-properly-use-the-winxdvd-dvd-burner-software-practical-guide/"><u>Cómo Usar Correctamente El Programa De Grabador De DVD WinXDVD - Guía Práctica (How to Properly Use the WinXDVD DVD Burner Software – Practical Guide)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tips-to-start-fresh-with-a-macbook-pro-boot-up/"><u>Easy Tips to Start Fresh with a MacBook Pro Boot Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effektive-strategien-zur-minimierung-des-platzbedarfs-bei-mov-videoformaten-verfeinern/"><u>Effektive Strategien Zur Minimierung Des Platzbedarfs Bei MOV-Videoformaten Verfeinern</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/first-step-in-film-making-best-8-cameras-35mm-to-pands/"><u>First Step in Film Making Best 8 Cameras (35Mm to P&S)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-transcodificar-archivos-hevc-en-formato-mp4-sin-comprometer-la-calidad/"><u>Guía Paso a Paso Para Transcodificar Archivos HEVC en Formato MP4 Sin Comprometer La Calidad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/i-piu-efficienti-tre-applicazioni-di-registrazione-dvd-per-sistemi-operativi-windows-versioni-10-8-e-7-raccomandati-per-il-2021/"><u>I Più Efficienti Tre Applicazioni Di Registrazione DVD per Sistemi Operativi Windows (Versioni 10, 8 E 7) Raccomandati per Il 2021</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-essential-ad-copy-frameworks-on-facebook-for-2024/"><u>Mastering Essential Ad Copy Frameworks on Facebook for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/start-by-assembling-your-mounting-equipment-ensuring-that-everything-is-stable-and-secure-before-proceeding-with-the-rest-of-the-setup-safety-should-always-61/"><u>Start by Assembling Your Mounting Equipment, Ensuring that Everything Is Stable and Secure Before Proceeding with the Rest of the Setup. Safety Should Always Be a Priority when Working with Lasers.</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/top-3-herramientas-esenciales-para-la-copia-bit-a-bit-de-archivos-criticos-en-linux-y-windows/"><u>Top 3 Herramientas Esenciales Para La Copia Bit a Bit De Archivos Críticos en Linux Y Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-proven-artificial-intelligence-tools-for-enhanced-video-resolution/"><u>Top 6 Proven Artificial Intelligence Tools for Enhanced Video Resolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-c1900101-on-windows-11/"><u>Troubleshooting C1900101 on Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flip-page-film-narrative-guide/"><u>[New] Flip Page Film Narrative Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[New] From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-power-how-to-use-phantoms-retro-vision/"><u>[New] Harnessing Power How to Use Phantom's Retro Vision</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-free-online-conversion-tool-transform-vob-videos-instantly/"><u>1. Free Online Conversion Tool: Transform VOB Videos Instantly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wmv-asf-movavi/"><u>網路直通解 - 免費 WMV ASF 格式自動還原服務：Movavi 影片編輯器</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/continuous-streams-perfect-loops-of-youtube-videos-for-tvs-for-2024/"><u>Continuous Streams Perfect Loops of YouTube Videos for TVs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-gratuita-de-archivos-oma-a-formato-wav-con-movavi-online/"><u>Conversión Gratuita De Archivos OMA a Formato WAV Con Movavi Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-mov-videos-to-flv-for-free-with-movavis-easy-to-use-online-service/"><u>Convert Your MOV Videos to FLV for Free with Movavi's Easy-to-Use Online Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dezepraktijk-voorprobleemlos-schermopname-vertrouw-ons-op-movavi/"><u>Dezepraktijk Voorprobleemlos Schermopname - Vertrouw Ons Op Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-landscape-exploration-unpacking-the-influence-of-facebook-twitter-instagram-and-youtube/"><u>Digital Landscape Exploration: Unpacking the Influence of Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-comprehensive-insights-on-latest-computer-hardware/"><u>Exploring Tom's Tech: Comprehensive Insights on Latest Computer Hardware</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-smooth-operations-direct-backup-of-camera-roll-images-to-social-media-apps/"><u>In 2024, Smooth Operations Direct Backup of Camera Roll Images to Social Media Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-online-converter-de-video-free-alterar-wmv-para-mkv/"><u>Movavi Online: Converter De Vídeo Free - Alterar WMV Para MKV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rendere-netta-una-foto-sfocata-in-4-metodi-semplici/"><u>Rendere Netta Una Foto Sfocata in 4 Metodi Semplici</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformez-un-fichier-m4r-en-wav-gratuitement-en-ligne-movavi/"><u>Transformez Un Fichier M4r en Wav Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtueel-konverteren-van-voc-documenten-omzetten-en-bewerken-gratis-met-movavi/"><u>Virtueel Konverteren Van VOC Documenten - Omzetten en Bewerken Gratis Met Movavi</u></a></li>
 </ul></div>
 

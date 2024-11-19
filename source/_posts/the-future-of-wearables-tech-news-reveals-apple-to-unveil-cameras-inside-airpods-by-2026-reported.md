@@ -1,7 +1,7 @@
 ---
 title: "The Future of Wearables: Tech News Reveals Apple to Unveil Cameras Inside AirPods by 2026 | Reported"
-date: 2024-11-06T16:40:57.332Z
-updated: 2024-11-07T21:03:20.432Z
+date: 2024-11-16T00:38:36.136Z
+updated: 2024-11-18T19:27:29.185Z
 tags:
   - apple
 categories:
@@ -71,29 +71,31 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screencast-success-stories-lessons-from-industry-experts/"><u>[New] In 2024, Screencast Success Stories Lessons From Industry Experts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos/"><u>[New] Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-assessment-of-vlcs-digital-screen-monitoring-for-2024/"><u>[Updated] Assessment of VLC’s Digital Screen Monitoring for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-cutting-edge-gaming-setup-unpacking-samsungs-ue590-panel/"><u>2024 Approved Cutting Edge Gaming Setup Unpacking Samsung's UE590 Panel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/6-pour-une-utilisation-optimisee/"><u>6 Pour Une Utilisation Optimisée</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bypass-dvd-region-codes-under-windows-11-8-and-7-cost-free-solutions-revealed/"><u>Bypass DVD Region Codes Under Windows 11, 8 & 7: Cost-Free Solutions Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/camara-de-video-web-con-pantalla-completa-y-funciones-de-audio-mediante-la-tecnologia-inteligencia-artificial-ia-winxvideo/"><u>Cámara De Vídeo Web Con Pantalla Completa Y Funciones De Audio Mediante La Tecnología Inteligencia Artificial (IA) WinXVideo</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-transform-mod-audiovideo-into-mp4-format-preserving-full-quality-discover-our-top-7-methods/"><u>How to Seamlessly Transform MOD Audio/Video Into MP4 Format Preserving Full Quality - Discover Our Top 7 Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/impara-a-inserire-facilmente-i-sottotitoli-su-video-mp4-con-questa-tutorial-rapido/"><u>Impara a Inserire Facilmente I Sottotitoli Su Video MP4 Con Questa Tutorial Rapido</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-v30-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme V30 Without PUK Codes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-nubia-z60-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock ZTE Nubia Z60 Ultra Phone without Any Data Loss</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/maximize-your-gains-highest-earning-instagram-tactics/"><u>Maximize Your Gains Highest Earning Instagram Tactics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rip-audio-video-gratuit-pour-un-dvd-sans-degradation-de-qualite-utilisez-notre-logiciel/"><u>Rip Audio Vidéo Gratuit Pour Un DVD Sans Dégradation De Qualité - Utilisez Notre Logiciel!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-winxdvd-setup-and-installation-manual/"><u>Step-by-Step WinXDVD Setup and Installation Manual</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-online-cartoon-maker-from-photos/"><u>Updated Online Cartoon Maker From Photos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725287766473-windows-10mp4dvd/"><u>Windows 10用無料フリーソフトでMP4をDVDに変換するレシピ</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>[New] In 2024, Clean Slate Creations Guide to the PSX Eraser Tool</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-chaptered-cinema-the-essential-guide-to-vimeo-editing/"><u>[Updated] Chaptered Cinema The Essential Guide to Vimeo Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-artisans-handbook-to-photomontage-creation/"><u>[Updated] The Artisan's Handbook to PhotoMontage Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-podcast-utilities-for-windows-top-8-picks/"><u>2024 Approved Premium Podcast Utilities for Windows (Top 8 Picks)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-your-remote-interview-the-definitive-list-of-the-best-skype-prep-hacks/"><u>Ace Your Remote Interview: The Definitive List of the Best Skype Prep Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-step-count-errors-heres-how-to-fix-accuracy-problems/"><u>Apple Watch Step Count Errors? Here's How to Fix Accuracy Problems!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategy-elevating-specific-messages-with-instagrams-pinned-chat-feature/"><u>Expert Strategy: Elevating Specific Messages with Instagram's Pinned Chat Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ais-text-generation-usage-by-leading-firms/"><u>Exploring AI's Text Generation: Usage by Leading Firms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/godaddy-webmail-made-simple-inserting-and-designing-your-email-signature/"><u>GoDaddy Webmail Made Simple: Inserting and Designing Your Email Signature</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/innovative-approaches-for-cross-social-media-broadcasting-fbwhatsapp-for-2024/"><u>Innovative Approaches for Cross-Social Media Broadcasting (FB/WhatsApp) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-issues-reactivating-a-non-operational-roku-display-unit/"><u>Overcoming Common Issues: Reactivating a Non-Operational Roku Display Unit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-full-spectrum-analysis-of-lgs-high-definition-screen-for-2024/"><u>The Full Spectrum Analysis of LG’s High-Definition Screen for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v29-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V29 Pro? Here is How | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

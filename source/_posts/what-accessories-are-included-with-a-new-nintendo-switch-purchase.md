@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2024-11-05T04:38:28.983Z
-updated: 2024-11-08T09:40:49.240Z
+date: 2024-11-13T01:17:45.704Z
+updated: 2024-11-18T20:42:09.457Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -23,6 +23,13 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
@@ -41,15 +48,21 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -64,13 +77,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -83,16 +89,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -107,10 +107,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
@@ -152,24 +152,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-a-quick-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[New] A Quick Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-10-volume-elevators-for-windows-ios-and-android/"><u>[New] In 2024, Best 10 Volume Elevators for Windows, iOS & Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-anonymity-in-action-insta-stories-guide/"><u>[Updated] Anonymity in Action Insta Stories Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-successful-videos-on-youtube-for-beginners/"><u>[Updated] In 2024, Crafting Successful Videos on YouTube for Beginners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-8-premium-complimentary-streaming-media-processors/"><u>2024 Approved 8 Premium Complimentary Streaming Media Processors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-to-securely-wipe-files-in-windows-10-without-recovery-options/"><u>Complete Guide to Securely Wipe Files in Windows 10 Without Recovery Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-troubleshooting-steps-for-fixing-the-pink-screen-on-dvd-players/"><u>Effortless Troubleshooting Steps for Fixing the Pink Screen on DVD Players</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138576882-9781617640179-el-poder-latente/"><u>El Poder Latente | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/erfolgreich-komprimieren-und-konvertieren-sie-ihre-4k-inhalte-mit-diesen-7-bewahrten-methoden-in-1080p/"><u>Erfolgreich Komprimieren Und Konvertieren Sie Ihre 4K Inhalte Mit Diesen 7 Bewährten Methoden in 1080P</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-winx-dvd-ripper-and-video-converter-for-windows-11-effortless-transformation-of-your-dvds-into-hdmp4-files/"><u>Free WinX DVD Ripper & Video Converter for Windows 11: Effortless Transformation of Your DVDs Into HDMP4 Files</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211454958-9798218498870-listening-circles-seeding-life/"><u>Listening Circles, Seeding Life | Free Book</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/pinterest-a-players-sharing-snapchat-stories-for-2024/"><u>Pinterest A-Players Sharing Snapchat Stories for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-easy-your-step-by-step-tutorial-for-changing-avi-to-vob-format-with-windows-nx-system/"><u>Quick and Easy: Your Step-by-Step Tutorial for Changing AVI to VOB Format with Windows nX System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-your-streaming-experience-with-the-ultimate-webm-codec-bundle/"><u>Simplify Your Streaming Experience with the Ultimate WebM Codec Bundle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-free-4k-video-software-compatible-with-windows-10-11-and-mac-computers/"><u>The Ultimate List of Free 4K Video Software Compatible with Windows 10, 11, and Mac Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-heic-photos-into-jpegs-across-windows-10-and-mac-systems-simple-tips-and-tricks/"><u>Transforming HEIC Photos Into JPEGs Across Windows 10 & Mac Systems - Simple Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-fixing-issues-with-windows-movie-maker-in-various-versions-of-windows-os/"><u>Troubleshooting Tips: Fixing Issues with Windows Movie Maker in Various Versions of Windows OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-find-out-the-top-ten-3d-video-maker-and-editor-apps-that-will-help-you-create-stunning-3d-videos-now-create-professional-level-3d-videos-with-ease-w/"><u>Updated Find Out the Top Ten 3D Video Maker and Editor Apps that Will Help You Create Stunning 3D Videos. Now Create Professional-Level 3D Videos with Ease with the Best Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725284536151-ai-8/"><u>무료 AI 기술을 사용하여 오래된 사진을 다시 효과적으로 제공: 8가지 유일한 소프트웨어</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-6-top-mc-village-home-structures-unveiled-for-2024/"><u>[New] 6 Top MC Village Home Structures Unveiled for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-proven-strategies-for-device-screening/"><u>[New] In 2024, Proven Strategies for Device Screening</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-pixel-perfection-your-guide-to-youtube-twitters-and-hd-for-2024/"><u>[New] Pixel Perfection Your Guide to YouTube, Twitters, and HD for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-intersection-of-brain-research-and-strategic-business-management-for-2024/"><u>[New] The Intersection of Brain Research and Strategic Business Management for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevating-your-channels-identity-with-titles/"><u>2024 Approved Elevating Your Channel's Identity with Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-angle-videos-for-improved-viewership/"><u>2024 Approved How to Angle Videos for Improved Viewership</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-smartwatch-software-options-for-your-android-device/"><u>Discover the Best Smartwatch Software Options for Your Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/empower-yourself-learn-ai-at-no-cost-through-15-customized-self-paced-webinars-by-lifewire/"><u>Empower Yourself: Learn AI at No Cost Through 15 Customized Self-Paced Webinars by Lifewire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-and-solutions-to-fix-the-notorious-stop-0x000000000003d-halt-screen-issue/"><u>Expert Tips and Solutions to Fix the Notorious STOP 0X00000#0000003D Halt Screen Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-design-and-deploy-bespoke-ringtone-options-for-whatsapp-users-for-2024/"><u>How to Design & Deploy Bespoke Ringtone Options for WhatsApp Users for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-create-photo-cutouts-on-your-iphone-using-ios-16/"><u>How to Easily Create Photo Cutouts on Your iPhone Using iOS 16</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-tech-for-screen-capture-an-itop-review/"><u>In 2024, Cutting-Edge Tech for Screen Capture An ITop Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-basics-of-an-open-and-neutral-internet-explored/"><u>The Basics of an Open and Neutral Internet Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-for-correcting-missing-d3dx925dll-issues/"><u>The Ultimate Solution for Correcting Missing d3dx9_25.dll Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-s23plus-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy S23+ Android SIM Unlock APK</u></a></li>
 </ul></div>
 

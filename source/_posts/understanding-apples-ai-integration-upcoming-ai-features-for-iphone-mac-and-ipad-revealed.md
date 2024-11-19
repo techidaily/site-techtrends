@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-11-03T08:01:15.638Z
-updated: 2024-11-08T01:22:35.639Z
+date: 2024-11-18T02:41:58.067Z
+updated: 2024-11-19T01:59:12.756Z
 tags:
   - apple
 categories:
@@ -68,13 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -93,6 +86,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -107,6 +107,19 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +129,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,6 +140,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -152,13 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +174,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,20 +224,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highpoint-design-suite-examination/"><u>2024 Approved Highpoint Design Suite Examination</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/amazon-prime-video-subtitles-off-a-comprehensive-guide/"><u>Amazon Prime Video Subtitles Off: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/black-friday-macxdvd-extravaganza-exclusive-deals-and-chance-to-win/"><u>Black Friday MacXDVD Extravaganza: Exclusive Deals & Chance to Win!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-your-output-v305-aio-driver-enhancement-in-win7/"><u>Boost Your Output: V305 AIO Driver Enhancement in Win7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/css-dvd/"><u>CSS キーを使った DVD ディスク複製に失敗しました。解決策は何でしょうか？</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effiziente-datenreduktion-verkleinerung-von-hd-4k-und-8k-videoinhalten-um-90/"><u>Effiziente Datenreduktion: Verkleinerung Von HD, 4K Und 8K Videoinhalten Um 90%</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enable-and-stream-av1-content-with-plex-step-by-step-instructions/"><u>Enable and Stream AV1 Content with Plex: Step-by-Step Instructions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/frei-handhabung-von-dvd-regionscodes-bei-der-konvertierung-fur-verschiedene-gebiete-auf-windows-7810/"><u>Frei Handhabung Von DVD-Regionscodes Bei Der Konvertierung Für Verschiedene Gebiete Auf Windows 7/8/10</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/head-to-head-analysis-of-leading-mac-dvd-ripping-tools-macx-dvd-ripper-pro-vs-mac-dvdripper-pro-vs-mac-the-ripper/"><u>Head-to-Head Analysis of Leading Mac DVD Ripping Tools: MacX DVD Ripper Pro vs Mac DVDRipper Pro vs Mac The Ripper</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-merge-multiple-mp4-videos-in-easy-steps/"><u>How to Merge Multiple MP4 Videos in Easy Steps</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/rapid-access-accelerating-vimeo-videos/"><u>Rapid Access Accelerating Vimeo Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-video-konvertierer-programme-fur-windows-11-sicher-und-effizient/"><u>Top 10 Video Konvertierer Programme Für Windows 11: Sicher Und Effizient</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-ebook-purchases-a-users-guide-to-utilizing-the-books-app-on-apple-tablets-and-phones/"><u>Unlocking eBook Purchases: A User’s Guide to Utilizing the Books App on Apple Tablets and Phones</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/value-addition-techniques/"><u>Value Addition Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-potential-profile-video-elevation-for-2024/"><u>[New] Unleashing Potential Profile Video Elevation for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-down-heres-how-to-prevent-sudden-game-shutdowns/"><u>COD: Warzone Pacific Down? Here's How to Prevent Sudden Game Shutdowns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converte-swf-a-formato-gif-gratuitamente-il-metodo-facile-di-movavi/"><u>Converte SWF a Formato GIF Gratuitamente: Il Metodo Facile Di Movavi!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cortando-e-editando-videos-no-android-com-movil-de-forma-rapida-e-facil-tutoriais-completos-do-movavi/"><u>Cortando E Editando Videos No Android Com Móvil De Forma Rápida E Fácil – Tutoriais Completos Do Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-pacific-drive-malfunctions-a-user-friendly-guide-to-resolving-pc-software-crashes/"><u>Diagnosing Pacific Drive Malfunctions: A User-Friendly Guide to Resolving PC Software Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-razr-40-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Razr 40 Ultra Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-m4v-to-mp3-conversion-software-explore-movavis-easy-solution/"><u>Free, Online M4V-to-MP3 Conversion Software - Explore Movavi's Easy Solution!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A14 4G Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-download-youtube-videos-without-any-software-13-proven-ways/"><u>How to Download YouTube Videos without Any Software [13 Proven Ways]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-catch-the-flame-ideas-for-unbroken-snapstreaks/"><u>In 2024, Catch the Flame - Ideas for Unbroken Snapstreaks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-operasyonlari-boluyoruz-movavi-etkinlestirme-soylencekleri/"><u>Mac Operasyonlari Bölüyoruz: Movavi Etkinleştirme Söylencekleri</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp3-file-transformation-service-no-cost-instantly-on-the-web-with-movavi/"><u>MP3 File Transformation Service: No Cost, Instantly On The Web with Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-gratis-konvertereeren-van-wma-naar-flac-formaat-movavi/"><u>Online Gratis Konvertereeren Van WMA Naar FLAC-Formaat - Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premier-online-streaming-options-for-real-time-sports-viewership/"><u>Premier Online Streaming Options for Real-Time Sports Viewership</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-find-n3-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Find N3 and Browser | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/section-2b-fact5/"><u>Section 2B: Fact.5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creatives-handbook-obtaining-stock-visuals-for-media-for-2024/"><u>The Creative's Handbook Obtaining Stock Visuals for Media for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-the-best-windows-n-based-slide-show-applications-ranking-top-14/"><u>The Ultimate Guide to the Best Windows N-Based Slide Show Applications: Ranking Top 14</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-websites-pour-downloader-des-subtitres-de-series-et-films/"><u>Top 10 Websites Pour Downloader Des Subtitres De Series Et Films</u></a></li>
 </ul></div>
 

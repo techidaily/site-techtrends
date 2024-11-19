@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Empty Out Your Emails Using Gmail for Android/iOS"
-date: 2024-09-11T17:29:57.899Z
-updated: 2024-09-12T17:29:57.899Z
+date: 2024-11-12T00:23:57.605Z
+updated: 2024-11-19T01:50:59.178Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Empty Out Your Emails Using Gmail for Android/iOS"
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ---
 
 ## Step-by-Step Tutorial: Empty Out Your Emails Using Gmail for Android/iOS
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -38,23 +31,16 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ![There are two screens of the Gmail app. The left screen has an upward facing arrow with an arrow swipe up arrow and the second screen highlights the Select all button.](https://www.lifewire.com/thmb/Vv8GTYpLddxdmuiuCxbMW4XAgV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-DeleteAllEmailsinGmailApp-annotated-18ead2ff243148b3b3a9e51c3f287aa7.jpg)
 3. Tap the**Delete** icon to delete all of the selected emails.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. All of the selected emails will now be deleted.  
 ![There are two screens of the Gmail app. The left screen has the trash can highlighted. The right screen has the confirmation message that the messages have been moved to the trash.](https://www.lifewire.com/thmb/6DpvP-Ciu37kphG9Jw2rR_23v5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-DeleteAllEmailsinGmailApp-annotated-8185be615b4f4718b779db3e5162804c.jpg)  
  An Undo option will appear in the lower-right of the screen for a brief few seconds. If you made a mistake, you can just tap it to undo the above deletion process.
 5. Repeat the above steps until all your emails have been deleted from the Gmail app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Emails in Gmail via a Web Browser
@@ -66,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 2. Click the new text link that reads**Select all conversations in Inbox** . Every single email in your Gmail inbox will now be selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Gmail service in a web browser with the Select all text link highlighted.](https://www.lifewire.com/thmb/vztJYMObv0V8XU2bcDxMoM59p5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-DeleteAllEmailsinGmailApp-annotated-f7af1da4b7494934a7bd0eb139ce5d02.jpg)
@@ -93,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
  Gmail is customized based on your location. So, in my case, the Trash is called Bin. Depending on where you're located, it could say Trash or Bin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Tap additional emails to select them.  
@@ -108,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ![Three screens of the Gmail mobile app. In the left screen the ellipses menu button is highlighted. In the middle screen, the Inbox is highlighted. In the right screen the confirmation message is highlighted.](https://www.lifewire.com/thmb/ILi3uWvVcVR7upr3o_PiGb1BIqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-DeleteAllEmailsinGmailApp-annotated-2bc3c0e4f5804f2782c0532176f0f0bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Delete My Gmail Account?
@@ -145,5 +131,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-tips-precise-video-trimming-on-vimeo-5-methods/"><u>[New] In 2024, Essential Tips Precise Video Trimming on Vimeo [5 Methods]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-business-of-blogging-and-earning-on-youtube-platform/"><u>[Updated] In 2024, The Business of Blogging and Earning on YouTube Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-video-conversion-in-vlc-from-mp4-onward/"><u>[Updated] Navigating Video Conversion in VLC From MP4 Onward</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-when-you-cant-find-rpcrt4dll-in-windows/"><u>Comprehensive Solutions for When You Can't Find rpcrt4.dll in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-website-tracking-a-simple-way-to-turn-on-cookies/"><u>Enabling Website Tracking: A Simple Way to Turn On Cookies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973914833-ensure-seamless-mobile-connectivity-free-qualcomm-drivers-for-windows-1087-and-latest-edition/"><u>Ensure Seamless Mobile Connectivity - Free Qualcomm Drivers for Windows 10/8/7 & Latest Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-converting-avi-to-mp4-en-ligne-avec-movavi-easy-and-fast/"><u>Gratuit Converting AVI to MP4 en Ligne Avec Movavi - Easy & Fast!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-libgdk-win32-20-missing-dll-file-problems/"><u>How to Address libGDK-Win32-2.0-Missing .dll File Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fix-the-missing-dnscachedll-in-your-system/"><u>Step-by-Step Guide to Fix the Missing dnscache.dll in Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-enhancing-engagement-with-gifs-on-instagram-comments/"><u>The Ultimate Guide to Enhancing Engagement with GIFs on Instagram Comments</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nokia-g42-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nokia G42 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unmasking-false-acquaintance-links-on-the-web-a-step-by-step-approach/"><u>Unmasking False Acquaintance Links on the Web: A Step-by-Step Approach</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y56-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y56 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Smart Move Away From iPhone 16 - Why Choosing Different Tech Might Be Better
-date: 2024-11-01T01:11:35.071Z
-updated: 2024-11-07T17:32:12.308Z
+date: 2024-11-13T01:14:13.815Z
+updated: 2024-11-18T22:02:02.836Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -66,10 +59,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -89,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -102,6 +95,13 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,18 +166,15 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/treamlining-your-personal-library-from-spotify-to-youtube-music/"><u>[New] Streamlining Your Personal Library From Spotify, To YouTube Music</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ackling-the-mystery-of-missing-shorts-video-images/"><u>[New] Tackling the Mystery of Missing Shorts Video Images</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-download-youtube-videos-directly/"><u>[Updated] Download YouTube Videos Directly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-tecno-spark-10-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Spark 10 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-to-overcome-the-no-spin-lock-available-stop-0x0000001d-system-crash/"><u>Expert Tips to Overcome the No Spin Lock Available (STOP 0X0000001D) System Crash</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tricks-to-grab-screenshots-quickly-on-any-hp-laptop-model/"><u>Expert Tricks to Grab Screenshots Quickly on Any HP Laptop Model</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s18e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S18e to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>In 2024, Luminous Leaders Top 5 Monitors That Bring Shades to Life</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-drone-use-in-the-now-and-next-frontier/"><u>In 2024, Unraveling Drone Use in the Now & Next Frontier</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-connectivity-woes-why-wont-my-samsung-galaxy-watch-ring-for-calls/"><u>Solving Connectivity Woes: Why Won't My Samsung Galaxy Watch Ring for Calls?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-dealing-with-horizontal-line-artifacts-in-computer-displays/"><u>Step-by-Step Solutions for Dealing with Horizontal Line Artifacts in Computer Displays</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolving-inpage-fault-issues-in-the-kernel/"><u>Troubleshooting and Resolving Inpage Fault Issues in the Kernel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-easy-screenshots-on-any-desktop-computer/"><u>Ultimate Tutorial: Easy Screenshots on Any Desktop Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-iphone-x8-series-gif-apps-reviewed-for-2024/"><u>[New] Premier iPhone X/8 Series GIF Apps Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/trategies-for-maximizing-youtube-view-counts-through-regular-uploads/"><u>[New] Strategies for Maximizing YouTube View Counts Through Regular Uploads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movaviogmmp4/"><u>無償網路轉化：使用Movavi從OGM到MP4</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-kensun-tire-inflator-assessment-robust-dependable-and-easily-transportable/"><u>Comprehensive Kensun Tire Inflator Assessment: Robust, Dependable & Easily Transportable</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c53-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme C53 Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a54-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A54 5G Easily?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavimovogg/"><u>Movavi提供：圧縮なしでMOVファイルをOGGに変換する無料オンラインツール</u></a></li>
+<li><a href="https://techtrends.techidaily.com/os-5-maiores-ferramentas-de-preenchimento-gratuito-de-formularios-pdf-compativeis-com-windows-e-macos/"><u>Os 5 Maiores Ferramentas De Preenchimento Gratuito De Formulários PDF Compatíveis Com Windows E macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solve-youtubes-fullscreen-issue-browser-maximization-and-black-screen-resolution/"><u>Solve YouTube's Fullscreen Issue: Browser Maximization & Black Screen Resolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-complet-la-facon-de-faire-une-captur-decran-partielle-sous-windows-11/"><u>Tutorial Complet : La Façon De Faire Une Captur D'écran Partielle Sous Windows 11</u></a></li>
 </ul></div>
 

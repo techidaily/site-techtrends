@@ -1,7 +1,7 @@
 ---
 title: What Was the Role of AIM in Online Communication? Diving Deeper Into AOL's Legacy
-date: 2024-09-11T17:30:22.176Z
-updated: 2024-09-12T17:30:22.176Z
+date: 2024-11-16T19:03:30.351Z
+updated: 2024-11-18T21:59:04.271Z
 categories:
   - BestProducts
 description: This Article Describes What Was the Role of AIM in Online Communication? Diving Deeper Into AOL's Legacy
@@ -16,13 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/YrOETHAzqQY2CVeb4SlSmBalDUI=/400x300/fi
 
 _If you click on links we provide, we may receive compensation._
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Online Sign Language Classes
 
  Some of these are huge courses with many units to teach you the complete sign language, and others are smaller that will just teach you the basics. Whatever class you choose, you'll have a great time building up your skills.
@@ -35,16 +28,16 @@ _If you click on links we provide, we may receive compensation._
 
 ![American Sign Language University home page](https://www.lifewire.com/thmb/MbyvJ8pc2SNxySxyCAAZ7MPY6Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asl-lifeprint-e4a6466dac7c4ede9439817885d46cf5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Be sure to check out the[First 100 Signs](https://www.lifeprint.com/asl101/pages-layout/concepts.htm) videos for a great introduction to common signs used between parents and younger children. There are also some sentences you can practice using the signs you learned from the videos.
 
 [Visit ASLU](https://www.lifeprint.com/)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Sign Language 101's Free Sign Language Classes
 
@@ -60,6 +53,13 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit Sign Language 101](https://www.signlanguage101.com/free-lessons/asl-level-1)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Start ASL's Free Sign Language Classes
 
 ![Start ASL free lessons page](https://www.lifewire.com/thmb/oP-pQ_FCTUxYp5xiI_v2LEhcflg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/startasl-free-lessons-efe7d14312034b7491d29b549bc26468.png)
@@ -72,13 +72,6 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit Start ASL](https://www.startasl.com/learn-sign-language-asl)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ASL Connect From Gallaudet University
 
 ![Gallaudet University's free sign language resources](https://www.lifewire.com/thmb/xPam_SS5icLvuLUzag30sc-7RFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gallaudet-edu-sign-language-cd82c11a907e481f814292940a4c16e9.png)
@@ -89,22 +82,16 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit ASL Connect](https://gallaudet.edu/asl-connect/topics/)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### SignSchool
 
 ![SignSchool ](https://www.lifewire.com/thmb/ft580gMAjRqg3I-Rrj3Az29_9gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/signschool-f8c1e95018da49a7b94d28cac6470349.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  SignSchool is a free online sign language class that steps you through the basics (starting with how to spell your name) and then moves you through lessons that progress in difficulty.
 
@@ -114,33 +101,20 @@ _If you click on links we provide, we may receive compensation._
 
 [Visit SignSchool](https://www.signschool.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Sign Language Learning Apps
 
  Apps are available for mobile devices that let you learn sign language anywhere, a benefit if you don't use a computer often or if you like to squeeze in some courses on the go.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The ASL App
 
 ![The ASL App on Android](https://www.lifewire.com/thmb/UD13c1fqTbfIeHrRS5iuAwwe3Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-asl-app-android-e6b51ca3ce1249bfa82ab1d271e1e6a1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Learn sign language on the go with the free ASL App that makes it easy to understand new signs and practice ones you already know. You get to set the pace, and you can jump in and out of learning sign language whenever you want.
 
@@ -153,10 +127,10 @@ _If you click on links we provide, we may receive compensation._
 [iOS](https://apps.apple.com/us/app/the-asl-app/id921030207)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Teachers Paradise ASL Fingerspelling Game For Android
@@ -167,21 +141,28 @@ _If you click on links we provide, we may receive compensation._
 
 [Download ASL American Sign Language](https://play.google.com/store/apps/details?id=com.teachersparadise.aslamericansignlanguage)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Marlee Signs for iOS
 
 ![Marlee Signs iPhone app](https://www.lifewire.com/thmb/kN9d-f10xRdExwwsBkk-UZGIZP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/marlee-signs-iphone-67131d891bd642cea45b2fe49bf881a5.png)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This video-based app shows you how to sign any word, letter-by-letter. There's also a library of conversation starters, numbers, letters, and other common words.
@@ -189,13 +170,6 @@ _If you click on links we provide, we may receive compensation._
  The great thing about this sign app is that you can learn at your own pace. Instead of being pushed through a course from start to finish, you learn what you want when you want.
 
 [Download Marlee Signs](https://apps.apple.com/us/app/marlee-signs/id566054855)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Printable Sign Language Charts
 
@@ -211,13 +185,6 @@ _If you click on links we provide, we may receive compensation._
 ## Online Sign Language Games
 
 ![Deafsign sign language game](https://www.lifewire.com/thmb/IQalTEok0f9rsq2T7BbkUjCQIPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/deafsign-game-aa058ef7a9864e928cc4f1e12053e33a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Online games can make learning sign language fun. If you've completed a few courses or spent some time with a sign language app or worksheet, play a game to test what you've learned.
 
@@ -254,5 +221,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>[New] The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-why-does-facebook-suggested-videos-not-showing-up-for-2024/"><u>[Updated] Why Does Facebook Suggested Videos Not Showing Up for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>2024 Approved The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-via-messages-a-guide-to-using-messenger-without-a-facebook-profile/"><u>Connecting via Messages: A Guide to Using Messenger without a Facebook Profile</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-epson-wf-2760-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download Epson WF-2760 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-handling-web-server-401-unauthorized-responses/"><u>Expert Advice on Handling Web Server 401 Unauthorized Responses</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>In 2024, VidGrabber Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-yt-cover-art-the-key-to-more-views/"><u>In 2024, YT Cover Art The Key to More Views</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instacaptioning-made-easy-a-tutorial-for-enhancing-stories-with-text/"><u>InstaCaptioning Made Easy - A Tutorial for Enhancing Stories with Text</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-kernel32dll-troubleshooting-for-a-smooth-windows-experience/"><u>Mastering Kernel32.dll Troubleshooting for a Smooth Windows Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/previewing-the-next-generation-google-pixel-fold-estimated-pricing-launch-date-speculations-and-detailed-component-analysis/"><u>Previewing the Next Generation Google Pixel Fold: Estimated Pricing, Launch Date Speculations & Detailed Component Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-casting-integrating-chromecast-into-your-firestick-setup/"><u>Seamless Casting: Integrating Chromecast Into Your Firestick Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-photo-harmony-with-picshots-tools/"><u>Unlock Photo Harmony with Picshot’s Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-full-potential-of-virtual-reality-the-complete-tutorial-on-psvr-plus-pc-connection/"><u>Unlock the Full Potential of Virtual Reality: The Complete Tutorial on PSVR + PC Connection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/web-wonders-weekly-review-for-2024/"><u>Web Wonders Weekly Review for 2024</u></a></li>
+</ul></div>
 

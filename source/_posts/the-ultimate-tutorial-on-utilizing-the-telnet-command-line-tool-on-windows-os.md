@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Utilizing the Telnet Command Line Tool on Windows OS
-date: 2024-09-11T17:28:41.739Z
-updated: 2024-09-12T17:28:41.739Z
+date: 2024-11-17T17:38:53.223Z
+updated: 2024-11-18T21:24:20.942Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial on Utilizing the Telnet Command Line Tool on Windows OS
@@ -18,19 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
  This article describes how to enable Telnet for Windows and how to run Telnet commands.  
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable the Windows Telnet Client
 
  Telnet isn't a secure way to communicate with another device, but there are reasons to use it. You can't, however, just open Command Prompt and expect to start executing commands. First, you need to enable Telnet Client through Control Panel.
@@ -41,15 +28,16 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 2. Select**Programs** . If you don't see that because you're viewing the[Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) icons, choose **Programs and Features** instead, and then skip to Step 4.  
 ![Programs icon in Windows 10 Control Panel](https://www.lifewire.com/thmb/Dm2SE6xLA0LfA2NSpp5h0YSDSE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_what-is-telnet-2626026-fab00c62c28b4a5fb849f4c4ac758ab8.jpg)
 3. Select **Programs and Features** .  
-![Programs and Features in Windows 10 Control Panel/Programs](https://www.lifewire.com/thmb/413J8tkhETNMfUqGrQNt56jyqjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-telnet-2626026-7604dcbfbbf9499ca21242c92b9ac5d0.jpg)
-4. Select**Turn Windows features on or off** from the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Programs and Features in Windows 10 Control Panel/Programs](https://www.lifewire.com/thmb/413J8tkhETNMfUqGrQNt56jyqjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-telnet-2626026-7604dcbfbbf9499ca21242c92b9ac5d0.jpg)
+4. Select**Turn Windows features on or off** from the left pane.  
 
 ![Turn Windows features on or off link in Programs and Features Control Panel on Windows 10](https://www.lifewire.com/thmb/mOyjWvAVjVvLPEfdtC2gLDmk62w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-telnet-2626026-5bbe80a7c9e77c00517b1934.jpg)
 5. Select the check box next to**Telnet Client** .  
@@ -57,23 +45,10 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 6. Select**OK** to enable Telnet. When you see the**Windows completed the requested changes** message, you can close any open dialog boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Execute Telnet Commands in Windows
@@ -107,10 +82,10 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
  Although not the same as Telnet,[free remote access software tools](https://www.lifewire.com/free-remote-access-software-tools-2625161) are an alternative way to communicate with another computer remotely.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Telnet Games & Additional Information
@@ -123,6 +98,13 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
 ![A chess game running in Windows Telnet Client](https://www.lifewire.com/thmb/EciFE2SjQRCaaIte_4vHmdIEL4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-chess-8ffd285206f248bc95f96426542c8a9b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use Telnet to talk to an artificially intelligent psychotherapist named Eliza. After connecting to Telehack with the command below, enter**eliza** when asked to choose one of the listed commands.  
 
  `telnet telehack.com`
@@ -134,13 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
  `telnet towel.blinkenlights.nl`
 
 ![Telnet Star Wars in Windows 11 Command Prompt](https://www.lifewire.com/thmb/aCvqfCY70EKW5f0_zXgujKXyx2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-star-wars-062c8b8250534ecc96e7f10906b9638f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Beyond the fun things that can be done in Telnet are a number of Bulletin Board Systems (BBS). A BBS provides a way to message other users, view news, share files, and more. The[Telnet BBS Guide](https://www.telnetbbsguide.com/bbs/connection/telnet/list/detail/) lists hundreds of servers you can connect to using this protocol.  
 
@@ -178,5 +153,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>[New] 2024 Approved Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-covertly-crafted-covers-for-iphones-and-androids/"><u>[New] In 2024, Covertly Crafted Covers for iPhones & Androids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-maximizing-pc-color-with-windows-hdri/"><u>[Updated] 2024 Approved Maximizing PC Color with Windows HDRI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725288798468-fps/"><u>「スマートな方法で動画FPS変更：プロのコツを学ぶ」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/actuellement-convertissez-vos-fichiers-wmv-en-mp4-avec-une-perte-de-qualite-inferieure-a-2/"><u>Actuellement, Convertissez Vos Fichiers WMV en MP4 Avec Une Perte De Qualité Inférieure À 2 %</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvdpc/"><u>DVDからPCへの安全なダウンロード無料コピーソフト集 - 推薦レビュー</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-video-compression-tool-authentic-registration-required-no-cracks/"><u>Effortless Video Compression Tool - Authentic Registration Required, No Cracks</u></a></li>
+<li><a href="https://solve-info.techidaily.com/expert-advice-on-debugging-and-repairing-ram-write-failures-a-comprehensive-guide-with-13-methods/"><u>Expert Advice on Debugging and Repairing RAM Write Failures - A Comprehensive Guide with 13 Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/firefox-screen-recorders-and-add-ons-for-2024/"><u>Firefox Screen Recorders and Add-Ons for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-a70-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel A70 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-apowermanager-instructional-handbook-your-definitive-how-to-guide/"><u>In-Depth APowerManager Instructional Handbook - Your Definitive How-To Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-data-migration-made-simple-with-winx-mediatrans-the-premier-tool-for-transferring-multimedia-fromto-your-ios-device-and-computer/"><u>Seamless Data Migration Made Simple with WinX MediaTrans™: The Premier Tool for Transferring Multimedia From/To Your iOS Device and Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-free-dvd-burning-tools-compatible-with-all-versions-of-windows-os/"><u>The Ultimate List of Free DVD Burning Tools Compatible with All Versions of Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-iphone-ipad-file-management-with-winxmediatrans-smoothly-transfer-photos-and-videos-tofrom-your-computer/"><u>Ultimate iPhone iPad File Management with WinXMediaTrans™ – Smoothly Transfer Photos & Videos To/From Your Computer</u></a></li>
+</ul></div>
 

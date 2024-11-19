@@ -1,7 +1,7 @@
 ---
 title: "How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider"
-date: 2024-10-31T00:45:20.956Z
-updated: 2024-11-02T03:41:30.360Z
+date: 2024-11-16T22:32:30.708Z
+updated: 2024-11-19T00:11:12.289Z
 tags:
   - apple
 categories:
@@ -54,6 +54,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -71,13 +78,6 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -89,10 +89,10 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
@@ -109,6 +109,13 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -119,10 +126,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -134,13 +141,6 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -178,21 +178,24 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-superior-mics-for-video-blogging-professionals/"><u>[Updated] Superior Mics for Video Blogging Professionals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-insiders-list-of-vr-terms/"><u>2024 Approved The Insider's List of VR Terms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-address-dll-files-not-found-specifically-d3dx930dll-problems/"><u>Comprehensive Guide to Address DLL Files Not Found, Specifically D3DX9_30.dll Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-guide-mastering-splitting-your-screen-in-macos/"><u>Easy Guide: Mastering Splitting Your Screen in macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-metas-artificial-intelligence-an-in-depth-guide/"><u>Exploring the World of Meta's Artificial Intelligence: An In-Depth Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-swapping-out-your-handheboxs-transparent-security-screen-film/"><u>Guide: Swapping Out Your Handhebox's Transparent Security Screen Film</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-xsplit-vault-detailed-split-reviews/"><u>In 2024, XSplit Vault Detailed Split Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-ipad-genre-unveiled-discover-the-most-recent-advancements/"><u>Latest iPad Genre Unveiled: Discover the Most Recent Advancements</u></a></li>
-<li><a href="https://review-topics.techidaily.com/moto-g14-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Moto G14 support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-stabilization-techniques-for-youtubers/"><u>Prime Stabilization Techniques for YouTubers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/secrets-to-the-ultimate-5-free-pinterest-video-loader-for-2024/"><u>Secrets to the Ultimate 5-Free Pinterest Video Loader for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-10-best-alternatives-to-chatgpt/"><u>The 10 Best Alternatives to ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-breakdown-of-mac-and-pc-what-sets-them-apart/"><u>The Ultimate Breakdown of Mac and PC - What Sets Them Apart?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-ps5-face-off-comparing-dimensions-designs-and-capabilities/"><u>Unveiling the PS5 Face-Off: Comparing Dimensions, Designs, and Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaining-clarity-on-your-youtube-audiences-behavior/"><u>[New] In 2024, Gaining Clarity on Your YouTube Audience's Behavior</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimal-orientation-for-fb-content-creation/"><u>[Updated] 2024 Approved Optimal Orientation for FB Content Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-basic-blueprint-for-seamless-speech-alteration-in-your-windows-sphere/"><u>[Updated] 2024 Approved The Basic Blueprint for Seamless Speech Alteration in Your Windows Sphere</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-common-factors-making-your-iphone-lag-learn-how-to-speed-it-up/"><u>6 Common Factors Making Your iPhone Lag – Learn How to Speed It Up</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722850749612-a-brief-history-of-netflixs-dvd-subscription-model-what-was-it-all-about/"><u>A Brief History of Netflix's DVD Subscription Model – What Was It All About?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-it-right-essential-camera-lenses-for-video-blogging/"><u>Capture It Right Essential Camera Lenses for Video Blogging</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-guide-understanding-shadow-copies-in-windows-10/"><u>Comprehensive Guide: Understanding Shadow Copies in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/directly-launching-cmd-easy-instructions-for-opening-terminal-in-a-specific-directory/"><u>Directly Launching CMD: Easy Instructions for Opening Terminal in a Specific Directory</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-spending-learn-how-to-navigate-and-utilize-apple-pay-on-the-apple-watch/"><u>Effortless Spending: Learn How to Navigate and Utilize Apple Pay on the Apple Watch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-cutting-edge-technology-with-the-latest-iphone-launch/"><u>Experience Cutting-Edge Technology with the Latest iPhone Launch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-pathway-for-webp-to-jpg-transformation-for-2024/"><u>Expert Pathway for WebP-to-JPG Transformation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/group-jam-sessions-on-spotify-connecting-with-others-through-music/"><u>Group Jam Sessions on Spotify: Connecting With Others Through Music</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210222957-9781734634365-i-always-put-my-mouth-on-her/"><u>I Always Put My Mouth On Her | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share Location in Messenger On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-movie-magic-the-ultimate-guide-to-home-viewed-3d-films-via-fandango/"><u>Maximizing Movie Magic: The Ultimate Guide to Home Viewed 3D Films via Fandango</u></a></li>
+<li><a href="https://techtrends.techidaily.com/msvcr80dll-error-fixes-what-you-need-to-know-and-do/"><u>MSVCR80.DLL Error Fixes - What You Need to Know and Do</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-reconnecting-your-disconnected-ipad-to-wi-fi/"><u>The Ultimate Fix: Reconnecting Your Disconnected iPad to Wi-Fi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-from-disneyplus-must-watch-films-today/"><u>Top Picks From Disney+ - Must Watch Films Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-11-06T07:22:37.115Z
-updated: 2024-11-07T20:58:04.678Z
+date: 2024-11-17T17:46:29.385Z
+updated: 2024-11-18T19:15:56.108Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -64,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,24 +134,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-incorporating-backgrounds-a-filmmakers-guide/"><u>[New] Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>[Updated] Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-expert-guide-on-dvd-video-format-conversion-official-winx-qanda-resource/"><u>1) Expert Guide on DVD Video Format Conversion - Official WinX Q&A Resource</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-lut-manipulation-a-comprehensive-photoshop-guide/"><u>2024 Approved Mastering LUT Manipulation A Comprehensive PhotoShop Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comment-convertir-un-dvd-regionalise-en-sans-region-sous-windows-10-8-ou-7/"><u>Comment Convertir Un DVD Régionalisé en Sans Région Sous Windows 10, 8 Ou 7 ?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-now-official-winx-burner-and-dvd-ripper-top-rated-free-hardware-disc-converters/"><u>Download Now: Official WinX Burner & DVD Ripper – Top Rated Free Hardware Disc Converters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exquisite-desktop-pcs-the-best-of-the-best/"><u>Exquisite Desktop PCs The Best of the Best</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-a2-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A2 Easily?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-integrating-youtube-into-tv-sets-with-loop-features/"><u>In 2024, Integrating YouTube Into TV Sets with Loop Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-world-with-toms-hardware-expertise/"><u>Navigating the Digital World with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://techtrends.techidaily.com/no-itunes-required-mastering-the-art-of-adding-mp3s-to-your-iphone/"><u>No iTunes Required: Mastering the Art of Adding MP3s to Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/start-streaming-in-av1-high-quality-video-encoding-software-now-ready/"><u>Start Streaming in AV1: High-Quality Video Encoding Software Now Ready</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-legally-duplicating-marvel-movie-disc-content-onto-computers/"><u>Step-by-Step Tutorial for Legally Duplicating Marvel Movie Disc Content Onto Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-handbrake-issues-solutions-and-alternatives-for-windows-1011-users/"><u>Troubleshooting Handbrake Issues: Solutions & Alternatives for Windows 10/11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-solving-windows-10-freezing-issues/"><u>Troubleshooting Tips: Solving Windows 10 Freezing Issues</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-12-mini-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 12 mini? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725289880855-winxvideo-ai/"><u>WinxVideo AI 螢幕映像和線上攝影解決方案的最佳使用技巧</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxvideo-ai-mastery-step-by-step-tutorial-and-ultimate-user-guide/"><u>Winxvideo AI Mastery: Step-by-Step Tutorial and Ultimate User Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[New] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-express-faster-window-photo-sorter/"><u>2024 Approved Express Faster Window Photo Sorter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-webcam-buying-simplified-the-best-10-options/"><u>2024 Approved Webcam Buying Simplified The Best 10 Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726223181465-webmwav/"><u>無料で簡単なWEBM/WAVファイル変換 - ムーヴェイビ</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/backup-rapido-e-semplice-con-il-software-datadi-su-windows-server-2012-r2/"><u>Backup Rapido E Semplice Con Il Software DataDi Su Windows Server 2012 R2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-cambiar-archivos-de-video-mts-a-mp4-sin-coste-tres-estrategias-faciles/"><u>Cómo Cambiar Archivos De Video MTS a MP4 Sin Coste: Tres Estrategias Fáciles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-libre-de-gif-a-mp4-en-direct-convertisseur-video-vecteur/"><u>Conversion Libre De GIF À MP4 en Direct - Convertisseur Vidéo Vecteur</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-rapide-et-simple-de-fichiers-jpg-a-png-sans-frais-avec-movavi/"><u>Conversion Rapide Et Simple De Fichiers JPG À PNG Sans Frais, Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easily-convert-pgm-photos-online-at-no-cost-with-expert-solutions/"><u>Easily Convert PGM Photos Online at No Cost with Expert Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-change-wmv-files-into-flv-format-with-ease/"><u>Free Online Converter: Change WMV Files Into FLV Format with Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-pova-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Pova 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-mini-revolution-with-m2-chip-hits-historic-low-now-just-479-according-to-zdnet/"><u>Mac Mini Revolution with M2 Chip Hits Historic Low: Now Just $479, According to ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-complimentary-tool-for-quickly-changing-flv-video-to-mp4-on-the-web/"><u>Movavi's Complimentary Tool for Quickly Changing FLV Video to MP4 on the Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-audio-file-changing-convert-your-aiff-files-to-mp3-without-cost-using-our-simple-tools/"><u>Seamless Audio File Changing - Convert Your AIFF Files to MP3 Without Cost Using Our Simple Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/storage-solution-a-4tb-samsung-portable-ssd-available-only-at-amazon/"><u>Storage Solution – A 4TB Samsung Portable SSD Available Only at Amazon!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasformare-i-video-ogg-in-ogv-gratuitamente-tramite-movavi-guida-passo-passo/"><u>Trasformare I Video OGG in OGV Gratuitamente Tramite Movavi - Guida Passo-Passo</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-11-04T09:54:13.875Z
-updated: 2024-11-07T21:23:06.790Z
+date: 2024-11-14T22:50:14.951Z
+updated: 2024-11-18T23:06:19.460Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -55,6 +55,19 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -74,10 +87,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
@@ -95,13 +108,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -113,13 +119,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  Finally, there is the cost. The more powerful your intended desktop computer, the more likely you can save money by building your own. This is because many premium components carry high markups by the manufacturers as a means to boost profits. While many of the small companies that build high-end systems may build a PC from the exact parts that you want, they mark up the price to cover the costs of building it and supplier support after the purchase.
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disadvantages of Building
 
@@ -138,13 +137,20 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Julie Bang
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -189,24 +195,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>[New] Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725288666568-dvd/"><u>「ウィンドストームDVDバックアップソフトウェアパックのネット販売を見つける」</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-how-to-fix-distorted-aspect-ratio-when-converting-dvd-vob-files-to-mp4-using-handbrake/"><u>1. How to Fix Distorted Aspect Ratio when Converting DVD VOB Files to MP4 Using Handbrake</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024-buyers-pick-elite-collection-of-stylish-google-pixel-wristbands-reviewed/"><u>2024 Buyer’s Pick: Elite Collection of Stylish Google Pixel Wristbands Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/202410/"><u>2024年必見！【最新】動画変換のプロフェッショナルソフトウェア10選：優良無料高画質オプションも!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mp4-mjpeg-movavi/"><u>線上免費 MP4 到 MJPEG 格式轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-transferring-dvd-content-from-winx-dvd-ripper-for-mac-to-your-ipadapple-tv-devices/"><u>Comprehensive Guide to Transferring DVD Content From WinX DVD Ripper for Mac to Your iPad/Apple TV Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-to-install-and-utilize-the-instagram-app-for-pcs-windows-11-8-7/"><u>Discover How to Install and Utilize the Instagram App for PCs (Windows 11, 8, 7)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminate-the-runtunk13-glitch-in-hulu-an-effective-fix-guide-for-users/"><u>Eliminate the RUNTUNK13 Glitch in Hulu – An Effective Fix Guide for Users.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-s23-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy S23</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/key-picks-the-best-6-online-communities-for-enterprise-expansion/"><u>Key Picks The Best 6 Online Communities for Enterprise Expansion</u></a></li>
-<li><a href="https://techtrends.techidaily.com/plante-vegetacao-nativa/"><u>Plante Vegetação Nativa</u></a></li>
-<li><a href="https://win11.techidaily.com/remove-bland-look-from-windows-volume-controls/"><u>Remove Bland Look From Windows Volume Controls</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-handbrake-dvd-ripper-corruption-issues/"><u>Resolving HandBrake DVD Ripper Corruption Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/strategies-to-ensure-iphone-camera-focus/"><u>Strategies to Ensure iPhone Camera Focus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-il-tuo-video-h264-in-h265-con-perdite-di-qualita-zero-guida-completa-gratuita/"><u>Trasforma Il Tuo Video H.264 In H.265 Con Perdite Di Qualità Zero - Guida Completa Gratuita!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/vobwindows1078macos/"><u>VOBファイル融合手順：Windows10/7/8・macOS対応ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-image-editing-excellence-with-top-apps-list/"><u>[New] In 2024, Image Editing Excellence with Top Apps List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-editing-apps-revolutionize-your-photo-backgrounds/"><u>[Updated] Top Editing Apps Revolutionize Your Photo Backgrounds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029389686-av1/"><u>高効率なAV1でのビデオエンコード手順解説</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cambiar-contenido-musical-de-m4a-a-mp4-gratuito-online-con-herramientas-de-movavi/"><u>Cambiar Contenido Musical De M4A a MP4 Gratuito Online Con Herramientas De Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-the-darkness-overcoming-google-chromes-intimidating-black-screen-challenge/"><u>Decode the Darkness: Overcoming Google Chrome's Intimidating Black Screen Challenge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-wmampe-files-with-ease-using-movavi/"><u>Free Online Converter: Convert WMA/MPE Files with Ease Using Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuita-conversao-online-de-arquivos-aiff-para-mp3-movavi/"><u>Gratuita Conversão Online De Arquivos AIFF Para MP3 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-convert-your-mka-video-to-mkv-without-costs-using-movavis-quick-method/"><u>How to Convert Your MKA Video to MKV Without Costs Using Movavi's Quick Method</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>In 2024, Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus 12R FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-online-gif-to-tiff/"><u>Movavi가 제공하는 원금 없이 Online GIF to TIFF 변환 - 단정한 지원</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-your-cs-workflow-with-codegpt-and-vs-code/"><u>Transforming Your CS Workflow with CodeGPT and VS Code</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-facilmente-i-file-mp4-in-formato-wma-gratuitamente-con-lutilita-di-conversione-di-movavi/"><u>Trasforma Facilmente I File MP4 in Formato WMA Gratuitamente Con L'utilità Di Conversione Di Movavi!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tsmp4movavi/"><u>TS到MP4轉換技巧：Movavi的全面教程</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-flv-format-a-comprehensive-guide-with-movavi-player-tips/"><u>Understanding FLV Format: A Comprehensive Guide with Movavi Player Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrading-windows-11-for-optimal-hdmi-functionality/"><u>Upgrading Windows 11 for Optimal HDMI Functionality</u></a></li>
 </ul></div>
 

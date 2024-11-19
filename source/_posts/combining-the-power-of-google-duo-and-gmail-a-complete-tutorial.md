@@ -1,7 +1,7 @@
 ---
 title: "Combining the Power of Google Duo and Gmail: A Complete Tutorial"
-date: 2024-09-11T17:30:55.288Z
-updated: 2024-09-12T17:30:55.288Z
+date: 2024-11-14T00:21:56.048Z
+updated: 2024-11-18T17:58:06.989Z
 categories:
   - BestProducts
 description: "This Article Describes Combining the Power of Google Duo and Gmail: A Complete Tutorial"
@@ -22,23 +22,9 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 
  Like clockwork, Google's next Pixel phones will hit the shelves later this year. They're expected to come with new software features, better hardware, and a new, pill-shaped camera design. And rumor has it there will be a larger XL model and a successor to the[Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) , all released simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Will the Google Pixel 9 Be Released?
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -55,18 +41,18 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Features
 
@@ -77,21 +63,28 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -105,16 +98,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Performance
@@ -132,13 +119,6 @@ MySmartPrice
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Battery
 
@@ -175,5 +155,26 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-iconic-trailer-highlight-assortment/"><u>[New] 2024 Approved Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-trend-analysis-twitters-top-video-shares-for-2024/"><u>[Updated] 2023 Trend Analysis Twitter's Top Video Shares for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-youtube-like-audio-making-via-twitter/"><u>[Updated] In 2024, YouTube-Like Audio Making via Twitter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-strategies-in-tagging-and-titling-videos-for-success/"><u>2024 Approved Strategies in Tagging and Titling Videos for Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audiophiles-guide-to-speed-adjustment-apps-for-2024/"><u>Audiophile's Guide to Speed Adjustment Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-for-launching-cmd-in-windows-11-10-8-and-7/"><u>Comprehensive Tutorial for Launching CMD in Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-youtube-video-essential-writing-guide-for-2024/"><u>Crafting a YouTube Video Essential Writing Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-of-hp-scanjet-by-updating-its-drivers-in-windows-10-8-and-7/"><u>Ensure Optimal Performance of HP Scanjet by Updating Its Drivers in Windows (10, 8 & 7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-insights-into-lg-channel-operations/"><u>Essential Insights Into LG Channel Operations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-d3dx927dll-file-not-found-issue-on-your-pc/"><u>Fix the 'd3dx9_27.dll' File Not Found Issue on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-silent-cast-what-to-do-when-chromecast-wont-play-sounds-correctly/"><u>Fixing Silent Cast: What to Do When Chromecast Won't Play Sounds Correctly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hero-10-ultimate-guide-for-l-slow-cinematography/"><u>In 2024, Mastering Hero 10 Ultimate Guide for L-Slow Cinematography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/removing-you-might-like-this-recommendations-from-your-instagram-feed/"><u>Removing 'You Might Like This' Recommendations From Your Instagram Feed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-correct-the-missing-wlanapidll-file-problem/"><u>Step-by-Step Solutions to Correct the Missing WLanApiDll File Problem</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-advanced-police-radios-in-24/"><u>The Most Advanced Police Radios in '24</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-face-off-choosing-between-iphone-or-android-as-your-go-to-phone/"><u>The Ultimate Face-Off: Choosing Between iPhone or Android as Your Go-To Phone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/triple-crown-of-language-mastery-your-gateway-to-fluency/"><u>Triple Crown of Language Mastery: Your Gateway to Fluency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-samsung-galaxy-ring-pricing-details-launch-timeline-and-cutting-edge-features/"><u>Unveiling the Samsung Galaxy Ring: Pricing Details, Launch Timeline & Cutting-Edge Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-about-the-popular-messaging-app-telegram/"><u>What You Need to Know About the Popular Messaging App, Telegram?</u></a></li>
+</ul></div>
 

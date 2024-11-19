@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Tutorial on Embedding Text Overlays in InstaStories
-date: 2024-11-04T00:19:57.689Z
-updated: 2024-11-08T06:46:30.516Z
+date: 2024-11-15T00:39:14.600Z
+updated: 2024-11-19T01:36:24.185Z
 categories:
   - BestProducts
 description: This Article Describes A Beginner's Tutorial on Embedding Text Overlays in InstaStories
@@ -42,64 +42,44 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
 
- Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 ## Capturing a Scan From a Printer on a Mac
 
@@ -112,6 +92,13 @@ lolostock / Getty Images
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 
@@ -122,6 +109,13 @@ lolostock / Getty Images
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -161,24 +155,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-visualize-the-possibilities-a-beginners-guide-to-snapseed/"><u>[New] In 2024, Visualize the Possibilities A Beginner's Guide to Snapseed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>[New] The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simple-windows-11-techniques-for-video-editing/"><u>2024 Approved Simple Windows 11 Techniques for Video Editing</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-15-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 15 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-overcoming-hd-audio-driver-hiccups-for-realtek-alc887-in-windows/"><u>Comprehensive Guide to Overcoming HD Audio Driver Hiccups for Realtek ALC887 in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-oled-the-mechanics-of-organic-light-emitting-diodes-explained/"><u>Demystifying OLED: The Mechanics of Organic Light Emitting Diodes Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-ai-chatbot-options-beyond-chatgpt/"><u>Discover the Best AI Chatbot Options Beyond ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/eliminate-the-missing-d3dx9-41dll-error-with-easy-fixes/"><u>Eliminate the Missing D3dx9_ 41.dll Error with Easy Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-on-selecting-an-ideal-surge-protector-for-electronic-devices/"><u>Essential Tips on Selecting an Ideal Surge Protector for Electronic Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/finding-email-information-best-practices-and-tips/"><u>Finding Email Information - Best Practices and Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-with-verizons-latest-smartphone-trade-in-deals/"><u>Get Ahead with Verizon's Latest Smartphone Trade-In Deals</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/getting-the-most-out-of-your-workouts-with-the-fitbit-versa-lite-review/"><u>Getting the Most Out of Your Workouts with The Fitbit Versa Lite Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-choose-your-ideal-phone-case/"><u>How to Choose Your Ideal Phone Case</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-erase-photos-off-of-your-facebook-account-safely-and-quickly/"><u>How to Erase Photos Off of Your Facebook Account Safely and Quickly</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-vlog-game-the-top-10-mobile-video-editing-apps/"><u>New Elevate Your Vlog Game The Top 10 Mobile Video Editing Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-common-hurdles-effortless-fixes-for-your-netflix-app-on-lg-screens/"><u>Overcoming Common Hurdles: Effortless Fixes for Your Netflix App on LG Screens</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/prime-mc-house-designs-for-communities/"><u>Prime MC House Designs for Communities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-no-signal-problem-a-step-by-step-guide-for-your-xbox-one/"><u>Solving the 'No Signal' Problem: A Step-by-Step Guide for Your Xbox One</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-iphone-13-continues-to-be-an-excellent-buy/"><u>Why the iPhone 13 Continues to Be an Excellent Buy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-command-center-redefined-your-pathway-through-studio/"><u>[New] 2024 Approved Command Center Redefined Your Pathway Through Studio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-5-android-emulators-for-playstation-2-gaming/"><u>[New] 2024 Approved Top 5 Android Emulators for PlayStation 2 Gaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-top-iphones-video-editors-face-off-cameo-vs-filmorago/"><u>[New] Top iPhones' Video Editors Face-Off Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-digital-resurrection-breathing-life-into-old-vhs-images-for-2024/"><u>[Updated] Digital Resurrection Breathing Life Into Old VHS Images for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-hidden-gems-a-guide-to-finding-your-saved-instagram-reels/"><u>Discovering Hidden Gems: A Guide to Finding Your Saved Instagram Reels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-address-the-missing-advrcntr2dll-problem-with-nero/"><u>Effective Solutions to Address the Missing Advrcntr2.dll Problem with Nero</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tudents-discover-the-top-10-historical-youtube-channels-now-for-2024/"><u>For Students, Discover the Top 10 Historical YouTube Channels Now for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-note-12r-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi Note 12R online without jailbreak</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-a-faster-storage-option-how-to-add-an-ssd-to-your-playstation-5/"><u>Installing a Faster Storage Option: How to Add an SSD to Your PlayStation 5</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leading-six-innovative-full-frame-cinematographers/"><u>Leading Six Innovative Full Frame Cinematographers</u></a></li>
+<li><a href="https://win-top.techidaily.com/migliora-il-formato-dei-video-converte-m4a-in-flv-online-e-gratis-con-movavi-guida-completa-passo-dopo-passo/"><u>Migliora Il Formato Dei Video: Converte M4A in FLV Online E Gratis Con Movavi - Guida Completa Passo Dopo Passo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-young-users-on-chatgpt-a-parents-top-five-precautions/"><u>Protecting Young Users on ChatGPT: A Parent’s Top Five Precautions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-connecting-your-samsung-universal-remote-with-the-television/"><u>Step-by-Step Guide: Connecting Your Samsung Universal Remote with the Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-adding-a-second-screen-to-your-mac-setup/"><u>The Ultimate Tutorial for Adding a Second Screen to Your Mac Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-scoring-amazing-holiday-bargains-for-your-tech-wishlist-exclusive-offers-from-newegg-zdnet/"><u>Ultimate Guide to Scoring Amazing Holiday Bargains for Your Tech Wishlist: Exclusive Offers From Newegg | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-trick-to-unite-playlists-seamlessly-on-spotify/"><u>Ultimate Trick to Unite Playlists Seamlessly on Spotify</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-facebook-its-beginnings-popularity-reasons-and-core-characteristics/"><u>Unraveling Facebook: Its Beginnings, Popularity Reasons, and Core Characteristics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-tv-streaming-device-latest-info-on-costs-launch-timeline-features-and-hidden-gossip/"><u>Upcoming Google TV Streaming Device - Latest Info on Costs, Launch Timeline, Features & Hidden Gossip</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-role-does-email-play-in-pope-franciss-communication-strategy/"><u>What Role Does Email Play in Pope Francis's Communication Strategy?</u></a></li>
 </ul></div>
 

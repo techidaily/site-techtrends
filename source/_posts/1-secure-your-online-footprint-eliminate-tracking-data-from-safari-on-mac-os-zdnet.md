@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-11-02T04:38:44.201Z
-updated: 2024-11-08T05:03:17.438Z
+date: 2024-11-18T03:25:06.825Z
+updated: 2024-11-19T02:49:34.750Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -66,10 +66,10 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -121,18 +121,22 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-beginners-guide-to-simple-yet-effective-filming-gear/"><u>[New] In 2024, Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-how-to-free-fix-a-corrupted-mp4-video-file-on-pc-or-mac-step-by-step-guide/"><u>1. How to Free Fix a Corrupted MP4 Video File on PC or Mac - Step by Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/breakthrough-ways-to-transform-your-powerpoint-presentations/"><u>Breakthrough Ways to Transform Your PowerPoint Presentations</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comment-recuperer-les-fichiers-dun-sauvegarde-sur-windows-server-2012-r2/"><u>Comment Recuperer Les Fichiers D'Un Sauvegarde Sur Windows Server 2012 (R2)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd-cloning-guide-transferring-content-from-dvds-to-your-pc-using-windows-version-11-10-and-earlier/"><u>DVD Cloning Guide: Transferring Content From DVDs to Your PC Using Windows (Version 11, 10 & Earlier)</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-find-x6-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Find X6 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-mov-to-mp3-conversion-guide-top-free-tools-and-tutorials-for-mac-users/"><u>Effortless MOV-to-MP3 Conversion Guide: Top Free Tools & Tutorials for Mac Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-transformation-with-digiarty-software-dvd-to-videofromat-converter/"><u>Effortless Transformation with Digiarty Software - DVD to Videofromat Converter</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-agni-2-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Agni 2 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-streamline-your-workflow-macos-screencast-tutorial/"><u>In 2024, Streamline Your Workflow MacOS Screencast Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-your-entire-photo-collection-from-iphones-up-to-model-15/"><u>Step-by-Step Guide: Removing Your Entire Photo Collection From iPhones Up to Model 15</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranking-dji-4k-video-editing-software-compared-best-picks-for-windows-and-mac-in-202n/"><u>Top-Ranking DJI 4K Video Editing Software Compared: Best Picks for Windows and Mac in 202N</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cut-the-clutter-structuring-videos-with-chapter-tags-for-2024/"><u>[Updated] Cut the Clutter Structuring Videos with Chapter Tags for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-peak-meme-smile-crafting-program/"><u>[Updated] Peak Meme Smile Crafting Program</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-online-privacy-youtubes-access-controls/"><u>2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-tutorial-to-display-hidden-files-on-a-mac-via-command-line-interface/"><u>A Beginner’s Tutorial to Display Hidden Files on a Mac via Command Line Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-cutest-kids-movies-for-a-fun-summer-with-disneyplus-in-july/"><u>Discover the Cutest Kids Movies for a Fun Summer with Disney+ in July</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-bridge-your-fire-stick-and-projector-together/"><u>Easy Steps to Bridge Your Fire Stick and Projector Together</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-purchasing-digital-reads-via-apple-books-on-your-ios-device/"><u>Guide: Purchasing Digital Reads via Apple Books on Your iOS Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/home-cinema-or-stereo-sound-what-makes-their-audio-systems-unique/"><u>Home Cinema or Stereo Sound: What Makes Their Audio Systems Unique?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-15-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 15 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-the-art-of-media-preservation-macs-dvd-burn-guide/"><u>In 2024, Perfecting the Art of Media Preservation Mac's DVD Burn Guide</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-control-panel-interactions-navigating-the-data-conversation/"><u>Mastering Control Panel Interactions: Navigating the Data Conversation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavis-free-web-service-for-mpeg-to-avi-video-file-conversion/"><u>Movavi's Free Web Service for MPEG to AVI Video File Conversion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>PC's Choice for Classic Gaming Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-what-is-dts-virtualx/"><u>The Comprehensive Guide to What Is DTS Virtual:X?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-solving-the-problem-of-a-non-existent-d3dx930dll-file/"><u>Understanding and Solving The Problem of a Non-Existent d3dx9_30.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-your-polyglot-potential-with-these-9-amazing-free-online-language-resources/"><u>Unlock Your Polyglot Potential with These 9 Amazing, FREE Online Language Resources</u></a></li>
 </ul></div>
 

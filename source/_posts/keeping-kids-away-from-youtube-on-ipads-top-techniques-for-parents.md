@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-10-28T12:42:49.963Z
-updated: 2024-11-01T22:56:41.515Z
+date: 2024-11-11T23:02:38.091Z
+updated: 2024-11-19T01:45:37.719Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -41,13 +41,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -69,6 +62,19 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -81,10 +87,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -107,6 +113,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -120,10 +133,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
@@ -133,13 +146,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -170,18 +176,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>[New] In 2024, Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-picks-free-thumbnail-extractor-software/"><u>[Updated] 2024 Approved Top Picks FREE Thumbnail Extractor Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>[Updated] Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-joining-the-zoom-community-with-ease-on-an-android-device/"><u>2024 Approved Joining the Zoom Community with Ease on an Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aol-email-service-outage-how-to-tell-if-its-server-wide-or-personal-glitches/"><u>AOL Email Service Outage - How to Tell If It's Server-Wide or Personal Glitches</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensuring-reliability-in-electronics-a-deep-dive-into-how-we-evaluate-power-supply-units-toms-guide-to-tech/"><u>Ensuring Reliability in Electronics: A Deep Dive Into How We Evaluate Power Supply Units - Tom's Guide to Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-rumored-aspects-of-google-pixel-fold-2-expected-price-point-release-schedule-and-tech-breakdown/"><u>Exploring the Rumored Aspects of Google Pixel Fold 2: Expected Price Point, Release Schedule & Tech Breakdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-innovations-the-ultimate-selection-of-smart-glasses/"><u>Leading Innovations: The Ultimate Selection of Smart Glasses</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-and-fun-make-a-meme-with-kinemaster/"><u>Quick & Fun Make a Meme with KineMaster</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-disconnecting-devices-from-your-google-home-network/"><u>Step-by-Step Guide: Disconnecting Devices From Your Google Home Network</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-zlibdll-is-missing-windows-error-effectively/"><u>Troubleshooting the 'zlib.dll Is Missing' Windows Error Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-impact-of-memory-velocity-and-response-times-on-computer-performance/"><u>Understanding the Impact of Memory Velocity and Response Times on Computer Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-iphone-video-editing-guide/"><u>[New] Seamless Integration IPhone Video Editing Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-guide-to-profitable-animated-fb-advertising-techniques-for-2024/"><u>[Updated] A Guide to Profitable, Animated FB Advertising Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-slomos-full-potential-a-compre-written-context/"><u>2024 Approved Exploring SloMo's Full Potential A Compre Written Context</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-utilize-legal-free-clip-art-resources/"><u>2024 Approved How to Utilize Legal, Free Clip-Art Resources</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-right-time-to-invest-in-your-next-4k-lens/"><u>2024 Approved The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-16-unveiled-detailed-review-of-new-specifications-rumored-costs-and-launch-details/"><u>Android 16 Unveiled: Detailed Review of New Specifications, Rumored Costs & Launch Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bk-faces-backlash-twice-over-customer-disputes-the-surprising-drama-at-burger-king/"><u>BK Faces Backlash Twice Over Customer Disputes – The Surprising Drama at Burger King</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ideal-spots-for-purchasing-smartphones-near-you/"><u>Discover the Ideal Spots for Purchasing Smartphones Near You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-reserve-time-with-the-experts-at-your-local-apple-store/"><u>How To Reserve Time With The Experts At Your Local Apple Store</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Samsung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/innovative-solutions-for-fixing-sound-adjustment-shortcomings-on-windows-11-devices/"><u>Innovative Solutions for Fixing Sound Adjustment Shortcomings on Windows 11 Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-18-unveiled-launch-timeline-costs-0-capabilities-and-latest-updates/"><u>IOS 18 Unveiled: Launch Timeline, Costs ($0!), Capabilities & Latest Updates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-unused-scenes-a-filmmakers-approach-for-2024/"><u>Optimizing Unused Scenes A Filmmaker's Approach for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rumored-details-for-the-next-gen-foldable-iphone-anticipated-costs-and-specs-revealed/"><u>Rumored Details for the Next-Gen Foldable iPhone: Anticipated Costs and Specs Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-type-a-heart-using-your-keyboard/"><u>Step-by-Step Tutorial: How to Type a Heart Using Your Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-breakdown-of-ar-versus-vr-mr-and-xr-exploring-the-key-differences/"><u>The Complete Breakdown of AR Versus VR, MR, and XR: Exploring the Key Differences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixing-system-stops-due-to-missing-spin-lock-the-0x0000001d-dilemma/"><u>Troubleshooting and Fixing System Stops Due to Missing Spin Lock: The 0X0000001D Dilemma</u></a></li>
 </ul></div>
 

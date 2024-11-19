@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks by ZDNET"
-date: 2024-10-22T19:46:09.265Z
-updated: 2024-10-27T16:57:10.510Z
+date: 2024-11-11T22:03:29.010Z
+updated: 2024-11-19T03:36:46.879Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -71,10 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,6 +78,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,19 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360-for-2024/"><u>[New] Beat the Best Substitutes for Samsung's VR Camera Gear 360 for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transform-your-content-expert-techniques-for-facebook-lives/"><u>[Updated] 2024 Approved Transform Your Content Expert Techniques for Facebook Lives</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[Updated] 2024 Approved Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-diy-youtube-trailer-production-via-filmora-software/"><u>[Updated] In 2024, DIY YouTube Trailer Production via Filmora Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-zero-to-zoom-expertise-in-a-flash/"><u>[Updated] In 2024, From Zero to Zoom Expertise in a Flash</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crafting-a-tailored-pc-experience-versus-off-the-shelf-solutions/"><u>Crafting a Tailored PC Experience Versus Off-the-Shelf Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-stream-windows-content-from-pc-to-tv-screen-via-google-casting-methods/"><u>How to Stream Windows Content From PC to TV Screen via Google Casting Methods</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-12-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 12? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unleash-potential-blend-the-best-of-tiktok-and-instagram-reel-artistry/"><u>In 2024, Unleash Potential Blend the Best of TikTok and Instagram Reel Artistry</u></a></li>
-<li><a href="https://techtrends.techidaily.com/kid-friendly-gift-ideas-essential-gaming-systems-and-extras/"><u>Kid-Friendly Gift Ideas: Essential Gaming Systems and Extras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3dx925dll-file-missing-or-cannot-be-located-issues/"><u>Resolving d3dx9_25.dll File Missing or Cannot Be Located Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revealing-hidden-wi-fi-passwords-on-windows-11-without-a-hitch/"><u>Revealing Hidden Wi-Fi Passwords on Windows 11 Without a Hitch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-harry-potter-viewing-plan-from-sorcerers-stone-to-deathly-hallows-part-2/"><u>The Ultimate Harry Potter Viewing Plan From Sorcerer's Stone to Deathly Hallows Part 2</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-disable-auto-recommended-podcast-features-in-spotify-for-2024/"><u>[Updated] How to Disable Auto-Recommended Podcast Features in Spotify for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selective-sights-best-macos-sierra-video-editors/"><u>2024 Approved Selective Sights Best macOS Sierra Video Editors</u></a></li>
+<li><a href="https://win-special.techidaily.com/4-windows-11/"><u>4 簡単な手順で Windows 11 のホーム画面のゴーストボックスを修正する</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-multiple-users-jointly-listen-on-spotify-without-issues/"><u>Can Multiple Users Jointly Listen on Spotify Without Issues?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-11-ideal-freeware-program-updates-to-enhance-your-tech-experience/"><u>Discover the 11 Ideal Freeware Program Updates to Enhance Your Tech Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-resolve-the-missing-d3d9dll-error-message/"><u>Easy Steps: Resolve The Missing d3d9.dll Error Message</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-strategies-to-get-your-sound-blaster-microphone-up-and-running-again/"><u>Effective Strategies to Get Your Sound Blaster Microphone Up and Running Again</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-overcome-missing-mapi-32-dll-file-errors-in-windows/"><u>Expert Strategies to Overcome Missing MAPI 32 DLL File Errors in Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/hands-on-tactics-for-recording-and-storing-google-voice-talks/"><u>Hands-On Tactics for Recording and Storing Google Voice Talks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-xcover-7-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy XCover 7 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-merge-fortnite-accounts/"><u>How to Merge Fortnite Accounts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-open-rar-files-on-a-mac/"><u>How to Open RAR Files on a Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-audience-retention-through-reel-magic-boomers-on-ig/"><u>In 2024, Audience Retention Through Reel Magic Boomers on IG</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ingenious-ways-to-refuel-your-phones-battery-when-you-dont-have-the-right-cable/"><u>Ingenious Ways to Refuel Your Phone's Battery When You Don't Have the Right Cable</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-text-customization-for-video-content-with-windows-photos-for-2024/"><u>Navigating Text Customization for Video Content with Windows Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-your-mouse-trail-in-winxpvista7/"><u>Reimagining Your Mouse Trail in WinXP/Vista/7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsungs-next-innovation-expected-cost-of-galaxy-z-fold-7-plus-specs-reveal-and-rumored-launch-date/"><u>Samsung's Next Innovation: Expected Cost of Galaxy Z Fold 7 + Specs Reveal and Rumored Launch Date</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-formula-for-tiktok-virality-top-10-must-try-tips/"><u>The Ultimate Formula for TikTok Virality: Top 10 Must-Try Tips</u></a></li>
 </ul></div>
 

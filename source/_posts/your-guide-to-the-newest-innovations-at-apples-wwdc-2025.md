@@ -1,7 +1,7 @@
 ---
 title: Your Guide to the Newest Innovations at Apple's WWDC 2025
-date: 2024-09-11T17:30:52.779Z
-updated: 2024-09-12T17:30:52.779Z
+date: 2024-11-14T19:00:09.182Z
+updated: 2024-11-19T02:06:23.897Z
 categories:
   - BestProducts
 description: This Article Describes Your Guide to the Newest Innovations at Apple's WWDC 2025
@@ -35,18 +35,18 @@ thumbnail: https://www.lifewire.com/thmb/BS6EQLdoFpHBKaApG3kbaxCBoMo=/400x300/fi
 
 ![iPhone 15 features](https://www.lifewire.com/thmb/t4gspKbwq56DPRs0r-LDMn8noZQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15features-8a38c089557647769e3bd494e7e49178.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pro and Pro Max: What's the Difference?
 
  The main reason someone might go for the Pro version of an iPhone over the base model is the camera. While the iPhone 15 and Pro both have an impressive 48-megapixel main camera, the Pro versions have a third lens that provides additional features.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273166%27 height=%271676%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![iPhone 15 Pro features](https://www.lifewire.com/thmb/W5IYkEGNlzvUhlNEOkvgw50dDgc=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15ProFeatures-c322bb8455fb4be2af8125103040fef4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  PHOTO:
 
@@ -80,13 +80,6 @@ Apple Inc
 
 **Spatial Video** : Spatial Video is a gimmick feature that only works with a niche product (the Vision Pro), but darn if it doesn't look cool. The possibilities are also there if Apple decides to open it up to other uses, like 3D scanning.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### iPhone 15 Pricing and Availability
 
  The iPhone 15 series starts at $799, but size, version, and memory choices will impact the final price. Here's how these options affect the cost:  
@@ -104,15 +97,28 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Series 9
@@ -127,33 +133,20 @@ Apple Inc
 
 ![All of the colors of the Apple Watch Series 9](https://www.lifewire.com/thmb/5BubYB89xa6KPdrUupdSDvAf--w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Series-9-Colors-5d09e52b67794b0d915413c9c17ac1af.jpg)
 
- Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
-
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
 
 ### Ultra 2
 
  The Apple Watch Ultra 2 only comes in one case size, but it's bigger than either of the Series 9 options. Its titanium frame measures 49mm, and its always-on display is also 50% brighter than the Series 9's screen, with a maximum output of 3,000 nits.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%274800%27 height=%271600%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Apple Watch Ultra 2](https://www.lifewire.com/thmb/wqN-LHfR4eXnBNTQ6v5qT8yWPlA=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Ultra-2-09592df03cf54f4092c9bb29fda96395.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Apple Watch Ultra 2.  PHOTO:
 
@@ -170,13 +163,6 @@ Apple Inc
  Apple dropped a lot of information really quickly, but some features were definitely our favorites. Here are our picks for the best things about the Apple Watch Series 9 and Ultra 2.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273623%27 height=%271000%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Features for the Apple Watch Series 9 and Apple Watch Ultra 2](https://www.lifewire.com/thmb/3C5VOVuE9rqpY8EWPB4gE_u_43E=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-9-and-Ultra-2-features-bd698a1b23f24eb6a796ced9763e23e0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  PHOTO:
 
@@ -195,10 +181,10 @@ Apple Inc
 [Double Tap on Apple Watch Series 9 Could Be the Coolest Feature Ever](https://www.lifewire.com/apple-watch-series-9-confirmed-7968679)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pricing and Availability
@@ -235,5 +221,21 @@ Apple Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-cutting-edge-of-uhd-with-lgs-27ud68/"><u>[New] Exploring the Cutting-Edge of UHD with LG's 27UD68</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-video-twisting-techniques-boost-your-instagram-media-presentation/"><u>[New] Video Twisting Techniques Boost Your Instagram Media Presentation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>[Updated] The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehvew-of-the-telnet-client-features-in-microsoft-windows/"><u>Comprehvew of the Telnet Client Features in Microsoft Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-pesky-sms-a-step-by-step-guide-to-blocking-undesirable-messages-on-your-iphone/"><u>Eliminating Pesky SMS: A Step-by-Step Guide to Blocking Undesirable Messages on Your iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-real-time-periscope-broadcasting/"><u>Enhance Real-Time Periscope Broadcasting</u></a></li>
+<li><a href="https://techidaily.com/improve-your-virtual-meetings-with-microsoft-teams-new-ai-assisted-webcam-backdrop-management/"><u>Improve Your Virtual Meetings with Microsoft Teams' New AI-Assisted Webcam Backdrop Management</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-15-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 15</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-on-device-machine-learning-an-overview-of-its-core-principles/"><u>Inside On-Device Machine Learning: An Overview of Its Core Principles</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/techniques-for-elongated-iphone-photography/"><u>Techniques for Elongated iPhone Photography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tips-for-selecting-the-right-projector-purchase-guide/"><u>Top Tips for Selecting the Right Projector Purchase Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-twitch-connectivity-problems-server-downtime-or-user-error/"><u>Troubleshooting Twitch Connectivity Problems – Server Downtime or User Error?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-potential-of-your-windows-11-by-running-android-apps-with-these-simple-steps/"><u>Unlock the Potential of Your Windows 11 by Running Android Apps with These Simple Steps</u></a></li>
+</ul></div>
 

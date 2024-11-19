@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-11-02T01:49:59.754Z
-updated: 2024-11-08T06:17:04.824Z
+date: 2024-11-13T01:41:09.925Z
+updated: 2024-11-19T01:30:09.948Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -81,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,24 +166,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-cameras-for-pixel-perfect-stop-motion/"><u>[New] 2024 Approved Elite Cameras for Pixel-Perfect Stop Motion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-music-infused-content-sharing-strategies-for-facebook/"><u>[New] 2024 Approved Music-Infused Content Sharing Strategies for Facebook</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-seamless-integration-offline-watching-of-youtube-via-ios/"><u>[Updated] In 2024, Seamless Integration Offline Watching of YouTube via iOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intro-excellence-app-your-device-friendly-solution/"><u>[Updated] Intro Excellence App Your Device-Friendly Solution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>[Updated] The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>2024 Approved Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/complete-guide-securing-your-files-with-windows-10s-backup-features/"><u>Complete Guide: Securing Your Files with Windows 10'S Backup Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuite-de-fichiers-mov-a-mp4-sur-les-systemes-mac-et-windows-1110-convertissez-directement-en-ligne/"><u>Conversion Gratuite De Fichiers MOV À MP4 Sur Les Systèmes Mac Et Windows 11/10 - Convertissez Directement en Ligne</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cprmdvd-vr/"><u>CPRMを解除してDVD-VRを利用可能に!: 複数デバイスで再生するための変換法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-and-update-guide-windows-11-mobile-as-a-microsoft-insider-user/"><u>Download & Update Guide: Windows 11 Mobile as a Microsoft Insider User</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725289097119-dvd/"><u>DVDリッピング・コピー・再生できないエラー - 基本から上級まで 修正手順</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-screen-webcam-and-audio-capturing-with-winxvideo-ai-technology/"><u>Effortless Screen, Webcam, and Audio Capturing with Winxvideo AI Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fastest-authorized-winx-dvd-ripper-pro-convert-dvds-to-hdmp4-quickly-with-h23-hevc-codecs/"><u>Fastest [AUTHORIZED] WinX DVD Ripper Pro: Convert DVDs to HDMP4 Quickly with H.2^3 / HEVC Codecs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-find-electric-vehicle-chargers-in-your-area-with-google-maps-a-comprehensive-guide/"><u>How to Find Electric Vehicle Chargers in Your Area with Google Maps: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/les-meilleurs-lecteurs-de-videos-mkv-pour-windowsmac-en-2020-comparaisons-des-fonctionnalites-et-recommandations-de-logiciels-gratuits-a-lessai/"><u>Les Meilleurs Lecteurs De Vidéos MKV Pour Windows/Mac en 2020: Comparaisons Des Fonctionnalités Et Recommandations De Logiciels Gratuits À L'essai</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimal-video-quality-with-handbrake-comparing-h2e64-and-mpeg-4-dvd-to-file-convertors/"><u>Optimal Video Quality with HandBrake: Comparing H.2e64 and MPEG-4 DVD to File Convertors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/snagit-screen-recorder-review-and-alternatives-for-2024/"><u>Snagit Screen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-dvd-ripper-video-converter-top-seo-tech-guide-for-media-transformation-solutions/"><u>WinX DVD Ripper - Video Converter: Top SEO Tech Guide for Media Transformation Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-content-the-ultimate-guide-to-tiktok-editing/"><u>Cutting-Edge Content The Ultimate Guide to TikTok Editing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/does-bringing-back-a-dead-iphone-wipe-out-your-data-protective-measures-you-need-to-know/"><u>Does Bringing Back a Dead iPhone Wipe Out Your Data? Protective Measures You Need to Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-steps-for-creating-new-file-systems-with-mkfs-on-linux-platforms/"><u>Essential Steps for Creating New File Systems with Mkfs on Linux Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-for-sharing-your-valuable-steam-tokens/"><u>Expert Advice for Sharing Your Valuable Steam Tokens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-404-page-missing-comprehensive-steps-to-resolve-and-prevent-issues/"><u>Fixing '404 Page Missing': Comprehensive Steps to Resolve & Prevent Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/guide-to-crafting-twitter-video-inspired-animated-gifs-for-2024/"><u>Guide to Crafting Twitter Video-Inspired Animated GIFs for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-red-magic-9-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nubia Red Magic 9 Pro?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-strategies-for-improving-youtubefacebook-video-quality/"><u>In 2024, Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-n53frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo N53FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/opulent-innovations-meet-economy-pricing-the-best-value-gadgets/"><u>Opulent Innovations Meet Economy Pricing: The Best Value Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-halting-background-processes-on-android-for-better-performance/"><u>Tutorial: Halting Background Processes on Android for Better Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-11-01T04:44:22.712Z
-updated: 2024-11-07T16:10:52.389Z
+date: 2024-11-12T17:05:51.036Z
+updated: 2024-11-19T02:16:56.143Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -73,13 +73,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 The ability to run two external monitors with the lid closed is one of the M3 MacBook Air's biggest upgrades.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
 
@@ -116,10 +109,16 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -181,16 +180,10 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -202,6 +195,13 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -249,20 +249,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/avigating-online-hostility-on-video-platforms/"><u>[New] Navigating Online Hostility on Video Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-anatomy-of-hand-tracking-techniques-and-types/"><u>[Updated] Anatomy Of Hand Tracking Techniques and Types</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-beginners-vectors-guide-types-and-applications-demystified/"><u>[Updated] In 2024, Beginner's Vectors Guide Types & Applications Demystified</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-como-optimizar-videos-para-facebook-reduccion-eficiente-del-tamano-original/"><u>1. Cómo Optimizar Videos Para Facebook: Reducción Eficiente Del Tamaño Original</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-14-design-techniques-for-text-animation-for-2024/"><u>Advanced 14 Design Techniques for Text Animation for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/die-effektivsten-kostenlosen-ansatze-zum-reduzieren-der-dateigrosse-von-mkv-videoinhalten-entdecken-sie-die-top-4-methoden/"><u>Die Effektivsten Kostenlosen Ansätze Zum Reduzieren Der Dateigröße Von MKV-Videoinhalten: Entdecken Sie Die Top 4 Methoden!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/experiencing-trouble-with-discord-voice-chat-heres-what-to-do/"><u>Experiencing Trouble With Discord Voice Chat? Here's What to Do!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-mx-player-download-with-eac3-audio-support-aio-zip-version-1490/"><u>Free MX Player Download with EAC3 Audio Support (AIO ZIP, Version 1.49.0)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guida-completa-alla-conversione-gratuita-di-dvd-in-formato-mp4-usando-winxdvd-su-windows-e-mac/"><u>Guida Completa Alla Conversione Gratuita Di DVD in Formato MP4 Usando WinXDVD Su Windows E Mac</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-the-art-of-crafting-compelling-content-in-60-second-videos/"><u>Mastering the Art of Crafting Compelling Content in 60-Second Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-9gag-meme-landscape-a-beginners-guide/"><u>Navigating the 9GAG Meme Landscape A Beginner's Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/os-melhores-10-softwares-de-transcodificacao-dvd-para-mp4-em-windows-11-e-macos-guia-completo-do-ano-2023/"><u>Os Melhores 10 Softwares De Transcodificação DVD Para MP4 Em Windows 11 E macOS: Guia Completo Do Ano 2023</u></a></li>
-<li><a href="https://techtrends.techidaily.com/professional-media-transformation-leading-specialists-in-dvd-and-video-software-digiarty-systems/"><u>Professional Media Transformation: Leading Specialists in DVD and Video Software - Digiarty Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-distorted-audio-for-windows-10-and-7-users-step-by-step-guide/"><u>Troubleshooting Distorted Audio for Windows 10 and 7 Users: Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd6windowsandmac/"><u>フリーDVD再生ソフト6品紹介：使いやすさを考慮したWindows&Mac用ソフト選手権【プレイ方法も解説】</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cut-through-competition-advanced-techniques-for-instagram-ready-videos/"><u>[New] In 2024, Cut Through Competition Advanced Techniques for Instagram-Ready Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-your-virtual-self-the-art-of-replicating-oneself-on-tiktok/"><u>[Updated] 2024 Approved Elevate Your Virtual Self The Art of Replicating Oneself on TikTok</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-effortless-link-upload-on-instagrams-social-sphere-for-2024/"><u>[Updated] Effortless Link Upload on Instagram's Social Sphere for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963584673-approach-discuss-the-impact-of-temperature-on-the-hydration-reaction-and-concrete-properties/"><u>Approach: Discuss the Impact of Temperature on the Hydration Reaction and Concrete Properties.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-mp4-editing-software-of-2024-top-11-picks-for-video-enthusiasts/"><u>Best Free MP4 Editing Software of 2024 - Top 11 Picks for Video Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-a-64gb-drive-manage-large-video-files-for-2024/"><u>Can a 64GB Drive Manage Large Video Files for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertidor-gratuito-on-line-de-mp3-a-m4a-guia-completa-con-movavi/"><u>Convertidor Gratuito On-Line De MP3 a M4A: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertis-votre-image-webp-en-jpg-rapidement-sans-cout-demo-online-de-movavi/"><u>Convertis Votre Image Webp En Jpg Rapidement Sans Coût - Démo Online De Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descongelar-archivos-mp4-como-convertir-videos-de-3gpp-a-linea-libre-gratuita-movavi/"><u>Descongelar Archivos MP4: Cómo Convertir Videos De 3GPP a Línea Libre Gratuita - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ending-the-nuisance-a-guide-to-blocking-unsolicited-messages-on-your-iphone/"><u>Ending the Nuisance: A Guide to Blocking Unsolicited Messages on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-online-converter-voor-arw-en-png-efficient-omzijdig-werken-met-behulp-van-de-movavi-toolset/"><u>Gratis Online Converter Voor ARW en PNG: Efficiënt Omzijdig Werken Met Behulp Van De Movavi Toolset</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-8t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 8T To Phone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/image-excellence-showdown-unveiling-the-best-qualities-between-png-and-jpg/"><u>Image Excellence Showdown: Unveiling the Best Qualities Between PNG and JPG</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-audacity-for-professional-sound-capture/"><u>In 2024, Mastering Audacity for Professional Sound Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-video-editing-software-tools-to-transform-your-footage-into-stunning-visuals/"><u>Top Video Editing Software: Tools to Transform Your Footage Into Stunning Visuals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-ts-en-video-mkv-online-sin-costo-una-guia-completa-sobre-movavi/"><u>Transforma TS en Vídeo MKV Online Sin Costo: Una Guía Completa Sobre Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-for-rapid-ipod-song-migration-achieve-seamless-transfers/"><u>Ultimate Step-by-Step for Rapid iPod Song Migration – Achieve Seamless Transfers!</u></a></li>
 </ul></div>
 

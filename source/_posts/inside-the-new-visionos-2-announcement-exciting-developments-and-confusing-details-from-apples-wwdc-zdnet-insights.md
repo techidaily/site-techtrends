@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-11-03T04:22:28.002Z
-updated: 2024-11-07T18:39:18.552Z
+date: 2024-11-12T17:03:52.140Z
+updated: 2024-11-18T16:17:09.784Z
 tags:
   - apple
 categories:
@@ -56,13 +56,6 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -72,10 +65,10 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -85,16 +78,10 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -107,6 +94,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1599a1fd-b080-4e5b-ae5c-a67c38755459%7Cdtp&dtb=1). 
@@ -114,6 +108,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -124,19 +125,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -191,22 +179,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics-for-2024/"><u>[New] Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-highlight-your-pc-gaming-6-effective-screen-methods/"><u>[Updated] In 2024, Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-investigating-the-upside-down-issue-on-instavideos/"><u>2024 Approved Investigating the Upside-Down Issue on InstaVideos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-strategies-for-protecting-personal-information-online/"><u>Android Strategies for Protecting Personal Information Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-traditional-cable-with-modern-streaming-platforms/"><u>Comparing Traditional Cable with Modern Streaming Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-unveiling-the-top-features-of-recuva-leading-file-restoration-software/"><u>Comprehensive Guide: Unveiling The Top Features Of Recuva - Leading File Restoration Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-no-cost-shared-dns-services-online/"><u>Discover the Best No-Cost, Shared DNS Services Online</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-v39-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson V39 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-honor-magic-5-lite-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Honor Magic 5 Lite Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts/"><u>In 2024, Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/investigating-xbox-live-downtime-identifying-if-its-network-wide-or-specific-to-your-setup/"><u>Investigating Xbox Live Downtime - Identifying if It's Network-Wide or Specific to Your Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-technology-a-deep-dive-into-toms-computer-analysis/"><u>Mastering Technology: A Deep Dive Into Tom's Computer Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/personalized-phone-selection-why-iphone-might-be-right-or-maybe-not-compared-to-android/"><u>Personalized Phone Selection: Why iPhone Might Be Right, Or Maybe Not – Compared to Android</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-remotely-clear-iphones-and-ipads-of-sensitive-information/"><u>The Ultimate Guide to Remotely Clear iPhones & iPads of Sensitive Information</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-ultimate-credit-cards-for-e-commerce-purchases-expert-reviews-by-zdnet/"><u>Top 5 Ultimate Credit Cards for E-Commerce Purchases - Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/universal-access-guide-sync-icloud-pictures-across-apple-windows-and-android-gadgets/"><u>Universal Access Guide: Sync iCloud Pictures Across Apple, Windows, and Android Gadgets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-creativity-top-10-secrets-from-canva-pros/"><u>[New] Maximize Creativity - Top 10 Secrets From Canva Pros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieve-gentle-edges-in-photo-sharpening-for-2024/"><u>Achieve Gentle Edges in Photo Sharpening for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-practices-for-keeping-your-mechanical-keyboard-spotless-and-functional/"><u>Best Practices for Keeping Your Mechanical Keyboard Spotless and Functional</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dynamic-movement-synopsis-overview/"><u>Dynamic Movement Synopsis Overview</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/escalate-your-channel-with-a-swift-move-towards-youtube-partner-status-for-2024/"><u>Escalate Your Channel with a Swift Move Towards YouTube Partner Status for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-n55-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme Narzo N55 FRP Locks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-pair-your-television-with-a-samsung-soundbar-device/"><u>How to Successfully Pair Your Television with a Samsung Soundbar Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-craft-perfecting-podcast-trailer-production/"><u>In 2024, Mastering the Craft Perfecting Podcast Trailer Production</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-13t-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi 13T Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-sleuths-unite-free-beats-tracking-tools/"><u>In 2024, Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-smarter-with-windows-the-step-by-step-process-for-turning-on-the-finders-path-bar-feature/"><u>Navigate Smarter with Windows: The Step-by-Step Process for Turning on the Finders Path Bar Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-5-highly-recommended-video-editors-unveiled/"><u>The Ultimate List: 5 Highly Recommended Video Editors Unveiled</u></a></li>
 </ul></div>
 

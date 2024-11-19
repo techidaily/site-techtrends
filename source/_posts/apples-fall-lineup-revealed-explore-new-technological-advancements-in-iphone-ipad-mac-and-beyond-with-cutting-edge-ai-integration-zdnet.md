@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2024-10-30T09:41:21.920Z
-updated: 2024-11-02T05:42:47.988Z
+date: 2024-11-13T23:57:40.696Z
+updated: 2024-11-19T02:10:21.461Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -101,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -120,6 +113,13 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -143,10 +143,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -218,24 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-essential-3d-toolkit-creating-engaging-video-beginnings-for-2024/"><u>[Updated] Essential 3D Toolkit Creating Engaging Video Beginnings for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-resizing-youtube-images-step-by-step-guide/"><u>[Updated] In 2024, Resizing YouTube Images Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-connoisseurs-guide-to-whatsapp-mastery/"><u>[Updated] The Connoisseur's Guide to WhatsApp Mastery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-you-having-trouble-on-roblox-distinguishing-between-a-widespread-outage-and-individual-connectivity-issues/"><u>Are You Having Trouble on Roblox? Distinguishing Between a Widespread Outage and Individual Connectivity Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-top-6-classic-mario-adventures-on-pc-an-ultimate-collection/"><u>Best Top 6 Classic Mario Adventures on PC: An Ultimate Collection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bypassing-and-repairing-code-31-problems-expert-tips-for-windows-users/"><u>Bypassing and Repairing Code 31 Problems: Expert Tips for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-default-login-credentials-for-d-link-routers-july-2024-edition/"><u>Comprehensive Guide: Default Login Credentials for D-Link Routers - July 2024 Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-links-latest-graphics-drivers-for-the-nvidia-gtx-980-ti/"><u>Direct Links: Latest Graphics Drivers for the NVIDIA GTX 980 Ti</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dive-into-digital-viewing-access-an-array-of-films-and-series-at-zero-cost-with-crackle/"><u>Dive Into Digital Viewing: Access an Array of Films and Series at Zero Cost with Crackle</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-when-wmvcoredll-is-nowhere-found-an-in-depth-tutorial/"><u>Effective Fixes for When Wmvcore.dll Is Nowhere Found: An In-Depth Tutorial</u></a></li>
-<li><a href="https://article-tips.techidaily.com/harmony-match-maker-for-2024/"><u>Harmony Match Maker for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/harnessing-power-down-magic-for-w10w11-on-standby/"><u>Harnessing Power-Down Magic for W10/W11 on Standby</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 13 Pro and iPad</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-luts-guide-to-professional-movie-coloring/"><u>In 2024, Luts Guide to Professional Movie Coloring</u></a></li>
-<li><a href="https://techtrends.techidaily.com/monitoring-your-internet-bandwidth-a-step-by-step-guide/"><u>Monitoring Your Internet Bandwidth: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-issues-is-aol-mail-down-or-are-you-facing-connection-problems/"><u>Navigating Through Issues: Is AOL Mail Down or Are You Facing Connection Problems?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-shelldll-errors-tips-for-recovering-or-repairing-missing-components/"><u>Overcoming the Shell.dll Errors: Tips for Recovering or Repairing Missing Components</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965405555-updated-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alt/"><u>Updated Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-freedom-across-borders-an-insight-into-t-mobile-metro-unlimited-roaming-guidelines/"><u>Wireless Freedom Across Borders: An Insight Into T-Mobile Metro Unlimited Roaming Guidelines</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-best-screen-grabber-gadgets-for-youtube-channels/"><u>[Updated] Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-on-adding-straight-lines-into-your-document-using-word/"><u>Easy Tutorial on Adding Straight Lines Into Your Document Using Word</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-privacy-settings-tutorial-for-altering-facebook-login-details/"><u>Enhancing Privacy Settings: Tutorial for Altering Facebook Login Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-installing-the-current-windows-os-on-your-just-unboxed-hard-drive/"><u>Expert Advice: Installing the Current Windows OS on Your Just-Unboxed Hard Drive</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-windows-maintenance-a-comprehensive-tutorial-on-applying-the-check-disk-chkdsk-utility/"><u>Navigating Windows Maintenance: A Comprehensive Tutorial on Applying the Check Disk (Chkdsk) Utility</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-vn-video-editor-on-mac-download-install-or-explore-alternatives/"><u>New VN Video Editor on Mac Download, Install, or Explore Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfecting-iphone-timelapse-techniques/"><u>Perfecting iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pinpointing-your-place-in-youtubes-varied-landscapes-for-2024/"><u>Pinpointing Your Place in YouTube's Varied Landscapes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-mkv-deck-for-pcandroid-users/"><u>Prime MKV Deck for PC/Android Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-code-43-issues-a-comprehensive-guide/"><u>Resolving Code 43 Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-restoring-voice-chat-functionality-in-among-us-on-desktop-systems/"><u>Step-by-Step Solutions: Restoring Voice Chat Functionality in Among Us on Desktop Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-voice-guidance-functionality-on-samsung-televisions-easily/"><u>Turning Off Voice Guidance Functionality on Samsung Televisions Easily</u></a></li>
 </ul></div>
 
