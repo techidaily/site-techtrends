@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-11-18T02:41:58.067Z
-updated: 2024-11-19T01:59:12.756Z
+date: 2024-11-14T23:09:56.076Z
+updated: 2024-11-19T17:56:08.872Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -87,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -106,19 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -142,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -174,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,24 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-potential-profile-video-elevation-for-2024/"><u>[New] Unleashing Potential Profile Video Elevation for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-down-heres-how-to-prevent-sudden-game-shutdowns/"><u>COD: Warzone Pacific Down? Here's How to Prevent Sudden Game Shutdowns</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converte-swf-a-formato-gif-gratuitamente-il-metodo-facile-di-movavi/"><u>Converte SWF a Formato GIF Gratuitamente: Il Metodo Facile Di Movavi!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cortando-e-editando-videos-no-android-com-movil-de-forma-rapida-e-facil-tutoriais-completos-do-movavi/"><u>Cortando E Editando Videos No Android Com Móvil De Forma Rápida E Fácil – Tutoriais Completos Do Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-pacific-drive-malfunctions-a-user-friendly-guide-to-resolving-pc-software-crashes/"><u>Diagnosing Pacific Drive Malfunctions: A User-Friendly Guide to Resolving PC Software Crashes</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-motorola-razr-40-ultra-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Razr 40 Ultra Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-m4v-to-mp3-conversion-software-explore-movavis-easy-solution/"><u>Free, Online M4V-to-MP3 Conversion Software - Explore Movavi's Easy Solution!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a14-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A14 4G Phones with/without a PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-download-youtube-videos-without-any-software-13-proven-ways/"><u>How to Download YouTube Videos without Any Software [13 Proven Ways]</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-catch-the-flame-ideas-for-unbroken-snapstreaks/"><u>In 2024, Catch the Flame - Ideas for Unbroken Snapstreaks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-operasyonlari-boluyoruz-movavi-etkinlestirme-soylencekleri/"><u>Mac Operasyonlari Bölüyoruz: Movavi Etkinleştirme Söylencekleri</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp3-file-transformation-service-no-cost-instantly-on-the-web-with-movavi/"><u>MP3 File Transformation Service: No Cost, Instantly On The Web with Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-gratis-konvertereeren-van-wma-naar-flac-formaat-movavi/"><u>Online Gratis Konvertereeren Van WMA Naar FLAC-Formaat - Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premier-online-streaming-options-for-real-time-sports-viewership/"><u>Premier Online Streaming Options for Real-Time Sports Viewership</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-find-n3-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Find N3 and Browser | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/section-2b-fact5/"><u>Section 2B: Fact.5</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-creatives-handbook-obtaining-stock-visuals-for-media-for-2024/"><u>The Creative's Handbook Obtaining Stock Visuals for Media for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-the-best-windows-n-based-slide-show-applications-ranking-top-14/"><u>The Ultimate Guide to the Best Windows N-Based Slide Show Applications: Ranking Top 14</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-websites-pour-downloader-des-subtitres-de-series-et-films/"><u>Top 10 Websites Pour Downloader Des Subtitres De Series Et Films</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instantly-share-selfies-the-step-by-step-walkthrough-for-2024/"><u>[New] Instantly Share Selfies The Step-by-Step Walkthrough for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-10-best-free-mmorpg-games-you-can-find/"><u>[New] Top 10 Best Free MMORPG Games You Can Find</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-step-by-step-guide-to-uploading-videos-on-youtube/"><u>[Updated] 2024 Approved The Ultimate Step-by-Step Guide to Uploading Videos on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-free-youtube-end-screen-templates/"><u>[Updated] In 2024, Free YouTube End Screen Templates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bumble-dating-hacks-what-to-do-when-youre-not-getting-any-matches/"><u>Bumble Dating Hacks: What to Do When You're Not Getting Any Matches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-apples-emergency-broadcast-messages-on-your-iphone/"><u>Disabling Apple's Emergency Broadcast Messages on Your iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-modern-wifi-protocols-unveiling-the-secrets-of-80211be-ax-ac-bgn-and-a/"><u>In-Depth Analysis of Modern WiFi Protocols: Unveiling the Secrets of 802.11Be, Ax, Ac, B/G/N and A</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-look-at-the-expected-specs-and-release-of-samsungs-galaxy-z-fold-7-news-update-with-rumored-details/"><u>In-Depth Look at the Expected Specs and Release of Samsung's Galaxy Z Fold 7 – News Update with Rumored Details</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-text-adventure-games-using-chatgpt-for-enhanced-player-experience/"><u>Mastering the Art of Text Adventure Games Using ChatGPT for Enhanced Player Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-dciman32dll-file-not-detected-a-comprehensive-guide/"><u>Solving 'dciman32.dll' File Not Detected: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vlc-challenge-against-mx-player/"><u>VLC Challenge Against MX Player</u></a></li>
 </ul></div>
 

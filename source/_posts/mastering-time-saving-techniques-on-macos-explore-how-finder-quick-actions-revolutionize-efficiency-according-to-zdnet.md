@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-11-17T00:28:36.860Z
-updated: 2024-11-18T17:03:21.488Z
+date: 2024-11-12T17:54:32.674Z
+updated: 2024-11-19T22:02:12.418Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -51,6 +51,13 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -62,16 +69,10 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tools for my daily flow
@@ -104,13 +105,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -126,6 +120,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -190,13 +191,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -205,13 +199,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -263,6 +250,13 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -292,16 +286,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-silent-shifts-mastering-crossfades-efficiently/"><u>[New] Silent Shifts Mastering Crossfades Efficiently</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-comprehensive-guide-to-business-on-snapchat/"><u>[Updated] A Comprehensive Guide to Business on Snapchat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/aiffwavmovavi/"><u>簡便優雅的AIFF至WAV格式改變：Movavi無限制線上轉換器指南</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banishing-display-glitches-tips-and-tricks/"><u>Banishing Display Glitches: Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-flv-file-conversion-easy-safe-and-secure-with-movavi-video-editor/"><u>Free FLV File Conversion - Easy, Safe & Secure with Movavi Video Editor</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-13-pro-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 13 Pro Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-shape-viral-memes-using-adobe/"><u>In 2024, Shape Viral Memes Using Adobe</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iyi-ozellikler-var-hi-techtir-ve-ucretsiz-movavinin-21-farkli-yenilenebilirusun-ip-kameralari/"><u>İyi Özellikler Var, Hi-Tech'tir Ve Ücretsiz: Movavi'nin 21 Farklı Yenilenebilirüşün IP Kameraları</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/originality-awaits-create-unique-business-logos-with-template-editing/"><u>Originality Awaits Create Unique Business Logos with Template Editing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-5-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT 5 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-aac-tracks-into-mp4-with-our-no-cost-online-tool-by-movavi/"><u>Transform Your AAC Tracks Into MP4 with Our No-Cost Online Tool by Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-channel-titling-101-the-quest-for-an-original-label/"><u>[New] 2024 Approved Channel Titling 101 The Quest for an Original Label</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breathe-life-into-images-step-by-step-text-editing-guide/"><u>[New] Breathe Life Into Images Step-by-Step Text Editing Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-rapid-route-learning-the-ins-and-outs-of-insta-talks/"><u>[New] Rapid Route Learning the Ins and Outs of Insta Talks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2023-quick-share-tweeted-videos-for-whatsapp/"><u>[Updated] 2023 Quick Share Tweeted Videos for WhatsApp</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>[Updated] In 2024, The Complete Blueprint Record WhatsApp Conversations Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-unveiled-how-this-ai-is-transforming-natural-language-processing/"><u>ChatGPT Unveiled: How This AI Is Transforming Natural Language Processing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-msstdfmtdll-is-missing-or-not-found-errors/"><u>How to Fix Msstdfmt.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-blue-yeti-mic-not-detected-issues-quickly-and-easily/"><u>How to Resolve 'Blue Yeti Mic Not Detected' Issues Quickly and Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-finding-disappeared-emails-on-gmail-a-comprehensive-tutorial/"><u>Master the Art of Finding Disappeared Emails on Gmail - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfect-tape-mac-based-recording-for-2024/"><u>Perfect Tape Mac-Based Recording for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/roku-roaming-guide-keeping-your-entertainment-alive-while-traveling-or-studying-abroad/"><u>Roku Roaming Guide: Keeping Your Entertainment Alive While Traveling or Studying Abroad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequencing-the-ultimate-sci-fi-saga-the-right-way-to-experience-the-matrix-trilogy/"><u>Sequencing the Ultimate Sci-Fi Saga: The Right Way to Experience The Matrix Trilogy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-connection-issues-a-guide-to-troubleshooting-your-stadia-gaming-headset/"><u>Solving Connection Issues: A Guide to Troubleshooting Your Stadia Gaming Headset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-d3dx930dll-file-not-found-step-by-step-guide/"><u>Solving the d3dx9_30.dll File Not Found: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-abilities-with-16-complimentary-sign-language-resources/"><u>Transform Your Abilities with 16 Complimentary Sign Language Resources</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-on-or-off-your-pcs-network-discovery-feature-with-windows-groopwin11/"><u>Turn On or Off Your PC's Network Discovery Feature with Windows groop.win11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
 </ul></div>
 

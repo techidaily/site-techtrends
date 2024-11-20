@@ -1,7 +1,7 @@
 ---
 title: The Legacy of Yahoo! Messenger and Insights Into What Led to Its Closure
-date: 2024-09-05T11:47:16.349Z
-updated: 2024-09-06T11:47:16.349Z
+date: 2024-11-16T23:49:46.596Z
+updated: 2024-11-19T22:42:48.539Z
 categories:
   - BestProducts
 description: This Article Describes The Legacy of Yahoo! Messenger and Insights Into What Led to Its Closure
@@ -9,18 +9,6 @@ excerpt: This Article Describes The Legacy of Yahoo! Messenger and Insights Into
 thumbnail: https://www.lifewire.com/thmb/3mm_dM6h5KbNMD16kmjaUSnjazs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-logo-dfc499edd19d406494a61176de29453b.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore the Best and Brightest iMessage Games of 2024
  All iMessage games are turn-based, so you and your friends can play leisurely. Some games below are iMessage exclusives, while others can be played outside the app. If you are unfamiliar with iMessage gaming, we'll show you how it works.
 
@@ -32,12 +20,6 @@ _If you click on links we provide, we may receive compensation._
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Word Game Tournaments for iMessage: Boggle With Friends](https://www.zynga.com/games/boggle-with-friends/)
 
 ![Boggle With Friends app](https://www.lifewire.com/thmb/xsc9WhxFFWVTf-Fdnhii-kY5wX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_best-imessage-games-2018-4176445-5c736d1b3b2441eb8681e80bdb12127a.jpg)
@@ -65,11 +47,12 @@ of 07
 ![Game Pigeon app for iMessage](https://www.lifewire.com/thmb/jbD4WokUSaGl5CFnj2NSV3RDNWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-imessage-games-2018-4176445-d0028c3554c14c2f89c52741e32cf15e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  What We Like
 
 * Frequent updates include new games and bug fixes.
@@ -94,12 +77,6 @@ of 07
 
 ![Cobi Hoops for iMessage](https://www.lifewire.com/thmb/EUEaACDrrC-DUdyKNm5F9d5U36U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-imessage-games-2018-4176445-28684eb52cee4ba1a4eacc96b35d27d8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Lots of cool characters and courts.
@@ -121,6 +98,19 @@ of 07
 ## [Best iMessage Chess Game: Checkmate!](https://apps.apple.com/app/id1143204905)
 
 ![Checkmate! for iMessage](https://www.lifewire.com/thmb/YAwb50eJDF0J1xKhVVsymSlxwPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_best-imessage-games-2018-4176445-6e27040ee0334eca905354dcb59b79d6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -145,6 +135,13 @@ of 07
 
 ![WIT Puzzles app for iMessage](https://www.lifewire.com/thmb/ao-dOdN2BASuiCO0HyeOFVteEsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010_best-imessage-games-2018-4176445-f2ecc07924ef488f9ffa1d62da8e904f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What We Like
 
 * Make puzzles as simple or complex as you like.
@@ -163,22 +160,10 @@ _WIT Puzzles_ turns your photos into slide puzzles for your friends to unscrambl
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Best Icebreaker Game for iMessage: Truth Truth Lie](https://truthtruthlie.co/)
 
 ![Truth Truth Lie app for iMessage](https://www.lifewire.com/thmb/zke4O_mQS1ibr8X1Ee2u1PGkyYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_best-imessage-games-2018-4176445-41f30965c86440ce842f4ef11db1c0e2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Text-only mode if you don't feel like recording videos.
@@ -198,27 +183,16 @@ of 07
 of 07
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## [Air Hockey With a Twist: Let's Puck It!](https://apps.apple.com/app/lets-puck-it/id1163033961)
 
 ![Let's Puck It! app for iMessage](https://www.lifewire.com/thmb/5vzBEYum7O1TKZFvmHqdHQRaicM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-imessage-games-2018-4176445-eef48fecf87b445f99a3a24e2a82034f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * An interesting concept with lots of possibilities.
@@ -232,6 +206,19 @@ of 07
 _Let’s Puck It!_ puts an interesting spin on an old American pastime by encouraging players to wager bets. You can choose from a list of options like “loser buys dinner,” or you can make up your own stakes. Be careful what you wager because the pace of the puck increases with every volley.
 
 [Download Let's Puck It!](https://apps.apple.com/app/lets-puck-it/id1163033961)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get iMessage Games
 
@@ -247,11 +234,12 @@ _Let’s Puck It!_ puts an interesting spin on an old American pastime by encour
 ![Downloading iMessage games on an iPhone](https://www.lifewire.com/thmb/NyUyS4sS2l4N7s41wdvAWyaKIiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Download-iMessage-Game-227e0b0ecd064c8e99a78b92ae6588a8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Play iMessage Games
 
  After downloading your game of choice, it's added to the end of your apps list. To challenge your friends within iMessage:
@@ -294,8 +282,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +289,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-artistry-at-heart-best-10-free-easy-mac-drawers/"><u>[New] 2024 Approved Artistry at Heart Best 10 Free, Easy Mac Drawers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-lighted-paths-guiding-viewers-with-intelligent-illumination/"><u>[New] Lighted Paths Guiding Viewers with Intelligent Illumination</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pioneering-techniques-in-the-world-of-gif-animation/"><u>[New] Pioneering Techniques in the World of GIF Animation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unique-and-effective-the-best-username-options-to-dominate-tiktok-for-2024/"><u>[New] Unique and Effective The Best Username Options to Dominate TikTok for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[Updated] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-to-view-snapchats-ai-as-essential-not-extras/"><u>6 Reasons to View Snapchat's AI as Essential, Not Extras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-productivity-anywhere-anytime-with-carry-on-server-high-performance-ampere-altra-cpu-and-unprecedented-memory-specs-for-tech-enthusiasts/"><u>Boost Your Productivity Anywhere, Anytime with Carry-On Server - High Performance Ampere Altra CPU & Unprecedented Memory Specs for Tech Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-tech-ageism-how-apple-defines-vintage-and-obsolete-devices-insights-from-zdnet/"><u>Decoding Tech Ageism: How Apple Defines Vintage and Obsolete Devices | Insights From ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-allow-website-data-storage-in-your-browser-a-beginners-guide-to-enabling-cookies/"><u>Easy Steps to Allow Website Data Storage in Your Browser - A Beginner's Guide to Enabling Cookies</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-multi-port-hubs-for-next-gen-games/"><u>Elite Multi-Port Hubs for Next-Gen Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-how-to-perform-a-soft-reset-for-your-apple-watch-insights-technicians/"><u>Expert Advice on How to Perform a Soft Reset for Your Apple Watch – Insights Technicians</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s18-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S18 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-challenges-of-iphone-ios-18-upgrade-insights-and-regrets-from-a-community-perspective/"><u>Navigating the Challenges of iPhone iOS 18 Upgrade: Insights and Regrets From a Community Perspective</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-leading-microsoft-enterprise-solutions-for-ios-in-2n-expert-picks/"><u>Top 10 Leading Microsoft Enterprise Solutions for iOS in 2N - Expert Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-comparison-pros-pick-for-leading-2024-keyboards-as-tested-by-professionals-reviews/"><u>Ultimate Comparison: Pro's Pick for Leading 2024 Keyboards as Tested by Professionals Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-progress-in-artificeal-intelligence-discover-new-features-and-potential-applications-analyzed-by-zdnet/"><u>Unveiling Apple's Progress in Artificeal Intelligence: Discover New Features and Potential Applications | Analyzed by ZDNET</u></a></li>
+</ul></div>
 

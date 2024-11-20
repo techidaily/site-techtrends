@@ -1,7 +1,7 @@
 ---
 title: What Does '408 Request Timed Out' Mean? Fixing This Common Web Issue
-date: 2024-09-05T11:47:21.791Z
-updated: 2024-09-06T11:47:21.791Z
+date: 2024-11-18T22:16:02.152Z
+updated: 2024-11-19T19:00:53.875Z
 categories:
   - BestProducts
 description: This Article Describes What Does '408 Request Timed Out' Mean? Fixing This Common Web Issue
@@ -9,27 +9,9 @@ excerpt: This Article Describes What Does '408 Request Timed Out' Mean? Fixing T
 thumbnail: https://www.lifewire.com/thmb/xz29M1Fv0KDKfG7pWwK2_WgvmxA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/408-request-timeout-2622937-4e97e76cbdb348aabe122f25e7c55d12.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does a 502 Bad Gateway Issue Mean? A Simple Fixing Manual
  The 502 Bad Gateway error is an[HTTP status code](https://www.lifewire.com/http-status-codes-2625907) that means that one server on the internet received an invalid response from another server. These errors are completely independent of your particular setup, meaning that you could see one in_any_ browser, on_any_ operating system, and on_any_ device.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix a 502 Bad Gateway Error
 
  The 502 Bad Gateway error is often a network error between servers on the internet, meaning the problem wouldn't be with your computer or internet connection.
@@ -39,12 +21,6 @@ thumbnail: https://www.lifewire.com/thmb/xz29M1Fv0KDKfG7pWwK2_WgvmxA=/540x405/fi
 1. Try loading the URL again by pressing**F5** or**Ctrl+R** (**Command+R** on a Mac) on your keyboard, or by selecting the refresh/reload button.  
 ![Refresh icon in Microsoft Edge for Windows.](https://www.lifewire.com/thmb/E3Cq4H-UyVzA1LQ7iE07fn4CqgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-502-bad-gateway-error-653db64b803049ab9114d3323702afed.jpg)  
  While the 502 Bad Gateway error is usually indicating a networking error outside of your control, it could be extremely temporary. Trying the page again will often be successful.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Start a new browser session by closing all open browser windows and then opening a new one. Then try opening the web page again.  
  It's possible that the 502 error you received was due to an issue on your computer that occurred sometime during this use of your browser. A simple restart of the browser program itself could solve the problem.
 3. [Clear your browser's cache](https://www.lifewire.com/how-to-clear-cache-2617980) . Outdated or corrupted files that are being stored by your browser could be causing 502 Bad Gateway issues.  
@@ -57,12 +33,6 @@ thumbnail: https://www.lifewire.com/thmb/xz29M1Fv0KDKfG7pWwK2_WgvmxA=/540x405/fi
 5. Start your browser in Safe Mode: We have instructions for[Firefox](https://support.mozilla.org/en-US/kb/troubleshoot-firefox-issues-using-safe-mode#w%5Fhow-to-start-firefox-in-safe-mode) ,[Chrome](https://www.lifewire.com/incognito-mode-google-chrome-4103635) , or[Edge](https://www.lifewire.com/activate-inprivate-in-microsoft-edge-446308) . Running a browser in Safe Mode means to run it with default settings and without add-ons or extensions, including toolbars.  
 ![Internet Explorer safe mode screenshot](https://www.lifewire.com/thmb/MhzhtwxuT7_jyefXSGdVXzblwZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-mode-internet-explorer-5c62ec4b46e0fb0001f08f98.png)  
  Internet Explorer in Safe Mode.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the 502 error no longer appears when running your browser in Safe Mode, you know that some browser extension or setting is the cause of the problem. Return your browser settings to default and/or selectively disable browser extensions to find the root cause and permanently fix the problem.  
  A browser's Safe Mode is similar in idea to the Safe Mode in Windows but it's not the same thing. You do not need to start Windows in Safe Mode to run any browser in its particular "Safe Mode."
 6. Try another browser. Popular browsers include Firefox, Chrome, Edge, Opera, and Safari.  
@@ -80,17 +50,12 @@ thumbnail: https://www.lifewire.com/thmb/xz29M1Fv0KDKfG7pWwK2_WgvmxA=/540x405/fi
 12. Come back later. At this point in your troubleshooting, the 502 Bad Gateway error message is almost certainly an issue with either your ISP or with the website's network—one of the two parties might have even confirmed that for you if you contacted them directly. Either way, you're not the only one seeing the 502 error and so you'll need to wait until the problem is solved for you.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Does a 502 Bad Gateway Error Look Like?
 
  Each website can customize the 502 Bad Gateway. While it's fairly uncommon, different web servers_do describe this error differently_ .
@@ -113,17 +78,12 @@ thumbnail: https://www.lifewire.com/thmb/xz29M1Fv0KDKfG7pWwK2_WgvmxA=/540x405/fi
  When Google services, like Google Search or Gmail, are experiencing a 502 Bad Gateway, they often show_Server Error_ , or sometimes just_502_ , on the screen.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Causes a 502 Bad Gateway Error?
 
  Bad Gateway errors are often caused by issues between online servers that you have no control over. However, sometimes, there is no real issue but your browser_thinks_ there's one thanks to a problem with your browser, an issue with your home networking equipment, or some other in-your-control reason.
@@ -161,8 +121,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +128,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stepwise-instructions-for-enhancing-youtube-clips-in-wmm/"><u>[New] 2024 Approved Stepwise Instructions for Enhancing YouTube Clips in WMM</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-level-graphic-cards-for-4k-titles/"><u>[New] Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-which-live-stream-software-wins-exploring-obs-vs-streamlabs-for-2024/"><u>[New] Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-dissecting-the-importance-of-using-itop-for-capture/"><u>[Updated] In 2024, Dissecting the Importance of Using ITop for Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>2024 Approved Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-new-glasses-explained-cost-breakdown-innovative-capabilities-and-user-experience-insights-cybertech-daily/"><u>Apple's New Glasses Explained: Cost Breakdown, Innovative Capabilities & User Experience Insights | CyberTech Daily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing-for-2024/"><u>Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-hidden-gems-with-the-zte-blade-a3y-high-end-features-on-a-midrange-plan/"><u>Discovering Hidden Gems with The ZTE Blade A3Y: High-End Features on a Midrange Plan</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-fix-for-a-ps5-dualsense-that-wont-charge-a-step-by-step-guide/"><u>DIY Fix for a PS5 DualSense That Won’t Charge – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-find-the-msvcr100dll-file/"><u>Easy Fixes for When You Can't Find the MSVCR100.DLL File</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-konverteren-van-aac-naar-mp4-met-online-tool-movavi/"><u>Gratis Konverteren Van AAC Naar MP4 Met Online-Tool: Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13t-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13T Pro FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-apple-vision-pro-privacy-the-definitive-guide-to-setting-up-a-vpn-and-its-advantages-digitalsafetyhub/"><u>Protecting Apple Vision Pro Privacy: The Definitive Guide to Setting Up a VPN and Its Advantages | DigitalSafetyHub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-smartphone-bargains-unbeatable-iphone-promotions-in-july-2024-zdnets-roundup/"><u>Top Smartphone Bargains: Unbeatable iPhone Promotions in July 2024 - ZDNet's Roundup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Smartwatches : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+</ul></div>
 

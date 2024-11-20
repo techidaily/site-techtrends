@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2024-11-12T16:24:54.223Z
-updated: 2024-11-18T21:49:20.730Z
+date: 2024-11-12T18:07:32.973Z
+updated: 2024-11-19T16:36:16.913Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -24,10 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
  If you work with remote team members, you're probably familiar with Slack as a collaboration tool. But did you know that Slack also has a powerful, built-in task reminder system? Slack reminders are a great way to remember things like work tasks, personal appointments, or birthdays. Here's how it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Add a Reminder in Slack
@@ -37,13 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 1. To see how the command needs to be set up, log in to Slack and, in the comment field, type**/remind** . A pop-up will show you how to structure the command.  
 ![/remind in comment field](https://www.lifewire.com/thmb/JfagLg56YIHsOoAPjrF9H7yGFrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremind-5f0ca162e03b45e4aaf16a79ff623134.jpg)
 2. Always precede the name of the person with the**@** symbol or the name of the channel with the**#** symbol. If you're reminding yourself, just use**me** without the @ symbol. Follow the /remind command with the person you want to set the reminder for, the reminder, and the date for the reminder. Like this:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _/remind me "reminder" 4/29/2020 9:15 PM_  
 ![Reminder in Slack comment field](https://www.lifewire.com/thmb/Y_JaemDUyAZIyqIKuDZj3PtsRqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslackcommentfield-65f035cb01d248c89a768e5c87c5f919.jpg)  
@@ -56,13 +49,6 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Edit a Reminder in Slack
 
  Editing or updating a reminder takes a few extra steps, because you can't edit reminders directly. First, you need to find the reminder you want to edit, delete it, and then recreate it with your update.
@@ -72,10 +58,10 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 2. Select**Delete** next to the task you want to remove.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
@@ -91,8 +77,22 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Adding a reminder in Slack from a message](https://www.lifewire.com/thmb/Aof2e6hSv-K9tdZj-mb6_4JL1M0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremindmeaboutthis-76786ff068db4882884989ab933b45ca.jpg)
 2. To add a reminder from a message on the Slack app, long-press on the message and select**Remind Me** from the pop-up menu.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On the**Remind me** window, tap the time when you want to be reminded. Select**Custom** to set your own date, time, or custom reminder text.  
 ![Remind Me in Slack app](https://www.lifewire.com/thmb/5qXQiml1lToF3zCuFYZVOfTFy2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackappremindme-9ada02a06c2c490bb9fa654470dd6913.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  These reminders will show up in the Slackbot channel just like any of the other reminders that you've set for yourself using the /remind command.
 
@@ -125,22 +125,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-sound-effects-voice-customization-on-instagram/"><u>[New] Mastering Sound Effects Voice Customization on Instagram</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unveiling-aerial-precision-mavic-pro-analysis-for-2024/"><u>[New] Unveiling Aerial Precision - Mavic Pro Analysis for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-your-content-potential-with-youtubes-movie-maker/"><u>[Updated] In 2024, Unlock Your Content Potential with YouTube's Movie Maker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-creating-polished-family-home-movies-a-step-by-step-guide/"><u>1. Creating Polished Family Home Movies: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/complete-solution-stop-bluetooth-sound-hiccups-and-cracks-in-windows-10-and-11-systems/"><u>Complete Solution: Stop Bluetooth Sound Hiccups and Cracks in Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-video-files-free-of-charge-with-movavi-webm-to-wma-online-tool/"><u>Convert Video Files Free of Charge with Movavi - WebM to WMA Online Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-of-pgm-images-effortless-tools-and-techniques/"><u>Free Online Conversion of PGM Images: Effortless Tools & Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-change-mp4-files-to-avi-format-with-ease-movevavi/"><u>Free Online Converter: Change MP4 Files to AVI Format with Ease - MoveVavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-transform-your-gifs-into-mp4-videos-with-ease/"><u>Free Online Converter: Transform Your GIFs Into MP4 Videos with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-your-rmvb-files-in-mpeg-effortless-and-complimentary-service-by-movavi/"><u>Get Your RMVB Files in MPEG - Effortless and Complimentary Service by Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y78t Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-aiff-wmv/"><u>Movavi: 원격에서 AIFF, WMV 형식을 제공 대기 없이 바꾸기</u></a></li>
-<li><a href="https://techtrends.techidaily.com/professioneel-online-tga-naar-tiff-converter-gratis-bij-movavi/"><u>Professioneel Online TGA Naar TIFF-Converter - Gratis Bij Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/realtek-wireless-lan-driver-issue-in-windows-11107-fixed/"><u>Realtek Wireless LAN Driver Issue in Windows 11/10/7 [Fixed]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-your-usb-to-hdmi-link-isnt-working-fixes-and-tips/"><u>Why Your USB to HDMI Link Isn't Working: Fixes & Tips</u></a></li>
-<li><a href="https://win-net.techidaily.com/windows-serverhdd/"><u>システム保存のためのWindows ServerでのHDDバックアップマニュアル - 効率的解決法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-one-device-one-storage-transferring-files-smoothly/"><u>[New] In 2024, One Device, One Storage Transferring Files Smoothly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-media-mastery-youtube-vs-tiktoks-best-fit/"><u>[Updated] Media Mastery Youtube Vs. TikTok's Best Fit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/9-tips-to-become-an-instagram-star-for-2024/"><u>9 Tips to Become an Instagram Star for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-generational-fun-are-your-favorite-ps4-games-playable-on-the-latest-ps5/"><u>Cross-Generational Fun: Are Your Favorite PS4 Games Playable on the Latest PS5?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-for-a-smooth-mortal-kombat-11-experience-avoid-crashes-now/"><u>Easy Steps for a Smooth Mortal Kombat 11 Experience: Avoid Crashes Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964754541-ethical-harvesting-practices-to-ensure-sustainability-of-ophiocordyceps-sinensis-populations-in-the-wild/"><u>Ethical Harvesting Practices to Ensure Sustainability of Ophiocordyceps Sinensis Populations in the Wild.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-critical-boot-problems-a-comprehensive-walkthrough-of-ntldr-missing-errors/"><u>Fixing Critical Boot Problems: A Comprehensive Walkthrough of NTLDR Missing Errors</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-recognized-usb-in-windows-78-systems/"><u>Fixing Non-Recognized USB in Windows 7/8 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882617946-from-ebooks-to-hardcovers-the-ultimate-tech-guide-featuring-top-laptops-and-smartphones/"><u>From Ebooks to Hardcovers – The Ultimate Tech Guide Featuring Top Laptops and Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4v3g2-online-movavi/"><u>M4V/3G2 비디오를 무료로 Online 변환 - Movavi</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-the-migration-export-process-for-recovered-edb-mailboxes-on-an-exchange-server/"><u>Mastering the Migration: Export Process for Recovered EDB Mailboxes on an Exchange Server</u></a></li>
+<li><a href="https://facebook.techidaily.com/snapshot-source-ownership-after-upload/"><u>Snapshot Source: Ownership After Upload</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-for-amplifying-your-followers-on-twitter/"><u>Step-by-Step Strategies for Amplifying Your Followers on Twitter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-correct-order-for-viewing-every-star-trek-feature-film-beginners-guide/"><u>The Correct Order for Viewing Every Star Trek Feature Film - Beginners Guide.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-triple-monitor-display-on-your-pc/"><u>Ultimate Guide: Setting Up Triple Monitor Display on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-best-file-recovery-solution-an-expert-look-at-recuvas-capabilities/"><u>Unveiling the Best File Recovery Solution: An Expert Look at Recuva's Capabilities</u></a></li>
 </ul></div>
 

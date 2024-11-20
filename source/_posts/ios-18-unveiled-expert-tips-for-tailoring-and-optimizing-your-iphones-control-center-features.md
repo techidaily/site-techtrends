@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Unveiled: Expert Tips for Tailoring and Optimizing Your iPhone's Control Center Features"
-date: 2024-11-14T17:57:06.512Z
-updated: 2024-11-18T18:09:55.469Z
+date: 2024-11-17T21:24:43.092Z
+updated: 2024-11-19T20:25:26.192Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -52,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -76,6 +69,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,22 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-masterpieces-at-play-choosing-the-top-10-thrilling-games/"><u>[New] 2024 Approved Masterpieces at Play Choosing the Top 10 Thrilling Games</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-shielding-imagery-best-practices-for-instagram-photowatermarking/"><u>[New] In 2024, Shielding Imagery Best Practices for Instagram Photowatermarking</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-upgrade-your-sky-faring-with-these-11-essentials-for-2024/"><u>[New] Upgrade Your Sky-Faring with These 11 Essentials for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-driving-sales-not-just-views-monetizing-your-social-media-videos/"><u>2024 Approved Driving Sales, Not Just Views Monetizing Your Social Media Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enriching-video-storytelling-implement-3-vital-description-methods-on-instagram/"><u>2024 Approved Enriching Video Storytelling Implement 3 Vital Description Methods on Instagram</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/iosandroidpc4/"><u>動画とイメージのマスターフュージョン！【おすすめ】iOS/Android/PC用ビッド重ね合わせ強化アプリトップ4選をご紹介</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-gadgets-and-pc-hardware-from-toms-hq/"><u>Expert Insights on Gadgets and PC Hardware From Tom's HQ</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-computer-what-to-do-when-you-cant-find-gsdll32dll/"><u>Fix Your Computer: What to Do When You Can't Find gsdll32.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-navigate-chatting-seamlessly-with-mozilla-thunderbird-a-comprehensive-overview/"><u>How to Navigate Chatting Seamlessly with Mozilla Thunderbird - A Comprehensive Overview</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 7 Plus without Password?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-30-hashtags-propel-video-views-in-gameplay/"><u>In 2024, Top 30 Hashtags Propel Video Views in Gameplay</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-look-at-apples-personal-robotic-helper-rumored-pricing-launch-date-features-and-tech-insights/"><u>Inside Look at Apple's Personal Robotic Helper: Rumored Pricing, Launch Date, Features & Tech Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722898480698-mac-users-rejoice-how-to-reset-your-dns-records-effortlessly/"><u>Mac Users Rejoice: How to Reset Your DNS Records Effortlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/prioritize-your-purchase-key-considerations-for-buying-the-perfect-smart-tv/"><u>Prioritize Your Purchase: Key Considerations for Buying the Perfect Smart TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-notfoundlibcea32dll-error-messages-on-your-pc/"><u>Resolving NotFound_libcea32.dll Error Messages on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-restoring-unhidden-applications-on-an-iphone-device/"><u>The Ultimate Guide to Restoring Unhidden Applications on an iPhone Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-verifying-your-monthly-data-allowance-online/"><u>Understanding and Verifying Your Monthly Data Allowance Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-in-class-identifying-leading-screen-recording-for-macos/"><u>[New] In 2024, Best in Class Identifying Leading Screen Recording for macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-iphone-image-editing-learn-to-change-resolution/"><u>[New] In 2024, IPhone Image Editing Learn to Change Resolution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-tips-on-troubleshooting-frozen-obs-fullscreen-problem/"><u>[New] Tips on Troubleshooting Frozen OBS Fullscreen Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2360dw-printer-driver-software-download/"><u>Brother HL-L2360DW Printer Driver Software Download</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-to-solve-rainbow-six-siege-disconnected-from-server-issue/"><u>Effective Techniques to Solve Rainbow Six Siege Disconnected From Server Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-copy-features-in-windows-11-os/"><u>Enhancing Copy Features in Windows 11 OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correctly-handle-directinput-and-directx-dll-faults-in-windows/"><u>Expert Tips to Correctly Handle Directinput and DirectX Dll Faults in Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-premiered-patterns-for-panzoid-creation/"><u>In 2024, Premiered Patterns for Panzoid Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-streaming-services-for-musicians/"><u>In 2024, Superior Streaming Services for Musicians</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-the-upcoming-apple-watch-ultra-2-price-forecast-specs-breakdown-and-launch-rumors/"><u>Inside Look at the Upcoming Apple Watch Ultra 2: Price Forecast, Specs Breakdown & Launch Rumors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-methods-for-computer-based-vhs-artistic-touches/"><u>Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalizing-email-notification-sounds-on-gmail-for-a-fresh-user-experience/"><u>Personalizing Email Notification Sounds on Gmail for a Fresh User Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essentials-of-icmp-for-monitoring-site-connectivity-online/"><u>The Essentials of ICMP for Monitoring Site Connectivity Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2024-11-14T17:41:43.946Z
-updated: 2024-11-18T21:48:41.946Z
+date: 2024-11-15T20:40:31.800Z
+updated: 2024-11-19T16:15:11.440Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 Lipstick-sized charger
 
@@ -64,10 +71,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -79,10 +92,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -97,22 +110,15 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -149,21 +155,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-prime-mac-screen-capture-options-for-2024/"><u>[New] The Prime Mac Screen Capture Options for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>2024 Approved Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-10c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Spark 10C Unlock Without Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ai-powered-techniques-for-cleaner-sound-removing-unwanted-noise-from-your-recordings/"><u>AI-Powered Techniques for Cleaner Sound: Removing Unwanted Noise From Your Recordings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/carrie-marshall-professional-photographer-at-movavi-capture-your-perfect-moments/"><u>Carrie Marshall: Professional Photographer at Movavi - Capture Your Perfect Moments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-mov-files-to-wav-format-for-free-onlinevideoconvert/"><u>Convert MOV Files to WAV Format for Free - OnlineVideoConvert</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-fixes-for-a-stuck-chrome-browser-on-windows-10-devices/"><u>Effortless Fixes for a Stuck Chrome Browser on Windows 10 Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70e-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70E to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ignite-your-screenplay-essential-wins11-apps-and-games/"><u>In 2024, Ignite Your Screenplay Essential Wins11 Apps & Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-reviewing-videoshow-in-its-fullest-for-24-edition/"><u>In 2024, Reviewing VideoShow in Its Fullest for '24 Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-t2-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo T2 5G Device</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-correcting-execution-fault-messages-in-windows-11/"><u>Step-by-Step Guide to Correcting Execution Fault Messages in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranked-vob-video-player-reviews-your-ultimate-guide/"><u>Top-Ranked VOB Video Player Reviews: Your Ultimate Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transcode-webm-a-ogg-online-gratuitement-avec-movavi/"><u>Transcode WebM À OGG Online Gratuitement Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-webp-pictures-into-animated-gifs-easily-using-the-movavi-image-tool/"><u>Transform Your WebP Pictures Into Animated GIFs Easily Using the Movavi Image Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wma-3gp-tv/"><u>WMA에서 3GP로 스마트 TV 및 모바일 시켓기의 유용한 정기적인 무료 전환 도구</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-efficient-techniques-to-record-and-store-facebook-calls/"><u>[Updated] 2024 Approved Efficient Techniques to Record and Store Facebook Calls</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/control-your-windows-10-connectivity-tips-for-managing-network-discovery-settings/"><u>Control Your Windows 10 Connectivity: Tips for Managing Network Discovery Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722897128752-guide-to-turn-off-urgent-alerts-on-iphones-no-more-unwanted-interruptions/"><u>Guide to Turn Off Urgent Alerts on iPhones – No More Unwanted Interruptions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/immersive-puzzle-quests-for-iphoneipad-players-who-love-the-room-and-myst/"><u>Immersive Puzzle Quests for iPhone/iPad Players Who Love 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-look-at-the-fugetek-ft-568-the-ultimate-high-performance-selfie-stick/"><u>In-Depth Look at the Fugetek FT-568 - The Ultimate High-Performance Selfie Stick</u></a></li>
+<li><a href="https://fox-http.techidaily.com/innovative-acoustic-link-for-speakers/"><u>Innovative Acoustic Link for Speakers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-cloud-gaming-on-xbox-with-the-essential-game-pass-ultimate-guide/"><u>Mastering Cloud Gaming on Xbox with the Essential Game Pass Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-best-2024-tv-streaming-options-your-essential-guide/"><u>Navigating the Best 2024 TV Streaming Options – Your Essential Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/proving-ground-discovering-the-top-10-reel-making-apps-for-2024/"><u>Proving Ground Discovering the Top 10 Reel-Making Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-techniques-for-changing-your-devices-protective-glass-layer/"><u>Simple Techniques for Changing Your Device’s Protective Glass Layer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-fellowship-path-ensuring-you-see-the-lord-of-the-rings-movies-correctly/"><u>The Fellowship Path: Ensuring You See 'The Lord of the Rings' Movies Correctly</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-effortlessly-shift-your-iphone-images-to-a-usb-flash-drive-solo/"><u>Ultimate Guide: Effortlessly Shift Your iPhone Images to a USB Flash Drive Solo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-15-steps-for-your-iphone/"><u>Ultimate Troubleshooting Guide: 15 Steps for Your iPhone</u></a></li>
 </ul></div>
 

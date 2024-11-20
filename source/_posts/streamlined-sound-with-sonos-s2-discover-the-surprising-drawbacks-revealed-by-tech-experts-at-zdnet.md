@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-11-11T20:25:27.008Z
-updated: 2024-11-18T21:03:57.668Z
+date: 2024-11-16T19:52:40.138Z
+updated: 2024-11-19T20:59:10.630Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -54,16 +47,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -82,18 +69,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -105,24 +92,18 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -131,6 +112,13 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -174,20 +162,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-creating-captivating-podcast-launch-screens-for-2024/"><u>[New] Creating Captivating Podcast Launch Screens for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-dance-dictates-selecting-perfect-audio-visuals/"><u>[New] In 2024, Dance Dictates Selecting Perfect Audio-Visuals</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-videos-understanding-time-constraints/"><u>[New] Mastering Instagram Videos Understanding Time Constraints</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-9-virtual-mic-recorders-to-enhance-remote-sessions-23-for-2024/"><u>Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bringing-your-virtual-meetings-to-life-the-ultimate-guide-for-linking-zoom-to-tvs/"><u>Bringing Your Virtual Meetings to Life: The Ultimate Guide for Linking Zoom to TVs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-solution-correcting-the-d3dx924dll-missing-file-issue-on-windows/"><u>Complete Solution: Correcting the d3dx9_24.dll Missing File Issue on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-techniques-for-draining-moisture-in-iphone-audio-ports/"><u>Effective Techniques for Draining Moisture in iPhone Audio Ports</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exclusive-verizon-phone-refresh-bargains-for-this-period/"><u>Exclusive Verizon Phone Refresh Bargains for This Period</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-past-startup-errors-for-a-smooth-monster-hunter-rise-experience/"><u>Get Past Startup Errors for a Smooth Monster Hunter Rise Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-audio-issues-in-dying-light-expert-solutions-uncovered/"><u>How to Resolve Audio Issues in Dying Light – Expert Solutions Uncovered!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-x50-gt-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor X50 GT Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-coredll-absence-effective-solutions/"><u>Resolving Core.DLL Absence: Effective Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-discontinuing-use-of-paramountplus-entertainment-service/"><u>Ultimate Tips for Discontinuing Use of Paramount+ Entertainment Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-apple-personal-listening-device-revealed-price-forecast-and-launch-timeline-uncovered/"><u>Upcoming Apple Personal Listening Device Revealed – Price Forecast & Launch Timeline Uncovered</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-hd-picks-for-impeccable-video-recorders/"><u>[New] Premier HD Picks for Impeccable Video Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>[New] The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-essential-tips-for-snapchat-enterprise-marketing/"><u>[Updated] 2024 Approved Essential Tips for Snapchat Enterprise Marketing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[Updated] Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-slow-to-speed-boost-comparing-level-1-vs-level-2-vs-level-3-electric-vehicle-charging/"><u>From Slow to Speed Boost: Comparing Level 1 vs Level 2 vs Level 3 Electric Vehicle Charging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-boot-into-safe-mode-on-windows-11-explore-four-effective-strategies-and-images/"><u>Guide to Boot Into Safe Mode on Windows 11: Explore Four Effective Strategies and Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-buy-and-enjoy-virtual-reality-game-experiences-on-the-oculus-meta-quest-2/"><u>How to Buy and Enjoy Virtual Reality Game Experiences on the Oculus (Meta) Quest 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-your-nonfunctional-disc-drive-working-again-a-complete-walkthrough/"><u>How to Get Your Nonfunctional Disc Drive Working Again: A Complete Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-maintain-a-unified-phone-line-on-all-your-tech-devices/"><u>How to Maintain a Unified Phone Line on All Your Tech Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-intricacies-of-patch-tuesday-for-enhanced-digital-safety/"><u>Navigating the Intricacies of Patch Tuesday for Enhanced Digital Safety</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-correct-missing-jvmdll-file-error-on-your-computer/"><u>Steps to Correct Missing jvm.dll File Error on Your Computer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unleashing-the-full-potential-of-game-characters-with-voice-alteration-strategies-free/"><u>Unleashing the Full Potential of Game Characters with Voice Alteration Strategies (Free)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/upgrading-your-gpu-a-comprehensive-guide/"><u>Upgrading Your GPU: A Comprehensive Guide</u></a></li>
 </ul></div>
 

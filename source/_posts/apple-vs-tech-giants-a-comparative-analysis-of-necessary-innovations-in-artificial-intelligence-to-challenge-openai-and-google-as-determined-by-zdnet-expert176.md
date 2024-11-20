@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-11-17T19:38:55.006Z
-updated: 2024-11-18T23:44:01.248Z
+date: 2024-11-16T20:49:24.622Z
+updated: 2024-11-19T18:06:06.069Z
 tags:
   - apple
 categories:
@@ -60,6 +60,19 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +80,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +100,16 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -114,13 +126,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -130,6 +135,13 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -141,13 +153,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +170,19 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,16 +236,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/convert-raw-photos-to-png-for-free-effortless-image-editing-by-movavi/"><u>Convert RAW Photos to PNG for Free - Effortless Image Editing by Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-mp4-en-format-asf-avec-movavi/"><u>En Ligne : Convertissez Gratuitement Des Fichiers MP4 en Format ASF Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ferramenta-on-line-livre-para-converter-arquivos-ogv-em-mp4-com-movavi-comandos-simples-e-rapidos/"><u>Ferramenta On-Line Livre Para Converter Arquivos OGV Em MP4 Com Movavi - Comandos Simples E Rápidos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-png-konvertierung-mit-movavi-effektive-online-bildbearbeitungssoftware-fur-freigegebene-dateiubersetzungen/"><u>Gratis PNG Konvertierung Mit Movavi - Effektive Online-Bildbearbeitungssoftware Für Freigegebene Dateiübersetzungen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-14-plus-by-drfone-ios/"><u>How to Unlock Verizon iPhone 14 Plus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4-mka-movavi/"><u>MP4 표준으로 MKA 영상 변환하기 – 무가스 Movavi 도구를 사용한다</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-negative-space-how-to-flip-vids-on-instagram-for-2024/"><u>Navigating Negative Space How to Flip Vids on Instagram for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-tutorial-for-building-movies-on-windows-8/"><u>Step-by-Step Tutorial for Building Movies on Windows 8</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/0-history-youtube-channels-for-students-and-history-lovers-for-2024/"><u>Top 10 History YouTube Channels for Students & History Lovers for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-choosing-the-right-tablet-expert-evaluations-and-ratings/"><u>Ultimate Guide to Choosing the Right Tablet : Expert Evaluations and Ratings</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-tecno-camon-20-premier-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Tecno Camon 20 Premier 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-hack-the-art-world-essential-free-3d-psd-files/"><u>[New] Hack the Art World Essential Free 3D PSD Files</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming-for-2024/"><u>[Updated] From Novice to Notoriety Steps for a YouTube Channel in Gaming for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-snappy-sharing-uploading-and-publishing-short-videos-online/"><u>[Updated] In 2024, Snappy Sharing Uploading and Publishing Short Videos Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-hottest-templates-in-igs-vfx-community/"><u>[Updated] Navigating the Hottest Templates in IG's VFX Community</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-call-customization-applications-ranked/"><u>2024 Approved Essential Call Customization Applications Ranked</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-how-does-dts-play-fi-work/"><u>A Comprehensive Guide to How Does DTS Play-Fi Work?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-adding-unique-fonts-to-your-iphones-library/"><u>Complete Tutorial: Adding Unique Fonts to Your iPhone's Library</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-modify-the-geographic-zone-on-your-iphone-device-an-in-depth-guide/"><u>How to Modify the Geographic Zone on Your iPhone Device - An In-Depth Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/official-steps-for-combining-mobile-tech-with-oculus-quest-2-interface/"><u>Official Steps for Combining Mobile Tech with Oculus Quest 2 Interface</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/organization-local-scope/"><u>Organization-Local Scope</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premium-gadgets-for-less-discover-superior-tech-on-a-budget/"><u>Premium Gadgets for Less: Discover Superior Tech on a Budget</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-solutions-addressing-your-televisions-typical-glitches/"><u>Simple Solutions: Addressing Your Television's Typical Glitches</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-90-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 90</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-and-editing-damaged-epub-books/"><u>Ultimate Guide: Repairing and Editing Damaged EPUB Books</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2024-11-13T20:35:39.610Z
-updated: 2024-11-18T18:43:51.213Z
+date: 2024-11-17T23:46:22.218Z
+updated: 2024-11-19T16:29:02.956Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ In this article, I'll show you how to take both screenshots and screen recording
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -54,10 +54,10 @@ I prefer the second way, which is simply to ask Siri to take the shot. All you h
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -99,10 +99,10 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -152,22 +152,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-audacitys-blueprint-for-high-fidelity-sound-recording/"><u>[Updated] Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-enable-youtube-videos-to-self-play-on-facebook-for-2024/"><u>[Updated] How to Enable Youtube Videos to Self-Play on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-collab-videos-to-expand-viewership/"><u>[Updated] Mastering Collab Videos to Expand Viewership</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726223810015-webm-movavi/"><u>網路無限Webm格式自由變更 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726225731981-wondershare-filmora/"><u>真情实感的使用体验: Wondershare Filmora - 高效视频编辑器解析</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-xs-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone XS - 4 Easy Ways</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-flv-a-formato-avi-sin-coste-guia-completa-con-movavi/"><u>Cómo Convertir Archivos FLV a Formato AVI Sin Coste: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-crear-imagenes-con-fondo-transparente-en-photoshop/"><u>Cómo Crear Imágenes Con Fondo Transparente en Photoshop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-comprehensive-video-tutorials-on-topic-18c-learn-efficiently-for-windows-and-mac-users/"><u>Free Comprehensive Video Tutorials on Topic 18C - Learn Efficiently for Windows and Mac Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-mp3-to-ogg-converter-online-service-by-movavi/"><u>Free MP3 to Ogg Converter - Online Service by Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-video-converter-convert-wtv-to-mpeg-with-movavi/"><u>Free Online Video Converter: Convert WTV to MPEG with Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-g54-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola G54 5G Device</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timing-for-virality-in-video-content-sharing/"><u>In 2024, Strategic Timing for Virality in Video Content Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-producing-high-quality-gopro-time-lapse/"><u>In 2024, The Complete Guide to Producing High-Quality GoPro Time-Lapse</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformacion-gratis-y-rapida-convertir-archivos-m4v-a-mp4-con-herramienta-online-movavi/"><u>Transformación Gratis Y Rápida: Convertir Archivos M4V a MP4 Con Herramienta Online - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/adobes-quest-for-giggles-and-grins-for-2024/"><u>Adobe's Quest for Giggles and Grins for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/authenticate-seamlessly-resolving-android-smartphone-wifi-problems-effectively/"><u>Authenticate Seamlessly: Resolving Android Smartphone Wifi Problems Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chronological-tagging-adding-times-to-youtube-vids-for-2024/"><u>Chronological Tagging Adding Times to YouTube Vids for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-errors-how-to-address-incorrectly-installed-system-files-problems/"><u>Eliminating Errors: How to Address Incorrectly Installed System Files Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-fixing-a-504-error-from-the-server-side/"><u>Expert Advice on Fixing a 504 Error From the Server Side</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-top-documentaries-on-max-must-see-picks-for-july-2024/"><u>Explore Top Documentaries on Max: Must-See Picks for July 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-network-issues-with-this-simple-guide-flushing-dns-cache-on-mac-computers/"><u>Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-zte-nubia-flip-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On ZTE Nubia Flip 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ct-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear-for-2024/"><u>Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/qi2-wireless-charging-feature-unveiled-on-iphone-13-and-iphone-14/"><u>Qi2 Wireless Charging Feature Unveiled on iPhone 13 & iPhone 14</u></a></li>
+<li><a href="https://techtrends.techidaily.com/refine-your-visual-storytelling-optimizing-camera-functions-on-ios-devices/"><u>Refine Your Visual Storytelling: Optimizing Camera Functions on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-for-the-elusive-coredll-errors/"><u>The Ultimate Fixes for the Elusive 'Core.dll' Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-vos-fichiers-wmv-en-mp4-gratuitement-et-conservez-jusqua-98-de-qualite-des-aujourdhui/"><u>Transformez Vos Fichiers WMV en MP4 Gratuitement Et Conservez Jusqu'à 98% De Qualité Dès Aujourd'hui!</u></a></li>
 </ul></div>
 

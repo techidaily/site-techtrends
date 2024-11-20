@@ -1,7 +1,7 @@
 ---
 title: How To Upgrade To iOS 18 On Your iPhone? Featuring Eligible Device List and Step-by-Step Setup Process
-date: 2024-11-16T01:41:12.117Z
-updated: 2024-11-18T16:48:05.837Z
+date: 2024-11-14T17:08:26.018Z
+updated: 2024-11-19T18:24:26.217Z
 tags:
   - apple
 categories:
@@ -32,26 +32,32 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -66,22 +72,29 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -90,13 +103,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -169,16 +175,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-10plus-top-tips-for-accessing-the-best-of-international-cricket-online/"><u>[New] 10+ Top Tips for Accessing the Best of International Cricket Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-snapchat-blueprint-for-effective-marketing/"><u>[New] The Snapchat Blueprint for Effective Marketing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/12-proven-steps-for-free-conversion-from-cr2-to-jpeg-format/"><u>12 Proven Steps for Free Conversion From CR2 to JPEG Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-mp4-video-splitter-software-top-7-options-for-pc-and-mac-users/"><u>Best FREE MP4 Video Splitter Software: Top 7 Options for PC & Mac Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-image-converter-convert-raw-files-to-jpg-using-movavi-tool/"><u>Free Online Image Converter: Convert RAW Files to JPG Using Movavi Tool</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-process-of-purging-audio-content-in-the-latest-avi-codec/"><u>In 2024, The Process of Purging Audio Content in the Latest AVI Codec</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/scarica-ed-converti-file-mpegavi-in-formato-ogg-per-free-movavi-video-converter/"><u>Scarica Ed Converti File MPEG/AVI in Formato OGG per Free - Movavi Video Converter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-file-rmvb-in-formato-m4v-free-con-movavi/"><u>Trasforma File RMVB in Formato M4V Free Con Movavi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a34-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A34 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-designing-a-user-friendly-smart-home-for-everyone-in-the-household/"><u>Ultimate Guide: Designing a User-Friendly Smart Home for Everyone in the Household</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-complete-guide-for-powerdirector-experts-2024/"><u>[Updated] Complete Guide for PowerDirector Experts - 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-viral-velocity-on-instagram-leveraging-video-and-likes/"><u>2024 Approved Viral Velocity on Instagram Leveraging Video & Likes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/affordable-and-reliable-discover-the-best-online-passport-photo-apps/"><u>Affordable & Reliable Discover the Best Online Passport Photo Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-written-guide-on-incorporating-markup-features-in-youtube/"><u>Compre Written Guide on Incorporating Markup Features in YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-propsydll-not-detected-or-absent-issues-a-comprehensive-solution-guide/"><u>Fix PropsyDll Not Detected or Absent Issues: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-advanced-techniques-for-educators-lecture-capture-on-mac/"><u>In 2024, Advanced Techniques for Educator's Lecture Capture on Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-15-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 15 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888805182-jiri-voblizka-founder-crystal-microphone-for-his-contribution-to-czech-culture-by-radio-prague/"><u>Jiří Vobližka (Founder) – Crystal Microphone for His Contribution to Czech Culture by Radio Prague;</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/overview-of-dji-flyer-x20-virtual-reality-lenses/"><u>Overview of DJi Flyer X20 Virtual Reality Lenses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-dll-file-not-found-issues-a-step-by-step-guide/"><u>Solving 'DLL File Not Found' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-strategies-to-enhance-your-broadband-connection-speed/"><u>Top Strategies to Enhance Your Broadband Connection Speed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-eliminating-horizontal-line-distortions-from-your-monitor/"><u>Ultimate Guide: Eliminating Horizontal Line Distortions From Your Monitor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-automobile-audio-goes-silent/"><u>What to Do When Your Automobile Audio Goes Silent?</u></a></li>
 </ul></div>
 

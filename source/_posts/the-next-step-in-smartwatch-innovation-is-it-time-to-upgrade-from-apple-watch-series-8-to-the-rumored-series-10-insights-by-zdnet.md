@@ -1,7 +1,7 @@
 ---
 title: "The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET"
-date: 2024-11-18T02:00:02.378Z
-updated: 2024-11-18T22:56:14.441Z
+date: 2024-11-14T17:08:20.675Z
+updated: 2024-11-19T18:02:21.195Z
 tags:
   - apple
 categories:
@@ -65,38 +65,17 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 10 if...
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -105,6 +84,13 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 **Also:** [**The best smart rings: Expert tested**](https://www.zdnet.com/article/best-smart-ring/)
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
 
@@ -132,6 +118,13 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -140,6 +133,13 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C374aa0ec-30c1-4aa7-b971-abb67420fc33%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
@@ -147,10 +147,16 @@ A major reason you may be interested in the Series 8, even though it's now a few
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -187,20 +193,24 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-global-industrys-biggest-uav-lifters-the-ultimate-list/"><u>[New] Global Industry's Biggest UAV Lifters The Ultimate List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avi-mp3-online/"><u>AVI 파일을 MP3로 자유성 대상으로 원활한 바이트 전환 - ONLINE 제공</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversao-de-arquivos-do-qt-para-avi-livre-e-online-com-o-movavi/"><u>Conversão De Arquivos Do Qt Para AVI Livre E Online Com O Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-en-ligne-des-fichiers-ts-a-mp4-par-videoworks-service-gratuit-et-instantane/"><u>Conversion en Ligne Des Fichiers TS À MP4 Par Vidéoworks – Service Gratuit Et Instantané</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-libre-mpeg-en-mp4-sur-internet-solutions-rapides-par-movavi-pas-de-cout-implique/"><u>Conversion Libre MPEG en MP4 Sur Internet: Solutions Rapides Par Movavi - Pas De Coût Impliqué</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-differences-between-pal-and-ntsc-video-formats-explained/"><u>Exploring the Differences Between PAL and NTSC Video Formats Explained</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y28-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y28 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-trustworthy-tactics-for-multiplying-a-million-views-on-youtube/"><u>In 2024, Trustworthy Tactics for Multiplying a Million Views on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-windows-11-errors-how-sfc-and-dism-can-save-the-day/"><u>Navigating Windows 11 Errors: How SFC & DISM Can Save the Day</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-avidemux-essentials-how-to-crop-cut-and-enhance-your-videos/"><u>New In 2024, Avidemux Essentials How to Crop, Cut, and Enhance Your Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-problem-enable-and-fix-disabled-wireless-capabilities-easily/"><u>Overcoming the Problem: Enable and Fix Disabled Wireless Capabilities Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-ultimate-list-of-no-cost-4k-video-viewer-apps-compatible-with-windows-11-mac-osx-and-more/"><u>The Ultimate List of No-Cost 4K Video Viewer Apps Compatible with Windows 11, Mac OSX, and More!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-size-solution-to-boost-your-videos-online-performance-for-2024/"><u>The Ultimate Size Solution to Boost Your Video's Online Performance for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transmision-digital-sin-coste-convertir-archivo-mp4-en-mp3-en-internet-gratuitamente/"><u>Transmisión Digital Sin Coste - Convertir Archivo MP4 en MP3 en Internet Gratuitamente</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/k-the-potential-of-your-videos-with-profitable-advertising/"><u>Unlock the Potential of Your Videos with Profitable Advertising</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-5-game-ready-keyboards-under-100-a-comparison/"><u>[New] 2024 Approved Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-transform-meetings-with-easy-to-follow-zoom-sharing-tips-for-2024/"><u>[New] Transform Meetings with Easy-to-Follow Zoom Sharing Tips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enrich-meeting-experience-a-compilation-of-the-top-10-free-apps-for-2024/"><u>[Updated] Enrich Meeting Experience A Compilation of the Top 10 Free Apps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[Updated] From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-securing-sound-output-fixes-for-silent-obs-streams/"><u>[Updated] In 2024, Securing Sound Output Fixes for Silent OBS Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-illusions-video-meets-apple-music/"><u>2024 Approved Auditory Illusions Video Meets Apple Music</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unveiling-changes-in-sony-bdp-s670/"><u>2024 Approved Unveiling Changes in Sony BDP-S670</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-tutorial-on-setting-up-two-factor-authentication-in-gmail/"><u>A Comprehensive Tutorial on Setting Up Two-Factor Authentication in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/access-free-literature-the-ultimate-list-of-17-book-download-sites/"><u>Access Free Literature: The Ultimate List of 17 Book Download Sites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-cell-data-woes-discover-how-to-restore-and-improve-mobile-connectivity-on-your-wrist-device/"><u>Apple Watch Cell Data Woes? Discover How to Restore and Improve Mobile Connectivity on Your Wrist Device</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/como-solucionar-un-error-de-comando-atributo-inoperativo-con-estas-3-estrategias-eficientes/"><u>Cómo Solucionar Un Error De Comando Atributo Inoperativo Con Estas 3 Estrategias Eficientes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-solution-to-lameencdll-errors-within-your-audacity-lame-mp3-projects/"><u>Decoding the Solution to lame_enc.dll Errors Within Your Audacity LAME MP3 Projects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-instructions-for-transmitting-oral-notes-with-iphones-built-in-tools-and-apps/"><u>Effortless Instructions for Transmitting Oral Notes with iPhone's Built-In Tools and Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-gaming-to-memories-easy-steps-for-recording-ps4-games-live/"><u>From Gaming to Memories: Easy Steps for Recording PS4 Games Live</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-x50-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor X50 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-continuous-buffering-problems-on-kodi/"><u>Resolved: How to Fix Continuous Buffering Problems on Kodi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-securing-your-twitch-account-with-2fa-setup-and-use-instructions/"><u>The Complete Guide to Securing Your Twitch Account with 2FA Setup & Use Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-googles-smartphone-lineup-insights-into-google-pixel-nines-arrival-estimated-price-points-and-hardware-specs/"><u>The Future of Google's Smartphone Lineup: Insights Into Google Pixel Nine's Arrival, Estimated Price Points & Hardware Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-network-discovery-on-and-off-the-ultimate-tutorial-for-windows-11-users/"><u>Turning Network Discovery ON and OFF: The Ultimate Tutorial for Windows 11 Users</u></a></li>
 </ul></div>
 

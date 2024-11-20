@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2024-11-15T00:04:07.370Z
-updated: 2024-11-19T01:22:49.066Z
+date: 2024-11-17T17:24:25.601Z
+updated: 2024-11-19T23:35:02.632Z
 tags:
   - apple
 categories:
@@ -27,35 +27,21 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -66,13 +52,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -80,6 +59,13 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 **Figure 2**: Enabling Pages for iCloud Drive collaboration.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
@@ -99,6 +85,13 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Enable Track Changes
 
 Click Move to iCloud and then, when prompted, click Continue to enable Track Changes (**Figure 5**).
@@ -116,6 +109,13 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -157,18 +157,21 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-critical-components-affecting-youtube-video-scores-for-2024/"><u>[Updated] Critical Components Affecting YouTube Video Scores for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-lost-footage-immediate-removal-impacts/"><u>2024 Approved Lost Footage Immediate Removal Impacts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-avimp4mp3/"><u>無料変換サービス – Movavi: AVI/MP4をMP3に転送しやすく解説 – オンラインで使える方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beskyttet-screen-recordereprogram-erfaringer-med-top-sorters/"><u>Beskyttet Screen Recordereprogram - Erfaringer Med Top Sorters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambia-tus-audios-de-aiff-a-formato-flac-sin-gastar-descubre-el-metodo-gratuitamente-en-linea-para-una-transicion-perfecta/"><u>Cambia Tus Audios De AIFF a Formato FLAC Sin Gastar: Descubre El Método Gratuitamente en Línea Para Una Transición Perfecta</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-tutorial-enabling-cookie-functionality-on-browsers/"><u>Complete Tutorial: Enabling Cookie Functionality on Browsers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-pro-enhancing-your-videos-with-manycams-virtual-webcam-capabilities/"><u>Live Streaming Pro: Enhancing Your Videos with ManyCam's Virtual Webcam Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-recordings-top-5-budget-friendly-software/"><u>Revamp Your Recordings: Top 5 Budget-Friendly Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-essential-user-manual-to-navigate-windows-11s-innovative-battery-report-feature/"><u>The Essential User Manual to Navigate Windows 11'S Innovative Battery Report Feature</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-game-changing-lg-gram-156-inch-notebook-review-2018-power-meets-lightweight-durability-and-long-battery-life/"><u>The Game-Changing LG Gram 15.6 Inch Notebook Review (2018) - Power Meets Lightweight Durability & Long Battery Life</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformar-videos-do-formato-ogg-em-mpeg-livre-e-online-pelo-site-da-movavi/"><u>Transformar Vídeos Do Formato OGG Em MPEG Livre E Online Pelo Site Da Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-facilement-votre-m4a-en-m4b-gratuitement-en-ligne-avec-movavi/"><u>Transformez Facilement Votre M4A en M4B Gratuitement en Ligne Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wav-avi/"><u>WAV 파일을 AVI로 자유성 버전화하는 방법: 웹사이트 내용의 가장 나은 해결책</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-on-the-evolution-of-macos-versions/"><u>A Comprehensive Walkthrough on the Evolution of macOS Versions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-hooking-up-three-screens-with-one-laptopdesktop/"><u>Expert Tips for Hooking up Three Screens with One Laptop/Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-greatest-free-melody-services-a-list-of-7-must-try-options-for-ios-and-android-users/"><u>Explore the Greatest Free Melody Services: A List of 7 Must-Try Options for iOS and Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-motives-behind-the-shift-to-ev-powered-transportation/"><u>Exploring the Motives Behind the Shift to EV-Powered Transportation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illuminated-imagery-photographic-collages-that-shine-for-2024/"><u>Illuminated Imagery Photographic Collages That Shine for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chic-characters-cheeky-captions-making-memes/"><u>In 2024, Chic Characters, Cheeky Captions Making Memes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hue-mastery-interface/"><u>In 2024, Hue Mastery Interface</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-style-the-essential-guide-to-instagram-story-magnification/"><u>Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722982590692-ipad-air-4-vs-galaxy-tab-s7plus-head-to-head-comparison-of-top-tier-tabs/"><u>IPad Air 4 Vs. Galaxy Tab S7+: Head-to-Head Comparison of Top Tier Tabs!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-t430-driver-installation-made-simple-compatible-with-windows-11-8-and-7-download-guide/"><u>Lenovo T430 Driver Installation Made Simple: Compatible with Windows 11, 8 & 7 - Download Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-to-buy-ebooks-through-the-books-app-on-your-idevice/"><u>Step-by-Step Instructions to Buy Ebooks Through the Books App on Your iDevice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-preventing-unintended-mac-sleep-settings-and-ensuring-continuous-operation/"><u>Step-by-Step: Preventing Unintended Mac Sleep Settings and Ensuring Continuous Operation</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-mend-windows-network-proxy-errors/"><u>Steps to Mend Windows Network Proxy Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-dichotomy-of-youtube-rights-and-cc-licenses-for-2024/"><u>The Dichotomy of YouTube Rights and CC Licenses for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-refreshing-your-pcs-core-updating-the-motherboard-drivers-in-windows/"><u>Ultimate Guide: Refreshing Your PC's Core - Updating the Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/updated-security-alerts-new-linksys-default-login-credentials-for-july-2024/"><u>Updated Security Alerts: New Linksys Default Login Credentials for July 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-11-16T23:27:17.328Z
-updated: 2024-11-19T01:44:35.148Z
+date: 2024-11-15T23:40:59.987Z
+updated: 2024-11-19T19:58:03.850Z
 tags:
   - apple
 categories:
@@ -57,10 +57,16 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,10 +82,10 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -101,10 +107,10 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -122,10 +128,16 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -166,22 +178,14 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flip-page-film-narrative-guide/"><u>[New] Flip Page Film Narrative Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[New] From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-power-how-to-use-phantoms-retro-vision/"><u>[New] Harnessing Power How to Use Phantom's Retro Vision</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-free-online-conversion-tool-transform-vob-videos-instantly/"><u>1. Free Online Conversion Tool: Transform VOB Videos Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wmv-asf-movavi/"><u>網路直通解 - 免費 WMV ASF 格式自動還原服務：Movavi 影片編輯器</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/continuous-streams-perfect-loops-of-youtube-videos-for-tvs-for-2024/"><u>Continuous Streams Perfect Loops of YouTube Videos for TVs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuita-de-archivos-oma-a-formato-wav-con-movavi-online/"><u>Conversión Gratuita De Archivos OMA a Formato WAV Con Movavi Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-your-mov-videos-to-flv-for-free-with-movavis-easy-to-use-online-service/"><u>Convert Your MOV Videos to FLV for Free with Movavi's Easy-to-Use Online Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dezepraktijk-voorprobleemlos-schermopname-vertrouw-ons-op-movavi/"><u>Dezepraktijk Voorprobleemlos Schermopname - Vertrouw Ons Op Movavi</u></a></li>
-<li><a href="https://win-forum.techidaily.com/digital-landscape-exploration-unpacking-the-influence-of-facebook-twitter-instagram-and-youtube/"><u>Digital Landscape Exploration: Unpacking the Influence of Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-comprehensive-insights-on-latest-computer-hardware/"><u>Exploring Tom's Tech: Comprehensive Insights on Latest Computer Hardware</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-smooth-operations-direct-backup-of-camera-roll-images-to-social-media-apps/"><u>In 2024, Smooth Operations Direct Backup of Camera Roll Images to Social Media Apps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-online-converter-de-video-free-alterar-wmv-para-mkv/"><u>Movavi Online: Converter De Vídeo Free - Alterar WMV Para MKV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rendere-netta-una-foto-sfocata-in-4-metodi-semplici/"><u>Rendere Netta Una Foto Sfocata in 4 Metodi Semplici</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-un-fichier-m4r-en-wav-gratuitement-en-ligne-movavi/"><u>Transformez Un Fichier M4r en Wav Gratuitement en Ligne - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/virtueel-konverteren-van-voc-documenten-omzetten-en-bewerken-gratis-met-movavi/"><u>Virtueel Konverteren Van VOC Documenten - Omzetten en Bewerken Gratis Met Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-magix-photography-control-an-in-depth-review-for-2024/"><u>[New] MAGIX Photography Control An In-Depth Review for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweak-twitter-video-clip-cover/"><u>[Updated] In 2024, Tweak Twitter Video Clip Cover</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-metas-artificial-intelligence-insights-and-innovations/"><u>Exploring the World of Meta's Artificial Intelligence: Insights and Innovations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-view-tiktok-clips-directly-on-your-tv-set/"><u>How To View TikTok Clips Directly on Your TV Set</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs/"><u>In 2024, Capturing the Moment The Ultimate Guide to Screen Recording with OBS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/insignia-thunderbolt-usb-cable-with-ethernet-adapter-software/"><u>Insignia Thunderbolt-USB Cable with Ethernet Adapter Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-hooking-up-your-nintendo-switch-console-with-the-television/"><u>Ultimate Guide: Hooking Up Your Nintendo Switch Console With the Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-pick-a-superior-photo-monopod-for-self-portraits/"><u>Ultimate Guide: How to Pick a Superior Photo Monopod for Self-Portraits</u></a></li>
 </ul></div>
 

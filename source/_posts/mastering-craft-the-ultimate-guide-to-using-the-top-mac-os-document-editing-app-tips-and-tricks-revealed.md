@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-11-14T17:28:11.809Z
-updated: 2024-11-18T18:22:29.025Z
+date: 2024-11-18T16:11:41.653Z
+updated: 2024-11-19T23:17:16.487Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +134,18 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-explore-and-apply-instagrams-latest-filters-for-stunning-feeds/"><u>[New] In 2024, Explore and Apply Instagram's Latest Filters for Stunning Feeds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-complete-guide-to-edit-your-video-with-youtube-studio-editor/"><u>[New] In 2024, The Complete Guide to Edit Your Video with YouTube Studio Editor</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-tiny-titans-top-games-anthology-in-2024/"><u>[New] Tiny Titans' Top Games Anthology, In 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-giggle-genie-selecting-the-finest-jokes-makers/"><u>[Updated] In 2024, Giggle Genie Selecting the Finest Jokes Makers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>2024 Approved Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-wi-fi-calls-what-you-need-to-know-explained/"><u>All About Wi-Fi Calls: What You Need to Know Explained</u></a></li>
-<li><a href="https://solve-help.techidaily.com/best-9-replacements-for-format-factory-on-windows-systems-compare-options/"><u>Best 9 Replacements for Format Factory on Windows Systems - Compare Options!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/cyber-frontiers-collide-a-deep-dive-into-meta-and-omniverse-for-2024/"><u>Cyber Frontiers Collide A Deep-Dive Into Meta & Omniverse for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-top-8-child-protection-apps-of-2024/"><u>Discover the Top 8 Child Protection Apps of 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-access-guide-how-to-stream-netflix-without-paying-a-dime/"><u>Free Access Guide: How to Stream Netflix Without Paying a Dime</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-your-microsoft-surface-pro-back-online-with-these-wi-fi-fix-tips/"><u>Getting Your Microsoft Surface Pro Back Online with These Wi-Fi Fix Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-techniques-scan-documents-straight-from-your-local-print-device-to-pc/"><u>Innovative Techniques: Scan Documents Straight From Your Local Print Device to PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-through-the-classics-a-guide-to-the-best-6-super-mario-games-on-pc/"><u>Navigate Through the Classics: A Guide to the Best 6 Super Mario Games on PC</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnected-printer-in-win7-environment/"><u>Reconnected Printer in Win7 Environment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-troubleshooting-common-issues-when-uploading-to-apple/"><u>[New] 2024 Approved Troubleshooting Common Issues When Uploading to Apple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-tips-for-creating-engaging-screencasts-for-2024/"><u>[Updated] Expert Tips for Creating Engaging Screencasts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimize-your-screen-sessions-with-obs-and-skype/"><u>2024 Approved Optimize Your Screen Sessions with OBS & Skype</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-motherboard-driver-downloads-and-windows-installation-tutorials-for-optimal-performance/"><u>ASUS Motherboard Driver Downloads and Windows Installation Tutorials for Optimal Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cloaked-glance-at-social-media-snapshits/"><u>Cloaked Glance at Social Media Snapshits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722897016596-expert-fixes-for-when-your-samsung-soundbar-goes-quiet-comprehensive-solutions/"><u>Expert Fixes for When Your Samsung Soundbar Goes Quiet: Comprehensive Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-huawei-nova-y71-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Huawei Nova Y71 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-msodll-file-missing-error-quickly-and-easily/"><u>How to Resolve 'Mso.dll' File Missing Error Quickly & Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-no-text-message-reception-issues-on-your-android-device/"><u>Troubleshooting No Text Message Reception Issues on Your Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-steps-for-crafting-an-oculus-quest-quest-2-user-profile/"><u>Ultimate Steps for Crafting an Oculus Quest / Quest 2 User Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-one-and-external-hdds-how-to-improve-your-gaming-experience/"><u>Xbox One and External HDDs: How to Improve Your Gaming Experience</u></a></li>
 </ul></div>
 

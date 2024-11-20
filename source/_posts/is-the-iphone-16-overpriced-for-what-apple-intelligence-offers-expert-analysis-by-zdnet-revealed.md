@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-11-13T01:41:09.925Z
-updated: 2024-11-19T01:30:09.948Z
+date: 2024-11-17T22:16:06.040Z
+updated: 2024-11-19T16:52:10.349Z
 tags:
   - apple
 categories:
@@ -34,13 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -66,10 +59,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -88,6 +81,13 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,16 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +126,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,16 +172,15 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-content-the-ultimate-guide-to-tiktok-editing/"><u>Cutting-Edge Content The Ultimate Guide to TikTok Editing</u></a></li>
-<li><a href="https://win-trending.techidaily.com/does-bringing-back-a-dead-iphone-wipe-out-your-data-protective-measures-you-need-to-know/"><u>Does Bringing Back a Dead iPhone Wipe Out Your Data? Protective Measures You Need to Know</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/essential-steps-for-creating-new-file-systems-with-mkfs-on-linux-platforms/"><u>Essential Steps for Creating New File Systems with Mkfs on Linux Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-for-sharing-your-valuable-steam-tokens/"><u>Expert Advice for Sharing Your Valuable Steam Tokens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-404-page-missing-comprehensive-steps-to-resolve-and-prevent-issues/"><u>Fixing '404 Page Missing': Comprehensive Steps to Resolve & Prevent Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/guide-to-crafting-twitter-video-inspired-animated-gifs-for-2024/"><u>Guide to Crafting Twitter Video-Inspired Animated GIFs for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-red-magic-9-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nubia Red Magic 9 Pro?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-strategies-for-improving-youtubefacebook-video-quality/"><u>In 2024, Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-n53frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo N53FRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/opulent-innovations-meet-economy-pricing-the-best-value-gadgets/"><u>Opulent Innovations Meet Economy Pricing: The Best Value Gadgets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tutorial-halting-background-processes-on-android-for-better-performance/"><u>Tutorial: Halting Background Processes on Android for Better Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-dji-phantom-3-professional-drone/"><u>2024 Approved A Deep Dive Into DJI Phantom 3 Professional Drone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/data-rescue-tactics-retrieving-information-from-a-faulty-flash-drive-without-erasing-contents/"><u>Data Rescue Tactics: Retrieving Information From a Faulty Flash Drive Without Erasing Contents</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-access-archived-messages-and-notifications-on-iphone/"><u>Discover How to Access Archived Messages and Notifications on iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-leading-downloader-software-facebooks-top-choices-5/"><u>In 2024, Leading Downloader Software Facebook's Top Choices #5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-ipad-updates-an-in-depth-guide-to-the-latest-os-versions/"><u>Mastering iPad Updates: An In-Depth Guide to the Latest OS Versions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/re-engage-withprinter-online-troubleshooting-steps/"><u>Re-Engage Withprinter: Online Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-hdcp-mistakes-identifying-and-resolving-them/"><u>Understanding HDCP Mistakes: Identifying & Resolving Them</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722895616193-windows-11-performance-boosting-techniques-fix-slowdown-and-improve-efficiency-today/"><u>Windows 11 Performance Boosting Techniques: Fix Slowdown & Improve Efficiency Today!</u></a></li>
 </ul></div>
 

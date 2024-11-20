@@ -1,7 +1,7 @@
 ---
 title: Discover Curated Selections of LGBT Movies Available Now on Netflix (July 2Amo)
-date: 2024-09-05T11:47:34.512Z
-updated: 2024-09-06T11:47:34.512Z
+date: 2024-11-12T19:58:21.946Z
+updated: 2024-11-19T17:03:18.702Z
 categories:
   - BestProducts
 description: This Article Describes Discover Curated Selections of LGBT Movies Available Now on Netflix (July 2Amo)
@@ -25,12 +25,6 @@ of 15
 
 ![Dyana Nyad lying in a hospital bed with a cut face.](https://www.lifewire.com/thmb/i9XMP0vvl-MreMYFxJPdnsbNcDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nyadscreencapture-8c0beaa3b0224571b964fcf4a3cab826.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **IMDb Rating** : 7.1/10
 
 **Genre** : Biography, Drama, Sport
@@ -58,11 +52,12 @@ of 15
 ![Marco Simon Puccioni, Luca De Bei, Gianluca Bernardini in Invisible Thread 2022](https://www.lifewire.com/thmb/1Oe8m1rU9-srw_87-rOFKNbagRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-march-2022-5069913-17dc116b41b040abb3595ea61c19699e.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **IMDb Rating** : 6.8/10
 
 **Genre** : Comedy, Drama, Family
@@ -85,22 +80,10 @@ _The Invisible Thread_ _(Il Filo Invisibile_ ) is an Italian drama with a positi
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Stay on Board: The Leo Baker Story (2022)—A Tribute to a Trailblazing Transgender Athlete](https://www.imdb.com/title/tt21100124/) 
 
 ![Leo Baker in Stay on Board](https://www.lifewire.com/thmb/MBH5jhAKJCJ70_lCKsbvC965wfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-lgbt-movies-on-netflix-right-now-august-2022-5069913-74fd4bf7bfdf4068b2b70507212c260c.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 6.7/10
@@ -181,22 +164,17 @@ _Pray Away_ examines the controversial practice of gay conversion therapy, which
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Stand Out: An LGBTQ+ Celebration (2022)—Best LGBT Standup Comedy Special](https://www.imdb.com/title/tt20723644/) 
 
 ![Wanda Sykes performs in Stand Out (2022)](https://www.lifewire.com/thmb/E4lNhdDal7jWx5UnqrMywwiUQYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-f3fab440e4184c74aa9dd559e480b2bf.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 6.2/10
@@ -225,12 +203,6 @@ of 15
 
 ![Alin Szewczyk in Fanfic](https://www.lifewire.com/thmb/aH-Rk1QsCLC_NYUvL4vwTmuoQUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-july-2023-5069913-b04870a3a482455599d60bd335bb18f5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 5.8/10
@@ -255,16 +227,17 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [ Cobalt Blue (2022): A Love Triangle Turned into a Family Feud](https://www.imdb.com/title/tt15314640/) 
 
 ![The cast of Cobalt Blue 2022](https://www.lifewire.com/thmb/nNQeoVF_PpfG3WSMnv8RkRf7E5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-may-2022-5069913-0e071839d6a24c4e8f457a53195742c6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 6.5/10
@@ -289,28 +262,10 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Marry My Dead Body (2023): A Tale About Literally Being Haunted by Homophobia](https://www.imdb.com/title/tt22742964/) 
 
 ![The cast of Marry My Dead Body](https://www.lifewire.com/thmb/Mlj7-wuWMYSjXuojihpuDf1p4NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MarryMyDeadBodyNetflix-bb17da0de7464f9eb3cc4abe422f15ad.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **IMDb Rating** : 7.0/10
 
 **Genre** : Action, Comedy, Drama,
@@ -361,16 +316,17 @@ Netflix
 
 of 15
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [ Eldorado: Everything the Nazis Hate (2023) - A Documentary About LGBT Persecution in WWII Germany](https://www.imdb.com/title/tt27906298/) 
 
 ![Eldorado: Everything the Nazis Hate](https://www.lifewire.com/thmb/uFvdxEXqQjJwD7DBm6iOVoVq9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-august-2023-5069913-8891654589fb407699c5bdac16e865d9.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 7.5/10
@@ -395,22 +351,17 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Dancing Queens (2021): A Gender-Bending Side Hussle](https://www.imdb.com/title/tt13032716/) 
 
 ![The cast of Dancing Queens on Netflix](https://www.lifewire.com/thmb/vrH9qhpgR135LDBb-sQ-8auu0SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-7589c1a062994bf9b719af7cae64370a.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 5.7/10
@@ -436,14 +387,22 @@ _Dancing Queens_ is a clever story about subverting gender norms. Some viewers t
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## [ Dance of the 41 (2020): For Fans of History and Fancy Dresses](https://www.imdb.com/title/tt11525022/) 
 
 ![Alfonso Herrera and Emiliano Zurita in Dance of the 41](https://www.lifewire.com/thmb/lc34xpMWUPwr35ugd-vwDn3YpCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-october-2021-5069913-55ecc68b92a84a5082972963443331b2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -472,6 +431,13 @@ of 15
 ## [ Rustin (2023): A Tribute to the Real-Life Heroism of a Civil Rights Activist](https://www.imdb.com/title/tt14160834/) 
 
 ![Colman Domingo as Rustin in the movie Rustin](https://www.lifewire.com/thmb/7ltyttwzv2q5TBWjrNAu88wZbVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014_best-lgbt-movies-on-netflix-right-now-5069913-213ed350ac2f4888b890ed8d237bd98c.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -543,8 +509,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -552,4 +516,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-captureelite-series-best-windowsmac-imaging-apps/"><u>[New] 2024 Approved CaptureElite Series Best Windows/Mac Imaging Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-authority-in-education-10-tips-for-youtube-channel-creation/"><u>[Updated] In 2024, Building Authority in Education 10 Tips for YouTube Channel Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-rated-economical-timer-services/"><u>[Updated] Top-Rated Economical Timer Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-unusual-moisture-found-in-iphone-charging-port-what-can-be-done/"><u>1. Unusual Moisture Found in iPhone Charging Port: What Can Be Done?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-pastimes-pairing-with-your-favorite-audio-shows/"><u>2024 Approved Ideal Pastimes Pairing with Your Favorite Audio Shows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blending-images-into-a-masterpiece-of-mosaics/"><u>Blending Images Into a Masterpiece of Mosaics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-techniques-keeping-graphics-hardware-current-in-windows-11-environments/"><u>Expert Techniques: Keeping Graphics Hardware Current in Windows 11 Environments</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-xbox-extended-storage-5-must-have-hdds/"><u>In 2024, Xbox Extended Storage 5 Must-Have HDDs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tech-spotlight-on-ultra-compact-innovation-can-the-new-mac-minis-m4-cpu-challenge-the-apple-tv-in-tiny-form-factor-expert-analysis/"><u>Tech Spotlight on Ultra-Compact Innovation: Can the New Mac Mini's M4 CPU Challenge the Apple TV in Tiny Form Factor? | Expert Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-selection-of-video-game-consoles-and-toys-for-budding-gamers/"><u>The Perfect Selection of Video Game Consoles and Toys for Budding Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-free-educational-apps-perfect-for-school-beginnings/"><u>Top 7 Free Educational Apps Perfect for School Beginnings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-customizing-folder-and-subfolder-previews-on-macos/"><u>Ultimate Guide: Customizing Folder and Subfolder Previews on macOS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Nintendo Switch Visual Memories: A User's Guide to Screen Shotting and Sharing Games"
-date: 2024-09-05T11:46:50.841Z
-updated: 2024-09-06T11:46:50.841Z
+date: 2024-11-17T17:52:30.962Z
+updated: 2024-11-19T21:51:59.739Z
 categories:
   - BestProducts
 description: "This Article Describes Nintendo Switch Visual Memories: A User's Guide to Screen Shotting and Sharing Games"
@@ -9,24 +9,12 @@ excerpt: "This Article Describes Nintendo Switch Visual Memories: A User's Guide
 thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nintendo Switch Visual Memories: A User's Guide to Screen Shotting and Sharing Games
 
 Close 
 
  When you've just achieved something impressive in your favorite[ Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) game, it's great to be able to take a screen capture of your progress and share it with others. Here's how to take Nintendo Switch screenshots, and what you need to know about sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Take a Screenshot on Nintendo Switch 
 
  Taking a screenshot is super easy with the Nintendo Switch, provided you know what button to press: 
@@ -37,16 +25,24 @@ Close
  Once you've pressed the screenshot button on either controller, you'll hear a camera shutter sound and a notification will pop up in the top left of your Switch's screen stating "Capture Taken."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to View Your Screenshots on the Nintendo Switch 
 
  All of your screenshots can be found in the Nintendo Switch's Album App. To view your screenshots, select the**Album** icon (looks like a box with a sideways heat) at the bottom of the Switch's Home Screen.
 
 ![Nintendo Switch menu with Album icon highlighted](https://www.lifewire.com/thmb/0scsqhdtsDWWhch7A2fBE4vhorA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AlbumIcon-daad21bac77a4c01ab38c9eb76d033d4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have many screenshots, you can filter them within the album so it's easier to look through. Tap**Filter** or press the**Y** button, then select which filter you want to use. You can choose to look at:
 
@@ -57,17 +53,12 @@ Close
 * Specific Game Screenshots: So you can browse according to the game you played.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Edit a Screenshot on Your Nintendo Switch 
 
  It's possible to add text to your screenshots before sharing them. Here's how.
@@ -84,25 +75,14 @@ Close
 7. Select**Finished** . Your screenshot now has the text added to it.  
 ![A screenshot of New Super Mario Bros with added 'test' text.](https://www.lifewire.com/thmb/18MN13p_GR1iteeV1A557Nh2KVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendoswitchscreenshot1-5c45c6ad4cedfd00017ffb6b.jpg)  
  A copy of your screenshot without the text is saved onto your Switch for future reference.
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Share the Screenshot on Facebook or X (formerly Twitter) 
 
  Once you've selected the screenshot, you can share it easily with others using a couple of different methods. 
@@ -149,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +136,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-and-youtube-synergy-sharing-video-links-in-stories/"><u>[Updated] Instagram and YouTube Synergy Sharing Video Links in Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>2024 Approved Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-apples-top-4-irresistible-motivators-to-invest-in-the-latest-ipad-air-a-closer-look-techworld/"><u>Discover Apple's Top 4 Irresistible Motivators to Invest in the Latest iPad Air - A Closer Look | TechWorld</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-sound-management-with-hidden-drawbacks/"><u>Discover the Ease of Sonos' S2 App: Advanced Sound Management with Hidden Drawbacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-apple-safeguard-your-cloud-based-ai-information-understanding-its-impact-on-privacy-zdnet/"><u>How Does Apple Safeguard Your Cloud-Based AI Information? Understanding Its Impact on Privacy | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>In 2024, The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/incorporating-ai-into-your-insta-strategy-the-ultimate-guide-to-meta-ai-usage/"><u>Incorporating AI Into Your Insta-Strategy: The Ultimate Guide to Meta AI Usage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovating-influence-what-to-anticipate-from-facebooks-ad-evolution/"><u>Innovating Influence What to Anticipate From Facebook's Ad Evolution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-apple-vision-pro-unveiling-pricing-specs-and-first-impressions-the-complete-guide-techradar/"><u>Inside Apple Vision Pro: Unveiling Pricing, Specs & First Impressions - The Complete Guide | TechRadar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/optimal-echoes-lecture-recording-experts/"><u>Optimal Echoes Lecture Recording Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-sony-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Sony</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-secret-the-development-of-a-secure-operating-system-for-ai-data-facilities-insights-and-updates-techinsider/"><u>Unveiling Apple's Secret: The Development of a Secure Operating System for AI Data Facilities – Insights and Updates | TechInsider</u></a></li>
+</ul></div>
 

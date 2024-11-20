@@ -1,7 +1,7 @@
 ---
 title: The Lowdown on Tesla's Self-Driving Robotaxi – Get the 411 on Price Estimates, Launch Schedule & Features with Latest Whispers
-date: 2024-11-17T16:35:51.210Z
-updated: 2024-11-18T23:39:37.767Z
+date: 2024-11-13T22:20:40.230Z
+updated: 2024-11-19T19:26:57.083Z
 categories:
   - BestProducts
 description: This Article Describes The Lowdown on Tesla's Self-Driving Robotaxi – Get the 411 on Price Estimates, Launch Schedule & Features with Latest Whispers
@@ -40,10 +40,10 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
  In May stockholder meeting materials, there’s mention of a “purpose-built robotaxi expected to be demo’ed this year.” Based on recent comments on his X profile, Musk seems to confirm that the October event will unveil a prototype: "Requested what I think is an important design change to the front, and extra time allows us to show off a few other things."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Lifewire's Release Date Estimate
@@ -51,10 +51,10 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
  Though the Tesla Robotaxi unveiling happens sometime in October, we’re still probably several years away from a production-ready model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tesla Robotaxi Price Rumors
@@ -64,6 +64,19 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
  However,[ Reuters reported that Tesla scrapped the entry-level Tesla](https://www.reuters.com/business/autos-transportation/tesla-scraps-low-cost-car-plans-amid-fierce-chinese-ev-competition-2024-04-05/) in favor of working toward the robotaxi, built on the same smaller platform as the planned mass-market EV. Musk denies that Tesla’s plans for a more affordable EV have been nixed.
 
  Either way, we don’t know much about the cost of a Tesla Robotaxi. The Tesla Model 3 might offer some clues: With Full Self-Driving added, the Model 3 comes in at about $50,000.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
@@ -80,13 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/8ZaoL4rSfibaldi3tI05X6Z76b4=/540x405/fi
  Tesla has also offered a glimpse of the Tesla app, which will allow owners to add their vehicles to the taxi service mix with a tap of a button. This app is also where riders can hail robotaxis and complete other actions, like viewing arrival times and adjusting the vehicle's temperature. 
 
 ![Five views of the Tesla ride hailing app preview](https://www.lifewire.com/thmb/XfOPTS8UcMjMVRfXeu0pqU2wvNw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-ride-hailing-app-preview-4174be71b5f4423b85ce5395783d8056.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Preview of ride-hailing in the Tesla app. 
 
@@ -111,10 +117,10 @@ Tesla
  We’ll probably know more about the design and feature set after August 8, so stay tuned.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Latest News About the Tesla Robotaxi
@@ -144,20 +150,22 @@ Tesla
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-your-channels-crafting-captivating-yt-descriptions-using-custom-templates/"><u>[New] 2024 Approved Boost Your Channels Crafting Captivating YT Descriptions Using Custom Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-vr-for-the-on-the-move-top-10-headsets-reviewed/"><u>[Updated] VR for the On-the-Move Top 10 Headsets Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-branding-101-brainstorm-techniques-for-2024/"><u>Channel Branding 101 Brainstorm Techniques for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-fixes-for-your-home-theater-resetting-your-samsung-soundbar/"><u>DIY Fixes for Your Home Theater: Resetting Your Samsung Soundbar</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-for-clearing-images-from-your-facebook-page/"><u>Easy Methods for Clearing Images From Your Facebook Page</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-vcompdll-file-missing-or-errors/"><u>How to Correctly Handle vcomp.dll File Missing or Errors</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-6s-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 6s without Security Questions?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphones-or-ipads-not-joining-the-network-try-these-8-ways-to-restore-connection/"><u>IPhones or iPads Not Joining the Network? Try These 8 Ways to Restore Connection</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/record-like-a-boss-final-cut-pro-voice-over-hacks-for-2024/"><u>Record Like a Boss Final Cut Pro Voice Over Hacks for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-scheduling-your-next-apple-store-genius-bar-visit/"><u>Step-by-Step Guide: Scheduling Your Next Apple Store Genius Bar Visit</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-9-best-no-cost-languages-online-a-comprehensive-guide/"><u>Top 9 Best No-Cost Languages Online: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-clearing-your-inbox-deleting-every-message-on-the-gmail-mobile-app/"><u>Ultimate Guide: Clearing Your Inbox - Deleting Every Message on the Gmail Mobile App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wininetdll-not-found-heres-how-to-correct-the-issue-and-prevent-future-problems/"><u>Wininet.dll Not Found? Here’s How to Correct the Issue and Prevent Future Problems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-definitive-guide-to-capturing-great-tiktok-content/"><u>[New] The Definitive Guide to Capturing Great TikTok Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-your-phones-potential-for-high-quality-snapchat-recordings-for-2024/"><u>[New] Unlock Your Phone's Potential for High-Quality Snapchat Recordings for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-infographic-guide-effective-video-promotion-tools/"><u>2024 Approved Infographic Guide Effective Video Promotion Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722885403861-best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-insight-into-what-your-smartwatch-can-do/"><u>Comprehensive Insight Into What Your Smartwatch Can Do</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-steps-to-correct-the-mscorwksdll-not-present-problem/"><u>Comprehensive Troubleshooting Steps to Correct the Mscorwks.dll Not Present Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-signs-that-show-when-someone-reads-your-sms-essential-insights/"><u>Decoding the Signs That Show When Someone Reads Your SMS: Essential Insights</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/fotoverschiebung-von-iphone-zu-pc-mit-itunes-eine-schritt-fur-schritt-anleitung/"><u>Fotoverschiebung Von iPhone Zu PC Mit iTunes: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/imovie-windows-duzenlediyi-yayinmasi-personal-computer-aracilikla-imovie-izdiva-etmek/"><u>IMovie Windows Düzenlediyi Yayınması | Personal Computer Aracılıkla iMovie İzdiva Etmek</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-worth-upgrading-to-hulu-plus-exploring-its-features-versus-regular-hulu/"><u>Is It Worth Upgrading to Hulu Plus? Exploring Its Features Versus Regular Hulu</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedying-the-error-oleaut32dll-file-not-located-on-your-pc/"><u>Remedying the Error: 'OleAut32.dll' File Not Located on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-a-missing-user32dll-file/"><u>Resolving the Issue: What To Do When You Encounter a Missing User32.dll File</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/solving-the-problem-of-itunes-failing-to-connect-with-an-iphone-understanding-and-addressing-invalid-responses/"><u>Solving the Problem of iTunes Failing to Connect with an iPhone - Understanding and Addressing Invalid Responses</u></a></li>
+<li><a href="https://article-posts.techidaily.com/streamline-your-in-game-communication-pioneering-tips-for-vocal-modifications-pubg-for-2024/"><u>Streamline Your In-Game Communication Pioneering Tips for Vocal Modifications (PUBG) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-secrets-of-editing-numerical-data-in-tiktoks/"><u>The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ocidll-missing-files-a-comprehensive-guide/"><u>Understanding and Repairing 'Oci.dll' Missing Files – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-a-408-request-timeout-diagnosis-and-repair-tips/"><u>What Is a 408 Request Timeout? Diagnosis and Repair Tips</u></a></li>
 </ul></div>
 

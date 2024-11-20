@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-11-11T23:02:38.091Z
-updated: 2024-11-19T01:45:37.719Z
+date: 2024-11-13T23:00:47.809Z
+updated: 2024-11-19T16:29:52.631Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -48,6 +48,19 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -56,24 +69,18 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -86,13 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -103,6 +103,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -112,13 +119,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -132,13 +132,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -146,6 +139,13 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -176,22 +176,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-iphone-video-editing-guide/"><u>[New] Seamless Integration IPhone Video Editing Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-guide-to-profitable-animated-fb-advertising-techniques-for-2024/"><u>[Updated] A Guide to Profitable, Animated FB Advertising Techniques for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-slomos-full-potential-a-compre-written-context/"><u>2024 Approved Exploring SloMo's Full Potential A Compre Written Context</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-utilize-legal-free-clip-art-resources/"><u>2024 Approved How to Utilize Legal, Free Clip-Art Resources</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-right-time-to-invest-in-your-next-4k-lens/"><u>2024 Approved The Right Time to Invest in Your Next 4K Lens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/android-16-unveiled-detailed-review-of-new-specifications-rumored-costs-and-launch-details/"><u>Android 16 Unveiled: Detailed Review of New Specifications, Rumored Costs & Launch Details</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bk-faces-backlash-twice-over-customer-disputes-the-surprising-drama-at-burger-king/"><u>BK Faces Backlash Twice Over Customer Disputes – The Surprising Drama at Burger King</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ideal-spots-for-purchasing-smartphones-near-you/"><u>Discover the Ideal Spots for Purchasing Smartphones Near You</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-reserve-time-with-the-experts-at-your-local-apple-store/"><u>How To Reserve Time With The Experts At Your Local Apple Store</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Samsung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/innovative-solutions-for-fixing-sound-adjustment-shortcomings-on-windows-11-devices/"><u>Innovative Solutions for Fixing Sound Adjustment Shortcomings on Windows 11 Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-18-unveiled-launch-timeline-costs-0-capabilities-and-latest-updates/"><u>IOS 18 Unveiled: Launch Timeline, Costs ($0!), Capabilities & Latest Updates</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-unused-scenes-a-filmmakers-approach-for-2024/"><u>Optimizing Unused Scenes A Filmmaker's Approach for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rumored-details-for-the-next-gen-foldable-iphone-anticipated-costs-and-specs-revealed/"><u>Rumored Details for the Next-Gen Foldable iPhone: Anticipated Costs and Specs Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-type-a-heart-using-your-keyboard/"><u>Step-by-Step Tutorial: How to Type a Heart Using Your Keyboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-breakdown-of-ar-versus-vr-mr-and-xr-exploring-the-key-differences/"><u>The Complete Breakdown of AR Versus VR, MR, and XR: Exploring the Key Differences</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixing-system-stops-due-to-missing-spin-lock-the-0x0000001d-dilemma/"><u>Troubleshooting and Fixing System Stops Due to Missing Spin Lock: The 0X0000001D Dilemma</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-chats-complete-fbm-conversation-history/"><u>[New] 2024 Approved Capturing Chats Complete FBM Conversation History</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-demystifying-smooth-audio-conversions-crossfade/"><u>[Updated] 2024 Approved Demystifying Smooth Audio Conversions (Crossfade)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dont-miss-out-add-an-exquisite-macbook-from-apple-to-your-collection-now/"><u>Don't Miss Out – Add an Exquisite MacBook From Apple to Your Collection Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-stacked-elements-at-pcs-action-bar/"><u>Fixing Stacked Elements at PC's Action Bar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fuel-your-fitness-journey-fitbit-versa-3s-integrated-gps-and-dedicated-health-apps-for-extra-motivation/"><u>Fuel Your Fitness Journey: Fitbit Versa 3'S Integrated GPS & Dedicated Health Apps for Extra Motivation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722873186445-get-a-headstart-on-the-next-wave-comprehensive-guide-to-the-rumored-samsung-galaxy-s25-its-price-arrival-and-technical-innovations/"><u>Get a Headstart on the Next Wave: Comprehensive Guide to the Rumored Samsung Galaxy S25 - Its Price, Arrival & Technical Innovations!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-optimize-playback-settings-in-snapchat-applications/"><u>How To Optimize Playback Settings in Snapchat Applications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-your-path-to-superior-hdr-imagery/"><u>In 2024, Your Path to Superior HDR Imagery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-look-at-the-upcoming-google-pixel-tablet-official-launch-dates-and-comprehensive-specs-reviewed/"><u>Inside Look at the Upcoming Google Pixel Tablet: Official Launch Dates & Comprehensive Specs Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-tips-on-making-a-reservation-at-the-genius-bar-in-any-apple-store/"><u>Inside Tips on Making a Reservation at the Genius Bar in Any Apple Store</u></a></li>
+<li><a href="https://techtrends.techidaily.com/james-bond-cinematic-journey-a-comprehensive-guide-from-casino-royale-to-no-time-to-die/"><u>James Bond Cinematic Journey: A Comprehensive Guide From Casino Royale to No Time To Die</u></a></li>
+<li><a href="https://techtrends.techidaily.com/join-samsung-unpacked-webcast-top-strategies-and-links/"><u>Join Samsung Unpacked Webcast: Top Strategies and Links</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-windows-11-speed-diagnose-and-solve-common-causes-of-system-latency/"><u>Revamp Windows 11 Speed: Diagnose and Solve Common Causes of System Latency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-on-wheels-teslas-autonomous-taxi-its-prospective-pricing-launch-details-uncovered/"><u>The Future on Wheels: Tesla's Autonomous Taxi, Its Prospective Pricing, Launch Details Uncovered</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-when-you-cant-locate-mingwm10dll-on-windows/"><u>The Ultimate Fix for When You Can't Locate Mingwm10.dll on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-11-brain-boosting-trivia-shows-for-24/"><u>Top 11 Brain-Boosting Trivia Shows for '24</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-resolving-hcom-driver-installation-issues/"><u>Troubleshooting Steps for Resolving HCOM Driver Installation Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-shell32dll-missing-and-not-detected-issues-on-your-computer/"><u>Ultimate Guide: Resolving 'Shell32.dll Missing' And 'Not Detected' Issues on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-your-microsoft-education-offer/"><u>Unlocking the Secrets: A Step-by-Step Guide to Your Microsoft Education Offer</u></a></li>
 </ul></div>
 

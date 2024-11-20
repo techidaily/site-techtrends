@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-11-17T01:10:43.142Z
-updated: 2024-11-18T19:41:58.841Z
+date: 2024-11-12T18:02:45.284Z
+updated: 2024-11-19T17:30:10.497Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -44,31 +51,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +79,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +134,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-live-without-the-convenience-of-youtube-shorts/"><u>[New] 2024 Approved How To Live Without the Convenience of YouTube Shorts</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[New] 2024 Approved Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-expert-tips-for-clearer-zoomed-snapshots-on-snapchat-for-2024/"><u>[Updated] Expert Tips for Clearer Zoomed Snapshots on Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-snippet-supremacy-essential-hashes-for-accelerated-viewership-growth-for-2024/"><u>[Updated] Snippet Supremacy Essential Hashes for Accelerated Viewership Growth for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>[Updated] The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-ussd-codes-a-comprehensive-guide-to-unstructured-supplementary-service-data/"><u>Deciphering USSD Codes: A Comprehensive Guide to Unstructured Supplementary Service Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/edu-tech-essentials-the-definitive-guide-to-selecting-a-school-friendly-pc/"><u>Edu-Tech Essentials: The Definitive Guide to Selecting a School-Friendly PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-zero-5g-2023-turbo-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Zero 5G 2023 Turbo Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-issues-with-missing-zlibdll-library-files/"><u>How to Fix Issues with Missing zlib.dll Library Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-device-not-found-errors-fix-code-2ergy-on-windows-11-8-and-7/"><u>Resolving 'Device Not Found' Errors: Fix Code 2Ergy on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-missing-dbghelpdll-file-a-comprehensive-guide/"><u>Resolving 'Missing dBghelp.dll' File: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/simplify-and-conquer-the-ultimate-guide-to-performing-a-flawless-factory-reset-on-your-hp-stream-device/"><u>Simplify and Conquer: The Ultimate Guide to Performing a Flawless Factory Reset on Your HP Stream Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/swiftly-secure-screen-shots-on-windows-for-2024/"><u>Swiftly Secure Screen Shots on Windows for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/toms-tech-review-insights-and-analysis-by-toms-hardware/"><u>Tom's Tech Review: Insights and Analysis by Tom's Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-ntdlldll-problems-across-various-windows-versions/"><u>Troubleshooting ntdll.dll Problems Across Various Windows Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-hidden-benefits-for-ev-drivers-premier-park-spaces-and-hov-lane-privileges/"><u>Unlocking the Hidden Benefits for EV Drivers: Premier Park Spaces and HOV Lane Privileges</u></a></li>
-<li><a href="https://techtrends.techidaily.com/view-instagram-pages-openly-a-guide-to-profile-browsing/"><u>View Instagram Pages Openly – A Guide to Profile Browsing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-are-patch-tuesdays-your-ultimate-explanation-for-cybersecurity/"><u>What Are Patch Tuesdays? Your Ultimate Explanation for Cybersecurity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-astonishing-assessment-and-alternative-choices/"><u>[New] Astonishing Assessment & Alternative Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>2024 Approved Mini Masterpieces Top 6 Coolest Mini-Houses in MC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722865781259-best-15-free-anti-malware-programs-for-a-safer-pc-experience-try-them-today/"><u>Best 15 Free Anti-Malware Programs for a Safer PC Experience, Try Them Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/capturing-better-photos-a-guide-to-upgrading-your-ios-devices-cameras/"><u>Capturing Better Photos: A Guide to Upgrading Your iOS Device's Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-language-mastery-the-ultimate-selection-of-apps/"><u>Free Language Mastery: The Ultimate Selection of Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-graphics-card-drivers-easy-download-and-update/"><u>Get the Latest NVIDIA Graphics Card Drivers - Easy Download & Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-tips-and-tricks-for-effective-at-home-charge-your-ev-systems/"><u>Insider Tips and Tricks for Effective At-Home Charge Your EV Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-evolution-of-macos-unveiling-each-release-and-its-features-in-detail/"><u>The Evolution of macOS: Unveiling Each Release and Its Features in Detail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x50i-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X50i Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/travel-smart-mastering-the-art-of-roku-streaming-on-the-go/"><u>Travel Smart: Mastering the Art of Roku Streaming On-the-Go</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-brainpower-innovative-methods-for-brainstorming-with-mind-mapping-and-conversational-ai-chatgpt/"><u>Unlock Your Brainpower: Innovative Methods for Brainstorming With Mind Mapping and Conversational AI, ChatGPT</u></a></li>
 </ul></div>
 

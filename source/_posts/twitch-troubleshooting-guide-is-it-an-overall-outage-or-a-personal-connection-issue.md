@@ -1,7 +1,7 @@
 ---
 title: Twitch Troubleshooting Guide - Is It an Overall Outage or a Personal Connection Issue?
-date: 2024-09-05T11:47:51.783Z
-updated: 2024-09-06T11:47:51.783Z
+date: 2024-11-13T22:32:58.078Z
+updated: 2024-11-19T19:57:46.362Z
 categories:
   - BestProducts
 description: This Article Describes Twitch Troubleshooting Guide - Is It an Overall Outage or a Personal Connection Issue?
@@ -24,12 +24,6 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -37,6 +31,13 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
  Enter the email address you used when you first signed up, and then follow the directions there to learn how to get a new password and log back in to start making video and audio calls again.
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
 
@@ -50,12 +51,6 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -71,23 +66,18 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
@@ -95,18 +85,6 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using Skype for Mobile Devices
 
  If you're using Skype on a tablet or phone, then your speakers and microphone are built-in to your device and can't be manually adjusted. However, there are still proper permissions that Skype requires in order to use your microphone, and if it doesn't have them, it won't let anyone hear what you say through it.
@@ -123,18 +101,19 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -146,11 +125,18 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -160,6 +146,19 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
  If the device still doesn't let you use video in Skype, remember that it's really easy to switch between the front and back camera. If your phone is down on a table, or you're holding it in a certain way, it can completely block the video and make it seem like the camera isn't working.
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
 
@@ -173,12 +172,6 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -193,23 +186,18 @@ thumbnail: https://www.lifewire.com/thmb/B6Ie-K3C1i2ro12qG-GWsfxgPuc=/400x300/fi
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -241,8 +229,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +236,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-diving-deep-into-valheims-vital-vegetation/"><u>[New] 2024 Approved Diving Deep Into Valheim's Vital Vegetation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-expert-advice-for-xbox-one-zooming-pros/"><u>[Updated] In 2024, Expert Advice for Xbox One Zooming Pros</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-prime-online-selections-for-glossy-typography-in-3d/"><u>[Updated] In 2024, Prime Online Selections for Glossy Typography in 3D</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1pc/"><u>1本のソフトウェアだけで、初心者が上手にPCゲームライブ配信を行える方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-content-steps-to-boosting-youtube-visibility/"><u>2024 Approved Elevate Your Content Steps to Boosting YouTube Visibility</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhancing-your-multimedia-interaction-with-vlc-mac/"><u>2024 Approved Enhancing Your Multimedia Interaction with VLC (Mac)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-potential-damage-from-ios-18-on-ipads-key-insights-and-precautions-before-updating-digitalinsight/"><u>Avoid Potential Damage From IOS 18 on iPads: Key Insights & Precautions Before Updating | DigitalInsight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabledisable-network-sharing-on-your-pc-with-windows-10/"><u>Enable/Disable Network Sharing on Your PC with Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-roundup-apple-unveils-new-lineup-with-mini-led-ipad-pro-and-enhanced-apple-pencil-zdnet/"><u>Exclusive Roundup: Apple Unveils New Lineup with Mini LED iPad Pro and Enhanced Apple Pencil | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-ultimate-gamer-smartphones-of-2n-insights-and-rankings/"><u>Exploring the Ultimate Gamer Smartphones of 2N - Insights & Rankings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/final-cut-pro-on-ipad-elevates-filmmaking-with-groundbreaking-features-a-must-read-review/"><u>Final Cut Pro on iPad Elevates Filmmaking with Groundbreaking Features - A Must-Read Review !</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-dvd-player-apps-for-pc-windows-1011-the-ultimate-list-to-watch-dvds-at-no-charge/"><u>Free DVD Player Apps for PC (Windows 10/11): The Ultimate List to Watch DVDs at NO CHARGE!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/geautomatiseerd-konverteren-van-wmv-naar-flv-via-movavi-vrije-online-oplossing/"><u>Geautomatiseerd Konverteren Van WMV Naar FLV via Movavi - Vrije Online Oplossing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/"><u>Leveraging ChatGPT's Power: Building Effective Web Applications Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-a-sweet-deal-get-a-150-gift-card-for-educational-apple-devices-learn-the-simple-purchase-trick-now-digitalscholar/"><u>Secure a Sweet Deal: Get a $150 Gift Card for Educational Apple Devices, Learn the Simple Purchase Trick Now! | DigitalScholar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartwatch-showdown-discover-the-ideal-fit-between-apple-watch-ultra-and-series-8-with-our-expert-analysis/"><u>Smartwatch Showdown: Discover the Ideal Fit Between Apple Watch Ultra & Series 8 with Our Expert Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-gadget-insights/"><u>Tom's Tech Reviews - Comprehensive Gadget Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-reviews-and-comparisons-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Power Solutions - Comprehensive Reviews & Comparisons by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-instructions-how-to-erase-your-yahoo-email-address-forever/"><u>Ultimate Instructions: How To Erase Your Yahoo Email Address Forever</u></a></li>
+</ul></div>
 

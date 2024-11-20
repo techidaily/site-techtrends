@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2024-11-11T17:04:16.839Z
-updated: 2024-11-18T22:57:25.748Z
+date: 2024-11-13T21:15:05.370Z
+updated: 2024-11-19T17:51:01.757Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -27,6 +27,13 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 lolostock / Getty Images
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -38,6 +45,13 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
@@ -45,22 +59,8 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
@@ -75,10 +75,10 @@ lolostock / Getty Images
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
@@ -89,21 +89,14 @@ lolostock / Getty Images
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
@@ -116,6 +109,13 @@ lolostock / Getty Images
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -155,16 +155,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-digital-game-chronicles-snappy-screenshots-for-every-moment/"><u>[New] In 2024, Digital Game Chronicles Snappy Screenshots for Every Moment</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-fusing-iphones-audio-and-visuals-together/"><u>[New] In 2024, Fusing iPhones' Audio and Visuals Together</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-spark-20-proplus-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Spark 20 Pro+ PC | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-my-top-picks-for-reliable-and-accurate-offline-translation-apps/"><u>Explore My Top Picks for Reliable and Accurate Offline Translation Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/keyboard-malfunctions-heres-how-to-get-it-back-in-working-order/"><u>Keyboard Malfunctions? Here's How to Get It Back in Working Order!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-article-introduces-some-of-the-best-free-online-video-loopers-for-windows-mac-and-linux/"><u>New 2024 Approved The Article Introduces some of the Best Free Online Video Loopers for Windows, Mac and Linux</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-steams-disk-writing-issue-a-step-by-step-guide/"><u>Resolving Steam's Disk Writing Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/sequential-advantages-optimal-cpugpu-upgrade-order/"><u>Sequential Advantages: Optimal CPU/GPU Upgrade Order</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-puzzle-a-guide-on-correcting-netflixs-ui-80n-error/"><u>Solving the Puzzle: A Guide on Correcting Netflix's UI-80n Error</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-preserve-tweets-as-visual-delights-with-iosandroid-steps-for-2024/"><u>[New] Preserve Tweets as Visual Delights with iOS/Android Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-videos-affordable-high-quality-effs/"><u>[New] Transform Videos - Affordable, High-Quality Effs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apples-compact-wonder-a-thorough-analysis-of-the-homepod-mini-for-music-lovers-and-techies/"><u>Apple's Compact Wonder: A Thorough Analysis of the HomePod Mini for Music Lovers & Techies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-instructions-for-flushing-the-cache-in-android-phones-and-tablets/"><u>Complete Instructions for Flushing the Cache in Android Phones and Tablets</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-on-performing-dell-datasafe-restoration-and-critical-backup-operations/"><u>Comprehensive Guide on Performing Dell Datasafe Restoration & Critical Backup Operations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-rectify-missing-openal32dll-filesystem-errors/"><u>Comprehensive Solutions to Rectify Missing OpenAL32.dll Filesystem Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/differences-between-sonys-ps5-slim-and-regular-ps5-console-models/"><u>Differences Between Sony's PS5 Slim and Regular PS5 Console Models</u></a></li>
+<li><a href="https://techtrends.techidaily.com/doubling-your-beats-per-minute-can-two-individuals-listen-to-spotify-simultaneeusly/"><u>Doubling Your Beats per Minute: Can Two Individuals Listen to Spotify Simultaneeusly?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-and-safe-methods-to-maintain-your-hd-flat-panel-display/"><u>Easy and Safe Methods to Maintain Your HD Flat-Panel Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-gamepad-driver-for-pc-operating-systems/"><u>Get Your Logitech G29 Steering Wheel Gamepad Driver for PC Operating Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-television-shows-on-pc-free-software-insights/"><u>How to Record Television Shows on PC Free Software Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/install-updated-brother-hl-l2350d0-wireless-printer-drivers-today/"><u>Install Updated Brother HL-L2350D0 Wireless Printer Drivers Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-have-samsung-smart-tv-apps-for-the-year-2024/"><u>Must-Have Samsung Smart TV Apps for the Year 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-tweaking-and-editing-instagram-updates/"><u>Ultimate Tips for Tweaking & Editing Instagram Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-more-power-in-chatgpt-a-guide-to-the-5-most-underutilized-features/"><u>Unlocking More Power in ChatGPT: A Guide to the 5 Most Underutilized Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-11-13T23:19:52.997Z
-updated: 2024-11-19T02:27:52.303Z
+date: 2024-11-17T16:47:22.768Z
+updated: 2024-11-19T17:11:34.253Z
 tags:
   - apple
 categories:
@@ -40,25 +40,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -83,10 +69,10 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -106,10 +92,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -120,11 +106,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,20 +162,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[New] 2024 Approved Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>[New] 2024 Approved Top Free to Text on Mac 30 Apps That Deserve Your Notice</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-navigating-youtube-success-through-strategic-studio-use/"><u>2024 Approved Navigating YouTube Success Through Strategic Studio Use</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-must-know-insights-for-making-a-wise-smartwatch-investment/"><u>5 Must-Know Insights for Making a Wise Smartwatch Investment</u></a></li>
-<li><a href="https://win-forum.techidaily.com/defend-your-data-protecting-text-file-with-simple-password-techniques-explored/"><u>Defend Your Data: Protecting Text File with Simple Password Techniques Explored</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-most-effective-free-skype-alternatives-in-202/"><u>Discover the Most Effective Free Skype Alternatives in 202</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-a-dead-pixel-nightmare-here-are-8-fixes-for-common-tablet-touchscreen-issues/"><u>Experiencing a Dead Pixel Nightmare? Here Are 8 Fixes for Common Tablet Touchscreen Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-cad-programs-unveiled-find-your-perfect-match-among-these-4-favorites/"><u>Free CAD Programs Unveiled: Find Your Perfect Match Among These 4 Favorites</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y02t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y02T Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ink-your-imagination-a-critical-review-of-the-bestiarys-8-iphone-drawing-apps/"><u>In 2024, Ink Your Imagination A Critical Review of the Bestiary's 8 iPhone Drawing Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-security-alert-solved-opening-non-verified-applications/"><u>Mac Security Alert Solved: Opening Non-Verified Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-your-mobile-experience-the-best-timing-for-a-phone-refresh/"><u>Maximizing Your Mobile Experience: The Best Timing for a Phone Refresh</u></a></li>
-<li><a href="https://techtrends.techidaily.com/missing-the-memories-how-to-get-back-into-your-facebook-profile-even-if-you-lost-all-contact-details/"><u>Missing the Memories? How to Get Back Into Your Facebook Profile Even if You Lost All Contact Details</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-fundamentals-of-synchronizing-audio-and-video-in-screencasts-for-2024/"><u>The Fundamentals of Synchronizing Audio and Video in Screencasts for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-roborock-vacuum-models-comprehensive-testing-and-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Roborock Vacuum Models - Comprehensive Testing & Reviews by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-clear-cinematic-vision-top-camera-stabilizers-reviewed-for-2024/"><u>[Updated] Clear Cinematic Vision - Top Camera Stabilizers Reviewed for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-chromecast-and-fire-stick-for-perfect-playback/"><u>Connecting Chromecast and Fire Stick for Perfect Playback</u></a></li>
+<li><a href="https://win-info.techidaily.com/effektivste-strategie-sichere-kopie-ihrer-daten-auf-externer-ssd-in-echtzeit-sichern/"><u>Effektivste Strategie: Sichere Kopie Ihrer Daten Auf Externer SSD in Echtzeit Sichern</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-superior-sound-performance-on-pc-download-compatible-realtek-drivers-for-win11win10win7/"><u>Ensure Superior Sound Performance on PC - Download Compatible Realtek Drivers for Win11/Win10/Win7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-defy-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Defy 2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c12-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C12 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721888392921-is-it-time-to-retire-the-turing-test-five-modern-evaluation-methods-for-artifice-intelligence/"><u>Is It Time to Retire the Turing Test? Five Modern Evaluation Methods for Artifice Intelligence.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/methodology-for-locating-personal-numbers-on-internet-platforms/"><u>Methodology for Locating Personal Numbers on Internet Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-restoring-sounds-in-fortnite/"><u>Step-by-Step Solutions for Restoring Sounds in Fortnite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-ultimate-guide-to-the-best-twitter-management-apps-and-programs/"><u>Top Picks: Ultimate Guide to the Best Twitter Management Apps & Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-sending-texts-from-your-ipad/"><u>Ultimate Guide: Sending Texts From Your iPad</u></a></li>
 </ul></div>
 

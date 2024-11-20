@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2024-11-13T23:57:40.696Z
-updated: 2024-11-19T02:10:21.461Z
+date: 2024-11-13T23:44:11.246Z
+updated: 2024-11-19T18:32:03.795Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,13 +100,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,13 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -143,10 +136,10 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -173,6 +166,13 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,17 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-best-screen-grabber-gadgets-for-youtube-channels/"><u>[Updated] Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-on-adding-straight-lines-into-your-document-using-word/"><u>Easy Tutorial on Adding Straight Lines Into Your Document Using Word</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-privacy-settings-tutorial-for-altering-facebook-login-details/"><u>Enhancing Privacy Settings: Tutorial for Altering Facebook Login Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-installing-the-current-windows-os-on-your-just-unboxed-hard-drive/"><u>Expert Advice: Installing the Current Windows OS on Your Just-Unboxed Hard Drive</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-windows-maintenance-a-comprehensive-tutorial-on-applying-the-check-disk-chkdsk-utility/"><u>Navigating Windows Maintenance: A Comprehensive Tutorial on Applying the Check Disk (Chkdsk) Utility</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-vn-video-editor-on-mac-download-install-or-explore-alternatives/"><u>New VN Video Editor on Mac Download, Install, or Explore Alternatives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-iphone-timelapse-techniques/"><u>Perfecting iPhone Timelapse Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pinpointing-your-place-in-youtubes-varied-landscapes-for-2024/"><u>Pinpointing Your Place in YouTube's Varied Landscapes for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/prime-mkv-deck-for-pcandroid-users/"><u>Prime MKV Deck for PC/Android Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-code-43-issues-a-comprehensive-guide/"><u>Resolving Code 43 Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-restoring-voice-chat-functionality-in-among-us-on-desktop-systems/"><u>Step-by-Step Solutions: Restoring Voice Chat Functionality in Among Us on Desktop Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turning-off-voice-guidance-functionality-on-samsung-televisions-easily/"><u>Turning Off Voice Guidance Functionality on Samsung Televisions Easily</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-luminous-leadership-elevating-content-through-insta-hits/"><u>[New] 2024 Approved Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-crack-open-your-marketing-potential-with-these-nine-tactics/"><u>[New] In 2024, Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ideo-creator-hub/"><u>[New] Video Creator Hub</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>[Updated] Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-blue-screen-of-death-handling-halinitializationfailed-error-code-0x00000n5c/"><u>Fixing the Blue Screen of Death: Handling HAL_INITIALIZATION_FAILED Error Code 0X00000n5c</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-90-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor 90 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rethink-your-inbox-explore-the-best-non-gmail-email-services/"><u>Rethink Your Inbox: Explore the Best Non-Gmail Email Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-solving-the-problem-of-non-typing-keys-on-your-keyboard/"><u>Step-by-Step Guide: Solving the Problem of Non-Typing Keys on Your Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/time-travel-in-your-browser-mastering-the-wayback-machine-for-historical-web-pages/"><u>Time Travel in Your Browser: Mastering the Wayback Machine for Historical Web Pages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-11-pros-window-secrets-for-2024/"><u>Unlocking 11 Pro's Window Secrets for 2024</u></a></li>
 </ul></div>
 

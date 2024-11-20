@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-11-17T19:51:35.843Z
-updated: 2024-11-18T18:06:05.398Z
+date: 2024-11-14T20:34:44.146Z
+updated: 2024-11-19T16:14:54.560Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -60,10 +60,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -104,16 +104,22 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -128,10 +134,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,24 +174,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-lure-inducing-title-engineer/"><u>[New] In 2024, Lure-Inducing Title Engineer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-expedite-excitement-fast-video-on-android/"><u>[Updated] Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-pro-video-cinematography-choosing-the-right-lenses/"><u>2024 Approved Pro Video Cinematography Choosing the Right Lenses</u></a></li>
-<li><a href="https://win-forum.techidaily.com/movavim4raiff/"><u>無限制地獄中的移動影片格式：如何自由使用Movavi來從M4R改變成AIFF</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726224483278-m4v-vob-movavi/"><u>線上 免費M4V 至 VOB 轉換器: 一項全面解決方案 - Movavi指南</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-pbm-images-into-jpeg-format-free-of-cost-moveavi/"><u>Convert PBM Images Into JPEG Format Free of Cost - MoveAVI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crear-video-en-linea-con-zoomare-guia-paso-a-paso-del-editor-de-videos-gratuito/"><u>Crear Vídeo en Línea Con Zoomare: Guía Paso a Paso Del Editor De Videos Gratuito</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-stunning-youtube-previews-discover-the-leading-on-demand-banner-crafters/"><u>Creating Stunning YouTube Previews? Discover the Leading On-Demand Banner Crafters!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-and-safe-methods-for-rooting-your-android-with-root-genius-explained/"><u>Easy and Safe Methods for Rooting Your Android with Root Genius Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-updates-logitech-extreme-3d-pro-drivers-now-with-improved-performance/"><u>Explore the Updates: Logitech Extreme 3D Pro Drivers Now with Improved Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-3gpp-to-mp4-converter-by-movavi-quick-and-easy-file-transformation/"><u>Free Online 3GPP to MP4 Converter by Movavi: Quick and Easy File Transformation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ga-till-digital-med-vhs-filmer-komplett-guide-till-konvertering-av-din-videoproduktion/"><u>Gå Till Digital Med Vhs-Filmer: Komplett Guide Till Konvertering Av Din Videoproduktion</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-recovering-youtube-gems-2-easy-watch-methods-revealed/"><u>In 2024, Recovering Youtube Gems 2 Easy Watch Methods Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavis-latest-free-image-converter-tool-now-available-for-online-use/"><u>Movavi's Latest Free Image Converter Tool Now Available for Online Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997888357-rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-repairs-missing-some-file-improvements/"><u>Stellar Repairs Missing some File Improvements.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforme-seus-arquivos-em-pdf-facil-com-o-convertidor-caf-livre-online-da-movavi/"><u>Transforme Seus Arquivos Em PDF Fácil Com O Convertidor CAF Livre Online Da Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-facilement-m4a-en-mov-gratuitement-en-ligne-via-movavis-service/"><u>Transformez Facilement M4A en MOV Gratuitement en Ligne Via Movavi's Service</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-record-ppt-for-screenplay-use/"><u>[New] 2024 Approved Record PPT for Screenplay Use</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pioneering-sustainability-transforming-metropolitan-environments-for-2024/"><u>[Updated] Pioneering Sustainability Transforming Metropolitan Environments for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-imovie-video-submissions-to-vimeo/"><u>2024 Approved Navigating iMovie Video Submissions to Vimeo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-apple-tv-4k-version-3-assessment-for-tech-enthusiasts/"><u>Advanced Apple TV 4K Version 3 Assessment for Tech Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafted-for-quality-converting-ipv-files-from-instagram-to-mp4-for-2024/"><u>Crafted for Quality Converting IPV Files From Instagram to MP4 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/editing-iphone-videos-using-a-windows-computer-a-step-by-step-guide/"><u>Editing iPhone Videos Using a Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-team-collaboration-through-slack-strategies-to-boost-efficiency/"><u>Effective Team Collaboration Through Slack: Strategies to Boost Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-correcting-missing-or-not-detected-nspr4dll-errors/"><u>Expert Advice: Correcting Missing or Not Detected Nspr^4.dll Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-storytelling-youtube-channels-to-follow-this-year/"><u>In 2024, Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-account-the-process-of-modifying-your-facebook-password/"><u>Protecting Your Account: The Process of Modifying Your Facebook Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-binkw32dll-file-not-found-mistake-a-step-by-step-guide/"><u>Resolving the binkw32.dll File Not Found Mistake: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/room-10-revealed-tips-for-texting-triumph/"><u>Room 10 Revealed: Tips for Texting Triumph</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-story-of-facebook-from-startup-to-giant-discover-the-appeal-and-main-functions/"><u>The Story of Facebook: From Startup to Giant - Discover the Appeal & Main Functions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/x-audio-capture-pc-version-for-2024/"><u>X-Audio Capture PC Version for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Linking Google Duo Features for a Smarter Gmail Chat"
-date: 2024-11-12T00:39:52.103Z
-updated: 2024-11-18T20:18:32.474Z
+date: 2024-11-15T17:13:39.201Z
+updated: 2024-11-19T18:03:17.418Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Tutorial: Linking Google Duo Features for a Smarter Gmail Chat"
@@ -22,10 +22,10 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Will Google Announce?
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Previous Google Events
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  You can watch the entire event below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Latest News About Google
@@ -97,22 +97,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-easy-routines-for-screening-gameplay-footage-for-2024/"><u>[New] Easy Routines for Screening Gameplay Footage for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-repair-glitches-in-instagram-likescomments/"><u>[New] Repair Glitches in Instagram Likes/Comments</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/5zub5asn5a625bi45oml5q6177ya6yen54plusplus56gs56kf5lik5rai5asx5qqu5qgi77yi5ywn6lk757ea5lik5lil6lyj77yj/"><u>四大家常手段：重現硬碟上消失檔案（免費線上下載）</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-amazon-fire-tv-stick-with-a-projector-a-comprehensive-tutorial/"><u>Connecting Amazon Fire TV Stick with a Projector - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-the-best-our-full-scrutiny-of-inshot-app/"><u>Discovering the Best - Our Full Scrutiny of InShot App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expand-your-workspace-connecting-multiple-monitors-for-enhanced-productivity/"><u>Expand Your Workspace: Connecting Multiple Monitors for Enhanced Productivity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-hand-tracking-an-in-depth-look/"><u>Exploring Hand Tracking An In-Depth Look</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-8-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 8 without Passcode</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-building-better-teams-ergonomics-and-effective-office-layouts/"><u>In 2024, Building Better Teams Ergonomics and Effective Office Layouts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-a60-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel A60 Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-solutions-for-handling-libxml2dll-not-detected-bugs-without-a-glitch/"><u>In-Depth Solutions for Handling 'Libxml2.dll Not Detected' Bugs Without a Glitch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-it-possible-to-enjoy-your-ps4-collection-on-the-latest-ps5-console/"><u>Is It Possible to Enjoy Your PS4 Collection On The Latest PS5 Console?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-voice-commands-reading-text-with-siri-on-apple-devices/"><u>Mastering Voice Commands: Reading Text with Siri on Apple Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722899660559-max-entertainment-highlights-the-selection-we-cant-get-enough-of/"><u>Max Entertainment Highlights: The Selection We Can’t Get Enough Of!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-windows-woes-fixing-the-elusive-helperdll-not-found-problems/"><u>Navigating Windows Woes: Fixing the Elusive Helper.dll Not Found Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-make-all-your-iphones-apps-visible-again/"><u>Step-by-Step Tutorial: How to Make All Your iPhone's Apps Visible Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202614318-troubleshooting-persistent-loops-in-windows-10-automatic-repairs-solved/"><u>Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-deep-dive-into-rank-tracker-solutions-for-peak-success-on-youtube/"><u>[New] 2024 Approved Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-supplementary-video-for-enhanced-storytelling/"><u>[New] Mastering Supplementary Video for Enhanced Storytelling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-setting-up-auto-play-youtube-content-on-facebook-platform/"><u>[Updated] 2024 Approved Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-users-handbook-the-process-of-deactivating-facebook-apps/"><u>Android Users' Handbook: The Process of Deactivating Facebook Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-steelseries-gg-controller-engine-failures-in-windows-environments/"><u>Expert Tips for Resolving SteelSeries GG Controller Engine Failures in Windows Environments</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-ace-2-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Ace 2 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-iphones-for-gamers-finding-the-perfect-phone-for-playing-games/"><u>Navigating iPhones for Gamers: Finding the Perfect Phone for Playing Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-for-creating-a-secondary-email-address-in-gmail/"><u>The Beginner's Handbook for Creating a Secondary Email Address in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/thermal-resistance-increases-with-material-thickness-reducing-the-rate-of-heat-flow-through-that-layer/"><u>Thermal Resistance Increases with Material Thickness, Reducing the Rate of Heat Flow Through that Layer.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-industry-experts-techradar/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-mystery-of-a-non-functional-youtube/"><u>Troubleshooting Tips: Solving the Mystery of a Non-Functional YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos-for-2024/"><u>Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-and-missing-cursor-mystery-solved-tips-and-fixes/"><u>Windows 10 and Missing Cursor Mystery Solved – Tips & Fixes!</u></a></li>
 </ul></div>
 

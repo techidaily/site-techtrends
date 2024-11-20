@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-11-12T17:05:51.036Z
-updated: 2024-11-19T02:16:56.143Z
+date: 2024-11-18T19:13:37.388Z
+updated: 2024-11-19T20:24:18.143Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -109,16 +109,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -148,6 +142,13 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | CPU (Single Core)            | 140                 |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
 
@@ -179,13 +180,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -197,10 +191,10 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -249,22 +243,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cut-through-competition-advanced-techniques-for-instagram-ready-videos/"><u>[New] In 2024, Cut Through Competition Advanced Techniques for Instagram-Ready Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-your-virtual-self-the-art-of-replicating-oneself-on-tiktok/"><u>[Updated] 2024 Approved Elevate Your Virtual Self The Art of Replicating Oneself on TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-effortless-link-upload-on-instagrams-social-sphere-for-2024/"><u>[Updated] Effortless Link Upload on Instagram's Social Sphere for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963584673-approach-discuss-the-impact-of-temperature-on-the-hydration-reaction-and-concrete-properties/"><u>Approach: Discuss the Impact of Temperature on the Hydration Reaction and Concrete Properties.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-mp4-editing-software-of-2024-top-11-picks-for-video-enthusiasts/"><u>Best Free MP4 Editing Software of 2024 - Top 11 Picks for Video Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/can-a-64gb-drive-manage-large-video-files-for-2024/"><u>Can a 64GB Drive Manage Large Video Files for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertidor-gratuito-on-line-de-mp3-a-m4a-guia-completa-con-movavi/"><u>Convertidor Gratuito On-Line De MP3 a M4A: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertis-votre-image-webp-en-jpg-rapidement-sans-cout-demo-online-de-movavi/"><u>Convertis Votre Image Webp En Jpg Rapidement Sans Coût - Démo Online De Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descongelar-archivos-mp4-como-convertir-videos-de-3gpp-a-linea-libre-gratuita-movavi/"><u>Descongelar Archivos MP4: Cómo Convertir Videos De 3GPP a Línea Libre Gratuita - Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ending-the-nuisance-a-guide-to-blocking-unsolicited-messages-on-your-iphone/"><u>Ending the Nuisance: A Guide to Blocking Unsolicited Messages on Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-online-converter-voor-arw-en-png-efficient-omzijdig-werken-met-behulp-van-de-movavi-toolset/"><u>Gratis Online Converter Voor ARW en PNG: Efficiënt Omzijdig Werken Met Behulp Van De Movavi Toolset</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-8t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 8T To Phone | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/image-excellence-showdown-unveiling-the-best-qualities-between-png-and-jpg/"><u>Image Excellence Showdown: Unveiling the Best Qualities Between PNG and JPG</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-audacity-for-professional-sound-capture/"><u>In 2024, Mastering Audacity for Professional Sound Capture</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-video-editing-software-tools-to-transform-your-footage-into-stunning-visuals/"><u>Top Video Editing Software: Tools to Transform Your Footage Into Stunning Visuals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforma-ts-en-video-mkv-online-sin-costo-una-guia-completa-sobre-movavi/"><u>Transforma TS en Vídeo MKV Online Sin Costo: Una Guía Completa Sobre Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-step-by-step-for-rapid-ipod-song-migration-achieve-seamless-transfers/"><u>Ultimate Step-by-Step for Rapid iPod Song Migration – Achieve Seamless Transfers!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-the-art-of-capturing-live-cricket-action/"><u>[Updated] Mastering the Art of Capturing Live Cricket Action</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tips-for-perfecting-sound-tracks-start-with-auditions-fade-in-for-2024/"><u>[Updated] Tips for Perfecting Sound Tracks Start with Audition's Fade-In for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-v30-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo V30 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-adding-subtitles-to-your-instagram-story-content/"><u>A Step-by-Step Guide: Adding Subtitles to Your Instagram Story Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-walkthrough-for-including-source-code-within-a-word-doc/"><u>Comprehensive Walkthrough for Including Source Code Within a Word Doc</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-bring-back-the-buzz-chromecast-audio-problems-resolved/"><u>Expert Tips to Bring Back the Buzz: Chromecast Audio Problems Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-stutter-in-starfield-gameplay-a-comprehensive-guide-to-smooth-soundscape/"><u>Fixing Stutter in Starfield Gameplay - A Comprehensive Guide to Smooth Soundscape</u></a></li>
+<li><a href="https://techtrends.techidaily.com/immerse-yourself-in-middle-earth-watching-lord-of-the-rings-in-correct-progression/"><u>Immerse Yourself in Middle-Earth: Watching ‘Lord of the Rings’ In Correct Progression</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/masterclass-view-and-modify-mac-pages-documents-using-microsoft-office-suite/"><u>Masterclass: View and Modify Mac Pages Documents Using Microsoft Office Suite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-the-pc-reset-error-in-windows-expert-advice-and-methods/"><u>Navigating Through the PC Reset Error in Windows: Expert Advice and Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-resolution-to-amd-woes/"><u>Quick Resolution to AMD Woes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/text-mastery-cutting-edge-effects-guide-for-2024/"><u>Text Mastery Cutting-Edge Effects Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-compre-written-in-the-stars-harnessing-hidden-opportunities-for-insta-sponsorships-for-2024/"><u>The Compre Written in the Stars Harnessing Hidden Opportunities for Insta-Sponsorships for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-essential-gadgets-and-tools-for-students-in-the-classroom/"><u>Top 9 Essential Gadgets and Tools for Students in the Classroom</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functional-xbox-series-x-and-s-headsets/"><u>Troubleshooting Guide: Resolving Issues with Non-Functional Xbox Series X & S Headsets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-mysterious-black-display-in-windows-11/"><u>Ultimate Guide: Resolving the Mysterious Black Display in Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-personalization-and-insights-for-websites-enabled-by-cookiebot-technology/"><u>Unlock Personalization and Insights for Websites, Enabled by Cookiebot Technology</u></a></li>
 </ul></div>
 

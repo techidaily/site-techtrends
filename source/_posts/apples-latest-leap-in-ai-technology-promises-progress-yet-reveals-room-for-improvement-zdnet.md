@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-11-14T02:08:14.212Z
-updated: 2024-11-18T18:08:32.748Z
+date: 2024-11-17T21:56:43.548Z
+updated: 2024-11-19T21:44:19.256Z
 tags:
   - apple
 categories:
@@ -69,29 +69,25 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>[New] The Sound of You How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-ogmwmv/"><u>網路直接免費轉檔Movavi OGM成WMV - 最佳線上換格器</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-robocopy-tutorial-one-directional-copying-methods-and-top-open-source-solutions/"><u>Comprehensive Robocopy Tutorial: One-Directional Copying Methods and Top Open Source Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-finest-15-no-cost-desktop-recording-tools-by-movavi-ratings/"><u>Discover the Finest 15 No-Cost Desktop Recording Tools by Movavi Ratings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>In 2024, A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-competing-visions-of-virtual-space-google-against-samsung/"><u>In 2024, Competing Visions of Virtual Space Google Against Samsung</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-audio-with-apods/"><u>In 2024, Navigating the World of Audio with APods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/longest-flight-drone-champions-unveiled/"><u>Longest Flight Drone Champions Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mpg-file-transformation-into-flv-format-free-quick-and-easy-with-movavi-converter/"><u>MPG File Transformation Into FLV Format Free - Quick & Easy with Movavi Converter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-outils-logiciels-pour-creer-des-gifs-parfaits-la-selection-de-2024-avec-movavi/"><u>Top 10 Outils Logiciels Pour Créer Des GIFs Parfaits - La Sélection De 2024 Avec Movavi</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-meta-vision-pro-the-new-virtual-reality-gear-with-apples-unexpected-innovation-zdnet-coverage/"><u>Unveiling the Meta Vision Pro: The New Virtual Reality Gear with Apple's Unexpected Innovation - ZDNet Coverage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-current-and-future-drone-use-cases-unveiled/"><u>[New] In 2024, Current & Future Drone Use Cases Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-chrome-os-4-screenshots-tricks/"><u>[New] Mastering Chrome OS 4 Screenshots Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-old-tweet-discovery-mining-twitters-history-for-2024/"><u>[New] Old Tweet Discovery Mining Twitter's History for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-bio-upgrade-merging-linktree-with-tiktoks-profiles/"><u>[Updated] Masterful Bio Upgrade Merging Linktree with TikTok's Profiles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[Updated] Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-add-an-email-signature-in-your-godaddy-webmail-account/"><u>Easy Steps to Add an Email Signature in Your GoDaddy Webmail Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-info-alert-discover-psvr2-release-timeline-pricing-structure-and-advanced-hardware-details/"><u>Exclusive Info Alert: Discover PSVR2 Release Timeline, Pricing Structure and Advanced Hardware Details</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nubia-red-magic-8s-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nubia Red Magic 8S Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-use-of-android-apps-seamlessly-in-windows-11-environment/"><u>Mastering the Use of Android Apps Seamlessly in Windows 11 Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-strategy-for-finding-and-restoring-accidentally-deleted-emails-in-your-gmail-account/"><u>The Ultimate Strategy for Finding and Restoring Accidentally Deleted Emails in Your Gmail Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tactics-when-are-my-car-speakers-going-blind/"><u>Troubleshooting Tactics: When Are My Car Speakers Going Blind?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/aviutlmp3/"><u>ぴったりフィットするAviUtl用MP3読み込めない問題を簡単に直す手引き</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

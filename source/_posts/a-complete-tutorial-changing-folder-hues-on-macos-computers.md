@@ -1,7 +1,7 @@
 ---
 title: "A Complete Tutorial: Changing Folder Hues on macOS Computers"
-date: 2024-09-05T11:43:54.207Z
-updated: 2024-09-06T11:43:54.207Z
+date: 2024-11-12T19:10:34.127Z
+updated: 2024-11-19T23:59:07.198Z
 categories:
   - BestProducts
 description: "This Article Describes A Complete Tutorial: Changing Folder Hues on macOS Computers"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes A Complete Tutorial: Changing Folder Hues on ma
 thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436fc15107daf1c967de0dbd7e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Digital Romance Made Simple: Your Go-To Tutorial for Typing Heart Characters
 ### What to Know
 
@@ -25,11 +19,12 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Type a Heart on a Windows Keyboard
 
  The heart symbol ❤️ is a commonly used emoji character, but most keyboards don’t have a designated key. Fortunately, you_can_ [type emoji from your keyboard on Windows and Macs](https://www.lifewire.com/how-to-type-emojis-4685680) if you know the right keyboard shortcuts.
@@ -40,41 +35,18 @@ These instructions apply to PCs running Windows 10 and up.
 2. Hold down the**Windows button** on your keyboard and then press the**. (Period)** . This sequence will bring up a small emoji keyboard.  
 ![Opening emoji keyboard on Windows 10.](https://www.lifewire.com/thmb/-WDCEXTJDwtJV5m28dICzk7cOjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-make-a-heart-on-a-keyboard-215e5e67aeb0414fadcda95a45f78ac4.jpg)
 3. Click the**Symbols** category in the bottom right corner (the heart icon).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Selecting heart emoji on Windows 10.](https://www.lifewire.com/thmb/CMP4tPIZk0BE6YGFylNX7stmONg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-make-a-heart-on-a-keyboard-8e8ecaec35874828964402365c012483.jpg)
 4. Click the**Heart Symbol** you’d like to type and it will appear in the text box.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Searching for heart symbols in Windows 10 emoji keyboard.](https://www.lifewire.com/thmb/he1nmNHtoHpm3MfjTRVW5syHTL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-make-a-heart-on-a-keyboard-e23bb514fd57475a8cd26382f42d4f79.jpg)  
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -87,14 +59,30 @@ These instructions apply to PCs running Windows 10 and up.
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Alt Code for a Heart?
 
@@ -156,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +151,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-elevate-youtube-navigating-tweets-in-1080p-clarity/"><u>[New] Elevate YouTube Navigating Tweets in 1080P Clarity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-budget-friendly-srt-translators-unveiled-online/"><u>[Updated] Best Budget-Friendly SRT Translators Unveiled Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-blurring-identity-erasing-faces-from-video-content-for-2024/"><u>[Updated] Blurring Identity Erasing Faces From Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spectacular-gaming-capture-options/"><u>[Updated] Spectacular Gaming Capture Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/3d-lut-expertise-in-a-quick-learning-journey-for-2024/"><u>3D LUT Expertise in a Quick Learning Journey for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accidentally-repotted-learn-to-remove-a-repot-in-tiktok-without-stress/"><u>Accidentally Repotted? Learn to Remove a Repot in TikTok Without Stress</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ecoflows-innovative-portable-charger-sustain-your-electronics-for-an-entire-month-check-out-zdnets-review/"><u>EcoFlow's Innovative Portable Charger - Sustain Your Electronics for an Entire Month! Check Out ZDNET's Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-master-the-definitive-guide-to-playing-pokemon-go/"><u>From Novice to Master: The Definitive Guide to Playing Pokémon GO</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-proplus-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 Pro+ 5G Lock Screen Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-your-stubborn-airpods-back-on-track-resetting-made-easy/"><u>How To Get Your Stubborn AirPods Back On Track – Resetting Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quickly-address-not-found-or-missing-d3dx933dll-errors/"><u>How To Quickly Address 'Not Found' Or 'Missing' d3dx9_33.dll Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-fix-and-reset-an-unresponsive-samsung-soundbar/"><u>How to Successfully Fix and Reset an Unresponsive Samsung Soundbar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-ipads-equipped-with-onboard-navigation-systems/"><u>Identifying iPads Equipped with Onboard Navigation Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-custom-display-settings-in-apples-finder-full-guide-to-managing-folders-and-subfolders/"><u>Mastering the Art of Custom Display Settings in Apple's Finder - Full Guide to Managing Folders & Subfolders</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/s-most-popular-online-video-reverse-editors-for-2024/"><u>S Most Popular Online Video Reverse Editors for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fix-how-to-resolve-ac1st16dll-missing-file-problems/"><u>Step-by-Step Fix: How to Resolve 'Ac1st16.dll' Missing File Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-watching-fandango-on-your-apple-tv-at-home/"><u>The Ultimate Walkthrough for Watching Fandango on Your Apple TV at Home</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-play-8t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Play 8T for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-narrative-engagement-startup/"><u>Windows 11 Narrative Engagement Startup</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-11-14T22:50:14.951Z
-updated: 2024-11-18T23:06:19.460Z
+date: 2024-11-16T22:45:03.015Z
+updated: 2024-11-19T21:10:39.048Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -55,19 +55,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -87,10 +74,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
@@ -107,6 +94,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * No single point of contact for support.
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Advantages of Building
 
@@ -130,6 +124,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -137,20 +138,13 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Julie Bang
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -195,22 +189,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-image-editing-excellence-with-top-apps-list/"><u>[New] In 2024, Image Editing Excellence with Top Apps List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-editing-apps-revolutionize-your-photo-backgrounds/"><u>[Updated] Top Editing Apps Revolutionize Your Photo Backgrounds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029389686-av1/"><u>高効率なAV1でのビデオエンコード手順解説</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambiar-contenido-musical-de-m4a-a-mp4-gratuito-online-con-herramientas-de-movavi/"><u>Cambiar Contenido Musical De M4A a MP4 Gratuito Online Con Herramientas De Movavi</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-purging-temporary-files-from-windows-5-master-the-art-of-cleanup-optimizing-your-pc-by-clearing-cache-in-windows-10/"><u>Comprehensive Walkthrough: Purging Temporary Files From Windows #5 Master the Art of Cleanup: Optimizing Your PC by Clearing Cache in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-the-darkness-overcoming-google-chromes-intimidating-black-screen-challenge/"><u>Decode the Darkness: Overcoming Google Chrome's Intimidating Black Screen Challenge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-converter-convert-wmampe-files-with-ease-using-movavi/"><u>Free Online Converter: Convert WMA/MPE Files with Ease Using Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuita-conversao-online-de-arquivos-aiff-para-mp3-movavi/"><u>Gratuita Conversão Online De Arquivos AIFF Para MP3 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-convert-your-mka-video-to-mkv-without-costs-using-movavis-quick-method/"><u>How to Convert Your MKA Video to MKV Without Costs Using Movavi's Quick Method</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>In 2024, Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass OnePlus 12R FRP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-online-gif-to-tiff/"><u>Movavi가 제공하는 원금 없이 Online GIF to TIFF 변환 - 단정한 지원</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-your-cs-workflow-with-codegpt-and-vs-code/"><u>Transforming Your CS Workflow with CodeGPT and VS Code</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-facilmente-i-file-mp4-in-formato-wma-gratuitamente-con-lutilita-di-conversione-di-movavi/"><u>Trasforma Facilmente I File MP4 in Formato WMA Gratuitamente Con L'utilità Di Conversione Di Movavi!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tsmp4movavi/"><u>TS到MP4轉換技巧：Movavi的全面教程</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-flv-format-a-comprehensive-guide-with-movavi-player-tips/"><u>Understanding FLV Format: A Comprehensive Guide with Movavi Player Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-windows-11-for-optimal-hdmi-functionality/"><u>Upgrading Windows 11 for Optimal HDMI Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-curated-webcams-for-ultimate-zoom-video-conferencing/"><u>[New] Expertly Curated Webcams for Ultimate Zoom Video Conferencing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-laughter-lane-top-7-comedy-content-concepts-for-vloggers/"><u>[Updated] Laughter Lane Top 7 Comedy Content Concepts for Vloggers</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Google Pixel Fold</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-instructions-on-how-to-disable-and-delete-copilot-on-windows-11/"><u>Complete Instructions on How to Disable and Delete Copilot on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-students-handbook-how-to-choose-the-perfect-laptop-or-desktop/"><u>Comprehensive Student's Handbook: How to Choose the Perfect Laptop or Desktop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-compatible-hp-designjet-printer-drivers-t520g409f310-models/"><u>Find & Download Compatible HP DesignJet Printer Drivers (T520/G409/F310 Models)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-sharing-gameplay-experiences-on-your-ps5-console/"><u>Guide: Sharing Gameplay Experiences on Your PS5 Console</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-14-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on 14?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-safely-update-your-ipad-to-the-latest-ios-version-without-facing-bricking-problems-zdnet-insights/"><u>How to Safely Update Your iPad to the Latest iOS Version Without Facing Bricking Problems | ZDNET Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lenovo-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lenovo Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-winning-game-recording-guide-for-w11-users/"><u>In 2024, Winning Game Recording Guide for W11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-guide-disabling-access-to-youtube-on-your-tablet/"><u>IOS Guide: Disabling Access to YouTube on Your Tablet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-accessibility-on-insta-a-tutorial-for-instagram-story-captions/"><u>Mastering Accessibility on Insta: A Tutorial for Instagram Story Captions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-homework-together-unveiling-our-selection-of-6-preferred-study-apps/"><u>Mastering Homework Together: Unveiling Our Selection of 6 Preferred Study Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/messaging-insights-techniques-to-tell-when-your-sms-is-actually-viewed/"><u>Messaging Insights: Techniques to Tell When Your SMS Is Actually Viewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-green-a-guide-to-finding-electric-vehicle-chargers-with-google-maps/"><u>Navigating Green: A Guide to Finding Electric Vehicle Chargers with Google Maps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-predictions-whats-coming-at-the-forthcoming-google-event-with-exclusive-insights/"><u>Navigating Through Predictions - What's Coming at the Forthcoming Google Event with Exclusive Insights</u></a></li>
 </ul></div>
 

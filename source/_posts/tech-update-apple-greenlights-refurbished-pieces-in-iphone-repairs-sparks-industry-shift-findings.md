@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple Greenlights Refurbished Pieces in iPhone Repairs, Sparks Industry Shift | Findings"
-date: 2024-11-13T01:20:47.130Z
-updated: 2024-11-18T19:03:33.274Z
+date: 2024-11-13T20:23:41.000Z
+updated: 2024-11-19T16:44:34.213Z
 tags:
   - apple
 categories:
@@ -45,6 +45,13 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -60,13 +67,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
@@ -74,10 +74,10 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -135,10 +135,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -155,19 +155,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -179,6 +166,13 @@ Kerry Wan/ZDNET
 Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don't take for granted that fewer animations mean the iPhone 15 is more battery efficient than the Pro, but in a world where even sub-$200 phones have 120Hz displays, I really wish that Apple gave its $800 iPhone something smoother on the eyes.
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -218,14 +212,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] In 2024, Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-metaverse-vs-multi-meva-understanding-their-core-differences/"><u>[New] Metaverse Vs. Multi-Meva Understanding Their Core Differences</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726222512622-asfwav-movavi/"><u>網路直接無限制地移變ASF到WAV格式 - 避重回歸Movavi編輯器</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversor-de-video-online-gratuito-de-vob-para-asf-com-o-movavi-atualizacao-simplificada/"><u>Conversor De Vídeo Online Gratuito: De VOB Para ASF Com O Movavi - Atualização Simplificada!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-video-making-on-mac-with-movavi-a-comprehensive-step-by-step-instructional-guide/"><u>Effortless Video Making on Mac with Movavi - A Comprehensive Step-by-Step Instructional Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-m54-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/premium-high-resolution-pics-viewer-quickly/"><u>Premium High-Resolution Pics Viewer, Quickly</u></a></li>
-<li><a href="https://discover-community.techidaily.com/transformer-des-fichiers-dpx-en-format-tiff-sur-demande-gratuiciel-de-conversion-en-ligne-avec-movavi/"><u>Transformer Des Fichiers DPX en Format TIFF Sur Demande - Gratuiciel De Conversion en Ligne Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-rapidement-vos-fichiers-videos-au-format-flv-facilement-grace-a-lexpertise-du-convertisseur-rapidflt-de-movavi/"><u>Transformez Rapidement Vos Fichiers Vidéos Au Format FLV Facilement Grâce À L'expertise Du Convertisseur RapidFLT De Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-make-your-periscope-stream-swifter/"><u>[New] 2024 Approved How to Make Your Periscope Stream Swifter</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-complete-breakdown-of-facebooks-changes-for-2024/"><u>[New] The Complete Breakdown of Facebook's Changes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>[Updated] Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimal-action-capture-software-insights/"><u>2024 Approved Optimal Action Capture Software Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-quick-dive-into-obs-zoom-fusion-steps-for-2024/"><u>A Quick Dive Into OBS-Zoom Fusion Steps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479268047-can-iphone-save-images-in-the-cloud-post-deletion-top-8-solutions/"><u>Can iPhone Save Images in the Cloud Post-Deletion? Top 8 Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-7-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 7 Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-eradication-expertise-tackling-missing-helperdll-file-errors-effectively/"><u>Error Eradication Expertise: Tackling Missing Helper.dll File Errors Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-a-disabled-instagram-account-essential-tips-and-tricks/"><u>Recovering A Disabled Instagram Account: Essential Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-biz-strategy-with-chatgpt-whisper-apis/"><u>Revolutionizing Biz Strategy with ChatGPT, Whisper APIs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-microsofts-copilot-from-your-windows-11-pc/"><u>Step-by-Step Guide: Removing Microsoft's Copilot From Your Windows 11 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-msidll-is-missing-or-unable-to-locate-errors/"><u>Step-by-Step Solution for 'msi.dll Is Missing or Unable to Locate' Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-remove-images-from-icloud-without-losing-them-on-your-iphone/"><u>Steps to Remove Images From iCloud Without Losing Them on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ins-and-outs-of-t-mobiles-in-home-connectivity-strategy/"><u>The Ins and Outs of T-Mobile's In-Home Connectivity Strategy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-vpn-mishaps-understanding-and-fixing-error-800-on-clientserver/"><u>Troubleshooting VPN Mishaps: Understanding and Fixing Error 800 on Client/Server</u></a></li>
 </ul></div>
 

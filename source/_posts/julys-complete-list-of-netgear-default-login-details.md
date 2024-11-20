@@ -1,7 +1,7 @@
 ---
 title: July's Complete List of NETGEAR Default Login Details
-date: 2024-09-05T11:41:42.286Z
-updated: 2024-09-06T11:41:42.286Z
+date: 2024-11-18T18:32:03.369Z
+updated: 2024-11-19T17:49:00.152Z
 categories:
   - BestProducts
 description: This Article Describes July's Complete List of NETGEAR Default Login Details
@@ -25,18 +25,6 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -48,18 +36,19 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -69,18 +58,6 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -88,11 +65,12 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -104,12 +82,6 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -130,6 +102,13 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -143,11 +122,18 @@ thumbnail: https://www.lifewire.com/thmb/rPQ7N2qzLe3ekNCB2qJ4MK1DW_4=/400x300/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -176,8 +162,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +169,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>[Updated] The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-tune-tracker-next-gen-audio/"><u>2024 Approved Tune Tracker Next-Gen Audio</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-xcover-6-pro-tactical-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy XCover 6 Pro Tactical Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-mobile-entertainment-our-number-one-choices-for-gaming/"><u>Best Mobile Entertainment: Our Number One Choices for Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-overcome-code-nterrorist-wanted-1093767533133-error-on-windows/"><u>Comprehensive Solutions to Overcome Code nTerrorist-Wanted-1093767533133 Error on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crafting-the-ideal-summer-edc-7-crucial-components-you-cant-miss/"><u>Crafting the Ideal Summer EDC: 7 Crucial Components You Can't Miss</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-error-code-0x80070570-and-swift-resolution-techniques/"><u>Decoding Error Code 0X80070570 and Swift Resolution Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y78plus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y78+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-is-instagrams-self-validation-a-game-changer/"><u>In 2024, Is Instagram’s Self-Validation a Game Changer?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-guide-how-dacs-enhance-sound-quality-and-whether-you-should-get-one/"><u>In-Depth Guide: How DACs Enhance Sound Quality & Whether You Should Get One</u></a></li>
+<li><a href="https://techtrends.techidaily.com/make-an-informed-decision-5-must-know-tips-when-selecting-stereo-speakers/"><u>Make an Informed Decision: 5 Must-Know Tips When Selecting Stereo Speakers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-ps4-screen-captures-a-comprehensive-guide/"><u>Mastering the Art of PS4 Screen Captures - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-media-library-proven-fixes-for-usual-photography-hiccups/"><u>Navigating iPhone Media Library: Proven Fixes for Usual Photography Hiccups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preparing-for-the-next-tech-wave-samsung-unpacked-2025-schedule-and-rumored-gadget-rundown/"><u>Preparing for the Next Tech Wave: Samsung Unpacked 2025, Schedule & Rumored Gadget Rundown</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-vivo-y28-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Vivo Y28 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-immersive-gaming-sony-vr-headset-upcoming-release-date-forecasted-pricing-and-potential-features-uncovered/"><u>The Future of Immersive Gaming: Sony VR Headset - Upcoming Release Date, Forecasted Pricing, and Potential Features Uncovered</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-with-hitman-n-game-heres-how-to-resolve-the-notorious-pc-black-screen-problem/"><u>Trouble with Hitman N Game? Here's How to Resolve the Notorious PC Black Screen Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-elden-ring-online-play-solutions-and-tips/"><u>Troubleshooting Elden Ring Online Play: Solutions and Tips</u></a></li>
+</ul></div>
 
