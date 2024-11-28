@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-11-12T18:02:45.284Z
-updated: 2024-11-19T17:30:10.497Z
+date: 2024-11-27T17:14:37.590Z
+updated: 2024-11-28T17:50:48.795Z
 tags:
   - apple
 categories:
@@ -28,7 +28,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -37,10 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,18 +62,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -79,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -90,13 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,19 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-astonishing-assessment-and-alternative-choices/"><u>[New] Astonishing Assessment & Alternative Choices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>2024 Approved Mini Masterpieces Top 6 Coolest Mini-Houses in MC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722865781259-best-15-free-anti-malware-programs-for-a-safer-pc-experience-try-them-today/"><u>Best 15 Free Anti-Malware Programs for a Safer PC Experience, Try Them Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capturing-better-photos-a-guide-to-upgrading-your-ios-devices-cameras/"><u>Capturing Better Photos: A Guide to Upgrading Your iOS Device's Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-language-mastery-the-ultimate-selection-of-apps/"><u>Free Language Mastery: The Ultimate Selection of Apps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-graphics-card-drivers-easy-download-and-update/"><u>Get the Latest NVIDIA Graphics Card Drivers - Easy Download & Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insider-tips-and-tricks-for-effective-at-home-charge-your-ev-systems/"><u>Insider Tips and Tricks for Effective At-Home Charge Your EV Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-evolution-of-macos-unveiling-each-release-and-its-features-in-detail/"><u>The Evolution of macOS: Unveiling Each Release and Its Features in Detail</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x50i-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X50i Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/travel-smart-mastering-the-art-of-roku-streaming-on-the-go/"><u>Travel Smart: Mastering the Art of Roku Streaming On-the-Go</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-your-brainpower-innovative-methods-for-brainstorming-with-mind-mapping-and-conversational-ai-chatgpt/"><u>Unlock Your Brainpower: Innovative Methods for Brainstorming With Mind Mapping and Conversational AI, ChatGPT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-comprehensive-guide-your-shorts-hidden-thumbnails/"><u>[New] 2024 Approved Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-10-indispensable-instagram-video-editing-apps-for-marketers/"><u>[New] In 2024, 10 Indispensable Instagram Video Editing Apps for Marketers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-resolving-cmos-checksum-mismatch-issues/"><u>Complete Guide: Resolving CMOS Checksum Mismatch Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-steps-for-deep-cleaning-household-audio-speakers/"><u>Essential Guide: Steps for Deep-Cleaning Household Audio Speakers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/frame-it-up-right-expert-approved-photo-editing-software-2023-for-2024/"><u>Frame It Up Right Expert-Approved Photo Editing Software, 2023 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-immediate-playback-problems-for-selected-movies-or-shows-on-netflix/"><u>How to Resolve Immediate Playback Problems for Selected Movies or Shows on Netflix</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c51-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-missing-media-magic-no-videos-on-sony-a6400/"><u>In 2024, Missing Media Magic No Videos on Sony A6400</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-s23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy S23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-huawei-p60-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Huawei P60 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-trendsetters-on-twitternet-top-10-threads-ranking/"><u>In 2024, Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-lenovo-x1-carbon-device-drivers-for-windows-operating-systems-windows-10-and-7/"><u>Quick Download: Lenovo X1 Carbon Device Drivers for Windows Operating Systems (Windows 10 & 7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-missing-mfc42ddll-files-on-windows-systems/"><u>Step-by-Step Solution for Missing mfc42d.dll Files on Windows Systems</u></a></li>
 </ul></div>
 

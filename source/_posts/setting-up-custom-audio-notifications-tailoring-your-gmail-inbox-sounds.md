@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Custom Audio Notifications: Tailoring Your Gmail Inbox Sounds"
-date: 2024-09-05T11:41:07.484Z
-updated: 2024-09-06T11:41:07.484Z
+date: 2024-11-21T16:51:19.457Z
+updated: 2024-11-28T17:09:38.508Z
 categories:
   - BestProducts
 description: "This Article Describes Setting Up Custom Audio Notifications: Tailoring Your Gmail Inbox Sounds"
@@ -9,19 +9,7 @@ excerpt: "This Article Describes Setting Up Custom Audio Notifications: Tailorin
 thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a8000cea452bed766d220fa39c3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Erasing Your Digital Footprint: A Comprehensive Guide to Deleting Your Yahoo Mail Account
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
@@ -29,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 * You have 30 days to reactivate your Yahoo account if you change your mind. Just log back in to use it again.
 
  This article explains how to delete a Yahoo account from a web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete a Yahoo Mail Account
 
@@ -46,47 +38,34 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
+
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
 6. Enter your email address once more into the field provided.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
@@ -132,8 +111,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +118,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubes-trophy-chain-for-engaged-audiences/"><u>[New] 2024 Approved YouTube's Trophy Chain for Engaged Audiences</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-market-breakthrough-strategy-box-by-box/"><u>[New] In 2024, Market Breakthrough Strategy Box by Box</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-preeminent-sites-to-amplify-youtube-traffic/"><u>[New] Preeminent Sites to Amplify YouTube Traffic</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-deep-dive-into-screenflow-for-the-creative-minded-mac-user/"><u>A Deep Dive Into ScreenFlow for the Creative Minded Mac User</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-bootable-software-our-top-15-picks-against-viruses/"><u>Best Free Bootable Software: Our Top 15 Picks Against Viruses</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-big-screen-detailed-analysis-and-impressions-of-the-hisense-50h8f-4k-hdr-television/"><u>Budget-Friendly Big Screen: Detailed Analysis and Impressions of the Hisense 50H8F 4K HDR Television</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-master-high-res-screen-record/"><u>Capture Master High-Res Screen Record</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-to-correct-haldll-file-not-found-issues-in-windows-xp/"><u>Essential Steps to Correct 'hal.dll' File Not Found Issues in Windows XP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-your-new-linksys-admin-password-the-july-2024-edition/"><u>Find Your New Linksys Admin Password: The July 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-new-tech-discoveries-from-toms-hq/"><u>In-Depth Analysis of New Tech - Discoveries From Tom’s HQ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-connection-merging-psvr-technology-with-your-desktop-pc/"><u>Mastering the Connection: Merging PSVR Technology with Your Desktop PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pairing-it-right-your-essential-handbook-for-duets-on-the-popular-app-tiktok/"><u>Pairing It Right: Your Essential Handbook for Duets on the Popular App TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/social-synergy-blueprint-for-ig-and-tiktok-pairing-for-2024/"><u>Social Synergy Blueprint for IG & TikTok Pairing for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-rated-mac-file-sharing-applications-your-ultimate-easy-exchange-manual/"><u>Top-Rated Mac File Sharing Applications: Your Ultimate Easy Exchange Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wanderlust-dreamers-guide-the-66-premier-twitter-accounts-for-amazing-deals-sage-advice-and-unforgettable-adventures/"><u>Wanderlust Dreamers' Guide: The 66 Premier Twitter Accounts for Amazing Deals, Sage Advice & Unforgettable Adventures</u></a></li>
+</ul></div>
 

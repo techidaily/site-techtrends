@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-11-14T23:09:56.076Z
-updated: 2024-11-19T17:56:08.872Z
+date: 2024-11-23T17:47:55.676Z
+updated: 2024-11-28T17:04:18.199Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -74,6 +67,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,10 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -124,6 +118,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,13 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -159,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,17 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-instantly-share-selfies-the-step-by-step-walkthrough-for-2024/"><u>[New] Instantly Share Selfies The Step-by-Step Walkthrough for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-10-best-free-mmorpg-games-you-can-find/"><u>[New] Top 10 Best Free MMORPG Games You Can Find</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-step-by-step-guide-to-uploading-videos-on-youtube/"><u>[Updated] 2024 Approved The Ultimate Step-by-Step Guide to Uploading Videos on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-free-youtube-end-screen-templates/"><u>[Updated] In 2024, Free YouTube End Screen Templates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bumble-dating-hacks-what-to-do-when-youre-not-getting-any-matches/"><u>Bumble Dating Hacks: What to Do When You're Not Getting Any Matches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disabling-apples-emergency-broadcast-messages-on-your-iphone/"><u>Disabling Apple's Emergency Broadcast Messages on Your iPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-modern-wifi-protocols-unveiling-the-secrets-of-80211be-ax-ac-bgn-and-a/"><u>In-Depth Analysis of Modern WiFi Protocols: Unveiling the Secrets of 802.11Be, Ax, Ac, B/G/N and A</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-look-at-the-expected-specs-and-release-of-samsungs-galaxy-z-fold-7-news-update-with-rumored-details/"><u>In-Depth Look at the Expected Specs and Release of Samsung's Galaxy Z Fold 7 – News Update with Rumored Details</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-text-adventure-games-using-chatgpt-for-enhanced-player-experience/"><u>Mastering the Art of Text Adventure Games Using ChatGPT for Enhanced Player Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-dciman32dll-file-not-detected-a-comprehensive-guide/"><u>Solving 'dciman32.dll' File Not Detected: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vlc-challenge-against-mx-player/"><u>VLC Challenge Against MX Player</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] In 2024, 6 Video Styles for Maximum Viewer Engagement</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-arena-aces-unbeatable-10-royale-games/"><u>In 2024, Arena Aces Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-decoding-audio-cues-a-windows-and-os-x-guide-to-srt-files/"><u>In 2024, Decoding Audio Cues A Windows & OS X Guide to SRT Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-google-pixel-8-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Google Pixel 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-pauses-windows-11-rollback-functionality/"><u>Microsoft Pauses Windows 11 Rollback Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcome-windows-rts-top-7-solutions-for-eliminating-the-camera-detection-error/"><u>Overcome Windows ˈrɪts: Top 7 Solutions for Eliminating the Camera Detection Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-why-does-stardew-valley-crash-and-how-to-fix-it/"><u>Seamless Gaming: Why Does Stardew Valley Crash & How to Fix It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-windows-10-like-a-pro-with-these-10-essential-techniques/"><u>Secure Windows 10 Like a Pro with These 10 Essential Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/showdown-of-titans-features-and-performance-between-iphone-15-plus-and-pro-max/"><u>Showdown of Titans: Features and Performance Between iPhone 15 Plus and Pro Max</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-bluetooth-gadgets-from-your-pc-running-windows-11-or-10/"><u>Step-by-Step Guide: Removing Bluetooth Gadgets From Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-tracking-your-printer-activity-on-windows-10/"><u>Step-by-Step Guide: Tracking Your Printer Activity on Windows 10</u></a></li>
 </ul></div>
 

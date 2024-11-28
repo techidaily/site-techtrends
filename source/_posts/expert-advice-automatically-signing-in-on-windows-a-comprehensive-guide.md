@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
-date: 2024-11-18T19:28:00.866Z
-updated: 2024-11-19T22:19:42.060Z
+date: 2024-11-25T17:00:05.300Z
+updated: 2024-11-28T17:29:38.234Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
@@ -15,6 +15,11 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 >
 
 ## Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Press**Win** +**R** and enter the**netplwiz** command.
@@ -31,12 +36,21 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  `netplwiz`  
 ![Screenshot of the User Accounts window and Run box in Windows 10](https://www.lifewire.com/thmb/BICxKgXAn96fZ7yE5iZL8AgdlQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/user-accounts-auto-login-windows-10-5ae0f7b1a474be00365cc57e.PNG)  
  Advanced User Accounts Window (Windows 10).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A different command is used in Windows XP:  
  `control userpasswords2`  
  Technically, this program is called the_Advanced User Accounts Control Panel_ , but it's not really a Control Panel applet and you won't find it in Control Panel. To make it more confusing, the title of the windows says just_User Accounts_ .
 2. In the**Users** tab, uncheck the box next to **Users must enter a user name and password to use this computer** .  
 ![Checkbox next to Users must enter a user name and password to use this computer in User Accounts window, Windows 10](https://www.lifewire.com/thmb/T5n8YqosSlQDqoBzckQUD2kqKh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-do-i-auto-login-to-windows-2626066-5bd105c746e0fb0051d587a9.jpg)  
  Don't see that option? Skip to the next section below these steps to learn how a small tweak to the Windows Registry can reveal this checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Select**OK** at the bottom of the window.  
 ![OK button after Users must enter a user name and password to use this computer checkbox is unchecked](https://www.lifewire.com/thmb/Jid5rcDhN0RyGcKE4dmqgIVLB3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-do-i-auto-login-to-windows-2626066-5bd105e9c9e77c005114a69c.jpg)
@@ -47,27 +61,7 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![OK button in Automatically sign in window appears in Windows 10 User Accounts panel](https://www.lifewire.com/thmb/NbSrcUiWhOzBqCWlhrmtJvXMDdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-do-i-auto-login-to-windows-2626066-5bd1061646e0fb00264cb246.jpg)
 6. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and make sure that Windows automatically logs you in. You may catch a glimpse of the sign-in screen, but only long enough to see it log you in without you having to type anything!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Are you a Desktop lover looking to speed up your Windows 8 boot process even more? In Windows 8.1 or later, you can make Windows start directly to the Desktop, skipping the Start screen. See[How to Boot to the Desktop in Windows 8.1](https://www.lifewire.com/how-to-boot-to-the-desktop-in-windows-8-1-2626240) for instructions.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Automatic Login Checkbox Missing?
 
@@ -77,17 +71,14 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![regedit command in Windows 10](https://www.lifewire.com/thmb/S5plzssdJfj5F_g0EWjnrY3y0y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/regedit-command-windows-10-a994eadfb12045c0bf2f41b22e2d65b0.png)  
  While following the steps below_exactly_ should be perfectly safe, we always recommend that you[back up the registry](https://www.lifewire.com/how-to-back-up-the-windows-registry-2625146) before making changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Paste this path into the navigation bar at the top of the editor:  
  `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
 3. Right-click the value called**DevicePasswordLessBuildVersion** , then choose**Delete** and confirm by pressing**Yes** . You can now repeat the above steps.  
 ![The DevicePasswordLessBuildVersion value highlighted in the Windows 11 registry editor](https://www.lifewire.com/thmb/-YZozQpXtRzfIaJbTZKstaiJLNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-passwordless-66acf1099df541fba128680eb6c4af06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Auto Log in for Domain Scenarios
 
@@ -99,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 2. From the[registry hive](https://www.lifewire.com/what-is-a-registry-hive-2625986) listing on the left, choose[HKEY_LOCAL_MACHINE](https://www.lifewire.com/hkey-local-machine-2625902) , followed by**Software** .  
 ![HKEY LOCAL MACHINE SOFTWARE registry editor path](https://www.lifewire.com/thmb/irNYI_pfuwf67jcRwZzYP_u5_WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-local-machine-software-92ed659b15ae4364ae031f0464b627b4.png)  
  If you're in an entirely separate location in the Windows Registry when you open it, just scroll to the very top on the left side until you see _Computer_ , and then collapse each hive until you reach HKEY\_LOCAL\_MACHINE.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Continue drilling down through the nested[registry keys](https://www.lifewire.com/what-is-a-registry-key-2625999) , first to**Microsoft** , then**Windows NT** , then**CurrentVersion** , and then finally**Winlogon** .
 4. With**Winlogon** selected on the left, locate the[registry value](https://www.lifewire.com/what-is-a-registry-value-2626042) of**AutoAdminLogon** on the right.
@@ -121,22 +105,17 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![New string value registry editor option in Windows 10](https://www.lifewire.com/thmb/AKZmRwHrLyDWxx-L5J12AqZuAuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-new-string-value-a458de15ea124fa79e8873f7422ff818.png)  
  You can[add a new string value](https://www.lifewire.com/how-to-add-change-delete-registry-keys-values-2625145) from the menu in Registry Editor through**Edit** \>**New** \>**String Value** .
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Set the_Value data_ as your**domain** ,**user name** , and**password** , respectively.  
 ![Screenshot of the Windows 10 registry with DefaultDomainName, DefaultUserName, and DefaultPassword highlighted](https://www.lifewire.com/thmb/_9Nkxmld9oRfhRYMTPwUn6KbJoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/default-autologin-registry-5ae0f5dfa9d4f900370a9b5b.png)
 4. Restart your computer and test to see that you can use the auto login without entering your normal Windows credentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is It Safe to Auto Log In to Windows?
 
@@ -149,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  On the other hand, if you're using a Windows laptop, netbook, tablet, or another portable computer that often leaves your home, we _highly_ recommend that you don't configure it to automatically log in.
 
  The login screen is the first defense your computer has from a user who shouldn't have access. If your computer is stolen and you've configured it to skip right over that basic protection, the thief will have access to everything you have on it—email, social networks, other passwords, bank accounts, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Multiple User Accounts and Auto Log In
 
@@ -201,19 +173,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[New] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/2024-windows/"><u>2024年度のベスト: Windowsユーザに選ばれた無料音声記録プログラム</u></a></li>
-<li><a href="https://facebook.techidaily.com/authentication-query-for-security-email-at-facebookmailcom-related-to-fb-safety/"><u>Authentication Query for Security Email at facebookmail.com, Related to FB Safety</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boosting-icloud-mail-safety-with-advanced-2fa-techniques/"><u>Boosting iCloud Mail Safety with Advanced 2FA Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/compelling-content-the-most-attractive-6-video-types-for-2024/"><u>Compelling Content The Most Attractive 6 Video Types for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-accessibility-on-ig-how-to-include-text-for-instagram-stories/"><u>Enhancing Accessibility on IG: How to Include Text for Instagram Stories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-safeguarding-your-macbook-by-regularly-checking-its-internal-temperature/"><u>Guide to Safeguarding Your MacBook by Regularly Checking Its Internal Temperature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-manage-continuous-playback-in-apple-music-for-a-better-listening-experience/"><u>How to Manage Continuous Playback in Apple Music for a Better Listening Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-obtain-the-newest-corsair-k70-drivers-for-optimal-performance/"><u>How to Obtain the Newest Corsair K70 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free/"><u>The Beginner's Pathway to Custom Vocalization Expert Tips on Modifying Sounds (Free)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-handling-missing-or-lost-mfc42dll-file-problems/"><u>Troubleshooting Tips: Handling Missing or Lost Mfc42.dll File Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-leading-android-wear-os-applications/"><u>Ultimate Guide: Leading Android Wear OS Applications</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmatched-melodies-selector-android-companion-for-2024/"><u>Unmatched Melodies Selector, Android Companion for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-20-essential-youtube-tips-for-optimal-engagement/"><u>[Updated] Top 20 Essential YouTube Tips for Optimal Engagement</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kissanime/"><u>完全なKissAnimeダウンロードマスタリーと、不可視ディテール対策を一刀両断！</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024and14/"><u>無料ビデオエディットツール：2024年版、マック&ウインド推奨の最高14選</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-any-video-to-high-quality-mp4-format-for-mac-with-the-best-free-tool-macx-video-converter/"><u>Convert Any Video to High-Quality MP4 Format for Mac with the Best Free Tool - MacX Video Converter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-iconic-and-contemporary-gems-a-guide-to-the-best-of-cinema-francais/"><u>Discover Iconic & Contemporary Gems: A Guide to the Best of Cinema Français</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-conversion-and-ripping-mastery-on-windows-11-with-macx-pro-bundle-full-featured-multimedia-toolkit/"><u>DVD Conversion & Ripping Mastery on Windows 11 with MacX Pro Bundle – Full-Featured Multimedia Toolkit</u></a></li>
+<li><a href="https://win-forum.techidaily.com/facebook-vs-twitter-vs-instagram-vs-youtube-the-battle-for-user-engagement-in-major-social-media-platforms/"><u>Facebook vs Twitter vs Instagram vs YouTube - The Battle for User Engagement in Major Social Media Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fai-scambiare-immagini-pgm-in-jpeg-senza-costi-convertitore-on-line-di-movavi/"><u>Fai Scambiare Immagini PGM in JPEG Senza Costi: Convertitore On-Line Di Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-free-licensed-copy-of-macx-dvd-ripper-pro-secure-authentic-key-from-the-official-site/"><u>Get Your Free Licensed Copy of MacX DVD Ripper Pro: Secure Authentic Key From the Official Site</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/graphic-design-journeys-from-passion-to-profession-for-2024/"><u>Graphic Design Journeys From Passion to Profession for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elite-11-auditorial-capture-devices-overview/"><u>In 2024, Elite #11 Auditorial Capture Devices Overview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unveiling-youtubes-earnings-blueprint/"><u>In 2024, Unveiling YouTube’s Earnings Blueprint</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-latest-update-whatsapp-for-2fa-code-transmission/"><u>Instagram’s Latest Update: WhatsApp for 2FA Code Transmission</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-the-craft-quick-and-painless-methods-for-reducing-your-audio-tracks/"><u>Master the Craft: Quick & Painless Methods for Reducing Your Audio Tracks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ripping-dvds-to-avis-a-comprehensive-guide-using-handbrake-on-macos/"><u>Ripping DVDs to AVIs: A Comprehensive Guide Using Handbrake on macOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-overcome-modern-warfares-error-6034-on-your-pc-or-xbox-console/"><u>Step-by-Step Solution to Overcome Modern Warfare's Error 6034 on Your PC or Xbox Console</u></a></li>
 </ul></div>
 

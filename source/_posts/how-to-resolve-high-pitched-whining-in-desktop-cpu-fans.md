@@ -1,7 +1,7 @@
 ---
 title: How to Resolve High-Pitched Whining in Desktop CPU Fans
-date: 2024-09-05T11:41:06.044Z
-updated: 2024-09-06T11:41:06.044Z
+date: 2024-11-27T16:20:51.017Z
+updated: 2024-11-28T17:54:59.211Z
 categories:
   - BestProducts
 description: This Article Describes How to Resolve High-Pitched Whining in Desktop CPU Fans
@@ -9,29 +9,15 @@ excerpt: This Article Describes How to Resolve High-Pitched Whining in Desktop C
 thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fix-a-computer-fan-thats-loud-or-making-noise-65d3f7532fe94b3380c92f90c40ecded.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## DIY Solutions for Unresponsive Optical Drives - How to Get Them Opening Again
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
  We'll start with the easiest way to get the drive open—skip the physical button on the outside and ask your[operating system](https://www.lifewire.com/operating-systems-2625912) to force eject the disc. You can only try this if your computer has power and is working. Skip down to the next section if that's not the case.
@@ -45,11 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
 3. Right-click or tap-and-hold the optical drive and choose**Eject** from the menu that pops open.  
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
@@ -59,11 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
  It sounds strange, yes, but most computer optical drives, including external ones and those you'll find in your game systems like Xbox and PlayStation, have a tiny pinhole that's designed as a last resort method to get the drive bay open.
@@ -84,17 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -105,11 +79,9 @@ thumbnail: https://www.lifewire.com/thmb/TGEejNGc-B327xvBVqDjc8YH00M=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -147,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +126,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/1723808331516-fixed-internet-running-slow-speed-up-internet-easily/"><u>[Fixed] Internet Running Slow - Speed Up Internet Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-24-techniques-for-recording-virtual-conferences-on-a-dime/"><u>[Updated] 24 Techniques for Recording Virtual Conferences on a Dime</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-facebooks-secrets-30-insider-tricks-for-growth/"><u>[Updated] In 2024, Unveiling Facebook's Secrets 30 Insider Tricks for Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-noir-effects-in-adobe-premiere/"><u>[Updated] Noir Effects in Adobe Premiere</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accessing-the-built-in-on-screen-keyboard-on-pcs-a-guide-for-windows-10-8-and-7-users/"><u>Accessing the Built-In On-Screen Keyboard on PCs: A Guide for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-pcs-performance-expert-strategies-for-window-10-enhancement/"><u>Boost Your PC's Performance: Expert Strategies for Window 10 Enhancement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-fit-analysis-the-perfect-companion-for-fitness-enthusiasts/"><u>Comprehensive Samsung Galaxy Fit Analysis - The Perfect Companion for Fitness Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/csrssexe-client-server-runtime-process-what-is-it-and-should-i-remove-it/"><u>csrss.exe (Client Server Runtime Process) – What Is It and Should I Remove It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tricks-to-sync-a-bluetooth-mouse-on-microsoft-windows-and-apple-macos/"><u>Easy Tricks to Sync a Bluetooth Mouse on Microsoft Windows & Apple macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-fresh-hp-printer-drivers-for-windows-1011-users/"><u>Effortless Installation: Fresh HP Printer Drivers for Windows 10/11 Users</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effortless-methods-to-save-songs-from-beatport-online-store/"><u>Effortless Methods to Save Songs From Beatport Online Store</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723807910471-fixing-the-issue-of-sluggish-startup-on-windows-1011-solutions-inside/"><u>Fixing the Issue of Sluggish Startup on Windows 10/11 - Solutions Inside</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-use-revouninstaller-for-complicated-folder-deletion-issues-in-windows-1011/"><u>How to Use RevoUninstaller for Complicated Folder Deletion Issues in Windows 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-mov-capture-potential-on-windows-10-for-2024/"><u>Unlocking MOV Capture Potential on Windows 10 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-isnt-my-logitech-mouse-working-step-by-step-fix-guide/"><u>Why Isn't My Logitech Mouse Working? Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-7-end-of-lifesupport-everything-you-need-to-know/"><u>Windows 7 End of Life/Support: Everything You Need to Know</u></a></li>
+</ul></div>
 

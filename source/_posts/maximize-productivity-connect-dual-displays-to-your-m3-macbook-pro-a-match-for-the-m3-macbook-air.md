@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - A Match for the M3 MacBook Air!"
-date: 2024-11-15T20:55:29.934Z
-updated: 2024-11-19T17:18:10.071Z
+date: 2024-11-23T16:06:44.137Z
+updated: 2024-11-28T17:48:31.645Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,10 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -70,13 +71,6 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -103,10 +97,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -120,10 +111,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -135,6 +123,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -170,21 +162,21 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/the-fellowship-of-the-ring-to-return-of-the-king-how-to-properly-enjoy-the-lord-of-the-rings-trilogy/"><u>‘The Fellowship of the Ring’ to ‘Return of the King’: How to Properly Enjoy The Lord of the Rings Trilogy</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-explore-the-best-free-passport-picture-creation-services-online-for-2024/"><u>[New] Explore the Best Free Passport Picture Creation Services Online for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-mic-for-digital-content-makers/"><u>[New] In 2024, Ultimate Mic for Digital Content Makers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid-for-2024/"><u>[Updated] 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-syncing-twitter-to-snapchat-video-uploading-techniques/"><u>[Updated] 2024 Approved Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximize-your-marketing-metrics-top-8-apps-for-facebook-like-boost-for-2024/"><u>[Updated] Maximize Your Marketing Metrics Top 8 Apps for Facebook Like Boost for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-epic-virtual-realms-finest-10-budget-friendly-mmorpgs/"><u>2024 Approved Epic Virtual Realms Finest 10 Budget-Friendly MMORPGs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/illuminate-your-image-expert-advice-on-selecting-and-utilizing-the-best-selfie-photography-lights/"><u>Illuminate Your Image: Expert Advice on Selecting and Utilizing the Best Selfie Photography Lights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-magic-6-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor Magic 6?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/key-to-success-how-to-fix-and-replace-laptop-keyboards-easily/"><u>Key to Success? How to Fix and Replace Laptop Keyboards Easily!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Moto G14</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722890823660-restoring-erased-mobile-numbers-on-your-android-device-proven-methods/"><u>Restoring Erased Mobile Numbers on Your Android Device: Proven Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solution-when-phone-app-shows-numbers-not-names-for-callers/"><u>Solution: When Phone App Shows Numbers Not Names for Callers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-updating-your-amd-radeon-driver-v2410/"><u>Step-by-Step Guide to Updating Your AMD Radeon Driver V24.10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-for-choosing-the-perfect-motherboard-insights-on-7-key-aspects/"><u>The Ultimate Checklist for Choosing the Perfect Motherboard: Insights on 7 Key Aspects</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-our-expert-picks-the-ultimate-6-destinations-for-music-videos-on-the-web/"><u>Unveiling Our Expert Picks: The Ultimate 6 Destinations for Music Videos on the Web</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-webcam-features-on-apples-macbook/"><u>[New] In 2024, Navigating Webcam Features on Apple's MacBook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-next-gen-of-video-visionaries/"><u>[Updated] Next Gen of Video Visionaries</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-rescuing-a-halted-obs-video-input-stream-for-2024/"><u>[Updated] Rescuing a Halted OBS Video Input Stream for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-savory-cinema-principles-of-culinary-cinematography/"><u>[Updated] Savory Cinema Principles of Culinary Cinematography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724766110402-mp4dvd/"><u>「MP4ファイルをDVDプレイヤー用に変換する究極のテクニック：失敗しないチュートリアルと最高の無料コンバータソフト」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-macx-dvd-ripper-prohd/"><u>1. [官方推薦] MacX DVD Ripper Pro/HD動画専用変換器予算プラン - 限定大割引でシリーズ全てお得購入可能！</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macavchd-macx/"><u>最高のMac向け無料AVCHDビデオコンバーターをダウンロード - 強力な MacXフリーマルチメディアツールで無限の可能性が拡張</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-videos-flawlessly-with-the-top-free-avi-to-mkv-converter-for-macos-and-windows-10/"><u>Convert Your Videos Flawlessly with the Top Free AVI to MKV Converter for macOS & Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-sony-xperia-5-v-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Sony Xperia 5 V</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-for-heart-of-iron-4-bugs-and-performance-issues-now-fixed/"><u>Expert Solutions for Heart of Iron 4 Bugs & Performance Issues - Now Fixed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-watermark-instagram-photos/"><u>In 2024, How to Watermark Instagram Photos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>In 2024, Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/movwindows5/"><u>MOVビデオファイルの容量をWindowsで軽減するための5方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sufficient-storage-space-for-installation-and-project-files/"><u>Sufficient Storage Space for Installation and Project Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/videoproc-professionelle-losung-fur-die-handhabung-und-bearbeitung-von-multimedia-inhalten/"><u>VideoProc: Professionelle Lösung Für Die Handhabung Und Bearbeitung Von Multimedia-Inhalten</u></a></li>
+<li><a href="https://techtrends.techidaily.com/202-dvd7/"><u>アップデータ：202([) 年使用のアイフォンにDVDを取り入れるためのフリーソフトベスト7！</u></a></li>
 </ul></div>
 

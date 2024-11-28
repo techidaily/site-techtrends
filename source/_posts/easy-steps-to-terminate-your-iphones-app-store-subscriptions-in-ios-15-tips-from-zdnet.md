@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-11-13T21:24:56.396Z
-updated: 2024-11-19T19:27:22.536Z
+date: 2024-11-27T17:23:30.439Z
+updated: 2024-11-28T17:18:22.961Z
 tags:
   - apple
 categories:
@@ -31,16 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -50,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -65,10 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -76,6 +61,10 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -98,16 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -146,21 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[Updated] In 2024, Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-prime-video-conferencing-and-communication-aids/"><u>2024 Approved Prime Video Conferencing & Communication Aids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>2024 Approved The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-iphone-apps-expert-reviews-and-recommendations/"><u>2024 Approved Top-Rated iPhone Apps Expert Reviews and Recommendations</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c210-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C210</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-resolving-ocidll-missing-error-messages-on-your-computer/"><u>A Step-by-Step Guide to Resolving oci.dll Missing Error Messages on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bypassing-cables-and-phones-methods-to-get-internet-anywhere-anytime/"><u>Bypassing Cables and Phones: Methods to Get Internet Anywhere, Anytime</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-tablets-ipad-mini-and-ipad-air-key-distinctions-explored/"><u>Comparing Tablets: IPad Mini and iPad Air – Key Distinctions Explored</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/detailed-instructions-mastering-the-art-of-uploading-vr-media-to-fb/"><u>Detailed Instructions Mastering the Art of Uploading VR Media to FB</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detailed-solutions-for-correcting-the-d3dx933dll-not-detected-mishap/"><u>Detailed Solutions for Correcting the d3dx9_33.dll Not Detected Mishap</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-a2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo A2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-spectre-x360-compatibility-boosted-find-and-download-the-right-windows-drivers-here/"><u>HP Spectre X360 Compatibility Boosted: Find and Download the Right Windows Drivers Here</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-joke-jigsaw-puzzles-build-with-kapwingenasian-memes/"><u>In 2024, Joke Jigsaw Puzzles Build with Kapwing’enasian Memes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-iphone-keyboard-a-complete-guide-to-typing-with-emojis/"><u>Mastering iPhone Keyboard: A Complete Guide to Typing with Emojis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-using-imessage-on-non-apple-smartphones/"><u>The Ultimate Tutorial for Using iMessage on Non-Apple Smartphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-next-for-tesla-in-telecommunications-all-new-smartphone-details-price-predictions-and-speculation-covered/"><u>What's Next for Tesla in Telecommunications? All-New Smartphone Details, Price Predictions & Speculation Covered</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-shotchrome-xtreme-top-tier-os-capturing/"><u>[New] 2024 Approved ShotChrome Xtreme Top-Tier OS Capturing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-unlocking-your-personalized-tiktok-hashtag-for-2024/"><u>[Updated] Mastering Unlocking Your Personalized TikTok Hashtag for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-bw-16d1c-u-blu-ray-drive-examined-aesthetically-pleasing-yet-flawed-in-places/"><u>Asus BW-16D1C-U Blu-Ray Drive Examined - Aesthetically Pleasing, Yet Flawed in Places</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr-for-2024/"><u>Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR) for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deciding-on-digital-reading-ipad-vs-amazons-kindle-and-barnes-and-nobles-nook/"><u>Deciding on Digital Reading: IPad Vs Amazon's Kindle & Barnes & Nobles' NOOK</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a38-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A38 Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/iphone-lights-mastery-guide-for-2024/"><u>IPhone Lights Mastery Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nasas-oldest-explorer-voyager-1-at-45-years-enhanced-with-latest-technology/"><u>NASA's Oldest Explorer, Voyager 1 at 45 Years, Enhanced with Latest Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-bitcoins-lightning-network-an-easy-to-follow-usage-tutorial/"><u>Navigating Through Bitcoin's Lightning Network: An Easy-to-Follow Usage Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-edge-40-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-meta-no-longer-backs-the-quest-1-virtual-reality-headset/"><u>Say Goodbye: Meta No Longer Backs the Quest 1 Virtual Reality Headset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-discounted-meta-quest-virtual-reality-experience-before-black-friday-sale-ends/"><u>Secure Your Discounted Meta Quest ^ Virtual Reality Experience Before Black Friday Sale Ends</u></a></li>
 </ul></div>
 

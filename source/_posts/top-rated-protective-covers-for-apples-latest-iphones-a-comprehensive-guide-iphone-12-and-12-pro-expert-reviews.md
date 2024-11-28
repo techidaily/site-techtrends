@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Protective Covers for Apple's Latest iPhones: A Comprehensive Guide (iPhone 12 & 12 Pro) - Expert Reviews"
-date: 2024-11-12T17:41:54.135Z
-updated: 2024-11-19T19:01:07.736Z
+date: 2024-11-23T17:44:29.232Z
+updated: 2024-11-28T17:05:21.842Z
 tags:
   - apple
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -43,13 +47,6 @@ Pros
 
 Cons 
 * Slightly pricey
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pela case
 
@@ -99,6 +96,10 @@ Pros
 Cons 
 * Clear design may yellow
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bodyguardz Ace Pro
 
 ### Best budget iPhone 12 case
@@ -124,21 +125,7 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Casetify cases
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
 
@@ -162,6 +149,10 @@ Cons
 * May still yellow over time
 
 ## ESR Air Armor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best clear iPhone 12 case
 
@@ -189,13 +180,6 @@ Cons
 
 ## Incipio Organicore
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best eco-friendly iPhone 12 case
 
 The Incipio Organicore is 100% compostable, so buying the case doesn't mean creating more trash for the future. It dissolves completely when disposed of properly in a degradable environment. The case consists of a durable blend of plant-based materials, and it's designed to offer maximum protection.
@@ -217,14 +201,11 @@ Pros
 Cons 
 * May show scratches easily
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Nomad Rugged case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -250,7 +231,15 @@ Cons
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Speck Presidio Edition
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 12 case for drop protection
 
@@ -279,6 +268,10 @@ Cons
 
 ## Totallee case
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best slim iPhone 12 case
 
 Totallee phone cases are super thin, adding only 0.03 inches to the thickness of your iPhone. The ultra-slim design is ideal for those who want everyday protection from scratches and bumps without compromising the slimness of the phone. 
@@ -303,6 +296,10 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone case is right for you?
 
 Each case on this list has unique pros and cons. One case might be a better choice for you, depending on the features you can't live without. 
@@ -318,6 +315,10 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Nomad Rugged case                 | The best leather case that ages well over time                                        |
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What should I look for in an iPhone case?
 
@@ -336,34 +337,13 @@ Wireless charging does work with phone cases. Almost all of the cases on this li
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is OtterBox good for iPhone 12?
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
 
@@ -409,22 +389,20 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-video-opposites-a-comprehensible-guide-for-instavids/"><u>[New] Unraveling Video Opposites A Comprehensible Guide for InstaVids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-video-mastery-edit-enhance-and-distribute/"><u>[New] Webcam Video Mastery Edit, Enhance & Distribute</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] 2024 Approved Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-harnessing-the-power-of-free-windows-video-tools-for-2024/"><u>[Updated] Harnessing the Power of Free Windows Video Tools for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quicktime-screen-recording-with-audio-guide/"><u>[Updated] QuickTime Screen Recording with Audio Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/best-twitter-video-downloaders-how-to-save-twitter-videos/"><u>Best Twitter Video Downloaders How to Save Twitter Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-your-favorite-mp3-into-an-iphone-ringtone-with-these-2-proven-techniques/"><u>Convert Your Favorite MP3 Into an iPhone Ringtone with These 2 Proven Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-cannot-complete-the-search-error-code-0x80070570-expert-tips-and-advice/"><u>Fixing the 'Cannot Complete the Search' Error (Code 0X80070570): Expert Tips and Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hdcp-failures-decoded-diagnosis-and-remedies-for-secure-content-transmission-issues/"><u>HDCP Failures Decoded: Diagnosis and Remedies for Secure Content Transmission Issues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-netizen-networks-examining-your-and-competing-channels/"><u>In 2024, Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-saved-stories-and-reels-an-experts-tutorial-for-instagram-users/"><u>Navigating Through Saved Stories and Reels: An Expert's Tutorial for Instagram Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/say-goodbye-to-watermarks-top-online-tiktok-logo-removers-for-2024/"><u>Say Goodbye to Watermarks Top Online TikTok Logo Removers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-of-an-unresponsive-touch-screen-on-your-apple-watch/"><u>Solving the Issue of an Unresponsive Touch Screen on Your Apple Watch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-casting-disneyplus-shows-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Casting Disney+ Shows on Your Smart TV with Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-completely-reboot-your-ipad-across-all-versions/"><u>Step-by-Step Instructions: Completely Reboot Your iPad Across All Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tcl-launches-19-innovative-models-expanding-their-q-and-s-series-of-smart-televisions/"><u>TCL Launches 19 Innovative Models, Expanding Their Q & S Series of Smart Televisions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-8-must-have-reading-apps-of-2024-you-cant-miss/"><u>Top 8 Must-Have Reading Apps of 2024 You Can't Miss</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converting-your-gotomeeting-videos-a-step-by-step-guide-using-the-g2m4-codec-and-transforming-them-into-mp4-format/"><u>Converting Your GoToMeeting Videos: A Step-by-Step Guide Using the G2M4 Codec and Transforming Them Into MP4 Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discounted-purchase-of-macx-dvd-ripper-pro-on-the-web/"><u>Discounted Purchase of MacX DVD Ripper Pro on the Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-transferring-your-dvd-collection-from-disc-to-pc-on-windows-or-mac/"><u>Easy Steps: Transferring Your DVD Collection From Disc to PC on Windows or Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/epic-hollywood-action-flicks-list-best-picks-for-free-viewing-and-download/"><u>Epic Hollywood Action Flicks List: Best Picks for Free Viewing and Download</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-connection-7-steps-to-solve-windows-usb-wi-fi-adapter-problem/"><u>Re-Establish Connection: 7 Steps to Solve Windows' USB Wi-Fi Adapter Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/schnelles-und-kostenloses-verfahren-fur-den-download-von-youtube-inhalten-unter-macos-eine-einfache-anleitung/"><u>Schnelles Und Kostenloses Verfahren Für Den Download Von YouTube-Inhalten Unter macOS: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-strategies-for-bose-speaker-failure-problems/"><u>Solution Strategies for Bose Speaker Failure Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-icloud-sync-issues-top-7-fixes-for-non-syncing-iphone-pictures/"><u>Solve Your iCloud Sync Issues: Top 7 Fixes for Non-Syncing iPhone Pictures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-the-entire-dragon-ball-series-sequentially/"><u>Step-by-Step Guide: Viewing the Entire Dragon Ball Series Sequentially</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-instant-conversion-of-3d-footage-into-classic-2d-format-with-a-simple-click/"><u>Step-by-Step Tutorial: Instant Conversion of 3D Footage Into Classic 2D Format with a Simple Click!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headset-mic-solutions-for-common-issues/"><u>Troubleshooting Your Onikuma Headset Mic – Solutions for Common Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-shrinking-m4v-file-size-using-top-ranking-compression-tools/"><u>Ultimate Guide: Shrinking M4V File Size Using Top-Ranking Compression Tools</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-defender-vs-windows-security-app-on-windows-nt-whats-the-distinction-insights-from-yl-software-experts/"><u>Windows Defender Vs. Windows Security App on Windows nT: What's the Distinction? Insights From YL Software Experts</u></a></li>
 </ul></div>
 

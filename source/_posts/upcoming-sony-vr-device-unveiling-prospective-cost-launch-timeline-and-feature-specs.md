@@ -1,7 +1,7 @@
 ---
 title: Upcoming Sony VR Device - Unveiling Prospective Cost, Launch Timeline, and Feature Specs
-date: 2024-09-05T11:41:06.167Z
-updated: 2024-09-06T11:41:06.167Z
+date: 2024-11-25T16:19:12.344Z
+updated: 2024-11-28T17:16:36.581Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Sony VR Device - Unveiling Prospective Cost, Launch Timeline, and Feature Specs
@@ -9,12 +9,6 @@ excerpt: This Article Describes Upcoming Sony VR Device - Unveiling Prospective 
 thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-VR-Headset-banner-b0a34ff875984752b2eb8a19a7dc4872.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upcoming Sony VR Device - Unveiling Prospective Cost, Launch Timeline, and Feature Specs
 
  In This Article 
@@ -29,17 +23,9 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
  In January, Sony announced a partnership with Siemens to develop an industrial headset for engineers and 3D content creators. This Sony-Siemens pro-grade collaboration is tentatively scheduled to arrive later this year. Here’s what else we know about the Sony VR headset release date, features, and more.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Will the Sony VR Headset Be Released? 
 
  The[ CES 2024](https://www.lifewire.com/ces-news-and-everything-else-to-know-5090178) unveiling of the Sony-Siemens partnership came with a general timeline for their Extended Reality (XR) head-mounted display (HMD): later this year. 
@@ -52,34 +38,20 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
 
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sony VR Headset Features 
 
  Sony presented prototypes of its VR headset at CES 2024, and a recent[ Siemens press release](https://newsroom.sw.siemens.com/en-US/siemens-rl24-sony-siemens-nx/) confirms one important detail of the partnership: The headset was developed with and exclusively uses Siemens’ Xcelerator engineering software—specifically its new NX Immersive Designer product, which will also be available when the headset launches.
@@ -94,12 +66,14 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sony VR Headset Specs and Hardware 
 
@@ -114,6 +88,10 @@ Sony
  “It's exciting to see Sony enter the enterprise space with their spatial content creation system and utilize Snapdragon XR technologies to unleash more realistic, detailed, and precise Mixed Reality (MR)/VR experiences that will help developers and creators push forward an even more immersive future."
 
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Latest News About the Sony VR Headset 
 
@@ -135,8 +113,6 @@ Sony
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +120,26 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-ultimate-10-volume-upgrade-tools-for-pc-ios-and-android/"><u>[New] In 2024, Ultimate 10 Volume Upgrade Tools for PC, iOS & Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-hands-on-approaches-to-archive-vimeo-video/"><u>[Updated] 2024 Approved Hands-On Approaches to Archive Vimeo Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-beam-your-ideas-master-screencast-with-ezvide-video-maker-for-2024/"><u>[Updated] Beam Your Ideas Master Screencast with EZvide Video Maker for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-srt-file-accessibility-across-computers/"><u>[Updated] SRT File Accessibility Across Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-ethereums-turing-complete-language-solidity-facilitates-complex-decentralized-applications/"><u>How Ethereum's Turing-Complete Language (Solidity) Facilitates Complex Decentralized Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-open-control-panel-in-windows-8/"><u>How to Easily Open Control Panel in Windows 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-help-in-windows-10-easily/"><u>How to Get Help in Windows 10. Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-install-netflix-addon-for-kodi-ultimate-guide/"><u>How to Install Netflix Addon for Kodi - Ultimate Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-validate-your-youtube-profile-a-simple-guide-for-2024/"><u>How to Validate Your YouTube Profile? A Simple Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhance-mobile-viewing-fb-videos-on-android/"><u>In 2024, Enhance Mobile Viewing FB Videos on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-strategies-to-create-memorable-podcast-intro-lines/"><u>In 2024, Strategies to Create Memorable Podcast Intro Lines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-top-10-ai-powered-name-generators-for-podcasts-online/"><u>In 2024, Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insights-into-the-duration-of-windows-update-cycles/"><u>Insights Into the Duration of Windows Update Cycles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/install-essential-dell-drivers-on-your-windows-operating-system-easily/"><u>Install Essential Dell Drivers on Your Windows # Operating System Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instant-resolution-why-is-my-fortnite-game-missing-sounds/"><u>Instant Resolution: Why Is My Fortnite Game Missing Sounds?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-cpu-speed-checks-quick-easy-insights-for-peak-computing-performance/"><u>Master the Art of CPU Speed Checks - Quick, Easy Insights for Peak Computing Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-sound-loads-in-inshot-editing-software-for-2024/"><u>Mastering Sound Loads in InShot Editing Software for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-more-upgrades-secure-a-stable-version-of-windows-11-by-stopping-its-auto-update-feature/"><u>No More Upgrades: Secure a Stable Version of Windows 11 by Stopping Its Auto-Update Feature</u></a></li>
+</ul></div>
 

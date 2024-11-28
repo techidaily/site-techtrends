@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice From ZDNet"
-date: 2024-11-15T23:39:31.813Z
-updated: 2024-11-19T23:11:47.689Z
+date: 2024-11-26T16:25:50.764Z
+updated: 2024-11-28T17:55:23.362Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -69,19 +64,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -109,16 +91,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -127,6 +106,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -137,16 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -183,19 +157,19 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-securing-youtube-partnership-a-comprehensive-guide-for-video-creators/"><u>[New] 2024 Approved Securing YouTube Partnership A Comprehensive Guide for Video Creators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-all-hulu-streaming-on-different-os-and-devices/"><u>[New] In 2024, Capture All Hulu Streaming on Different OS and Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-real-world-usability-of-photoshops-motion-reduction-for-2024/"><u>[Updated] The Real-World Usability of Photoshop’s Motion Reduction for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-dji-airborne-prototype-scrutiny/"><u>2024 Approved DJI Airborne Prototype Scrutiny</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-10-secrets-for-recording-sports-events-live-online/"><u>2024 Approved Top 10 Secrets for Recording Sports Events Live Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cannot-update-expert-strategies-to-refresh-your-minecraft-game-client-smoothly/"><u>Fixing 'Cannot Update' - Expert Strategies to Refresh Your Minecraft Game Client Smoothly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/preserving-pages-of-time-how-to-efficiently-use-the-internet-archives-wayback-machine/"><u>Preserving Pages of Time: How To Efficiently Use The Internet Archive's Wayback Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-your-netflix-problems-with-ease-fixing-error-code-nw-1-19-made-simple/"><u>Troubleshoot Your Netflix Problems with Ease – Fixing Error Code NW-1-19 Made Simple</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-freezing-in-sony-vegas-pro-solutions-inside/"><u>Troubleshooting Continuous Freezing in Sony Vegas Pro - Solutions Inside!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-setting-up-advanced-gmail-rules-for-specific-needs/"><u>Ultimate Guide to Setting Up Advanced Gmail Rules for Specific Needs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-aether-exploring-its-essence-and-entry-points-for-membership/"><u>Understanding Aether – Exploring Its Essence and Entry Points for Membership</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unstuck-on-tiktok-here-are-the-steps-to-get-your-app-up-and-running-again/"><u>Unstuck on TikTok? Here Are the Steps to Get Your App Up and Running Again!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722852994723-unveiling-actual-pc-requirements-balancing-speed-and-functionality/"><u>Unveiling Actual PC Requirements: Balancing Speed and Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-touchscreen-macbook-unveiled-insights-on-pricing-launch-timeline-and-features/"><u>Upcoming Touchscreen MacBook Unveiled - Insights on Pricing, Launch Timeline & Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-ppt-transformers-to-vimeo/"><u>[Updated] In 2024, Expert PPT Transformers to Vimeo</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860206396-updated-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>[Updated] Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyy-compreno-empowers-enterprises-through-advanced-cognitive-computing-and-premier-linguistic-tech-solutions/"><u>ABBYY Compreno Empowers Enterprises Through Advanced Cognitive Computing and Premier Linguistic Tech Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/authoritative-guide-to-advanced-twitter-application-tools/"><u>Authoritative Guide to Advanced Twitter Application Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cellular-not-working-heres-what-you-need-to-know-to-get-your-apple-watch-connected-again/"><u>Cellular Not Working? Here’s What You Need to Know to Get Your Apple Watch Connected Again!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-off-the-grid-web-surfing-tips-for-getting-internet-without-wired-services/"><u>Explore Off-the-Grid Web Surfing: Tips for Getting Internet Without Wired Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-editing-showdown-sony-vegas-vs-adobe-premiere-pro-2023-review/"><u>New Video Editing Showdown Sony Vegas vs Adobe Premiere Pro 2023 Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/one-ring-to-rule-them-all-linking-a-single-phone-number-with-various-devices/"><u>One Ring To Rule Them All: Linking a Single Phone Number with Various Devices</u></a></li>
+<li><a href="https://win-latest.techidaily.com/optimal-user-account-selection-for-windows-11-installation-explained-smarttechguide/"><u>Optimal User Account Selection for Windows 11 Installation Explained | SmartTechGuide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/retrieving-historical-notifications-tips-for-iphone-users/"><u>Retrieving Historical Notifications: Tips for iPhone Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-system-speed-with-enhanced-window-run-utility/"><u>Transforming System Speed with Enhanced Window Run Utility</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-server-201-update-issue-resolved-fixing-boot-loop-after-upgrade/"><u>Windows Server 201# Update Issue Resolved: Fixing Boot Loop After Upgrade</u></a></li>
 </ul></div>
 

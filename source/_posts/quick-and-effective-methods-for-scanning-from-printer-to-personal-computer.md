@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2024-11-13T21:15:05.370Z
-updated: 2024-11-19T17:51:01.757Z
+date: 2024-11-21T16:45:50.928Z
+updated: 2024-11-28T17:33:01.365Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -25,13 +25,14 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 ![Scanning a Document Using a Flatbed Scanner](https://www.lifewire.com/thmb/4ttTzWS9kaWy0rhmgoB3ZRzAwXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-1-97c5bf309a29400a92d8ba96f4af302b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 lolostock / Getty Images
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Windows PC
@@ -46,10 +47,7 @@ lolostock / Getty Images
 3. Select**Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Devices** from the main Settings screen.  
@@ -68,6 +66,10 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
@@ -75,10 +77,7 @@ lolostock / Getty Images
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
@@ -92,13 +91,6 @@ lolostock / Getty Images
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 
@@ -111,10 +103,7 @@ lolostock / Getty Images
 19. Click**Scan** to start your scanning job.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -155,20 +144,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-preserve-tweets-as-visual-delights-with-iosandroid-steps-for-2024/"><u>[New] Preserve Tweets as Visual Delights with iOS/Android Steps for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-videos-affordable-high-quality-effs/"><u>[New] Transform Videos - Affordable, High-Quality Effs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apples-compact-wonder-a-thorough-analysis-of-the-homepod-mini-for-music-lovers-and-techies/"><u>Apple's Compact Wonder: A Thorough Analysis of the HomePod Mini for Music Lovers & Techies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-instructions-for-flushing-the-cache-in-android-phones-and-tablets/"><u>Complete Instructions for Flushing the Cache in Android Phones and Tablets</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comprehensive-guide-on-performing-dell-datasafe-restoration-and-critical-backup-operations/"><u>Comprehensive Guide on Performing Dell Datasafe Restoration & Critical Backup Operations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-rectify-missing-openal32dll-filesystem-errors/"><u>Comprehensive Solutions to Rectify Missing OpenAL32.dll Filesystem Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/differences-between-sonys-ps5-slim-and-regular-ps5-console-models/"><u>Differences Between Sony's PS5 Slim and Regular PS5 Console Models</u></a></li>
-<li><a href="https://techtrends.techidaily.com/doubling-your-beats-per-minute-can-two-individuals-listen-to-spotify-simultaneeusly/"><u>Doubling Your Beats per Minute: Can Two Individuals Listen to Spotify Simultaneeusly?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-and-safe-methods-to-maintain-your-hd-flat-panel-display/"><u>Easy and Safe Methods to Maintain Your HD Flat-Panel Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-gamepad-driver-for-pc-operating-systems/"><u>Get Your Logitech G29 Steering Wheel Gamepad Driver for PC Operating Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-record-television-shows-on-pc-free-software-insights/"><u>How to Record Television Shows on PC Free Software Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/install-updated-brother-hl-l2350d0-wireless-printer-drivers-today/"><u>Install Updated Brother HL-L2350D0 Wireless Printer Drivers Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-have-samsung-smart-tv-apps-for-the-year-2024/"><u>Must-Have Samsung Smart TV Apps for the Year 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-tweaking-and-editing-instagram-updates/"><u>Ultimate Tips for Tweaking & Editing Instagram Updates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-more-power-in-chatgpt-a-guide-to-the-5-most-underutilized-features/"><u>Unlocking More Power in ChatGPT: A Guide to the 5 Most Underutilized Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>[Updated] Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-chuckle-collective-top-15-hilarious-youtubers-for-boredom-beaters/"><u>2024 Approved Chuckle Collective Top 15 Hilarious YouTubers for Boredom Beaters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-mighty-performance-of-ankers-soundcore-boom-2-stellar-sound-quality-and-impressive-bass-in-a-compact-design/"><u>Discover the Mighty Performance of Anker's Soundcore Boom 2 – Stellar Sound Quality and Impressive Bass in a Compact Design</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-unmatched-ride-quality-of-the-tenways-cgo60/"><u>Discover the Unmatched Ride Quality of the Tenways CGO60</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-signup-streamlined-registration-processes-for-easy-user-enrollment/"><u>Effortless Signup: Streamlined Registration Processes for Easy User Enrollment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-listening-experience-with-edifier-neobuds-pro-2-budget-friendly-and-android-compatible/"><u>Elevate Your Listening Experience with Edifier NeoBuds Pro 2 – Budget-Friendly and Android Compatible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-oneplus-watch-2-proficient-features-meet-mundane-design-in-our-comprehensive-review/"><u>Evaluating the OnePlus Watch 2: Proficient Features Meet Mundane Design in Our Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leaked-visuals-showcase-next-gen-arm-powered-inspiron-and-xps-from-dell-expected-to-hit-shelves-by-q3/"><u>Leaked Visuals Showcase Next-Gen ARM-Powered Inspiron & XPS From Dell: Expected to Hit Shelves by Q3</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-resolve-steam-content-server-crashes/"><u>Techniques to Resolve Steam Content Server Crashes</u></a></li>
 </ul></div>
 

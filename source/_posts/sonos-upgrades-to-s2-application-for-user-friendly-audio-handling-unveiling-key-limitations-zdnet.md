@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-11-15T23:40:59.987Z
-updated: 2024-11-19T19:58:03.850Z
+date: 2024-11-26T17:06:17.511Z
+updated: 2024-11-28T17:27:50.769Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ While this move towards a [more integrated software environment](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Observations of the new S2 UX
 
 The new Sonos S2 controller app for iPadOS.
@@ -57,16 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -82,10 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -107,10 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -128,16 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -178,14 +158,17 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-magix-photography-control-an-in-depth-review-for-2024/"><u>[New] MAGIX Photography Control An In-Depth Review for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweak-twitter-video-clip-cover/"><u>[Updated] In 2024, Tweak Twitter Video Clip Cover</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-metas-artificial-intelligence-insights-and-innovations/"><u>Exploring the World of Meta's Artificial Intelligence: Insights and Innovations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-view-tiktok-clips-directly-on-your-tv-set/"><u>How To View TikTok Clips Directly on Your TV Set</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs/"><u>In 2024, Capturing the Moment The Ultimate Guide to Screen Recording with OBS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/insignia-thunderbolt-usb-cable-with-ethernet-adapter-software/"><u>Insignia Thunderbolt-USB Cable with Ethernet Adapter Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-hooking-up-your-nintendo-switch-console-with-the-television/"><u>Ultimate Guide: Hooking Up Your Nintendo Switch Console With the Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-pick-a-superior-photo-monopod-for-self-portraits/"><u>Ultimate Guide: How to Pick a Superior Photo Monopod for Self-Portraits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators/"><u>[New] 2024 Approved Craft and Share 360 Videos to YouTube An Essential Guide for Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>[New] In 2024, Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-complete-rundown-on-excellent-screen-recording-of-facetime-calls-for-2024/"><u>[Updated] A Complete Rundown on Excellent Screen-Recording of FaceTime Calls for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-old-world-wonders-iphone-x-portraits/"><u>2024 Approved Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-web-based-heic-to-jpeg-transformer-reviews-and-ratings/"><u>Best FREE Web-Based HEIC to JPEG Transformer - Reviews & Ratings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-and-simple-guide-swift-video-trimming-techniques-for-mac-users/"><u>Free & Simple Guide: Swift Video Trimming Techniques for Mac Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-hot-30-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Hot 30 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-future-of-portable-reading-is-here-with-the-updated-amazon-kindle-paperwhite-7th-generation/"><u>The Future of Portable Reading Is Here with the Updated Amazon Kindle Paperwhite, 7Th Generation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-watch-christmas-movies-on-dvd-purchase-or-rental-options/"><u>Top 10 Must-Watch Christmas Movies on DVD - Purchase or Rental Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-0x80072fed-error-on-your-windows-10-pc/"><u>Troubleshooting and Repairing the 0X80072FED Error on Your Windows 10 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-all-access-pass-to-the-enhanced-macxdvd-tool-suite-complimentary-update-opportunity/"><u>Unlock All-Access Pass to the Enhanced MacXDVD Tool Suite – Complimentary Update Opportunity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-full-features-of-macdvd-suite-with-complimentary-full-license-the-ultimate-deal/"><u>Unlock Full Features of MacDVD Suite with Complimentary Full License – The Ultimate Deal!</u></a></li>
 </ul></div>
 

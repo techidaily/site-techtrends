@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2024-11-17T23:46:22.218Z
-updated: 2024-11-19T16:29:02.956Z
+date: 2024-11-27T17:10:14.275Z
+updated: 2024-11-28T17:55:05.667Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ In this article, I'll show you how to take both screenshots and screen recording
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -54,10 +55,7 @@ I prefer the second way, which is simply to ask Siri to take the shot. All you h
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -99,10 +97,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -152,20 +147,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/adobes-quest-for-giggles-and-grins-for-2024/"><u>Adobe's Quest for Giggles and Grins for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/authenticate-seamlessly-resolving-android-smartphone-wifi-problems-effectively/"><u>Authenticate Seamlessly: Resolving Android Smartphone Wifi Problems Effectively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chronological-tagging-adding-times-to-youtube-vids-for-2024/"><u>Chronological Tagging Adding Times to YouTube Vids for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminating-errors-how-to-address-incorrectly-installed-system-files-problems/"><u>Eliminating Errors: How to Address Incorrectly Installed System Files Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-fixing-a-504-error-from-the-server-side/"><u>Expert Advice on Fixing a 504 Error From the Server Side</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-top-documentaries-on-max-must-see-picks-for-july-2024/"><u>Explore Top Documentaries on Max: Must-See Picks for July 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom’s Hardware Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-network-issues-with-this-simple-guide-flushing-dns-cache-on-mac-computers/"><u>Fix Network Issues with This Simple Guide: Flushing DNS Cache on Mac Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-zte-nubia-flip-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On ZTE Nubia Flip 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ct-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear-for-2024/"><u>Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/qi2-wireless-charging-feature-unveiled-on-iphone-13-and-iphone-14/"><u>Qi2 Wireless Charging Feature Unveiled on iPhone 13 & iPhone 14</u></a></li>
-<li><a href="https://techtrends.techidaily.com/refine-your-visual-storytelling-optimizing-camera-functions-on-ios-devices/"><u>Refine Your Visual Storytelling: Optimizing Camera Functions on iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-for-the-elusive-coredll-errors/"><u>The Ultimate Fixes for the Elusive 'Core.dll' Errors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformez-vos-fichiers-wmv-en-mp4-gratuitement-et-conservez-jusqua-98-de-qualite-des-aujourdhui/"><u>Transformez Vos Fichiers WMV en MP4 Gratuitement Et Conservez Jusqu'à 98% De Qualité Dès Aujourd'hui!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-igtv-vs-youtube-should-video-content-creators-use-one-platform-or-the-other/"><u>[Updated] IGTV VS YouTube Should Video Content Creators Use One Platform or The Other?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>2024 Approved The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Asus ROG Phone 7 Ultimate to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-fix-the-openal32dll-unable-to-locate-problem/"><u>A Step-by-Step Guide to Fix the 'openAL32.dll Unable to Locate' Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722903753810-apple-watch-wont-connect-discover-6-effective-fixes/"><u>Apple Watch Won't Connect? Discover 6 Effective Fixes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-getting-started-with-your-brand-new-pc/"><u>Essential Steps: Getting Started with Your Brand-New PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-installing-and-running-android-applications-on-your-windows-10-pc/"><u>Guide: Installing and Running Android Applications on Your Windows 10 PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-mfplatdll-is-missing-or-not-found-errors/"><u>How to Fix Mfplat.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 15 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-huawei-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Huawei online without jailbreak</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-voice-modification-tools-for-youtube-creators/"><u>In 2024, Top Voice Modification Tools for YouTube Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-chromecast-updates-simple-steps-for-enhanced-performance-and-features/"><u>Mastering Chromecast Updates - Simple Steps for Enhanced Performance and Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722860846308-samsung-galaxy-s24-ultra-and-iphone-15-pro-max-face-off-features-performance-and-more/"><u>Samsung Galaxy S24 Ultra and iPhone 15 Pro Max Face-Off: Features, Performance, and More</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-audio-experience-how-to-sync-a-computer-with-your-bluetooth-speaker/"><u>Seamless Audio Experience: How to Sync a Computer With Your Bluetooth Speaker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-the-relentless-malfunctioning-of-the-ascent-while-running-on-personal-computers/"><u>Step-by-Step Guide: Stop The Relentless Malfunctioning of The Ascent While Running on Personal Computers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-prevents-gpu-use-attempt/"><u>Win11 Prevents GPU Use Attempt</u></a></li>
 </ul></div>
 

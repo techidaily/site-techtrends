@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Aether: An In-Depth Look at Joining Procedures"
-date: 2024-11-13T20:51:05.936Z
-updated: 2024-11-19T20:57:39.902Z
+date: 2024-11-27T16:41:31.190Z
+updated: 2024-11-28T17:21:24.929Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Secrets of Aether: An In-Depth Look at Joining Procedures"
@@ -24,6 +24,10 @@ Close
 
 ![A screenshot of the Aether app on a Mac](https://www.lifewire.com/thmb/7w6CZUfKL5XADA7AEjQn1Ovy8-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aether-app-3f2bd81e290a4e17bd56810bbda6f362.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Aether is a discussion platform similar to[ Reddit](https://www.lifewire.com/how-to-use-reddit-5323291) and[ X](https://www.lifewire.com/what-exactly-is-twitter-2483331) (though more so Reddit), that uses peer-to-peer technology to avoid censorship and provide high levels of user control.
 
  The best way to understand how Aether is similar to, and different from Reddit and X, is to think of the platforms as houses.
@@ -36,9 +40,17 @@ Close
 
  Aether is intended for a much more technical audience. It's best for people who know what "globs" or stars are when it comes to allow-lists for domains, and who understand crypto and[ blockchain](https://www.lifewire.com/what-is-web3-5271876#toc-are-there-any-examples-of-web3-today) well enough to grasp the explanation of why Aether isn't based on the blockchain.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Aether Pro
 
  The company touts Aether Pro, "a private, team-based version of Aether as a collaboration tool, like Slack." This version of the platform offers live chat rooms, structured discussion threads, email newsletters, and more. However, nothing on the site indicates what it costs or how to sign up for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Many People Use Aether?
 
@@ -46,29 +58,9 @@ Close
 
  As of this writing, no Aether community has more than 79 subscribers, and the majority have under 30 users. The last post on the company's web-based forum is from March 2022, though at least one new post per day has appeared in the app for almost every day in 2023.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Does Aether Use the Blockchain?
 
  Aether does not use blockchain. For the technical reader, Aether provides[ a long, very detailed explanation of the technology used to create and operate](https://getaether.net/docs/faq/aether%5Fcryptography/) the platform.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Do I Join Aether?
 
@@ -79,10 +71,7 @@ Close
  The app offers Popular and New posts, somewhat like Reddit. You can also browse or search for subs, which are smaller communities for a specific topic or interest.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Are There Costs for Aether?
@@ -92,6 +81,10 @@ Close
  While the app and website both mention that users can support the platform via[ Patreon](https://www.patreon.com) , those links are broken and a search at Patreon doesn't return anything relevant.
 
 ##  How Does Aether Compare to Reddit and X?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Aether vs. Reddit and X
 
@@ -114,13 +107,6 @@ Close
 * Centralized: The companies maintain control over content, operations, and infrastructure
 * Algorithmic delivery of content (on X)
 * Unique usernames
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -160,20 +146,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-androids-best-mobile-brawlers-ranked-1-10/"><u>[New] 2024 Approved Android's Best Mobile Brawlers Ranked #1-10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-ultimate-ios-tutorial-downloading-episodes-effortlessly/"><u>[Updated] In 2024, Ultimate iOS Tutorial Downloading Episodes Effortlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-trend-whats-behind-the-worldwide-shift-to-electric-vehicles/"><u>Decoding the Trend: What's Behind the Worldwide Shift to Electric Vehicles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/embark-on-an-epic-quest-with-these-6-essential-super-mario-bros-titles-in-your-pc-library/"><u>Embark on an Epic Quest with These 6 Essential Super Mario Bros Titles in Your Pc Library!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/essential-tips-for-newbies-using-the-windows-10-refresh-feature/"><u>Essential Tips for Newbies Using the Windows 10 Refresh Feature</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-enduring-appeal-of-the-samsung-galaxy-tab-s3-a-comprehensive-assessment/"><u>Evaluating the Enduring Appeal of the Samsung Galaxy Tab S3 - A Comprehensive Assessment</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-steps-to-a-kid-safe-ps5-experience/"><u>Five Steps to a Kid-Safe PS5 Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insights-into-samsung-galaxy-rings-costing-details-specifications-release-timeline-and-more/"><u>Insights Into Samsung Galaxy Ring's Costing Details, Specifications, Release Timeline, & More</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/madden-nfl-19-critique-stunning-gameplay-modes-with-a-touch-of-weariness/"><u>Madden NFL 19 Critique: Stunning Gameplay Modes with a Touch of Weariness</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-infinix-smart-8-plus-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Smart 8 Plus? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/purifying-audio-from-films-and-movies-cost-effective-methods-for-2024/"><u>Purifying Audio From Films and Movies Cost-Effective Methods for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-an-oculus-questquest-2-a-comprehensive-guide-for-first-time-users/"><u>Setting up an Oculus (Quest/Quest 2): A Comprehensive Guide for First-Time Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-to-resolve-vcompdll-file-not-detected-issues/"><u>Solutions to Resolve vcomp.dll File Not Detected Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-for-ocidll-is-missing-errors-on-your-pc/"><u>Step-by-Step Troubleshooting for 'Oci.dll Is Missing' Errors on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streaming-tips-access-the-roku-channel-even-if-you-dont-own-a-roku-player/"><u>Streaming Tips: Access The Roku Channel Even If You Don't Own A Roku Player</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-10-groundbreaking-examples-of-the-metaverse-unpacked-for-2024/"><u>[Updated] 10 Groundbreaking Examples of the Metaverse Unpacked for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>[Updated] Innovation in Your Hands The Sonic Experience of Xperia XZ</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/iuoajoodkeocveocsplusodspluswjsuwntoa6luwcmeockuwujos6huoblplusocioobhjog5yid5pyf5yyw44go6yen6kab44oh44o844k44gu5a6j5ywo44gq44kv44oq44ki5pa55rov44cnig/"><u>「パソコン売却準備を完了しよう: 初期化と重要データの安全なクリア方法」</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/comment-recuperer-votre-contenu-video-a-partir-dun-support-memoire-ecrit-avec-erreur/"><u>Comment Recuperer Votre Contenu Vidéo À Partir D'un Support Mémoire Écrit Avec Erreur</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-comprehensive-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-correcting-visual-aberrations-and-colour-defects-in-pc-screens/"><u>Expert Tips for Correcting Visual Aberrations and Colour Defects in PC Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/google-pixel-tablet-news-update-detailed-look-at-its-expected-launch-and-impressive-tech-specs/"><u>Google Pixel Tablet News Update: Detailed Look at Its Expected Launch and Impressive Tech Specs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-drain-by-msmpengexe-on-your-windows-10-system-full-guide/"><u>How to Fix Excessive CPU Drain by MsMpEng.exe on Your Windows 10 System [FULL GUIDE]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-double-trouble-replaying-youtube-videos-on-your-set/"><u>In 2024, Double Trouble Replaying YouTube Videos on Your Set</u></a></li>
+<li><a href="https://extra-information.techidaily.com/integrating-harmonious-sounds-into-your-canva-videos/"><u>Integrating Harmonious Sounds Into Your Canva Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-meta-quest-3-latest-updates-on-news-pricing-launch-timeline-and-detailed-specifications/"><u>Introducing Meta Quest 3 - Latest Updates on News, Pricing, Launch Timeline & Detailed Specifications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-weather-icons-styling-windows-11s-system-tray/"><u>Mastering Weather Icons: Styling Windows 11'S System Tray</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-troubleshooting-common-errors-on-apple-tv-streaming-from-ios-devices/"><u>Step-by-Step Tutorial: Troubleshooting Common Errors on Apple TV Streaming From iOS Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-15-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixes-for-non-syncing-gmail-issues/"><u>Troubleshooting Guide: Fixes for Non-Syncing Gmail Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unplugged-no-more-a-step-by-step-to-reconnect-your-vizio-to-wi-fi/"><u>Unplugged No More: A Step-by-Step to Reconnect Your Vizio to Wi-Fi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-foldable-iphone-latest-leaks-on-pricing-launch-date-and-features/"><u>Upcoming Foldable iPhone - Latest Leaks on Pricing, Launch Date & Features</u></a></li>
 </ul></div>
 

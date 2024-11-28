@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-11-17T16:47:22.768Z
-updated: 2024-11-19T17:11:34.253Z
+date: 2024-11-21T16:58:24.548Z
+updated: 2024-11-28T17:01:14.348Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -62,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -69,10 +77,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -92,10 +97,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -107,10 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -118,13 +117,6 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,17 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-clear-cinematic-vision-top-camera-stabilizers-reviewed-for-2024/"><u>[Updated] Clear Cinematic Vision - Top Camera Stabilizers Reviewed for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-chromecast-and-fire-stick-for-perfect-playback/"><u>Connecting Chromecast and Fire Stick for Perfect Playback</u></a></li>
-<li><a href="https://win-info.techidaily.com/effektivste-strategie-sichere-kopie-ihrer-daten-auf-externer-ssd-in-echtzeit-sichern/"><u>Effektivste Strategie: Sichere Kopie Ihrer Daten Auf Externer SSD in Echtzeit Sichern</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-superior-sound-performance-on-pc-download-compatible-realtek-drivers-for-win11win10win7/"><u>Ensure Superior Sound Performance on PC - Download Compatible Realtek Drivers for Win11/Win10/Win7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-defy-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Defy 2 Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c12-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C12 Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721888392921-is-it-time-to-retire-the-turing-test-five-modern-evaluation-methods-for-artifice-intelligence/"><u>Is It Time to Retire the Turing Test? Five Modern Evaluation Methods for Artifice Intelligence.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/methodology-for-locating-personal-numbers-on-internet-platforms/"><u>Methodology for Locating Personal Numbers on Internet Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-restoring-sounds-in-fortnite/"><u>Step-by-Step Solutions for Restoring Sounds in Fortnite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-ultimate-guide-to-the-best-twitter-management-apps-and-programs/"><u>Top Picks: Ultimate Guide to the Best Twitter Management Apps & Programs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-sending-texts-from-your-ipad/"><u>Ultimate Guide: Sending Texts From Your iPad</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-simple-steps-to-record-your-youtube-streams-for-2024/"><u>[New] 5 Simple Steps to Record Your YouTube Streams for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-low-fee-android-communication-options-10-best/"><u>[New] Low-Fee Android Communication Options, 10 Best</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>[New] Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-differentiate-yourself-with-these-critical-yt-shorts-hacks-for-2024/"><u>[Updated] Differentiate Yourself with These Critical YT Shorts Hacks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-stepwise-approach-to-leveraging-gpt-3-power-in-openai-playground/"><u>A Stepwise Approach to Leveraging GPT-3 Power in OpenAI Playground</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accidental-double-posting-learn-to-undo-replicates-on-tiktok-here/"><u>Accidental Double-Posting? Learn to Undo Replicates on TikTok Here!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-4-cost-free-calendar-apps-to-boost-your-organization-skills/"><u>Best 4 Cost-Free Calendar Apps To Boost Your Organization Skills</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-duckduckgos-privacy-advantages-an-in-depth-analysis/"><u>Discovering DuckDuckGo's Privacy Advantages: An In-Depth Analysis</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/erwecken-sie-ihre-aus-dem-papierkorb-geloschten-dokumente-wieder-zum-leben-fallsuche-erforderlich/"><u>Erwecken Sie Ihre Aus Dem Papierkorb Gelöschten Dokumente Wieder Zum Leben - Fallsuche Erforderlich!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facing-glitches-in-nintendos-cloud-gaming-service-is-it-a-widespaster-or-individual-problem/"><u>Facing Glitches in Nintendo's Cloud Gaming Service – Is It a Widespaster or Individual Problem?</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-gearing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-comprehensive-i/"><u>In 2024, Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preserving-web-memories-your-complete-guide-to-accessing-past-versions-with-the-wayback-machine/"><u>Preserving Web Memories: Your Complete Guide to Accessing Past Versions with the Wayback Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/teslas-robotaxi-revealed-unveiling-the-cost-launch-timeline-and-technical-details-dont-miss-these-latest-buzz/"><u>Tesla's Robotaxi Revealed! Unveiling the Cost, Launch Timeline & Technical Details - Don't Miss These Latest Buzz</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-multitasking-with-picture-in-picture-on-android-platforms/"><u>The Complete Guide to Multitasking with Picture-in-Picture on Android Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/toms-guide-to-next-gen-tech-your-ultimate-source-for-hardware-knowledge/"><u>Tom's Guide to Next-Gen Tech: Your Ultimate Source for Hardware Knowledge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/your-personal-igtv-channel-guide-for-inspiration-for-2024/"><u>Your Personal IGTV Channel Guide for Inspiration for 2024</u></a></li>
 </ul></div>
 

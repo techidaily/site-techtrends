@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-11-17T21:56:43.548Z
-updated: 2024-11-19T21:44:19.256Z
+date: 2024-11-21T17:19:59.422Z
+updated: 2024-11-28T17:48:51.125Z
 tags:
   - apple
 categories:
@@ -69,25 +69,25 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-current-and-future-drone-use-cases-unveiled/"><u>[New] In 2024, Current & Future Drone Use Cases Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-chrome-os-4-screenshots-tricks/"><u>[New] Mastering Chrome OS 4 Screenshots Tricks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-old-tweet-discovery-mining-twitters-history-for-2024/"><u>[New] Old Tweet Discovery Mining Twitter's History for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterful-bio-upgrade-merging-linktree-with-tiktoks-profiles/"><u>[Updated] Masterful Bio Upgrade Merging Linktree with TikTok's Profiles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[Updated] Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-add-an-email-signature-in-your-godaddy-webmail-account/"><u>Easy Steps to Add an Email Signature in Your GoDaddy Webmail Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exclusive-info-alert-discover-psvr2-release-timeline-pricing-structure-and-advanced-hardware-details/"><u>Exclusive Info Alert: Discover PSVR2 Release Timeline, Pricing Structure and Advanced Hardware Details</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nubia-red-magic-8s-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nubia Red Magic 8S Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-use-of-android-apps-seamlessly-in-windows-11-environment/"><u>Mastering the Use of Android Apps Seamlessly in Windows 11 Environment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-strategy-for-finding-and-restoring-accidentally-deleted-emails-in-your-gmail-account/"><u>The Ultimate Strategy for Finding and Restoring Accidentally Deleted Emails in Your Gmail Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tactics-when-are-my-car-speakers-going-blind/"><u>Troubleshooting Tactics: When Are My Car Speakers Going Blind?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/aviutlmp3/"><u>ぴったりフィットするAviUtl用MP3読み込めない問題を簡単に直す手引き</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>[New] 2024 Approved The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-integrative-design-embedding-youtube-in-slides/"><u>[New] In 2024, Integrative Design Embedding YouTube in Slides</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-capture-showdown-is-obs-superior-to-twitch-studio-in-2024/"><u>[New] Screen Capture Showdown Is OBS Superior to Twitch Studio, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-weekly-essentials-the-best-of-igtv-for-2024/"><u>[New] Weekly Essentials The Best of IGTV for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>[Updated] 2024 Approved Bringing Videos to Life Using YouTube in Educational Environments</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-comprehensive-overview-of-whatsapp-voice-calls/"><u>[Updated] Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tools-for-capturing-call-of-duty-warzone-for-2024/"><u>[Updated] Top Tools for Capturing Call of Duty Warzone for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/begin-your-journey-in-ai-access-to-15-premium-free-online-lessons-curated-by-lifewire/"><u>Begin Your Journey in AI - Access to 15 Premium Free Online Lessons Curated by Lifewire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solution-for-shelldll-not-found-system-issue/"><u>Comprehensive Solution for 'Shell.dll Not Found' System Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delving-into-variations-hulu-regular-service-versus-huluplus-plan/"><u>Delving Into Variations: Hulu Regular Service Versus Hulu+ Plan</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882788922-get-ahead-of-the-curve-exclusive-info-on-apples-upcoming-sound-integrated-device-price-and-launch-date-revealed/"><u>Get Ahead of the Curve: Exclusive Info on Apple's Upcoming Sound-Integrated Device - Price and Launch Date Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-how-can-i-use-imessage-on-an-android-device/"><u>Guide: How Can I Use iMessage on an Android Device?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/making-memorable-content-a-macos-approach-to-ootds-for-2024/"><u>Making Memorable Content A MacOS Approach to OOTDs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fix-a-gamers-handbook-to-snapping-photos-on-ps4/"><u>Quick Fix: A Gamer's Handbook to Snapping Photos on PS4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-pc-restart-issues-a-step-by-step-guide/"><u>Resolving PC Restart Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-tech-potential-the-in-depth-review-of-the-affordable-equipped-for-creativity-moto-g-stylus-phone/"><u>Unlocking Tech Potential: The In-Depth Review of the Affordable, Equipped-for-Creativity Moto G Stylus Phone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

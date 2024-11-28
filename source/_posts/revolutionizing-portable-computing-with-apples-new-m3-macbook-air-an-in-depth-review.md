@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-11-18T19:13:37.388Z
-updated: 2024-11-19T20:24:18.143Z
+date: 2024-11-26T17:11:11.457Z
+updated: 2024-11-28T17:13:03.876Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -43,13 +47,6 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -80,6 +77,10 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
 ---
@@ -109,10 +110,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -142,13 +140,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | CPU (Single Core)            | 140                 |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
 
@@ -180,6 +171,10 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -191,10 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -243,24 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-mastering-the-art-of-capturing-live-cricket-action/"><u>[Updated] Mastering the Art of Capturing Live Cricket Action</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tips-for-perfecting-sound-tracks-start-with-auditions-fade-in-for-2024/"><u>[Updated] Tips for Perfecting Sound Tracks Start with Audition's Fade-In for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-v30-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo V30 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-adding-subtitles-to-your-instagram-story-content/"><u>A Step-by-Step Guide: Adding Subtitles to Your Instagram Story Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-walkthrough-for-including-source-code-within-a-word-doc/"><u>Comprehensive Walkthrough for Including Source Code Within a Word Doc</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-to-bring-back-the-buzz-chromecast-audio-problems-resolved/"><u>Expert Tips to Bring Back the Buzz: Chromecast Audio Problems Resolved</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-stutter-in-starfield-gameplay-a-comprehensive-guide-to-smooth-soundscape/"><u>Fixing Stutter in Starfield Gameplay - A Comprehensive Guide to Smooth Soundscape</u></a></li>
-<li><a href="https://techtrends.techidaily.com/immerse-yourself-in-middle-earth-watching-lord-of-the-rings-in-correct-progression/"><u>Immerse Yourself in Middle-Earth: Watching ‘Lord of the Rings’ In Correct Progression</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/masterclass-view-and-modify-mac-pages-documents-using-microsoft-office-suite/"><u>Masterclass: View and Modify Mac Pages Documents Using Microsoft Office Suite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-the-pc-reset-error-in-windows-expert-advice-and-methods/"><u>Navigating Through the PC Reset Error in Windows: Expert Advice and Methods</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-resolution-to-amd-woes/"><u>Quick Resolution to AMD Woes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/text-mastery-cutting-edge-effects-guide-for-2024/"><u>Text Mastery Cutting-Edge Effects Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-compre-written-in-the-stars-harnessing-hidden-opportunities-for-insta-sponsorships-for-2024/"><u>The Compre Written in the Stars Harnessing Hidden Opportunities for Insta-Sponsorships for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-9-essential-gadgets-and-tools-for-students-in-the-classroom/"><u>Top 9 Essential Gadgets and Tools for Students in the Classroom</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functional-xbox-series-x-and-s-headsets/"><u>Troubleshooting Guide: Resolving Issues with Non-Functional Xbox Series X & S Headsets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-mysterious-black-display-in-windows-11/"><u>Ultimate Guide: Resolving the Mysterious Black Display in Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-personalization-and-insights-for-websites-enabled-by-cookiebot-technology/"><u>Unlock Personalization and Insights for Websites, Enabled by Cookiebot Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-3dr-a-solo-traverse-into-future-tech-world/"><u>[Updated] '3DR' A Solo Traverse Into Future Tech World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cut-to-the-chase-must-know-tips-for-win10-users-for-2024/"><u>[Updated] Cut-to-the-Chase Must-Know Tips for Win10 Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[Updated] Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-free-offline-downloads-of-classic-and-family-friendly-christmas-movies-from-youtube/"><u>1. Free Offline Downloads of Classic and Family-Friendly Christmas Movies From YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-authenticating-your-youtube-username-and-email/"><u>2024 Approved Authenticating Your YouTube Username & Email</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-apple-music-supported-media-formats/"><u>Comprehensive Guide: Apple Music Supported Media Formats</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-poco-c55-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>In 2024, Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-users-tutorial-ripping-dvds-and-transforming-them-into-avi-files/"><u>Mac Users' Tutorial: Ripping DVDs and Transforming Them Into AVI Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximieren-sie-ihren-iphones-speicherplatz-die-effektivste-methode-zur-organisation-und-bereinigung/"><u>Maximieren Sie Ihren iPhones Speicherplatz - Die Effektivste Methode Zur Organisation Und Bereinigung</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-bollywood-movie-download-options-watch-premiere-films-on-youtube/"><u>Top Free Bollywood Movie Download Options: Watch Premiere Films on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-independent-game-apps-for-screen-free-android-playing/"><u>Top Independent Game Apps for Screen-Free Android Playing</u></a></li>
 </ul></div>
 

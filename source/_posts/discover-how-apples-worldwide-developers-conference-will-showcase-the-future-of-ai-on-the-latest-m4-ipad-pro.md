@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2024-11-14T23:19:28.654Z
-updated: 2024-11-19T20:20:33.066Z
+date: 2024-11-21T17:12:32.537Z
+updated: 2024-11-28T17:04:29.948Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,16 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -122,16 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/latest-update-instant-fix-intelligent-iris-plus-graphics-640-driver-installation-guide/"><u>[Latest Update] Instant Fix: Intelligent Iris Plus Graphics #640 Driver Installation Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-building-applications-with-azure-speech-to-text/"><u>[New] Building Applications with Azure Speech to Text</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-seamless-facebook-broadcast-integrating-obs-with-devices-for-2024/"><u>[New] Seamless Facebook Broadcast Integrating OBS with Devices for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-decoding-efficient-photo-and-video-file-transfers-on-windows-10/"><u>[Updated] In 2024, Decoding Efficient Photo & Video File Transfers on Windows 10</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-revealed-top-windows-11-gems-that-could-boost-your-user-performance/"><u>[Updated] In 2024, Revealed Top Windows 11 Gems That Could Boost Your User Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-line-artifacts-appearing-on-your-tv-screen/"><u>Effective Solutions for Line Artifacts Appearing on Your TV Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-correcting-error-codes-39-on-windows-based/"><u>Expert Advice: Correcting Error Codes 39 on Windows-Based</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-navigate-and-use-your-devices-battery-metrics-in-windows-11/"><u>How to Navigate and Use Your Device's Battery Metrics in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-autonomous-car-brands-predicted-for-2/"><u>Leading Autonomous Car Brands Predicted for 2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-key-disparities-between-apple-macintosh-and-windows-computers/"><u>Unveiling Key Disparities Between Apple Macintosh and Windows Computers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tips-and-tricks-for-successful-social-media-video/"><u>[New] 2024 Approved Tips & Tricks for Successful Social Media Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-reset-and-fix-obs-fullscreen-issue/"><u>2024 Approved How to Reset and Fix OBS Fullscreen Issue</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-producing-high-impact-slack-channels/"><u>2024 Approved The Art of Producing High-Impact Slack Channels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cartooncanvas-comprehensive-review-and-guidebook-24/"><u>CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-mastering-the-art-of-coding-your-own-all-in-one-tv-remote/"><u>Comprehensive Guide: Mastering the Art of Coding Your Own All-in-One TV Remote</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-rookie-to-trainer-the-definitive-playbook-for-pokemon-go/"><u>From Rookie to Trainer: The Definitive Playbook for 'Pokémon Go'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-interpret-and-benefit-from-your-laptops-battery-health-on-windows-10/"><u>How to Interpret and Benefit From Your Laptop's Battery Health on Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-garner-over-a-thousand-viewers-swiftly/"><u>In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-earning-game-with-top-13-strategies-for-novices-on-reddit/"><u>In 2024, Revolutionize Your Earning Game with Top 13 Strategies for Novices on Reddit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/league-of-legends-how-to-resolve-voice-chat-issues-quickly/"><u>League of Legends - How to Resolve Voice Chat Issues Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-maintenance-a-comprehensive-tutorial-on-upgrading-motherboard-drivers-for-windows-systems/"><u>Mastering Hardware Maintenance: A Comprehensive Tutorial on Upgrading Motherboard Drivers for Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-end-of-the-wobble-on-win11-screens/"><u>The End of the Wobble on Win11 Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-repairing-the-x3daudiodll-file-failure-situations/"><u>The Ultimate Guide to Repairing the X3Daudio.dll File Failure Situations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-tactics-to-skyrocket-your-presence-and-go-viral-on-instagram/"><u>Top 10 Tactics to Skyrocket Your Presence and Go Viral on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-pairing-your-ps4-controller-with-console/"><u>Ultimate Guide to Pairing Your PS4 Controller with Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-setting-up-espn-plus-channel-on-an-lg-smart-tv-screen/"><u>Ultimate Tutorial: Setting Up ESPN Plus Channel on an LG Smart TV Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/viewing-the-dragons-discover-the-ideal-progression-of-how-to-train-your-dragon-films/"><u>Viewing the Dragons: Discover the Ideal Progression of How To Train Your Dragon Films</u></a></li>
 </ul></div>
 

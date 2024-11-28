@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Creating Versatile Filters in Gmail
-date: 2024-11-14T20:44:26.384Z
-updated: 2024-11-19T17:16:01.368Z
+date: 2024-11-23T17:57:05.561Z
+updated: 2024-11-28T16:47:45.643Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Tutorial on Creating Versatile Filters in Gmail
@@ -64,16 +64,13 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Outlook](https://outlook.live.com/mail/)
 
 ![Emails in an Outlook.com account](https://www.lifewire.com/thmb/H-eJC9BjhHDNlttlpKjOcwFqn0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-email-96b6e0e2cb634079b2fd23872831e774.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -112,6 +109,10 @@ of 10
 ## [Proton Mail](https://proton.me/mail)
 
 ![ProtonMail inbox](https://www.lifewire.com/thmb/2A5ZBpitET9klvQvOoZKvrgjXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/proton-mail-09e4a81823e3432fa07c5076fb0e8ec9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -154,10 +155,7 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Yahoo Mail](https://overview.mail.yahoo.com/)
@@ -165,10 +163,7 @@ of 10
 ![Yahoo Mail email inbox](https://www.lifewire.com/thmb/sU-JXf-rjXc7JEILC7Oc5ZE5rQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-ad1701b87a104041b1841b2889d75d13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -204,16 +199,13 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [iCloud Mail](https://www.icloud.com/mail)
 
 ![iCloud Mail](https://www.lifewire.com/thmb/w_acnV8MBdPn4-ciceRK00WKSYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/icloud-mail-5afed13dfa6bcc0036e3ac4f.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -243,23 +235,9 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Tuta](https://tuta.com/)
 
 ![The New Email prompt at Tuta Mail](https://www.lifewire.com/thmb/QJuKx-B118vphcRrC7pLrccc_z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tuta-free-email-248d1566745f4c88bfbe3cd0d302c8f7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -336,13 +314,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [AOL Mail](https://www.aol.com/)
 
 ![AOL Mail inbox](https://www.lifewire.com/thmb/fmPyWPLETFWZS5zg3BYZt-QjHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aol-mail-afe56902b0334cb0a542d11e4f7bac82.png)
@@ -385,6 +356,10 @@ of 10
 
 ![10 minute mail disposable email account inbox](https://www.lifewire.com/thmb/z54bILlMdpNst4W5XMOQWgjMozs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/10-minute-mail-87c7ad30b94c4a8da83103d31ea84bc3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Gives you an address in seconds.
@@ -412,6 +387,10 @@ of 10
 10
 
 of 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Zoho Mail](https://www.zoho.com/mail/)
 
@@ -492,24 +471,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-guide-to-android-photo-fixes/"><u>[New] 2024 Approved Ultimate Guide to Android Photo Fixes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-directsnaprecorder-straightforward-windows-11-capture-for-2024/"><u>[Updated] DirectSnapRecorder Straightforward Windows 11 Capture for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-flawless-photo-management-on-iphone-size-adjustment-basics/"><u>[Updated] Flawless Photo Management on iPhone Size Adjustment Basics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-the-mix-combining-youtube-links-in-stories-for-2024/"><u>[Updated] Master the Mix Combining YouTube Links in Stories for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-tracking/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Tracking</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-writing-companions-6-exceptional-journal-apps/"><u>Discover the Best Writing Companions: 6 Exceptional Journal Apps!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-techniques-for-engaging-conversations-in-mozilla-thunderbird/"><u>Effective Techniques for Engaging Conversations in Mozilla Thunderbird</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-icloud-email-security-with-dual-step-verification/"><u>Enhancing iCloud Email Security with Dual-Step Verification</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-elusive-d3dx941dll-a-troubleshooting-manual-for-windows-users/"><u>Fixing the Elusive d3dx9_41.dll - a Troubleshooting Manual for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-home-detachment-process-how-to-safely-remove-connected-devices/"><u>Google Home Detachment Process: How to Safely Remove Connected Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-dynamic-font-movement-packs/"><u>In 2024, Dynamic Font Movement Packs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unlocking-the-potential-of-quantum-hdr/"><u>In 2024, Unlocking the Potential of Quantum HDR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-update-fixed-networking-bug-release/"><u>League of Legends Update Fixed Networking Bug Release</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/optimal-video-sharing-experience-decide-between-tiktok-and-youtubes-shorts-for-2024/"><u>Optimal Video-Sharing Experience Decide Between TikTok & YouTubes' Shorts for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/perfect-order-for-watching-dragon-ball-series-expert-advice/"><u>Perfect Order for Watching Dragon Ball Series: Expert Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-selection-of-10-amazing-free-email-accounts-to-try-today/"><u>The Definitive Selection of 10 Amazing Free Email Accounts to Try Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-error-0x80004005-on-windows/"><u>Troubleshooting Guide: Resolving Error 0X80004005 on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-potential-risks-how-secure-is-your-information-with-chatgpt/"><u>Unveiling Potential Risks: How Secure Is Your Information with ChatGPT?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-does-duckduckgo-offer-for-online-security-a-comprehensive-guide/"><u>What Does DuckDuckGo Offer for Online Security? A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boosting-your-snapstreak-essential-tips-and-tricks/"><u>2024 Approved Boosting Your Snapstreak Essential Tips and Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-dynamics-review-2023/"><u>2024 Approved Complete Dynamics Review 2023</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-a-viral-video-journey-6-key-strategies-on-youtube-for-2024/"><u>Crafting a Viral Video Journey 6 Key Strategies on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-when-your-windows-10-search-function-fails/"><u>Easy Solutions When Your Windows 10 Search Function Fails</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-crafting-new-audio-centric-interactions/"><u>Facebook Crafting New Audio-Centric Interactions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-chromecast-for-seamless-pc-screen-mirroring-on-your-home-television-setup/"><u>How to Use Chromecast for Seamless PC Screen Mirroring on Your Home Television Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proiphone-close-ups-techniques-for-captivating-images/"><u>In 2024, Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-information-on-sonys-vr-device-anticipate-the-launch-timeline-estimated-price-points-and-tech-specs/"><u>Inside Information on Sony's VR Device - Anticipate the Launch Timeline, Estimated Price Points & Tech Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-manage-multiple-youtube-channels-simultaneously/"><u>Is It Possible to Manage Multiple YouTube Channels Simultaneously?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-the-right-time-on-your-amazon-kindle-paperwhite-a-comprehensive-tutorial/"><u>Setting the Right Time on Your Amazon Kindle Paperwhite - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-gratis-and-community-based-dns-options/"><u>The Ultimate Guide to Gratis & Community-Based DNS Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-black-screen-problems-in-destiny-2/"><u>Troubleshooting Black Screen Problems in Destiny 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zippy-computing-discover-the-top-7-strategies-for-rapid-computer-improvement/"><u>Zippy Computing: Discover the Top 7 Strategies for Rapid Computer Improvement</u></a></li>
 </ul></div>
 

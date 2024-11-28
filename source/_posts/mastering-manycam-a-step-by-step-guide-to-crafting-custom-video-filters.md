@@ -1,7 +1,7 @@
 ---
 title: "Mastering ManyCam: A Step-by-Step Guide to Crafting Custom Video Filters"
-date: 2024-09-05T11:33:54.969Z
-updated: 2024-09-06T11:33:54.969Z
+date: 2024-11-21T16:45:13.430Z
+updated: 2024-11-28T17:01:54.835Z
 tags:
   - product
   - solution
@@ -10,32 +10,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec876e69fbcc20cbbbf17a86ba.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering ManyCam: A Step-by-Step Guide to Crafting Custom Video Filters
 
 ManyCam Special – Up to 25% OFF Upgrade Now 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## We're here to help!
 
 Search For ![Searching...](https://help.manycam.com/wp-content/themes/manycam_help_newdesign/img/loading.svg) Search 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. [Home](https://tools.techidaily.com/manycam/products/)
 2. [ManyCam Features](https://tools.techidaily.com/manycam/products/)
 3. [Effects Guide](https://tools.techidaily.com/manycam/products/)
@@ -630,6 +616,10 @@ Your effect is now available in ManyCam and ready to be used. Click on your new 
 
 You can also check out our catalog of free downloadable effects [here!](https://tools.techidaily.com/manycam/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 **Can I create my own animated effects?** No, there is no such option at the moment. 
@@ -645,17 +635,9 @@ You can also check out our catalog of free downloadable effects [here!](https://
  Updated on August 23, 2022 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 
 
  Was this article helpful? 
@@ -663,27 +645,17 @@ You can also check out our catalog of free downloadable effects [here!](https://
 [Yes](https://tools.techidaily.com/manycam/products/) [No](https://tools.techidaily.com/manycam/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Related Articles
 
 * [How do I create effect without publishing it on ManyCam Effects website?](https://tools.techidaily.com/manycam/products/)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Contents
 
 1. [FAQ](https://tools.techidaily.com/manycam/products/)
@@ -694,8 +666,6 @@ You can also check out our catalog of free downloadable effects [here!](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -703,4 +673,20 @@ You can also check out our catalog of free downloadable effects [here!](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-free-video-conferencing-solutions-for-windowsmac-users/"><u>[New] 2024 Approved Free Video Conferencing Solutions for Windows/Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-prime-hdr-cameras-a-comprehensive-guide/"><u>[New] Unveiling Prime HDR Cameras A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-insiders-look-at-creating-viral-fb-cover-videos/"><u>[Updated] 2024 Approved The Insider's Look at Creating Viral FB Cover Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-craft-corporate-emblems-from-available-graphic-samples-for-2024/"><u>[Updated] Craft Corporate Emblems From Available Graphic Samples for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-perfect-youtube-thumbnails-on-macos/"><u>[Updated] In 2024, Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-vr-application-in-entertainment/"><u>[Updated] In 2024, VR Application in Entertainment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-on-resolving-missing-x3daudiodll-error-messages/"><u>Comprehensive Tips on Resolving 'Missing x3daudio.dll' Error Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-googles-communication-tool-the-evolution-of-google-hangouts/"><u>Exploring Google's Communication Tool: The Evolution of Google Hangouts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-link-samsung-audio-buds-seamlessly-to-a-desktop-system/"><u>How To Link Samsung Audio Buds Seamlessly to a Desktop System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-achieve-the-perfect-look-youtubes-guide-to-video-aspect-ratios/"><u>In 2024, Achieve the Perfect Look YouTube's Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-tutorial-on-consolidating-your-jpeg-photos-into-one-pdf-document/"><u>The Complete Tutorial on Consolidating Your JPEG Photos Into One PDF Document</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-issues-with-spotify-on-android-auto/"><u>Troubleshooting Steps: Resolving Issues with Spotify on Android Auto</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-accessing-spotifys-student-pricing/"><u>Unlocking the Secrets: A Step-by-Step Guide to Accessing Spotify's Student Pricing</u></a></li>
+</ul></div>
 

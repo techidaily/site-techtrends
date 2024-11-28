@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2024-11-12T18:07:32.973Z
-updated: 2024-11-19T16:36:16.913Z
+date: 2024-11-21T16:17:57.857Z
+updated: 2024-11-28T16:29:11.165Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -23,13 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 
  If you work with remote team members, you're probably familiar with Slack as a collaboration tool. But did you know that Slack also has a powerful, built-in task reminder system? Slack reminders are a great way to remember things like work tasks, personal appointments, or birthdays. Here's how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a Reminder in Slack
 
  The correct syntax to add a reminder in slack is simple. There are three parts to the command, and once you add it, Slack will remind either you or someone else with the reminder text you specify, at the time that you've stated.
@@ -46,8 +39,16 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Reminder confirmation](https://www.lifewire.com/thmb/PzyebHvUXsi9Hje98FToFqDftnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackreminderresult-a1aede9c7212420fad2f823efe967309.jpg)
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
 
@@ -58,14 +59,15 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 2. Select**Delete** next to the task you want to remove.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The /remind command works the same whether you're using Slack on the web or the Slack mobile app.
 
@@ -78,21 +80,11 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 2. To add a reminder from a message on the Slack app, long-press on the message and select**Remind Me** from the pop-up menu.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. On the**Remind me** window, tap the time when you want to be reminded. Select**Custom** to set your own date, time, or custom reminder text.  
 ![Remind Me in Slack app](https://www.lifewire.com/thmb/5qXQiml1lToF3zCuFYZVOfTFy2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackappremindme-9ada02a06c2c490bb9fa654470dd6913.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These reminders will show up in the Slackbot channel just like any of the other reminders that you've set for yourself using the /remind command.
 
@@ -125,21 +117,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-one-device-one-storage-transferring-files-smoothly/"><u>[New] In 2024, One Device, One Storage Transferring Files Smoothly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-media-mastery-youtube-vs-tiktoks-best-fit/"><u>[Updated] Media Mastery Youtube Vs. TikTok's Best Fit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-tips-to-become-an-instagram-star-for-2024/"><u>9 Tips to Become an Instagram Star for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cross-generational-fun-are-your-favorite-ps4-games-playable-on-the-latest-ps5/"><u>Cross-Generational Fun: Are Your Favorite PS4 Games Playable on the Latest PS5?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-for-a-smooth-mortal-kombat-11-experience-avoid-crashes-now/"><u>Easy Steps for a Smooth Mortal Kombat 11 Experience: Avoid Crashes Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964754541-ethical-harvesting-practices-to-ensure-sustainability-of-ophiocordyceps-sinensis-populations-in-the-wild/"><u>Ethical Harvesting Practices to Ensure Sustainability of Ophiocordyceps Sinensis Populations in the Wild.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-critical-boot-problems-a-comprehensive-walkthrough-of-ntldr-missing-errors/"><u>Fixing Critical Boot Problems: A Comprehensive Walkthrough of NTLDR Missing Errors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-non-recognized-usb-in-windows-78-systems/"><u>Fixing Non-Recognized USB in Windows 7/8 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722882617946-from-ebooks-to-hardcovers-the-ultimate-tech-guide-featuring-top-laptops-and-smartphones/"><u>From Ebooks to Hardcovers – The Ultimate Tech Guide Featuring Top Laptops and Smartphones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m4v3g2-online-movavi/"><u>M4V/3G2 비디오를 무료로 Online 변환 - Movavi</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-the-migration-export-process-for-recovered-edb-mailboxes-on-an-exchange-server/"><u>Mastering the Migration: Export Process for Recovered EDB Mailboxes on an Exchange Server</u></a></li>
-<li><a href="https://facebook.techidaily.com/snapshot-source-ownership-after-upload/"><u>Snapshot Source: Ownership After Upload</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-for-amplifying-your-followers-on-twitter/"><u>Step-by-Step Strategies for Amplifying Your Followers on Twitter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-correct-order-for-viewing-every-star-trek-feature-film-beginners-guide/"><u>The Correct Order for Viewing Every Star Trek Feature Film - Beginners Guide.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-triple-monitor-display-on-your-pc/"><u>Ultimate Guide: Setting Up Triple Monitor Display on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-best-file-recovery-solution-an-expert-look-at-recuvas-capabilities/"><u>Unveiling the Best File Recovery Solution: An Expert Look at Recuva's Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-creative-starter-kit-no-cost-ae-visual-aids/"><u>[New] 2024 Approved Creative Starter Kit No-Cost AE Visual Aids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[Updated] 2024 Approved Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-6-substitutes-best-periscope-rivals-on-mobile-devices/"><u>[Updated] 2024 Approved Top 6 Substitutes Best Periscope Rivals on Mobile Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/a-comprehensive-approach-to-documenting-google-meet-discussions/"><u>A Comprehensive Approach to Documenting Google Meet Discussions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-inspired-technologies-streamlining-web-interactions/"><u>Cookiebot-Inspired Technologies: Streamlining Web Interactions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-repair-missing-ocidll-errors/"><u>How To Correctly Address and Repair Missing oci.dll Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719274715388-how-to-organize-your-notes-visually-with-obsidian-canvas/"><u>How to Organize Your Notes Visually with Obsidian Canvas</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-edge-40-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Edge 40 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-turning-on-the-closed-captions-functionality-in-roku-system/"><u>Step-by-Step Solution: Turning On the Closed Captions Functionality in Roku System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/to-update-or-not-exploring-the-benefits-of-ios-17/"><u>To Update or Not: Exploring the Benefits of iOS 17</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-parent-control-tools-and-services-recommended/"><u>Top 8 Parent Control Tools & Services Recommended</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-fixing-the-elusive-msvcr80dll-file-not-detected-issue/"><u>Troubleshooting Tips: Fixing the Elusive Msvcr80.dll File Not Detected Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Big Reveal : Key Announcements, Rumored Innovations & What to Watch For"
-date: 2024-09-05T11:41:08.889Z
-updated: 2024-09-06T11:41:08.889Z
+date: 2024-11-26T16:02:27.555Z
+updated: 2024-11-28T16:15:34.955Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung's Big Reveal : Key Announcements, Rumored Innovations & What to Watch For"
@@ -9,12 +9,6 @@ excerpt: "This Article Describes Samsung's Big Reveal : Key Announcements, Rumor
 thumbnail: https://thmb.techidaily.com/c10d5ccd4cb06e78341a3f5baab9d49b6bafa6bc56839eb08156ddb3e8984bdd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung's Big Reveal : Key Announcements, Rumored Innovations & What to Watch For
 
  In This Article
@@ -28,17 +22,9 @@ thumbnail: https://thmb.techidaily.com/c10d5ccd4cb06e78341a3f5baab9d49b6bafa6bc5
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
@@ -46,35 +32,33 @@ thumbnail: https://thmb.techidaily.com/c10d5ccd4cb06e78341a3f5baab9d49b6bafa6bc5
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -93,12 +77,6 @@ thumbnail: https://thmb.techidaily.com/c10d5ccd4cb06e78341a3f5baab9d49b6bafa6bc5
 
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -115,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/c10d5ccd4cb06e78341a3f5baab9d49b6bafa6bc5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +100,22 @@ thumbnail: https://thmb.techidaily.com/c10d5ccd4cb06e78341a3f5baab9d49b6bafa6bc5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-guide-new-camera-recording-tech-overview/"><u>[New] In 2024, Ultimate Guide New Camera Recording Tech Overview</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/phoneipad-cutting-edge-free-video-editing-tools-guide/"><u>[New] IPhone/iPad Cutting Edge Free Video Editing Tools Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audience-enchantment-advanced-audacity-crossfading/"><u>2024 Approved Audience Enchantment Advanced Audacity Crossfading</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>2024 Approved Crafting an Authentic Online Presence in the World of FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ar-vr-mr-xr-demystified-a-comprehensive-guide-to-each-technologys-unique-features/"><u>AR, VR, MR, XR Demystified: A Comprehensive Guide to Each Technology's Unique Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-lesbian-gay-bisexual-and-transgender-films-to-binge-in-july-2024-on-netflix/"><u>Best Lesbian, Gay Bisexual & Transgender Films to Binge in July 2024 on Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-the-missing-d3dx9nxdll-problem-tips-and-tricks-for-quick-repair/"><u>Dealing with the Missing d3dx9_nX.dll Problem: Tips & Tricks for Quick Repair</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-high-end-gadgets-on-a-budget-affordable-luxury-tech-picks/"><u>Experience High-End Gadgets on a Budget – Affordable Luxury Tech Picks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-windows-1ns-broken-search-function-with-easy-solutions/"><u>Fix Windows 1N's Broken Search Function with Easy Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-your-music-collection-youtube-playlists-guide/"><u>In 2024, Crafting Your Music Collection YouTube Playlists Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-next-gen-talents-8-youtube-channels-taking-off/"><u>In 2024, Next-Gen Talents 8 YouTube Channels Taking Off</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-newly-released-fitbit-charge-6-band/"><u>In-Depth Examination of the Newly Released Fitbit Charge 6 Band</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-modern-gadgets-with-guidance-from-toms-hardware/"><u>Navigating Modern Gadgets with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-no-support-errors-5-effective-steps/"><u>Navigating Windows No-Support Errors: 5 Effective Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-13-complimentary-hard-disk-diagnostic-utilities-july-2024-edition/"><u>Top 13 Complimentary Hard Disk Diagnostic Utilities - July 2024 Edition</u></a></li>
+</ul></div>
 

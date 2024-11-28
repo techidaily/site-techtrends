@@ -1,7 +1,7 @@
 ---
 title: How Does Bass Management Work? A Comprehensive Explanation of Its Processes & Principles
-date: 2024-09-05T11:41:05.759Z
-updated: 2024-09-06T11:41:05.759Z
+date: 2024-11-23T17:34:55.804Z
+updated: 2024-11-28T17:49:05.397Z
 categories:
   - BestProducts
 description: This Article Describes How Does Bass Management Work? A Comprehensive Explanation of Its Processes & Principles
@@ -15,11 +15,9 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
  The high-range and mid-range (vocals, dialogue, wind, and most musical instruments) and bass frequencies (electric and acoustic bass, explosions, and earthquakes) need to be sent to the correct speakers and is referred to as bass management.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Surround Sound and Bass
 
  Music (especially rock, pop, and rap) may contain low-frequency information that a subwoofer can take advantage of. When movies (and some TV shows) are mixed for DVD and[Blu-ray Disc](https://www.lifewire.com/blu-ray-disc-player-information-1846364) , sounds are assigned to each channel.
@@ -32,17 +30,15 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 
 Anthem AV
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Implementing Bass Management
 
  A home theater system ([usually anchored by a home theater receiver](https://www.lifewire.com/set-up-home-theater-receiver-4119787) ) needs to distribute sound frequencies to the correct channels and speakers to replicate a cinema-like experience. Bass management provides this tool.
 
  You can perform bass management automatically or manually. Before starting,[place the speakers in the proper locations](https://www.lifewire.com/positioning-loudspeakers-and-subwoofer-1846808) , connect them to your home theater receiver, and then designate where the sound frequencies need to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set Your Speaker Configuration
 
@@ -57,11 +53,9 @@ Anthem AV
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
 
  After confirming the speaker setup, designate how to route sound frequencies between the speakers and subwoofer.
@@ -73,18 +67,6 @@ Anthem AV
 * Experiment with both floor-standing speaker options (mixed or subwoofer only) for low frequencies and hear what works best for you. You can always redo the settings.
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Subwoofer vs. LFE
 
  When deciding which of the above options to use, most movie soundtracks on DVD, Blu-ray Disc, and some streaming sources contain a specific[LFE (Low-Frequency Effects)](https://www.dolby.com/uploadedFiles/Assets/US/Doc/Professional/38%5FLFE.pdf) channel ([Dolby](https://www.lifewire.com/dolby-digital-ex-plus-1846885) and[DTS](https://www.lifewire.com/what-is-dts-1846889) surround formats).
@@ -92,11 +74,9 @@ Anthem AV
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
 
 Many home theater receivers provide outputs for two subwoofers.
@@ -106,11 +86,9 @@ Many home theater receivers provide outputs for two subwoofers.
 Onkyo USA
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Automated Bass Management
 
  After designating speaker/subwoofer signal routing options, one way to finish the rest of the process is to use built-in automatic speaker setup programs that many home theater receivers provide.
@@ -132,12 +110,6 @@ Onkyo USA
 
  If you are more adventurous and have the time, you can implement bass management manually. To do this, besides setting the speaker configuration, signal routing, and size, you also need to set the crossover frequency.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Crossover Frequency Is and How to Set It
 
  The crossover is the frequency point in bass management, where mid/high and low frequencies (stated in Hz) are divided between the speakers and subwoofer.
@@ -155,13 +127,11 @@ Onkyo USA
 
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -204,8 +174,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +181,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/verything-you-need-to-succeed-with-youtube-short-videos/"><u>[New] Everything You Need to Succeed with YouTube Short Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-disable-secure-boot-and-trusted-platform-module-for-drivers-on-windows-11/"><u>How to Easily Disable Secure Boot & Trusted Platform Module for Drivers on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-modern-warfare-high-cpu-usage/"><u>How to Fix Modern Warfare High CPU Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-webcam-black-screen-on-windows-1110/"><u>How to Fix Webcam Black Screen on Windows 11/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-install-fonts-for-windows-10-easily-solved/"><u>How to Install Fonts for Windows 10 Easily [Solved]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-a59-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on A59 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-retrieve-skype-forgotten-password/"><u>How to Retrieve Skype Forgotten Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-rip-dvds-to-windows-11-easy-steps/"><u>How to Rip DVDs to Windows 11? Easy Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y100i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y100i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-art-of-retracing-instagram-pictures-roots/"><u>In 2024, The Art of Retracing Instagram Pictures' Roots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-hdr-photography-for-enthusiasts-for-2024/"><u>IPhone HDR Photography for Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unveiling-the-essence-of-streaming-with-recordcast-for-2024/"><u>Unveiling the Essence of Streaming with RecordCast for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+</ul></div>
 

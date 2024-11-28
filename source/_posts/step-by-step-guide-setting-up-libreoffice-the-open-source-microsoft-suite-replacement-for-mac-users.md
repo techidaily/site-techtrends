@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-11-16T21:09:03.096Z
-updated: 2024-11-19T23:57:38.258Z
+date: 2024-11-24T16:35:12.032Z
+updated: 2024-11-28T17:56:34.208Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -35,13 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,10 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -78,10 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -97,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,24 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-navigating-stardew-the-complete-guide-to-ginger/"><u>2024 Approved Navigating Stardew The Complete Guide to Ginger</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-setting-up-windows-11-on-your-brand-new-ssd/"><u>Complete Guide: Setting Up Windows 11 on Your Brand-New SSD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-future-of-technology-unveiling-apples-vision-pro-concept-prototype-and-its-staggering-possibilities-zdnet/"><u>Discovering the Future of Technology: Unveiling Apple's Vision Pro Concept Prototype and Its Staggering Possibilities | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722884423420-experience-amazing-ipad-deals-and-special-discounts-right-now/"><u>Experience Amazing iPad Deals and Special Discounts Right Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-absence-of-zlibdll-effective-strategies-and-tips/"><u>Fix the Absence of zlib.dll: Effective Strategies and Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-docs-viewers-revealed-techniques-to-track-file-accesses/"><u>Google Docs Viewers Revealed: Techniques to Track File Accesses</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-stop-speaker-interference-sounds-in-microsoft-windows-win-107-fixes/"><u>How to Repair and Stop Speaker Interference Sounds in Microsoft Windows - Win 10/7 Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-itel-p55-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Itel P55 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-tools-tweet-with-converted-videos/"><u>In 2024, Advanced Tools Tweet with Converted Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12T Pro?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oneplus-open-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent OnePlus Open Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/order-of-attraction-how-to-enjoy-every-james-bond-movie-without-missing-a-beat/"><u>Order of Attraction: How to Enjoy Every James Bond Movie Without Missing a Beat</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-audio-connectivity-issues-for-windows-7-users/"><u>Overcoming HDMI Audio Connectivity Issues for Windows 7 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-ntdlldll-failures-in-different-windows-systems/"><u>Step-by-Step Fixes for ntdll.dll Failures in Different Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-familys-handy-manual-to-chatgpt-and-the-world-of-generative-ais/"><u>The Family's Handy Manual to ChatGPT & The World of Generative AIs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-26-free-pc-optimization-tools-finding-the-best-registry-cleaners/"><u>Top 26 Free PC Optimization Tools : Finding the Best Registry Cleaners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-python2tdll-file-not-found-error-in-windows/"><u>Troubleshooting the 'python2t.dll' File Not Found Error in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-fixing-missing-shelldll-files/"><u>Troubleshooting Tips for Fixing Missing Shell.dll Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harmonyheed-evaluating-audio-artifacts/"><u>[New] In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724765812017-dvd/"><u>日本語 DVDスリックダウンロード方法: セキュリティが低下するのを防ぐ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-ios-enhancement-rolled-out-by-macxdvd-for-latest-iphone-7-and-iphone-7-plus-devices/"><u>Comprehensive iOS Enhancement Rolled Out by MacXDVD for Latest iPhone 7 and iPhone 7 Plus Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-movies-to-pc-conversion-made-easy-a-comprehensive-tutorial-on-using-vlc-with-screenshots-compatible-with-both-mac-and-windows-systems/"><u>DVD Movies to PC Conversion Made Easy: A Comprehensive Tutorial on Using VLC with Screenshots, Compatible With Both Mac and Windows Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-wi-fi-connectivity-in-your-iphone-following-the-ios-abstraction-understanding-and-resolving-common-problems/"><u>How to Restore Wi-Fi Connectivity in Your iPhone Following the iOS Abstraction - Understanding and Resolving Common Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-set-up-facial-recognition-face-id-for-enhanced-security-on-iphone-x/"><u>How to Successfully Set Up Facial Recognition (Face ID) for Enhanced Security on iPhone X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-screen-record-on-hp-laptop/"><u>In 2024, How to Screen Record on Hp Laptop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-interactive-virtual-warehouse-exploration/"><u>In 2024, Interactive Virtual Warehouse Exploration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-versus-video-based-platforms-who-wins/"><u>In 2024, Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-soundscapes-enhancing-photography-online/"><u>In 2024, Soundscapes Enhancing Photography Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-transfer-your-dvds-mac-to-android-conversion-guide/"><u>Seamlessly Transfer Your DVDs: Mac to Android Conversion Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-moving-your-dvd-collection-to-a-streamlined-media-server/"><u>Step-by-Step Guide: Moving Your DVD Collection to a Streamlined Media Server</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategie-per-duplicare-i-dvd-codificati-sulla-tua-macchina-apple/"><u>Strategie per Duplicare I DVD Codificati Sulla Tua Macchina Apple</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/strategies-for-maximizing-your-twitter-archive-for-2024/"><u>Strategies for Maximizing Your Twitter Archive for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-freemake-video-converter-on-macos/"><u>Ultimate Guide: Installing Freemake Video Converter on macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-up-dormant-headsets-overcoming-no-sound-hurdles/"><u>Wake Up Dormant Headsets: Overcoming No Sound Hurdles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Basics of Biometrics: Identification and Authentication Explained"
-date: 2024-09-05T11:41:09.026Z
-updated: 2024-09-06T11:41:09.026Z
+date: 2024-11-23T17:57:40.992Z
+updated: 2024-11-28T17:40:33.457Z
 categories:
   - BestProducts
 description: "This Article Describes The Basics of Biometrics: Identification and Authentication Explained"
@@ -21,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
  If you have kids, roommates, or a work device, it's usually best to keep a lock on your user account, but if it's just you at home, how you sign in likely doesn't matter. So, if convenience is a priority, you can go without a password and not be at risk.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I Disable the PIN in Windows 10?
 
  Like setting a PIN in Windows, removing one takes only a few clicks and seconds. Ensure you've signed in to the account you want to remove the PIN from before you begin.
@@ -33,63 +31,33 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 1. Open the**Start menu** and select**Settings** .  
 ![Windows Start menu with Settings highlighted](https://www.lifewire.com/thmb/Xh323qeKgfTT7cDK7p2Ui2ux_Ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Settings-b9a2a9d31e8548659b1219cae32012ae.jpg)
 2. Navigate to**Accounts** .  
+
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows 10 Settings with Accounts highlighted](https://www.lifewire.com/thmb/vpsWFRAd7gB_e4Zkj-FgqKx7KBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accounts-511820ef10754bcbaca751b5eb70fec4.jpg)
 3. Select**Sign-in options** on the left side.  
 ![Windows 10 with Sign-in options highlighted](https://www.lifewire.com/thmb/jDsnWitS8GNFUdRNA0osEGYtesI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sign-inoptions-2f83a29036b64d6593277d28ed806539.jpg)
 4. Select**Windows Hello PIN** , and then press**Remove** .  
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Hello Pin settings with Remove highlighted](https://www.lifewire.com/thmb/KHHk-iH0M4X5ZC54CXHzsFVBWSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Remove-3cfbe86970974b50b3d81675d133fb41.jpg)
 5. When asked to confirm to remove your PIN, select**Remove** once more, and then your PIN will be gone.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows 10 remove PIN confirmation with Remove highlighted](https://www.lifewire.com/thmb/peU3MzjEzUzSP4Xgj8-CByqsmso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Removetoconfirm-453f94caf8cc4385ad2cc8ccb73f0762.jpg)  
  If you signed in to Windows with your Microsoft account, you'll need to enter your Microsoft account password to remove your PIN after confirming.
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 10 PIN Tips and Tricks
 
  If you change your mind and want a PIN again, making one is just as easy. From the same place where you chose**Remove** ,**you can now** select**Add** . Set and confirm your PIN to be prompted for it the next time you sign in. In the future, select**Change** instead to make a new PIN.
@@ -125,8 +93,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +100,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-benq-bl2711u-27-professional-4k-monitor-review/"><u>[New] 2024 Approved BENQ BL2711U 27” Professional 4K Monitor Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>[New] In 2024, Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-free-online-video-editors-for-youtube/"><u>[Updated] 2024 Approved 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-full-spectrum-screen-recording-az-analyses-and-backups/"><u>[Updated] 2024 Approved Full Spectrum Screen Recording - AZ Analyses & Backups</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-guidelines-for-renaming-yourself-in-online-meetings/"><u>[Updated] 2024 Approved Guidelines for Renaming Yourself in Online Meetings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-samsungs-newest-marvel-galaxy-z-fold-t-6-tech-specs-cost-breakdown-and-release-milestone/"><u>All About Samsung's Newest Marvel: Galaxy Z Fold T 6 Tech Specs, Cost Breakdown, and Release Milestone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/correcting-error-0x7b-database-what-happens-when-you-cant-find-helperdll/"><u>Correcting Error 0X7b Database: What Happens When You Can’t Find Helper.dll</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-monitor-mobile-data-consumption/"><u>Easy Steps to Monitor Mobile Data Consumption</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-msxml4dll-missing-file-problem/"><u>How to Correctly Address the Msxml4.dll Missing File Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10c-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10C Phone with Broken Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-zoom-update-processes-tailored-for-desktop-environments/"><u>Seamless Zoom Update Processes Tailored for Desktop Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-to-recover-deleted-numbers-from-your-android-phonebook/"><u>Step-by-Step Strategies to Recover Deleted Numbers From Your Android Phonebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-videos-at-your-fingertips/"><u>Uninterrupted Videos at Your Fingertips</u></a></li>
+</ul></div>
 

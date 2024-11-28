@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-11-16T20:49:24.622Z
-updated: 2024-11-19T18:06:06.069Z
+date: 2024-11-24T16:47:47.305Z
+updated: 2024-11-28T16:27:52.075Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,19 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -80,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -99,19 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -126,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -137,10 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -172,16 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -236,20 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-hack-the-art-world-essential-free-3d-psd-files/"><u>[New] Hack the Art World Essential Free 3D PSD Files</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-from-novice-to-notoriety-steps-for-a-youtube-channel-in-gaming-for-2024/"><u>[Updated] From Novice to Notoriety Steps for a YouTube Channel in Gaming for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-snappy-sharing-uploading-and-publishing-short-videos-online/"><u>[Updated] In 2024, Snappy Sharing Uploading and Publishing Short Videos Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-hottest-templates-in-igs-vfx-community/"><u>[Updated] Navigating the Hottest Templates in IG's VFX Community</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-call-customization-applications-ranked/"><u>2024 Approved Essential Call Customization Applications Ranked</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-how-does-dts-play-fi-work/"><u>A Comprehensive Guide to How Does DTS Play-Fi Work?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-tutorial-adding-unique-fonts-to-your-iphones-library/"><u>Complete Tutorial: Adding Unique Fonts to Your iPhone's Library</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-modify-the-geographic-zone-on-your-iphone-device-an-in-depth-guide/"><u>How to Modify the Geographic Zone on Your iPhone Device - An In-Depth Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/official-steps-for-combining-mobile-tech-with-oculus-quest-2-interface/"><u>Official Steps for Combining Mobile Tech with Oculus Quest 2 Interface</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/organization-local-scope/"><u>Organization-Local Scope</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premium-gadgets-for-less-discover-superior-tech-on-a-budget/"><u>Premium Gadgets for Less: Discover Superior Tech on a Budget</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-solutions-addressing-your-televisions-typical-glitches/"><u>Simple Solutions: Addressing Your Television's Typical Glitches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-90-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 90</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-and-editing-damaged-epub-books/"><u>Ultimate Guide: Repairing and Editing Damaged EPUB Books</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-softening-edges-strategic-lighting-for-content-creators/"><u>[New] In 2024, Softening Edges Strategic Lighting for Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[Updated] Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters/"><u>2024 Approved Chrome OS Vocal Personalization Guide Review of the Best Speech Converters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 7 Plus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/homegrown-hits-how-to-successfully-plan-and-throw-an-unforgettable-karaoke-evening-in/"><u>Homegrown Hits! How To Successfully Plan and Throw an Unforgettable Karaoke Evening In</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-strategies-for-chronicling-lol-showdowns/"><u>In 2024, Top Strategies for Chronicling LOL Showdowns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-ps4-gameplay-capture-a-beginners-guide/"><u>Master the Art of PS4 Gameplay Capture - A Beginner's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-system-with-these-15-free-pre-installed-antivirus-apps/"><u>Protect Your System with These 15 Free, Pre-Installed Antivirus Apps</u></a></li>
+<li><a href="https://discover-help.techidaily.com/simple-guide-upload-vcd-files-as-dvd-with-no-cost-using-windows-operating-system/"><u>Simple Guide: Upload VCD Files as DVD with No Cost Using Windows Operating System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-marvel-probing-into-the-price-availability-and-specs-of-the-samsung-galaxy-z-fold-7-through-current-industry-rumors/"><u>The Next-Gen Marvel: Probing Into the Price, Availability & Specs of the Samsung Galaxy Z Fold 7 Through Current Industry Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-12-fantastic-free-keyboard-proficiency-lessons-for-people-of-all-ages/"><u>Ultimate List of 12 Fantastic FREE Keyboard Proficiency Lessons for People of All Ages</u></a></li>
 </ul></div>
 

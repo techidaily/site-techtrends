@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
-date: 2024-11-12T18:49:34.846Z
-updated: 2024-11-19T23:40:13.157Z
+date: 2024-11-26T16:52:15.923Z
+updated: 2024-11-28T16:31:18.848Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
@@ -15,6 +15,11 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 >
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -22,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -43,39 +41,34 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
@@ -123,24 +116,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-analyzing-t-series-revenue-generation-on-youtube-channels/"><u>[New] In 2024, Analyzing T-Series' Revenue Generation on Youtube Channels</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-flv-conversion-for-content-creators-top-10-youtubes-alternatives-unveiled/"><u>[New] In 2024, Flv Conversion for Content Creators Top 10 YouTubes Alternatives Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughlounge-app-join-the-meme-revolution/"><u>2024 Approved LaughLounge App - Join the Meme Revolution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-11-pro-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028755217-avimp4/"><u>大容量AVIファイルをMP4に完璧に変換する手引きと優秀無料アプリ選び術</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-netflixs-legacy-beginnings-with-its-dvd-rental-venture-explained/"><u>Discovering Netflix’s Legacy Beginnings with Its DVD Rental Venture Explained</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/te-your-traffic-ethically-youtubes-best-practices-for-2024/"><u>Elevate Your Traffic Ethically YouTube's Best Practices for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enabling-nvidias-nvenc-codec-a-comprehensive-guide-for-handbrake-users/"><u>Enabling NVIDIA's NVENC Codec: A Comprehensive Guide for Handbrake Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-keyboard-inputs-to-sweet-emotions-creating-hearts-in-digital-messages/"><u>From Keyboard Inputs to Sweet Emotions: Creating Hearts in Digital Messages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-activating-and-using-apple-pay-on-your-smartwatch-apple/"><u>Guide to Activating and Using Apple Pay on Your Smartwatch (Apple)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-x9b-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor X9b Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-lava-storm-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Lava Storm 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-online-audio-archives-an-intuitive-guide/"><u>In 2024, Navigating Online Audio Archives An Intuitive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/our-selection-10-highly-rated-free-email-options-for-you/"><u>Our Selection: 10 Highly-Rated Free Email Options for You</u></a></li>
-<li><a href="https://techtrends.techidaily.com/remote-command-center-operating-google-home-via-windows-or-mac/"><u>Remote Command Center: Operating Google Home via Windows or Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-correct-the-msvcr71dll-missing-error-on-your-computer/"><u>Step-by-Step Solutions to Correct the MSVCR71.dll Missing Error on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-refreshing-and-revising-powerpoint-slides/"><u>The Ultimate Tutorial on Refreshing and Revising PowerPoint Slides</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-how-to-pin-messages-within-your-instagram-chats-for-easy-access/"><u>The Ultimate Tutorial: How to Pin Messages Within Your Instagram Chats for Easy Access</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-11-most-motivating-films-guaranteed-to-boost-your-spirit/"><u>Top 11 Most Motivating Films Guaranteed to Boost Your Spirit</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-elevating-pics-to-perfection-without-expenditure/"><u>[New] 2024 Approved Elevating Pics to Perfection Without Expenditure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-beat-breakers-crafting-compelling-video-music-scores/"><u>[Updated] Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-social-interactions-a-complete-gif-guide-for-snapchat-users-for-2024/"><u>[Updated] Elevating Social Interactions A Complete Gif Guide for Snapchat Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-microsofts-innovation-on-display-the-hololens-revolution/"><u>[Updated] Microsoft's Innovation on Display – The HoloLens Revolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/customize-your-desktop-experience-removing-the-live-updates-tiles-on-windows-11/"><u>Customize Your Desktop Experience: Removing the Live Updates Tiles on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-diy-fix-how-to-swap-out-your-ipads-power-source/"><u>Easy DIY Fix: How to Swap Out Your iPad's Power Source</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-your-android-experience-the-leading-smartwatch-apps-you-need-now/"><u>Enhancing Your Android Experience: The Leading Smartwatch Apps You Need Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extracted-image-selection-from-videos-to-windows-photos-for-2024/"><u>Extracted Image Selection From Videos to Windows Photos for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bridging-platform-gaps-youtube-shorts-to-mp4-transformation/"><u>In 2024, Bridging Platform Gaps YouTube Shorts to MP4 Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-humor-infused-cut-and-paste/"><u>In 2024, Highest Humor-Infused Cut & Paste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-unliking-music-choices-a-comprehensive-guide-for-spotify-fans/"><u>Master the Art of Unliking Music Choices - A Comprehensive Guide for Spotify Fans</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138590730-9781452504490-my-encounters-with-the-spirit-world/"><u>My Encounters with the Spirit World | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-options-tips-for-finding-the-ideal-smartphone-cover/"><u>Navigating Through Options: Tips for Finding the Ideal Smartphone Cover</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solved-what-to-do-when-macos-programs-refuse-to-launch/"><u>Solved! What to Do When macOS Programs Refuse to Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-missing-msxml4dll-error-message/"><u>Step-by-Step Fixes for Missing msxml4.dll Error Message</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-eight-exceptional-apps-for-savvy-travelers/"><u>The Ultimate List: Eight Exceptional Apps for Savvy Travelers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-x6-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco X6 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-led-flashes-on-your-ps4-controller-insights-into-blue-white-red-and-orange-indicators/"><u>Troubleshooting LED Flashes on Your PS4 Controller – Insights Into Blue, White, Red, & Orange Indicators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-kindle-oasis-2019-assessment-nearly-indistinguishable-from-real-paper/"><u>Ultimate Kindle Oasis (2019) Assessment - Nearly Indistinguishable From Real Paper!</u></a></li>
 </ul></div>
 

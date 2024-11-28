@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-11-16T16:39:54.434Z
-updated: 2024-11-19T16:21:48.587Z
+date: 2024-11-21T17:59:49.503Z
+updated: 2024-11-28T16:25:45.677Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -48,6 +52,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -65,10 +73,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -87,6 +92,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1599a1fd-b080-4e5b-ae5c-a67c38755459%7Cdtp&dtb=1). 
@@ -94,13 +103,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -112,13 +114,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -129,10 +124,7 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -179,20 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[New] 2024 Approved Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-transform-slide-show-into-video-format/"><u>[Updated] 2024 Approved Transform Slide Show Into Video Format</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-analyzing-livestream-giants-twitch-vs-youtube-breakdown/"><u>[Updated] Analyzing Livestream Giants Twitch Vs YouTube Breakdown</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-critically-acclaimed-phone-and-desktop-video-calls-list-for-2024/"><u>[Updated] Critically Acclaimed Phone and Desktop Video Calls List for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/code-28-bug-fixes-for-a-smooth-windows-experience/"><u>Code 28 Bug Fixes for a Smooth Windows Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456388331-discover-why-and-how-your-iphones-display-turns-dark-the-ultimate-list-of-10-reasons/"><u>Discover Why and How Your iPhone's Display Turns Dark - The Ultimate List of 10 Reasons</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-your-hidden-reel-collection-a-guide-to-finding-saved-instagram-stories/"><u>Discovering Your Hidden Reel Collection: A Guide to Finding Saved Instagram Stories</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nokia-c110-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nokia C110 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enjoy-every-star-wars-movie-in-chronological-order-with-disneyplus-a-step-by-step-guide/"><u>How to Enjoy Every 'Star Wars' Movie in Chronological Order with Disney+: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722871004989-keyboard-troubles-heres-how-to-make-it-start-typing-again/"><u>Keyboard Troubles? Here's How to Make It Start Typing Again!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-fitness-goals-with-these-top-rated-logging-apps-best-of-2024/"><u>Master Your Fitness Goals with These Top-Rated Logging Apps - Best of 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721470487808-solve-your-iphone-connection-woes-expert-tips-for-pairing-with-a-pc/"><u>Solve Your iPhone Connection Woes: Expert Tips for Pairing with a PC!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-process-clearing-song-preferences-for-an-entire-library-on-spotify/"><u>Step-by-Step Process: Clearing Song Preferences for an Entire Library on Spotify</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-blueprint-crafting-awkward-potions-like-a-pro/"><u>The Beginner's Blueprint: Crafting Awkward Potions Like a Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-making-secure-payments-effortlessly-using-your-apple-watchs-apple-pay-functionality/"><u>The Ultimate Guide to Making Secure Payments Effortlessly Using Your Apple Watch's Apple Pay Functionality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 8 | Stellar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-chrome-os-tts-tools-top-5-online-speech-converters-for-2024/"><u>Best Chrome OS TTS Tools Top 5 Online Speech Converters for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-u23-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on U23 Pro?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-removing-your-likes-across-all-tracks-in-spotify/"><u>Complete Guide: Removing Your Likes Across All Tracks in Spotify</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-introduction-to-rcs-revolutionizing-text-messages/"><u>Comprehensive Introduction to RCS: Revolutionizing Text Messages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-instructions-for-upgrading-the-software-of-your-logitech-m510-trackball-mouse/"><u>Easy Instructions for Upgrading the Software of Your Logitech M510 Trackball Mouse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/economical-elegance-exquisite-technology-picks-for-the-price-conscious/"><u>Economical Elegance: Exquisite Technology Picks for the Price-Conscious</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-to-address-the-missing-propsysdll-message-in-windows/"><u>Effective Fixes to Address the Missing PropSys.dll Message in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-your-next-charge-ev-station-discovery-via-google-maps-tutorial/"><u>Finding Your Next Charge - EV Station Discovery via Google Maps Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2023-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2023 files electronically</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-effective-is-western-digitals-data-lifeguard-a-thorough-diagnostic-tool-review/"><u>How Effective Is Western Digital's Data Lifeguard? A Thorough Diagnostic Tool Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-sony-xperia-1-v-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 1 V?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-c50-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco C50 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Insert signature in Excel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-like-a-pro-leveraging-live-view-features-on-google-maps/"><u>Navigate Like a Pro: Leveraging Live View Features on Google Maps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-ipad-wi-fi-connection-issues-a-step-by-step-guide/"><u>Solving Your iPad Wi-Fi Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-the-d3dx9-library-missing-error-dilemma/"><u>Troubleshooting Steps for the 'D3DX9 Library Missing' Error Dilemma</u></a></li>
 </ul></div>
 

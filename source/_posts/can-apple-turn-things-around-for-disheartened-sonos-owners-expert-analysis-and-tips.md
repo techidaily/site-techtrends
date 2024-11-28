@@ -1,7 +1,7 @@
 ---
 title: Can Apple Turn Things Around for Disheartened Sonos Owners? Expert Analysis and Tips
-date: 2024-11-12T17:20:16.310Z
-updated: 2024-11-19T18:24:39.398Z
+date: 2024-11-22T17:51:53.580Z
+updated: 2024-11-28T16:49:31.555Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -60,6 +64,10 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A lack of competitors
 
 While many users like myself are looking for a clear migration path to a competitor, no true alternatives to Sonos exist. Neither [Amazon Echo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3Fie%3DUTF8%26node%3D9818047011%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5Fijuevad4z%5Fe%26www.amazon.com%2Fdp%2FB07XKF5RM3%3Ftag%3Dgooghydr-20%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5F2g7cb1h5ze%5Fe%26gclid%3DCj0KCQjw-uK0BhC0ARIsANQtgGN0ThJnnXE7wtYeCxiGIl5czneMT%5FsjULx2rJ86YnnFx2KqPCbNjZ8aAjIfEALw%5FwcB%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85fe4ade-f54b-42af-9c1e-45806b68e13e%7Cdtp&dtb=1) nor [Google Nest Audio](https://store.google.com/us/product/nest%5Faudio?pli=1&hl=en-US) provides comparable multiroom audio or surround sound with their current smart speakers. Apple's [HomePod](https://www.apple.com/homepod/) is an excellent solution for a bedroom or a small living room with a two-speaker setup paired with an [Apple TV](https://www.zdnet.com/home-and-office/home-entertainment/tvos-18-will-enhance-the-dialogue-on-your-apple-tv-to-help-you-better-hear-it/), but the technology doesn't offer multiroom or surround sound.
@@ -71,16 +79,7 @@ For Apple (or Amazon or Google) to truly compete with Sonos, the companies will 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Apple should do it
@@ -98,10 +97,7 @@ Apple has the resources to make this move, and now is the right time for HomePod
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Personalized music experiences
@@ -109,10 +105,7 @@ A set-top box, whether an updated Apple TV or a centralized processor unit for A
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Interactive music discovery
@@ -122,13 +115,6 @@ With interactive music discovery, you could converse with Siri to explore new mu
 ### Social and collaborative features
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Smart home integration
 
@@ -174,21 +160,16 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>[New] In 2024, Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-keeping-a-detailed-record-of-every-online-chat-on-fb/"><u>[Updated] 2024 Approved Keeping a Detailed Record of Every Online Chat on FB</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-glimpse-into-whats-coming-advancements-in-verizon-5g-connectivity/"><u>A Glimpse Into What's Coming: Advancements in Verizon 5G Connectivity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-poco-c51-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Poco C51</u></a></li>
-<li><a href="https://techtrends.techidaily.com/broadcasting-apple-tvplus-originals-to-a-bigger-screen-with-chromecast-a-step-by-step-guide/"><u>Broadcasting Apple TV+ Originals to a Bigger Screen with Chromecast: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/browse-unseen-a-guide-to-invisible-surfing-in-google-chrome-microsoft-edge-mozilla-firefox-apple-safari-and-opera/"><u>Browse Unseen: A Guide to Invisible Surfing in Google Chrome, Microsoft Edge, Mozilla Firefox, Apple Safari, and Opera</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminate-nuisance-sms-tips-for-stopping-unwanted-texts-on-iphones/"><u>Eliminate Nuisance SMS: Tips for Stopping Unwanted Texts on iPhones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-missing-or-not-detected-msvcr71dll-files/"><u>How to Address and Fix Missing or Not Detected MSVCR71.DLL Files</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo Reno 11 Pro 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy S23 Ultra without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>In 2024, Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resetting-passwords-remotely-a-windows-user-guide/"><u>Resetting Passwords Remotely - A Windows User Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-display-setup-transferring-your-screen-from-laptop-to-tv-over-hdmi-with-illustrative-pictures/"><u>Seamless Display Setup: Transferring Your Screen From Laptop to TV over HDMI [With Illustrative Pictures]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/shutting-off-your-new-iphone-15-pro-or-pro-max-in-simple-steps/"><u>Shutting Off Your New iPhone 15 Pro or Pro Max in Simple Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steams-inability-to-update-or-retrieve-game-data-from-the-cloud/"><u>Troubleshooting Steam's Inability to Update or Retrieve Game Data From the Cloud</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-covert-community-top-5-anonymous-viewers-for-2024/"><u>[New] The Covert Community Top 5 Anonymous Viewers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-free-acting-availability-pledge/"><u>[Updated] 2024 Approved Free Acting Availability Pledge</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-macs-efficiency-discover-internal-features-for-superior-window-management/"><u>Enhance Your Mac's Efficiency: Discover Internal Features for Superior Window Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-what-to-do-within-the-first-hours-of-unboxing-your-new-windows-machine/"><u>Essential Tips: What to Do Within the First Hours of Unboxing Your New Windows Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experiencing-uncontrolled-mouse-movement-discover-effective-solutions/"><u>Experiencing Uncontrolled Mouse Movement? Discover Effective Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-appeal-of-neighborhood-centric-data-protection-strategies/"><u>Exploring the Appeal of Neighborhood-Centric Data Protection Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-whats-fresh-and-updated-in-fedora-40-a-closer-look-at-the-new-features-of-this-beloved-linux-os/"><u>Exploring What's Fresh and Updated in Fedora 40 - A Closer Look at the New Features of This Beloved Linux OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-your-netgear-device-newly-revealed-default-login-info-for-july-2024/"><u>Mastering Your NETGEAR Device: Newly Revealed Default Login Info for July 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-buffs-secret-2023-recommendations/"><u>Movie Buffs' Secret 2023 Recommendations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211314925-9781507202548-the-power-of-positive-energy/"><u>The Power of Positive Energy | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/toms-tech-review-comprehensive-guide-to-hardware-excellence/"><u>Tom's Tech Review: Comprehensive Guide to Hardware Excellence</u></a></li>
 </ul></div>
 

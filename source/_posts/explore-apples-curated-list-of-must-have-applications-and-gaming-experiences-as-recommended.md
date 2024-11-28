@@ -1,7 +1,7 @@
 ---
 title: Explore Apple’s Curated List of Must-Have Applications and Gaming Experiences , as Recommended
-date: 2024-11-14T19:33:11.625Z
-updated: 2024-11-19T16:21:55.408Z
+date: 2024-11-24T16:26:48.453Z
+updated: 2024-11-28T16:08:23.908Z
 tags:
   - apple
 categories:
@@ -46,14 +46,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## **iPhone App of the Year**:
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **iPhone App of the Year**:
 
 ### [AllTrails](https://apps.apple.com/us/app/alltrails-hike-bike-run/id405075943) from AllTrails, Inc.
 
@@ -75,16 +72,7 @@ Then, once you select a route, it helps you stay on course with your planned cou
 ## **iPad App of the Year**:
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Prêt-à-Makeup](https://apps.apple.com/us/app/pr%C3%AAt-%C3%A0-makeup/id1434594204) from Prêt-à-Template
@@ -119,7 +107,15 @@ The app also features [generative AI](https://www.zdnet.com/article/what-is-gene
 
 The app is free to download but requires a subscription of $4.99 per month or $29.99 yearly to use. If you are interested in trying the app out before subscribing, as a new user, you get three edits for free that you can use to test it out. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Apple TV App of the Year:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [MUBI](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmubi-stream-great-cinema%2Fid626148774&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899523596%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Jr%2FmQO5EZnS7Mz0NnjMOG36CJubqrWZdSMtDgZTMCEs%3D&reserved=0) from MUBI, Inc.
 
@@ -140,20 +136,10 @@ Another standout feature from MUBI is that, unlike other popular streaming platf
 
 The film selection is vast, ranging from rare indie films to classics. Although the app is free to download, a subscription fee starting at $12.99 a month is required to start streaming. If interested in trying the app, there is a seven-day free trial. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Apple Watch App of the Year:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [SmartGym](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fsmartgym-gym-home-workouts%2Fid922744883&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899529611%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bLrFbo2GWv4HJT%2BWTuY%2BCAggvbj8Xdp6k4RGRgG%2FkK4%3D&reserved=0) from Mateus Abras
@@ -171,13 +157,6 @@ The app is free to download, but the free version only gets you access to two ro
 
 ## **iPhone Game of the Year:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Honkai: Star Rail](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhonkai-star-rail%2Fid1599719154&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899536411%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b23p3w1sKl9J7JMGfbD3gOHrKMcnd%2Btvn5Lnzala6Sg%3D&reserved=0) from COGNOSPHERE PTE. LTD.
 
 Sabrina Ortiz/ZDNET
@@ -191,14 +170,11 @@ One of the biggest standouts of this app is the immersive role-playing experienc
 
 Even if -- like me -- you are not big into gaming, the app is so intuitive to use that upon picking it up, I found myself quickly understanding what to do and was even able to win a battle with an opponent. The graphics on the game are so impressive that once immersed, you may not want to put it down. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **iPad Game of the Year:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Lost in Play](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flost-in-play%2Fid6449434958&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899541995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0oPPE2cRfhafEBvSf1cU1xkz2q%2FOh05%2Bx7GMX1pKbAU%3D&reserved=0), from Snapbreak Games
 
@@ -211,7 +187,15 @@ Lost in Play is a free game following the storyline of a brother and sister on a
 
 While playing, users will help them get home by solving unique puzzles and mini-games. The hand-crafted cartoon style of the gameplay, similar to animated shows from childhood, makes it a game for people of all ages, invoking nostalgia for adults and entertainment for children. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Mac Game of the Year:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Lies of P](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flies-of-p%2Fid6459738231%3Fmt%3D12&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899548181%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vK%2FJQ7BraKmUU550%2Bcggsy8CfE%2BvSbodTk3LppI7prU%3D&reserved=0), from NEOWIZ
 
@@ -227,10 +211,7 @@ Apple originally spotlighted Lies of P for the game's smooth gameplay and the st
 ## **Apple Arcade Game of the Year:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Hello Kitty Island Adventure](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fhello-kitty-island-adventure%2Fid1553505132&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899553812%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xI09Qn9yJ7RiAmQwgV3zEDVHB%2FisuPX5Y80VnpW4kYI%3D&reserved=0), from Sunblink
@@ -247,13 +228,6 @@ Throughout the gameplay, players will be able to explore a gorgeous world with a
 The game is free to download if you have an Apple Arcade subscription, which costs $6.99 monthly and grants unlimited access to over 200 games. 
 
 ## **Cultural Impact Winners**
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [**Pok Pok**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fpok-pok-montessori-preschool%2Fid1550204730&data=05%7C01%7Csabrina.ortiz%40zdnet.com%7C7491f6916cb04b225a8608dbf05747a0%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C638368029899559082%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=x8lQuriLApASDzIajnVAxoDSzHljqkM5RoLJ9FkErx8%3D&reserved=0) **from Pok Pok**
 
@@ -361,18 +335,22 @@ To highlight the trend of the year, App Store Editors highlighted a collection o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlocking-srt-files-accessing-on-windowsmac/"><u>[New] In 2024, Unlocking SRT Files Accessing on Windows/Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-convert-fast-videos-on-iphone-into-slow-motion-magic/"><u>[Updated] How to Convert Fast Videos on iPhone Into Slow Motion Magic</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accidentally-sent-an-important-email-heres-how-to-bring-it-back-in-outlook/"><u>Accidentally Sent an Important Email? Here's How to Bring It Back in Outlook!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/burgerlijke-verkoppelingen-in-actie-de-vier-keuzestoeveslopende-strategieen-van-vaste-onder-bureaublad/"><u>Burgerlijke Verkoppelingen in Actie: De VIER Keuzestoeveslopende Strategieën Van Vaste Onder Bureaublad</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/crafting-the-perfect-mc-homestead-layout-for-2024/"><u>Crafting the Perfect MC Homestead Layout for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/easy-conversion-tips-changing-mp4-videos-to-mkv-for-windows-and-mac-users-including-online-options/"><u>Easy Conversion Tips: Changing MP4 Videos to MKV for Windows and Mac Users, Including Online Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-guide-connecting-your-zoom-call-with-smart-tv/"><u>Easy Guide: Connecting Your Zoom Call with Smart TV</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-use-obs-with-zoom/"><u>In 2024, How to Use OBS with Zoom</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-football-manager-2022-release-issues-find-out-why/"><u>Resolved: Football Manager 2022 Release Issues - Find Out Why</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streaming-made-easy-syncing-apple-tv-plus-with-your-chromecast/"><u>Streaming Made Easy: Syncing Apple TV Plus with Your Chromecast</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-six-best-apps-for-monitoring-your-diet/"><u>The Ultimate List: Six Best Apps for Monitoring Your Diet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722897636212-unveiling-the-story-behind-google-hangouts-functionality-and-usage/"><u>Unveiling the Story Behind Google Hangouts: Functionality and Usage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-news-endings-as-a-narrative-tool/"><u>[New] 2024 Approved News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-counteract-bot-visitors-for-real-audience-growth/"><u>[Updated] Counteract Bot Visitors for Real Audience Growth</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-making-every-frame-count-in-instagram-videos/"><u>[Updated] Making Every Frame Count in Instagram Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximize-your-fb-videos-full-screen-mode-guide-2023-for-2024/"><u>[Updated] Maximize Your FB Videos Full-Screen Mode Guide 2023 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-through-youtubes-adsense-revenue-understanding-payments-per-thousand-views/"><u>[Updated] Navigating Through Youtube’s AdSense Revenue Understanding Payments per Thousand Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-round-table-of-angles-samsung-vs-lg-camera-debate/"><u>2024 Approved Round Table of Angles Samsung vs LG Camera Debate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/activating-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Activating Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-apples-latest-creation-the-exciting-launch-of-a-brand-new-iphone/"><u>Discover Apple's Latest Creation: The Exciting Launch of a Brand New iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-duckduckgo-understanding-its-features-and-safety/"><u>Exploring DuckDuckGo: Understanding Its Features and Safety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multilingual-conversations-with-ai-tips-for-using-chatgpt-as-your-go-to-translator/"><u>Mastering Multilingual Conversations with AI: Tips for Using ChatGPT as Your Go-To Translator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-your-video-stream-zoom-meets-fb-live/"><u>Perfecting Your Video Stream Zoom Meets FB Live</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-d3dx926dll-file-cannot-be-found-problem/"><u>Step-by-Step Guide: Correcting the 'd3dx9_26.dll' File Cannot Be Found Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-getting-your-firestick-remote-back-on-track/"><u>Step-by-Step Solutions: Getting Your Firestick Remote Back on Track</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strengthen-your-gmail-account-with-easy-two-step-verification-steps/"><u>Strengthen Your Gmail Account with Easy Two-Step Verification Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-star-wars-marathon-watch-the-saga-back-to-back-on-disneyplus/"><u>The Ultimate Guide to Star Wars Marathon - Watch the Saga Back-to-Back on Disney+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ieframedll-error-notifications-with-precision/"><u>Understanding and Repairing Ieframe.dll Error Notifications with Precision</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-latest-software-improved-performance-for-logitech-g93astery-g933/"><u>Update to the Latest Software: Improved Performance for Logitech G93astery G933</u></a></li>
 </ul></div>
 

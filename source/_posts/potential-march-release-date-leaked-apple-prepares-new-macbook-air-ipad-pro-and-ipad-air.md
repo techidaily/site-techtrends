@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-11-14T20:34:44.146Z
-updated: 2024-11-19T16:14:54.560Z
+date: 2024-11-23T16:10:21.033Z
+updated: 2024-11-28T16:58:54.861Z
 tags:
   - apple
 categories:
@@ -26,18 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -59,13 +56,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -81,6 +71,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -105,21 +99,16 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -134,10 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -174,20 +160,21 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-record-ppt-for-screenplay-use/"><u>[New] 2024 Approved Record PPT for Screenplay Use</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pioneering-sustainability-transforming-metropolitan-environments-for-2024/"><u>[Updated] Pioneering Sustainability Transforming Metropolitan Environments for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-imovie-video-submissions-to-vimeo/"><u>2024 Approved Navigating iMovie Video Submissions to Vimeo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advanced-apple-tv-4k-version-3-assessment-for-tech-enthusiasts/"><u>Advanced Apple TV 4K Version 3 Assessment for Tech Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafted-for-quality-converting-ipv-files-from-instagram-to-mp4-for-2024/"><u>Crafted for Quality Converting IPV Files From Instagram to MP4 for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/editing-iphone-videos-using-a-windows-computer-a-step-by-step-guide/"><u>Editing iPhone Videos Using a Windows Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-team-collaboration-through-slack-strategies-to-boost-efficiency/"><u>Effective Team Collaboration Through Slack: Strategies to Boost Efficiency</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-correcting-missing-or-not-detected-nspr4dll-errors/"><u>Expert Advice: Correcting Missing or Not Detected Nspr^4.dll Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-storytelling-youtube-channels-to-follow-this-year/"><u>In 2024, Best Storytelling YouTube Channels to Follow This Year</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-your-account-the-process-of-modifying-your-facebook-password/"><u>Protecting Your Account: The Process of Modifying Your Facebook Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-binkw32dll-file-not-found-mistake-a-step-by-step-guide/"><u>Resolving the binkw32.dll File Not Found Mistake: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/room-10-revealed-tips-for-texting-triumph/"><u>Room 10 Revealed: Tips for Texting Triumph</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-story-of-facebook-from-startup-to-giant-discover-the-appeal-and-main-functions/"><u>The Story of Facebook: From Startup to Giant - Discover the Appeal & Main Functions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/x-audio-capture-pc-version-for-2024/"><u>X-Audio Capture PC Version for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session-for-2024/"><u>[New] Testing Titans In-Depth Comparison of GoPro's Hero5B & Session for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>[Updated] 2024 Approved The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>2024 Approved Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-steps-to-resolve-issues-with-a-malfunctioning-tiktok-app/"><u>5 Steps to Resolve Issues with a Malfunctioning TikTok App</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-a51-5g-analysis-unbeatable-value-in-the-5g-realm/"><u>Comprehensive Samsung Galaxy A51 5G Analysis: Unbeatable Value in the 5G Realm</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-driver-for-your-xbox-360-gamepad/"><u>Download and Install the Latest Driver for Your Xbox 360 Gamepad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-turning-on-cookie-settings-for-optimal-web-experience/"><u>Easy Tutorial: Turning on Cookie Settings for Optimal Web Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/steer-clear-of-vr-nausea-essential-precautions-for-2024/"><u>Steer Clear of VR Nausea Essential Precautions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-chapter-of-apple-os-macos-15-release-timeline-breakthrough-features-and-announcements-unpacked/"><u>The Next Chapter of Apple OS – macOS 15 Release Timeline, Breakthrough Features & Announcements Unpacked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-leading-internet-sites-the-worlds-favorites-unveiled/"><u>Top 10 Leading Internet Sites: The World's Favorites Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-essential-pinterest-automation-apps-you-cant-miss/"><u>Top 5 Essential Pinterest Automation Apps You Can't Miss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-rated-windows-11-film-editor-ultimate-guide-for-cutting-movie-scenes/"><u>Top-Rated Windows 11 Film Editor: Ultimate Guide for Cutting Movie Scenes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-problems-in-operation-husar-fixing-tarkovs-error-code-103003/"><u>Troubleshooting Common Problems in Operation Husar: Fixing Tarkov's Error Code 103003</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-cygwin1dll-files-on-your-computer/"><u>Troubleshooting Missing cygwin1.dll Files on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-strategies-for-a-fantastic-super-bowl-screen-experience-setup-and-home-theater-tips/"><u>Winning Strategies for a Fantastic Super Bowl Screen Experience – Setup and Home Theater Tips</u></a></li>
 </ul></div>
 

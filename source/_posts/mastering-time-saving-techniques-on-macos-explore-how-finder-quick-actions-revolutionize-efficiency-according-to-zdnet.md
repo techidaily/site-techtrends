@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-11-12T17:54:32.674Z
-updated: 2024-11-19T22:02:12.418Z
+date: 2024-11-25T17:52:07.842Z
+updated: 2024-11-28T16:45:45.585Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -33,10 +37,7 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -52,10 +53,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -68,16 +66,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -95,6 +90,10 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -104,6 +103,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -120,13 +123,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -250,13 +246,6 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -286,24 +275,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-channel-titling-101-the-quest-for-an-original-label/"><u>[New] 2024 Approved Channel Titling 101 The Quest for an Original Label</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-breathe-life-into-images-step-by-step-text-editing-guide/"><u>[New] Breathe Life Into Images Step-by-Step Text Editing Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-rapid-route-learning-the-ins-and-outs-of-insta-talks/"><u>[New] Rapid Route Learning the Ins and Outs of Insta Talks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2023-quick-share-tweeted-videos-for-whatsapp/"><u>[Updated] 2023 Quick Share Tweeted Videos for WhatsApp</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>[Updated] In 2024, The Complete Blueprint Record WhatsApp Conversations Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chatgpt-unveiled-how-this-ai-is-transforming-natural-language-processing/"><u>ChatGPT Unveiled: How This AI Is Transforming Natural Language Processing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msstdfmtdll-is-missing-or-not-found-errors/"><u>How to Fix Msstdfmt.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-blue-yeti-mic-not-detected-issues-quickly-and-easily/"><u>How to Resolve 'Blue Yeti Mic Not Detected' Issues Quickly and Easily</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-finding-disappeared-emails-on-gmail-a-comprehensive-tutorial/"><u>Master the Art of Finding Disappeared Emails on Gmail - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/perfect-tape-mac-based-recording-for-2024/"><u>Perfect Tape Mac-Based Recording for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/roku-roaming-guide-keeping-your-entertainment-alive-while-traveling-or-studying-abroad/"><u>Roku Roaming Guide: Keeping Your Entertainment Alive While Traveling or Studying Abroad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sequencing-the-ultimate-sci-fi-saga-the-right-way-to-experience-the-matrix-trilogy/"><u>Sequencing the Ultimate Sci-Fi Saga: The Right Way to Experience The Matrix Trilogy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-connection-issues-a-guide-to-troubleshooting-your-stadia-gaming-headset/"><u>Solving Connection Issues: A Guide to Troubleshooting Your Stadia Gaming Headset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx930dll-file-not-found-step-by-step-guide/"><u>Solving the d3dx9_30.dll File Not Found: Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-abilities-with-16-complimentary-sign-language-resources/"><u>Transform Your Abilities with 16 Complimentary Sign Language Resources</u></a></li>
-<li><a href="https://techtrends.techidaily.com/turn-on-or-off-your-pcs-network-discovery-feature-with-windows-groopwin11/"><u>Turn On or Off Your PC's Network Discovery Feature with Windows groop.win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool-for-2024/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-streamlining-team-discussions-combining-slack-and-filmora-for-professionals/"><u>[Updated] In 2024, Streamlining Team Discussions Combining Slack and Filmora for Professionals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-newbies-nook-making-eye-catching-mac-videos-for-youtube/"><u>[Updated] Newbies' Nook Making Eye-Catching Mac Videos for YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-7-no-cost-video-compression-tools-for-mp4-avi-mkv-and-mov-files/"><u>Best 7 No-Cost Video Compression Tools for MP4, AVI, MKV & MOV Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-computer-chronology-windows-edition/"><u>Deciphering Computer Chronology - Windows Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-dvd-to-itunes-video-transfer-with-macx-ripper-compatible-with-iphone-ipod-ipad-and-apple-tv/"><u>Effortless DVD to iTunes Video Transfer with MacX Ripper - Compatible with iPhone, iPod, iPad & Apple TV</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-free-tools-perfecting-your-video-calls-for-2024/"><u>Essential Free Tools Perfecting Your Video Calls for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-access-top-hilarious-cat-video-collection-on-youtube-start-watching-now/"><u>Free Access: Top Hilarious Cat Video Collection on YouTube - Start Watching Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-macx-video-converter-effortless-format-and-device-compatibility-for-your-video-files/"><u>Free MacX Video Converter: Effortless Format & Device Compatibility for Your Video Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macx-video-converter-pro-acquistare-la-versione-aggiornata-per-un-editing-ottimale/"><u>MacX Video Converter Pro: Acquistare La Versione Aggiornata per Un Editing Ottimale</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/now-subtract-3-from-both-sides-to-isolate-the-term-with-x-3x-plus-3-3-6-3-which-becomes-3x-9/"><u>Now, Subtract 3 From Both Sides to Isolate the Term with X: $3X + 3 - 3 = -6 - 3$, Which Becomes $3X = -9$.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/open-the-downloaded-dmg-file-and-drag-macxdvd-icon-to-applications-folder-n-indicates-a-new-line-for-readability/"><u>Open the Downloaded .dmg File and Drag MacXDVD Icon to Applications Folder. ( N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-streamers-for-real-time-television-content-for-2024/"><u>Top 10 Streamers for Real-Time Television Content for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-5-email-marketing-tools-for-effective-mailing-list-management-by-massmail/"><u>Top 5 Email Marketing Tools for Effective Mailing List Management by MassMail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooter-overcoming-obstacles-when-cloning-sony-dvds-with-sector-flaws-or-drm-protection/"><u>Troubleshooter: Overcoming Obstacles When Cloning Sony DVDs with Sector Flaws or DRM Protection</u></a></li>
 </ul></div>
 

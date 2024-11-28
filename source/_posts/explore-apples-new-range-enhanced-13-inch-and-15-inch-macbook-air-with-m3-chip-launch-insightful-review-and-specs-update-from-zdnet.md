@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's New Range: Enhanced 13-Inch and 15-Inch MacBook Air with M3 Chip Launch | Insightful Review & Specs Update From ZDNET"
-date: 2024-11-16T20:07:11.305Z
-updated: 2024-11-19T19:37:15.637Z
+date: 2024-11-23T16:55:21.734Z
+updated: 2024-11-28T16:42:59.335Z
 tags:
   - apple
 categories:
@@ -47,6 +47,10 @@ It's a challenge that Apple seems to have relished, as the new [16-inch MacBook 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design & features
 
 At first glance, the new MacBook Pro doesn't look dramatically different from its Intel-based predecessor, which was last updated in [late 2019](https://www.zdnet.com/product/apple-macbook-pro-16-inch-2019/). However, closer examination reveals some significant differences, starting with Apple's decision to abandon the unloved Touch Bar. This has been replaced by a more traditional row of physical function keys (now there's innovation for you), including a much larger Escape key, which is a welcome detail. The entire keyboard has also been updated, with "mechanical keys that pro users love" and which do, thankfully, travel well and feel firm when typing. 
@@ -84,10 +88,7 @@ Connectors on the 2021 16-inch MacBook Pro: MagSafe 3, 2x USB-C/Thunderbolt 4, 3
 Image: Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Price & options
@@ -99,10 +100,7 @@ The next step up simply doubles the storage to 1TB for an additional $200/£200,
 Additional upgrade options allow you to increase the memory to 64GB for a hefty $400/£400, and add up to 8TB of SSD storage (+$2,200/£2,200), for a top price of $6,099 (£5,899 inc. VAT). To be fair, that's not out of line with similar high-end mobile workstations, such as Dell's [Precision 5750](https://www.zdnet.com/article/best-laptop-for-graphic-design/), but it does mean that a maxed-out MacBook Pro really needs to earn its keep. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -126,10 +124,7 @@ There's battery life to consider too, of course, and this is increasingly starti
 [Apple 16-inch MacBook Pro $3,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch-space-gray-10-core-cpu-32-core-gpu-1tb%23&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -177,18 +172,16 @@ The new 16-inch MacBook Pro is expensive, but the top-end M1 Max chip proves tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-illuminations-mastering-three-highlight-techniques/"><u>[New] 2024 Approved Instagram Illuminations Mastering Three Highlight Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[New] In 2024, Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-pinnacle-pathfinders-the-ultimate-10-game-guide-for-2024/"><u>[New] Pinnacle Pathfinders The Ultimate 10 Game Guide for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-journey-through-updates-unveiling-lg-bp550-new/"><u>[Updated] In 2024, Journey Through Updates Unveiling LG BP550 New</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-tips-to-diminish-ambient-sound-in-videos/"><u>[Updated] In 2024, Professional Tips to Diminish Ambient Sound in Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-keep-your-digital-life-streamlined-blocking-youtube-channels-smartly/"><u>2024 Approved Keep Your Digital Life Streamlined Blocking Youtube Channels Smartly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-repair-vcompdll-missing-issues-a-users-manual/"><u>Comprehensive Guide to Repair vcomp.dll Missing Issues: A User's Manual</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722854746251-effective-solutions-when-outlooks-autocorrect-and-spell-check-are-not-working-properly/"><u>Effective Solutions When Outlook's AutoCorrect and Spell Check Are Not Working Properly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-top-tier-vr-performance-on-a-shoestring-budget-in-depth-review-of-an-economical-ultraportable-vr-solution-zdnet/"><u>Get Top-Tier VR Performance on a Shoestring Budget: In-Depth Review of an Economical Ultraportable VR Solution | ZDNET</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-seamless-media-transition-from-youtube-to-mp3-format/"><u>In 2024, Seamless Media Transition From YouTube to MP3 Format</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube-for-2024/"><u>Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-your-time-on-facebook-with-these-5-strategies-for-improved-productivity/"><u>Maximize Your Time on Facebook with These 5 Strategies for Improved Productivity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-next-gen-pixel-buds-pro-2-teasers-on-pricing-release-schedule-and-features/"><u>The Next-Gen Pixel Buds Pro 2: Teasers on Pricing, Release Schedule, and Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-logitechs-high-end-webcam-an-all-inclusive-review/"><u>[Updated] In 2024, Logitech’s High-End Webcam An All-Inclusive Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-tp-link-re2nac750-wi-fi-booster-assessment-quality-meets-cost/"><u>Affordable TP-Link RE2nAC750 Wi-Fi Booster Assessment: Quality Meets Cost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/chucklechamber-laughter-in-a-click-for-2024/"><u>ChuckleChamber - Laughter in a Click for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-keep-your-mac-computer-awake-and-active-longer/"><u>Easy Steps to Keep Your Mac Computer Awake and Active Longer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-transferring-your-favorite-audiobooks-from-audible-to-windows-or-mac/"><u>Guide: Transferring Your Favorite Audiobooks From Audible to Windows or Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-asmr-excellence-superior-performance-for-less-money/"><u>In 2024, ASMR Excellence Superior Performance for Less Money</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-there-a-current-downtime-for-aol-email-or-are-connection-troubles-personal/"><u>Is There a Current Downtime for AOL Email, or Are Connection Troubles Personal?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/revamp-your-inventory-mastering-the-edit-product-sku-interface/"><u>Revamp Your Inventory: Mastering the Edit Product SKU Interface</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722883984961-sim-insertion-hacks-for-iphones-no-tools-needed/"><u>SIM Insertion Hacks for iPhones: No Tools Needed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-fixes-for-missing-binkw32dll-files-in-windows-systems/"><u>Ultimate Fixes for Missing Binkw32.dll Files in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-better-streams-top-five-must-use-platforms-for-twitch-broadcasters/"><u>Unlocking Better Streams: Top Five Must-Use Platforms for Twitch Broadcasters</u></a></li>
 </ul></div>
 

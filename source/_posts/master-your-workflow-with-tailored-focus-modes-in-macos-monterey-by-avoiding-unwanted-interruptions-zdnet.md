@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-11-16T17:07:27.993Z
-updated: 2024-11-19T19:06:44.996Z
+date: 2024-11-24T17:19:20.816Z
+updated: 2024-11-28T17:13:33.816Z
 tags:
   - apple
 categories:
@@ -26,24 +26,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Create a custom Focus
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -54,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -63,10 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -85,13 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -105,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,22 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-exclusive-selections-best-virtual-reality-titles-for-cardboard/"><u>[New] 2024 Approved Exclusive Selections Best Virtual Reality Titles for Cardboard</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-youtube-marketing-techniques-ranked-from-best-to-worst-for-2024/"><u>[New] Essential YouTube Marketing Techniques – Ranked From Best to Worst for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-tactics-for-captivating-audienes-in-instagram-reels-for-2024/"><u>[Updated] Top Tactics for Captivating Audienes in Instagram Reels for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-gear-to-include-in-your-summer-essential-travel-set/"><u>Discover the Best Gear to Include in Your Summer Essential Travel Set</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-yuva-3-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Yuva 3 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-our-selection-of-premium-video-editors-to-elevate-your-work/"><u>Explore Our Selection of Premium Video Editors to Elevate Your Work</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-easily-change-avchd-videos-to-mp4-for-free-under-windows-10/"><u>How to Easily Change AVCHD Videos to MP4 for Free Under Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-x50iplus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor X50i+ with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-edge-40-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 40 Pro Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instagram-insights-how-to-spot-the-admirers-of-your-shared-moments/"><u>Instagram Insights: How to Spot the Admirers of Your Shared Moments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-tweaks-for-the-visually-inclined-altering-folder-colors/"><u>MacOS Tweaks for the Visually Inclined: Altering Folder Colors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mobile-mastery-establishing-your-brands-youtube-outlet-for-2024/"><u>Mobile Mastery Establishing Your Brand's YouTube Outlet for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-see-movies-on-demand-a-guide-from-lifewire/"><u>Must-See Movies on Demand - A Guide From Lifewire</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-excessive-gpu-load-in-games-on-pc/"><u>Tackling Excessive GPU Load in Games on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/teslas-robotaxi-revealed-unveiling-the-anticipated-cost-launch-timeline-and-feature-set-inside-scoop-on-latest-buzz/"><u>Tesla's Robotaxi Revealed! Unveiling the Anticipated Cost, Launch Timeline & Feature Set – Inside Scoop on Latest Buzz</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-complete-step-by-step-instructions-for-hard-rebooting-your-ipad-every-model/"><u>Ultimate Guide: Complete Step-by-Step Instructions for Hard Rebooting Your iPad (Every Model)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-mystery-understanding-bsod-and-its-implications/"><u>Unveiling the Mystery: Understanding BSOD and Its Implications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-video-making-smartphones-announced-here/"><u>[New] Best Video-Making Smartphones Announced Here</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>[New] Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-aether-understanding-its-nature-and-steps-to-becoming-a-participant/"><u>Discovering Aether: Understanding Its Nature & Steps to Becoming a Participant</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-android-achieve-its-clever-and-adaptive-functionality/"><u>How Does Android Achieve Its Clever and Adaptive Functionality?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-the-d3dx9-34dll-is-not-detected-issue-effectively/"><u>How to Address the 'D3dx9_ 34.dll Is Not Detected' Issue Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-motorola-moto-g14-phone-by-drfone-android/"><u>How to Unlock a Network Locked Motorola Moto G14 Phone?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-core-upgrades-of-windows-11/"><u>In 2024, The Core Upgrades of Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-game-changer-creating-eye-catching-logo-templates/"><u>In 2024, The Game-Changer Creating Eye-Catching Logo Templates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-80-pro-straight-screen-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor 80 Pro Straight Screen Edition? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-resolving-your-ipads-wi-fi-connection-issues/"><u>Step-by-Step Guide: Resolving Your iPad's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-selecting-and-purchasing-the-right-tv-for-your-household/"><u>Step-by-Step Tips on Selecting and Purchasing the Right TV for Your Household</u></a></li>
+<li><a href="https://techtrends.techidaily.com/techniques-for-retrieving-digital-telephonic-contact-information/"><u>Techniques for Retrieving Digital Telephonic Contact Information</u></a></li>
 </ul></div>
 

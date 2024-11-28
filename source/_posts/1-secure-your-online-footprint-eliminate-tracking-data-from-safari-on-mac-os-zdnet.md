@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-11-14T17:40:58.394Z
-updated: 2024-11-19T22:01:43.753Z
+date: 2024-11-24T18:06:02.964Z
+updated: 2024-11-28T17:38:34.297Z
 tags:
   - apple
 categories:
@@ -46,15 +46,16 @@ Let me show you how to enable this feature.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to remove tracking information in MacOS Safari
 
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -66,10 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -121,24 +119,19 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-stepping-up-your-gaming-stream-with-steam-capture/"><u>[New] In 2024, Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>[Updated] In 2024, Premium Power Supplies for GoPro Hero5 Genuine and 3Rd-Party</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamline-your-content-leading-android-video-editors/"><u>[Updated] In 2024, Streamline Your Content Leading Android Video Editors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>2024 Approved The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-guide-to-internet-ready-tv-sets-functions-and-features/"><u>A Guide to Internet-Ready TV Sets: Functions & Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/converti-rapidamente-i-tuoi-brani-audio-flac-in-formato-m4a-senza-costi-easymp3conversiontoolcom/"><u>Converti Rapidamente I Tuoi Brani Audio FLAC in Formato M4A Senza Costi - EasyMP3ConversionTool.com</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-16-premium-but-free-tools-for-learning-sign-languages/"><u>Discover 16 Premium (But Free!) Tools for Learning Sign Languages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-movie-platforms-that-compete-with-netflix-top-10-list/"><u>Free Movie Platforms That Compete With Netflix: Top 10 List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-did-netflix-revolutionize-home-entertainment-with-its-dvd-by-mail-service/"><u>How Did Netflix Revolutionize Home Entertainment with Its DVD-by-Mail Service?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-protect-and-recover-using-windows-10-tips-and-tricks-for-a-smooth-transition-from-windows-7/"><u>How to Protect and Recover Using Windows 10 - Tips & Tricks for a Smooth Transition From Windows 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-dominating-the-youtube-sphere-key-strategies-for-top-tier-presence/"><u>In 2024, Dominating the YouTube Sphere Key Strategies for Top-Tier Presence</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-x-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone X Without Apple ID Password?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-your-nintendo-switch-online-service-disrupted-identifying-global-outages-vs-personal-glitches/"><u>Is Your Nintendo Switch Online Service Disrupted? Identifying Global Outages Vs. Personal Glitches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/laptop-guide-securely-watching-netflix-shows-offline/"><u>Laptop Guide: Securely Watching Netflix Shows Offline</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-world-of-miniature-transports-important-dates-fresh-news-speculations-revealed/"><u>Mastering the World of Miniature Transports: Important Dates, Fresh News, Speculations Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-understanding-every-snapchat-emoticon/"><u>The Essential Guide to Understanding Every Snapchat Emoticon</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unresponsive-tv-when-connecting-laptop-with-hdmi/"><u>Unresponsive TV When Connecting Laptop with HDMI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-android-16-predictions-on-cost-release-plans-and-hardware-details-join-us-at-no-charge/"><u>Unveiling Android 16: Predictions on Cost, Release Plans, & Hardware Details - Join Us at No Charge</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ergonomic-hold-techniques-for-clarity/"><u>[New] 2024 Approved Ergonomic Hold Techniques for Clarity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[New] 2024 Approved From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-birds-eye-briefing-critique/"><u>[New] Bird's Eye Briefing Critique</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-shoguns-call-a-list-of-top-10-games-reflecting-tsushi-values/"><u>[New] In 2024, Shogun's Call A List of Top 10 Games Reflecting Tsushi Values</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-understanding-and-adhering-to-twitters-video-standards/"><u>[Updated] In 2024, Understanding and Adhering to Twitter's Video Standards</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/15-sensational-tiktok-cooking-challenges-for-your-plate-for-2024/"><u>15 Sensational TikTok Cooking Challenges for Your Plate for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/access-beacon-live-show-download-episodes-anytime-pc-and-mac-compatible/"><u>Access Beacon Live Show: Download Episodes Anytime, PC & Mac Compatible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decode-kernel-data-inpage-errors-a-diy-fix-guide-to-stabilize-your-system/"><u>Decode Kernel Data Inpage Errors: A DIY Fix Guide to Stabilize Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-manipulating-roku-devices-using-alternative-input-methods/"><u>Guide to Manipulating Roku Devices Using Alternative Input Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-halt-government-safety-alarms-on-iphone-screens/"><u>How to Halt Government Safety Alarms on iPhone Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-how-to-reserve-time-with-apple-pros-for-personalized-assistance-and-repairs/"><u>Inside Scoop: How to Reserve Time with Apple Pros for Personalized Assistance and Repairs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamless-methods-for-moving-picasa-albums-onto-an-outside-hard-disk/"><u>Seamless Methods for Moving Picasa Albums Onto an Outside Hard Disk</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-the-blue-screen-of-death-and-what-it-really-means-for-your-pc/"><u>The Complete Guide to the Blue Screen of Death and What It Really Means for Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-experience-altering-taskbar-hue/"><u>Transforming Your Windows 11 Experience - Altering Taskbar Hue</u></a></li>
 </ul></div>
 
