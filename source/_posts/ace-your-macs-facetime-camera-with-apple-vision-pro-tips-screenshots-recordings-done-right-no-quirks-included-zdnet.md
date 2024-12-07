@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Mac's FaceTime Camera with Apple Vision Pro Tips: Screenshots, Recordings Done Right (No Quirks Included) | ZDNet"
-date: 2024-11-27T17:10:14.275Z
-updated: 2024-11-28T17:55:05.667Z
+date: 2024-11-30T17:22:44.982Z
+updated: 2024-12-07T20:00:38.348Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ In this article, I'll show you how to take both screenshots and screen recording
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -55,7 +55,7 @@ I prefer the second way, which is simply to ask Siri to take the shot. All you h
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -97,7 +97,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -147,22 +147,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-igtv-vs-youtube-should-video-content-creators-use-one-platform-or-the-other/"><u>[Updated] IGTV VS YouTube Should Video Content Creators Use One Platform or The Other?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>2024 Approved The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Asus ROG Phone 7 Ultimate to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-fix-the-openal32dll-unable-to-locate-problem/"><u>A Step-by-Step Guide to Fix the 'openAL32.dll Unable to Locate' Problem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722903753810-apple-watch-wont-connect-discover-6-effective-fixes/"><u>Apple Watch Won't Connect? Discover 6 Effective Fixes!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-steps-getting-started-with-your-brand-new-pc/"><u>Essential Steps: Getting Started with Your Brand-New PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-installing-and-running-android-applications-on-your-windows-10-pc/"><u>Guide: Installing and Running Android Applications on Your Windows 10 PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-mfplatdll-is-missing-or-not-found-errors/"><u>How to Fix Mfplat.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 15 Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-huawei-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Huawei online without jailbreak</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-voice-modification-tools-for-youtube-creators/"><u>In 2024, Top Voice Modification Tools for YouTube Creators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-chromecast-updates-simple-steps-for-enhanced-performance-and-features/"><u>Mastering Chromecast Updates - Simple Steps for Enhanced Performance and Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722860846308-samsung-galaxy-s24-ultra-and-iphone-15-pro-max-face-off-features-performance-and-more/"><u>Samsung Galaxy S24 Ultra and iPhone 15 Pro Max Face-Off: Features, Performance, and More</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-audio-experience-how-to-sync-a-computer-with-your-bluetooth-speaker/"><u>Seamless Audio Experience: How to Sync a Computer With Your Bluetooth Speaker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-the-relentless-malfunctioning-of-the-ascent-while-running-on-personal-computers/"><u>Step-by-Step Guide: Stop The Relentless Malfunctioning of The Ascent While Running on Personal Computers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win11-prevents-gpu-use-attempt/"><u>Win11 Prevents GPU Use Attempt</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-art-of-humor-in-minutes-kinemaster-techniques/"><u>[Updated] In 2024, The Art of Humor in Minutes KineMaster Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/6-tips-for-choosing-the-best-selfie-stick/"><u>6 Tips For Choosing the Best Selfie Stick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-solution-to-deal-with-dciman32dll-not-detected-problems/"><u>A Step-by-Step Solution to Deal with 'dciman32.dll Not Detected' Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-10-most-popular-and-effective-apps-designed-for-teens-education/"><u>Discover the 10 Most Popular and Effective Apps Designed for Teens' Education</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-6-exceptional-standalone-language-apps/"><u>Discover the Ultimate List: 6 Exceptional Standalone Language Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-broadcom-gige-network-drivers-for-optimal-performance-on-windows-10/"><u>How to Install or Update Broadcom GigE Network Drivers for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-picks-17-top-software-for-cleaning-up-images/"><u>In 2024, Best Picks 17 Top Software for Cleaning Up Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/perfecting-video-conferencing-with-snap-functionality-for-2024/"><u>Perfecting Video Conferencing with Snap Functionality for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-smart-functionality-for-internet-connected-home-entertainment-systems/"><u>Setting Up Smart Functionality for Internet-Connected Home Entertainment Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-checklist-finding-your-dream-phone-protector/"><u>The Complete Checklist: Finding Your Dream Phone Protector</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformative-grading-3-simplified-photoshop-routines-for-2024/"><u>Transformative Grading 3 Simplified Photoshop Routines for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A59 5G? | Dr.fone</u></a></li>
 </ul></div>
 

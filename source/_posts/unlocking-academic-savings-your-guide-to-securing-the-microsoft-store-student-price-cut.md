@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Academic Savings: Your Guide to Securing the Microsoft Store Student Price Cut"
-date: 2024-09-01T18:36:29.604Z
-updated: 2024-09-02T18:36:29.604Z
+date: 2024-12-02T19:49:03.597Z
+updated: 2024-12-07T17:41:31.824Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking Academic Savings: Your Guide to Securing the Microsoft Store Student Price Cut"
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 
 ## From Textbook Costs to Tech Savings: Claiming Your Microsoft Student Discount
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get the Microsoft Student Discount
 
@@ -25,8 +29,17 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/4abc1e0d974f64940dfb669b21c754808ce4ab1e9
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -53,8 +67,9 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +107,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-total-capture-trio-setup/"><u>[Updated] Total Capture Trio Setup</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/comparaison-du-serieux-des-differents-domaines-selon-abbyy-quel-domaine-est-le-plus-rigoureux/"><u>Comparaison Du Sérieux Des Différents Domaines Selon ABBYY : Quel Domaine Est Le Plus Rigoureux ?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-ad-revenue-distribution-in-youtubes-economic-model/"><u>Decoding Ad Revenue Distribution in YouTube's Economic Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-selector-101-finding-your-next-apple-arcade-hit/"><u>Game Selector 101: Finding Your Next Apple Arcade Hit</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-make-your-content-trend-a-guide-to-going-viral-on-tiktok/"><u>How to Make Your Content Trend: A Guide to Going Viral on TikTok</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-cease-non-filtered-youtube-video-trail/"><u>In 2024, Cease Non-Filtered YouTube Video Trail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722901277318-microsoft-teams-not-responding-determining-whether-service-interruptions-exist-or-network-problems-persist/"><u>Microsoft Teams Not Responding: Determining Whether Service Interruptions Exist or Network Problems Persist.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-x-men-movie-marathon-order-revealed/"><u>Perfect X-Men Movie Marathon Order Revealed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-or-ps5-slim-a-thorough-guide-to-sonys-cutting-edge-gaming-systems/"><u>PS5 or PS5 Slim? A Thorough Guide to Sony's Cutting-Edge Gaming Systems.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategic-insights-dos-and-donts-of-incorcuating-chatgpt-in-writing-projects/"><u>Strategic Insights: Do’s and Don’ts of Incorcuating ChatGPT in Writing Projects</u></a></li>
+</ul></div>
 

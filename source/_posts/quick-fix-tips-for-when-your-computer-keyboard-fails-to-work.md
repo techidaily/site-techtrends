@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-11-24T16:21:57.731Z
-updated: 2024-11-28T16:00:30.179Z
+date: 2024-12-06T20:43:53.254Z
+updated: 2024-12-07T22:56:23.166Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overall Findings
 
@@ -55,6 +59,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -66,7 +74,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disadvantages of Buying
@@ -92,10 +100,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -108,10 +112,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -122,6 +122,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -129,14 +133,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Julie Bang
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -181,18 +181,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-clearing-up-instagrams-video-mishaps/"><u>[New] 2024 Approved Clearing Up Instagram's Video Mishaps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-ethereal-time-extended-recording/"><u>[New] Ethereal Time-Extended Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets/"><u>[New] Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-whats-captivating-twitter-users-the-most/"><u>[Updated] In 2024, What's Captivating Twitter Users the Most?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-review-of-dji-mavic-pro-eyewear-tech/"><u>[Updated] In-Depth Review of DJI Mavic Pro Eyewear Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-top-tips-for-enhancing-pc-gaming-in-windows-11/"><u>Boost Your Gameplay: Top Tips for Enhancing PC Gaming in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-powered-crypto-insight-5-essential-tips/"><u>GPT-Powered Crypto Insight: 5 Essential Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Lava Blaze 2 5G</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-obs-studio-vs-fraps-performance-showdown/"><u>In 2024, OBS Studio vs Fraps Performance Showdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-your-device-drivers-on-windows-10/"><u>Step-by-Step Guide: Updating Your Device Drivers on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-leveraging-vivetool-for-windows-beta-functions/"><u>Step-by-Step Tutorial on Leveraging ViVeTool for Windows Beta Functions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-contrasting-file-systems-in-windows-10-vs-windows-11/"><u>Step-by-Step Tutorial: Contrasting File Systems in Windows 10 Vs. Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/story-2-the-power-of-art-misunderstood/"><u>Story 2: The Power of ART Misunderstood</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-10-premium-vector-websites/"><u>[Updated] Ultimate Guide to 10 Premium Vector Websites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-tips-and-tricks-to-better-use-pixlr-editor/"><u>10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>2024 Approved The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mov-3gpp-movavi/"><u>無成本移動到 MOV 類型的 3GPP 改編 - Movavi 轉換軟件</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cambiar-formato-de-archivo-mxf-a-avi-online-sin-costos-con-movavi/"><u>Cambiar Formato De Archivo MXF a AVI Online Sin Costos Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-vob-to-m4v-conversion-service-by-moveave-convert-dvds-instantly/"><u>Free VOB to M4V Conversion Service by Moveave - Convert DVDs Instantly!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-mov-mp4/"><u>Online MOV 파일을 MP4로 자이로드: 무료 대상 도구</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-camera-glitches-the-ultimate-guide-to-solving-7-frequent-problems/"><u>Overcome iPhone Camera Glitches: The Ultimate Guide to Solving 7 Frequent Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ricodifica-mp4-a-3gp-online-gratuitamente-con-movavi-facilita-di-trasformazione/"><u>Ricodifica MP4 a 3GP Online Gratuitamente Con Movavi - Facilità Di Trasformazione</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/securing-privacy-disabling-caller-id-on-android-phones/"><u>Securing Privacy: Disabling Caller ID on Android Phones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-essentials-of-adding-emojis-to-youtube-discussions/"><u>The Essentials of Adding Emojis to Youtube Discussions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutoriels-pour-filmer-avec-un-arriere-plan-bleu-grisatre-integration-movavi-chroma-key-explique/"><u>Tutoriels Pour Filmer Avec Un Arrière-Plan Bleu Grisâtre - Intégration Movavi Chroma Key Expliqué</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-distort-disrupt-delight-10-glitch-video-editing-apps-for-ios-and-android-for-2024/"><u>Updated Distort, Disrupt, Delight 10 Glitch Video Editing Apps for iOS and Android for 2024</u></a></li>
 </ul></div>
 

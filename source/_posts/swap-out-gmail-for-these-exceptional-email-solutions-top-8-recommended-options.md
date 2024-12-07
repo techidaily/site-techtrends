@@ -1,7 +1,7 @@
 ---
 title: Swap Out Gmail for These Exceptional Email Solutions - Top 8 Recommended Options
-date: 2024-09-01T18:40:44.775Z
-updated: 2024-09-02T18:40:44.775Z
+date: 2024-11-30T16:30:51.459Z
+updated: 2024-12-07T18:36:21.814Z
 categories:
   - BestProducts
 description: This Article Describes Swap Out Gmail for These Exceptional Email Solutions - Top 8 Recommended Options
@@ -23,8 +23,18 @@ thumbnail: https://www.lifewire.com/thmb/7aI7G1IQ5dY-_6O1gNDOgrQzspk=/400x300/fi
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
@@ -33,10 +43,23 @@ thumbnail: https://www.lifewire.com/thmb/7aI7G1IQ5dY-_6O1gNDOgrQzspk=/400x300/fi
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Awkward Potion Recipe  
 
@@ -48,9 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/7aI7G1IQ5dY-_6O1gNDOgrQzspk=/400x300/fi
 * 1 Water Bottle  
 * 1 Nether Wart  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -88,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +115,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-chuckle-cache-unearthing-humor-in-twitters-feeds/"><u>[New] Chuckle Cache Unearthing Humor in Twitters Feeds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-revitalize-your-day-with-these-top-10-yoga-videos-for-2024/"><u>[Updated] Revitalize Your Day with These Top 10 Yoga Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-tech-gadgets-for-effortless-virtual-meetings-capture-for-2024/"><u>[Updated] Top Tech Gadgets for Effortless Virtual Meetings Capture for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290626115-wavmp3/"><u>「WAV」と「MP3」の違いを深く理解 - 圧縮方式、容量、音質などチャート形式で比較</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comparative-look-at-samsung-photo-tools/"><u>A Comparative Look at Samsung Photo Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/combining-footage-techniques-for-merging-gopro-dji-canon-and-sony-videos/"><u>Combining Footage: Techniques for Merging GoPro, DJI, Canon & Sony Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/defeating-wow-crash-code-132-the-ultimate-fix/"><u>Defeating WoW Crash Code #132: The Ultimate Fix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-dvd/"><u>DVD デジタルコピー手順：著作権侵害なしでのDVDバックアップ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvddigiarty-38/"><u>DVDコピー解説豊富な情報サイト「Digiarty ソフトウェア」:ページ38の奥深さ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286832883-dvdmacand/"><u>DVDのデュービングをMacで実行！品質向上&成功率アップのキーポイント</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-partners-up-enhanced-buttonfiltration-with-pearson/"><u>Mondly Partners Up: Enhanced ButtonFiltration With Pearson</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mov-to-mp4-conversion-no-cost-solutions-for-all-users-on-mac-and-windows-10-systems/"><u>MOV to MP4 Conversion - No Cost Solutions for All Users on Mac and Windows 10 Systems</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video-in-2024/"><u>New How to Record and Edit an Animoji or Memoji Karaoke Music Video, In 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-narzo-60-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme Narzo 60 5G Phone Network-Ready</u></a></li>
+</ul></div>
 

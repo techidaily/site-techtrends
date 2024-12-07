@@ -1,7 +1,7 @@
 ---
 title: "Affordable Writing: How to Access Microsoft Word for Free or at Low Cost"
-date: 2024-09-01T18:45:27.315Z
-updated: 2024-09-02T18:45:27.315Z
+date: 2024-12-03T22:36:40.257Z
+updated: 2024-12-07T17:45:26.769Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Writing: How to Access Microsoft Word for Free or at Low Cost"
@@ -27,10 +27,25 @@ These instructions only work with a single page of code.
 1. Open the document you want the code to appear in, and select**Insert** .  
 ![A Word document with the Insert field highlighted](https://www.lifewire.com/thmb/hhaKemMmX0vrIo89Vh-8tqrp0Z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-insert-source-code-into-word-document-3994582-1a2d127c226f4846bf9bec7d9a281fc5.jpg)
 2. In the**Text** group, select**Object** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A Word document with the Object option highlighted in the Insert menu](https://www.lifewire.com/thmb/opt-Q1YQfqT2MaDUICEGskPbmMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-insert-source-code-into-word-document-3994582-939bbef12a77474cbc646e7bfca9da48.jpg)
 3. From the**Create New** tab, select**Microsoft Word Document** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create New Object box in Word with the Microsoft Word Document option highlighted](https://www.lifewire.com/thmb/ubtpMlrpJY0mh1rhIZL7mTUeCd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-insert-source-code-into-word-document-3994582-1f1467fff74c4365913779c89a44dbaa.jpg)  
  In Word 2007, select**OpenDocument Text** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
@@ -39,13 +54,18 @@ These instructions only work with a single page of code.
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -56,9 +76,6 @@ These instructions only work with a single page of code.
 * **HTML Format** : This renders what appears to be a photo of the code, complete with the text editor's background color. This code block is editable, and you can remove the background color if you wish.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -96,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-the-essence-of-movement-in-iphone-photography/"><u>[New] Capture the Essence of Movement in iPhone Photography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-iphone-lens-wisdom-stunning-image-secrets/"><u>[Updated] IPhone Lens Wisdom Stunning Image Secrets</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-performance-of-yis-4k-actioncam-for-2024/"><u>[Updated] The Ultimate Performance of Yi's 4K ActionCam for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensively-understanding-iphone-audio-acquisition/"><u>2024 Approved Comprehensively Understanding iPhone Audio Acquisition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>2024 Approved The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-realities-a-guide-through-ar-vr-mr-and-xr-technologies/"><u>Comparing Realities: A Guide Through AR, VR, MR & XR Technologies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-offline-alert-on-amazon-echo-devices-a-step-by-step-guide/"><u>Fixing the Offline Alert on Amazon Echo Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/going-off-the-grid-top-methods-for-cable-and-phone-free-online-access/"><u>Going Off the Grid? Top Methods for Cable and Phone-Free Online Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-fix-yahoo-mail-not-receiving-incoming-messages-correctly/"><u>Guide to Fix Yahoo Mail Not Receiving Incoming Messages Correctly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-resolve-blue-color-cast-issues-with-your-tv-screen-a-guide/"><u>How to Correctly Address and Resolve Blue Color Cast Issues with Your TV Screen – A Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-factory-reset-an-iphone-and-remove-personal-data/"><u>How to Factory Reset an iPhone and Remove Personal Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c67-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C67 4G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-diving-into-the-depths-of-facebooks-secret-tracking/"><u>In 2024, Diving Into the Depths of Facebook's Secret Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-online-broadcast-your-guide-to-watching-the-2024-olympic-games/"><u>Mastering Online Broadcast: Your Guide to Watching the 2024 Olympic Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restore-visibility-to-your-wifi-network-essential-fixes-and-advice/"><u>Restore Visibility to Your WiFi Network - Essential Fixes and Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-btballoondll-error-a-comprehensive-guide/"><u>Solving the BTBalloon.DLL Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-ranking-which-iphone-model-maximizes-your-gaming-experience/"><u>The Ultimate Ranking: Which iPhone Model Maximizes Your Gaming Experience?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027017437-wonderfox/"><u>WonderFoxアフィリエイト収入を最大化する方法</u></a></li>
+</ul></div>
 

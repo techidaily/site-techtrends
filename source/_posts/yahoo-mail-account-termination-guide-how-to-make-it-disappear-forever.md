@@ -1,7 +1,7 @@
 ---
 title: "Yahoo Mail Account Termination Guide: How to Make It Disappear Forever"
-date: 2024-09-01T18:42:57.264Z
-updated: 2024-09-02T18:42:57.264Z
+date: 2024-12-03T23:03:37.622Z
+updated: 2024-12-07T19:51:11.863Z
 categories:
   - BestProducts
 description: "This Article Describes Yahoo Mail Account Termination Guide: How to Make It Disappear Forever"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 
  This article explains how to delete a Yahoo account from a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Delete a Yahoo Mail Account
 
  You can shut down your entire Yahoo account and revoke access to your email address, remove all your emails, and prevent people from messaging you. This is possible through the Privacy Dashboard:
@@ -29,9 +33,19 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 2. Hover over your name at the top right of the page and select**Manage your account** from the menu.  
 ![The Yahoo Mail menu showing the Manage your account link](https://www.lifewire.com/thmb/JdqCJ9mVz02xTyooT2W1i0vfh8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-menu-4a8ea92f4deb4b0c9229c9c24ed4c1c9.png)  
  If you're paying for any Yahoo subscription services, cancel those now to avoid unexpected payments;[open My Subscriptions](https://mysubscriptions.yahoo.com/) to see if you have any active subscriptions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
@@ -39,18 +53,20 @@ thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f6200
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
@@ -96,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +119,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-beginners-guide-to-luts-and-downloading-tools-for-2024/"><u>[New] The Beginner's Guide to LUTs and Downloading Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagram-filters-applying-them-to-old-memories/"><u>[Updated] In 2024, Mastering Instagram Filters Applying Them to Old Memories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-return-journey-maker-collection/"><u>[Updated] Return Journey Maker Collection</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728481894935-hddssd/"><u>「HDDからSSDへのゲームファイル移行 - 復元なしで安全に」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-zoom-features-on-your-chromebook/"><u>2024 Approved Streamlining Zoom Features on Your Chromebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024-ogg-to-mp3/"><u>2024年度更新 - オールインワンの高品質Ogg to MP3コンバーター:無料アプリと使用ガイド</u></a></li>
+<li><a href="https://win-online.techidaily.com/mp3-oma/"><u>無料で簡単なMP3ファイル変換: OMAコーデック用動画からオンライン</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-software-top-3-hd-compatible-windows-11-dvd-ripping-tools-no-cost-downloads/"><u>Best Free Software : Top 3 HD-Compatible Windows 11 DVD Ripping Tools (No Cost Downloads)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/crafting-coolest-mini-houses-in-mc-world/"><u>Crafting Coolest Mini-Houses in MC World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effizientes-video-konvertierungsskript-mit-handbrake-fur-die-umwandlung-und-rippung-von-dvds/"><u>Effizientes Video-Konvertierungsskript Mit HandBrake Für Die Umwandlung Und Rippung Von DVDs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-ps4-how-to-enable-mp4-file-playback-from-usb-devices-and-computers/"><u>Fix Your PS4: How To Enable MP4 File Playback From USB Devices and Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-video-compression-service-reduce-files-over-1gb-down-to-mb/"><u>Free Video Compression Service: Reduce Files Over 1GB Down to MB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-the-most-out-of-your-amd-radeon-update-to-driver-version-2410-today/"><u>Get The Most Out Of Your AMD Radeon: Update To Driver Version 24.10 Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-dvds-to-digital-format-across-pc-mac-and-mobile-devices/"><u>Step-by-Step Guide: Converting DVDs to Digital Format Across PC, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/story-1-the-misunderstanding-of-transmission/"><u>Story 1: The Misunderstanding of Transmission</u></a></li>
+</ul></div>
 

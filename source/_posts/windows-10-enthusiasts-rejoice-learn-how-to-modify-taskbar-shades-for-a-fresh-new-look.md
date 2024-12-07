@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Enthusiasts Rejoice! Learn How to Modify Taskbar Shades for a Fresh New Look
-date: 2024-09-01T18:38:43.450Z
-updated: 2024-09-02T18:38:43.450Z
+date: 2024-12-05T19:46:51.599Z
+updated: 2024-12-07T18:37:40.589Z
 categories:
   - BestProducts
 description: This Article Describes Windows 10 Enthusiasts Rejoice! Learn How to Modify Taskbar Shades for a Fresh New Look
@@ -25,10 +25,20 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 1. Open Settings, then select**Personalization** on the left, followed by**Fonts** on the right. Another way to get there is through the Run command:**ms-settings:fonts** .  
 ![The Personalization settings in Windows 11](https://www.lifewire.com/thmb/SJdYi81a1Rm29jJ6p7V24JP49ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/personalization-settings-windows-11-83afd8d0867d4d39a1b87dff59dd8fae.png)
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -43,6 +53,11 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
@@ -53,24 +68,19 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Changing the System Font Do?
 
  Changing the computer font in Windows 11 will switch up the way text looks throughout the operating system. Desktop icon text and the links in Control Panel are a couple of examples, but it's most obvious in other areas, such as the Run dialog box.
 
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore the Default Font in Windows 11
 
  The best way to get the original Windows 11 font back is to reverse the registry tweak that changed it in the first place. To do that, repeat the steps from above, but replace the Notepad text with different code.
@@ -109,8 +119,9 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Changing Other Fonts in Windows 11
 
  The method outlined in this article isn't how it typically works when you want to use a new font in Windows. The directions explained above are unique for two reasons: Windows doesn't have a built-in way to change the system font, and you're changing the_system_ font, not just the font type for a single app.
@@ -154,8 +165,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +172,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techtrends.techidaily.com/1725286741308-2024/"><u>2024年トップ無料動画変換ウェブサイトランキング！オンラインで簡単に手軽なビデオコンバート</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oneplus-12-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on OnePlus 12</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-strategy-for-windows-error-code-0x8007045d/"><u>Combat Strategy for Windows' Error Code: 0X8007045D</u></a></li>
+<li><a href="https://techtrends.techidaily.com/die-besten-10-kostenlosen-softwarelosungen-zum-ausbugeln-von-dvd-kopierschutzmassnahmen/"><u>Die Besten 10 Kostenlosen Softwarelösungen Zum Ausbügeln Von DVD-Kopierschutzmaßnahmen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guia-paso-a-paso-para-cambiar-de-codificacion-h264-a-h265-sin-perdida-de-calidad-y-con-menor-tamano/"><u>Guía Paso a Paso Para Cambiar De Codificación H.264 A H.265 Sin Pérdida De Calidad Y Con Menor Tamaño</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-xs-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone XS? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-mac-voice-capture-apps-compiling-peak-performances/"><u>In 2024, Top 5 Mac Voice Capture Apps Compiling Peak Performances</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-courtesy-a-must-when-interacting-with-ai-assistants-like-chatgpt-alexa-or-siri/"><u>Is Courtesy a Must When Interacting with AI Assistants Like ChatGPT, Alexa, or Siri?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kopieren-und-einrichten-von-mp3-musik-auf-ihrem-iphone-ohne-dass-itunes-benotigt-wird/"><u>Kopieren Und Einrichten Von MP3-Musik Auf Ihrem iPhone, Ohne Dass iTunes Benötigt Wird</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kostenlose-konvertierung-von-h2-grosser-grosse-ohne-qualitatsverlust-h264-zu-h265/"><u>Kostenlose Konvertierung Von H.2 Großer Größe Ohne Qualitätsverlust - H.264 Zu H.265</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lecteurs-video-open-source-premium-en-2021-top-3-options-pour-windows-11-et-compatibilite-avec-tous-les-disques-dvd/"><u>Lecteurs Vidéo Open Source Premium en 2021 : Top 3 Options Pour Windows 11 Et Compatibilité Avec Tous Les Disques DVD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speeding-up-slide-show-video-performance/"><u>Speeding Up Slide Show Video Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-your-ps4-dvd-issue-can-you-play-dvd-movies-on-sony-console/"><u>Troubleshooting Your PS4 DVD Issue - Can You Play DVD Movies on Sony Console?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-handbrake-presets-for-converting-videos-and-dvds-to-apple-ipad-format/"><u>Ultimate Guide: Setting Up Handbrake Presets for Converting Videos & DVDs to Apple iPad Format</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-mp4-to-mp3-fast-and-easy-conversion-with-these-top-tools/"><u>Updated MP4 to MP3 Fast and Easy Conversion with These Top Tools</u></a></li>
+</ul></div>
 

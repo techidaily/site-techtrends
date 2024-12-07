@@ -1,7 +1,7 @@
 ---
 title: "Exploring the PlayStation Groovy 5 Slim: Deals, Launch Dates & Hardware Specifications"
-date: 2024-09-01T18:38:16.354Z
-updated: 2024-09-02T18:38:16.354Z
+date: 2024-12-01T18:43:22.809Z
+updated: 2024-12-07T16:09:21.304Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the PlayStation Groovy 5 Slim: Deals, Launch Dates & Hardware Specifications"
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  The PS5 Slim is now the standard model of the PlayStation 5 that is 30% smaller than the launch edition. Here's everything we know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Was the PS5 Slim Released? 
 
  Sony revealed the PS5 Slim officially on October 10, 2023\. It launched in November 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PS5 Slim Price 
 
@@ -34,15 +42,16 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![The vertical stand for the PS5 Slim](https://www.lifewire.com/thmb/I89FBnF0oUfSqfSpcHdX3A8Vv3c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-Vertical-Stand-7ab6640af9a94338978badf7bbe2c816.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sony
 
  Additionally, if you get the Digital Edition and want to add a disc drive later, you can. It will be available for $79.99\. In this case, you're better off getting the one that comes with the drive already.
 
 [  Here's what we think the PS5 Pro will cost ](https://www.lifewire.com/playstation-5-pro-7966359) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  PlayStation 5 Slim Features & Specs 
 
  Per Sony, the new PS5 is more than 30% smaller (by volume), and 18 or 24% lighter (depending on model) than the original version. Rather than the current PS5's two side panels, the new ones have four: The top two are glossy, while the bottom ones are the same matte finish as the current lineup.
@@ -56,13 +65,11 @@ Sony
 ![The new PS5 with the side panel removed](https://www.lifewire.com/thmb/LcAwBA_R8RGMc2UJ9cPM-tGd-LI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/New-PS5-side-panel-27489245d8f94d12a9aa30ca3077ecd1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Latest News About the PS5 Slim 
 
  You can get[ all the latest gaming news here at Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some stories about the PlayStation 5.
@@ -74,22 +81,13 @@ Sony
 [ The Best Gaming Consoles of 2024 ](https://www.lifewire.com/best-gaming-consoles-4154610) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PS5 Slim w/ Disc Drive 
 
  Orig.$500 [ $450 at Best Buy ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fplaystation-5%2Fps5-consoles%2Fpcmcat1587395025973.c%3Fid%3Dpcmcat1587395025973) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### PS5 Slim Digital Edition 
 
  Orig.$450 [ $399 at Amazon ](https://www.amazon.com/PlayStation%C2%AE5-Digital-slim-PlayStation-5/dp/B0CL5KNB9M/ref=sr%5F1%5F1?rnid=2528832011&s=videogames&crid=3K7X5HLPOFM3N&keywords=ps5+slim&sprefix=ps5+slim%2Cvideogames%2C193&dib%5Ftag=se&ufe=app%5Fdo%3Aamzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685&tag=lifewire-onsite-prod-20&dib=eyJ2IjoiMSJ9.CuKLfIhDdkg5mAyBeIsW8W184dwhEUzNMW1LWJQEoD1X7kthQsfrW9wtlrzivIgIGGSsFl-e9vuWt2vc10e5QdZFo2hsLYqMfv8TqPWEjIlwj1RkoJiPFp1VL7dCSUjiH1p24NEtZ5AwHhvp975VZYqpocHmbAENpvl9vLAsdk-AG7tw55aza78qmxCfAh3oY%5FDmPdi4E5ADmJ%5Frmv4N9cFHi7pZKxvgdThaE5gmTb4.XtoZjoBunoajSRe8SuP%5FTI9elmQ6UYuqrxHbVzJvUoM&qid=1717701937&refinements=p%5F89%3APlayStation&sr=1-1&ascsubtag=7966360%7Cn0d86891ff0e04630ae542ea8bcce785e08%7C)
@@ -100,8 +98,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +105,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-metrics-guide-to-monetize-and-mobilize-youtube-audiences/"><u>2024 Approved The Ultimate Metrics Guide to Monetize and Mobilize YouTube Audiences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-enjoy-netflix-entertainment-on-a-nintendo-switch-device/"><u>Can You Enjoy Netflix Entertainment on a Nintendo Switch Device?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-plus-is-investing-in-this-ai-tool-justifiable-top-5-benefits-for-users/"><u>ChatGPT Plus: Is Investing in This AI Tool Justifiable? Top 5 Benefits for Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-setting-up-shared-folders-on-your-mac/"><u>Complete Tutorial: Setting Up Shared Folders on Your Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-guide-correcting-d3dx933dll-not-detected-problems/"><u>Detailed Guide: Correcting 'd3dx9_33.dll' Not Detected Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-netflix-woes-expert-tips-to-ensure-smooth-playback-of-all-shows-and-movies/"><u>Fix Your Netflix Woes! Expert Tips to Ensure Smooth Playback of All Shows and Movies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-runtimebrokers-excessive-resource-consumption-problem-on-your-windows-10-pc/"><u>Fixing the RunTimeBroker's Excessive Resource Consumption Problem on Your Windows 10 PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-miniipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 mini/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-your-gaming-experience-boosting-fps-for-forza-horizon-5-on-pc/"><u>Improving Your Gaming Experience: Boosting FPS for Forza Horizon 5 on PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-budget-gaming-hardware-the-ultimate-keyboard-list/"><u>In 2024, Essential Budget Gaming Hardware The Ultimate Keyboard List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-iphones-audio-upgrade-discover-best-software-for-youtube-to-mp3/"><u>In 2024, IPhone's Audio Upgrade Discover Best Software for YouTube-to-MP3</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-through-helperdll-not-found-issues-effective-solutions-unveiled/"><u>Navigate Through 'Helper.dll Not Found' Issues: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-smartphone-craze-forecasting-samsung-galaxy-s25-ultras-specs-arrival-date-and-market-pricing-rumors/"><u>The Next-Gen Smartphone Craze: Forecasting Samsung Galaxy S25 Ultra's Specs, Arrival Date & Market Pricing Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-iphone-screen-with-night-time-mode-instructions/"><u>Transform Your iPhone Screen with Night Time Mode Instructions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-the-horizon-forbidden-west-full-game-on-pc/"><u>Troubleshooting Tips for Persistent Crashes in the 'Horizon Forbidden West' Full Game on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-of-new-airpower-video-sparks-questions-about-revival-of-apples-discontinued-wireless-charging-pad-with-qi-technology-zdnet/"><u>Unveiling of New AirPower Video Sparks Questions About Revival of Apple's Discontinued Wireless Charging Pad with Qi Technology | ZDNet</u></a></li>
+</ul></div>
 

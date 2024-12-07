@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-11-23T17:47:55.676Z
-updated: 2024-11-28T17:04:18.199Z
+date: 2024-12-04T22:33:40.185Z
+updated: 2024-12-07T21:18:23.580Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -68,10 +72,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -150,10 +158,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,17 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] In 2024, 6 Video Styles for Maximum Viewer Engagement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Smart 8 HD Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-arena-aces-unbeatable-10-royale-games/"><u>In 2024, Arena Aces Unbeatable 10 Royale Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-decoding-audio-cues-a-windows-and-os-x-guide-to-srt-files/"><u>In 2024, Decoding Audio Cues A Windows & OS X Guide to SRT Files</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-google-pixel-8-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Google Pixel 8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-pauses-windows-11-rollback-functionality/"><u>Microsoft Pauses Windows 11 Rollback Functionality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcome-windows-rts-top-7-solutions-for-eliminating-the-camera-detection-error/"><u>Overcome Windows ˈrɪts: Top 7 Solutions for Eliminating the Camera Detection Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-why-does-stardew-valley-crash-and-how-to-fix-it/"><u>Seamless Gaming: Why Does Stardew Valley Crash & How to Fix It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-windows-10-like-a-pro-with-these-10-essential-techniques/"><u>Secure Windows 10 Like a Pro with These 10 Essential Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/showdown-of-titans-features-and-performance-between-iphone-15-plus-and-pro-max/"><u>Showdown of Titans: Features and Performance Between iPhone 15 Plus and Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-bluetooth-gadgets-from-your-pc-running-windows-11-or-10/"><u>Step-by-Step Guide: Removing Bluetooth Gadgets From Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-tracking-your-printer-activity-on-windows-10/"><u>Step-by-Step Guide: Tracking Your Printer Activity on Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-accelerate-how-to-swiftly-broadcast-playlists/"><u>[New] In 2024, Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-amplify-engagement-a-compilation-of-powerful-30-freegame-tags-for-2024/"><u>[Updated] Amplify Engagement A Compilation of Powerful 30 FreeGame Tags for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726224231290-avchdmp4/"><u>「オンラインでフリー:高品質なAVCHDからMP4への変換ツール」</u></a></li>
+<li><a href="https://fox-links.techidaily.com/beginners-guide-to-best-entry-level-cams-2024/"><u>Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cambie-sus-clips-wav-a-compatibles-con-mp4-o-3gp-por-nada-usando-la-herramienta-online-de-movavi/"><u>Cambie Sus Clips .wav a Compatibles Con MP4 O .3Gp Por Nada, Usando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertissez-un-fichier-caf-en-fichier-m4r-gratuitement-sur-internet-movavi/"><u>Convertissez Un Fichier CAF en Fichier M4R Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-elements-for-implementing-channel-banners-in-games-for-2024/"><u>Essential Elements for Implementing Channel Banners in Games for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratuit-mp4-converteren-van-caf-naar-online-movavi/"><u>Gratuit MP4-Converteren Van CAF Naar Online - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-se-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone SE In Easy Steps | Stellar</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/microsofts-enduring-consequences-a-decade-after-mobile-missteps-insights-from-zdnet/"><u>Microsoft's Enduring Consequences: A Decade After Mobile Missteps - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-ram-wav/"><u>MOVAVI 在線自由邊輸出 RAM 到 WAV 格式：直覺上的選擇</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-photo-retoucher-the-ultimate-image-editing-tool/"><u>Movavi Photo Retoucher: The Ultimate Image Editing Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-on-line-voc-en-wmv-toevoegprogramma-gratuit-benutvriendelijk-and-gedefinieerd/"><u>Movavi's On-Line VOC en WMV Toevoegprogramma: Gratuit, Benutvriendelijk & Gedefinieerd</u></a></li>
+<li><a href="https://fox-making.techidaily.com/resolve-issues-with-your-lenovo-laptops-function-key-f11-and-reduce-downtangle/"><u>Resolve Issues with Your Lenovo Laptop's Function Key (F11) and Reduce Downtangle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-correct-the-lame-mp3-encoder-dll-problem-in-audacity/"><u>Step-by-Step Instructions to Correct the Lame MP3 Encoder DLL Problem in Audacity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/webp-to-jpg-image-transformation-made-simple-with-movavis-conversion-software/"><u>WebP to JPG Image Transformation Made Simple with Movavi's Conversion Software</u></a></li>
 </ul></div>
 

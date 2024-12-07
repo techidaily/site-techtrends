@@ -1,7 +1,7 @@
 ---
 title: "Decoding Your PC's Power Source: Mastering the Windows 10 Battery Dashboard"
-date: 2024-09-01T18:39:04.693Z
-updated: 2024-09-02T18:39:04.693Z
+date: 2024-12-02T19:02:54.098Z
+updated: 2024-12-07T16:06:24.417Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Your PC's Power Source: Mastering the Windows 10 Battery Dashboard"
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
 ## Deciding Between Building or Purchasing Your Own Computer – Find the Best Choice for You
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overall Findings
 
@@ -50,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 * Less customization.
 * Less familiarity with internal components.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -63,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -75,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Building a PC: Pros and Cons
 
  Advantages
@@ -105,8 +104,9 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -118,8 +118,9 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -127,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Lifewire / Julie Bang
 
 ## How to Build a Computer
@@ -165,8 +167,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +174,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-strategies-capturing-saving-and-sharing-ps4-experiences-for-2024/"><u>[New] Top Strategies Capturing, Saving & Sharing PS4 Experiences for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286065424-ai/"><u>最新AI解像機能で動画を美しく―高画質再生可能な無料ソフトウェアのお勧め！</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/best-video-editors-and-apps-to-upgrade-your-youtube-top-picks/"><u>Best Video Editors and Apps to Upgrade Your YouTube | Top Picks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-disneys-drm-a-step-by-step-guide-to-copying-your-own-disney-dvds/"><u>Bypassing Disney's DRM: A Step-by-Step Guide to Copying Your Own Disney DVDs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-handbrake-handle-the-conversion-of-av1-video-formats/"><u>Can HandBrake Handle the Conversion of AV1 Video Formats?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-the-right-format-dvd-blu-ray-or-digital-files-whats-best-to-purchase-today/"><u>Choosing the Right Format: DVD, Blu-Ray or Digital Files – What's Best to Purchase Today?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-deal-on-winx-professional-dvd-rip-master-speedy-mp4-extraction-with-hevc-encoding/"><u>Exclusive Deal on WinX Professional DVD Rip Master – Speedy MP4 Extraction with HEVC Encoding.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-whats-coming-in-apples-latest-wwdc-tease-a-deeper-dive-into-enhanced-intelligence-and-ios-18-features-zdnet/"><u>Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-in-touch-with-digital-artistry-your-guide-to-connecting/"><u>Get in Touch with Digital Artistry: Your Guide to Connecting</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-drivers-for-your-thinkpad-t420s-on-windows-11-complete-steps/"><u>How to Get the Latest Drivers for Your ThinkPad T420s on Windows 11 - Complete Steps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-ace-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Ace 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-lighting-techniques-for-iphone-users/"><u>In 2024, Masterful Lighting Techniques for IPhone Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-perfect-your-canon-shots-10-free-tailored-for-professionals/"><u>In 2024, Perfect Your Canon Shots 10 Free, Tailored for Professionals</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-reign-supreme-with-these-11-video-seo-techniques-on-youtube-for-2024/"><u>Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-successfully-upload-videos-with-images-on-reddit/"><u>Step-by-Step Guide: How to Successfully Upload Videos with Images on Reddit</u></a></li>
+</ul></div>
 

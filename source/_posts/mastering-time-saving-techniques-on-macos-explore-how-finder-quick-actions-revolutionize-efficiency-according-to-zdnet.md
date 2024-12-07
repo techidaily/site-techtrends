@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-11-25T17:52:07.842Z
-updated: 2024-11-28T16:45:45.585Z
+date: 2024-11-30T17:37:45.752Z
+updated: 2024-12-07T17:14:10.267Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Before I take you through both the tools and my "process," let me point out that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -37,7 +37,7 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -52,10 +52,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -69,10 +65,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -90,10 +82,6 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -103,10 +91,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -151,6 +135,10 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -186,6 +174,10 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -232,6 +224,10 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -245,6 +241,10 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,20 +275,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-canvasknotter-your-ultimate-photo-blend-tool-for-2024/"><u>[Updated] CanvasKnotter Your Ultimate Photo Blend Tool for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-streamlining-team-discussions-combining-slack-and-filmora-for-professionals/"><u>[Updated] In 2024, Streamlining Team Discussions Combining Slack and Filmora for Professionals</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-newbies-nook-making-eye-catching-mac-videos-for-youtube/"><u>[Updated] Newbies' Nook Making Eye-Catching Mac Videos for YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-7-no-cost-video-compression-tools-for-mp4-avi-mkv-and-mov-files/"><u>Best 7 No-Cost Video Compression Tools for MP4, AVI, MKV & MOV Files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-computer-chronology-windows-edition/"><u>Deciphering Computer Chronology - Windows Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-dvd-to-itunes-video-transfer-with-macx-ripper-compatible-with-iphone-ipod-ipad-and-apple-tv/"><u>Effortless DVD to iTunes Video Transfer with MacX Ripper - Compatible with iPhone, iPod, iPad & Apple TV</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-free-tools-perfecting-your-video-calls-for-2024/"><u>Essential Free Tools Perfecting Your Video Calls for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-access-top-hilarious-cat-video-collection-on-youtube-start-watching-now/"><u>Free Access: Top Hilarious Cat Video Collection on YouTube - Start Watching Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-macx-video-converter-effortless-format-and-device-compatibility-for-your-video-files/"><u>Free MacX Video Converter: Effortless Format & Device Compatibility for Your Video Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macx-video-converter-pro-acquistare-la-versione-aggiornata-per-un-editing-ottimale/"><u>MacX Video Converter Pro: Acquistare La Versione Aggiornata per Un Editing Ottimale</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/now-subtract-3-from-both-sides-to-isolate-the-term-with-x-3x-plus-3-3-6-3-which-becomes-3x-9/"><u>Now, Subtract 3 From Both Sides to Isolate the Term with X: $3X + 3 - 3 = -6 - 3$, Which Becomes $3X = -9$.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/open-the-downloaded-dmg-file-and-drag-macxdvd-icon-to-applications-folder-n-indicates-a-new-line-for-readability/"><u>Open the Downloaded .dmg File and Drag MacXDVD Icon to Applications Folder. ( N Indicates a New Line for Readability)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-streamers-for-real-time-television-content-for-2024/"><u>Top 10 Streamers for Real-Time Television Content for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-5-email-marketing-tools-for-effective-mailing-list-management-by-massmail/"><u>Top 5 Email Marketing Tools for Effective Mailing List Management by MassMail</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooter-overcoming-obstacles-when-cloning-sony-dvds-with-sector-flaws-or-drm-protection/"><u>Troubleshooter: Overcoming Obstacles When Cloning Sony DVDs with Sector Flaws or DRM Protection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-enhance-performance-advanced-techniques-for-windows-10-for-2024/"><u>[Updated] Enhance Performance Advanced Techniques for Windows 10 for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-approach-to-saving-instagram-stories/"><u>[Updated] In 2024, Step-by-Step Approach to Saving Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/using-macxdvdusing-macxdvd/"><u>[Using MacXDVD](#using-MacXDVD)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beat-the-playback-problems-a-list-of-13-remedies-when-spotify-stops-working-with-android-auto/"><u>Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-distinctions-how-roku-express-stacks-up-against-roku-stick/"><u>Deciphering the Distinctions: How Roku Express Stacks Up Against Roku Stick</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/discover-the-best-open-worlds-today-for-2024/"><u>Discover the Best Open Worlds Today for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722900585691-discover-the-correct-sequence-watching-star-wars-saga-on-disneyplus/"><u>Discover the Correct Sequence: Watching 'Star Wars' Saga on Disney+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-sonys-psvr-2-revolution-insights-on-pricing-strategies-launch-timelines-and-comprehensive-system-specifications/"><u>Explore Sony’s PSVR 2 Revolution: Insights on Pricing Strategies, Launch Timelines, and Comprehensive System Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-effects-of-fast-storage-retrieval-on-laptop-operations/"><u>Exploring the Effects of Fast Storage Retrieval on Laptop Operations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-back-to-watching-seamlessly-a-guide-to-repairing-broken-closed-captions-on-amazon-prime/"><u>Get Back to Watching Seamlessly: A Guide to Repairing Broken Closed Captions on Amazon Prime</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-watching-apple-tvpluss-shows-on-your-smart-tv-via-chromecast/"><u>Guide: Watching Apple TV+'s Shows on Your Smart TV via Chromecast</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-y17s-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Y17s.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-real-time-broadcasting-softwares-edge-over-gear/"><u>In 2024, Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/perfecting-crossfades-and-sweeps-in-premiere/"><u>Perfecting Crossfades & Sweeps in Premiere</u></a></li>
+<li><a href="https://facebook.techidaily.com/professional-growth-strategies-incorporating-facebook/"><u>Professional Growth Strategies - Incorporating Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-implementing-website-pinging-essential-insights-and-best-practices/"><u>Understanding and Implementing Website Pinging - Essential Insights & Best Practices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
 

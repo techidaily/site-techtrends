@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Resolving Power-On Self-Test (POST) Failures in PCs
-date: 2024-09-01T18:38:08.235Z
-updated: 2024-09-02T18:38:08.235Z
+date: 2024-12-03T22:44:56.662Z
+updated: 2024-12-07T17:24:01.694Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Tips for Resolving Power-On Self-Test (POST) Failures in PCs
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-countdown-configuration-guide-for-obs-enthusiasts-for-2024/"><u>[Updated] Countdown Configuration Guide for OBS Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>[Updated] Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simplify-your-workload-with-expert-use-of-ez-grabber-for-2024/"><u>[Updated] Simplify Your Workload with Expert Use of EZ Grabber for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tiktok-to-twitter-sharing-videos/"><u>2024 Approved TikTok to Twitter Sharing Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-shared-musical-experiences-for-you-and-your-friends-on-spotify/"><u>Creating Shared Musical Experiences for You and Your Friends on Spotify</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/distinguishing-truth-from-fiction-techniques-to-recognize-hallucinatory-outputs-of-neural-networks/"><u>Distinguishing Truth From Fiction: Techniques to Recognize Hallucinatory Outputs of Neural Networks</u></a></li>
+<li><a href="https://discover-best.techidaily.com/efficient-strategies-mastering-the-art-of-shrinking-mts-videos/"><u>Efficient Strategies: Mastering the Art of Shrinking MTS Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insider-look-at-sony-2024-plans-breakthrough-announcements-gadgets-to-watch-and-industry-predictions/"><u>Insider Look at Sony 2024 Plans: Breakthrough Announcements, Gadgets to Watch, and Industry Predictions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971096570-latest-creative-web-camera-drivers-for-windows-get-them-here/"><u>Latest Creative Web Camera Drivers for Windows - Get Them Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-to-fun-our-handpicked-collection-of-the-best-free-movie-sites-for-young-audiences/"><u>Navigate to Fun: Our Handpicked Collection of the Best Free Movie Sites for Young Audiences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/night-time-settings-guide-for-iphone-users/"><u>Night Time Settings Guide for iPhone Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/spark-ar-maximizing-realism-with-downloadable-lut-files-for-2024/"><u>Spark AR Maximizing Realism with Downloadable LUT Files for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-have-mobile-apps-for-high-school-students/"><u>Top 10 Must-Have Mobile Apps for High School Students</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

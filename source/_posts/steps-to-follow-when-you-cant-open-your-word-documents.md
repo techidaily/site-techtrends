@@ -1,7 +1,7 @@
 ---
 title: Steps to Follow When You Can't Open Your Word Documents
-date: 2024-09-01T18:37:40.067Z
-updated: 2024-09-02T18:37:40.067Z
+date: 2024-12-03T20:18:36.549Z
+updated: 2024-12-07T20:33:46.471Z
 categories:
   - BestProducts
 description: This Article Describes Steps to Follow When You Can't Open Your Word Documents
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/sw7n0FbV4IdTIYvSYLOfEYp5KUw=/400x300/fi
 
  This article explains how to connect three monitors to a computer for a boost in productivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Hook up 3 Monitors to One Computer
 
  Sometimes you need a command center whether you're gaming, coding, or working with multiple documents. Here's how to add three monitors to your computer.
@@ -28,10 +32,20 @@ thumbnail: https://www.lifewire.com/thmb/sw7n0FbV4IdTIYvSYLOfEYp5KUw=/400x300/fi
 [HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) are the most common video connections.  
 ![DisplayPort vs HDMI Connections and Cables](https://www.lifewire.com/thmb/2-bsARM73bRRMi4TApr7ApRFBCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/display-port-vs-hdmi-c2g-ccc-1697f356c33b4313bf4f239ef56856e4.jpg)  
  Different monitors can use different video connections. For example, you can connect two monitors with HDMI and then a third with DisplayPort.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Connect the video cable for the first monitor to your PC and then to the monitor. Wait a moment for the PC to detect the monitor and display an image. If it's successful, repeat this for the second monitor and, finally, the third.
 5. Right-click on the Windows desktop and click**Display Settings** .  
 ![Right-click menu settings in Windows 11 with Display Settings highlighted](https://www.lifewire.com/thmb/MfaagGxQo95iNq8uX_dLvjVN9QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DisplaySettingsannotated-56ca601f38694bd48a968d3dcb8baa44.jpg)
 6. A diagram will be visible at the top of the**Display** menu. If this is your first time connecting multiple monitors, the diagram will show one rectangle with the numbers 1, 2, and 3 together. Scroll down until you find the**Multiple Displays** option. Click the drop-down field and then**Extend these displays** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Display menu with "Extend these displays" highlighted](https://www.lifewire.com/thmb/6l5Yr_fuN9WBGTtNXhf_4Y0Vdz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extendthesedisplays-057f49d62adc4b4da106c1da7c564437.jpg)
 7. Scroll back to the top of the**Display** menu. It will now show three rectangles, each labeled with a number. These rectangles show the position of each monitor on your Windows desktop. Change the diagram so that each rectangle's location is approximately the same as each monitor's physical location on your desk.  
  Verify the monitors are arranged as you want by opening a window and dragging it between monitors.  
@@ -39,8 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/sw7n0FbV4IdTIYvSYLOfEYp5KUw=/400x300/fi
 8. Close the**Display** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can My Computer Support Three Monitors?
 
  A computer needs the proper hardware and software to support three monitors at once. Even one with enough physical video outputs might not support three monitors if the driver for its graphics hardware lacks support for so many displays.
@@ -54,16 +69,13 @@ thumbnail: https://www.lifewire.com/thmb/sw7n0FbV4IdTIYvSYLOfEYp5KUw=/400x300/fi
 ![Windows Device Manager with Display Adapters highlighted](https://www.lifewire.com/thmb/etZih571PshGMVscQeHITRVgEYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayadapters-cce42c63bc03453392e1c21e7912d822.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you know the graphics hardware, hit your favorite search engine. Look for a support or specification page on the company's official website that produced your PC's graphics hardware.
 
  You may have difficulty finding official specifications for hardware more than five years old. Beware of results from unofficial websites. Many third-party websites attempt to compile graphics hardware specifications, but most are unreliable.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## How Do I Connect 3 Monitors With an HDMI Splitter?
 
  You can use an HDMI splitter to connect three monitors, but the results likely won't be what you hope.
@@ -74,9 +86,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  There's no easy way to expand a PC's display output limitation with a splitter or adapter. The only option that genuinely extends a PC's display output is an external graphics card, one that bypasses the default graphics hardware. It's an expensive, niche option and only works with a small selection of PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Connecting 3 Monitors With a Daisy Chain
 
  Another option for connecting three monitors is a daisy chain. This option is supported by DisplayPort 1.2 and Thunderbolt 3 (or newer) and USB-C connections that include a DisplayPort mode. HDMI does not support daisy chains.
@@ -89,9 +98,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A person relaxing in front of 3 computer monitors.](https://www.lifewire.com/thmb/rNwm25Wi1gtnVKG6cT3WvYu1xsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215556128-c6efe0a4701f452e851a1ace021393a5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 LanaStock / Getty Images
 
  FAQ
@@ -125,8 +131,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +138,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harness-the-power-of-keywords-top-selection-software-unveiled/"><u>[Updated] Harness the Power of Keywords Top Selection Software Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-superbowl-viewing-experience-with-professional-home-theater-installation-advice/"><u>Elevate Your Superbowl Viewing Experience with Professional Home Theater Installation Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-to-keep-in-mind-before-investing-in-a-video-clip-gadget/"><u>Essential Tips to Keep in Mind Before Investing in a Video Clip Gadget</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-social-networks-facebook-twitter-and-instagram-youtube/"><u>Explore Social Networks: Facebook, Twitter & Instagram, YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-ifunny-memes/"><u>In 2024, Navigating the World of iFunny Memes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-peak-online-cam-dance-battles/"><u>In 2024, Peak Online Cam Dance Battles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-sid-retrieval-for-all-users-on-windows-11/"><u>Mastering SID Retrieval for All Users on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/one-number-multiple-platforms-effortless-communication-on-any-device/"><u>One Number, Multiple Platforms: Effortless Communication on Any Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-stop-0x0000005c-halinitializationfailed-error-on-your-computer/"><u>Overcoming STOP 0X0000005C (HAL_INITIALIZATION_FAILED) Error on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-pdhdll-errors-comprehensive-guide-to-rectifying-missing-and-not-found-issues/"><u>Solving pdh.dll Errors: Comprehensive Guide to Rectifying 'Missing' And 'Not Found' Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/symphony-storage-download-and-critique-melodies-for-2024/"><u>Symphony Storage Download & Critique Melodies for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-32-no-cost-backup-solutions-expertly-rated-and-analyzed/"><u>Top 32 No-Cost Backup Solutions - Expertly Rated & Analyzed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-rtx-a-comprehensive-guide-to-nvidias-gpu-series/"><u>Understanding RTX: A Comprehensive Guide to Nvidia's GPU Series</u></a></li>
+</ul></div>
 

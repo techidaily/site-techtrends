@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From Apple: Top Alternatives to iPhone 13 & iPhone 15 Pro for Tech Enthusiasts | ZDNet"
-date: 2024-11-27T16:31:20.725Z
-updated: 2024-11-28T17:59:55.665Z
+date: 2024-12-03T23:13:54.002Z
+updated: 2024-12-07T16:30:48.954Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -50,7 +54,7 @@ To help you make this decision, we've broken down all of the most important deta
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -61,10 +65,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,10 +72,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -95,13 +91,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -112,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6418071%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6418071.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,21 +157,17 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-become-a-master-at-kinemaster-strategies-features-and-top-online-gaming-rivals-for-2024/"><u>[New] Become a Master at KineMaster Strategies, Features, and Top Online Gaming Rivals for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-ultra-series-2-insider-rumors-on-specs-launch-date-and-pricing-revealed/"><u>Apple Watch Ultra Series 2: Insider Rumors on Specs, Launch Date, and Pricing Revealed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-civi-3-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Civi 3.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/curated-collection-must-see-tv-series-you-cant-miss-on-discovery-plus-this-july-2024/"><u>Curated Collection: Must-See TV Series You Can't Miss on Discovery Plus This July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-disparities-how-do-macs-distinguish-from-pcs-in-performance-and-design/"><u>Decoding the Disparities: How Do Macs Distinguish From PCs in Performance and Design?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elite-list-of-the-most-secure-email-services-online/"><u>Elite List of the Most Secure Email Services Online</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-varied-and-eye-catching-vlog-discussion-points/"><u>In 2024, Varied and Eye-Catching Vlog Discussion Points</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/making-your-music-collection-accessible-worldwide-for-2024/"><u>Making Your Music Collection Accessible Worldwide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-gizmos-the-ultimate-guide-by-tom/"><u>Mastering Gadgets & Gizmos: The Ultimate Guide by Tom</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshotting-on-an-hp-notebook-pc/"><u>Mastering the Art of Screenshotting on an HP Notebook PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-challenges-with-chatgpt-understanding-google-news-revision-policies-and-ensuring-uninterrupted-internet-access-on-the-go/"><u>Overcoming Challenges with ChatGPT, Understanding Google News Revision Policies & Ensuring Uninterrupted Internet Access on the Go</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pc-users-take-note-using-snapchat-beyond-mobile-devices-unveiled/"><u>PC Users, Take Note! Using Snapchat Beyond Mobile Devices Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722864390804-top-5-no-cost-substitutes-for-skype-your-ultimate-guide/"><u>Top 5 No-Cost Substitutes for Skype - Your Ultimate Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-mastering-winx-mediatrans-for-seamless-audio-video-and-photo-conversions/"><u>Ultimate Guide: Mastering WinX MediaTrans for Seamless Audio, Video & Photo Conversions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-tesla-robot-unveiled-breaking-down-the-latest-rumors-projected-costs-and-launch-timeline/"><u>Upcoming Tesla Robot Unveiled: Breaking Down the Latest Rumors, Projected Costs & Launch Timeline</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-the-ultimate-video-solution-vlc-and-mx-showdown/"><u>[New] Finding the Ultimate Video Solution VLC and MX Showdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cease-non-filtered-youtube-video-trail/"><u>[Updated] 2024 Approved Cease Non-Filtered YouTube Video Trail</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-seamless-image-superimposition-for-desktop/"><u>2024 Approved Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-revolution-how-artificial-intelligence-is-transforming-the-future/"><u>AI Revolution: How Artificial Intelligence Is Transforming the Future</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-tools-to-spot-ai-generated-text-ideal-for-teachers-and-supervisors/"><u>Best Tools to Spot AI-Generated Text: Ideal for Teachers and Supervisors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/home-tech-support-quick-solutions-to-resolve-your-tvs-prevalent-problems/"><u>Home Tech Support: Quick Solutions to Resolve Your TV's Prevalent Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-harmonic-storage-pc-audio-and-speech/"><u>In 2024, Harmonic Storage PC Audio and Speech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-6-lite-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic 6 Lite Phone Pattern Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-win11-for-a-smoother-jump-into-programs-on-startup/"><u>Optimizing Win11 for a Smoother Jump Into Programs on Startup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-issues-with-your-logitech-g733-microphone-a-comprehensive-guide/"><u>Overcoming Issues with Your Logitech G733 Microphone - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-firestick-remote-from-complete-disarray/"><u>Step-by-Step Guide: Reviving Your Firestick Remote From Complete Disarray</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-awkward-potion-crafting-in-minecraft-for-ultimate-gameplay-enhancement/"><u>Unlock the Secrets of Awkward Potion Crafting in Minecraft for Ultimate Gameplay Enhancement</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple Greenlights Refurbished Pieces in iPhone Repairs, Sparks Industry Shift | Findings"
-date: 2024-11-25T16:17:38.888Z
-updated: 2024-11-28T17:41:19.812Z
+date: 2024-12-04T18:24:08.388Z
+updated: 2024-12-07T18:00:28.379Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -69,10 +69,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -129,7 +125,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -147,7 +143,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -162,12 +158,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,22 +204,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-complete-morphvox-audio-transformation-blueprint/"><u>[New] Complete MorphVOX Audio Transformation Blueprint</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-the-void-of-originality-in-vr-content/"><u>[Updated] 2024 Approved Exploring the Void of Originality in VR Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721959822160-chrome-upgrade-for-easy-chatgpt-command-input-boost-productivity-now/"><u>Chrome Upgrade for Easy ChatGPT Command Input – Boost Productivity Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-instructions-for-taking-screenshots-on-hp-systems/"><u>Complete Instructions for Taking Screenshots on HP Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-psvr-2-titles-roster-all-officially-revealed-games/"><u>Complete PSVR 2 Titles Roster: All Officially Revealed Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/deep-dive-into-asus-pa32u-review-excellence-in-professionalism/"><u>Deep Dive Into Asus PA32U Review Excellence in Professionalism</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facebook-in-full-brightness-steps-to-re-enable-the-missing-dark-theme/"><u>Facebook in Full Brightness: Steps to Re-Enable the Missing Dark Theme</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-past-to-present-key-milestones-in-electric-vehicle-history/"><u>From Past to Present: Key Milestones in Electric Vehicle History</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-your-windows-10-search-to-work-again/"><u>Getting Your Windows 10 Search to Work Again</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-xs-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone XS Max With 7 Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meet-claude-anthropics-breakthrough-technology-to-revolutionize-amazon-alexa-zdnet-exclusive-coverage/"><u>Meet 'Claude': Anthropic's Breakthrough Technology to Revolutionize Amazon Alexa | ZDNET Exclusive Coverage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimizing-pc-speed-the-role-of-ram-velocity-and-access-timing/"><u>Optimizing PC Speed: The Role of RAM Velocity and Access Timing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-tip-to-end-win11-display-disturbance/"><u>Quick Tip to End Win11 Display Disturbance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-linking-gadgets-to-your-bose-wireless-speaker/"><u>Step-by-Step Instructions for Linking Gadgets to Your Bose Wireless Speaker</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-editors-path-to-seamless-inshot-joins/"><u>The Editor's Path to Seamless Inshot Joins</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-iphones-unresponsive-email-functionality-essential-steps/"><u>Troubleshooting iPhone's Unresponsive Email Functionality: Essential Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-itel-a60s-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel A60s Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-comprehensive-walkthrough-for-embedding-youtube-plays-in-web-design-for-2024/"><u>[New] A Comprehensive Walkthrough for Embedding YouTube Plays in Web Design for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-resource-list-get-youtube-previews-and-templates-online-for-2024/"><u>[New] Ultimate Resource List Get YouTube Previews and Templates Online for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-addressing-computer-display-issues-such-as-pixel-defects-and-image-warpage/"><u>Comprehensive Fixes for Addressing Computer Display Issues Such as Pixel Defects & Image Warpage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-code-30-unraveled-fixing-the-cmos-bios-protection-failure-on-your-pc/"><u>Error Code 30 Unraveled: Fixing the CMOS BIOS Protection Failure on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-guide-to-8-premium-free-software-apps-windowsmac-for-2024/"><u>Essential Guide to 8 Premium Free Software Apps (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-address-missing-cygwin1dll-errors-successfully/"><u>Expert Tips to Address Missing Cygwin1.dll Errors Successfully</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c33-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C33 2023 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-iphone-13-waterproof/"><u>Is the iPhone 13 Waterproof?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimize-your-samsung-960-evo-storage-downloading-and-updating-drivers-in-windows-environments/"><u>Optimize Your Samsung 960 EVO Storage: Downloading & Updating Drivers in Windows Environments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-packet-loss-on-discord-for-smooth-voice-calls/"><u>Solution Guide: Overcoming Packet Loss on Discord for Smooth Voice Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-aspect-ratio-checklist-for-editors-and-directors-for-2024/"><u>The Ultimate Aspect Ratio Checklist for Editors and Directors for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-affordable-wanderlust-tapping-into-the-knowledge-of-66-tweeters-with-valuable-travel-deals-advice-and-epic-journeys/"><u>The Ultimate Guide to Affordable Wanderlust: Tapping Into the Knowledge of 66 Tweeters with Valuable Travel Deals, Advice & Epic Journeys</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-does-a-computers-blue-screen-of-death-mean-exploring-key-insights/"><u>What Does a Computer's Blue Screen of Death Mean? Exploring Key Insights</u></a></li>
 </ul></div>
 

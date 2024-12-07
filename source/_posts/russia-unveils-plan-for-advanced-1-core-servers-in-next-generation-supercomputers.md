@@ -1,7 +1,7 @@
 ---
 title: Russia Unveils Plan for Advanced 1# Core Servers in Next Generation Supercomputers
-date: 2024-09-01T18:42:20.903Z
-updated: 2024-09-02T18:42:20.903Z
+date: 2024-12-06T20:28:54.790Z
+updated: 2024-12-07T17:42:48.090Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,20 +53,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +76,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-capture-the-magic-of-moonlight-iphonely/"><u>[New] 2024 Approved Capture the Magic of Moonlight iPhonely</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-twitch-broadcast-excellence-the-ultimate-5-guide/"><u>[New] Twitch Broadcast Excellence The Ultimate 5 Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-effektive-strategien-um-den-fehler-dvd-spieldesign-fehlt-zu-beheben/"><u>10 Effektive Strategien, Um Den Fehler 'DVD Spieldesign Fehlt' Zu Beheben</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>2024 Approved Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290099553-mx/"><u>特定フォーマット再生対応：MXプレーヤーへ新しいコーデックをダウンロード・インストールする方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capcut/"><u>CapCutで簡単にビデオの回転・逆転技術</u></a></li>
+<li><a href="https://techtrends.techidaily.com/estrategias-efectivas-para-mantener-estable-la-camara-en-dispositivos-multiplataforma-windows-mac-smartphones-y-tablets/"><u>Estrategias Efectivas Para Mantener Estable La Cámara en Dispositivos Multiplataforma: Windows, Mac, Smartphones Y Tablets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-actions-your-guide-to-repairing-windows-software-glitches/"><u>Immediate Actions: Your Guide to Repairing Windows Software Glitches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-zoom-on-chromebook-essential-advice/"><u>In 2024, Navigating Zoom on Chromebook Essential Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-x90s-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo X90S Phone Hassle-Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-compatible-hd-video-converter-top-tools-for-high-quality-video-format-transformation/"><u>Mac Compatible HD Video Converter: Top Tools for High-Quality Video Format Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlined-chatgpt-chrome-extension-your-new-partner/"><u>Streamlined ChatGPT: Chrome Extension, Your New Partner!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

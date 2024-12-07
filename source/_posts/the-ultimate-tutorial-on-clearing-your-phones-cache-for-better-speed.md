@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Clearing Your Phone's Cache for Better Speed
-date: 2024-09-01T18:40:38.399Z
-updated: 2024-09-02T18:40:38.399Z
+date: 2024-12-01T18:16:56.911Z
+updated: 2024-12-07T17:27:53.572Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial on Clearing Your Phone's Cache for Better Speed
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/Llm17evBlrNWjhEFve3KbByIcEw=/540x405/fi
 * Mac: Press**Cmd+Ctrl+Space** to select heart symbols from the emoji keyboard.
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Windows Keyboard
 
@@ -34,8 +38,9 @@ These instructions apply to PCs running Windows 10 and up.
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -46,19 +51,20 @@ These instructions apply to PCs running Windows 10 and up.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Alt Code for a Heart?
 
  You can type out a heart symbol instantly on Windows if you know the[alt code](https://www.lifewire.com/typing-symbols-characters-on-windows-mac-4691496) . For example, holding down**Alt+3** on your keyboard’s number pad will produce a simple heart. However, there are many other codes you can use to make different heart emojis.
@@ -78,30 +84,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Check**Turn on numeric key pad** .  
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do You Get the White Heart Emoji on Your Keyboard?
 
  The White Heart emoji 🤍 is commonly used online to discuss someone passing away. To get it, you can enter**Alt+9825** on Windows or find it in the Windows or Mac emoji keyboards.
@@ -137,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +136,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-difference-between-srgb-and-rgb/"><u>[New] The Difference Between Srgb & Rgb</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-nexus-nightlife-virtual-theater-realm/"><u>[Updated] 2024 Approved Nexus Nightlife Virtual Theater Realm</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-simplified-image-editing-getting-rid-of-background-in-one-click-for-2024/"><u>[Updated] Simplified Image Editing Getting Rid of Background in One Click for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-webcam-recording-on-macbook-for-2024/"><u>[Updated] Step-by-Step Webcam Recording on MacBook for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>[Updated] The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-changer-un-fichier-avi-en-format-mkv-librement-sur-internet-utilisation-de-vlc-et-handbrake/"><u>Comment Changer Un Fichier AVI en Format MKV Librement Sur Internet - Utilisation De VLC Et HandBrake</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enregistrer-des-videos-sans-contraintes-decouvrez-les-5-gratuit-logiciels-denregistrement-en-vigueur-en-2024/"><u>Enregistrer Des Vidéos Sans Contraintes: Découvrez Les 5 Gratuit Logiciels D'enregistrement en Vigueur en 2024 !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guia-experta-en-winxvideo-ai-reglas-basicas-para-mejorar-almacenar-y-convertir-contenido-visual/"><u>Guía Experta en Winxvideo AI: Reglas Básicas Para Mejorar, Almacenar Y Convertir Contenido Visual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-pratique-utilisez-vous-nvenc-dans-handbrake-methodes-dactivation-de-lencodeur-nvenc/"><u>Guide Pratique : Utilisez-Vous NVENC Dans HandBrake ? Méthodes D'activation De L'encodeur NVENC.</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-linux-command-landscape-in-windows/"><u>Navigating the Linux Command Landscape in Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-s-hottest-vlog-editor-apps-for-ios-and-android-devices-for-2024/"><u>New S Hottest Vlog Editor Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-converting-dvds-into-divx-format-for-pc-and-mac-users/"><u>Quick Guide: Converting DVDs Into DivX Format for PC and Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-d3dx940dll-file-not-found-issues-a-step-by-step-guide/"><u>Solving d3dx9_40.dll File Not Found Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-or-force-playing-subtitles-on-your-dvds/"><u>Step-by-Step Guide: Adding or Force-Playing Subtitles on Your DVDs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-risks-of-downloading-slysoft-anydvd-hd-software-without-a-license/"><u>Understanding the Risks of Downloading Slysoft AnyDVD HD Software Without a License</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-disney-content-legal-ways-to-copy-your-own-dvd-collection/"><u>Unlocking Disney Content: Legal Ways to Copy Your Own DVD Collection</u></a></li>
+</ul></div>
 

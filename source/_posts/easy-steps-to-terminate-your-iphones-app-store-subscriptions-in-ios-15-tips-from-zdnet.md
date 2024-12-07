@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-11-27T17:23:30.439Z
-updated: 2024-11-28T17:18:22.961Z
+date: 2024-11-30T17:58:49.387Z
+updated: 2024-12-07T16:27:27.609Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -41,7 +37,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +58,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,17 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-shotchrome-xtreme-top-tier-os-capturing/"><u>[New] 2024 Approved ShotChrome Xtreme Top-Tier OS Capturing</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-unlocking-your-personalized-tiktok-hashtag-for-2024/"><u>[Updated] Mastering Unlocking Your Personalized TikTok Hashtag for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/asus-bw-16d1c-u-blu-ray-drive-examined-aesthetically-pleasing-yet-flawed-in-places/"><u>Asus BW-16D1C-U Blu-Ray Drive Examined - Aesthetically Pleasing, Yet Flawed in Places</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr-for-2024/"><u>Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR) for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciding-on-digital-reading-ipad-vs-amazons-kindle-and-barnes-and-nobles-nook/"><u>Deciding on Digital Reading: IPad Vs Amazon's Kindle & Barnes & Nobles' NOOK</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a38-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A38 Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/iphone-lights-mastery-guide-for-2024/"><u>IPhone Lights Mastery Guide for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/nasas-oldest-explorer-voyager-1-at-45-years-enhanced-with-latest-technology/"><u>NASA's Oldest Explorer, Voyager 1 at 45 Years, Enhanced with Latest Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-bitcoins-lightning-network-an-easy-to-follow-usage-tutorial/"><u>Navigating Through Bitcoin's Lightning Network: An Easy-to-Follow Usage Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-edge-40-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/say-goodbye-meta-no-longer-backs-the-quest-1-virtual-reality-headset/"><u>Say Goodbye: Meta No Longer Backs the Quest 1 Virtual Reality Headset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-discounted-meta-quest-virtual-reality-experience-before-black-friday-sale-ends/"><u>Secure Your Discounted Meta Quest ^ Virtual Reality Experience Before Black Friday Sale Ends</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-youtube-file-access-tips/"><u>[Updated] 2024 Approved Direct YouTube File Access Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-deciphering-the-best-youtube-video-trackers-for-success/"><u>[Updated] In 2024, Deciphering the Best YouTube Video Trackers for Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-undead-universe-discover-the-top-8-zombie-games/"><u>[Updated] In 2024, Undead Universe Discover the Top 8 Zombie Games</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-solve-dvd-playback-issues-with-our-expert-tips-for-your-standalone-media-player/"><u>1. Solve DVD Playback Issues with Our Expert Tips for Your Standalone Media Player</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-secondary-shots-tips-and-tricks/"><u>2024 Approved Integrating Secondary Shots Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-to-repair-missing-dciman32dll-errors/"><u>Comprehensive Strategies to Repair Missing dciman32.dll Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dragon-ball-mastery-the-perfect-order-for-binge-watching/"><u>Dragon Ball Mastery: The Perfect Order for Binge-Watching</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-libxml2dll-error-restoring-the-missing-dll-component/"><u>Effective Fixes for libxml2.dll Error: Restoring the Missing DLL Component</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210935105-9781667457345-el-abogado-del-alma/"><u>El Abogado del Alma | Free Book</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software-for-2024/"><u>From Novice to Expert A Comprehensive Guide to Mac's Preview Software for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-google-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Google Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tv-shows-streaming-on-discovery-plus-in-july-2024-our-picks/"><u>Top TV Shows Streaming on Discovery Plus in July 2024 - Our Picks!</u></a></li>
 </ul></div>
 

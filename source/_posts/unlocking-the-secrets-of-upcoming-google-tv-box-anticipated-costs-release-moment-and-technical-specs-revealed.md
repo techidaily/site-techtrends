@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of Upcoming Google TV Box: Anticipated Costs, Release Moment, and Technical Specs Revealed"
-date: 2024-09-01T18:43:12.707Z
-updated: 2024-09-02T18:43:12.707Z
+date: 2024-12-01T23:18:43.816Z
+updated: 2024-12-07T16:09:00.879Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking the Secrets of Upcoming Google TV Box: Anticipated Costs, Release Moment, and Technical Specs Revealed"
@@ -21,6 +21,10 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
@@ -29,16 +33,14 @@ In This Article
 
 August 13 is our best guess.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -48,13 +50,11 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -70,13 +70,15 @@ August 13 is our best guess.
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -87,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +102,22 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-like-factor-techniques-for-traffic-driving-facebook-content/"><u>[New] In 2024, The Like Factor Techniques for Traffic-Driving Facebook Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>[Updated] 2024 Approved Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-standing-out-on-airwaves-podcast-brand-logo-tips/"><u>[Updated] Standing Out on Airwaves Podcast Brand Logo Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/binge-on-inspirational-athletics-movies-10-selections-for-your-next-screen-time/"><u>Binge on Inspirational Athletics Movies: 10 Selections for Your Next Screen Time</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-the-excitement-of-new-samsung-innovations-through-online-broadcasts/"><u>Enjoy the Excitement of New Samsung Innovations Through Online Broadcasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-fixing-a-dysfunctional-computer-keyboard-step-by-step/"><u>Expert Tips for Fixing a Dysfunctional Computer Keyboard: Step by Step</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-plus-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Plus to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-windows-11-search-feature-effective-repair-methods/"><u>How to Restore Windows 11 Search Feature - Effective Repair Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-12-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 12 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>New Horizons in Video Codecs Comparing Av1 and VP9</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-inbox-a-detailed-walkthrough-of-safelist-management-in-mac-os-x-email-client/"><u>Secure Your Inbox: A Detailed Walkthrough of Safelist Management in Mac OS X Email Client</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-free-photoshop-alternatives-6-recommendations/"><u>The Ultimate Guide to Free Photoshop Alternatives (6 Recommendations)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-samsung-galaxy-s25-release-dates-pricing-and-feature-leaks-unveiled/"><u>Upcoming Samsung Galaxy S25 - Release Dates, Pricing & Feature Leaks Unveiled</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-v30t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme V30T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-1111/"><u>スチームゲームをWindows 11/11で記録・動画撮影する詳細ガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET"
-date: 2024-11-23T16:47:49.331Z
-updated: 2024-11-28T17:29:33.881Z
+date: 2024-11-30T20:14:04.942Z
+updated: 2024-12-07T18:20:29.156Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -65,6 +69,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
@@ -73,16 +81,12 @@ Kerry Wan/ZDNET
 
 ## You should buy the Apple Watch Series 10 if...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
@@ -115,13 +119,13 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -131,10 +135,6 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C374aa0ec-30c1-4aa7-b971-abb67420fc33%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
@@ -142,7 +142,7 @@ A major reason you may be interested in the Series 8, even though it's now a few
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -179,21 +179,20 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-3-effective-methods-to-archive-itunes-videos/"><u>[New] 2024 Approved 3 Effective Methods to Archive iTunes Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unveiling-the-world-of-haptic-navigation-systems-for-2024/"><u>[New] Unveiling the World of Haptic Navigation Systems for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>[Updated] Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-what-does-instantaneous-video-removal-mean-for-user-privacy-in-2024/"><u>[Updated] What Does Instantaneous Video Removal Mean for User Privacy, In 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>2024 Approved Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>2024 Approved Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoiding-targeted-recommendations-hide-suggestions-for-you-on-instagram/"><u>Avoiding Targeted Recommendations: Hide ‘Suggestions for You’ on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clever-ways-to-alter-your-smartphones-perceived-geographic-position/"><u>Clever Ways to Alter Your Smartphone's Perceived Geographic Position</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficient-methods-for-swiftly-displaying-your-pcs-desktop-using-windows-10-features/"><u>Efficient Methods for Swiftly Displaying Your PC's Desktop Using Windows 10 Features</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a05-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A05 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maxs-most-captivating-documentary-selections-for-july-2024/"><u>Max's Most Captivating Documentary Selections for July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pseudo-location-procedures-the-insiders-guide-to-tweaking-your-phones-gps/"><u>Pseudo-Location Procedures: The Insider's Guide to Tweaking Your Phone's GPS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-infinix-note-30-vip-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Infinix Note 30 VIP has been deleted</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sync-your-time-with-the-world-update-settings-on-a-kindle-paperwhite/"><u>Sync Your Time with the World: Update Settings on a Kindle Paperwhite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tips-and-tricks-for-editing-pets-glare-out-of-images/"><u>Tips and Tricks for Editing Pets’ Glare Out of Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-to-address-screen-discoloration-and-distortion-issues/"><u>Troubleshooting Techniques to Address Screen Discoloration and Distortion Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-reloading-the-dead-ranking-eminent-zombie-games-for-2024/"><u>[Updated] Reloading the Dead Ranking Eminent Zombie Games for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/blizzard-server-status-is-the-entire-world-offline-or-just-your-connection/"><u>Blizzard Server Status: Is the Entire World Offline, or Just Your Connection?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-twitter-content-calendar-management-for-higher-engagement/"><u>Effortless Twitter Content Calendar Management for Higher Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-software-interaction-winshortcut-guide/"><u>Enhancing Software Interaction: WinShortcut Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/extend-your-ipads-lifespan-a-comprehensive-guide-to-replacing-its-battery/"><u>Extend Your iPad's Lifespan - A Comprehensive Guide to Replacing Its Battery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fubotv-setup-made-easy-a-comprehensive-guide-for-fire-stick-users/"><u>FuboTV Setup Made Easy - A Comprehensive Guide For Fire Stick Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-casting-disneyplus-on-your-smart-tv-with-chromecast/"><u>Guide: Casting Disney+ on Your Smart TV with Chromecast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-dark-souls-3-from-crashing-proven-solutions-and-tips/"><u>How to Stop Dark Souls 3 From Crashing - Proven Solutions & Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-unresponsive-screen-discover-these-quick-repair-techniques/"><u>IPhone Unresponsive Screen? Discover These Quick Repair Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-music-selections-for-movie-making/"><u>Premier Music Selections for Movie Making</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-dolby-atmos-films-ultimate-in-home-cinema-experience/"><u>Top 15 Dolby Atmos Films: Ultimate In-Home Cinema Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-on-the-market-comprehensive-reviews-and-ratings-techadvisor/"><u>Top-Rated Digital Notepads on the Market: Comprehensive Reviews and Ratings - TechAdvisor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-overcoming-formidable-lynel-foes-in-botw/"><u>Ultimate Guide to Overcoming Formidable Lynel Foes in BOTW</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481060267-unrecognized-by-itunes-or-finder-expert-tips-for-iphone-detection/"><u>Unrecognized by ITunes or Finder? Expert Tips for iPhone Detection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-on-the-horizon-for-apple-event-date-rumors-and-breakthrough-news-revealed/"><u>What's on the Horizon for Apple? Event Date, Rumors & Breakthrough News Revealed</u></a></li>
 </ul></div>
 

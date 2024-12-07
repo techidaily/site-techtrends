@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Tutorial on Embedding Text Overlays in InstaStories
-date: 2024-11-23T16:11:30.376Z
-updated: 2024-11-28T16:44:33.651Z
+date: 2024-12-06T22:00:17.085Z
+updated: 2024-12-07T21:39:36.035Z
 categories:
   - BestProducts
 description: This Article Describes A Beginner's Tutorial on Embedding Text Overlays in InstaStories
@@ -27,10 +27,6 @@ thumbnail: https://www.lifewire.com/thmb/D7EdS_MHuVzjVop6wq6cjiqxwXI=/540x405/fi
 
 lolostock / Getty Images
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -43,7 +39,7 @@ lolostock / Getty Images
 3. Select**Settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Devices** from the main Settings screen.  
@@ -62,19 +58,15 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Mac
 
@@ -84,27 +76,35 @@ lolostock / Getty Images
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  FAQ
 
@@ -144,18 +144,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-chromebooks-and-hp-perfect-your-video-capture/"><u>[New] Chromebooks and HP Perfect Your Video Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-tactics-for-a-solo-podcast-craze/"><u>[New] In 2024, Essential Tactics for a Solo Podcast Craze</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-leap-into-the-future-with-strategic-technology-enhancements-for-2024/"><u>[New] Leap Into the Future with Strategic Technology Enhancements for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-secure-tiktok-videos-gallery-integration-techniques/"><u>[Updated] Secure TikTok Videos Gallery Integration Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>2024 Approved Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accessing-past-web-pages-effortlessly-the-ultimate-guide-to-using-the-wayback-machine/"><u>Accessing Past Web Pages Effortlessly: The Ultimate Guide to Using the Wayback Machine</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-right-samsung-m2070fw-drivers-simple-and-swift-solution/"><u>Download the Right Samsung M2070FW Drivers - Simple and Swift Solution</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-top-8-video-on-demand-services-to-watch/"><u>Explore the Top 8 Video On Demand Services to Watch</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-your-impact-on-facebook-with-these-simple-strategies/"><u>Maximize Your Impact on Facebook with These Simple Strategies</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rumors-surrounding-apples-newly-envisioned-personal-assistant-robot-expected-cost-and-market-availability/"><u>Rumors Surrounding Apple's Newly Envisioned Personal Assistant Robot: Expected Cost & Market Availability</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-7-best-online-voice-recorders-2023/"><u>[Updated] 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-stream-undoing-masterclass-twenty-one-tactics-to-learn-and-use/"><u>[Updated] Stream Undoing Masterclass Twenty-One Tactics to Learn and Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-guide-step-by-step-instructions-for-replacing-your-ipads-battery/"><u>DIY Guide: Step-by-Step Instructions for Replacing Your iPad's Battery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/icloud-gallery-on-demand-how-to-view-photos-across-different-devices-easily/"><u>ICloud Gallery on Demand: How to View Photos Across Different Devices Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-updates-on-apples-electric-vehicle-pricing-details-and-launch-timeline-revealed/"><u>Latest Updates on Apple's Electric Vehicle: Pricing Details & Launch Timeline Revealed!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premium-movavi-software-easy-video-editing-and-conversion/"><u>Premium Movavi Software - Easy Video Editing & Conversion</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-x8b-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor X8b</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-fixing-the-not-detected-ssleay32dll-problem-easily/"><u>Steps for Fixing the 'Not Detected: ssLeay32.dll' Problem Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technologies-you-cant-ignore/"><u>Top 3 Emerging Technologies You Can't Ignore</u></a></li>
 </ul></div>
 

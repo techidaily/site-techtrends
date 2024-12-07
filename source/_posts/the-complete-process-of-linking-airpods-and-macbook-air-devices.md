@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Linking AirPods and MacBook Air Devices
-date: 2024-11-21T17:24:28.176Z
-updated: 2024-11-28T16:15:15.008Z
+date: 2024-12-05T17:43:14.243Z
+updated: 2024-12-07T16:15:40.138Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Linking AirPods and MacBook Air Devices
@@ -15,10 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 >
 
 ## The Complete Process of Linking AirPods and MacBook Air Devices
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -41,6 +37,10 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![Bluetooth toggle from System Settings in macOS.](https://www.lifewire.com/thmb/xDyy0-wNQe-XeQ-GMd0y--hFjXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_connect-airpods-to-macbook-air-5188769-7b8ab0bf74af49d7a60326f58903a997.jpg)
 3. With both AirPods in the charging case, open the lid. Press the button on the AirPods case until the status light starts to blink.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The setup button on the AirPods case](https://www.lifewire.com/thmb/UluEXY72qkp63Gp8Wqrn11pixNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_connectairpods3-aa8835d06ca5488ea04a6597909f5872-72c6445e2b43481781ff26466cef507f.jpg)
 4. The AirPods will appear in the Bluetooth preferences window. Click**Connect** .  
 
@@ -48,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 5. In a moment, the AirPods will be connected to your MacBook Air and you'll be ready to listen to audio.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
@@ -64,7 +64,7 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 2. Click the**\+ (Plus)** sign, then select**Create Multi-Output Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Create Multi-Output Device option from the add menu in the Audio MIDI Setup app in macOS.](https://www.lifewire.com/thmb/MqndcghTr5gA9bPNn5_9SqqiyRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_connect-airpods-to-macbook-air-5188769-5664d35fbbc2464d80a4f714c5955221.jpg)
@@ -73,14 +73,14 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![AirPods selected and one set to Drift Correction in Audio MIDI Setup in macOS.](https://www.lifewire.com/thmb/OiH8Qk5hsmap5RKxp1rTMtNuzG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-connect-airpods-to-macbook-air-5188769-fba01d5c7c96478f9e3070fc2bdcfa7c.jpg)
 4. Go to the**Apple** menu >**System Settings** or**System Preferences** \>**Sound** \>**Output** \>**Multi-Output Device** . With that done, the MacBook Air's audio is sent to both sets of AirPods.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A Multi-Output Device selected from the Output tab in macOS Sound settings.](https://www.lifewire.com/thmb/WcwsnAzXRRb5xQABJalZ7xjF9eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-connect-airpods-to-macbook-air-5188769-40b916aaa66f4d22a180b33f9422adfc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Won't My AirPods Connect to My MacBook Air?
@@ -123,20 +123,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-insta-elite-blueprint-15-proven-tips-to-amass-thousands-of-followers-rapidly/"><u>[New] 2024 Approved The Insta Elite Blueprint 15 Proven Tips to Amass Thousands of Followers Rapidly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-foundations-of-fluid-graphics-a-primer-for-2024/"><u>[Updated] Foundations of Fluid Graphics A Primer for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-inside-out-the-explanation-for-youtubes-unlisted-media-for-2024/"><u>[Updated] Inside Out The Explanation for YouTube's Unlisted Media for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-apex-workplace-data-sphere/"><u>2024 Approved Apex Workplace Data Sphere</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disneyplus-july-lineup-our-top-picks-for-kids-favorite-animated-adventures-july-2024/"><u>Disney+ July Lineup: Our Top Picks for Kids' Favorite Animated Adventures (July #2024)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-ways-to-express-with-emoji-complete-iphone-companion-guide/"><u>Easy Ways to Express with Emoji: Complete iPhone Companion Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/experience-the-best-value-for-your-health-tracking-needs-with-xiaomi-mi-smart-band-a-comprehensive-review/"><u>Experience the Best Value for Your Health Tracking Needs with Xiaomi Mi Smart Band - A Comprehensive Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-keep-your-presentations-current-a-guide-to-powerpoint-updates/"><u>How to Keep Your Presentations Current: A Guide to PowerPoint Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-tech-trends-insights-and-reviews-by-toms-hardware-experts/"><u>Mastering Tech Trends: Insights and Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/maximize-audio-clarity-techniques-for-increasing-speaker-output-in-windows-11/"><u>Maximize Audio Clarity: Techniques for Increasing Speaker Output in Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-success-top-ideas-for-memorable-snaps-for-2024/"><u>Snapchat Success Top Ideas for Memorable Snaps for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-why-isnt-my-mac-application-starting/"><u>Troubleshooting Steps: Why Isn't My Mac Application Starting?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-custom-fonts-on-your-ios-device/"><u>Ultimate Guide: Installing Custom Fonts on Your iOS Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-potential-of-google-gemini-for-search-success/"><u>Unlocking the Potential of Google Gemini for Search Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-apple-watch-touch-screen-fails-to-respond/"><u>What to Do When Your Apple Watch Touch Screen Fails to Respond</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-simplified-approach-to-crafting-professional-time-lapse-videos-in-gopro-studio/"><u>[Updated] 2024 Approved Simplified Approach to Crafting Professional Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[Updated] Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722854522880-comctl32dll-unavailable-or-lost-heres-how-to-fix-it/"><u>Comctl32.dll Unavailable or Lost? Here's How to Fix It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722880693605-discover-what-sets-apart-apples-most-recent-ipad-release/"><u>Discover What Sets Apart Apple's Most Recent iPad Release.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-excellence-the-top-5-audiovisual-synthesis-machines/"><u>Exploring Excellence The Top 5 Audio/Visual Synthesis Machines</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-free-chatting-mastering-the-art-of-messenger-conversations/"><u>Facebook-Free Chatting: Mastering the Art of Messenger Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdisk-system-alert-driver-compatibility-issues-lead-to-memory-integrity-offline/"><u>FTDisk System Alert: Driver Compatibility Issues Lead to Memory Integrity Offline</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools/"><u>In 2024, Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-battery-life-how-to-disable-background-processes-on-android-phones/"><u>Maximizing Battery Life: How to Disable Background Processes on Android Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfect-super-bowl-party-set-up-hdtv-and-audiophile-tech-tips/"><u>Perfect Super Bowl Party Set-Up: HDTV & Audiophile Tech Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-phone-2023-anticipated-launch-details-pricing-insights-and-latest-tech-leaks/"><u>Pixel Phone 2023: Anticipated Launch Details, Pricing Insights & Latest Tech Leaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/slash-overblown-wmi-power-draw/"><u>Slash Overblown WMi Power Draw</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-list-best-7-camcorders-for-waterproof-use/"><u>The Ultimate List Best 7 Camcorders for Waterproof Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash the Full Potential of PS5 - A Comprehensive Guide to Reaching 120Fps Gaming
-date: 2024-09-01T18:39:32.904Z
-updated: 2024-09-02T18:39:32.904Z
+date: 2024-12-05T21:53:32.746Z
+updated: 2024-12-07T17:11:13.470Z
 categories:
   - BestProducts
 description: This Article Describes Unleash the Full Potential of PS5 - A Comprehensive Guide to Reaching 120Fps Gaming
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
 ---
 
 ## Unleash the Full Potential of PS5 - A Comprehensive Guide to Reaching 120Fps Gaming
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -31,14 +40,25 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,9 +69,6 @@ thumbnail: https://www.lifewire.com/thmb/g6eunERrX2Z0qk3SqB75G5E2H_Y=/540x405/fi
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +113,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-enhancing-zoom-with-a-chrome-os-device/"><u>[New] Enhancing Zoom with a Chrome OS Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screencapture-simplified-an-in-depth-camstudio-review/"><u>[New] ScreenCapture Simplified An In-Depth CamStudio Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-practical-path-to-powerful-text-generation-with-openai/"><u>A Practical Path to Powerful Text Generation with OpenAI</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-seo-and-analytics-through-cookiebot-integration/"><u>Boosting SEO and Analytics Through Cookiebot Integration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-understanding-winx-dvd-ripper-key-faqs-for-optimal-usage/"><u>Comprehensive Guide to Understanding WinX DVD Ripper - Key FAQs for Optimal Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fastest-dvd-to-hevc-conversion-with-nvidias-nvenc-and-cuda-technology/"><u>Fastest DVD-to-HEVC Conversion with NVIDIA's NVENC and CUDA Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-the-successor-of-windows-movie-maker-on-windows-11-platforms/"><u>Finding the Successor of Windows Movie Maker on Windows 11 Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-overcoming-a-new-world-connection-error/"><u>Step-by-Step Solutions for Overcoming a New World Connection Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-distinctions-in-videography-a-deep-dive-into-varied-video-formats-equipment-comparisons-and-related-topics/"><u>Unveiling Distinctions in Videography: A Deep-Dive Into Varied Video Formats, Equipment Comparisons, and Related Topics</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11win10s-unidentified-device-fix-guide/"><u>Win11/Win10's 'Unidentified Device' Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxdvd-perfektes-video-komprimieren-fur-eine-reibungslose-ubertragung-auf-whatsapp-ohne-einbussen-an-bildqualitat/"><u>WinXDVD: Perfektes Video-Komprimieren Für Eine Reibungslose Übertragung Auf WhatsApp, Ohne Einbußen an Bildqualität.</u></a></li>
+</ul></div>
 

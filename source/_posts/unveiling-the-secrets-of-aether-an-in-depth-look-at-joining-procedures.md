@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Aether: An In-Depth Look at Joining Procedures"
-date: 2024-11-27T16:41:31.190Z
-updated: 2024-11-28T17:21:24.929Z
+date: 2024-12-03T18:59:42.606Z
+updated: 2024-12-07T17:16:40.740Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Secrets of Aether: An In-Depth Look at Joining Procedures"
@@ -24,10 +24,6 @@ Close
 
 ![A screenshot of the Aether app on a Mac](https://www.lifewire.com/thmb/7w6CZUfKL5XADA7AEjQn1Ovy8-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aether-app-3f2bd81e290a4e17bd56810bbda6f362.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Aether is a discussion platform similar to[ Reddit](https://www.lifewire.com/how-to-use-reddit-5323291) and[ X](https://www.lifewire.com/what-exactly-is-twitter-2483331) (though more so Reddit), that uses peer-to-peer technology to avoid censorship and provide high levels of user control.
 
  The best way to understand how Aether is similar to, and different from Reddit and X, is to think of the platforms as houses.
@@ -41,7 +37,7 @@ Close
  Aether is intended for a much more technical audience. It's best for people who know what "globs" or stars are when it comes to allow-lists for domains, and who understand crypto and[ blockchain](https://www.lifewire.com/what-is-web3-5271876#toc-are-there-any-examples-of-web3-today) well enough to grasp the explanation of why Aether isn't based on the blockchain.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Aether Pro
@@ -49,7 +45,7 @@ Close
  The company touts Aether Pro, "a private, team-based version of Aether as a collaboration tool, like Slack." This version of the platform offers live chat rooms, structured discussion threads, email newsletters, and more. However, nothing on the site indicates what it costs or how to sign up for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Many People Use Aether?
@@ -62,6 +58,10 @@ Close
 
  Aether does not use blockchain. For the technical reader, Aether provides[ a long, very detailed explanation of the technology used to create and operate](https://getaether.net/docs/faq/aether%5Fcryptography/) the platform.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Do I Join Aether?
 
  Joining Aether is easy: Just[ download the peer-to-peer desktop app](https://getaether.net) (it's available for Windows, Mac, and Linux).
@@ -70,21 +70,17 @@ Close
 
  The app offers Popular and New posts, somewhat like Reddit. You can also browse or search for subs, which are smaller communities for a specific topic or interest.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Are There Costs for Aether?
 
  Aether is a free service. It doesn't even have ads.
 
  While the app and website both mention that users can support the platform via[ Patreon](https://www.patreon.com) , those links are broken and a search at Patreon doesn't return anything relevant.
 
-##  How Does Aether Compare to Reddit and X?
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  How Does Aether Compare to Reddit and X?
 
 ###  Aether vs. Reddit and X
 
@@ -107,6 +103,10 @@ Close
 * Centralized: The companies maintain control over content, operations, and infrastructure
 * Algorithmic delivery of content (on X)
 * Unique usernames
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,22 +146,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-10-groundbreaking-examples-of-the-metaverse-unpacked-for-2024/"><u>[Updated] 10 Groundbreaking Examples of the Metaverse Unpacked for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>[Updated] Innovation in Your Hands The Sonic Experience of Xperia XZ</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/iuoajoodkeocveocsplusodspluswjsuwntoa6luwcmeockuwujos6huoblplusocioobhjog5yid5pyf5yyw44go6yen6kab44oh44o844k44gu5a6j5ywo44gq44kv44oq44ki5pa55rov44cnig/"><u>「パソコン売却準備を完了しよう: 初期化と重要データの安全なクリア方法」</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/comment-recuperer-votre-contenu-video-a-partir-dun-support-memoire-ecrit-avec-erreur/"><u>Comment Recuperer Votre Contenu Vidéo À Partir D'un Support Mémoire Écrit Avec Erreur</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-comprehensive-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-correcting-visual-aberrations-and-colour-defects-in-pc-screens/"><u>Expert Tips for Correcting Visual Aberrations and Colour Defects in PC Screens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-pixel-tablet-news-update-detailed-look-at-its-expected-launch-and-impressive-tech-specs/"><u>Google Pixel Tablet News Update: Detailed Look at Its Expected Launch and Impressive Tech Specs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-drain-by-msmpengexe-on-your-windows-10-system-full-guide/"><u>How to Fix Excessive CPU Drain by MsMpEng.exe on Your Windows 10 System [FULL GUIDE]</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-double-trouble-replaying-youtube-videos-on-your-set/"><u>In 2024, Double Trouble Replaying YouTube Videos on Your Set</u></a></li>
-<li><a href="https://extra-information.techidaily.com/integrating-harmonious-sounds-into-your-canva-videos/"><u>Integrating Harmonious Sounds Into Your Canva Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/introducing-meta-quest-3-latest-updates-on-news-pricing-launch-timeline-and-detailed-specifications/"><u>Introducing Meta Quest 3 - Latest Updates on News, Pricing, Launch Timeline & Detailed Specifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-weather-icons-styling-windows-11s-system-tray/"><u>Mastering Weather Icons: Styling Windows 11'S System Tray</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-troubleshooting-common-errors-on-apple-tv-streaming-from-ios-devices/"><u>Step-by-Step Tutorial: Troubleshooting Common Errors on Apple TV Streaming From iOS Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-15-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixes-for-non-syncing-gmail-issues/"><u>Troubleshooting Guide: Fixes for Non-Syncing Gmail Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unplugged-no-more-a-step-by-step-to-reconnect-your-vizio-to-wi-fi/"><u>Unplugged No More: A Step-by-Step to Reconnect Your Vizio to Wi-Fi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-foldable-iphone-latest-leaks-on-pricing-launch-date-and-features/"><u>Upcoming Foldable iPhone - Latest Leaks on Pricing, Launch Date & Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-integrating-youtube-autoplay-smoothly-into-your-facebook-experience/"><u>2024 Approved Integrating Youtube Autoplay Smoothly Into Your Facebook Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-latest-update-can-workout-sync-make-your-garmin-device-redundant-digital-gadget-review/"><u>Apple's Latest Update: Can Workout Sync Make Your Garmin Device Redundant? | Digital Gadget Review</u></a></li>
+<li><a href="https://win-lab.techidaily.com/clearing-your-browsers-of-unwanted-redirection-the-3-stage-process-to-defeat-the-virus/"><u>Clearing Your Browsers of Unwanted Redirection: The 3-Stage Process to Defeat the Virus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decode-the-future-of-smartwear-unlock-insider-rumors-on-apple-ring-cost-debut-date-and-tech-specs-so-far/"><u>Decode the Future of Smartwear: Unlock Insider Rumors on Apple Ring Cost, Debut Date, & Tech Specs So Far!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-track/"><u>Download and Update AMD SMBus Drivers - Fast Track</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-listening-experience-with-these-7-fantastic-free-music-players-on-mobile-platforms/"><u>Elevate Your Listening Experience with These 7 Fantastic Free Music Players on Mobile Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-last-chance-tv-bargains-on-prime-day-curated-selection-for-seniors-aged-65plus/"><u>Exclusive: Last-Chance TV Bargains on Prime Day - Curated Selection for Seniors Aged 65+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-tuning-into-hulu-through-your-lg-smart-entertainment-system/"><u>Expert Advice: Tuning Into Hulu Through Your LG Smart Entertainment System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-patch-tuesday-enhance-it-security-for-organizations-worldwide/"><u>How Does Patch Tuesday Enhance IT Security for Organizations Worldwide?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-access-a-library-of-e-books-for-ios-users-through-the-seamless-use-of-the-books-app/"><u>How to Access a Library of E-Books for iOS Users Through the Seamless Use of the Books App</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-x50-gt-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor X50 GT online without jailbreak</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/kickstart-creative-video-editing-with-xp-edition-for-2024/"><u>Kickstart Creative Video Editing with Xp Edition for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-how-to-clean-up-and-remove-apps-on-samsung-smarttvs/"><u>The Ultimate Tutorial: How to Clean Up and Remove Apps on Samsung SmartTVs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-jscriptdll-error-on-your-pc-what-to-do/"><u>Troubleshooting the ‘JScript.dll’ Error on Your PC – What to Do?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-elusive-missing-haldll-errors-in-windows-xp-systems/"><u>Troubleshooting the Elusive Missing hal.dll Errors in Windows XP Systems</u></a></li>
 </ul></div>
 

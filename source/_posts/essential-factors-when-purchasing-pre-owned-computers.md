@@ -1,7 +1,7 @@
 ---
 title: Essential Factors When Purchasing Pre-Owned Computers
-date: 2024-09-01T18:43:09.983Z
-updated: 2024-09-02T18:43:09.983Z
+date: 2024-12-06T19:13:55.698Z
+updated: 2024-12-07T17:01:33.839Z
 categories:
   - BestProducts
 description: This Article Describes Essential Factors When Purchasing Pre-Owned Computers
@@ -11,6 +11,10 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 
 ## Deciding Between Building or Purchasing Your Own Computer – Find the Best Choice for You
  It's easy enough to pick out a new computer to buy. The other option is to gather[all the necessary components](https://www.lifewire.com/desktop-pc-parts-checklist-832694) and build the PC yourself. We looked at the pros and cons of both to help you decide whether to build a computer or buy one off the shelf.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overall Findings
 
@@ -35,6 +39,10 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -51,8 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -71,6 +80,10 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Building a PC: Pros and Cons
 
  Advantages
@@ -86,9 +99,6 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -101,9 +111,6 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -115,23 +122,17 @@ thumbnail: https://www.lifewire.com/thmb/oN9psn74Dso2Im8TZabj1guSp5M=/540x405/fi
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Julie Bang
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## How to Build a Computer
 
  If you're interested in building a desktop computer from parts, take the next steps.
@@ -166,8 +167,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +174,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-mastering-live-stream-entry-tiktok-edition/"><u>[New] 2024 Approved Mastering Live-Stream Entry TikTok Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-executing-the-last-goodbye-to-your-instagram-account-for-2024/"><u>[New] Executing the Last Goodbye to Your Instagram Account for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-how-to-delete-a-tiktok-account-permanently/"><u>[Updated] In 2024, How to Delete a TikTok Account Permanently?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-proven-strategies-for-device-screening/"><u>[Updated] Proven Strategies for Device Screening</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-guide-to-labor-day-2024s-greatest-tv-specials-and-savings-on-zdnet/"><u>Discover the Ultimate Guide to Labor Day 2024'S Greatest TV Specials and Savings on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elite-selection-expertly-reviewed-ceiling-speakers-for-the-year-2e4/"><u>Elite Selection: Expertly Reviewed Ceiling Speakers for the Year 2E4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/epicurean-escapades-exploring-netflixs-finest-gastronomic-tv-offerings/"><u>Epicurean Escapades: Exploring Netflix's Finest Gastronomic TV Offerings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-tips-for-extracting-vimeo-content-as-high-quality-mp4s/"><u>Essential Tips for Extracting Vimeo Content as High-Quality MP4s</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-overcome-comctl32dll-file-not-detected-issues-expert-advice/"><u>How To Successfully Overcome comctl32.dll File Not Detected Issues - Expert Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience/"><u>In 2024, Unveiling the Power of Zoom in Enhancing Your YouTube Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-live-view-a-comprehensive-guide-to-using-real-time-location-in-google-maps/"><u>Mastering Live View: A Comprehensive Guide to Using Real-Time Location in Google Maps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-interaction-with-discord-bots-a-comprehensive-walkthrough/"><u>Maximizing Interaction with Discord Bots: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-what-to-do-when-your-system-reports-propsysdll-file-is-missing/"><u>Solving the Dilemma: What to Do when Your System Reports PropSys.dll File Is Missing?</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-your-virtual-self-in-the-facebook-world/"><u>Tailoring Your Virtual Self in the Facebook World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-18-quick-hacks-using-the-ios-shortcuts-app/"><u>Top 18 Quick Hacks Using the iOS Shortcuts App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-to-smooth-imports-in-windows-10-os-for-2024/"><u>Unlocking the Secrets to Smooth Imports in Windows 10 OS for 2024</u></a></li>
+</ul></div>
 

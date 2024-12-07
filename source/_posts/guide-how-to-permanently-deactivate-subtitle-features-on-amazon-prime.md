@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Permanently Deactivate Subtitle Features On Amazon Prime"
-date: 2024-09-01T18:38:14.960Z
-updated: 2024-09-02T18:38:14.960Z
+date: 2024-12-01T19:39:45.933Z
+updated: 2024-12-07T16:28:17.586Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: How To Permanently Deactivate Subtitle Features On Amazon Prime"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ---
 
 ## The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 * If subtitles don’t stay off permanently (although they should), logging out of the Amazon site or reinstalling the app usually helps.
 
  This article explains how to turn off subtitles on Amazon Prime Video, including how to disable subtitles and closed captions on Amazon Prime Video on the website and app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Turn Off Subtitles on Amazon Prime?
 
@@ -31,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -42,30 +52,23 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -110,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +120,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-stellar-streamers-summit-global-subscriber-counts-showcased/"><u>[New] 2024 Approved Stellar Streamers' Summit Global Subscriber Counts Showcased</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unmask-phony-followers-a-speedy-cost-free-approach-for-instagram/"><u>[New] 2024 Approved Unmask Phony Followers A Speedy, Cost-Free Approach for Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-aggregating-users-experiences-with-vllo/"><u>[Updated] 2024 Approved Aggregating Users' Experiences with VLLO</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>[Updated] The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-to-use-itop-recorder-a-compelling-case/"><u>2024 Approved To Use ITop Recorder A Compelling Case?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-when-you-cant-find-rpcrt4dll-in-windows/"><u>Comprehensive Solutions for When You Can't Find rpcrt4.dll in Windows</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/driven-with-advanced-cookie-tracking-discover-the-power-of-cookiebot/"><u>Driven with Advanced Cookie Tracking: Discover the Power of Cookiebot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-website-tracking-a-simple-way-to-turn-on-cookies/"><u>Enabling Website Tracking: A Simple Way to Turn On Cookies</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhanced-site-performance-with-cookiebot-technology/"><u>Enhanced Site Performance with Cookiebot Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-wont-start-fix-your-problems-and-play-as-the-worlds-deadliest-agent/"><u>Hitman 3 Won't Start? Fix Your Problems and Play as the World's Deadliest Agent</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-libgdk-win32-20-missing-dll-file-problems/"><u>How to Address libGDK-Win32-2.0-Missing .dll File Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-intermittent-access-is-it-a-widespread-nintendo-switch-online-downtime/"><u>Navigating Intermittent Access - Is It a Widespread Nintendo Switch Online Downtime?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fix-the-missing-dnscachedll-in-your-system/"><u>Step-by-Step Guide to Fix the Missing dnscache.dll in Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-enhancing-engagement-with-gifs-on-instagram-comments/"><u>The Ultimate Guide to Enhancing Engagement with GIFs on Instagram Comments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unmasking-false-acquaintance-links-on-the-web-a-step-by-step-approach/"><u>Unmasking False Acquaintance Links on the Web: A Step-by-Step Approach</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-10-enthusiasts-rejoice-learn-how-to-modify-taskbar-shades-for-a-fresh-new-look/"><u>Windows 10 Enthusiasts Rejoice! Learn How to Modify Taskbar Shades for a Fresh New Look</u></a></li>
+</ul></div>
 

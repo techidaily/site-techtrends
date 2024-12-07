@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-11-24T16:35:12.032Z
-updated: 2024-11-28T17:56:34.208Z
+date: 2024-12-02T20:05:28.094Z
+updated: 2024-12-07T18:57:56.975Z
 tags:
   - apple
 categories:
@@ -29,16 +29,24 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -49,7 +57,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +67,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,10 +75,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harmonyheed-evaluating-audio-artifacts/"><u>[New] In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1724765812017-dvd/"><u>日本語 DVDスリックダウンロード方法: セキュリティが低下するのを防ぐ</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-ios-enhancement-rolled-out-by-macxdvd-for-latest-iphone-7-and-iphone-7-plus-devices/"><u>Comprehensive iOS Enhancement Rolled Out by MacXDVD for Latest iPhone 7 and iPhone 7 Plus Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd-movies-to-pc-conversion-made-easy-a-comprehensive-tutorial-on-using-vlc-with-screenshots-compatible-with-both-mac-and-windows-systems/"><u>DVD Movies to PC Conversion Made Easy: A Comprehensive Tutorial on Using VLC with Screenshots, Compatible With Both Mac and Windows Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-wi-fi-connectivity-in-your-iphone-following-the-ios-abstraction-understanding-and-resolving-common-problems/"><u>How to Restore Wi-Fi Connectivity in Your iPhone Following the iOS Abstraction - Understanding and Resolving Common Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-set-up-facial-recognition-face-id-for-enhanced-security-on-iphone-x/"><u>How to Successfully Set Up Facial Recognition (Face ID) for Enhanced Security on iPhone X</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-how-to-screen-record-on-hp-laptop/"><u>In 2024, How to Screen Record on Hp Laptop</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-interactive-virtual-warehouse-exploration/"><u>In 2024, Interactive Virtual Warehouse Exploration</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcasts-versus-video-based-platforms-who-wins/"><u>In 2024, Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-soundscapes-enhancing-photography-online/"><u>In 2024, Soundscapes Enhancing Photography Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-hardware-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall your hardware drivers with Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamlessly-transfer-your-dvds-mac-to-android-conversion-guide/"><u>Seamlessly Transfer Your DVDs: Mac to Android Conversion Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-moving-your-dvd-collection-to-a-streamlined-media-server/"><u>Step-by-Step Guide: Moving Your DVD Collection to a Streamlined Media Server</u></a></li>
-<li><a href="https://techtrends.techidaily.com/strategie-per-duplicare-i-dvd-codificati-sulla-tua-macchina-apple/"><u>Strategie per Duplicare I DVD Codificati Sulla Tua Macchina Apple</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/strategies-for-maximizing-your-twitter-archive-for-2024/"><u>Strategies for Maximizing Your Twitter Archive for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-freemake-video-converter-on-macos/"><u>Ultimate Guide: Installing Freemake Video Converter on macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wake-up-dormant-headsets-overcoming-no-sound-hurdles/"><u>Wake Up Dormant Headsets: Overcoming No Sound Hurdles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-picks-best-hd-cameras-for-professional-twitch-streamers/"><u>[New] 2024 Approved Top Picks Best HD Cameras for Professional Twitch Streamers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-master-the-art-of-tiktok-video-making-with-ease-and-flair/"><u>[Updated] In 2024, Master the Art of TikTok Video Making with Ease & Flair</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers-for-2024/"><u>[Updated] Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-art-of-searching-people-on-facebook-6-user-friendly-techniques/"><u>Discover the Art of Searching People on Facebook - 6 User-Friendly Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-for-adding-fandango-to-your-amazon-firestick-library/"><u>Easy Instructions for Adding Fandango to Your Amazon Firestick Library</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-script-crafting-basics/"><u>In 2024, Script Crafting Basics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-apples-operating-systems-a-detailed-guide-to-all-macos-releases/"><u>Navigating Apple's Operating Systems: A Detailed Guide to All macOS Releases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-cars-find-the-best-five-no-cost-utilities/"><u>Optimize Windows Cars: Find the Best Five No-Cost Utilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-bandwidth-strategies-for-optimizing-internet-speed-at-home-or-work/"><u>Revamp Your Bandwidth: Strategies for Optimizing Internet Speed at Home or Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-fixing-the-to-do-syncheroom-dilemma/"><u>Swiftly Fixing the To Do Syncheroom Dilemma</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-manual-for-restarting-malfunctioning-devices-with-error-code-10/"><u>The Ultimate Troubleshooting Manual for Restarting Malfunctioning Devices with Error Code 10</u></a></li>
 </ul></div>
 

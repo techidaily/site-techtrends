@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's New Range: Enhanced 13-Inch and 15-Inch MacBook Air with M3 Chip Launch | Insightful Review & Specs Update From ZDNET"
-date: 2024-11-23T16:55:21.734Z
-updated: 2024-11-28T16:42:59.335Z
+date: 2024-12-01T20:28:48.527Z
+updated: 2024-12-07T21:44:43.173Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ It's a challenge that Apple seems to have relished, as the new [16-inch MacBook 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design & features
@@ -88,7 +88,7 @@ Connectors on the 2021 16-inch MacBook Pro: MagSafe 3, 2x USB-C/Thunderbolt 4, 3
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Price & options
@@ -100,7 +100,7 @@ The next step up simply doubles the storage to 1TB for an additional $200/£200,
 Additional upgrade options allow you to increase the memory to 64GB for a hefty $400/£400, and add up to 8TB of SSD storage (+$2,200/£2,200), for a top price of $6,099 (£5,899 inc. VAT). To be fair, that's not out of line with similar high-end mobile workstations, such as Dell's [Precision 5750](https://www.zdnet.com/article/best-laptop-for-graphic-design/), but it does mean that a maxed-out MacBook Pro really needs to earn its keep. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -124,7 +124,7 @@ There's battery life to consider too, of course, and this is increasingly starti
 [Apple 16-inch MacBook Pro $3,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch-space-gray-10-core-cpu-32-core-gpu-1tb%23&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -172,16 +172,18 @@ The new 16-inch MacBook Pro is expensive, but the top-end M1 Max chip proves tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-logitechs-high-end-webcam-an-all-inclusive-review/"><u>[Updated] In 2024, Logitech’s High-End Webcam An All-Inclusive Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-tp-link-re2nac750-wi-fi-booster-assessment-quality-meets-cost/"><u>Affordable TP-Link RE2nAC750 Wi-Fi Booster Assessment: Quality Meets Cost</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/chucklechamber-laughter-in-a-click-for-2024/"><u>ChuckleChamber - Laughter in a Click for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-keep-your-mac-computer-awake-and-active-longer/"><u>Easy Steps to Keep Your Mac Computer Awake and Active Longer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-transferring-your-favorite-audiobooks-from-audible-to-windows-or-mac/"><u>Guide: Transferring Your Favorite Audiobooks From Audible to Windows or Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-asmr-excellence-superior-performance-for-less-money/"><u>In 2024, ASMR Excellence Superior Performance for Less Money</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-there-a-current-downtime-for-aol-email-or-are-connection-troubles-personal/"><u>Is There a Current Downtime for AOL Email, or Are Connection Troubles Personal?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/revamp-your-inventory-mastering-the-edit-product-sku-interface/"><u>Revamp Your Inventory: Mastering the Edit Product SKU Interface</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722883984961-sim-insertion-hacks-for-iphones-no-tools-needed/"><u>SIM Insertion Hacks for iPhones: No Tools Needed!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-fixes-for-missing-binkw32dll-files-in-windows-systems/"><u>Ultimate Fixes for Missing Binkw32.dll Files in Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-better-streams-top-five-must-use-platforms-for-twitch-broadcasters/"><u>Unlocking Better Streams: Top Five Must-Use Platforms for Twitch Broadcasters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[New] In 2024, Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-blueprint-for-successful-discord-live-streams/"><u>[New] In 2024, The Ultimate Blueprint for Successful Discord Live Streams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-evaluating-the-effectiveness-of-shake-reduction-in-adobe-photos/"><u>[Updated] 2024 Approved Evaluating the Effectiveness of 'Shake' Reduction in Adobe Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionary-tools-elevating-vr-games/"><u>[Updated] Revolutionary Tools Elevating VR Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-your-fire-stick-to-a-smartphone-hotspot-step-by-step-instructions/"><u>Connecting Your Fire Stick to a Smartphone Hotspot – Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-phasmophobias-crash-bugs-top-solutions-for-gaming-enthusiasts/"><u>Defeating Phasmophobia's Crash Bugs - Top Solutions for Gaming Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-preparations-for-returning-students-7-complimentary-learning-apps-to-try/"><u>Essential Preparations for Returning Students: 7 Complimentary Learning Apps to Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-compel-windows-to-reboot-directly-into-safe-mode-a-detailed-guide/"><u>How to Compel Windows to Reboot Directly Into Safe Mode: A Detailed Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pick-the-ideal-selfie-extender-a-comprehensive-guide-with-6-insider-secrets/"><u>How To Pick The Ideal Selfie Extender - A Comprehensive Guide With 6 Insider Secrets</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lightning-mode-what-is-it-and-how-can-you-utilize-its-features/"><u>Lightning Mode: What Is It and How Can You Utilize Its Features?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-tiktok-experience-a-comprehensive-troubleshooting-manual/"><u>Revive Your TikTok Experience: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergy-of-social-networks-uniting-facebook-linkedin-and-youtube/"><u>Synergy of Social Networks: Uniting Facebook, LinkedIn and YouTube</u></a></li>
 </ul></div>
 

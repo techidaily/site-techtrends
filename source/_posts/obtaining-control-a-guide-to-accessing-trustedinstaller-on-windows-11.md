@@ -1,7 +1,7 @@
 ---
 title: "Obtaining Control: A Guide to Accessing TrustedInstaller on Windows 11"
-date: 2024-09-01T18:37:30.587Z
-updated: 2024-09-02T18:37:30.587Z
+date: 2024-11-30T23:01:22.118Z
+updated: 2024-12-07T19:31:05.475Z
 categories:
   - BestProducts
 description: "This Article Describes Obtaining Control: A Guide to Accessing TrustedInstaller on Windows 11"
@@ -28,20 +28,25 @@ thumbnail: https://thmb.techidaily.com/eb4342f3aa6f1684d24f86318d0e954640b0c7c9a
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## New Emoji Are Announced Regularly
 
@@ -51,9 +56,6 @@ The plural of emoji is emoji, not emojis.
 
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -63,8 +65,9 @@ The plural of emoji is emoji, not emojis.
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -72,21 +75,22 @@ The plural of emoji is emoji, not emojis.
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Emoji Are Supported Just About Everywhere
 
@@ -96,9 +100,6 @@ The plural of emoji is emoji, not emojis.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Emoji Trivia
 
  It shouldn't be a surprise that the skull emoji is most used in October and the Christmas tree in December, but no one knows why the 100 emoji is so popular in November.
@@ -136,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +144,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>[New] Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-bandicam-demystified-a-clearer-understanding-of-2023-functionality/"><u>[New] In 2024, Bandicam Demystified A Clearer Understanding of 2023 Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-instructions-for-picking-background-scores-for-vlogs/"><u>[New] Step-by-Step Instructions for Picking Background Scores for Vlogs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-places-for-discovering-premium-soundtracks-from-instagram-and-designing-exceptional-ringtone-alerts/"><u>[New] Top Places for Discovering Premium Soundtracks From Instagram & Designing Exceptional Ringtone Alerts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-pc-guide-extract-twitters-funny-images/"><u>2024 Approved PC Guide Extract Twitter's Funny Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-asus-proart-a-high-end-display/"><u>2024 Approved The Ultimate Guide to ASUS ProArt A High-End Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoiding-non-educational-content-how-to-restrict-youtube-app-on-ipad/"><u>Avoiding Non-Educational Content: How to Restrict YouTube App on iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-unlocking-the-secrets-of-pages-file-edition-on-pc/"><u>Comprehensive Guide to Unlocking the Secrets of PageS File Edition on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tips-for-launching-cmd-from-your-current-directory-on-windows/"><u>Easy Tips for Launching CMD From Your Current Directory on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-open-source-dns-options-for-enhanced-privacy-and-security/"><u>Exploring Open Source DNS Options for Enhanced Privacy & Security</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-smooth-and-user-friendly-world-of-amazon-luna-gaming-streams/"><u>Exploring the Smooth and User-Friendly World of Amazon Luna Gaming Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-10-independent-android-games-for-non-networked-natives/"><u>In 2024, Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-challenges-with-usb-portable-hotspot-connectivity/"><u>Overcoming Challenges with USB Portable Hotspot Connectivity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-openal32dll-file-not-found-a-step-by-step-guide/"><u>Resolving 'OpenAL32.dll' File Not Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-usb-20-speeds-wires-plugs-and-key-features/"><u>The Comprehensive Guide to USB 2.0: Speeds, Wires, Plugs, and Key Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-your-remote-workspace-with-the-perfect-indoor-greens-the-ultimate-selection-for-home-offices-gadgetflow/"><u>Transforming Your Remote Workspace with the Perfect Indoor Greens: The Ultimate Selection for Home Offices | GadgetFlow</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-sound-issues-with-your-xbox-series-xs-gaming-headset/"><u>Troubleshooting Tips: Solving Sound Issues with Your Xbox Series X/S Gaming Headset</u></a></li>
+</ul></div>
 

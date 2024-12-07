@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Protective Covers for Apple's Latest iPhones: A Comprehensive Guide (iPhone 12 & 12 Pro) - Expert Reviews"
-date: 2024-11-23T17:44:29.232Z
-updated: 2024-11-28T17:05:21.842Z
+date: 2024-12-03T22:35:35.023Z
+updated: 2024-12-07T22:22:21.670Z
 tags:
   - apple
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -48,7 +44,15 @@ Pros
 Cons 
 * Slightly pricey
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pela case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 12 case overall
 
@@ -70,7 +74,15 @@ Pros
 Cons 
 * Pricier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Silicone Case with MagSafe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best MagSafe iPhone 12 case
 
@@ -97,10 +109,14 @@ Cons
 * Clear design may yellow
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bodyguardz Ace Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
 
@@ -150,10 +166,6 @@ Cons
 
 ## ESR Air Armor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best clear iPhone 12 case
 
 Finally, a clear case that doesn't yellow with time! The ESR Air Armor is available in crystal clear for only $14, while other colors like black, blue, and frosted frame, are under $17\. 
@@ -177,6 +189,10 @@ Pros
 
 Cons 
 * Price varies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Incipio Organicore
 
@@ -204,7 +220,7 @@ Cons
 ## Nomad Rugged case
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
@@ -231,15 +247,7 @@ Cons
 * Fingerprints may show up easily
 * Colors may not be vibrant against a darker color phone
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Speck Presidio Edition
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best iPhone 12 case for drop protection
 
@@ -268,10 +276,6 @@ Cons
 
 ## Totallee case
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best slim iPhone 12 case
 
 Totallee phone cases are super thin, adding only 0.03 inches to the thickness of your iPhone. The ultra-slim design is ideal for those who want everyday protection from scratches and bumps without compromising the slimness of the phone. 
@@ -297,7 +301,7 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Totallee case                    | $19       | Unspecified         |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone case is right for you?
@@ -315,10 +319,6 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Nomad Rugged case                 | The best leather case that ages well over time                                        |
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should I look for in an iPhone case?
 
@@ -389,20 +389,24 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converting-your-gotomeeting-videos-a-step-by-step-guide-using-the-g2m4-codec-and-transforming-them-into-mp4-format/"><u>Converting Your GoToMeeting Videos: A Step-by-Step Guide Using the G2M4 Codec and Transforming Them Into MP4 Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discounted-purchase-of-macx-dvd-ripper-pro-on-the-web/"><u>Discounted Purchase of MacX DVD Ripper Pro on the Web</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-transferring-your-dvd-collection-from-disc-to-pc-on-windows-or-mac/"><u>Easy Steps: Transferring Your DVD Collection From Disc to PC on Windows or Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/epic-hollywood-action-flicks-list-best-picks-for-free-viewing-and-download/"><u>Epic Hollywood Action Flicks List: Best Picks for Free Viewing and Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establish-connection-7-steps-to-solve-windows-usb-wi-fi-adapter-problem/"><u>Re-Establish Connection: 7 Steps to Solve Windows' USB Wi-Fi Adapter Problem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/schnelles-und-kostenloses-verfahren-fur-den-download-von-youtube-inhalten-unter-macos-eine-einfache-anleitung/"><u>Schnelles Und Kostenloses Verfahren Für Den Download Von YouTube-Inhalten Unter macOS: Eine Einfache Anleitung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-strategies-for-bose-speaker-failure-problems/"><u>Solution Strategies for Bose Speaker Failure Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-icloud-sync-issues-top-7-fixes-for-non-syncing-iphone-pictures/"><u>Solve Your iCloud Sync Issues: Top 7 Fixes for Non-Syncing iPhone Pictures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-the-entire-dragon-ball-series-sequentially/"><u>Step-by-Step Guide: Viewing the Entire Dragon Ball Series Sequentially</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-instant-conversion-of-3d-footage-into-classic-2d-format-with-a-simple-click/"><u>Step-by-Step Tutorial: Instant Conversion of 3D Footage Into Classic 2D Format with a Simple Click!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-onikuma-headset-mic-solutions-for-common-issues/"><u>Troubleshooting Your Onikuma Headset Mic – Solutions for Common Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-shrinking-m4v-file-size-using-top-ranking-compression-tools/"><u>Ultimate Guide: Shrinking M4V File Size Using Top-Ranking Compression Tools</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-defender-vs-windows-security-app-on-windows-nt-whats-the-distinction-insights-from-yl-software-experts/"><u>Windows Defender Vs. Windows Security App on Windows nT: What's the Distinction? Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[New] In 2024, Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-crafting-seamless-virtual-gatherings-with-google-meet/"><u>[New] In 2024, Crafting Seamless Virtual Gatherings with Google Meet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-web-exploration-with-microsofts-split-screen-functionality/"><u>[Updated] In 2024, Transform Your Web Exploration with Microsoft's Split Screen Functionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-overview-of-whatsapp-voice-calls/"><u>2024 Approved Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-your-video-impact-20-essential-thumbnail-fonts/"><u>2024 Approved Elevate Your Video Impact 20 Essential Thumbnail Fonts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-to-correct-the-xinput1n-not-found-error-on-windows/"><u>Essential Steps to Correct the 'Xinput1_n Not Found' Error on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-best-iphone-selfie-boosters-all-free-and-upgraded-for-2024/"><u>Explore Best iPhone Selfie Boosters - All Free and Upgraded for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722902836490-fire-stick-remote-not-working-here-are-the-quick-fixes-you-need/"><u>Fire Stick Remote Not Working? Here Are the Quick Fixes You Need</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-mic-issues-solutions-when-your-microphone-fails-in-windows-11/"><u>Fixing Mic Issues: Solutions When Your Microphone Fails in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-overcoming-the-developer-cannot-be-verified-error-in-macos/"><u>Guide: Overcoming the 'Developer Cannot Be Verified' Error in macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-a-high-quality-selfie-monopod-top-6-tips-revealed/"><u>How to Choose a High-Quality Selfie Monopod - Top 6 Tips Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-the-high-performance-12mp-docooler-usb-20-webcam-surpassing-industry-standards/"><u>In-Depth Review of the High-Performance 12MP Docooler USB 2.0 Webcam: Surpassing Industry Standards</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y36frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y36FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722899360355-perfect-x-men-movie-marathon-order-revealed/"><u>Perfect X-Men Movie Marathon Order Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-gamers-guide-to-superior-webcam-gameplay-capturing/"><u>Pro Gamer's Guide to Superior WebCam Gameplay Capturing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-tips-on-improving-the-sound-of-calls-on-your-iphone-device/"><u>Quick Tips on Improving the Sound of Calls on Your iPhone Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-creating-a-playstation-network-profile/"><u>The Complete Walkthrough on Creating a PlayStation Network Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-with-iphone-focusing-heres-what-you-can-do-about-it/"><u>Trouble with iPhone Focusing? Here's What You Can Do About It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-effective-iphone-shortcut-tips-and-tricks/"><u>Ultimate Guide: Effective iPhone Shortcut Tips & Tricks</u></a></li>
 </ul></div>
 

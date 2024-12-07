@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Launching CMD in Windows 11, 10, 8 & 7
-date: 2024-09-01T18:45:23.268Z
-updated: 2024-09-02T18:45:23.268Z
+date: 2024-12-05T22:18:37.987Z
+updated: 2024-12-07T22:45:38.001Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Tutorial for Launching CMD in Windows 11, 10, 8 & 7
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
@@ -28,11 +32,19 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -54,8 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -66,8 +79,9 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -105,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +126,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-covert-content-creation-how-to-invisibly-alter-videos-for-2024/"><u>[Updated] Covert Content Creation How to Invisibly Alter Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-craft-your-online-identity-with-customized-youtube-urls-for-2024/"><u>[Updated] Craft Your Online Identity with Customized YouTube URLs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-demystifying-instagrams-guidelines-for-sharing-songs-for-2024/"><u>[Updated] Demystifying Instagram’s Guidelines for Sharing Songs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-troubleshoot-your-instagram-live-solutions-await/"><u>2024 Approved Troubleshoot Your Instagram Live Solutions Await</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatible-alternatives-for-reading-mac-pages-documents-on-pc/"><u>Compatible Alternatives for Reading Mac Pages Documents on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-correcting-the-critical-kernel-paging-problem/"><u>Guide to Correcting the Critical Kernel Paging Problem</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-your-pc-controls-troubleshooting-and-downloading-the-perfect-mouse-driver-for-windows-7/"><u>Master Your PC Controls: Troubleshooting and Downloading the Perfect Mouse Driver for Windows 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-tweets-how-to-effectively-use-retweets-and-re-tweets-on-twitter/"><u>Mastering Your Tweets: How to Effectively Use Retweets & Re-Tweets on Twitter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimizing-apple-mobile-photography-a-step-by-step-guide/"><u>Optimizing Apple Mobile Photography: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-dvd/"><u>PC用 DVD動画抽出手順ガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-resolving-amazon-prime-captions-issues/"><u>Step-by-Step Solutions for Resolving Amazon Prime Captions Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-secret-to-unlocking-past-instagram-reels-youve-archived/"><u>The Secret to Unlocking Past Instagram Reels You've Archived</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-redmi-k70e-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi Redmi K70E</u></a></li>
+</ul></div>
 

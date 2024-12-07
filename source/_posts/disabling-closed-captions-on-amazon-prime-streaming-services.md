@@ -1,7 +1,7 @@
 ---
 title: Disabling Closed Captions on Amazon Prime Streaming Services
-date: 2024-09-01T18:40:55.917Z
-updated: 2024-09-02T18:40:55.917Z
+date: 2024-12-04T17:12:20.879Z
+updated: 2024-12-07T17:48:03.671Z
 categories:
   - BestProducts
 description: This Article Describes Disabling Closed Captions on Amazon Prime Streaming Services
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 ---
 
 ## Disabling Closed Captions on Amazon Prime Streaming Services
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 * If subtitles don’t stay off permanently (although they should), logging out of the Amazon site or reinstalling the app usually helps.
 
  This article explains how to turn off subtitles on Amazon Prime Video, including how to disable subtitles and closed captions on Amazon Prime Video on the website and app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Turn Off Subtitles on Amazon Prime?
 
@@ -31,8 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -42,29 +52,23 @@ thumbnail: https://www.lifewire.com/thmb/Jy_uQyIYF4zuhqnAAm56QFgXQ2k=/400x300/fi
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -109,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +120,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies-for-2024/"><u>[New] Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-rhythmripper-screen-recordings-review/"><u>[Updated] 2024 Approved RhythmRipper Screen Recordings Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/"><u>[Updated] In 2024, The Evolution of Video Capturing Insights Into the Latest Apeaksoft Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-end-of-acid-pro-top-software-alternatives-reviewed/"><u>[Updated] The End of ACID Pro Top Software Alternatives Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-add-music-to-powerpoint/"><u>2024 Approved Add Music to PowerPoint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-dvd-author/"><u>簡単な手順で! WinX DVD Authorを日本語に変更する方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290189652-dvd/"><u>無料ガイド完全攻略：最新版DVDコピースキル教えます！</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-no-cost-dvd-extraction-software-for-pc-windows-1011-full-version-download-options/"><u>Best No-Cost DVD Extraction Software for PC (Windows 10/11): Full Version Download Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-creating-a-dvd-image-and-backup-on-windows-with-winx-dvd-copy-software/"><u>Comprehensive Guide: Creating a DVD Image & Backup on Windows With WinX DVD Copy Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-on-changing-video-aspect-ratio-using-ffmpeg/"><u>Comprehensive Tutorial on Changing Video Aspect Ratio Using FFmpeg</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-user-exchanges-lead-to-bettered-chatgpt-written-output/"><u>Do User Exchanges Lead to Bettered ChatGPT’ Written Output?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effortless-bulk-audio-file-conversion-from-asf-to-mp3-a-step-by-step-tutorial/"><u>Effortless Bulk Audio File Conversion From ASF to MP3: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-advice-on-repairing-faulty-m4v-media-files/"><u>Expert Advice on Repairing Faulty M4V Media Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-remove-quick-access-in-windows-10/"><u>How to Remove Quick Access in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725287997981-iphoneandroid/"><u>IPhoneやAndroidでも使える、有名人が推薦するダウンロードフリー動画品質向上アプリ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lowest-price-promo-codes-for-winx-hd-video-converter-v671-on-macos-get-the-deal/"><u>Lowest Price Promo Codes for WinX HD Video Converter v6.7.1 on macOS - Get the Deal!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-excelentes-enhancer-de-video-con-inteligencia-artificial-opciones-libres-y-sin-coste-para-pc-y-mac/"><u>Top 10 Excelentes Enhancer De Vídeo Con Inteligencia Artificial: Opciones Libres Y Sin Coste Para PC Y Mac</u></a></li>
+</ul></div>
 

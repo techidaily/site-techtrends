@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2024-11-22T16:51:37.378Z
-updated: 2024-11-28T16:28:09.610Z
+date: 2024-12-04T18:14:48.589Z
+updated: 2024-12-07T21:21:57.652Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -43,7 +43,7 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -71,10 +71,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -82,6 +78,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -96,7 +96,7 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -104,7 +104,7 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -141,24 +141,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-what-is-the-best-video-format-for-youtube-in-2024/"><u>[New] What Is the Best Video Format for YouTube, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-best-practices-for-recording-apex-heroes/"><u>[Updated] 2024 Approved The Best Practices for Recording Apex Heroes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-image-recording-assistant-for-2024/"><u>[Updated] Image Recording Assistant for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-tailoring-igtv-titles-and-summaries-for-impact-for-2024/"><u>[Updated] Tailoring IGTV Titles & Summaries for Impact for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>2024 Approved The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722876036876-before-investing-in-a-smartwatch-read-this-the-crucial-factors-for-an-informed-decision/"><u>Before Investing in a Smartwatch? Read This - The Crucial Factors for an Informed Decision</u></a></li>
-<li><a href="https://article-tips.techidaily.com/compelling-mp4-player-selections-reviewed/"><u>Compelling MP4 Player Selections Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-twitch-chat-secrets-a-guide-for-new-viewers/"><u>Deciphering Twitch Chat Secrets: A Guide for New Viewers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elegant-darkening-premieres-touch-for-2024/"><u>Elegant Darkening Premiere's Touch for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/essential-free-tiktok-cutting-tools-for-mac-computers-for-2024/"><u>Essential Free TikTok Cutting Tools for Mac Computers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-adding-subtitles-to-your-insta-stories-effortlessly/"><u>Guide: Adding Subtitles to Your Insta-Stories Effortlessly</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-updated-compilation-prime-top-10-android-apps-for-facebook-video-download/"><u>In 2024, Updated Compilation Prime Top 10 Android Apps for Facebook Video Download</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-tech-evolution-stay-ahead-with-toms-comprehve-hardware-reviews/"><u>Navigate Tech Evolution: Stay Ahead with Tom's Comprehve Hardware Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stop-receiving-intrusive-amber-alerts-on-android-tips-and-tricks/"><u>Stop Receiving Intrusive AMBER Alerts on Android - Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stop-unwanted-emergency-notifications-disable-amber-alerts-on-android/"><u>Stop Unwanted Emergency Notifications: Disable AMBER Alerts on Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-the-infamous-code-28error-on-your-pc/"><u>Troubleshooting and Solving the Infamous Code ^[[2][8]Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-correct-the-not-found-error-of-msvcr80dll/"><u>Troubleshooting Steps to Correct the Not Found Error of msvcr80.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-history-with-wayback-machine-techniques-and-tricks-to-navigate-archived-pages/"><u>Unlocking History with Wayback Machine: Techniques and Tricks to Navigate Archived Pages</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-market-maven-tutorials-top-15-online-stock-streams/"><u>[New] 2024 Approved Market Maven Tutorials Top 15 Online Stock Streams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-accelerating-your-watch-experience-on-instagram-videos/"><u>2024 Approved Accelerating Your Watch Experience on Instagram Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715806247227-2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>2024 Approved Detailed Evaluation - Razer Kiyo Webcam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-character-design-for-your-next-dandd-adventure-insights-with-chatgpt-and-dall-e/"><u>AI-Assisted Character Design for Your Next D&D Adventure: Insights with ChatGPT and DALL-E</u></a></li>
+<li><a href="https://techtrends.techidaily.com/book-an-expert-consultation-a-comprehensive-tutorial-on-scheduling-your-apple-genius-bar-time/"><u>Book an Expert Consultation: A Comprehensive Tutorial on Scheduling Your Apple Genius Bar Time</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparison-playstation-5-slim-vs-original-ps5-console/"><u>Comparison: PlayStation 5 Slim vs Original PS5 Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/determining-discords-status-service-interruption-or-individual-user-troubleshooting-steps/"><u>Determining Discord's Status: Service Interruption or Individual User Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722893950035-discover-the-best-8-no-cost-music-apps-on-your-iphone-today/"><u>Discover the Best 8 No-Cost Music Apps on Your iPhone Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-shots-essential-tips-for-capturing-great-iphone-images/"><u>In 2024, The Art of Shots Essential Tips for Capturing Great iPhone Images</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/kostenfreie-backup-losungen-fur-windows-7-die-besten-programme-zum-schutz-und-wiederherstellen-von-dateien-3264-bit/"><u>Kostenfreie Backup-Lösungen Für Windows 7: Die Besten Programme Zum Schutz Und Wiederherstellen Von Dateien (32/64 Bit)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-traffic-puller-genius/"><u>Masterful Traffic Puller Genius</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-s-most-popular-video-collage-creators-for-ios-devices/"><u>New 2024 Approved S Most Popular Video Collage Creators for iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reviewing-asuss-4k-spectacle-the-mg28uq-unboxed-for-2024/"><u>Reviewing ASUS's 4K Spectacle - The MG28UQ Unboxed for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-to-deactivate-your-facebook-on-android-what-you-need-to-know/"><u>Step-by-Step Instructions to Deactivate Your Facebook on Android: What You Need To Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-swift-and-expensive-adventure-with-swagtrons-swagboard-t1-roller-skate-review/"><u>The Swift and Expensive Adventure with Swagtron's Swagboard T1 Roller Skate Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-hooking-up-your-psvr-to-a-desktop-system/"><u>The Ultimate How-To: Hooking Up Your PSVR to a Desktop System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-smoother-commutes-the-top-7-traffic-management-mobile-apps/"><u>Unlock Smoother Commutes: The Top 7 Traffic Management Mobile Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-youtube-stardom-8-key-techniques-that-make-videos-go-viral/"><u>Unlocking YouTube Stardom: 8 Key Techniques That Make Videos Go Viral</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-isnt-youtube-working/"><u>Why Isn't YouTube Working?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Common Launch Errors for a Smooth Start of Your Mozilla Thunderbird Email Client
-date: 2024-09-01T18:37:05.559Z
-updated: 2024-09-02T18:37:05.559Z
+date: 2024-12-05T19:51:42.035Z
+updated: 2024-12-07T18:00:27.363Z
 categories:
   - BestProducts
 description: This Article Describes Fixing Common Launch Errors for a Smooth Start of Your Mozilla Thunderbird Email Client
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/3AIsc7k008sWn6_bKMHI2a_U3R4=/540x405/fi
 
  This article is about fixing msvcr80.dll errors, not to be confused with[msvcr90.dll errors](https://www.lifewire.com/how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Msvcr80.dll Errors
 
  Follow the steps in the order they're listed below to try the more likely fixes first.
@@ -24,14 +28,34 @@ thumbnail: https://www.lifewire.com/thmb/3AIsc7k008sWn6_bKMHI2a_U3R4=/540x405/fi
 [How to Tell if You Have Windows 64-Bit or 32-Bit](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475)  
 ![Download and install the Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package MFC Security Update.](https://www.lifewire.com/thmb/y0cJF8YcT7jUhoYHa6I2MLkUK34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-d6779f27587a4e7e82f12da8733de903.jpg)  
  If you're unable to access Windows normally due to the error, try[starting Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. [Restore msvcr80.dll from the Recycle Bin](https://www.lifewire.com/how-to-restore-deleted-files-from-the-recycle-bin-2624515) if you accidentally deleted it. If you've already emptied the Recycle Bin, you might have luck using a[free file recovery program](https://www.lifewire.com/free-data-recovery-software-tools-2622893) to undelete it.  
 ![Recycle bin on the Windows 10 desktop](https://www.lifewire.com/thmb/4ut5BIE7nDWKwmd_W4aHzm-d8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-2bce627cec6b462da3ff837017f14eb4.jpg)
 3. [Run a virus/malware scan](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) if you think the msvcr80.dll error could be caused by a hostile program masquerading as the DLL file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. [Use System Restore to undo recent system changes](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you suspect that the msvcr80.dll error was caused by recent changes made to an important file or configuration,[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) might be able to restore it.  
 ![System Restore in the Windows System Properties menu](https://www.lifewire.com/thmb/_-1sJ8p4CJYlFzHdYO59LHYJa6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807-eba3b628271e4185b41ac1cdbd6c661f.jpg)
 5. [Reinstall the program that uses the msvcr80.dll file](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if you encounter these errors when using a particular program. Doing so should replace the missing DLL file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uninstall apps in the Windows settings](https://www.lifewire.com/thmb/aR4ZlFW-s9gwHqMKvW-W07CQYKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-1c4381251a3f4f778657b0bc91aef6cb.jpg)
 6. [Install any available Windows updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Some[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and [patches](https://www.lifewire.com/what-is-a-patch-2625960) installed through Windows Update include important updates that could be related to this DLL file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . This should restore all Windows DLL files to their working versions, which might include the msvcr80.dll file.
 8. Use a [registry cleaner program](https://www.lifewire.com/free-registry-cleaners-2626176) to repair msvcr80.dll related issues in the registry. This will remove invalid msvcr80.dll [registry entries](https://www.lifewire.com/what-is-a-registry-key-2625999) that might be causing the DLL error.  
  Only really specific "fix it" solutions call for a registry cleaner. You can read more on what they do and when you might need one in our[Registry Cleaners FAQ](https://www.lifewire.com/registry-cleaner-faq-2625124) .
@@ -73,8 +97,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,8 +104,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-practices-for-online-learning-archives-for-2024/"><u>[New] Innovative Practices for Online Learning Archives for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-book-enthusiasts-choice-top-e-book-reader-apps-reviewed-and-ranked/"><u>2024'S Book Enthusiasts' Choice: Top E-Book Reader Apps Reviewed and Ranked!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free-for-2024/"><u>Discover the Power of a Different Voice Easy Alteration Guide for Free Fire Players (Free) for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-13-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 13 Pro Without a Home Button</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-turning-xmlssattml-into-srt-practical-steps/"><u>In 2024, Turning XML/SSA/TTML Into SRT Practical Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-fixes-resolving-playback-errors-for-seamless-powerpoint-performances/"><u>Mastering Audio Fixes: Resolving Playback Errors for Seamless PowerPoint Performances</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728508429682-onedrive/"><u>OneDrive文書失くしてしまった？無事に救出する手順</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-core-dll-errors-on-your-pc/"><u>Troubleshooting Missing Core DLL Errors on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-repairing-your-unresponsive-optical-disc-player/"><u>Troubleshooting Tips: Repairing Your Unresponsive Optical Disc Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-top-10-strategies-for-mastering-subway-surfers/"><u>Ultimate Guide: Top 10 Strategies for Mastering 'Subway Surfers'</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Without iTunes in 5 Ways</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

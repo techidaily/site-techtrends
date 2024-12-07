@@ -1,7 +1,7 @@
 ---
 title: Reinstall Windows on Dell Devices - A Comprehensive Walkthrough
-date: 2024-09-01T18:43:50.612Z
-updated: 2024-09-02T18:43:50.612Z
+date: 2024-12-03T19:38:36.244Z
+updated: 2024-12-07T22:18:27.323Z
 categories:
   - BestProducts
 description: This Article Describes Reinstall Windows on Dell Devices - A Comprehensive Walkthrough
@@ -22,9 +22,6 @@ thumbnail: https://www.lifewire.com/thmb/biH-cdoXRmb9XxgKtpgazJc0W7o=/540x405/fi
 
  Keep your laptop connected to a power source through the entire reset and reinstallation process.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Windows 11 Steps
 
  Here's how this works in Windows 11:  
@@ -32,30 +29,33 @@ thumbnail: https://www.lifewire.com/thmb/biH-cdoXRmb9XxgKtpgazJc0W7o=/540x405/fi
 1. Open**Settings** from the Start menu or by pressing**Win** +**i** .  
 ![Settings in Windows 11 Start menu](https://www.lifewire.com/thmb/--k9sMaFy8PoCn67XS0aBm0-Gz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-factory-reset-a-lenovo-laptop-5115817-b8d43c76dd4e4073b17b888b6de04a30.jpg)
 2. Select**System** from the left, then**Recovery** from the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Recovery in Windows 11 System Settings](https://www.lifewire.com/thmb/4Kg8AVbEWStuLWTCS7Rn7F0PY1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-factory-reset-a-lenovo-laptop-5115817-58d784f0138a4569a88e690431c4af75.jpg)
 3. Select**Reset PC** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Reset PC in Windows 11 Settings](https://www.lifewire.com/thmb/l92V1Sz84J0Ci2hpCiFmUbkWp00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-factory-reset-a-lenovo-laptop-5115817-5bd2852edce94c1abf7e55fe93bd8a09.jpg)
 4. Choose**Keep my files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Keep my files in Reset This PC for Windows 11](https://www.lifewire.com/thmb/_HXHKUo786hh9-Ww-hG89BM-4tI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-factory-reset-a-lenovo-laptop-5115817-ab7757eefd8c45b3893aedcbf5548be0.jpg)
 5. Pick how you want to reinstall Windows:**Cloud download** or**Local reinstall** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Cloud Download and Local Reinstall in Reset This PC in Windows 11](https://www.lifewire.com/thmb/89hkzrisbRVLHT9hRk7DDnY6FeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-factory-reset-a-lenovo-laptop-5115817-20940592c4f74d56ac4a6b08c7255fa2.jpg)
 6. Complete any subsequent on-screen directions to complete the reset procedure.
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Windows 10 Steps
 
  Although Windows 10 looks a little different, the steps for resetting your Dell PC are basically the same.  
@@ -65,18 +65,30 @@ thumbnail: https://www.lifewire.com/thmb/biH-cdoXRmb9XxgKtpgazJc0W7o=/540x405/fi
 2. Under**Reset this PC** , select**Get started** .  
 ![Get Started button highlighted for Reset this PC](https://www.lifewire.com/thmb/M12BhAylYUYxIRH8BaYkjPh3cH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GetStartedannotated-aa6108a0a5fa406080cc54262b3d8906.jpg)
 3. Select **Remove everything** to wipe the Dell laptop clean and reinstall Windows. This step is the nuclear option, as it removes your files, all custom settings, and any apps your PC manufacturer installed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, select **Keep my files** to reinstall Windows and keep your personal files, like videos, documents, images, desktop items, etc.  
 ![Choose an option on Reset this PC dialog](https://www.lifewire.com/thmb/6vfzk6J_HtOj8H7T3tUwAWzqdwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reset-This-PC-Dell-Laptop-Choose-Option-1bf5704819b84008a4331b6bcd991a47.jpg)  
  If your Windows came with pre-installed Dell apps, these manufacturer apps will be restored.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When asked how to download the OS, select**Cloud download** if you're connected to the internet. Cloud download is helpful if your local copy of Windows is corrupted.  
  Otherwise, choose**Local reinstall** to reinstall Windows from your device. This option makes for a faster installation and doesn't require an active internet connection.  
 ![Reinstall Windows Choice Screen](https://www.lifewire.com/thmb/BSKyYJa8z6rwNwXiaXM7n9YYnjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resinstall-Windows-Choices-80a92105c9e34e6b891d883150d5bc49.jpg)
 5. Select **Change settings** for additional options.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Reset this PC Additional Settings with Change Settings highlighted](https://www.lifewire.com/thmb/YNxIyOubi5d_yfZeAc7MC2KVY0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChangeSettings-a0c30ea2d39244f985bc63510072333e.jpg)  
  By default, Reset this PC will remove your files but doesn't securely erase them. It also only deletes data from the drive where you have Windows installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Toggle on the switch for**Clean data?** to have Windows wipe everything on the drive securely and reduce the chances of data recovery. This process will take time but will make any sensitive data unrecoverable. It's not necessary if you don't plan to give away your laptop.  
 ![Clean my data switch toggle highlighted in the Choose Settings screen](https://www.lifewire.com/thmb/RxENIQz6Szpjl7Ln7hD3yEkzrzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CleanDatatoggle-3f12ed4ff3f3414098d30869b251b4af.jpg)
 7. Follow the on-screen instructions to complete the reset process. It can take an hour or more, and your computer will restart a few times before it's all finished.
@@ -89,19 +101,18 @@ thumbnail: https://www.lifewire.com/thmb/biH-cdoXRmb9XxgKtpgazJc0W7o=/540x405/fi
 2. Select**Troubleshoot** on the first screen.  
 ![Troubleshoot highlighted in WinRE Screen](https://www.lifewire.com/thmb/xP84RJIU-KCXCyOyheyj9g2gnaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Troubleshoot-a8617bc95f2040f9858f68ee56839218.jpg)
 3. Select**Reset this PC** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Reset This PC highlighted in Windows 10 troubleshooting](https://www.lifewire.com/thmb/JQvwm4AEJXKrNNqJBvqW3ZwO_9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resetthispc-4ff0855d89ee4b94b726e6d44c3eb699.jpg)
 4. Choose either**Keep my files** or**Remove everything** .  
 ![Windows Recovery Environment](https://www.lifewire.com/thmb/0193C72O0bxYFJhlP4NZetVlIsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Windows10-WinRE-Remove-Everything-10e8c706f03f4f8e9f7a318ad09c1dc9.jpg)
 5. Pick how Windows should be reinstalled. We recommend choosing**Cloud download** , but if your computer's files are corrupt or you don't have a stable internet connection,**Local reinstall** works fine, too.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Installation choice for Windows 10 in the Windows Recovery Environment](https://www.lifewire.com/thmb/ZT1HOElhXLn2JLybyrK9n_JoiLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Windows10-WinRE-Local-Install-b7bdc5da2e7348edb156a93ab9ed93ad.jpg)
 6. Follow the on-screen instructions to complete the reset process. This takes some time, and your computer will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is a Factory Reset?
 
  Wiping a Dell laptop is the final troubleshooting solution when things go wrong with Windows. It's also a recommended step when you want to give away your old laptop.
@@ -113,9 +124,6 @@ thumbnail: https://www.lifewire.com/thmb/biH-cdoXRmb9XxgKtpgazJc0W7o=/540x405/fi
 * A factory reset alone won’t solve all performance issues since some problems are hardware related.
 * A factory reset will wipe data from the hard drive, but this data may still be recoverable with[data recovery software](https://www.lifewire.com/free-data-recovery-software-tools-2622893) .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do I Delete Everything Off My Dell Laptop?
 
  The above methods help you keep your operating system intact while giving you the choice of a clean Windows installation. There may be situations, however, where you would want to delete Windows. Maybe there's sensitive data on your Dell PC, and you want to make it unrecoverable before you sell the laptop or scrap it. Also, wiping the hard drive clean might be one of the options to remove ransomware from your compromised PC.
@@ -149,8 +157,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +164,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-managing-bitrate-in-obs-broadcasts-for-2024/"><u>[Updated] Managing Bitrate in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-vegaspro-the-19-edition-for-2024/"><u>[Updated] Unveiling VegasPro The '19 Edition for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-for-non-responsive-netflix-service-on-xbox-one-systems/"><u>Comprehensive Fixes for Non-Responsive Netflix Service on Xbox One Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/duel-in-the-digital-the-two-paths-of-tetris-mastery/"><u>Duel in the Digital: The Two Paths of Tetris Mastery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eias-are-mandated-by-nepa-for-all-major-federal-actions-that-significantly-affect-the-environment/"><u>EIAs Are Mandated by NEPA for All Major Federal Actions that Significantly Affect the Environment.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-the-not-found-error-a-comprehensive-guide-to-restoring-ftd2xxdll/"><u>Fix the Not Found Error: A Comprehensive Guide to Restoring ftd2xx.dll</u></a></li>
+<li><a href="https://discover-best.techidaily.com/the-ultimate-list-of-pc-mobile-and-console-vr-games-from-2ve-years-ago/"><u>The Ultimate List of PC, Mobile and Console VR Games From 2Ve Years Ago!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide-to-identifying-and-resolving-the-issue/"><u>Understanding Error Code 0xC0000185: A Comprehensive Guide to Identifying & Resolving the Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpacking-the-nintendo-switch-whats-included-in-the-box/"><u>Unpacking the Nintendo Switch: What's Included in the Box</u></a></li>
+</ul></div>
 

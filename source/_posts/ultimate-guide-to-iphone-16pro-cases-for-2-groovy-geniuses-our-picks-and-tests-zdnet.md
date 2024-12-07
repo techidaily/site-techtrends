@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2024-11-27T17:57:58.884Z
-updated: 2024-11-28T17:04:34.369Z
+date: 2024-12-02T21:52:18.350Z
+updated: 2024-12-07T23:24:20.348Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -41,20 +41,20 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -62,11 +62,11 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -77,6 +77,10 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,21 +161,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-illuminate-creativity-engage-in-pcs-high-dynamic-range-vision/"><u>[New] 2024 Approved Illuminate Creativity Engage in PC's High Dynamic Range Vision</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-insiders-guide-to-powerful-win10-habits/"><u>[New] 2024 Approved Insider's Guide to Powerful Win10 Habits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-latest-trends-for-successful-influencer-journeys/"><u>[New] Instagram's Latest Trends for Successful Influencer Journeys</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-starting-simple-a-practical-approach-to-becoming-an-e-review-expert/"><u>[New] Starting Simple A Practical Approach to Becoming an E-Review Expert</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-latest-showdown-comparing-m3-vs-m2-macbook-air-for-your-perfect-purchase-insights-from-zdnet/"><u>Apple's Latest Showdown: Comparing M3 Vs. M2 MacBook Air for Your Perfect Purchase - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-repair-techniques-for-dealing-with-a-missing-comctl32dll-file/"><u>DIY Repair Techniques for Dealing with a Missing Comctl32.dll File</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-play-8t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor Play 8T Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-seamless-management-of-your-residential-iot-ecosystem/"><u>Leveraging ChatGPT for Seamless Management of Your Residential IoT Ecosystem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-your-budget-the-ultimate-strategy-for-accessing-lenovos-student-discount-deals/"><u>Maximizing Your Budget: The Ultimate Strategy for Accessing Lenovo's Student Discount Deals</u></a></li>
-<li><a href="https://howto.techidaily.com/nokia-c22-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C22 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-issues-with-closed-captioning-feature-on-roku-players/"><u>Overcoming Issues with Closed Captioning Feature on Roku Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mobile-wi-fi-security-issues-a-step-by-step-guide/"><u>Resolving Mobile Wi-Fi Security Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionize-your-mini-pc-game-the-gem1n-pros-new-amd-7805hs-chip-miniscule-monitor-and-oculink-features-unveiled/"><u>Revolutionize Your Mini PC Game: The Gem1n Pro's New AMD 7805HS Chip, Miniscule Monitor & OCuLink Features Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fix-for-jvmdll-couldnt-be-load-expert-troubleshooting-tips/"><u>Step-by-Step Fix for 'jvm.dll Couldn't Be Load': Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-10-must-have-applications-for-high-schoolers/"><u>The Ultimate Guide: 10 Must-Have Applications for High Schoolers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722877803357-unbeatable-tech-offers-find-them-this-amazon-prime-day/"><u>Unbeatable Tech Offers: Find Them This Amazon Prime Day!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-gpus-for-crystal-clear-4k/"><u>[Updated] Next-Gen GPUs for Crystal Clear 4K</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-for-clearer-facebook-live-footage-viewing-for-2024/"><u>[Updated] Strategies for Clearer Facebook Live Footage Viewing for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-dive-deep-into-dynamic-dialogue-dives/"><u>2024 Approved Dive Deep Into Dynamic Dialogue Dives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-missing-python-240-dynamic-link-library-issues/"><u>Easy Solutions for Correcting Missing 'Python 2.4.0' Dynamic Link Library Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-access-sink-your-teeth-into-stunning-game-discounts-of-up-to-1000-on-october-prime-day-2024-limited-time-only/"><u>Exclusive Access: Sink Your Teeth Into Stunning Game Discounts of up to $1,000 on October Prime Day 2024 – Limited Time Only!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-the-future-with-microsofts-surface-laptop-studio-v2-impressions-and-envy-spark/"><u>Experiencing the Future with Microsoft's Surface Laptop Studio v2: Impressions & Envy Spark</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fubotv-integration-install-and-enjoy-live-sports-and-shows-on-firestick/"><u>FuboTV Integration: Install and Enjoy Live Sports & Shows on Firestick</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-seamless-program-deployment/"><u>Navigating Windows 11'S Seamless Program Deployment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-why-your-apple-watchs-cellular-connection-might-be-down-and-how-to-resolve-it/"><u>Troubleshooting: Why Your Apple Watch's Cellular Connection Might Be Down and How to Resolve It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unmasking-private-callers-expert-techniques-for-reconnecting-with-anonymous-telephone-contacts/"><u>Unmasking Private Callers: Expert Techniques for Reconnecting with Anonymous Telephone Contacts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-avs-sound-engineer-insights-comprehensive-overview-of-tools-advantages-and-substitutes/"><u>Updated 2024 Approved AVS Sound Engineer Insights Comprehensive Overview of Tools, Advantages, and Substitutes</u></a></li>
 </ul></div>
 

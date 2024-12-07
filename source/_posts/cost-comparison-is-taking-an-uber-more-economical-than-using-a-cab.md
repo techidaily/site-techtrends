@@ -1,7 +1,7 @@
 ---
 title: "Cost Comparison: Is Taking an Uber More Economical than Using a Cab?"
-date: 2024-09-01T18:40:05.188Z
-updated: 2024-09-02T18:40:05.188Z
+date: 2024-11-30T21:30:21.464Z
+updated: 2024-12-07T20:23:44.285Z
 categories:
   - BestProducts
 description: "This Article Describes Cost Comparison: Is Taking an Uber More Economical than Using a Cab?"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 ## Student Savings Alert: How to Score Big on YouTube Premium With an Educational Discount
  This article explains how to sign up for a YouTube Premium Student Discount.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Sign Up for the YouTube Premium Student Discount
 
  YouTube uses a service called SheerID to confirm eligibility. You can check if your school is included by going to the student membership landing page for[YouTube Premium](https://www.lifewire.com/is-youtube-premium-worth-it-8584585 ) or[YouTube Music Premium](https://www.lifewire.com/what-is-youtube-music-4799054 ) .
@@ -19,6 +23,11 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 1. On the landing page, click**TRY IT FREE** .  
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/aPzRGgGmK-m-Aq3jVHeUISd_8aY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent1-4dd5ae1181f143c794fe3fe1d615e74f.jpg)
 2. A message will pop-up warning that you'll be redirected to SheerID for verification. Click**CONTINUE** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Signing up for the YouTube Premium Student Discount](https://www.lifewire.com/thmb/krc_P8NRwLzkc5h633qem4DYpjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent2-ac9d06f65a8a46d8958e9682d297a560.jpg)
 3. Fill in your country, university (options will populate as you type), first and last name, date of birth, and email address. Check the box to agree to the verification process.  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/RbANARHcGpEqx7ykFJQlw7ekb88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent3-a3e301e3cb8145d0af9590f894384169.jpg)
@@ -33,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 9. Click**LEARN MORE** .  
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/1tWG3IuFBa1j6bGZYup9DK1N9a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent7-38cbeb35f7d9480d81a44d3d8ddc4a18.jpg)
 10. Choose a payment method or add a new one. Click**START 1-MONTH TRIAL** . After the first month, YouTube will start billing you.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Signing up for the YouTube Premium Student Discount.](https://www.lifewire.com/thmb/A_h1uMjvVexpll2JqR730jpwQQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YouTubePremiumStudent8-4fe99ffd2800473d83a5e2610d0623a0.jpg)  
  This screen is for the regular free trial. You will click 1-MONTH TRIAL.
 
@@ -41,15 +55,17 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
  Students can sign up for a YouTube Music Premium or YouTube Premium membership at a discount. Students must be enrolled full-time at an eligible higher education institution in the U.S. and 60-plus other countries to qualify. The discounted subscriptions are valid for up to four years, and students must re-verify their eligibility each year. A company called SheerID does the verification.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does the YouTube Premium Student Discount Include?
 
  Students get a 1-month free trial and pay about half of the monthly subscription amount. The membership includes the same benefits as a non-discounted membership. Members get access to both YouTube and YouTube Music Premium, ad-free videos and music, video and music downloads for offline viewing and listening, and the ability to play videos in the background while using other apps or when your screen is locked.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Happens When You Finish School?
 
  The YouTube Premium Student discount is only available if you attend an eligible school and is limited to four years total. Whichever comes first—graduation or four years in school—is when your discount expires.
@@ -76,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +99,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-comprehensible-approach-to-multisnapping-videos/"><u>[New] In 2024, The Comprehensible Approach to Multisnapping Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/202-cuffs-and-skirts-she-also-wore-a-scarf-around-her-neck-for-added-warmth-during-the-winter-months-her-outfits-were-always-impeccable-and-she-paid-close-a74/"><u>掌握202 Cuffs and Skirts, She Also Wore a Scarf Around Her Neck for Added Warmth During the Winter Months. Her Outfits Were Always Impeccable, and She Paid Close Attention to Detail.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/camara-de-video-web-con-pantalla-completa-y-funciones-de-audio-mediante-la-tecnologia-inteligencia-artificial-ia-winxvideo/"><u>Cámara De Vídeo Web Con Pantalla Completa Y Funciones De Audio Mediante La Tecnología Inteligencia Artificial (IA) WinXVideo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-personalized-interactions-with-jdis-innovative-2vd-touchscreen-unique-display-perception-and-identification-of-users/"><u>Experience Personalized Interactions with JDI's Innovative 2VD Touchscreen: Unique Display Perception & Identification of Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-social-media-realm-facebook-twitter-instagram-and-youtube-insights/"><u>Exploring the Social Media Realm: Facebook, Twitter, Instagram & Youtube Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-transform-mod-audiovideo-into-mp4-format-preserving-full-quality-discover-our-top-7-methods/"><u>How to Seamlessly Transform MOD Audio/Video Into MP4 Format Preserving Full Quality - Discover Our Top 7 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-time-for-a-change-comparing-features-of-the-new-iphone-14-pro-and-iphone-13-pro/"><u>Is It Time for a Change? Comparing Features of the New iPhone 14 Pro and iPhone 13 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-handbrake-a-step-by-step-guide-to-encoding-videos-in-hevc-format/"><u>Setting up Handbrake: A Step-by-Step Guide to Encoding Videos in HEVC Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlining-your-podcast-for-apple-platform-access/"><u>Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>The Ultimate Showdown Midnight Warrior vs Sunlight Champion</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-most-popular-websites-offering-montage-audio-archives-for-2024/"><u>Updated Most Popular Websites Offering Montage Audio Archives for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725287766473-windows-10mp4dvd/"><u>Windows 10用無料フリーソフトでMP4をDVDに変換するレシピ</u></a></li>
+</ul></div>
 

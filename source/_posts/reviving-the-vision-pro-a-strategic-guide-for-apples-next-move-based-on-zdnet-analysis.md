@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Vision Pro: A Strategic Guide for Apple's Next Move Based on ZDNet Analysis"
-date: 2024-11-24T16:05:39.177Z
-updated: 2024-11-28T16:42:49.152Z
+date: 2024-12-04T23:04:45.785Z
+updated: 2024-12-07T20:14:10.105Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -54,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -86,6 +86,10 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -107,7 +111,7 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Vision for the rest of us
@@ -135,7 +139,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -151,7 +155,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -173,10 +177,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,24 +227,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-preview-general-knowledge-quiz-networks-of-2024/"><u>[New] Exclusive Preview General Knowledge Quiz Networks of 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-the-world-of-instagram-stories-easily/"><u>[New] In 2024, Navigating the World of Instagram Stories Easily</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-win10-gamers-ultimate-guide-to-screen-recordings/"><u>[New] Win10 Gamers' Ultimate Guide to Screen Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dmmwmpapple-musicdrm/"><u>「すべてのプレーヤー（DMM・WMP・Apple Music）に対応したDRM解除手順ガイドの紹介」</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-practices-integrating-timers-into-live-streaming-software/"><u>2024 Approved Best Practices Integrating Timers Into Live Streaming Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-your-pcs-power-for-high-dynamic-range-video-magic/"><u>2024 Approved Harness Your PC's Power for High Dynamic Range Video Magic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/caf-mp3movavi/"><u>自由下載 CAF到 MP3：Movavi 無限制音訊過渡工具</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-support-window-users-with-updated-free-graphics-card-drivers-download-here/"><u>ASUS Support Window Users with Updated, Free Graphics Card Drivers Download Here</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-14-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/imgburn/"><u>ImgBurnを始める - セットアップから日本語化:初心者にぬくもりあふれるチュートリアル</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-enabling-and-using-google-gemini-ai-features-on-your-android-device/"><u>Step-by-Step Guide: Enabling and Using Google Gemini AI Features on Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-future-of-ai-search-engines-what-to-expect-from-openai-on-may-13th-beyond-just-chatgpt/"><u>The Future of AI Search Engines - What to Expect From OpenAI on May 13Th, Beyond Just ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-release-of-stable-diffusion-v2-mixed-reactions-spark-debate/"><u>The Release of Stable Diffusion v2: Mixed Reactions Spark Debate</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-essential-chatgpt-plus-add-ons-with-high-roi-your-guide-to-smart-spending/"><u>Top 10 Essential ChatGPT Plus Add-Ons with High ROI – Your Guide to Smart Spending</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transferring-images-from-your-oculus-quest-2-headset-to-windows-macos-and-linux-systems/"><u>Transferring Images From Your Oculus Quest 2 Headset to Windows, macOS, and Linux Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformative-collaboration-british-petroleum-teams-up-with-tesla-for-revolutionary-charging-solutions/"><u>Transformative Collaboration: British Petroleum Teams Up with Tesla for Revolutionary Charging Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-written-content-into-different-formats-with-the-help-of-chatgpt/"><u>Transforming Written Content Into Different Formats with the Help of ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-chatgpt-plus-the-enhanced-version-of-microsofts-ai-assistant/"><u>Understanding ChatGPT Plus: The Enhanced Version of Microsoft's AI Assistant</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-googles-gemini-potential-comprehensive-instructions-for-activating-gemini-ai-on-android-phones/"><u>Unlocking Google's Gemini Potential: Comprehensive Instructions for Activating Gemini AI on Android Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-your-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools-for-2024/"><u>[Updated] Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlined-mp4-creation-must-have-tools-on-mac/"><u>[Updated] Streamlined MP4 Creation Must-Have Tools on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>2024 Approved Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-fixes-for-common-problems-with-the-realtek-wireless-lan-card-driver/"><u>Comprehensive Fixes for Common Problems with the Realtek Wireless LAN Card Driver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/explaining-the-advantages-of-4k-high-definition/"><u>Explaining the Advantages of 4K High-Definition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-rich-communication-services-rcs-what-you-need-to-know/"><u>Exploring Rich Communication Services (RCS): What You Need To Know</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12-proplus-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12 Pro+ 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/harnessing-stellar-recovery-methods-with-expert-vishakha/"><u>Harnessing Stellar Recovery Methods with Expert Vishakha</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-a-spot-with-apples-experts-how-to-get-an-appointment/"><u>Securing a Spot with Apple's Experts: How To Get An Appointment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-lameencdll-error-in-audacity-during-mp3-encoding/"><u>Solving the lame_enc.dll Error in Audacity During MP3 Encoding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects-for-2024/"><u>The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-mss32dll-not-found-issue-effectively/"><u>Troubleshooting the mss32.dll Not Found Issue Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-modify-your-insta-posts/"><u>Ultimate Guide: Steps to Modify Your Insta Posts</u></a></li>
 </ul></div>
 

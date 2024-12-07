@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-11-27T18:03:04.508Z
-updated: 2024-11-28T16:27:05.849Z
+date: 2024-12-05T22:45:39.767Z
+updated: 2024-12-07T23:26:58.208Z
 tags:
   - apple
 categories:
@@ -28,15 +28,15 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -63,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,22 +158,14 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-essential-techniques-for-funimate-video-extraction/"><u>[New] Essential Techniques for Funimate Video Extraction</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transform-your-memories-into-engaging-facebook-slides/"><u>[Updated] 2024 Approved Transform Your Memories Into Engaging Facebook Slides</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-build-a-metaverse-identity-a-streamlined-design-process/"><u>[Updated] Build a Metaverse Identity A Streamlined Design Process</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unifying-your-musical-journey-converting-spotify-plays-into-youtube-music-lists/"><u>[Updated] Unifying Your Musical Journey Converting Spotify Plays Into YouTube Music Lists</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-user-friendly-tutorial-switching-browsers-on-a-samsung-television-set/"><u>A User-Friendly Tutorial: Switching Browsers on a Samsung Television Set</u></a></li>
-<li><a href="https://techtrends.techidaily.com/embark-on-an-ai-journey-lifewires-ultimate-guide-to-15-free-self-directed-online-courses-in-artificial-intelligence/"><u>Embark on an AI Journey: Lifewire's Ultimate Guide to 15 Free Self-Directed Online Courses in Artificial Intelligence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exquisite-value-premium-technological-marvels-you-can-afford/"><u>Exquisite Value: Premium Technological Marvels You Can Afford</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-fresh-sapphire-gpu-drivers-now-installation-steps-for-windows-operating-systems/"><u>Get Fresh Sapphire GPU Drivers Now – Installation Steps for Windows Operating Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-ethically-finding-a-contacts-email-through-search-engines/"><u>Mastering the Art of Ethically Finding a Contact's Email Through Search Engines</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-graphic-cards-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphic Card's Drivers in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-creating-an-oculus-quest-quest-2-user-account/"><u>The Ultimate Guide to Creating an Oculus Quest / Quest 2 User Account</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tips-to-personalize-your-vocal-presence-on-instagram-story-and-reels-for-2024/"><u>Tips to Personalize Your Vocal Presence on Instagram Story and Reels for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-solutions-for-quieting-your-overly-noisy-pc-cooling-fan/"><u>Troubleshooting Guide: Solutions for Quieting Your Overly Noisy PC Cooling Fan</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-microsoft-teams-how-to-determine-if-its-an-app-malfunction-or-connection-problem/"><u>Troubleshooting Microsoft Teams: How to Determine if It's an App Malfunction or Connection Problem?</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo Reno 10 Pro 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-expect-from-the-new-google-pixel-buds-pro-cups-price-predictions-and-release-details-uncovered/"><u>What to Expect From the New Google Pixel Buds Pro Cups: Price Predictions and Release Details Uncovered</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-list-best-mac-compatible-recorders/"><u>[Updated] 2024 Approved The Ultimate List Best Mac-Compatible Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-micro-vids-unpacked-whats-the-score-for-2024/"><u>[Updated] Micro Vids Unpacked What's the Score for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photoshops-power-shifting-hues-at-your-fingertips/"><u>2024 Approved Photoshop's Power Shifting Hues at Your Fingertips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726224809633-nefpng-movavi/"><u>網上無成本地轉換NEF為PNG格式 - 利用Movavi圖像編輯工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/todmpeg-movavi/"><u>在線自由轉換TOD檔案為MPEG格式 - 利用 Movavi 的高效率解決方案</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/freetest-mp4-player-fur-windows-11-and-mac-kostenlose-download/"><u>Freetest MP4 Player Für Windows 11 & Mac, Kostenlose Download</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-pas-a-pas-pour-transformer-vos-films-avi-en-mkv-sur-internet-gratuitement-avec-convertisseur-video-movavi/"><u>Guide Pas À Pas Pour Transformer Vos Films AVI en MKV Sur Internet Gratuitement Avec Convertisseur Vidéo Movavi!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/pfm-crowns-and-glass-ionomer-cements-each-have-their-own-advantages-and-potential-drawbacks-regarding-thermal-properties-and-sensitivity-issues/"><u>PFM Crowns and Glass Ionomer Cements Each Have Their Own Advantages and Potential Drawbacks Regarding Thermal Properties and Sensitivity Issues.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-video-editors-without-watermark-on-desktop-discover-the-best-picks/"><u>Top Free Video Editors Without Watermark on Desktop: Discover the Best Picks!</u></a></li>
 </ul></div>
 

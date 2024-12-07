@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Power Issues with Your Roku Television"
-date: 2024-09-01T18:43:42.780Z
-updated: 2024-09-02T18:43:42.780Z
+date: 2024-12-01T19:28:05.452Z
+updated: 2024-12-07T17:18:11.984Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Steps: Resolving Power Issues with Your Roku Television"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  You've[correctly arranged your new speakers](https://www.lifewire.com/placing-speakers-correctly-3134857) . All the cables have been meticulously connected. Each piece of equipment has been switched on. Then, you hit "play" on the audio source, yet nothing happens. How frustrating!
 
  But don't toss your remote at the wall just yet. Instead, try these troubleshooting tips to get your brand new sound system up and working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Stereo Receiver That's Not Making Sound
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  You'll need a 3.5 mm-to-RCA stereo audio cable to connect speakers that have 3.5 mm or RCA connections, such as a laptop or smartphone.
 5. **Check the source components** . First, test whatever source component (device) you're using—such as a CD player, DVD/Blu-ray player, or turntable—with another working TV or set of speakers. If the device still doesn't play properly, then your problem is most likely with the device.  
  If all source components are good, connect them back into the original receiver and set them to play some input. Toggle through each input source on the stereo receiver one by one. If the receiver works with some input sources but not others, the cables connecting the component to the receiver could be the problem. Replace any suspect cables and try the original component again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of a Stereo Receiver Not Making Sound
 
@@ -54,8 +62,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -63,8 +69,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-transform-your-color-grading-skills-with-photoshops-luts-for-2024/"><u>[New] Transform Your Color Grading Skills with Photoshop's LUTs for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhancing-video-playback-velocity/"><u>Enhancing Video Playback Velocity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972432286-latest-drivers-for-hp-laserjet-1018-safe-to-download-now/"><u>Latest Drivers for HP LaserJet 1018 - Safe to Download Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-reminder-management-on-slack-platforms/"><u>Mastering the Art of Reminder Management on Slack Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premium-video-collaboration-software-guides/"><u>Premium Video Collaboration Software Guides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remote-free-mastering-roku-tv-controls-using-alternative-methods/"><u>Remote-Free: Mastering Roku TV Controls Using Alternative Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fix-for-audio-glitches-in-your-powerpoint-presentation/"><u>Step-by-Step Fix for Audio Glitches in Your PowerPoint Presentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-11-best-no-cost-software-update-tools-for-keeping-your-applications-current/"><u>Top 11 Best No-Cost Software Update Tools for Keeping Your Applications Current</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-elite-graphics-editing-programs-rank-the-best-among-17-picks/"><u>Unveiling Elite Graphics Editing Programs: Rank the Best Among 17 Picks</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

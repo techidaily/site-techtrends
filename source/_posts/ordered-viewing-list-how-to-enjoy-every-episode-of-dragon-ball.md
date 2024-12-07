@@ -1,7 +1,7 @@
 ---
 title: "Ordered Viewing List: How To Enjoy Every Episode of Dragon Ball"
-date: 2024-09-01T18:44:28.705Z
-updated: 2024-09-02T18:44:28.705Z
+date: 2024-12-06T19:03:48.887Z
+updated: 2024-12-07T22:03:30.585Z
 categories:
   - BestProducts
 description: "This Article Describes Ordered Viewing List: How To Enjoy Every Episode of Dragon Ball"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -24,11 +28,29 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -46,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-clear-facebook-broadcast-laptops-and-phones-included-for-2024/"><u>[New] Clear Facebook Broadcast Laptops and Phones Included for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exclusive-review-10-best-free-video-meeting-apps-iosandroid-for-2024/"><u>[New] Exclusive Review 10 Best Free Video Meeting Apps iOS/Android for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-streaming-technology-for-live-events/"><u>[New] In 2024, Top Streaming Technology for Live Events</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-effortless-transformation-of-your-youtube-content-into-webm/"><u>[Updated] In 2024, Effortless Transformation of Your YouTube Content Into WebM</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ultra-fast-instagram-video-views-for-smartphone-users-for-2024/"><u>[Updated] Ultra-Fast Instagram Video Views for Smartphone Users for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieve-better-results-in-less-time-mastering-efficient-facebook-usage/"><u>Achieve Better Results in Less Time - Mastering Efficient Facebook Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fresh-start-a-lenovo-laptop-the-definitive-factory-reset-guide/"><u>How To Fresh-Start a Lenovo Laptop: The Definitive Factory Reset Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-gt-10-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix GT 10 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-natural-language-processing-with-chatgpt/"><u>Navigating the World of Natural Language Processing with ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-privacy-disabling-caller-id-on-your-android-smartphone/"><u>Secure Your Privacy: Disabling Caller ID on Your Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722870959454-top-rated-ipad-offers-exclusive-savings-today/"><u>Top-Rated iPad Offers - Exclusive Savings Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-hidden-gems-a-comprehensive-guide-to-searching-for-images-on-facebook/"><u>Unveiling Hidden Gems: A Comprehensive Guide to Searching for Images on Facebook</u></a></li>
+</ul></div>
 
