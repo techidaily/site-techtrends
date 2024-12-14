@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2024-11-30T17:37:45.752Z
-updated: 2024-12-07T17:14:10.267Z
+date: 2024-12-10T16:17:15.594Z
+updated: 2024-12-13T17:08:56.384Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -35,10 +31,6 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -66,6 +58,10 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -81,6 +77,10 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -135,10 +135,6 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -161,6 +157,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -176,7 +176,7 @@ I just think of those users like more of my students. If any questions show up i
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -225,7 +225,7 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Blocking out time for my projects
@@ -243,7 +243,7 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rethinking your flow
@@ -275,22 +275,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-enhance-performance-advanced-techniques-for-windows-10-for-2024/"><u>[Updated] Enhance Performance Advanced Techniques for Windows 10 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-approach-to-saving-instagram-stories/"><u>[Updated] In 2024, Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/using-macxdvdusing-macxdvd/"><u>[Using MacXDVD](#using-MacXDVD)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beat-the-playback-problems-a-list-of-13-remedies-when-spotify-stops-working-with-android-auto/"><u>Beat the Playback Problems: A List of 13 Remedies When Spotify Stops Working with Android Auto</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-the-distinctions-how-roku-express-stacks-up-against-roku-stick/"><u>Deciphering the Distinctions: How Roku Express Stacks Up Against Roku Stick</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/discover-the-best-open-worlds-today-for-2024/"><u>Discover the Best Open Worlds Today for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722900585691-discover-the-correct-sequence-watching-star-wars-saga-on-disneyplus/"><u>Discover the Correct Sequence: Watching 'Star Wars' Saga on Disney+</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-sonys-psvr-2-revolution-insights-on-pricing-strategies-launch-timelines-and-comprehensive-system-specifications/"><u>Explore Sony’s PSVR 2 Revolution: Insights on Pricing Strategies, Launch Timelines, and Comprehensive System Specifications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-effects-of-fast-storage-retrieval-on-laptop-operations/"><u>Exploring the Effects of Fast Storage Retrieval on Laptop Operations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-back-to-watching-seamlessly-a-guide-to-repairing-broken-closed-captions-on-amazon-prime/"><u>Get Back to Watching Seamlessly: A Guide to Repairing Broken Closed Captions on Amazon Prime</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-watching-apple-tvpluss-shows-on-your-smart-tv-via-chromecast/"><u>Guide: Watching Apple TV+'s Shows on Your Smart TV via Chromecast</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-y17s-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Y17s.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-real-time-broadcasting-softwares-edge-over-gear/"><u>In 2024, Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/perfecting-crossfades-and-sweeps-in-premiere/"><u>Perfecting Crossfades & Sweeps in Premiere</u></a></li>
-<li><a href="https://facebook.techidaily.com/professional-growth-strategies-incorporating-facebook/"><u>Professional Growth Strategies - Incorporating Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-implementing-website-pinging-essential-insights-and-best-practices/"><u>Understanding and Implementing Website Pinging - Essential Insights & Best Practices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-leading-free-graphic-websites-for-quality-vectors/"><u>[New] 2024 Approved Leading Free Graphic Websites for Quality Vectors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[New] 2024 Approved Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-monetizing-videos-on-youtube-strategies-success/"><u>[New] 2024 Approved Monetizing Videos on YouTube Strategies Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-rollercoaster-ride-with-my-cherished-show-on-apple-vision-pro-the-marvels-and-fatigue-exclusive/"><u>A Rollercoaster Ride with My Cherished Show on Apple Vision Pro: The Marvels and Fatigue Exclusive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-dota-2-playability-solving-fps-drops-across-the-latest-windows-operating-systems/"><u>Boosting Dota 2 Playability: Solving FPS Drops Across the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-minute-methods-for-retrieving-erased-reddit-threads/"><u>In 2024, Minute Methods for Retrieving Erased Reddit Threads</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c22-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C22 FRP Bypass</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-split-trim-and-convert-avi-files-in-minutes-2023-edition-for-2024/"><u>New Split, Trim, and Convert AVI Files in Minutes 2023 Edition for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-advantages-that-make-the-smaller-iphone-16-pro-my-pick-over-the-max-for-this-year/"><u>The Advantages That Make the Smaller iPhone 16 Pro My Pick Over the Max for This Year</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-dawn-of-smarter-technology-with-apple-discovering-artificial-intelligence-advancebuildings-into-your-devices-comprehensive-guide/"><u>The Dawn of Smarter Technology with Apple: Discovering Artificial Intelligence Advancebuildings Into Your Devices Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-church-streaming-services-for-the-digital-age-for-2024/"><u>Top Church Streaming Services for the Digital Age for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-confidently-how-macos-1441-ensures-secure-updates-for-your-mac-insights/"><u>Upgrade Confidently: How macOS 14.4.1 Ensures Secure Updates for Your Mac - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-you-shouldnt-overlook-apples-help-resources-a-deep-dive-by-zdnet-into-the-top-reasons-to-use-them/"><u>Why You Shouldn't Overlook Apple's Help Resources - A Deep Dive by ZDNet Into the Top Reasons to Use Them</u></a></li>
 </ul></div>
 

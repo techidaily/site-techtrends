@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
-date: 2024-12-01T19:16:40.872Z
-updated: 2024-12-07T19:53:20.471Z
+date: 2024-12-09T18:54:42.767Z
+updated: 2024-12-13T21:04:04.984Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 ## Creating Personalized Notification Tones in Gmail – Step by Step
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
@@ -54,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -116,19 +116,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-smartest-ways-to-track-wedding-dates-ios-and-android-style/"><u>[New] Smartest Ways to Track Wedding Dates, iOS & Android Style</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-impactful-power-of-customer-testimonials-on-sales/"><u>[New] The Impactful Power of Customer Testimonials on Sales</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-tips-for-optimal-online-vhs-photo-enhancement-for-2024/"><u>[New] Top Tips for Optimal Online VHS Photo Enhancement for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags/"><u>[Updated] In 2024, Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ranking-the-top-5-instant-frame-recorder-apps-for-2024/"><u>[Updated] Ranking the Top 5 Instant Frame Recorder Apps for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-chrome-pip-integration-a-cross-platform-tutorial/"><u>2024 Approved Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/alert-imitation-is-not-the-sincerest-form-of-assistance-bot-scammers-pretending-to-be-travel-advisors-on-social-platforms/"><u>Alert: Imitation Is Not the Sincerest Form of Assistance - Bot Scammers Pretending to Be Travel Advisors on Social Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-music-auto-play-interruption-how-to-take-charge-of-your-streams/"><u>Apple Music Auto-Play Interruption: How to Take Charge of Your Streams</u></a></li>
-<li><a href="https://facebook.techidaily.com/clandestine-continuity-delving-into-facebooks-stealthy-wrist-tech/"><u>Clandestine Continuity: Delving Into Facebook’s Stealthy Wrist Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-haldll-malfunction-in-windows-operating-systems-from-11-to-xp/"><u>Comprehensive Fixes for hal.dll Malfunction in Windows Operating Systems: From 11 to XP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-d3dx924dll-not-found-expert-tips-and-solutions-for-dll-problems/"><u>Fixing 'd3dx9_24.dll' Not Found: Expert Tips and Solutions for DLL Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-process-of-unfollowing-ex-twitter-contacts-on-x-platform/"><u>Navigating the Process of Unfollowing Ex-Twitter Contacts on X Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-26-free-registry-cleaners-comprehensive-list-and-reviews/"><u>Top 26 Free Registry Cleaners : Comprehensive List & Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-network-server-rack-systems-2024-edition/"><u>Top-Rated Network Server Rack Systems - 2024 Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb/"><u>[New] From Conventional to Cutting-Edge The Shift From Rgb to Srgb</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-instructions-installing-countdown-clocks-in-obs-for-2024/"><u>[New] In-Depth Instructions Installing Countdown Clocks in OBS for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-samsung-galaxy-ring-pricing-availability-dates-features-and-recent-information/"><u>All You Need to Know About the Samsung Galaxy Ring - Pricing, Availability Dates, Features & Recent Information</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny-for-2024/"><u>App Reception A Comprehensive Scrutiny for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-uninstall-tools-a-selection-of-15-options/"><u>Best Free Uninstall Tools: A Selection of 15 Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-a-smartwatch-wisely-5-critical-aspects-to-evaluate-beforehand/"><u>Choosing a Smartwatch Wisely: 5 Critical Aspects to Evaluate Beforehand</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-correcting-a-non-existent-user32dll-error-on-your-pc/"><u>Essential Tips for Correcting a Non-Existent User32.dll Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/handling-errors-a-guide-to-addressing-missing-d3dx933dll-issues/"><u>Handling Errors: A Guide to Addressing Missing d3dx9_33.dll Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-the-power-of-siri-to-convert-text-into-speech-in-apple-ecosystem/"><u>Harnessing the Power of Siri to Convert Text Into Speech in Apple Ecosystem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/"><u>In 2024, Photoshop Face/Background Anonymity Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ingenious-stop-motion-cinema-ranking-the-best-15-for-2024/"><u>Ingenious Stop-Motion Cinema - Ranking the Best 15 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterful-messaging-find-your-go-to-text-transcription-aids-for-2024/"><u>Masterful Messaging Find Your Go-To Text Transcription Aids for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-troubleshooting-a-10-step-approach-for-wifi-adapter-repair/"><u>Mastering Troubleshooting: A 10-Step Approach for WiFi Adapter Repair</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-the-intricacies-of-power-management-in-windows-10-systems/"><u>Navigating Through the Intricacies of Power Management in Windows 10 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-on-finding-and-crafting-spiritual-ringtones-for-2024/"><u>Step-by-Step on Finding and Crafting Spiritual Ringtones for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-how-to-erase-your-yahoo-mail-presence-forever/"><u>The Ultimate Walkthrough: How To Erase Your Yahoo Mail Presence Forever</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-9a-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 9A Location | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-11-24T18:06:02.964Z
-updated: 2024-11-28T17:38:34.297Z
+date: 2024-12-06T20:36:28.694Z
+updated: 2024-12-13T22:15:32.040Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,19 +119,19 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ergonomic-hold-techniques-for-clarity/"><u>[New] 2024 Approved Ergonomic Hold Techniques for Clarity</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[New] 2024 Approved From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-birds-eye-briefing-critique/"><u>[New] Bird's Eye Briefing Critique</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-shoguns-call-a-list-of-top-10-games-reflecting-tsushi-values/"><u>[New] In 2024, Shogun's Call A List of Top 10 Games Reflecting Tsushi Values</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-understanding-and-adhering-to-twitters-video-standards/"><u>[Updated] In 2024, Understanding and Adhering to Twitter's Video Standards</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/15-sensational-tiktok-cooking-challenges-for-your-plate-for-2024/"><u>15 Sensational TikTok Cooking Challenges for Your Plate for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/access-beacon-live-show-download-episodes-anytime-pc-and-mac-compatible/"><u>Access Beacon Live Show: Download Episodes Anytime, PC & Mac Compatible</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decode-kernel-data-inpage-errors-a-diy-fix-guide-to-stabilize-your-system/"><u>Decode Kernel Data Inpage Errors: A DIY Fix Guide to Stabilize Your System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-manipulating-roku-devices-using-alternative-input-methods/"><u>Guide to Manipulating Roku Devices Using Alternative Input Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-halt-government-safety-alarms-on-iphone-screens/"><u>How to Halt Government Safety Alarms on iPhone Screens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-how-to-reserve-time-with-apple-pros-for-personalized-assistance-and-repairs/"><u>Inside Scoop: How to Reserve Time with Apple Pros for Personalized Assistance and Repairs</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/seamless-methods-for-moving-picasa-albums-onto-an-outside-hard-disk/"><u>Seamless Methods for Moving Picasa Albums Onto an Outside Hard Disk</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-the-blue-screen-of-death-and-what-it-really-means-for-your-pc/"><u>The Complete Guide to the Blue Screen of Death and What It Really Means for Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-experience-altering-taskbar-hue/"><u>Transforming Your Windows 11 Experience - Altering Taskbar Hue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-expert-psd-text-framing/"><u>[New] In 2024, Expert PSD Text Framing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ushering-bliss-into-your-unboxing-experience/"><u>[New] Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crack-the-code-to-affordable-tech-securing-your-dell-student-price-advantage/"><u>Crack the Code to Affordable Tech: Securing Your Dell Student Price Advantage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-the-best-free-videodownloaders-for-pinterest/"><u>Discovering the Best Free Videodownloaders for Pinterest</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808287914-easy-steps-for-swiftly-upgrading-to-windows-11-with-a-clean-slate-setup/"><u>Easy Steps for Swiftly Upgrading to Windows 11 with a Clean Slate Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-background-camouflage-on-google-meet-a-comprehensive-walkthrough/"><u>Effortless Background Camouflage on Google Meet – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/from-small-to-significant-expanding-your-desktops-icon-size-in-w11/"><u>From Small to Significant: Expanding Your Desktop's Icon Size in W11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-f5-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco F5 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-the-new-default-password-secrets-of-linksys-models-july-review/"><u>Revealing the New Default Password Secrets of Linksys Models - July Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionize-your-eating-habits-with-these-6-food-tracker-app-recommendations/"><u>Revolutionize Your Eating Habits with These 6 Food Tracker App Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/tiktok-watermark-removal-made-easy-top-picks-and-reviews/"><u>TikTok Watermark Removal Made Easy Top Picks and Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unverifiable-developer-messages-for-mac-users/"><u>Troubleshooting 'Unverifiable Developer' Messages for Mac Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-fluency-top-3-app-based-linguistic-advancement-platforms/"><u>Unlock Fluency: Top 3 App-Based Linguistic Advancement Platforms</u></a></li>
 </ul></div>
 

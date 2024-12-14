@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2024-12-01T18:59:57.391Z
-updated: 2024-12-07T18:48:03.390Z
+date: 2024-12-11T22:50:05.844Z
+updated: 2024-12-13T18:22:41.763Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,18 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-effective-audio-capture-for-your-zoom-sessions-for-2024/"><u>[New] Effective Audio Capture for Your Zoom Sessions for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-virtual-board-functions-across-zoom-devices/"><u>[New] Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-refining-video-aesthetics-for-impeccable-instagram-presence/"><u>[New] Refining Video Aesthetics for Impeccable Instagram Presence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-6-best-youtube-to-mp3-downloader-for-android-for-2024/"><u>[Updated] FREE 6 Best YouTube to MP3 Downloader for Android for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-thumbnail-downloader-solutions-online/"><u>[Updated] In 2024, Free Thumbnail Downloader Solutions Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-premium-10-volume-enhancers-windows-apple-android/"><u>[Updated] In 2024, Premium 10 Volume Enhancers Windows, Apple, Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722895546681-explore-these-10-popular-and-free-email-providers-our-picks/"><u>Explore These 10 Popular and Free Email Providers – Our Picks!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor 90 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-huawei-nova-y71-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Huawei Nova Y71 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/immediate-fixes-for-problems-encountered-while-watching-on-netflix/"><u>Immediate Fixes for Problems Encountered While Watching on Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-vibratingflashing-screen-issues-on-microsoft-surface-pro-with-these-steps/"><u>Resolve Vibrating/Flashing Screen Issues on Microsoft Surface Pro with These Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-enabling-2fa-on-your-gmail-account/"><u>Step-by-Step Guide: Enabling 2FA on Your Gmail Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-guide-unlock-the-power-of-faster-computing-with-our-top-7-hacks/"><u>The Definitive Guide: Unlock the Power of Faster Computing with Our Top 7 Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-20-action-recording-solutions-summary/"><u>[New] 2024 Approved Top 20 Action Recording Solutions Summary</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-boost-mobile-stream-quality-on-android-and-ios-devices/"><u>[New] In 2024, Boost Mobile Stream Quality on Android and iOS Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] In 2024, Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-boundaries-in-post-production-with-ps-3d-luts/"><u>2024 Approved Pushing Boundaries in Post-Production with PS 3D LUTs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/an-in-depth-exploration-of-the-revolutionary-rtx-graphics-cards/"><u>An In-Depth Exploration of the Revolutionary RTX Graphics Cards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-resolve-lameencdll-issues-with-audacity-and-lame-encoder/"><u>Comprehensive Guide: Resolve lame_enc.dll Issues with Audacity and LAME Encoder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enable-internet-trackers-a-comprehensive-guide-to-allowing-cookies/"><u>Enable Internet Trackers: A Comprehensive Guide to Allowing Cookies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-transfer-your-digital-memories-from-google-to-icloud/"><u>How To Effortlessly Transfer Your Digital Memories From Google to iCloud</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-13-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 13 and iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-watch-series-3-released-soon-insights-on-pricing-release-schedule-and-speculated-specifications/"><u>Pixel Watch Series 3 Released Soon? Insights on Pricing, Release Schedule, and Speculated Specifications</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 Pro Max Suddenly | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-inserting-captions-into-insta-stories/"><u>The Ultimate Tutorial for Inserting Captions Into Insta Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-best-no-cost-uninstallers-your-ultimate-guide/"><u>Top 15 Best No-Cost Uninstallers: Your Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-premium-free-digital-planners-for-optimal-time-management/"><u>Top 4 Premium-Free Digital Planners for Optimal Time Management</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/understanding-adware-identifying-harmful-advertisements-and-effective-removal-strategies/"><u>Understanding Adware: Identifying Harmful Advertisements and Effective Removal Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-true-magic-of-middle-earth-watch-lord-of-the-rings-in-its-designed-progression/"><u>Unlock the True Magic of Middle-Earth: Watch 'Lord of the Rings' In Its Designed Progression.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-11-16T19:52:40.138Z
-updated: 2024-11-19T20:59:10.630Z
+date: 2024-12-06T20:16:17.338Z
+updated: 2024-12-13T18:48:36.755Z
 tags:
   - apple
 categories:
@@ -47,10 +47,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -70,10 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -93,10 +87,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -104,6 +95,10 @@ Screenshot by Lance Whitney/ZDNET
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -114,10 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -162,19 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premier-hd-picks-for-impeccable-video-recorders/"><u>[New] Premier HD Picks for Impeccable Video Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>[New] The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-essential-tips-for-snapchat-enterprise-marketing/"><u>[Updated] 2024 Approved Essential Tips for Snapchat Enterprise Marketing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[Updated] Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-slow-to-speed-boost-comparing-level-1-vs-level-2-vs-level-3-electric-vehicle-charging/"><u>From Slow to Speed Boost: Comparing Level 1 vs Level 2 vs Level 3 Electric Vehicle Charging</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-boot-into-safe-mode-on-windows-11-explore-four-effective-strategies-and-images/"><u>Guide to Boot Into Safe Mode on Windows 11: Explore Four Effective Strategies and Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-buy-and-enjoy-virtual-reality-game-experiences-on-the-oculus-meta-quest-2/"><u>How to Buy and Enjoy Virtual Reality Game Experiences on the Oculus (Meta) Quest 2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-your-nonfunctional-disc-drive-working-again-a-complete-walkthrough/"><u>How to Get Your Nonfunctional Disc Drive Working Again: A Complete Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-maintain-a-unified-phone-line-on-all-your-tech-devices/"><u>How to Maintain a Unified Phone Line on All Your Tech Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-intricacies-of-patch-tuesday-for-enhanced-digital-safety/"><u>Navigating the Intricacies of Patch Tuesday for Enhanced Digital Safety</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-correct-missing-jvmdll-file-error-on-your-computer/"><u>Steps to Correct Missing jvm.dll File Error on Your Computer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unleashing-the-full-potential-of-game-characters-with-voice-alteration-strategies-free/"><u>Unleashing the Full Potential of Game Characters with Voice Alteration Strategies (Free)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/upgrading-your-gpu-a-comprehensive-guide/"><u>Upgrading Your GPU: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-customizing-youtube-viewing-policies-for-your-content/"><u>[New] Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-echo-fabricator-bundle-for-2024/"><u>[New] Echo Fabricator Bundle for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-combine-power-tweeting-and-snapping-with-snapchat/"><u>[Updated] 2024 Approved Combine Power Tweeting and Snapping with Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-an-exhaustive-feature-analysis-of-du-recorder/"><u>[Updated] An Exhaustive Feature Analysis of Du Recorder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-newly-leaked-google-pixel-fold-2-price-release-date-and-specs-revealed/"><u>All You Need to Know About the Newly Leaked Google Pixel Fold 2: Price, Release Date & Specs Revealed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-setting-up-shared-access-to-your-printer-from-various-gadgets/"><u>Easy Steps for Setting Up Shared Access to Your Printer From Various Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722866563724-facebook-free-mastering-the-art-of-communicating-through-whatsapp/"><u>Facebook-Free: Mastering the Art of Communicating Through WhatsApp</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stay-connected-with-roku-on-the-go-ideal-for-hotels-and-college-life/"><u>How to Stay Connected with Roku on the Go: Ideal for Hotels and College Life</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-screen-record-on-windows-10-devices/"><u>In 2024, Mastering Screen Record on Windows 10 Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-aspects-for-prospective-buyers-of-secondhand-apple-tablets/"><u>Key Aspects for Prospective Buyers of Secondhand Apple Tablets</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-no-sight/"><u>New Graphics Card No Sight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-watch-series-4-launch-insights-anticipated-pricing-release-timeline-and-specifications/"><u>Pixel Watch Series 4 Launch Insights: Anticipated Pricing, Release Timeline & Specifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-restoring-sound-functionality-on-your-chromecast/"><u>Step-by-Step Solutions: Restoring Sound Functionality on Your Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-best-note-taking-solutions-for-professionals-and-students-2024-edition/"><u>The Ultimate List: Best Note-Taking Solutions for Professionals and Students, 2024 Edition</u></a></li>
 </ul></div>
 

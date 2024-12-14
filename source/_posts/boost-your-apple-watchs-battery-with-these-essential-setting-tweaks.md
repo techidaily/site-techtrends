@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery with These Essential Setting Tweaks!
-date: 2024-12-02T23:01:37.511Z
-updated: 2024-12-07T17:46:08.531Z
+date: 2024-12-11T16:14:49.530Z
+updated: 2024-12-13T20:00:49.122Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -57,6 +61,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -76,10 +84,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -87,7 +91,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -98,10 +102,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -111,7 +111,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -121,7 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -165,22 +165,16 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes/"><u>[New] In 2024, The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-top-tier-video-transcription-aid-automated/"><u>[New] In 2024, Top-Tier Video Transcription Aid, Automated!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-zoom-meetings-quickly/"><u>[Updated] 2024 Approved Mastering Zoom Meetings Quickly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-the-missing-physxloaderdll-error-message/"><u>Easy Solutions for Correcting the Missing physxloader.dll Error Message</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-deal-with-missing-d3dx928dll-error-messages/"><u>Effective Solutions to Deal with Missing d3dx9_28.dll Error Messages</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/effective-strategies-for-employing-digital-tools-in-marketing/"><u>Effective Strategies for Employing Digital Tools in Marketing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-d3dx-library-not-found-d3dx933dll-expert-tips-and-solutions/"><u>Fix D3DX Library Not Found (d3dx9_33.dll): Expert Tips and Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/home-cinema-magic-access-fandango-movies-and-events-via-apple-tv/"><u>Home Cinema Magic: Access Fandango Movies and Events via Apple TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-connect-nintendo-switch-to-a-tv/"><u>How to Connect Nintendo Switch to a TV</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-hot-30-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/splurging-less-with-low-cost-vr-technology-china-for-2024/"><u>Splurging Less with Low-Cost VR Technology (China) for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/tecnicas-simples-para-sharing-de-arquivos-entre-muitos-pcs-por-rede-local/"><u>Técnicas Simples Para Sharing De Arquivos Entre Muitos PCs Por Rede Local</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-9-essential-educational-gadgets-that-empower-students/"><u>The Ultimate List of 9 Essential Educational Gadgets That Empower Students</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transferring-images-seamlessly-from-google-photo-library-to-apples-icloud/"><u>Transferring Images Seamlessly - From Google Photo Library to Apple's iCloud</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-huge-savings-the-best-6-coupons-and-discounts-websites-you-need-to-know-about/"><u>Unlock Huge Savings: The Best 6 Coupons & Discounts Websites You Need to Know About</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unsubscribe-from-hassle-eufy-t8200-review-reveals-premium-doorbell-security-without-monthly-fees/"><u>Unsubscribe From Hassle: Eufy T8200 Review Reveals Premium Doorbell Security Without Monthly Fees</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-watch-on-max-right-now-see-our-expert-recommendations/"><u>What to Watch on Max Right Now? See Our Expert Recommendations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-4k-visionary-review-blades-spectrum-expansion-for-2024/"><u>[Updated] 4K Visionary Review Blade's Spectrum Expansion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas/"><u>[Updated] A Step-by-Step Guide to Crafting Immersive FB Video Experienenas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-the-magic-of-videos-on-windows-mobile/"><u>[Updated] Unleash the Magic of Videos on Windows Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-80072ee2-windows-update-error/"><u>Easy to Fix 80072EE2 Windows Update Error</u></a></li>
+<li><a href="https://article-tips.techidaily.com/is-financial-compensation-behind-product-evaluations/"><u>Is Financial Compensation Behind Product Evaluations?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/safest-and-most-suitable-smartphones-for-children-tech-advice-by-zdnet/"><u>Safest & Most Suitable Smartphones for Children | Tech Advice by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-tackle-windows-security-faults-effectively/"><u>Steps to Tackle Windows Security Faults Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-compelling-ipados-18-innovation-from-wwdc-2024-why-switching-to-an-apple-tablet-now-makes-sense/"><u>The Compelling iPadOS 18 Innovation From WWDC 2024: Why Switching to an Apple Tablet Now Makes Sense</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-exclusive-savings-on-tg-pro-for-m3-macs-up-to-75-off-during-todays-cyber-monday-event/"><u>Unlock Exclusive Savings on TG Pro for M3 Macs - Up to 75% Off During Today's Cyber Monday Event!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-the-pivotal-factors-behind-crowdstrike-and-windows-meltdown-in-2n24-a-historical-analysis-by-zdnet/"><u>Unraveling the Mystery: The Pivotal Factors Behind CrowdStrike and Windows Meltdown in 2N24 - A Historical Analysis by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-being-wired-matters-uncovering-9-positive-traits-of-social-media/"><u>Why Being Wired Matters: Uncovering 9 Positive Traits of Social Media</u></a></li>
 </ul></div>
 

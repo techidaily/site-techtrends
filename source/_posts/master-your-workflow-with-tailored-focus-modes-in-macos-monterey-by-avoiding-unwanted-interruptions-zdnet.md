@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-12-01T22:43:47.247Z
-updated: 2024-12-07T16:09:53.529Z
+date: 2024-12-06T22:22:17.730Z
+updated: 2024-12-13T21:29:08.208Z
 tags:
   - apple
 categories:
@@ -26,19 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +80,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +140,14 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-best-action-cameras-with-front-facing-screen-for-2024/"><u>[New] Best Action Cameras with Front Facing Screen for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flairful-imagery-best-android-collages-unveiled/"><u>[New] Flairful Imagery – Best Android Collages Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-echoing-emotions-infusing-music-into-instareel-content/"><u>[Updated] In 2024, Echoing Emotions Infusing Music Into InstaReel Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-slumber-assistants-on-your-apple-watch-our-number-one-picks/"><u>Discover the Best Slumber Assistants on Your Apple Watch - Our Number One Picks!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-disconnected-display-problems-with-xbox-one/"><u>How to Resolve Disconnected Display Problems with Xbox One</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-se-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone SE without Apple ID?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-playback-pivot-a-step-by-step-yt-guide-for-2024/"><u>Mastering Playback Pivot A Step-by-Step YT Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/masterpiece-makers-best-apps-of-2024-photos/"><u>Masterpiece Makers Best Apps of 2024 Photos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/our-favorite-selection-of-free-software-maintenance-and-updater-applications/"><u>Our Favorite Selection of Free Software Maintenance and Updater Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-issues-with-unopenable-microsoft-word-documents-expert-tips-and-tricks/"><u>Solving Issues with Unopenable Microsoft Word Documents: Expert Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-essential-mobile-apps-every-teen-needs-in-high-school/"><u>Top 10 Essential Mobile Apps Every Teen Needs in High School</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-steps-for-your-260ci-vehicles-wifi-to-usb-driver-error/"><u>Troubleshooting Steps for Your 260Ci Vehicle's WiFi-to-USB Driver Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-list-the-5-most-effective-free-apps-for-learning-languages-2024-selection/"><u>Ultimate List: The 5 Most Effective Free Apps for Learning Languages - 2024 Selection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-ins-and-outs-of-domestic-charging-stations-for-electric-cars/"><u>Understanding the Ins and Outs of Domestic Charging Stations for Electric Cars</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-new-horizons-in-technology-the-toms-hardware-way/"><u>Unveiling New Horizons in Technology - The Tom's Hardware Way</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-top-text-tilt-treasures/"><u>[New] In 2024, Top Text Tilt Treasures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-picks-excellent-4k-displays-for-playing-games/"><u>[Updated] Top Picks Excellent 4K Displays for Playing Games</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-ring-video-doorbell-2-surpassing-expectations/"><u>Comprehensive Review of Ring Video Doorbell ^2 - Surpassing Expectations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-ios-18-now-complete-guide-and-compatible-iphone-models-revealed-learn-everything-you-need-on-zdnet/"><u>Download IOS 18 Now: Complete Guide & Compatible iPhone Models Revealed! - Learn Everything You Need on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-how-to-choose-the-perfect-laptop-for-academic-success/"><u>Essential Tips: How to Choose the Perfect Laptop for Academic Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/labor-day-special-save-big-and-grab-the-new-apple-pencil-for-only-95-the-perfect-time-to-upgrade-deals/"><u>Labor Day Special! Save Big and Grab the New Apple Pencil for Only $95 - The Perfect Time to Upgrade Deals</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-account-management-essential-tips-for-tweaking-control-panel-configurations-expertise-from-yl-software/"><u>Mastering Account Management: Essential Tips for Tweaking Control Panel Configurations - Expertise From YL Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-the-maze-a-comprehensive-guide-to-mov-capture-in-win10-for-2024/"><u>Navigating the Maze A Comprehensive Guide to MOV Capture in Win10 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-streaming-learn-how-to-pair-your-amazon-fire-stick-remote-with-ease/"><u>Seamless Streaming: Learn How to Pair Your Amazon Fire Stick Remote with Ease</u></a></li>
 </ul></div>
 

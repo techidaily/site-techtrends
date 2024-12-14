@@ -1,7 +1,7 @@
 ---
 title: Discover Exclusive Savings on Laptops for July 2Vee - Featured Selection by ZDNet
-date: 2024-12-03T22:07:38.519Z
-updated: 2024-12-07T19:41:15.704Z
+date: 2024-12-10T19:08:18.253Z
+updated: 2024-12-13T22:06:10.003Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -101,6 +97,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ee85d8c-f8ab-4a63-8d7d-cdb5bbf528d1%7Cdtp&dtb=1)
@@ -115,6 +115,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ee85d8c-f8ab-4a63-8d7d-cdb5bbf528d1%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -127,6 +131,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -138,7 +146,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple MacBook deals
@@ -153,10 +161,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -170,7 +174,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
@@ -181,10 +185,6 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Graphics card/GPU:** Again, gamers and content creators will want a higher graphics card to reflect the beautiful imagery for their gaming. I personally recommend that gamers opt for at least an RTX 3060 at the moment. However, again, internet surfers and workers shouldn't worry too much about the graphics if you're focusing on building out Word documents.
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
@@ -257,24 +257,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-excellence-on-screen-the-years-best-camcorders-reviewed-for-2024/"><u>[New] Excellence on Screen The Year's Best Camcorders Reviewed for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-8-social-and-adventure-games-for-oculus-users-for-2024/"><u>[New] Top 8 Social & Adventure Games for Oculus Users for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>[Updated] 2024 Approved Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-elevate-your-online-meeting-with-customized-google-meet-for-2024/"><u>[Updated] Elevate Your Online Meeting with Customized Google Meet for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-beginners-guide-to-building-the-perfect-home-theatre/"><u>Affordable Beginner's Guide to Building the Perfect Home Theatre</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-honor-magic-5-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor Magic 5 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capturing-desktop-views-on-hp-computers-a-detailed-tutorial/"><u>Capturing Desktop Views on HP Computers: A Detailed Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-efficient-maintenance-of-mechanical-keyboards/"><u>Expert Tips for Efficient Maintenance of Mechanical Keyboards</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-seamlessly-integrate-captions-into-youtube-videos/"><u>How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-xs-max-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone XS Max? Fixed | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-striking-a-balance-in-youtube-thumbnail-sizing/"><u>In 2024, Striking a Balance in YouTube Thumbnail Sizing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-6s-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 6s You Should Try Out</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-facebooks-visual-search-a-step-by-step-guide/"><u>Mastering Facebook's Visual Search: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-gta-5-stuttering-issues-optimized-performance-fixes/"><u>Say Goodbye to GTA 5 Stuttering Issues - Optimized Performance Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/score-amazing-deals-on-ipads-right-now/"><u>Score Amazing Deals on iPads Right Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-common-issues-with-non-functioning-zoom-cameras/"><u>Solving Common Issues with Non-Functioning Zoom Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-powerpoint-playback-sounds-issues/"><u>Step-by-Step Fixes for PowerPoint Playback Sounds Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-understanding-and-fixing-blue-screen-stop-codes/"><u>Ultimate Guide: Understanding and Fixing Blue Screen Stop Codes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-electric-vehicles-excel-over-traditional-gasoline-cars-unveiling-the-reasons/"><u>Why Electric Vehicles Excel Over Traditional Gasoline Cars: Unveiling the Reasons</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-landscape-of-augmented-reality-stickers-spotlight-on-google/"><u>[New] In 2024, The Landscape of Augmented Reality Stickers Spotlight on Google</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-securing-your-work-top-10-photo-watermark-solutions/"><u>[New] Securing Your Work Top 10 Photo Watermark Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-on-demand-content-examination-summary/"><u>[Updated] 2024 Approved On-Demand Content Examination Summary</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-snapchat-for-income-for-2024/"><u>[Updated] Leveraging Snapchat for Income for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-award-winners-in-writing-for-different-movie-types/"><u>2024 Approved Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-spearheads-worldwide-effort-to-foster-reliable-and-ethical-artificial-intelligence-advanc/"><u>ABBYY Spearheads Worldwide Effort to Foster Reliable and Ethical Artificial Intelligence Advanc</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-and-efficient-the-20-anker-power-bank-that-solves-all-your-travel-charger-woes-insights/"><u>Affordable & Efficient: The $20 Anker Power Bank That Solves All Your Travel Charger Woes - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-unveils-vision-pro-the-ultimate-machine-for-entertainment-discover-its-features/"><u>Apple Unveils Vision Pro: The Ultimate Machine for Entertainment - Discover Its Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clear-view-again-a-comprehensive-fix-for-lines-appearing-on-your-television-screen/"><u>Clear View Again: A Comprehensive Fix for Lines Appearing on Your Television Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-utiliser-les-applications-premium-pour-transformer-vos-extraits-youtube-en-fichiers-wav/"><u>Comment Utiliser Les Applications Premium Pour Transformer Vos Extraits YouTube en Fichiers WAV ?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-exciting-new-features-with-the-iphone-and-ipad-ios-18-preview/"><u>Discover Exciting New Features with the iPhone & iPad iOS 18 Preview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-zdnet-reveals-new-advances-in-apples-iphone-lineup-enhanced-spatial-recording-and-thinner-edges-for-all-models-iphone-16-series/"><u>Exclusive: ZDNet Reveals New Advances in Apple's iPhone Lineup - Enhanced Spatial Recording & Thinner Edges for All Models | iPhone 16 Series</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-5-leading-firms-are-boosting-their-productivity-with-the-innovative-apple-vision-pro-a-zdnet-insight/"><u>How 5 Leading Firms Are Boosting Their Productivity with the Innovative Apple Vision Pro - A ZDNET Insight</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-razr-40-ultra-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Razr 40 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-ending-your-subscription-to-apple-music-without-using-itunes/"><u>Step-by-Step Guide: Ending Your Subscription to Apple Music Without Using iTunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-resolve-problem-resetting-your-computer-alerts/"><u>Troubleshooting: How to Resolve 'Problem Resetting Your Computer' Alerts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unboxing-success-the-critical-first-5-tasks-for-your-fresh-computer-system/"><u>Unboxing Success: The Critical First 5 Tasks for Your Fresh Computer System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-the-power-of-a-convertible-laptoptablet-inside-look-at-lenovos-innovative-creation-analyzed-on-zdnet/"><u>Unlocking the Power of a Convertible Laptop/Tablet: Inside Look at Lenovo's Innovative Creation | Analyzed on ZDNET</u></a></li>
 </ul></div>
 

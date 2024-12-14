@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-11-18T16:11:41.653Z
-updated: 2024-11-19T23:17:16.487Z
+date: 2024-12-12T20:00:09.005Z
+updated: 2024-12-13T19:48:52.577Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ But then something sort of magical happened -- I started using the app. Once I u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Craft?
 
 According to the official website, Craft is built for digital devices from the ground up and brings the joy back to writing.   
@@ -36,10 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,18 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-troubleshooting-common-issues-when-uploading-to-apple/"><u>[New] 2024 Approved Troubleshooting Common Issues When Uploading to Apple</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-tips-for-creating-engaging-screencasts-for-2024/"><u>[Updated] Expert Tips for Creating Engaging Screencasts for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-optimize-your-screen-sessions-with-obs-and-skype/"><u>2024 Approved Optimize Your Screen Sessions with OBS & Skype</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-motherboard-driver-downloads-and-windows-installation-tutorials-for-optimal-performance/"><u>ASUS Motherboard Driver Downloads and Windows Installation Tutorials for Optimal Performance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/cloaked-glance-at-social-media-snapshits/"><u>Cloaked Glance at Social Media Snapshits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722897016596-expert-fixes-for-when-your-samsung-soundbar-goes-quiet-comprehensive-solutions/"><u>Expert Fixes for When Your Samsung Soundbar Goes Quiet: Comprehensive Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-huawei-nova-y71-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Huawei Nova Y71 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-msodll-file-missing-error-quickly-and-easily/"><u>How to Resolve 'Mso.dll' File Missing Error Quickly & Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-no-text-message-reception-issues-on-your-android-device/"><u>Troubleshooting No Text Message Reception Issues on Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-steps-for-crafting-an-oculus-quest-quest-2-user-profile/"><u>Ultimate Steps for Crafting an Oculus Quest / Quest 2 User Profile</u></a></li>
-<li><a href="https://techtrends.techidaily.com/xbox-one-and-external-hdds-how-to-improve-your-gaming-experience/"><u>Xbox One and External HDDs: How to Improve Your Gaming Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-innovative-browsing-strategies-with-picture-in-picture-mode/"><u>[New] 2024 Approved Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-expert-recommendations-for-efficient-gif-makers/"><u>[Updated] Expert Recommendations for Efficient GIF Makers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-future-of-wireless-technology-an-insight-into-802ebe-ax-ac-bgn-and-a-networking-standards/"><u>Decoding the Future of Wireless Technology: An Insight Into 802.ebe, Ax, Ac, B/G/N & a Networking Standards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-screen-issues-a-step-by-step-guide-to-fix-pixelation-and-fading-colors/"><u>Eliminating Screen Issues: A Step-by-Step Guide to Fix Pixelation & Fading Colors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-f5-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco F5 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>In 2024, Expert's Choice Gimbals Top-Ranked For 4K Cameras</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-your-kindle-paperwhites-time-zone-and-hour-easy-instructions-inside/"><u>Resetting Your Kindle Paperwhite's Time Zone and Hour – Easy Instructions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-shelldll-cannot-be-located-error-a-step-by-step-guide/"><u>Resolving the 'Shell.dll Cannot Be Located' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/secret-snapsnapping-techniques-unseen-screen-captures-for-2024/"><u>Secret SnapSnapping Techniques Unseen Screen Captures for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-navigate-and-search-with-the-wayback-machine/"><u>Step-by-Step Instructions: How to Navigate and Search with the Wayback Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-must-watch-tv-series-streaming-on-max/"><u>Top Picks: Must-Watch TV Series Streaming on Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-11-kid-easy-vlog-camcorders-waterproof-for-2024/"><u>Ultimate Guide Top 11 Kid-Easy Vlog Camcorders, Waterproof for 2024</u></a></li>
 </ul></div>
 

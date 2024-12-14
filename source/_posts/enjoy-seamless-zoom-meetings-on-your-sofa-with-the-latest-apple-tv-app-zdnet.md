@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-11-21T16:58:24.548Z
-updated: 2024-11-28T17:01:14.348Z
+date: 2024-12-07T23:15:07.755Z
+updated: 2024-12-13T20:09:15.667Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -41,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -67,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -77,7 +81,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -90,15 +94,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -107,10 +111,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,22 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-5-simple-steps-to-record-your-youtube-streams-for-2024/"><u>[New] 5 Simple Steps to Record Your YouTube Streams for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-low-fee-android-communication-options-10-best/"><u>[New] Low-Fee Android Communication Options, 10 Best</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>[New] Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-differentiate-yourself-with-these-critical-yt-shorts-hacks-for-2024/"><u>[Updated] Differentiate Yourself with These Critical YT Shorts Hacks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-stepwise-approach-to-leveraging-gpt-3-power-in-openai-playground/"><u>A Stepwise Approach to Leveraging GPT-3 Power in OpenAI Playground</u></a></li>
-<li><a href="https://techtrends.techidaily.com/accidental-double-posting-learn-to-undo-replicates-on-tiktok-here/"><u>Accidental Double-Posting? Learn to Undo Replicates on TikTok Here!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-4-cost-free-calendar-apps-to-boost-your-organization-skills/"><u>Best 4 Cost-Free Calendar Apps To Boost Your Organization Skills</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-duckduckgos-privacy-advantages-an-in-depth-analysis/"><u>Discovering DuckDuckGo's Privacy Advantages: An In-Depth Analysis</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/erwecken-sie-ihre-aus-dem-papierkorb-geloschten-dokumente-wieder-zum-leben-fallsuche-erforderlich/"><u>Erwecken Sie Ihre Aus Dem Papierkorb Gelöschten Dokumente Wieder Zum Leben - Fallsuche Erforderlich!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facing-glitches-in-nintendos-cloud-gaming-service-is-it-a-widespaster-or-individual-problem/"><u>Facing Glitches in Nintendo's Cloud Gaming Service – Is It a Widespaster or Individual Problem?</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-gearing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-comprehensive-i/"><u>In 2024, Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/preserving-web-memories-your-complete-guide-to-accessing-past-versions-with-the-wayback-machine/"><u>Preserving Web Memories: Your Complete Guide to Accessing Past Versions with the Wayback Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/teslas-robotaxi-revealed-unveiling-the-cost-launch-timeline-and-technical-details-dont-miss-these-latest-buzz/"><u>Tesla's Robotaxi Revealed! Unveiling the Cost, Launch Timeline & Technical Details - Don't Miss These Latest Buzz</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-multitasking-with-picture-in-picture-on-android-platforms/"><u>The Complete Guide to Multitasking with Picture-in-Picture on Android Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/toms-guide-to-next-gen-tech-your-ultimate-source-for-hardware-knowledge/"><u>Tom's Guide to Next-Gen Tech: Your Ultimate Source for Hardware Knowledge</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/your-personal-igtv-channel-guide-for-inspiration-for-2024/"><u>Your Personal IGTV Channel Guide for Inspiration for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-6-effective-ways-of-resizing-your-igtv-videos-for-2024/"><u>[Updated] 6 Effective Ways of Resizing Your IGTV Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-party-pulse-perfect-dj-content-for-events/"><u>[Updated] Party Pulse Perfect DJ Content for Events</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-video-quality-on-youtube-top-formats-revealed-for-2024/"><u>[Updated] Streamlining Video Quality on YouTube – Top Formats Revealed for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/advanced-visual-treatment-adding-effects-on-videos-pcmobile-for-2024/"><u>Advanced Visual Treatment Adding Effects on Videos (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-your-console-ps5-slim-versus-standard-ps5/"><u>Choosing Your Console: PS5 Slim Versus Standard PS5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/console-like-conundrums-computer-gaming-issues/"><u>Console-Like Conundrums: Computer Gaming Issues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cost-effective-tp-link-re100-ax600-mesh-wi-fi-extender-assessment-and-review/"><u>Cost-Effective TP-Link RE100 AX600 Mesh Wi-Fi Extender Assessment and Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-variances-neo-qled-vs-oled-televisions-explained/"><u>Decoding The Variances: Neo QLED vs OLED Televisions Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-marvel-world-through-apple-vision-pro-on-its-launch-day-may-30-reported/"><u>Explore Marvel World Through Apple Vision Pro on Its Launch Day, May 30 | Reported</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Headphone Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-link-your-drivers-license-with-your-iphones-wallet-application-instructions-vary-by-region/"><u>How to Link Your Driver’s License with Your iPhone’s Wallet Application: Instructions Vary by Region</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-slug-lines-a-step-by-step-approach/"><u>In 2024, Crafting Compelling Slug Lines A Step-by-Step Approach</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stay-in-the-loop-with-top-ncaa-boys-basketball-matches-radio-broadcast-for-march-madness-and-final-four-fever/"><u>Stay in the Loop with Top NCAA Boys' Basketball Matches - Radio Broadcast for March Madness & Final Four Fever</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tcl-launches-extended-range-of-q-and-s-series-introducing-19-brand-new-smart-tv-models/"><u>TCL Launches Extended Range of Q & S Series: Introducing 19 Brand-New Smart TV Models</u></a></li>
+<li><a href="https://win-best.techidaily.com/the-essential-how-to-for-windows-users-effortless-copy-and-paste-techniques-unlocked-with-yl-computing-solutions/"><u>The Essential How-To for Windows Users: Effortless Copy & Paste Techniques - Unlocked with YL Computing Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-notch-laptop-bargains-in-july-2024-find-your-perfect-match-on-zdnet/"><u>Top Notch Laptop Bargains in July 2024: Find Your Perfect Match on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-apple-band-options-thoroughly-evaluated-by-pros-on-zdnet/"><u>Top-Ranking Apple Band Options - Thoroughly Evaluated by Pros on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-with-system-recovery-learn-how-to-overcome-the-pc-reset-issue/"><u>Trouble with System Recovery? Learn How to Overcome the 'PC Reset Issue'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-apple-intelligence-comprehensive-guide-to-future-ai-capabilities-in-ios-and-macos-devices-zdnet/"><u>Unlock the Secrets of Apple Intelligence: Comprehensive Guide to Future AI Capabilities in iOS and macOS Devices | ZDNet</u></a></li>
 </ul></div>
 

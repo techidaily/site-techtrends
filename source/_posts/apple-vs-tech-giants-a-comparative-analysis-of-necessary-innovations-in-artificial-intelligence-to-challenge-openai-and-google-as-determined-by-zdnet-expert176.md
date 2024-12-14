@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-12-04T18:30:24.413Z
-updated: 2024-12-07T21:07:54.520Z
+date: 2024-12-06T20:05:12.533Z
+updated: 2024-12-13T16:33:55.444Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -95,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -112,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,17 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-high-engagement-stories-filters-list/"><u>[Updated] In 2024, High-Engagement Stories Filters List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-complete-look-at-hand-recognition-systems-for-2024/"><u>A Complete Look at Hand Recognition Systems for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oneplus-11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from OnePlus 11 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-ideal-eq-settings-to-maximize-your-devices-hearing-capabilities/"><u>In 2024, Ideal EQ Settings to Maximize Your Devices Hearing Capabilities</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/masterizza-i-backup-del-tuo-sistema-windows-11-su-synology-nas-in-due-passaggi-semplici/"><u>Masterizza I Backup Del Tuo Sistema Windows 11 Su Synology NAS in Due Passaggi Semplici</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-submerged-iphoneipod-effective-drying-techniques/"><u>Revive Your Submerged iPhone/iPod: Effective Drying Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-image-upgrading-and-substitution-using-the-powerful-editoimage-toolkit/"><u>Revolutionize Image Upgrading & Substitution Using the Powerful EditoImage Toolkit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-correcting-vertical-distortion-issues-in-samsung-tvs/"><u>Step-by-Step Solutions: Correcting Vertical Distortion Issues in Samsung TVs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-essential-guide-why-adding-thumbsticks-grips-to-all-your-controllers-enhances-playtime/"><u>The Essential Guide: Why Adding Thumbsticks Grips to All Your Controllers Enhances Playtime</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-embedding-transcripts-in-instagram-stories/"><u>The Ultimate Tutorial for Embedding Transcripts in Instagram Stories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-oneplus-10-projections-on-launch-costs-specs-and-insider-gossip/"><u>Unveiling the OnePlus 10: Projections on Launch, Costs, Specs & Insider Gossip</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upcoming-prime-day-bonanza-discover-the-ultimate-best-deals-on-walmart-target-and-more/"><u>Upcoming Prime Day Bonanza: Discover the Ultimate Best Deals on Walmart, Target & More!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[Updated] Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-editors-toolkit-using-markers-in-professional-editing-for-2024/"><u>[Updated] The Editor's Toolkit Using Markers in Professional Editing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-top-4-apple-devices-that-are-not-worth-purchasing-currently-techinsights/"><u>1. Top 4 Apple Devices That Are Not Worth Purchasing Currently | TechInsights</u></a></li>
+<li><a href="https://article-files.techidaily.com/7-best-sbt-to-srtr-conversion-software-for-desktop-use/"><u>7 Best SBT to SRTR Conversion Software for Desktop Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-in-arithmetic-and-algebra/"><u>AI in Arithmetic and Algebra</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-watch-battery-durability-revealed-expectations-vs-reality/"><u>Apple Watch Battery Durability Revealed – Expectations Vs. Reality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/defeating-the-blue-screen-expert-tips-for-fixing-critical-errors/"><u>Defeating the Blue Screen: Expert Tips for Fixing Critical Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dont-miss-out-discover-the-finest-prime-day-bargains-for-apple-products-exclusive-list-and-deals-zdnet/"><u>Don't Miss Out! Discover the Finest Prime Day Bargains for Apple Products - Exclusive List & Deals | ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>In 2024, Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/labor-day-bargain-alert-uncover-the-reasons-behind-my-top-pick-apple-watch-ultra-2-insider-tips-on-wearables/"><u>Labor Day Bargain Alert! Uncover the Reasons Behind My Top Pick: Apple Watch Ultra 2 | Insider Tips on Wearables</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/secure-and-official-purchase-guide-get-the-latest-winx-dvd-ripper-for-macos-users/"><u>Secure & Official Purchase Guide: Get the Latest WinX DVD Ripper for macOS Users</u></a></li>
 </ul></div>
 

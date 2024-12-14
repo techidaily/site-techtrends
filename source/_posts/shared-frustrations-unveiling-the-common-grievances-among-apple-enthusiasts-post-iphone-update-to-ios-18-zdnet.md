@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Unveiling the Common Grievances Among Apple Enthusiasts Post-iPhone Update to iOS 18 | ZDNet"
-date: 2024-11-17T19:10:57.835Z
-updated: 2024-11-19T16:27:15.653Z
+date: 2024-12-08T16:27:33.796Z
+updated: 2024-12-13T21:35:08.235Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Camera Control button
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,22 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-directly-connect-youtube-tunes-to-imovie-seamlessly/"><u>[New] 2024 Approved Directly Connect YouTube Tunes to iMovie Seamlessly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-high-definition-capturing-for-switch-gamers/"><u>[New] In 2024, High Definition Capturing for Switch Gamers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-five-game-changing-updates-from-facebook/"><u>[Updated] In 2024, Top Five Game-Changing Updates From Facebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>[Updated] The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/attraction-tactics-romantic-german-phrases/"><u>Attraction Tactics: Romantic German Phrases</u></a></li>
-<li><a href="https://techtrends.techidaily.com/chronological-cinema-journey-the-perfect-way-to-binge-the-conjuring/"><u>Chronological Cinema Journey: The Perfect Way to Binge 'The Conjuring'</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/combining-footage-with-ease-expert-tips-for-multiplexing-videos-using-windows/"><u>Combining Footage with Ease: Expert Tips for Multiplexing Videos Using Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-perfect-srt-output-with-premiere-pro/"><u>Crafting Perfect SRT Output with Premiere Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/customizing-your-pc-tips-for-altering-the-color-of-the-taskbar-in-windows-11/"><u>Customizing Your PC: Tips for Altering the Color of the Taskbar in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-when-d3dx92missingnot-found-dll-cannot-be-located/"><u>How to Address When D3dx9_2([missing|not Found]) DLL Cannot Be Located</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-y27-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y27 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-update-zoom-on-your-desktop-windows-or-mac/"><u>How to Update Zoom on Your Desktop (Windows or Mac)</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-pc-graphics-driver-issues-stop-minecraft-from-crashing-on-windows/"><u>Resolving PC Graphics Driver Issues: Stop Minecraft From Crashing on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-to-screen-capture-using-your-hewlett-packard-portable-device/"><u>The Complete Walkthrough to Screen Capture Using Your Hewlett Packard Portable Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/twitch-platform-status-understanding-downtime-vs-personal-connectivity-issues/"><u>Twitch Platform Status: Understanding Downtime vs Personal Connectivity Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-rumors-get-the-scoop-on-google-tv-streamer-future-price-availability-dates-and-gadget-features-revealed/"><u>Unraveling Rumors: Get the Scoop on Google TV Streamer – Future Price, Availability Dates, and Gadget Features Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722874548505-unveiling-the-best-free-email-services-our-favorite-picks-revealed/"><u>Unveiling the Best Free Email Services – Our Favorite Picks Revealed!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-transform-ideas-into-engaging-movies-using-youtube-editor/"><u>[New] 2024 Approved Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-rise-of-the-alternative-top-3-video-sharing-websites/"><u>[New] In 2024, Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-is-splitcam-the-pinnacle-of-recording-capabilities-for-2024/"><u>[Updated] Is SplitCam The Pinnacle of Recording Capabilities for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-breaking-down-the-selfie-security-on-insta/"><u>2024 Approved Breaking Down the Selfie Security on Insta</u></a></li>
+<li><a href="https://driver-download.techidaily.com/achieve-seamless-razer-device-performance-with-updated-drivers-on-windows-win11-win87xpvista/"><u>Achieve Seamless Razer Device Performance with Updated Drivers on Windows (Win11, Win8/7/XP/Vista)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-unwanted-amber-alerts-tips-for-android-users/"><u>Avoid Unwanted AMBER Alerts: Tips for Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/common-fixes-for-android-messaging-problems-and-no-text-reception/"><u>Common Fixes for Android Messaging Problems and No Text Reception</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-greatest-80s-movies-to-stream-immediately/"><u>Discover the Greatest '80S Movies to Stream Immediately</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-errors-related-to-absence-of-msvcr1-groovydll-file/"><u>Fixing Errors Related to Absence of MSVCR1 groovy.dll File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-motorola-moto-g24-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Motorola Moto G24? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-innovation-hub-explore-over-120-creative-title-concepts-to-personalize-your-storytelling/"><u>In 2024, Snapchat Innovation Hub Explore over 120 Creative Title Concepts to Personalize Your Storytelling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-straightforward-pathway-for-tiktok-to-facebook/"><u>In 2024, The Straightforward Pathway for TikTok to Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-pair-airpods-with-a-nintendo-switch-device/"><u>Is It Possible To Pair AirPods With A Nintendo Switch Device?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-amazon-prime-captions-solutions-for-non-functioning-subtitles/"><u>Reviving Your Amazon Prime Captions: Solutions for Non-Functioning Subtitles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-storage-caches-in-your-android-device/"><u>Step-by-Step Guide: Removing Storage Caches in Your Android Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-microphones-for-various-youtube-content-creators/"><u>Top Microphones for Various YouTube Content Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-your-apple-devices-hidden-app-features/"><u>Unlocking Your Apple Device's Hidden App Features</u></a></li>
 </ul></div>
 

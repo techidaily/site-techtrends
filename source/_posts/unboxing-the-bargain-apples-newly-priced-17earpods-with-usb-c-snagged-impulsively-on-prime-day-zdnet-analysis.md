@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis"
-date: 2024-11-12T17:24:27.752Z
-updated: 2024-11-19T19:42:25.472Z
+date: 2024-12-07T22:19:44.332Z
+updated: 2024-12-13T21:59:29.152Z
 tags:
   - apple
 categories:
@@ -43,15 +43,16 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
@@ -63,10 +64,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -76,10 +74,7 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (mid-tier) if...
@@ -95,16 +90,7 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -151,24 +137,22 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/harting-your-course-through-youtube-compliance-for-2024/"><u>[New] Charting Your Course Through YouTube Compliance for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[New] In 2024, Hidden Details You Need to Know About YouTube TV Service</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers/"><u>[Updated] 2024 Approved Cutting-Edge Openings at No Cost The Best YouTube Intro Makers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-strategic-insights-into-making-emotional-connection-with-customer-success-videos/"><u>[Updated] Strategic Insights Into Making Emotional Connection with Customer Success Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/access-instas-content-without-creating-an-account/"><u>Access Insta's Content Without Creating an Account</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/bridging-the-gap-integrating-spotify-and-youtube-music-playlists-for-2024/"><u>Bridging the Gap Integrating Spotify and YouTube Music Playlists for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery!</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/efficient-lead-generation-using-the-cookiebot-platform/"><u>Efficient Lead Generation Using the Cookiebot Platform</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-live-streams-seamlessly-using-manycam-premier-tools-for-digital-videography-and-remote-webcams/"><u>Enhance Live Streams Seamlessly Using ManyCam – Premier Tools for Digital Videography and Remote Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-airing-apple-tvplus-content-on-your-google-cast-screen/"><u>Expert Advice: Airing Apple TV+ Content on Your Google Cast Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-effective-are-evs-when-facing-extreme-weather-challenges/"><u>How Effective Are EVs When Facing Extreme Weather Challenges?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-pause-playback-automatically-on-apple-music-for-a-seamless-listening-experience/"><u>How to Pause Playback Automatically on Apple Music for a Seamless Listening Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-screenplays-reviewed/"><u>In 2024, Pinnacle Screenplays Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>In 2024, Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-6-best-playstation-mario-adventures/"><u>The Ultimate Selection of 6 Best PlayStation Mario Adventures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tips-for-optimal-performance-with-your-meta-quest-headsets-built-in-microphone/"><u>Ultimate Tips for Optimal Performance with Your Meta Quest Headset's Built-In Microphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-the-confusion-key-differences-between-cat5-and-cat6-network-cables/"><u>Unraveling the Confusion: Key Differences Between Cat5 and Cat6 Network Cables</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-2024s-a-list-top-network-server-racks-and-secure-cabinets-compared/"><u>Unveiling 2024'S A-List: Top Network Server Racks and Secure Cabinets Compared!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-exclusive-list-of-cost-free-public-dns-networks-available-now/"><u>Unveiling Exclusive List of Cost-Free Public DNS Networks Available Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-list-of-ad-free-android-capturing-apps/"><u>[New] In 2024, Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-amateur-to-expert-crafting-professional-gopro-content/"><u>[Updated] From Amateur to Expert Crafting Professional Gopro Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-power-of-social-sharing-for-your-youtube-videos/"><u>[Updated] Unlock the Power of Social Sharing for Your YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/8-free-driver-revitalizers-your-comprehensive-guide-for-july-2024/"><u>8 Free Driver Revitalizers - Your Comprehensive Guide for July 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-admin-lockdown/"><u>Bypassing Windows 11 Admin Lockdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cross-platform-compatibility-converting-and-opening-iwork-pages-on-a-windows-machine/"><u>Cross-Platform Compatibility: Converting and Opening iWork Pages on a Windows Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-a-5n-gateway-failure-a-step-by-step-guide/"><u>Diagnosing and Repairing a 5N-Gateway Failure: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-a-frozen-chromebook-quickly-with-these-8-tips/"><u>Fix a Frozen Chromebook Quickly with These 8 Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-the-unavailable-d3dx940dll-issue-on-your-pc/"><u>How to Address and Fix the Unavailable d3dx9_40.dll Issue on Your PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-hurdles-in-collaboration-how-to-determine-if-its-a-microsoft-teams-glitch-or-personal-network-problem/"><u>Identifying Hurdles in Collaboration: How to Determine If It's a Microsoft Teams Glitch or Personal Network Problem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-honor-x50-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor X50 FRP?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/motorola-mg7700-assessment-fast-and-dependable-performance/"><u>Motorola MG7700 Assessment - Fast and Dependable Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sneak-peek-at-the-next-gen-samsung-galaxy-z-flip-7-specs-rumored-costs-and-release-forecast/"><u>Sneak Peek at the Next-Gen Samsung Galaxy Z Flip 7: Specs, Rumored Costs, and Release Forecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-removing-your-likes-from-the-entire-spotify-playlist/"><u>Step-by-Step Tutorial: Removing Your Likes From the Entire Spotify Playlist</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-m54-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy M54 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

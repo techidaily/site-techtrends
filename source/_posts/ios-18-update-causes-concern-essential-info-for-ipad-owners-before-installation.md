@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Update Causes Concern: Essential Info for iPad Owners Before Installation"
-date: 2024-11-15T16:15:52.556Z
-updated: 2024-11-19T22:17:25.043Z
+date: 2024-12-09T23:22:52.947Z
+updated: 2024-12-13T18:29:08.972Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,27 +109,16 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>[New] 2024 Approved Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-techniques-in-logitech-webcam-video-recording-for-2024/"><u>[New] Advanced Techniques in Logitech Webcam Video Recording for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-vibrant-video-vibes-merging-melodies-with-media/"><u>[Updated] 2024 Approved Vibrant Video Vibes Merging Melodies with Media</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-f23-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-minecraft-realms-worth-your-time-and-money/"><u>Are Minecraft Realms Worth Your Time and Money?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-msidll-errors-missing-or-not-detected/"><u>Comprehensive Solutions for msi.dll Errors: Missing or Not Detected</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-these-4-amazing-no-cost-web-based-calendar-apps/"><u>Discover These 4 Amazing No-Cost Web-Based Calendar Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/july-2024-netgear-device-passwords-your-comprehensive-guide/"><u>July 2024 Netgear Device Passwords: Your Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-battling-together-a-guide-to-dueling-with-friends-in-pokemon-go/"><u>Mastering the Art of Battling Together: A Guide to Dueling with Friends in Pokémon GO</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-android-and-iphone-with-these-leading-8-ai-downloads/"><u>Revolutionize Your Android and iPhone with These Leading 8 AI Downloads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-terminating-your-paramountplus-service/"><u>Step-by-Step Guide: Terminating Your Paramount+ Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-how-to-for-implementing-tracert-diagnostics-tool-on-windows-systems/"><u>The Definitive How-To for Implementing Tracert Diagnostics Tool on Windows Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-picks-why-the-oneplus-nord-n10-5g-stands-out-in-a-crowded-market/"><u>Top Picks: Why the OnePlus Nord N10 5G Stands Out in a Crowded Market</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-audio-content-structuring-your-rss-feed/"><u>Transforming Audio Content Structuring Your RSS Feed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-16pro-defenders-expert-verified-picks-cnet/"><u>Ultimate Guide to iPhone 16/Pro Defenders : Expert Verified Picks | CNET</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-stories-6-premier-apps-for-snapchat-filters-for-2024/"><u>[New] Transform Your Stories 6 Premier Apps for Snapchat Filters for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>[Updated] 2024 Approved SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-uncover-the-best-15-free-web-based-image-editing-tools-of-2023-for-2024/"><u>[Updated] Uncover the Best 15 Free Web-Based Image Editing Tools of 2023 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-linear-display-anomalies-on-personal-computers/"><u>Comprehensive Fixes for Linear Display Anomalies on Personal Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-the-silent-phone-effective-remedies-to-restore-your-iphones-ringtones/"><u>Diagnosing the 'Silent Phone': Effective Remedies to Restore Your iPhone's Ringtones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-integrating-various-fortnite-accounts-efficiently/"><u>Expert Tips on Integrating Various Fortnite Accounts Efficiently</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-easily-save-online-content-on-your-mac-unlimited-conversions-and-free-downloads-in-multiple-formats-mp4-mov-avi/"><u>How To Easily Save Online Content on Your Mac - Unlimited Conversions and Free Downloads in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-mysteries-of-proper-youtube-channel-monetization/"><u>In 2024, Unlocking the Mysteries of Proper YouTube Channel Monetization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-color-grading-techniques-with-luts/"><u>Integrating Color Grading Techniques with Luts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722887307809-watching-fubotv-heres-how-you-can-stream-it-using-fire-stick-easily/"><u>Watching FuboTV? Here's How You Can Stream It Using Fire Stick Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/yahoo-messenger-explained-its-history-and-reason-behind-the-closure/"><u>Yahoo! Messenger Explained: Its History and Reason Behind the Closure</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

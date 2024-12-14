@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2024-11-17T21:24:13.366Z
-updated: 2024-11-19T17:14:33.255Z
+date: 2024-12-09T17:16:32.236Z
+updated: 2024-12-13T20:07:51.241Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -15,6 +15,11 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 >
 
 ## Join Forces with a Companion for Ultimate Pokémon Catching Success
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Tap your trainer profile and select**Buddy History** to add or swap your_Pokémon Go_ buddy.
@@ -31,13 +36,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
  In_Pokémon Go_ , you’re allowed one buddy Pokémon at a time and can change this Pokémon for another one up to 20 times per day. Here’s how to swap your buddy Pokémon.  
@@ -48,8 +46,16 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
@@ -76,23 +82,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
 
@@ -101,10 +97,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
@@ -146,18 +139,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-channel-hunt-best-historical-youtubes-that-every-student-should-watch/"><u>[Updated] Channel Hunt Best Historical YouTubes That Every Student Should Watch</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mycam-vs-others-a-comparative-camera-performance-study/"><u>2024 Approved MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-p40-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-poco-f5-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Poco F5 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-ways-to-link-your-pc-or-laptop-with-a-logitech-mouse/"><u>Easy Ways to Link Your PC or Laptop With a Logitech Mouse</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare-for-2024/"><u>Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-the-anticipated-apple-car-tracking-developments-in-price-estimations-scheduled-debut-and-engineering-innovations/"><u>Inside Scoop on the Anticipated Apple Car: Tracking Developments in Price Estimations, Scheduled Debut, and Engineering Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mitigating-overload-warning-on-chatgpt-windows/"><u>Mitigating Overload Warning on ChatGPT (Windows)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-jvmdll-error-messages-on-your-computer/"><u>Solving JVM.DLL Error Messages on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-the-non-functional-audio-issue-in-windows-7/"><u>Troubleshooting Tips: Fixing the Non-Functional Audio Issue in Windows 7</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/virtual-showdown-evaluating-obs-versus-twitchs-channel-space-for-2024/"><u>Virtual Showdown Evaluating OBS Versus Twitch's Channel Space for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722865761243-why-cant-you-answer-calls-with-your-samsung-galaxy-watch-finding-solutions/"><u>Why Can't You Answer Calls With Your Samsung Galaxy Watch? Finding Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-the-secrets-to-stunning-and-shareable-tiktok-videos/"><u>[New] 2024 Approved Unlock the Secrets to Stunning and Shareable TikTok Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevating-your-ar-projects-with-custom-downloadable-luts/"><u>2024 Approved Elevating Your AR Projects with Custom, Downloadable LUTS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clarifying-internet-telephony-everything-you-need-to-know-about-wi-fi-calling/"><u>Clarifying Internet Telephony: Everything You Need to Know About Wi-Fi Calling</u></a></li>
+<li><a href="https://solve-info.techidaily.com/come-rimuovere-completamente-la-memoria-ssd-nvme-dal-tuo-sistema-operativo-windows-11-metodo-sicuro-e-dettagliato/"><u>Come Rimuovere Completamente La Memoria SSD NVMe Dal Tuo Sistema Operativo Windows 11 - Metodo Sicuro E Dettagliato</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-fujitsu-scansnap-ix1600-assessment-the-ultimate-workstation-scanner/"><u>Comprehensive Fujitsu ScanSnap iX1600 Assessment: The Ultimate Workstation Scanner</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-recurrent-disk-filling-on-windows-pcs/"><u>Fixes for Recurrent Disk Filling on Windows PCs</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-share-your-iphone-pictures-via-bluetooth-connectivity-with-another-iphone/"><u>How To Share Your iPhone Pictures via Bluetooth Connectivity with Another iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/internet-cemiyetinde-soylenceki-videoden-ses-cikarma-asagidaki-2-yaklasim/"><u>İnternet Cemiyeti'nde Söylenceki Video'den Ses Çıkarma - Aşağıdaki 2 Yaklaşım</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-for-properly-citing-conversational-ai-systems-like-chatgpt/"><u>Steps for Properly Citing Conversational AI Systems Like ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stream-with-style-integrating-apple-tv-into-your-fire-stick-experience/"><u>Stream with Style: Integrating Apple TV Into Your Fire Stick Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-six-main-reasons-for-your-cars-recurring-dead-battery-problems/"><u>The Six Main Reasons for Your Car's Recurring Dead Battery Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/title-tag-and-meta-description-incorporate-primary-keywords-in-the-title-tag-for-instance-quantum-computings-potential-to-revolutionize-ai-explore-how-ensur30/"><u>Title Tag and Meta Description: Incorporate Primary Keywords in the Title Tag. For Instance, Quantum Computing's Potential to Revolutionize AI - Explore How. Ensure Your Meta Description Includes Secondary Keywords or Long Tail Terms Too.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-factors-you-need-to-know-before-investing-in-a-used-or-pre-owned-laptop/"><u>Top 5 Factors You Need to Know Before Investing in a Used or Pre-Owned Laptop</u></a></li>
 </ul></div>
 

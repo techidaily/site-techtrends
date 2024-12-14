@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending Voice Notes via iOS Devices"
-date: 2024-11-14T22:12:12.765Z
-updated: 2024-11-19T20:58:49.578Z
+date: 2024-12-08T23:24:17.593Z
+updated: 2024-12-13T20:19:20.865Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Sending Voice Notes via iOS Devices"
@@ -24,20 +24,32 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
@@ -51,23 +63,7 @@ thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
@@ -80,19 +76,6 @@ Certain items are specifically excluded, including:
 * Xbox consoles and games.
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Does Microsoft Verify Student Enrollment?
 
@@ -133,20 +116,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-10plus-creative-youtubes-channel-names-for-aspiring-vloggers-no-more-than-156-characters/"><u>[New] 2024 Approved Top 10+ Creative YouTubes Channel Names for Aspiring Vloggers (No More than 156 Characters)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-leaderboard-of-the-best-web-capture-apps/"><u>[Updated] 2024 Approved The Leaderboard of the Best Web Capture Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-non-rooting-audio-recording-on-your-android-phone-for-2024/"><u>[Updated] Non-Rooting Audio Recording on Your Android Phone for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-psychology-behind-effective-interviews/"><u>2024 Approved The Psychology Behind Effective Interviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/alternate-browsers-for-smart-tvs-how-to-change-your-samsungs-default-option/"><u>Alternate Browsers for Smart TVs: How to Change Your Samsung's Default Option</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-anyone-fast-a-user-friendly-guide-to-searching-on-facebook/"><u>Find Anyone Fast: A User-Friendly Guide to Searching on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-built-in-gps-on-ipads-determine-your-models-navigation-capabilities/"><u>Guide to Built-In GPS on iPads – Determine Your Model's Navigation Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-implementing-automated-accounts-in-your-discord-community/"><u>Guide: Implementing Automated Accounts in Your Discord Community</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11-and-10-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11 & 10</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-and-speed-up-mastering-the-art-of-android-cache-clearance/"><u>Simplify and Speed Up: Mastering the Art of Android Cache Clearance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-your-dvd-bd-and-cd-drives-when-they-refuse-to-eject/"><u>Ultimate Guide: Troubleshooting Your DVD, BD & CD Drives When They Refuse to Eject</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/utilizing-luts-for-enhanced-color-correction-in-pscc-for-2024/"><u>Utilizing LUTs for Enhanced Color Correction in PSCC for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>[New] 2024 Approved Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-duo-dynamics-instagram-tiktok-confluence-guide-for-2024/"><u>[New] Duo Dynamics Instagram-TikTok Confluence Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-high-definition-video-production-in-the-facebook-era/"><u>[New] In 2024, Navigating High Definition Video Production in the Facebook Era</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[Updated] 2024 Approved Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mirthful-montage-mastering-7-comical-video-vignettes/"><u>[Updated] Mirthful Montage Mastering 7 Comical Video Vignettes</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/boosting-visual-clarity-mastering-video-upgrades-with-adobe-premiere-pro/"><u>Boosting Visual Clarity: Mastering Video Upgrades with Adobe Premiere Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-to-dvd-blu-ray-and-cd-drives-that-wont-open/"><u>How To Restore Functionality to DVD, Blu-Ray & CD Drives That Won't Open</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-your-broadcasts-enhancing-online-presence-with-manycam-technology/"><u>Master Your Broadcasts: Enhancing Online Presence with ManyCam Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-premier-selection-of-cable-modemrouter-hybrids-in-2e24/"><u>The Premier Selection of Cable-Modem/Router Hybrids in 2E24</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-answer-can-you-link-airpods-with-your-nintendo-switch-for-audio-output/"><u>The Ultimate Answer: Can You Link AirPods with Your Nintendo Switch for Audio Output?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-titles-only-available-on-playstation-5-your-complete-guide/"><u>Top Titles Only Available on PlayStation 5: Your Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-your-ps5-dualsense-steps-to-resolve-charging-issues/"><u>Troubleshooting Your PS5 DualSense: Steps To Resolve Charging Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-resolve-the-mapp32dll-not-found-issue/"><u>Troubleshooting: How to Resolve the 'mapp32.dll Not Found' Issue</u></a></li>
 </ul></div>
 

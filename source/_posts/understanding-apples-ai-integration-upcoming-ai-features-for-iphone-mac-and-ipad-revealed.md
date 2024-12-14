@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-12-04T22:33:40.185Z
-updated: 2024-12-07T21:18:23.580Z
+date: 2024-12-08T20:17:44.065Z
+updated: 2024-12-13T21:24:06.171Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,6 +59,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-accelerate-how-to-swiftly-broadcast-playlists/"><u>[New] In 2024, Accelerate How To Swiftly Broadcast Playlists</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-amplify-engagement-a-compilation-of-powerful-30-freegame-tags-for-2024/"><u>[Updated] Amplify Engagement A Compilation of Powerful 30 FreeGame Tags for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726224231290-avchdmp4/"><u>「オンラインでフリー:高品質なAVCHDからMP4への変換ツール」</u></a></li>
-<li><a href="https://fox-links.techidaily.com/beginners-guide-to-best-entry-level-cams-2024/"><u>Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambie-sus-clips-wav-a-compatibles-con-mp4-o-3gp-por-nada-usando-la-herramienta-online-de-movavi/"><u>Cambie Sus Clips .wav a Compatibles Con MP4 O .3Gp Por Nada, Usando La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convertissez-un-fichier-caf-en-fichier-m4r-gratuitement-sur-internet-movavi/"><u>Convertissez Un Fichier CAF en Fichier M4R Gratuitement Sur Internet - Movavi</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-elements-for-implementing-channel-banners-in-games-for-2024/"><u>Essential Elements for Implementing Channel Banners in Games for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratuit-mp4-converteren-van-caf-naar-online-movavi/"><u>Gratuit MP4-Converteren Van CAF Naar Online - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-se-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone SE In Easy Steps | Stellar</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/microsofts-enduring-consequences-a-decade-after-mobile-missteps-insights-from-zdnet/"><u>Microsoft's Enduring Consequences: A Decade After Mobile Missteps - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-ram-wav/"><u>MOVAVI 在線自由邊輸出 RAM 到 WAV 格式：直覺上的選擇</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavi-photo-retoucher-the-ultimate-image-editing-tool/"><u>Movavi Photo Retoucher: The Ultimate Image Editing Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavis-on-line-voc-en-wmv-toevoegprogramma-gratuit-benutvriendelijk-and-gedefinieerd/"><u>Movavi's On-Line VOC en WMV Toevoegprogramma: Gratuit, Benutvriendelijk & Gedefinieerd</u></a></li>
-<li><a href="https://fox-making.techidaily.com/resolve-issues-with-your-lenovo-laptops-function-key-f11-and-reduce-downtangle/"><u>Resolve Issues with Your Lenovo Laptop's Function Key (F11) and Reduce Downtangle</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-correct-the-lame-mp3-encoder-dll-problem-in-audacity/"><u>Step-by-Step Instructions to Correct the Lame MP3 Encoder DLL Problem in Audacity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/webp-to-jpg-image-transformation-made-simple-with-movavis-conversion-software/"><u>WebP to JPG Image Transformation Made Simple with Movavi's Conversion Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-to-recording-snapchat-on-devices/"><u>[New] Step-by-Step to Recording Snapchat on Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-investigating-the-practical-usefulness-of-photo-stabilization/"><u>[Updated] Investigating the Practical Usefulness of Photo Stabilization</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-application-development-with-nuxt-and-laravel-master-the-craft-using-json-api-and-argon-dashboard-pro/"><u>Advanced Application Development with Nuxt & Laravel - Master the Craft Using JSON API and Argon Dashboard PRO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-effective-solutions-for-dealing-with-code-pressing-the-c-key-twice-to-activate-code-completion-or-if-necessary-reinstalling-or-repairing-your-of36/"><u>Expert Tips: Effective Solutions for Dealing with Code Pressing the 'C' Key Twice to Activate Code Completion or, if Necessary, Reinstalling or Repairing Your Office Software From a Trusted Source Can Also Be Effective Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-craft-the-ultimate-guide-to-using-the-top-mac-os-document-editing-app-tips-and-tricks-revealed/"><u>Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/next-level-technology-unveiled-discover-the-latest-evolution-in-iphones/"><u>Next-Level Technology Unveiled: Discover the Latest Evolution in iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reprogram-ram-settings-for-maximum-performance-in-win-11/"><u>Reprogram RAM Settings for Maximum Performance in Win 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapping-memories-from-your-gameplay-step-by-step-photos-on-ps4/"><u>Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mastering-the-art-of-airpod-resets-and-recognizing-essential-scenarios/"><u>Step-by-Step Guide: Mastering the Art of AirPod Resets & Recognizing Essential Scenarios</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-choosing-and-acquiring-the-ideal-home-entertainment-system/"><u>Step-by-Step Strategies: Choosing and Acquiring the Ideal Home Entertainment System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-pc-workaround-for-console-gaming-recordings-for-2024/"><u>The Ultimate PC Workaround for Console Gaming Recordings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlock-potential-the-15-best-tools-for-transforming-fb-revenue/"><u>Unlock Potential The 15 Best Tools for Transforming FB Revenue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-unresponsive-desktop-troubleshooting-frozen-systems-easily/"><u>Unstick Your Unresponsive Desktop: Troubleshooting Frozen Systems Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-is-the-enhancement-justifiable-for-apple-aficionados-gizmodo-comparison-guide/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro: Is the Enhancement Justifiable for Apple Aficionados? | Gizmodo Comparison Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/who-are-the-worlds-most-popular-youtube-channels/"><u>Who Are the World's Most Popular YouTube Channels?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-11-30T17:58:49.387Z
-updated: 2024-12-07T16:27:27.609Z
+date: 2024-12-08T16:45:48.570Z
+updated: 2024-12-13T16:30:59.198Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -37,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -47,10 +51,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-youtube-file-access-tips/"><u>[Updated] 2024 Approved Direct YouTube File Access Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-deciphering-the-best-youtube-video-trackers-for-success/"><u>[Updated] In 2024, Deciphering the Best YouTube Video Trackers for Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-undead-universe-discover-the-top-8-zombie-games/"><u>[Updated] In 2024, Undead Universe Discover the Top 8 Zombie Games</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-solve-dvd-playback-issues-with-our-expert-tips-for-your-standalone-media-player/"><u>1. Solve DVD Playback Issues with Our Expert Tips for Your Standalone Media Player</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-secondary-shots-tips-and-tricks/"><u>2024 Approved Integrating Secondary Shots Tips and Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-strategies-to-repair-missing-dciman32dll-errors/"><u>Comprehensive Strategies to Repair Missing dciman32.dll Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dragon-ball-mastery-the-perfect-order-for-binge-watching/"><u>Dragon Ball Mastery: The Perfect Order for Binge-Watching</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-libxml2dll-error-restoring-the-missing-dll-component/"><u>Effective Fixes for libxml2.dll Error: Restoring the Missing DLL Component</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210935105-9781667457345-el-abogado-del-alma/"><u>El Abogado del Alma | Free Book</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software-for-2024/"><u>From Novice to Expert A Comprehensive Guide to Mac's Preview Software for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-google-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Google Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-tv-shows-streaming-on-discovery-plus-in-july-2024-our-picks/"><u>Top TV Shows Streaming on Discovery Plus in July 2024 - Our Picks!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-focussnap-recorder-for-screen-masters/"><u>[New] In 2024, FocusSnap Recorder for Screen Masters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-formulating-engaging-content-excerpts-for-streaming/"><u>[Updated] 2024 Approved Formulating Engaging Content Excerpts for Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>[Updated] From YouTube to High-Quality MPEGs The Essential Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-fb-story-potential-4-effective-techniques/"><u>2024 Approved Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beyond-the-iphone-era-smartphone-options-that-outshine-retired-models-of-iphone-13-and-iphone-15-pro/"><u>Beyond the iPhone Era: Smartphone Options That Outshine Retired Models of iPhone 13 and iPhone 15 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/community-disappointment-in-upgrading-iphones-to-ios-18-a-collective-experience/"><u>Community Disappointment in Upgrading iPhones to iOS 18 – A Collective Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-errors-wpcapdll-file-not-found-or-missing/"><u>Effective Fixes for Errors: Wpcap.dll File Not Found or Missing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-audio-clarity-with-your-meta-quest-microphone-best-practices/"><u>Enhancing Audio Clarity with Your Meta Quest Microphone – Best Practices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-apples-enhanced-nfc-technology-opens-new-doors-for-third-party-developers-on-iphones-discover-the-impact-and-advantages-techinsider/"><u>How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-find-and-save-your-favorite-sport-highlights-top-downloading-platforms-revealed/"><u>How to Find & Save Your Favorite Sport Highlights: Top Downloading Platforms Revealed</u></a></li>
+<li><a href="https://discover-community.techidaily.com/kostengunstig-abspielen-von-dvds-keine-downloads-lizenzierter-freier-codec-nutzen/"><u>Kostengünstig Abspielen Von DVDs - Keine Downloads, Lizenzierter Freier Codec Nutzen</u></a></li>
+<li><a href="https://win-able.techidaily.com/premiere-promov/"><u>Premiere Pro初心者向けMOVファイルエクスポートチュートリアル</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/simplify-your-workflow-10-essential-timecode-calculators-for-filmmakers-for-2024/"><u>Simplify Your Workflow 10 Essential Timecode Calculators for Filmmakers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-enjoying-android-app-functionality-in-windows-11-environment/"><u>The Ultimate How-To: Enjoying Android App Functionality in Windows 11 Environment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits-for-2024/"><u>Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-saving-secrets-how-to-retrieve-archived-reels-on-instagram/"><u>Uncover Saving Secrets: How to Retrieve Archived Reels on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-i-prefer-apples-new-mini-iphone-16-pro-over-the-iphone-16-max-insights/"><u>Why I Prefer Apple's New Mini iPhone 16 Pro Over the iPhone 16 Max : Insights</u></a></li>
 </ul></div>
 

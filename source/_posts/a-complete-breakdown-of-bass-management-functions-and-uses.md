@@ -1,7 +1,7 @@
 ---
 title: A Complete Breakdown of Bass Management Functions & Uses
-date: 2024-11-16T17:15:56.041Z
-updated: 2024-11-19T23:52:41.382Z
+date: 2024-12-10T21:32:35.112Z
+updated: 2024-12-13T20:28:17.299Z
 categories:
   - BestProducts
 description: This Article Describes A Complete Breakdown of Bass Management Functions & Uses
@@ -31,6 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 
 Anthem AV
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Implementing Bass Management
 
  A home theater system ([usually anchored by a home theater receiver](https://www.lifewire.com/set-up-home-theater-receiver-4119787) ) needs to distribute sound frequencies to the correct channels and speakers to replicate a cinema-like experience. Bass management provides this tool.
@@ -43,13 +47,6 @@ Anthem AV
 
 ![Home Theater Surround Sound Setup](https://www.lifewire.com/thmb/C2Ylgsm50obYhBhgkcAnDxWB1TI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/home-theater-surround-sound-setup-a-585c25c23df78ce2c3549b62.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  adventtr / Getty Images
 
  After you connect the speakers with (or without) a subwoofer, go into the home theater receiver's on-screen setup menu and find the speaker setup or configuration menu. There should be an option to tell the receiver which speakers and subwoofer are connected.
@@ -57,10 +54,11 @@ Anthem AV
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
@@ -74,30 +72,25 @@ Anthem AV
 * Experiment with both floor-standing speaker options (mixed or subwoofer only) for low frequencies and hear what works best for you. You can always redo the settings.
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Subwoofer vs. LFE
 
  When deciding which of the above options to use, most movie soundtracks on DVD, Blu-ray Disc, and some streaming sources contain a specific[LFE (Low-Frequency Effects)](https://www.dolby.com/uploadedFiles/Assets/US/Doc/Professional/38%5FLFE.pdf) channel ([Dolby](https://www.lifewire.com/dolby-digital-ex-plus-1846885) and[DTS](https://www.lifewire.com/what-is-dts-1846889) surround formats).
 
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
 
 Many home theater receivers provide outputs for two subwoofers.
 
 ![Onkyo TX-NR787 Dual Subwoofer Output](https://www.lifewire.com/thmb/Jo0UqJirlpMSGg-_A1SWgcKZ8nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/onkyo-tx-nr787-dual-sub-outs-a-5c07f338c9e77c000169e852.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Onkyo USA
 
@@ -117,6 +110,10 @@ Onkyo USA
 * The receiver analyzes the information and determines the speaker distance, balances the output levels between the speakers, and finds the best points where the frequencies are divided between the speakers and the subwoofer.
 
  Although convenient for most setups, this method isn't always accurate. It can sometimes miscalculate speaker distance and the speaker/subwoofer frequency points, setting the center channel output too low or the subwoofer output too high. However, you can correct these manually after the fact, if desired.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Setting Bass Management Manually
 
@@ -139,21 +136,7 @@ Onkyo USA
 
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -205,24 +188,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-striking-visuals-that-move-us-top-20-instagram-photos/"><u>[New] 2024 Approved Striking Visuals that Move Us Top 20 Instagram Photos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uilding-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[New] Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-embark-on-a-virtual-journey-with-iphone-vr-videos/"><u>[New] Embark on a Virtual Journey with iPhone VR Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-complete-guide-to-facebooks-live-feature-how-to-and-best-practices-for-2024/"><u>[New] The Complete Guide to Facebook's Live Feature How-To & Best Practices for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effective-strategies-to-eliminate-the-windows-security-alert-phishing-scheme/"><u>Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-a-non-responsive-search-in-windows-10-easily-and-quickly/"><u>Fixing a Non-Responsive Search in Windows 10 Easily & Quickly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c300-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C300 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improve-your-online-speed-essential-fixes-for-slow-connections/"><u>Improve Your Online Speed: Essential Fixes for Slow Connections</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-must-have-luts-to-transform-your-lightroom-images/"><u>In 2024, 10 Must-Have LUTs to Transform Your LightRoom Images</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>In 2024, Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-ahead-date-set-for-samsungs-monumental-tech-showcase-rumors-and-official-information/"><u>Inside Look Ahead: Date Set for Samsung's Monumental Tech Showcase – Rumors & Official Information</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-roku-remote-enabling-your-devices-closed-captions-effortlessly/"><u>Mastering the Roku Remote: Enabling Your Device’s Closed Captions Effortlessly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mic-diagnostics-made-easy-the-fastest-way-to-ensure-crystal-clear-audio/"><u>Mic Diagnostics Made Easy: The Fastest Way to Ensure Crystal Clear Audio</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mobile-hotspot-magic-enabling-streaming-on-your-fire-stick-without-traditional-wi-fi/"><u>Mobile Hotspot Magic: Enabling Streaming on Your Fire Stick Without Traditional Wi-Fi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recovering-your-snaps-the-ultimate-method-for-reactivating-a-deactivated-account/"><u>Recovering Your Snaps: The Ultimate Method for Reactivating a Deactivated Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsungs-roadmap-to-2eplus6-a-comprehensive-guide-on-dates-announcements-and-buzz-for-tech-enthusiasts/"><u>Samsung's Roadmap to 2E+6: A Comprehensive Guide on Dates, Announcements & Buzz for Tech Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-apple-watch-deals-this-month/"><u>The Best Apple Watch Deals This Month</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722868813082-top-tips-for-optimizing-your-television-system-for-a-memorable-super-bowl-viewing-party/"><u>Top Tips for Optimizing Your Television System for a Memorable Super Bowl Viewing Party</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-do-when-your-macbook-air-freezes-up-solutions-inside/"><u>What to Do When Your MacBook Air Freezes Up - Solutions Inside</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-drone-motors-choose-the-5-best-motors-for-your-quadcopter/"><u>[New] 2024 Approved Drone Motors Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-using-supplementary-film-scenes/"><u>[New] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tips-to-improve-profile-cover-videos-for-2024/"><u>[New] Tips to Improve Profile Cover Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>[Updated] Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-xr21-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia XR21 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-cinema-magic-in-3d-comfortably-master-fandangos-online-viewing/"><u>Enjoy Cinema Magic in 3D Comfortably: Master Fandango's Online Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps4-gameplay-hd-video-creation-a-comprehensive-how-to-guide-for-gamers/"><u>PS4 Gameplay HD Video Creation: A Comprehensive How-To Guide for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-securing-your-apple-genius-bar-appointment/"><u>Step-by-Step Guide: Securing Your Apple Genius Bar Appointment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-final-say-on-yahoo-mail-permanent-account-removal-explained/"><u>The Final Say on Yahoo Mail: Permanent Account Removal Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Note 30? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - A Match for the M3 MacBook Air!"
-date: 2024-12-02T17:17:00.368Z
-updated: 2024-12-07T22:24:09.955Z
+date: 2024-12-07T22:40:17.780Z
+updated: 2024-12-13T19:05:58.136Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -57,7 +53,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,6 +68,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -83,6 +83,10 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -97,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -111,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -123,10 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,24 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-experts-guide-to-effortless-video-submissions-on-igtv/"><u>[New] The Expert's Guide to Effortless Video Submissions on IGTV</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks/"><u>[Updated] In 2024, The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-how-to-start-your-vlog-and-make-money-from-it/"><u>2024 Approved How to Start Your Vlog and Make Money From It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/behind-the-wizardry-of-chatgpt-microsofts-brainchild-explored/"><u>Behind the Wizardry of ChatGPT: Microsoft's Brainchild Explored</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/best-fb-video-extractors-for-ios-devices-ranked-1-for-2024/"><u>Best FB Video Extractors for iOS Devices Ranked #1 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/buddy-system-boost-enhancing-your-pokemon-expeditions-together/"><u>Buddy System Boost: Enhancing Your Pokémon Expeditions Together</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-mastering-cloud-based-play-on-xbox-game-pass-ultimate/"><u>Essential Tips: Mastering Cloud-Based Play on Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-connecting-an-array-of-wireless-speakers-to-one-device/"><u>Expert Tips for Connecting an Array of Wireless Speakers to One Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-security-alert-developer-cannot-be-verified-errors-on-apple-computers/"><u>How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-linksys-ea9500-router-advanced-tech-for-seamless-connectivity/"><u>In-Depth Look at the Linksys EA9500 Router: Advanced Tech for Seamless Connectivity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-asus-rog-phone-8-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Asus ROG Phone 8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-customized-folder-views-in-finders-a-step-by-step-tutorial/"><u>Setting Up Customized Folder Views in Finders - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-to-creating-personalized-projector-screens/"><u>The Beginner's Handbook to Creating Personalized Projector Screens</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-coredll-error-tips-and-tricks-to-get-it-working-again/"><u>The Ultimate Fix for 'Core.dll Error': Tips and Tricks to Get It Working Again</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-5-essentials-what-you-need-to-know-when-purchasing-a-pre-owned-ipad/"><u>Top 5 Essentials: What You Need to Know When Purchasing a Pre-Owned iPad</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-steam-release-frozen-game-files-on-pc/"><u>Troubleshooting Steam: Release Frozen Game Files on PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/turning-videos-into-dollars-the-ultimate-mobile-focused-youtubers-manual-for-2e24-for-2024/"><u>Turning Videos Into Dollars The Ultimate Mobile-Focused YouTuber's Manual for 2E24 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-remove-your-tiktok-profile/"><u>Ultimate Guide: Steps to Remove Your TikTok Profile</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-easy-steps-to-free-online-and-offline-animation/"><u>[New] 2024 Approved Easy Steps to Free Online & Offline Animation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-blending-real-and-digital-environments-in-webcasts/"><u>[New] Expert Tips on Blending Real and Digital Environments in Webcasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cut-through-the-chaos-advanced-strategies-for-editing-tiktok-saves/"><u>[Updated] 2024 Approved Cut Through the Chaos Advanced Strategies for Editing TikTok Saves</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>[Updated] In 2024, Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-unveils-surprising-high-value-feature-349-ipad-steals-show-at-exciting-let-loose-launch-techinsights/"><u>Apple Unveils Surprising High-Value Feature: $349 iPad Steals Show at Exciting 'Let Loose' Launch | TechInsights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-find-archived-versions-of-pages-with-the-wayback-machines-powerful-tools/"><u>Discover How to Find Archived Versions of Pages with the Wayback Machine's Powerful Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/does-iphone-15-pro-max-offer-durable-waterproof-features/"><u>Does iPhone 15 Pro Max Offer Durable Waterproof Features?</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-roblox-launch-issues-expert-advice-and-fixes-for-gamers/"><u>Fixing Roblox Launch Issues: Expert Advice and Fixes for Gamers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-handle-liquid-found-in-iphone-charging-port-solutions-explored/"><u>How to Handle Liquid Found in iPhone Charging Port - Solutions Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/introducing-apples-new-ultimate-entertainment-device-the-revolutionary-vision-pro/"><u>Introducing Apple’s New 'Ultimate Entertainment Device': The Revolutionary Vision Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-cross-promotion-opportunities-with-a-seamless-pinterest-and-facebook-integration-tutorial/"><u>Maximize Cross-Promotion Opportunities with a Seamless Pinterest and Facebook Integration Tutorial</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/transform-your-tiktok-narratives-incor-written-by-assistant-ai-for-2024/"><u>Transform Your TikTok Narratives Incor Written by Assistant AI for 2024</u></a></li>
 </ul></div>
 

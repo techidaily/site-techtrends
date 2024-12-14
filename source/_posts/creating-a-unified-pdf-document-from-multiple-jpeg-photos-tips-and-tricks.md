@@ -1,7 +1,7 @@
 ---
 title: Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
-date: 2024-11-17T17:12:40.092Z
-updated: 2024-11-19T17:10:17.668Z
+date: 2024-12-09T21:19:24.728Z
+updated: 2024-12-13T18:24:37.586Z
 categories:
   - BestProducts
 description: This Article Describes Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
@@ -27,10 +27,7 @@ Close
  This article explains how to combine multiple JPEGs into one PDF on Windows and Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Multiple JPEGs Into One PDF on Windows
@@ -45,21 +42,26 @@ Close
 ![Print in context menu on Windows 10](https://www.lifewire.com/thmb/3xVL2aLbBB03wybMTfT49-Wnycs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle48-e4ddc7b39d474a13b426c529d9d1dfce.jpg)
 4. Under**Printer** , choose**Microsoft Print to PDF** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see**Microsoft Print To PDF** as an option, you need to[ set up print to PDF](https://www.lifewire.com/print-to-pdf-4147601) in your Windows settings. On Windows 7 and 8, you need to install a[ PDF creator](https://www.lifewire.com/free-tools-to-create-pdf-files-1356335) like doPDF.  
 ![Microsoft Print to PDF in Windows 10 Printer dialog](https://www.lifewire.com/thmb/p3IiqiFSFIE5T7z1aC3c8Y9RVnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle49-bc1e4c00c6774f3facef9276808e1a6b.jpg)
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
 6. Select**Print** , then enter a name for the PDF and choose where you want to save it. Select**Save** to finish.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You now have a PDF file containing all your images you can print or attach to an email.  
 
@@ -76,31 +78,15 @@ Close
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternately, choose**Send in Mail** to send the PDF to someone directly as an email attachment.  
 ![Save as PDF in Mac Printer dialog](https://www.lifewire.com/thmb/T5qiCILDPCq3USXycr-nMv-R36I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle54-46f2d6bf443140d78f6fc2c1494e5921.jpg)
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
 
-![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
 
  When you open the PDF, you can add more images by dragging them into the document. To delete an image, select it > go to the Preview menu > click**Edit** \>**Delete** .
 
@@ -142,20 +128,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-making-memories-special-the-best-20-snapchat-filter-ideas/"><u>[New] Making Memories Special The Best 20 Snapchat Filter Ideas</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[Updated] In 2024, Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209857784-9780965178013-a-daily-dose-of-mindful-moments/"><u>A Daily Dose of Mindful Moments | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipate-the-galaxy-s25-ultra-arrival-breaking-down-possible-specs-release-date-and-pricing-estimates/"><u>Anticipate the Galaxy S25 Ultra Arrival: Breaking Down Possible Specs, Release Date, and Pricing Estimates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-in-selfie-technology-with-our-fugetek-ft-568-selfie-stick-breakdown/"><u>Discover The Best in Selfie Technology With Our Fugetek FT-568 Selfie Stick Breakdown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/djd-snaps-adding-tracks-to-enhance-videos-for-2024/"><u>DJ'd Snaps Adding Tracks to Enhance Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-notebook-trouble-heres-how-to-get-your-windows-11-audio-working-again/"><u>HP Notebook Trouble? Here's How to Get Your Windows 11 Audio Working Again!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-11-pro-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 11 Pro Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-bond-experience-the-definitive-order-to-watch-all-the-espionage-thrillers/"><u>Master Your Bond Experience: The Definitive Order to Watch All the Espionage Thrillers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-your-super-bowl-enjoyment-with-advanced-tv-and-sound-system-configurations/"><u>Maximizing Your Super Bowl Enjoyment with Advanced TV and Sound System Configurations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-syncing-of-apple-tv-plus-shows-and-movies-onto-chromecast-devices-explained/"><u>Seamless Syncing of Apple TV Plus Shows and Movies Onto Chromecast Devices Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-buzz-on-pc-fans-how-to-reduce-the-noise-of-your-machines-cooler/"><u>The Buzz on PC Fans: How to Reduce the Noise of Your Machine's Cooler</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-efectivos-metodos-para-redimensionar-videos-sin-comprometer-la-claridad-soluciones-libres-de-arte-de-onda/"><u>Top 10 Efectivos Métodos Para Redimensionar Vídeos Sin Comprometer La Claridad: Soluciones Libres De Arte De Onda</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-gaming-systems-in-2-the-future-unveiled/"><u>Top Rated Gaming Systems in 2# - The Future Unveiled</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-simplify-avi-video-editing-16-top-avi-cutters-for-trimming-and-cutting-cross-platform-compatibility-for-2024/"><u>Updated Simplify AVI Video Editing 16 Top AVI Cutters for Trimming and Cutting Cross-Platform Compatibility for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-pioneers-8-youtubes-fastest-climbers/"><u>[New] 2024 Approved Fresh Pioneers 8 YouTube's Fastest Climbers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ease-and-speed-effective-methods-for-comment-removal/"><u>[Updated] Ease and Speed Effective Methods for Comment Removal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/addressing-msstfmtdll-not-detected-comprehensive-fix-tips/"><u>Addressing 'Msstfmt.dll' Not Detected: Comprehensive Fix Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/current-favorites-premier-british-television-hits-on-netflix/"><u>Current Favorites: Premier British Television Hits on Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-access-insta-views-for-free-no-login-needed/"><u>Discover How to Access Insta Views for Free – No Login Needed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-set-for-ipados-16-explore-the-upcoming-features-and-free-installation-details-now/"><u>Get Set for iPadOS 16! Explore the Upcoming Features and Free Installation Details Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-vs-2-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-absence-of-d3dx9-library-files-on-your-computer/"><u>How to Correctly Address the Absence of D3DX9 Library Files on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy S23 Ultra Phone Without Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-d3dx930dll-a-comprehensive-guide-to-overcoming-the-missing-file-error/"><u>Solving d3dx9_30.dll: A Comprehensive Guide to Overcoming the 'Missing File' Error</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-dawn-of-augmented-reality-microsofts-hololens-review/"><u>The Dawn of Augmented Reality – Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-choice-news-aggregator-sites/"><u>Top 10 Choice News Aggregator Sites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transform-your-brand-with-powerful-fb-video-messaging/"><u>Transform Your Brand with Powerful FB Video Messaging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-mkv-en-wav-gratuitement-conversion-video-rapide-avec-movavi/"><u>Transformer Un Fichier MKV en WAV Gratuitement - Conversion Vidéo Rapide Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-aax-audio-files-to-mp3-on-windows-10-and-11-a-step-by-step-guide/"><u>Transforming AAX Audio Files to MP3 on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-xs-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone XS Max without Passcode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-trending-our-top-favorite-programming-lineup-on-discovery-plus-for-july-2024/"><u>What's Trending? Our Top Favorite Programming Lineup on Discovery Plus for July 2024</u></a></li>
 </ul></div>
 

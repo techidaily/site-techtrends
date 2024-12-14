@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple’s Recent Strides in Artificam Intelligence: Unveiling the Power of Their New Model Lineup"
-date: 2024-11-30T17:36:53.802Z
-updated: 2024-12-07T19:45:19.714Z
+date: 2024-12-12T17:54:57.045Z
+updated: 2024-12-13T22:38:04.883Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## What Apple Intelligence will bring to the company's operating system platforms
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What Apple Intelligence will bring to the company's operating system platforms
 
 ### AI on the device and in the cloud
 
@@ -57,7 +57,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -67,10 +67,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Also: [How to install iOS 18 developer beta (and which models support it)](https://www.zdnet.com/article/how-to-install-ios-18-developer-beta-and-which-models-support-it/)**
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
 
@@ -101,7 +97,7 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -113,7 +109,7 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -139,6 +135,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -180,19 +180,20 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bridging-music-sections-advanced-audacity-techniques/"><u>[New] Bridging Music Sections Advanced Audacity Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-stumble-upon-these-hidden-meme-page-treasures/"><u>[New] In 2024, Stumble Upon These Hidden Meme Page Treasures</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-boosting-engagement-the-art-of-sharing-videos-on-instagram-for-2024/"><u>[Updated] Boosting Engagement The Art of Sharing Videos on Instagram for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secrets-to-stunning-fisheye-sphere-photography/"><u>2024 Approved Secrets to Stunning Fisheye Sphere Photography</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/effizienteste-methoden-zum-sicheren-kopieren-eines-vhd-images-auf-eine-physische-festplatte-schritt-fur-schritt-anleitung-zur-datensicherung/"><u>Effizienteste Methoden Zum Sicheren Kopieren Eines VHD-Images Auf Eine Physische Festplatte: Schritt-Für-Schritt-Anleitung Zur Datensicherung</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-cinema-from-comfort-watching-3d-films-via-fandango-online/"><u>Enjoy Cinema From Comfort: Watching 3D Films via Fandango Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-effortless-switch-from-3gp-to-avi-format-with-movavi/"><u>Free Online Converter: Effortless Switch From 3GP to AVI Format with Movavi</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-enhance-your-yt-summary-top-notch-template-guides/"><u>In 2024, Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-process-of-instagram-verification-for-personal-or-brand-accounts/"><u>Mastering the Process of Instagram Verification for Personal or Brand Accounts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-your-macs-deepest-corners-with-terminal-how-to-find-and-show-hidden-files/"><u>Navigating Your Mac's Deepest Corners with Terminal: How to Find and Show Hidden Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-mssdll-absent-or-undetectable-issue/"><u>Resolving the mss.dll Absent or Undetectable Issue</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-phantom-v-fold-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Phantom V Fold</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uninstalling-the-windows-11-copilot-feature-a-complete-tutorial/"><u>Uninstalling the Windows 11 Copilot Feature - A Complete Tutorial</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-audio-edits-unleashed-navigating-the-tools-of-avidemux-for-professional-results/"><u>Updated Audio Edits Unleashed Navigating the Tools of Avidemux for Professional Results</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-outer-worlds-an-immersive-sci-fi-experience-with-engaging-gameplay-and-storyline/"><u>'The Outer Worlds': An Immersive Sci-Fi Experience with Engaging Gameplay and Storyline</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebooks-approach-for-automatic-youtube-video-playback/"><u>[New] 2024 Approved Facebook's Approach for Automatic YouTube Video Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-simplified-gs-yt-cta-implementation/"><u>[New] 2024 Approved Guide to Simplified GS-YT CTA Implementation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-guide-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[New] Guide to Add Motion Blur to Photos in Adobe Illustrator</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>[New] In 2024, Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-the-world-of-youtube-content-creation-with-flair-for-2024/"><u>[New] Navigating the World of YouTube Content Creation with Flair for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-swift-google-collage-compilation/"><u>[New] The Ultimate Guide to Swift Google Collage Compilation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-realizing-your-cinematic-dreams-the-art-of-perfect-sound-in-videos/"><u>[Updated] Realizing Your Cinematic Dreams The Art of Perfect Sound in Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-solutions-addressing-and-repairing-the-coredll-not-detected-issue-on-windows/"><u>Expert Solutions: Addressing and Repairing the 'Core.dll Not Detected' Issue on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fix-steps-for-missing-d3dx930dll-error-on-your-pc/"><u>Quick Fix Steps for Missing 'd3dx9_30.dll' Error on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-silencing-subwoofer-noise-a-comprehensive-guide/"><u>Solutions for Silencing Subwoofer Noise: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-not-found-errors-with-critical-system-files-eg-msodll/"><u>Step-by-Step Fixes for 'Not Found' Errors with Critical System Files (E.g., mso.dll)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-breakdown-of-the-502-bad-gateway-problem-and-fixing-it-quickly/"><u>The Definitive Breakdown of the 502 Bad Gateway Problem and Fixing It Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-permanent-removal-of-your-yahoo-mail-account/"><u>The Ultimate Tutorial for Permanent Removal of Your Yahoo! Mail Account</u></a></li>
 </ul></div>
 

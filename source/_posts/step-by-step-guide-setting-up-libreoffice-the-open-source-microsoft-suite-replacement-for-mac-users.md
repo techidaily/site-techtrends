@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-12-02T20:05:28.094Z
-updated: 2024-12-07T18:57:56.975Z
+date: 2024-12-11T23:12:03.560Z
+updated: 2024-12-13T18:50:52.215Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -57,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -67,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,16 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-picks-best-hd-cameras-for-professional-twitch-streamers/"><u>[New] 2024 Approved Top Picks Best HD Cameras for Professional Twitch Streamers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-master-the-art-of-tiktok-video-making-with-ease-and-flair/"><u>[Updated] In 2024, Master the Art of TikTok Video Making with Ease & Flair</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers-for-2024/"><u>[Updated] Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-art-of-searching-people-on-facebook-6-user-friendly-techniques/"><u>Discover the Art of Searching People on Facebook - 6 User-Friendly Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructions-for-adding-fandango-to-your-amazon-firestick-library/"><u>Easy Instructions for Adding Fandango to Your Amazon Firestick Library</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-script-crafting-basics/"><u>In 2024, Script Crafting Basics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-apples-operating-systems-a-detailed-guide-to-all-macos-releases/"><u>Navigating Apple's Operating Systems: A Detailed Guide to All macOS Releases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-windows-cars-find-the-best-five-no-cost-utilities/"><u>Optimize Windows Cars: Find the Best Five No-Cost Utilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamp-your-bandwidth-strategies-for-optimizing-internet-speed-at-home-or-work/"><u>Revamp Your Bandwidth: Strategies for Optimizing Internet Speed at Home or Work</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swiftly-fixing-the-to-do-syncheroom-dilemma/"><u>Swiftly Fixing the To Do Syncheroom Dilemma</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-manual-for-restarting-malfunctioning-devices-with-error-code-10/"><u>The Ultimate Troubleshooting Manual for Restarting Malfunctioning Devices with Error Code 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>[Updated] In 2024, Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-master-your-craft-best-drawing-tools-on-the-chromebook-spectrum-for-2024/"><u>[Updated] Master Your Craft Best Drawing Tools on the Chromebook Spectrum for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-how-to-install-third-party-ios-applications-without-jailbreak-a-comprehensive-guide/"><u>1. How to Install Third-Party iOS Applications Without Jailbreak: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-essential-upgrades-required-for-apples-ai-to-challenge-the-dominance-of-openai-and-google-an-in-depth-analysis/"><u>10 Essential Upgrades Required for Apple's AI to Challenge the Dominance of OpenAI & Google: An In-Depth Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/film-lovers-answers-repository/"><u>Film Lovers' Answers Repository</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freedom-travel-planning-the-seven-top-free-ai-tools-for-itineraries/"><u>Freedom Travel Planning: The Seven Top FREE AI Tools for Itineraries</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-hands-on-the-latest-apple-pencil-2nd-generation-at-a-bargain-price-of-95-exclusive-labor-day-offer/"><u>Get Your Hands on the Latest Apple Pencil (2Nd Generation) at a Bargain Price of $95 - Exclusive Labor Day Offer!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-connectivity-issues-lenovo-and-windows-10/"><u>Navigating Connectivity Issues: Lenovo & Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-transition-moving-your-whatsapp-from-android-to-ios-devices-tips-and-steps/"><u>Seamless Transition: Moving Your WhatsApp From Android to iOS Devices - Tips & Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-goldilocks-approach-to-audio-unboxing-and-assessing-the-jbl-extreme-4-bluetooth-speaker/"><u>The Goldilocks Approach to Audio - Unboxing and Assessing the JBL Extreme 4 Bluetooth Speaker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-the-ultimate-guide-to-twitter-management-apps/"><u>Top Picks: The Ultimate Guide to Twitter Management Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-airtag-wallet-selections-for-2-reviews-and-comparisons/"><u>Top-Rated AirTag Wallet Selections for 2# Reviews & Comparisons</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/visionary-voices-triumph-online-for-2024/"><u>Visionary Voices Triumph Online for 2024</u></a></li>
 </ul></div>
 

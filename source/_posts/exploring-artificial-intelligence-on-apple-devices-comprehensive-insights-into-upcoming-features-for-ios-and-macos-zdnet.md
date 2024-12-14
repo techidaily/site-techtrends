@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-11-15T20:32:59.346Z
-updated: 2024-11-19T20:44:22.854Z
+date: 2024-12-09T16:17:33.491Z
+updated: 2024-12-13T21:22:14.437Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -86,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -101,10 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -116,13 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,24 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>[New] 2024 Approved Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-list-26-top-rated-gratis-pc-maintenance-programs-for-cleaner-registry-this-year/"><u>Essential List: 26 Top-Rated Gratis PC Maintenance Programs for Cleaner Registry This Year!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/finding-your-past-enjoyments-a-users-guide-to-instagram-reel-searches/"><u>Finding Your Past Enjoyments: A User's Guide to Instagram Reel Searches</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-x7-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find X7 Ultra to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>In 2024, An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>In 2024, Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-v30-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo V30 Phone Network-Ready</u></a></li>
-<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-3-simple-ways-to-record-video-games-for-2024/"><u>New Unleash Your Creativity 3 Simple Ways to Record Video Games for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pc-mastery-with-google-assistant-a-tutorial-for-smart-device-management/"><u>PC Mastery with Google Assistant: A Tutorial for Smart Device Management</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resetting-lenovo-pcs-a-comprehensive-walkthrough-of-factory-default-procedures/"><u>Resetting Lenovo PCs – A Comprehensive Walkthrough of Factory Default Procedures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-launchdll-file-missing-issues-on-your-pc/"><u>Resolving 'Launch.DLL' File Missing Issues on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-ring-a-complete-guide-to-its-anticipated-launch-pricing-scheme-and-technical-features/"><u>Samsung Galaxy Ring - A Complete Guide to Its Anticipated Launch, Pricing Scheme & Technical Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-advapi32dll-file-is-absent-a-comprehensive-guide/"><u>Solving the 'Advapi32.dll File Is Absent' - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-breakdown-of-wi-fi-protocols-from-80211b-to-be-and-beyond/"><u>The Complete Breakdown of Wi-Fi Protocols: From 802.11B to Be and Beyond</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-combo-stylish-form-and-sound-quality/"><u>The Ultimate Combo: Stylish Form & Sound Quality</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-factors-you-should-assess-when-shopping-for-a-new-desktop-computer/"><u>Top 8 Factors You Should Assess When Shopping for a New Desktop Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-the-ntldr-is-missing-blue-screen-issue/"><u>Ultimate Guide: Resolving the 'NTLDR Is Missing' Blue Screen Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-compelling-content-the-most-attractive-6-video-types/"><u>[New] In 2024, Compelling Content The Most Attractive 6 Video Types</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-apex-chart-seeker-monitor-most-viewed-videos/"><u>[Updated] 2024 Approved Apex Chart Seeker Monitor Most Viewed Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-thumbs-up-creating-your-own-google-image-mosaic/"><u>[Updated] Quick Thumbs Up Creating Your Own Google Image Mosaic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-latest-phone-rumored-to-be-announced-soon-price-forecasts-release-calendar-and-feature-breakdown/"><u>Apple's Latest Phone Rumored to Be Announced Soon: Price Forecasts, Release Calendar & Feature Breakdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-tv-fixes-step-by-step-resolution-of-common-televison-faults/"><u>DIY TV Fixes: Step-by-Step Resolution of Common Televison Faults</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/essential-guide-upgrading-older-scan-device-parts-with-ease-insights-from-yl-computing-and-software/"><u>Essential Guide: Upgrading Older Scan Device Parts with Ease - Insights From YL Computing & Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-your-way-faster-explore-these-5-superior-iphone-gps-applications/"><u>Find Your Way Faster: Explore These 5 Superior iPhone GPS Applications</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-ended-what-you-need-to-know-now-zdnet-insights/"><u>Free Windows 11 Upgrade Ended: What You Need to Know Now - ZDNet Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/"><u>Guide: Ensuring Your Email Address Securely Listed Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repair-solutions-for-the-missing-d3dx924dll-error/"><u>Troubleshooting and Repair: Solutions for the Missing d3dx9_24.dll Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-goodies-in-a-nintendo-switch-setup/"><u>Unveiling the Goodies in a Nintendo Switch Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-and-vision-in-scriptwriting/"><u>Voice and Vision in Scriptwriting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-aim-delving-into-the-world-of-aols-revolutionary-chat-system/"><u>What Is AIM? Delving Into the World of AOL's Revolutionary Chat System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722900419765-wi-fi-woes-fix-your-ipads-internet-connection-here/"><u>Wi-Fi Woes? Fix Your iPad's Internet Connection Here</u></a></li>
 </ul></div>
 

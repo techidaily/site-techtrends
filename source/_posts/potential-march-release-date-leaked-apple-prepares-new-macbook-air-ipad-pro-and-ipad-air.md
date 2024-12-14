@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-12-03T23:10:26.652Z
-updated: 2024-12-07T19:53:14.571Z
+date: 2024-12-11T22:51:11.938Z
+updated: 2024-12-13T16:48:42.901Z
 tags:
   - apple
 categories:
@@ -26,19 +26,11 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -60,6 +52,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -77,7 +73,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -97,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -106,12 +102,16 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -160,19 +160,17 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-channel-game-tubebuddy-insights-for-2024/"><u>[New] Elevate Your Channel Game - TubeBuddy Insights for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-steps-to-an-exceptional-youtube-closure/"><u>[New] In 2024, Steps to an Exceptional YouTube Closure</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-collective-reflections-on-vllo-usage-for-2024/"><u>[Updated] Collective Reflections on VLLO Usage for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-clean-up-your-visual-content-by-deleting-photos-on-facebook/"><u>How To Clean Up Your Visual Content by Deleting Photos on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msxml4dll-not-found-or-missing-errors/"><u>How to Fix Msxml4.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-update-names-in-google-meet-cross-platform/"><u>How to Update Names in Google Meet - Cross Platform</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/pcdj-dj-deck-live-software-update-free-download-for-dex-version-361-rc/"><u>PCDJ DJ Deck Live Software Update: Free Download for DEX Version 3.6.1 RC!</u></a></li>
-<li><a href="https://techidaily.com/repair-multiple-office-and-pdf-documents-by-stellar-guide/"><u>Repair Multiple Office and PDF Documents</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-printing-get-the-latest-and-most-compatible-brother-hl-l234e0-dw-printer-software-for-windows-devices/"><u>Seamless Printing: Get the Latest & Most Compatible Brother HL-L234e0 DW Printer Software for Windows Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-ways-to-disable-mouse-acceleration-and-improve-precision-in-macos-systems/"><u>Simple Ways to Disable Mouse Acceleration and Improve Precision in macOS Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-viewing-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Instructions on Viewing and Sharing 2024 Summer Olympics Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-5-premium-zero-fee-voip-services-for-international-dialing/"><u>The Ultimate List: 5 Premium Zero-Fee VoIP Services for International Dialing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964443727-updated-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from-the/"><u>Updated Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pick-the-perfect-video-youtube-vs-tiktok/"><u>[New] 2024 Approved Pick the Perfect Video YouTube Vs. TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pinnacle-mac-recording-options-top-5-for-clarity-for-2024/"><u>[Updated] Pinnacle Mac Recording Options Top 5 for Clarity for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>[Updated] The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-begin-a-new-era-of-editing-with-xps-video-suite/"><u>2024 Approved Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-bibliophiles-dream-17-places-to-get-your-favorite-books-without-spending/"><u>A Bibliophile's Dream: 17 Places to Get Your Favorite Books Without Spending</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-fast-does-your-pc-really-need-to-be/"><u>How Fast Does Your PC Really Need to Be?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-playback-problems-with-paramount-plus-on-your-firestick-device/"><u>How to Resolve Playback Problems with Paramount Plus on Your Firestick Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-global-leaders-in-real-time-gaming-streams/"><u>In 2024, Global Leaders in Real-Time Gaming Streams</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-elon-musks-robotaxi-anticipated-cost-release-date-and-specs-revealed/"><u>Inside Scoop on Elon Musk's Robotaxi - Anticipated Cost, Release Date and Specs Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-gaming-mini-pcs-ultimate-performance-in-a-compact-size/"><u>Top Gaming Mini PCs: Ultimate Performance in a Compact Size</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-12-03T23:21:59.434Z
-updated: 2024-12-07T19:00:48.858Z
+date: 2024-12-06T19:35:31.868Z
+updated: 2024-12-13T21:29:16.106Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
@@ -49,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,10 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,21 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ultimate-index-downloading-your-preferred-chime-files/"><u>[Updated] 2024 Approved Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movaviaviflv/"><u>移動畫像格式自豁優步無限 - 利用Movavi進行AVI與FLV間的順暢轉換</u></a></li>
-<li><a href="https://techtrends.techidaily.com/as-principais-17-aplicativos-de-captura-de-tela-do-windows-comanalizados-por-usos-finais-e-recomendacoes-de-especialistas-movavi/"><u>As Principais 17 Aplicativos De Captura De Tela Do Windows Comanalizados Por Usos Finais E Recomendações De Especialistas – Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210201517-9781647465773-becoming-whole/"><u>Becoming Whole | Free Book</u></a></li>
-<li><a href="https://win-best.techidaily.com/como-clonar-una-unidad-ssd-de-marca-crucial-con-el-mejor-software-gratuito-disponible/"><u>Cómo Clonar Una Unidad SSD De Marca Crucial Con El Mejor Software Gratuito Disponible</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-converte-lo-mxf-para-mp4-melhores-dicas-gerais-para-sistemas-macwindows/"><u>Como Convertê-Lo MXF Para MP4: Melhores Dicas Gerais Para Sistemas MAC/WINDOWS</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-components-revealed-xbox-s-edition/"><u>Controller Components Revealed: Xbox S Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversa-avi-a-formato-mov-online-gratuito-con-convertivideo/"><u>Conversa AVI a Formato MOV Online Gratuito Con ConvertiVideo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuite-dape-en-ligne-avec-movavi-guide-ultime/"><u>Conversion Gratuite D'APE en Ligne Avec Movavi - Guide Ultime</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210381484-9781945169632-emotional-wholeness/"><u>Emotional Wholeness | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-edge-40-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Edge 40 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-delving-into-the-chronology-of-windows-movie-maker-editions/"><u>In 2024, Delving Into the Chronology of Windows Movie Maker Editions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-and-evaluation-of-the-netgear-nighthawk-x6-wifi-router-range-extender-kit/"><u>In-Depth Analysis and Evaluation of the Netgear Nighthawk X6 WiFi Router Range Extender Kit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/man-klipper-musik-mastering-music-editing-on-desktop-mobile-and-offline-platforms/"><u>Man Klipper Musik: Mastering Music Editing on Desktop, Mobile & Offline Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quelles-sont-les-options-de-remplacement-ideales-a-inshot-pour-un-environnement-windows/"><u>Quelles Sont Les Options De Remplacement Idéales À InShot Pour Un Environnement Windows ?</u></a></li>
-<li><a href="https://fox-search.techidaily.com/wiederherstellung-von-speicherkarten-4-einfache-techniken-erklart/"><u>Wiederherstellung Von Speicherkarten: 4 Einfache Techniken Erklärt</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-live-streams-essential-vr-gaming-recording-methods/"><u>[New] 2024 Approved Mastering Live-Streams Essential VR Gaming Recording Methods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-m1-deciphered-apples-computing-game-changer/"><u>[New] In 2024, M1 Deciphered Apple's Computing Game-Changer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-kinemasters-gs-complete-guide/"><u>[New] In 2024, Mastering KineMaster's GS Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-apple-watchs-battery-with-these-essential-setting-tweaks/"><u>Boost Your Apple Watch's Battery with These Essential Setting Tweaks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-guide-to-the-ultimate-magsafe-wallet-selection-testing-and-insights-from-industry-leaders-zdnet/"><u>Exclusive Guide to the Ultimate MagSafe Wallet Selection - Testing & Insights From Industry Leaders | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-apples-curated-list-of-must-have-applications-and-gaming-experiences-as-recommended/"><u>Explore Apple’s Curated List of Must-Have Applications and Gaming Experiences , as Recommended</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-compatible-windows-1110-bluetooth-driver-from-msi-free-download/"><u>Get Your Compatible Windows 11/10 Bluetooth Driver From MSI - Free Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-blissful-onboarding-guide-for-new-users/"><u>In 2024, Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-conquer-job-interviews-with-confidence-and-excellence/"><u>In 2024, Conquer Job Interviews with Confidence & Excellence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Asus ROG Phone 8 Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-external-chatgpt-plugins-secure-for-your-browsing-experience/"><u>Is Using External ChatGPT Plugins Secure for Your Browsing Experience?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/newest-airpods-arrival-predicted-insights-and-how-to-secure-your-preorder-guide/"><u>Newest AirPods Arrival Predicted: Insights & How to Secure Your Preorder Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/score-an-ipad-9gen-for-a-steal-just-250-post-apple-unveil-expert-advice-on-tech-deals/"><u>Score an iPad (9Gen) for a Steal: Just $250 Post-Apple Unveil | Expert Advice on Tech Deals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-cheat-sheet-10-advanced-and-basic-ipad-secrets-every-apple-enthusiast-should-know-zdnet/"><u>The Complete Cheat Sheet: 10 Advanced & Basic iPad Secrets Every Apple Enthusiast Should Know | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-headphones-on-sale-in-march-2024-exclusive-offers-from-zdnet/"><u>Top Rated Headphones on Sale in March 2024: Exclusive Offers From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882262636-ultimate-list-of-gmails-fastest-typing-tricks-discover-the-top-30-shortcuts/"><u>Ultimate List of Gmail's Fastest Typing Tricks: Discover the Top 30 Shortcuts!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-video-potential-the-creme-de-la-creme-browser-recorders-for-2024/"><u>Unlocking Video Potential The Crème De La Crème Browser Recorders for 2024</u></a></li>
 </ul></div>
 

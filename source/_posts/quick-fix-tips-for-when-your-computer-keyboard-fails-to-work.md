@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-12-06T20:43:53.254Z
-updated: 2024-12-07T22:56:23.166Z
+date: 2024-12-12T21:15:09.971Z
+updated: 2024-12-13T21:24:04.160Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overall Findings
@@ -44,6 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -59,10 +63,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -73,10 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -84,6 +80,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -100,6 +100,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -112,6 +116,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -122,19 +130,11 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Julie Bang
 
@@ -181,18 +181,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-10-premium-vector-websites/"><u>[Updated] Ultimate Guide to 10 Premium Vector Websites</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-tips-and-tricks-to-better-use-pixlr-editor/"><u>10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>2024 Approved The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mov-3gpp-movavi/"><u>無成本移動到 MOV 類型的 3GPP 改編 - Movavi 轉換軟件</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambiar-formato-de-archivo-mxf-a-avi-online-sin-costos-con-movavi/"><u>Cambiar Formato De Archivo MXF a AVI Online Sin Costos Con Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-vob-to-m4v-conversion-service-by-moveave-convert-dvds-instantly/"><u>Free VOB to M4V Conversion Service by Moveave - Convert DVDs Instantly!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-mov-mp4/"><u>Online MOV 파일을 MP4로 자이로드: 무료 대상 도구</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-camera-glitches-the-ultimate-guide-to-solving-7-frequent-problems/"><u>Overcome iPhone Camera Glitches: The Ultimate Guide to Solving 7 Frequent Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ricodifica-mp4-a-3gp-online-gratuitamente-con-movavi-facilita-di-trasformazione/"><u>Ricodifica MP4 a 3GP Online Gratuitamente Con Movavi - Facilità Di Trasformazione</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/securing-privacy-disabling-caller-id-on-android-phones/"><u>Securing Privacy: Disabling Caller ID on Android Phones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essentials-of-adding-emojis-to-youtube-discussions/"><u>The Essentials of Adding Emojis to Youtube Discussions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tutoriels-pour-filmer-avec-un-arriere-plan-bleu-grisatre-integration-movavi-chroma-key-explique/"><u>Tutoriels Pour Filmer Avec Un Arrière-Plan Bleu Grisâtre - Intégration Movavi Chroma Key Expliqué</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-distort-disrupt-delight-10-glitch-video-editing-apps-for-ios-and-android-for-2024/"><u>Updated Distort, Disrupt, Delight 10 Glitch Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-primary-screening-footage-study-and-off-the-cuff-selections/"><u>[New] In 2024, Primary Screening Footage Study and Off-the-Cuff Selections</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-tp-link-re2nac750-wi-fi-booster-assessment-quality-meets-cost/"><u>Affordable TP-Link RE2nAC750 Wi-Fi Booster Assessment: Quality Meets Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-fix-your-logitech-g13-game-controller-driver-installation-guide/"><u>Download & Fix Your Logitech G13 Game Controller - Driver Installation Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-common-apex-legends-engine-malfunctions-complete-solution/"><u>How to Resolve Common Apex Legends Engine Malfunctions - Complete Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-vs-ipad-air-a-comprehensive-comparison-determining-the-ideal-device-for-your-needs/"><u>IPad Vs. IPad Air: A Comprehensive Comparison – Determining the Ideal Device for Your Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/premier-choices-for-efficient-twitter-client-solutions/"><u>Premier Choices for Efficient Twitter Client Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-privacy-a-comprehensive-guide-on-stripping-out-link-tracker-data-from-safari-on-macos-techadvisor/"><u>Protecting Privacy: A Comprehensive Guide on Stripping Out Link Tracker Data From Safari on MacOS | TechAdvisor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/showdown-of-smartwatches-is-it-time-to-switch-to-google-pixel-or-stick-with-apple-watch-s9-insights-expert-analysis/"><u>Showdown of Smartwatches: Is It Time to Switch to Google Pixel or Stick with Apple Watch S9? Insights Expert Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/speedy-screen-grab-creation-techniques-for-2024/"><u>Speedy Screen Grab Creation Techniques for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-nubia-red-magic-8s-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Nubia Red Magic 8S Pro+ to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-travel-accessory-unveiled-the-all-in-one-magsafe-charger-revolutionizing-mobile-power-sources-now-with-qi2-support/"><u>Top Travel Accessory Unveiled: The All-in-One MagSafe Charger Revolutionizing Mobile Power Sources, Now with Qi2 Support!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-iphone-releases-comprehensive-analysis-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated iPhone Releases : Comprehensive Analysis & Comparisons by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unboxing-the-bargain-apples-newly-priced-17earpods-with-usb-c-snagged-impulsively-on-prime-day-zdnet-analysis/"><u>Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-nubia-red-magic-9-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-advanced-ai-features-on-meta-quest-3-beats-apple-vision-pro-heres-your-guide-techinsights/"><u>Unlocking Advanced AI Features on Meta Quest 3 – Beats Apple Vision Pro, Here’s Your Guide! | TechInsights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-accessories-are-included-with-a-new-nintendo-switch-purchase/"><u>What Accessories Are Included with a New Nintendo Switch Purchase?</u></a></li>
 </ul></div>
 
