@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-12-07T23:15:07.755Z
-updated: 2024-12-13T20:09:15.667Z
+date: 2024-12-20T22:47:56.087Z
+updated: 2024-12-23T00:58:00.415Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -45,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -71,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -79,10 +79,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -94,15 +90,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,24 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-6-effective-ways-of-resizing-your-igtv-videos-for-2024/"><u>[Updated] 6 Effective Ways of Resizing Your IGTV Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-party-pulse-perfect-dj-content-for-events/"><u>[Updated] Party Pulse Perfect DJ Content for Events</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-video-quality-on-youtube-top-formats-revealed-for-2024/"><u>[Updated] Streamlining Video Quality on YouTube – Top Formats Revealed for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/advanced-visual-treatment-adding-effects-on-videos-pcmobile-for-2024/"><u>Advanced Visual Treatment Adding Effects on Videos (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-your-console-ps5-slim-versus-standard-ps5/"><u>Choosing Your Console: PS5 Slim Versus Standard PS5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/console-like-conundrums-computer-gaming-issues/"><u>Console-Like Conundrums: Computer Gaming Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cost-effective-tp-link-re100-ax600-mesh-wi-fi-extender-assessment-and-review/"><u>Cost-Effective TP-Link RE100 AX600 Mesh Wi-Fi Extender Assessment and Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-variances-neo-qled-vs-oled-televisions-explained/"><u>Decoding The Variances: Neo QLED vs OLED Televisions Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-marvel-world-through-apple-vision-pro-on-its-launch-day-may-30-reported/"><u>Explore Marvel World Through Apple Vision Pro on Its Launch Day, May 30 | Reported</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-headphone-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Headphone Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-link-your-drivers-license-with-your-iphones-wallet-application-instructions-vary-by-region/"><u>How to Link Your Driver’s License with Your iPhone’s Wallet Application: Instructions Vary by Region</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-slug-lines-a-step-by-step-approach/"><u>In 2024, Crafting Compelling Slug Lines A Step-by-Step Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stay-in-the-loop-with-top-ncaa-boys-basketball-matches-radio-broadcast-for-march-madness-and-final-four-fever/"><u>Stay in the Loop with Top NCAA Boys' Basketball Matches - Radio Broadcast for March Madness & Final Four Fever</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tcl-launches-extended-range-of-q-and-s-series-introducing-19-brand-new-smart-tv-models/"><u>TCL Launches Extended Range of Q & S Series: Introducing 19 Brand-New Smart TV Models</u></a></li>
-<li><a href="https://win-best.techidaily.com/the-essential-how-to-for-windows-users-effortless-copy-and-paste-techniques-unlocked-with-yl-computing-solutions/"><u>The Essential How-To for Windows Users: Effortless Copy & Paste Techniques - Unlocked with YL Computing Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-notch-laptop-bargains-in-july-2024-find-your-perfect-match-on-zdnet/"><u>Top Notch Laptop Bargains in July 2024: Find Your Perfect Match on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranking-apple-band-options-thoroughly-evaluated-by-pros-on-zdnet/"><u>Top-Ranking Apple Band Options - Thoroughly Evaluated by Pros on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trouble-with-system-recovery-learn-how-to-overcome-the-pc-reset-issue/"><u>Trouble with System Recovery? Learn How to Overcome the 'PC Reset Issue'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-apple-intelligence-comprehensive-guide-to-future-ai-capabilities-in-ios-and-macos-devices-zdnet/"><u>Unlock the Secrets of Apple Intelligence: Comprehensive Guide to Future AI Capabilities in iOS and macOS Devices | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-all-about-dji-inspire-1-in-depth-analysis/"><u>[New] All About DJI Inspire 1 in Depth Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solved-how-to-update-graphics-driver-in-windows-easily/"><u>[Solved] | How to Update Graphics Driver in Windows | Easily</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-skype-to-mp3-capturing-calls-at-no-charge/"><u>[Updated] Skype to MP3 Capturing Calls at No Charge</u></a></li>
+<li><a href="https://win-special.techidaily.com/7-simple-steps-to-seamlessly-move-contacts-from-one-iphone-to-another/"><u>7 Simple Steps to Seamlessly Move Contacts From One iPhone to Another</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypass-windows-update-freeze-quick-fixes-to-restart-the-process/"><u>Bypass Windows Update Freeze: Quick Fixes to Restart the Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-capturing-screen-images-on-your-lenovo-laptop/"><u>Complete Guide: Capturing Screen Images on Your Lenovo Laptop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-locate-and-install-msvcr100dll-common-issues-solved/"><u>Comprehensive Guide to Locate & Install MSVCR1_00.dll - Common Issues Solved</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/floor-dynamics-free-pristine-dj-template-videos-for-2024/"><u>Dancefloor Dynamics Free, Pristine DJ Template Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-windows-11-update-problem-resolve-error-code-0x80070422-with-this-method/"><u>Decoding the Windows 11 Update Problem: Resolve Error Code 0X80070422 with This Method</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808076113-easy-driver-refresh-for-usb-devices-on-multiple-windows-platforms-including-win10/"><u>Easy Driver Refresh for USB Devices on Multiple Windows Platforms - Including Win10!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tips-and-tricks-for-keeping-windows-10-current-with-new-updates/"><u>Easy Tips and Tricks for Keeping Windows 10 Current With New Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808244140-how-to-make-google-the-first-thing-you-see-on-launch-easy-methods-inside/"><u>How To Make Google The First Thing You See on Launch: Easy Methods Inside</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a05-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A05 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/inkrementelles-tutorial-zum-einrichten-von-windows-xp-auf-einem-windows-10-system/"><u>Inkrementelles Tutorial Zum Einrichten Von Windows XP Auf Einem Windows 10 System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/solved-muted-youtube-shorts-appearance-for-2024/"><u>Solved Muted YouTube Shorts Appearance for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speedy-repair-techniques-for-when-the-camera-option-vanishes-from-pcs-device-manager/"><u>Speedy Repair Techniques for When the Camera Option Vanishes From PC's Device Manager</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/uberwindung-von-updatefehlern-error-4000-auf-ihrem-iphone-mit-tipps-fur-ios-7/"><u>Überwindung Von Updatefehlern (Error 4000) Auf Ihrem iPhone Mit Tipps Für iOS 7</u></a></li>
+<li><a href="https://fox-within.techidaily.com/understanding-constraints-effective-file-retrieval-techniques-within-windows-os-tips-from-yl-software-experts/"><u>Understanding Constraints: Effective File Retrieval Techniques Within Windows OS - Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-11-bootloop-ursachen-und-losungen-behebe-den-unendlichen-startschleifen/"><u>Windows 11 Bootloop: Ursachen Und Lösungen - Behebe Den Unendlichen Startschleifen!</u></a></li>
 </ul></div>
 

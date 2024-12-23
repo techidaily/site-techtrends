@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-12-06T22:22:17.730Z
-updated: 2024-12-13T21:29:08.208Z
+date: 2024-12-18T21:29:54.251Z
+updated: 2024-12-23T00:17:45.770Z
 tags:
   - apple
 categories:
@@ -27,18 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,14 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-text-tilt-treasures/"><u>[New] In 2024, Top Text Tilt Treasures</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-top-picks-excellent-4k-displays-for-playing-games/"><u>[Updated] Top Picks Excellent 4K Displays for Playing Games</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-ring-video-doorbell-2-surpassing-expectations/"><u>Comprehensive Review of Ring Video Doorbell ^2 - Surpassing Expectations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-ios-18-now-complete-guide-and-compatible-iphone-models-revealed-learn-everything-you-need-on-zdnet/"><u>Download IOS 18 Now: Complete Guide & Compatible iPhone Models Revealed! - Learn Everything You Need on ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-how-to-choose-the-perfect-laptop-for-academic-success/"><u>Essential Tips: How to Choose the Perfect Laptop for Academic Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/labor-day-special-save-big-and-grab-the-new-apple-pencil-for-only-95-the-perfect-time-to-upgrade-deals/"><u>Labor Day Special! Save Big and Grab the New Apple Pencil for Only $95 - The Perfect Time to Upgrade Deals</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-account-management-essential-tips-for-tweaking-control-panel-configurations-expertise-from-yl-software/"><u>Mastering Account Management: Essential Tips for Tweaking Control Panel Configurations - Expertise From YL Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/navigating-the-maze-a-comprehensive-guide-to-mov-capture-in-win10-for-2024/"><u>Navigating the Maze A Comprehensive Guide to MOV Capture in Win10 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-streaming-learn-how-to-pair-your-amazon-fire-stick-remote-with-ease/"><u>Seamless Streaming: Learn How to Pair Your Amazon Fire Stick Remote with Ease</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-insider-guide-whatsapp-audio-talks/"><u>[New] 2024 Approved The Insider Guide WhatsApp Audio Talks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-strategies-for-livestream-and-archiving-sports-action/"><u>[New] Top Strategies for Livestream & Archiving Sports Action</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-a25-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy A25 5G Unlock Without Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-guide-to-configuring-a-new-meta-vr-headset-profile-for-questquest-2/"><u>Beginner's Guide to Configuring a New Meta VR Headset Profile for Quest/Quest 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/client-and-server-error-resolution-tackling-vpn-error-800-successfully/"><u>Client and Server Error Resolution: Tackling VPN Error 800 Successfully</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube-for-2024/"><u>Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-file-explorer-freezing-problems-in-windows-11/"><u>How to Resolve File Explorer Freezing Problems in Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-proplus-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi Note 13 Pro+ 5G Without PUK Codes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-resolving-issues-with-non-ejecting-audio-and-video-drives/"><u>Step-by-Step Tutorial: Resolving Issues with Non-Ejecting Audio and Video Drives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-x90s-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo X90S to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-non-functional-amazon-prime-captions-a-step-by-step-guide/"><u>Troubleshooting Non-Functional Amazon Prime Captions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-the-hidden-issues-causing-login-blackouts/"><u>Uncover the Hidden Issues Causing Login Blackouts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-levels-with-ease-a-gamers-guide-to-ps4-video-capture/"><u>Unlocking Levels With Ease: A Gamer's Guide to PS4 Video Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-power-of-wrist-technology-understanding-smartwatches-and-their-functions/"><u>Unveiling the Power of Wrist Technology: Understanding Smartwatches & Their Functions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-launch-of-google-pixel-tablet-full-details-on-specifications-and-announcement-timeline/"><u>Upcoming Launch of Google Pixel Tablet: Full Details on Specifications & Announcement Timeline</u></a></li>
 </ul></div>
 

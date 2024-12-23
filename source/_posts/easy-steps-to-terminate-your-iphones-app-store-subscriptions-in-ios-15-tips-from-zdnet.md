@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2024-12-08T16:45:48.570Z
-updated: 2024-12-13T16:30:59.198Z
+date: 2024-12-15T22:03:46.402Z
+updated: 2024-12-23T02:04:02.327Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -39,10 +35,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,11 +44,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-focussnap-recorder-for-screen-masters/"><u>[New] In 2024, FocusSnap Recorder for Screen Masters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-formulating-engaging-content-excerpts-for-streaming/"><u>[Updated] 2024 Approved Formulating Engaging Content Excerpts for Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-youtube-to-high-quality-mpegs-the-essential-guide/"><u>[Updated] From YouTube to High-Quality MPEGs The Essential Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-fb-story-potential-4-effective-techniques/"><u>2024 Approved Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beyond-the-iphone-era-smartphone-options-that-outshine-retired-models-of-iphone-13-and-iphone-15-pro/"><u>Beyond the iPhone Era: Smartphone Options That Outshine Retired Models of iPhone 13 and iPhone 15 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/community-disappointment-in-upgrading-iphones-to-ios-18-a-collective-experience/"><u>Community Disappointment in Upgrading iPhones to iOS 18 – A Collective Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-errors-wpcapdll-file-not-found-or-missing/"><u>Effective Fixes for Errors: Wpcap.dll File Not Found or Missing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-audio-clarity-with-your-meta-quest-microphone-best-practices/"><u>Enhancing Audio Clarity with Your Meta Quest Microphone – Best Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-apples-enhanced-nfc-technology-opens-new-doors-for-third-party-developers-on-iphones-discover-the-impact-and-advantages-techinsider/"><u>How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-find-and-save-your-favorite-sport-highlights-top-downloading-platforms-revealed/"><u>How to Find & Save Your Favorite Sport Highlights: Top Downloading Platforms Revealed</u></a></li>
-<li><a href="https://discover-community.techidaily.com/kostengunstig-abspielen-von-dvds-keine-downloads-lizenzierter-freier-codec-nutzen/"><u>Kostengünstig Abspielen Von DVDs - Keine Downloads, Lizenzierter Freier Codec Nutzen</u></a></li>
-<li><a href="https://win-able.techidaily.com/premiere-promov/"><u>Premiere Pro初心者向けMOVファイルエクスポートチュートリアル</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/simplify-your-workflow-10-essential-timecode-calculators-for-filmmakers-for-2024/"><u>Simplify Your Workflow 10 Essential Timecode Calculators for Filmmakers for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-enjoying-android-app-functionality-in-windows-11-environment/"><u>The Ultimate How-To: Enjoying Android App Functionality in Windows 11 Environment</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits-for-2024/"><u>Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-saving-secrets-how-to-retrieve-archived-reels-on-instagram/"><u>Uncover Saving Secrets: How to Retrieve Archived Reels on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-i-prefer-apples-new-mini-iphone-16-pro-over-the-iphone-16-max-insights/"><u>Why I Prefer Apple's New Mini iPhone 16 Pro Over the iPhone 16 Max : Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-thumbnail-dimensions-for-online-success/"><u>[New] Top Thumbnail Dimensions for Online Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-capture-the-magic-our-list-of-top-12-cameras-for-exceptional-vlogs/"><u>[Updated] 2024 Approved Capture the Magic Our List of Top 12 Cameras for Exceptional Vlogs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/10-free-netflix-alternatives-to-try/"><u>10 Free Netflix Alternatives to Try</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-imaginefx-editor/"><u>2024 Approved ImagineFX Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-3d-video-player-for-android/"><u>Best 3D Video Player for Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-entertainment-platforms-similar-to-netflix-top-10-picks/"><u>Best Free Entertainment Platforms Similar to Netflix (Top 10 Picks)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversao-livre-do-formato-3gp-para-mkv-via-web-ferramenta-movavi/"><u>Conversão Livre Do Formato 3GP Para MKV via Web - Ferramenta Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-camera-prospectus-ranking-the-top-5-superior-motion-cameras/"><u>In 2024, Camera Prospectus Ranking the Top 5 Superior Motion Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-smartphone-snaps-guide-for-ios-devices/"><u>Maximizing Smartphone Snaps: Guide for iOS Devices</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/monitoring-your-pcs-heat-levels-a-comprehensive-guide-by-yl-computing/"><u>Monitoring Your PC's Heat Levels: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-to-correct-microsoft-visual-cplusplus-redistributable-missing-errors/"><u>Quick Fixes to Correct Microsoft Visual C++ Redistributable Missing Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-shaky-and-fluttering-screens-on-surface-pro-expert-tips/"><u>Resolve Shaky and Fluttering Screens on Surface Pro - Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-enshrouded-crashes-a-pc-troubleshooting-guide/"><u>Say Goodbye to Enshrouded Crashes - A PC Troubleshooting Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-javascript-file-jsksriptdll-absence-issues/"><u>Solving JavaScript File 'jsksript.dll' Absence Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-roku-express-and-stick-key-contrasts-explored/"><u>Unveiling Roku Express and Stick: Key Contrasts Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-entertainment-setting-up-amazon-firestick-with-a-home-theater-projector/"><u>Wireless Entertainment: Setting up Amazon Firestick with a Home Theater Projector</u></a></li>
 </ul></div>
 

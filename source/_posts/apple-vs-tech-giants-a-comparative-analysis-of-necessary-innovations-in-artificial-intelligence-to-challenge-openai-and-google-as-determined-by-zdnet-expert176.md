@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-12-06T20:05:12.533Z
-updated: 2024-12-13T16:33:55.444Z
+date: 2024-12-18T20:09:58.656Z
+updated: 2024-12-23T01:15:23.808Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -71,6 +75,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -91,7 +99,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,10 +116,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +127,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -153,10 +157,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,16 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[Updated] Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-editors-toolkit-using-markers-in-professional-editing-for-2024/"><u>[Updated] The Editor's Toolkit Using Markers in Professional Editing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-top-4-apple-devices-that-are-not-worth-purchasing-currently-techinsights/"><u>1. Top 4 Apple Devices That Are Not Worth Purchasing Currently | TechInsights</u></a></li>
-<li><a href="https://article-files.techidaily.com/7-best-sbt-to-srtr-conversion-software-for-desktop-use/"><u>7 Best SBT to SRTR Conversion Software for Desktop Use</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-in-arithmetic-and-algebra/"><u>AI in Arithmetic and Algebra</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-watch-battery-durability-revealed-expectations-vs-reality/"><u>Apple Watch Battery Durability Revealed – Expectations Vs. Reality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/defeating-the-blue-screen-expert-tips-for-fixing-critical-errors/"><u>Defeating the Blue Screen: Expert Tips for Fixing Critical Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dont-miss-out-discover-the-finest-prime-day-bargains-for-apple-products-exclusive-list-and-deals-zdnet/"><u>Don't Miss Out! Discover the Finest Prime Day Bargains for Apple Products - Exclusive List & Deals | ZDNET</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>In 2024, Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/labor-day-bargain-alert-uncover-the-reasons-behind-my-top-pick-apple-watch-ultra-2-insider-tips-on-wearables/"><u>Labor Day Bargain Alert! Uncover the Reasons Behind My Top Pick: Apple Watch Ultra 2 | Insider Tips on Wearables</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-and-official-purchase-guide-get-the-latest-winx-dvd-ripper-for-macos-users/"><u>Secure & Official Purchase Guide: Get the Latest WinX DVD Ripper for macOS Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-secure-and-simple-step-by-step-for-google-meet-recordings-for-2024/"><u>[New] Secure and Simple Step-by-Step for Google Meet Recordings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-10-best-free-editors-to-craft-captivating-facebook-videos-for-2024/"><u>[Updated] 10 Best Free Editors to Craft Captivating Facebook Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-s17-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo S17 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-guide-to-executing-commands-with-windows-telnet-client/"><u>Beginner's Guide to Executing Commands with Windows Telnet Client</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-course-through-youtubes-maker-domain/"><u>Charting a Course Through YouTube's Maker Domain</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-fixing-common-problems-with-samsung-soundbars/"><u>Diagnosing and Fixing Common Problems with Samsung Soundbars</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discovering-the-tech-behind-dji-phantom-3-professional-for-2024/"><u>Discovering the Tech Behind DJI Phantom 3 Professional for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-x6-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco X6 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-compress-videos-for-free-top-windows-10-tools/"><u>New 2024 Approved Compress Videos for Free Top Windows 10 Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-ejector-needed-unlocking-the-secrets-of-iphone-sim-card-removal/"><u>No Ejector Needed: Unlocking the Secrets of iPhone SIM Card Removal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-your-websites-security-alert-a-step-by-step-guide/"><u>Resolving Your Website's Security Alert: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/troubleshooting-why-is-my-scanner-failing-to-identify-my-computer-solutions-by-yl-software-experts/"><u>Troubleshooting: Why Is My Scanner Failing to Identify My Computer? Solutions by YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-selection-of-family-movies-on-netflix/"><u>Ultimate Selection of Family Movies on Netflix</u></a></li>
 </ul></div>
 

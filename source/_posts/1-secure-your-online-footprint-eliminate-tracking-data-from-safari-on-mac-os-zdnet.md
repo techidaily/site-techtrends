@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-12-06T20:36:28.694Z
-updated: 2024-12-13T22:15:32.040Z
+date: 2024-12-20T01:18:58.257Z
+updated: 2024-12-22T19:57:21.404Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,19 +119,18 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-expert-psd-text-framing/"><u>[New] In 2024, Expert PSD Text Framing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ushering-bliss-into-your-unboxing-experience/"><u>[New] Ushering Bliss Into Your Unboxing Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crack-the-code-to-affordable-tech-securing-your-dell-student-price-advantage/"><u>Crack the Code to Affordable Tech: Securing Your Dell Student Price Advantage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovering-the-best-free-videodownloaders-for-pinterest/"><u>Discovering the Best Free Videodownloaders for Pinterest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1723808287914-easy-steps-for-swiftly-upgrading-to-windows-11-with-a-clean-slate-setup/"><u>Easy Steps for Swiftly Upgrading to Windows 11 with a Clean Slate Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-background-camouflage-on-google-meet-a-comprehensive-walkthrough/"><u>Effortless Background Camouflage on Google Meet – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win11.techidaily.com/from-small-to-significant-expanding-your-desktops-icon-size-in-w11/"><u>From Small to Significant: Expanding Your Desktop's Icon Size in W11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-f5-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco F5 Pro 5G Phone that is Locked?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revealing-the-new-default-password-secrets-of-linksys-models-july-review/"><u>Revealing the New Default Password Secrets of Linksys Models - July Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionize-your-eating-habits-with-these-6-food-tracker-app-recommendations/"><u>Revolutionize Your Eating Habits with These 6 Food Tracker App Recommendations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/tiktok-watermark-removal-made-easy-top-picks-and-reviews/"><u>TikTok Watermark Removal Made Easy Top Picks and Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-unverifiable-developer-messages-for-mac-users/"><u>Troubleshooting 'Unverifiable Developer' Messages for Mac Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-fluency-top-3-app-based-linguistic-advancement-platforms/"><u>Unlock Fluency: Top 3 App-Based Linguistic Advancement Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-excellent-10-drone-set-professional-filming-and-photography-for-2024/"><u>[New] Excellent 10-Drone Set Professional Filming & Photography for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-shutter-tips-free-windows-edition/"><u>[Updated] 2024 Approved Screen Shutter Tips Free Windows Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-aiseesofts-capture-tech-screen-recording-basics/"><u>[Updated] Mastering Aiseesoft's Capture Tech Screen Recording Basics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-resetting-your-youtube-reputation/"><u>[Updated] Resetting Your YouTube Reputation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-full-featured-mac-video-and-audio-recorder/"><u>2024 Approved Full-Featured Mac Video & Audio Recorder</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unplugging-the-servers-deleting-discord-on-devices/"><u>2024 Approved Unplugging the Servers Deleting Discord on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-when-your-hdd-cant-be-seen-by-windows-11/"><u>How to Fix When Your HDD Can’t Be Seen by Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-make-google-the-first-thing-you-see-on-launch-easy-methods-inside/"><u>How To Make Google The First Thing You See on Launch: Easy Methods Inside!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-remove-password-in-windows-10-easily/"><u>How to Remove Password in Windows 10. Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-rip-dvds-to-windows-10-easy-steps/"><u>How to Rip DVDs to Windows 10? Easy Steps!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-uninstall-windows-10-update/"><u>How to Uninstall Windows 10 Update</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728466787723-onedrive3/"><u>OneDrive「同期中断」原因を解明し、対策3つ - 詳細ガイド!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/optimizing-engagement-with-these-exceptional-5-ai-tools/"><u>Optimizing Engagement with These Exceptional 5 AI Tools</u></a></li>
 </ul></div>
 

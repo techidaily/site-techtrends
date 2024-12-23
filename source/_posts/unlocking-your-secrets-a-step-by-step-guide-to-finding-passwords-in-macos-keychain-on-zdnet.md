@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Secrets: A Step-by-Step Guide to Finding Passwords in macOS Keychain on ZDNet"
-date: 2024-12-08T22:31:09.027Z
-updated: 2024-12-13T22:02:36.817Z
+date: 2024-12-16T17:50:34.782Z
+updated: 2024-12-22T17:04:46.610Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -37,10 +37,6 @@ I'm going to show you how to open the Keychain Access tool and how to use it to 
 The only thing you'll need to follow along is an Apple laptop or desktop. I'll demonstrate it on a MacBook Pro running macOS Monterey (version 12.2.1). 
 
 With that said, let's get to work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
 
@@ -53,7 +49,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,6 +66,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,22 +113,17 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>[New] In 2024, Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-explore-our-1-ranked-facebook-video-downloading-apps-for-ios/"><u>[New] In 2024, Explore Our #1 Ranked Facebook Video Downloading Apps for iOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-follow-the-flow-of-forum-fancies/"><u>[New] In 2024, Follow the Flow of Forum Fancies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-movie-magic-solutions-questions-answered-for-2024/"><u>[New] Movie Magic Solutions Questions Answered for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-hdr-camera-match-up/"><u>[New] The Ultimate HDR Camera Match-Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-social-faux-pas-un-repost-your-content-on-tiktok-heres-how/"><u>Avoid Social Faux Pas: Un-Repost Your Content on TikTok Here's How</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-mastering-your-ipad-10-must-know-settings-and-tricks-for-apple-enthusiasts-featured/"><u>Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-the-latest-news-on-googles-pixel-fold-2-price-guesswork-expected-release-and-potential-features/"><u>Get Ahead of the Curve with the Latest News on Google's Pixel Fold 2 - Price Guesswork, Expected Release & Potential Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-a14-4g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy A14 4G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c51-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-using-microsoft-word-at-no-charge-possible-unveil-the-truth/"><u>Is Using Microsoft Word at No Charge Possible? Unveil the Truth!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigating-instagram-trends-with-key-tags/"><u>Navigating #Instagram Trends with Key Tags</u></a></li>
-<li><a href="https://techtrends.techidaily.com/organize-your-messages-with-one-simple-tip-say-goodbye-to-email-chaos-without-extra-accounts-cnet/"><u>Organize Your Messages with One Simple Tip: Say Goodbye to Email Chaos Without Extra Accounts | CNET</u></a></li>
-<li><a href="https://win-online.techidaily.com/samsung-m2-ssdos-windows-111087/"><u>Samsung M.2 SSDの複製に自由で便利なソフトウェア【対話型OS Windows 11、10、8、7向け】</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-7-key-elements-of-an-effective-summer-daypack/"><u>The Ultimate List: 7 Key Elements of an Effective Summer Daypack</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unbeatable-deal-discover-the-top-non-apple-non-anker-magsafe-wallet-in-my-testing-now-on-sale/"><u>Unbeatable Deal: Discover the Top Non-Apple, Non-Anker MagSafe Wallet in My Testing - Now On Sale!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-i-prefer-keeping-my-apple-watch-series/"><u>Why I Prefer Keeping My Apple Watch Series</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-use-video-titles-and-youtube-tags-for-more-views-in-2024/"><u>[New] How to Use Video Titles and YouTube Tags for More Views, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-creative-lens-based-text-twists-for-2024/"><u>[Updated] Creative Lens-Based Text Twists for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-3-strategies-for-capturing-real-time-sports-events-online-for-2024/"><u>[Updated] Top 3 Strategies for Capturing Real-Time Sports Events Online for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-snipperpro-suite/"><u>2024 Approved SnipperPro Suite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/building-bonds-and-catching-em-all-team-play-secrets-in-pokemon-go/"><u>Building Bonds and Catching 'Em All: Team-Play Secrets in Pokémon GO</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-future-of-walking-navigation-how-google-maps-live-view-transforms-travel/"><u>Discover the Future of Walking Navigation: How Google Maps Live View Transforms Travel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-xs-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone XS with a Broken Screen?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-streaming-audio-directly-into-slides/"><u>In 2024, Streaming Audio Directly Into Slides</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-parental-controls-stop-youtube-on-your-apple-ipads/"><u>Navigating Parental Controls: Stop YouTube on Your Apple iPads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-hdr-photos-techniques-for-blending-in-lightroom-for-2024/"><u>Perfecting HDR Photos Techniques for Blending in Lightroom for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-your-pcs-cygwin1dll-error-with-these-easy-fixes/"><u>Resolve Your PC's Cygwin1.dll Error with These Easy Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-users-handbook-to-surveillance-of-internet-usage-and-bandwidth-management/"><u>The User's Handbook to Surveillance of Internet Usage and Bandwidth Management</u></a></li>
 </ul></div>
 

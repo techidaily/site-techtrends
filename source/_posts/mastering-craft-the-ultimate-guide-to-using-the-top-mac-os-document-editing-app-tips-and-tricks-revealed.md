@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-12-12T20:00:09.005Z
-updated: 2024-12-13T19:48:52.577Z
+date: 2024-12-19T18:56:28.576Z
+updated: 2024-12-22T19:05:26.040Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -129,19 +129,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-innovative-browsing-strategies-with-picture-in-picture-mode/"><u>[New] 2024 Approved Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-expert-recommendations-for-efficient-gif-makers/"><u>[Updated] Expert Recommendations for Efficient GIF Makers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-future-of-wireless-technology-an-insight-into-802ebe-ax-ac-bgn-and-a-networking-standards/"><u>Decoding the Future of Wireless Technology: An Insight Into 802.ebe, Ax, Ac, B/G/N & a Networking Standards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminating-screen-issues-a-step-by-step-guide-to-fix-pixelation-and-fading-colors/"><u>Eliminating Screen Issues: A Step-by-Step Guide to Fix Pixelation & Fading Colors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-f5-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco F5 Pro 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-choice-gimbals-top-ranked-for-4k-cameras/"><u>In 2024, Expert's Choice Gimbals Top-Ranked For 4K Cameras</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resetting-your-kindle-paperwhites-time-zone-and-hour-easy-instructions-inside/"><u>Resetting Your Kindle Paperwhite's Time Zone and Hour – Easy Instructions Inside</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-shelldll-cannot-be-located-error-a-step-by-step-guide/"><u>Resolving the 'Shell.dll Cannot Be Located' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/secret-snapsnapping-techniques-unseen-screen-captures-for-2024/"><u>Secret SnapSnapping Techniques Unseen Screen Captures for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-navigate-and-search-with-the-wayback-machine/"><u>Step-by-Step Instructions: How to Navigate and Search with the Wayback Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-must-watch-tv-series-streaming-on-max/"><u>Top Picks: Must-Watch TV Series Streaming on Max</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-11-kid-easy-vlog-camcorders-waterproof-for-2024/"><u>Ultimate Guide Top 11 Kid-Easy Vlog Camcorders, Waterproof for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scripts-that-reshape-cinematic-history/"><u>[New] Scripts that Reshape Cinematic History</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-create-gifs-from-youtube-videos/"><u>[Updated] In 2024, How to Create GIFs From YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/299-amazon-prime-day-special-the-new-apple-10th-generation-ipad/"><u>$299 Amazon Prime Day Special: The New Apple 10Th Generation iPad!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-uncluttered-focus-affinity-photos-cleanup-technique/"><u>2024 Approved Uncluttered Focus Affinity Photo's Cleanup Technique</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tricks-to-sync-a-bluetooth-mouse-on-microsoft-windows-and-apple-macos/"><u>Easy Tricks to Sync a Bluetooth Mouse on Microsoft Windows & Apple macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tutorial-using-a-dvd-player-application-on-windows-10-for-film-enjoyment/"><u>Easy Tutorial: Using a DVD Player Application on Windows 10 for Film Enjoyment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-revive-a-dysfunctional-lenovo-keyboard-glow/"><u>Effective Solutions to Revive a Dysfunctional Lenovo Keyboard Glow</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-lowering-processor-load-on-your-windows-pc/"><u>Effective Strategies for Lowering Processor Load on Your Windows PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-guide-to-identifying-your-current-windows-11-system-version/"><u>Effortless Guide to Identifying Your Current Windows 11 System Version</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/essential-strategies-and-insights-on-data-deletion-stellar-collection/"><u>Essential Strategies & Insights on Data Deletion - Stellar Collection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-workspace-with-dual-monitors-compatible-with-windows-7-8-and-10-instructions/"><u>Expanding Workspace with Dual Monitors: Compatible With Windows 7, 8 & 10 Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-the-wasteland-of-fallout-3-installation-guide-for-windows-11-gamers/"><u>Experience the Wasteland of Fallout 3: Installation Guide for Windows 11 Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/iphone-7-proven-strategies-for-screen-capture-for-2024/"><u>IPhone 7 Proven Strategies for Screen Capture for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/launch-of-stable-diffusion-xl-version-10-enhanced-artistic-capabilities-unveiled/"><u>Launch of Stable Diffusion XL Version 1.0: Enhanced Artistic Capabilities Unveiled</u></a></li>
+<li><a href="https://solve-info.techidaily.com/master-the-art-of-risk-free-cryptocurrency-exchange-using-yl-computing-tools/"><u>Master the Art of Risk-Free Cryptocurrency Exchange Using YL Computing Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-sound-of-success-audio-tips-to-elevate-your-youtube-experience-for-2024/"><u>The Sound of Success Audio Tips to Elevate Your YouTube Experience for 2024</u></a></li>
 </ul></div>
 

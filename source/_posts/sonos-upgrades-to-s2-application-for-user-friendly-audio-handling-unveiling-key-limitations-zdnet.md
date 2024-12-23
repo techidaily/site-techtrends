@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-12-08T19:01:38.840Z
-updated: 2024-12-13T22:25:12.094Z
+date: 2024-12-15T17:34:26.338Z
+updated: 2024-12-22T17:33:44.846Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ While this move towards a [more integrated software environment](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Observations of the new S2 UX
@@ -61,7 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -77,7 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -99,7 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -117,7 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -158,20 +158,22 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/analytics-and-tracking-metrics-understanding-your-twitter-analytics-dashboard-to-measure-the-impact-of-tweets-and-refine-strategy-over-time/"><u>[Analytics and Tracking Metrics – Understanding Your Twitter Analytics Dashboard to Measure the Impact of Tweets and Refine Strategy over Time.]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-simplified-sound-conversion-top-6-apps-for-youtube-to-mp3-on-iphone/"><u>[New] 2024 Approved Simplified Sound Conversion Top 6 Apps for YouTube to MP3 on iPhone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-add-music-to-any-snapchat-video-for-2024/"><u>[New] How to Add Music to Any Snapchat Video for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-performance-and-design-of-cycwagens-newest-electric-cargo-bike/"><u>Explore the Performance and Design of CycWagen's Newest Electric Cargo Bike</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-whats-coming-in-apples-latest-wwdc-tease-a-deeper-dive-into-enhanced-intelligence-and-ios-18-features/"><u>Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/getting-started-with-periscope-is-it-free-sign-up-process-for-2024/"><u>Getting Started with Periscope Is It Free? Sign-Up Process for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-apples-recent-ai-endeavors-overlooked-crucial-innovations-anticipation-for-what-comes-next-analysis-by-zdnet/"><u>How Apple's Recent AI Endeavors Overlooked Crucial Innovations - Anticipation for What Comes Next | Analysis by ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-90-lite-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor 90 Lite Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/introducing-the-ultimate-advanced-ipad-calculator-app-makes-buying-an-apple-pencil-a-must-have/"><u>Introducing The Ultimate Advanced iPad Calculator App – Makes Buying An Apple Pencil a Must-Have!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/massive-discount-on-the-new-2022-ipad-pro-save-700-this-labor-day-exclusive-offer/"><u>Massive Discount on the New 2022 iPad Pro: Save $700 This Labor Day - Exclusive Offer</u></a></li>
-<li><a href="https://common-error.techidaily.com/neterrcertweaksignature-algorithm-error-solutions-strengthening-your-sites-security/"><u>NET::ERR_CERT_WEAK_SIGNATURE ALGORITHM Error Solutions: Strengthening Your Site's Security</u></a></li>
-<li><a href="https://techtrends.techidaily.com/score-big-savings-with-the-newly-priced-apple-m2-mac-mini-at-a-record-low-of-479-insider-secrets-revealed-by-zdnet/"><u>Score Big Savings with the Newly Priced Apple M2 Mac Mini at a Record Low of $479 - Insider Secrets Revealed by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-chatting-with-whatsapp-on-a-mac-computer/"><u>The Ultimate How-To for Chatting with WhatsApp on a Mac Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-3-must-watch-technological-innovations-reshaping-the-future/"><u>Top 3 Must-Watch Technological Innovations Reshaping the Future</u></a></li>
-<li><a href="https://program-issues.techidaily.com/yakuza-like-a-dragon-triumphs-in-steam-experience-the-epic-journey/"><u>Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>[New] The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mac-users-mastering-mp3-conversion-from-youtube/"><u>[Updated] Mac Users Mastering MP3 Conversion From YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photographic-privacy-key-steps-to-blur-facial-features/"><u>2024 Approved Photographic Privacy Key Steps to Blur Facial Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-28-issues-on-your-pc-heres-how-to-fix-them/"><u>Code 28 Issues on Your PC? Here's How to Fix Them</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a59-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A59 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connect-and-enjoy-tiktoks-on-the-big-screen-a-comprehensive-how-to/"><u>Connect and Enjoy TikToks on the Big Screen: A Comprehensive How-To</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-restoring-mfplatdll-files-to-resolve-system-error-messages/"><u>Diagnosing & Restoring mfplat.dll Files to Resolve System Error Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/first-steps-in-home-acoustics-your-all-inclusive-guide-for-newbies/"><u>First Steps in Home Acoustics: Your All-Inclusive Guide for Newbies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-repair-ac1st16dll-is-absent-bugs/"><u>How to Correctly Address and Repair ac1st16.dll Is Absent Bugs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-screen-share-netflix/"><u>How to Screen Share Netflix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/most-effective-and-comfortable-ipad-mouse-picks/"><u>Most Effective and Comfortable iPad Mouse Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-for-mirroring-android-content-on-your-fire-stick-device/"><u>Simple Steps for Mirroring Android Content on Your Fire Stick Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-blueprint-for-crafting-stand-out-steam-reviews/"><u>The Ultimate Blueprint for Crafting Stand-Out Steam Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-http-408-errors-a-comprehensive-guide-to-fixing-timeouts/"><u>Troubleshooting HTTP 408 Errors: A Comprehensive Guide to Fixing Timeouts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/understanding-fees-are-there-charges-for-utilizing-yl-computing-tools/"><u>Understanding Fees: Are There Charges for Utilizing YL Computing Tools?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/whats-new-in-photography-an-updated-look-at-lg-360-cameras/"><u>What's New in Photography An Updated Look at LG 360 Cameras</u></a></li>
 </ul></div>
 

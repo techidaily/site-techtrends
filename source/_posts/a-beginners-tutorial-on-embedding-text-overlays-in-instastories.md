@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Tutorial on Embedding Text Overlays in InstaStories
-date: 2024-12-10T20:23:06.056Z
-updated: 2024-12-13T17:29:09.959Z
+date: 2024-12-15T20:10:35.911Z
+updated: 2024-12-22T21:26:02.406Z
 categories:
   - BestProducts
 description: This Article Describes A Beginner's Tutorial on Embedding Text Overlays in InstaStories
@@ -25,10 +25,6 @@ thumbnail: https://www.lifewire.com/thmb/D7EdS_MHuVzjVop6wq6cjiqxwXI=/540x405/fi
 
 ![Scanning a Document Using a Flatbed Scanner](https://www.lifewire.com/thmb/4ttTzWS9kaWy0rhmgoB3ZRzAwXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-1-97c5bf309a29400a92d8ba96f4af302b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 lolostock / Getty Images
 
 ## Capturing a Scan From a Printer on a Windows PC
@@ -42,12 +38,16 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
@@ -56,12 +56,12 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
@@ -72,6 +72,10 @@ lolostock / Getty Images
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Mac
 
  Scanning from a Mac is just as easy as on Windows 10 (arguably, even easier).
@@ -81,7 +85,7 @@ lolostock / Getty Images
 13. Select your printer, then click**Scan** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
@@ -93,17 +97,13 @@ lolostock / Getty Images
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -144,22 +144,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-streaming-services-face-off-facebook-youtube-and-spaces/"><u>[New] 2024 Approved Streaming Services Face-Off FACEbook, YOUTube, & Spaces</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fearless-filming-mastering-your-first-10-clips/"><u>[Updated] In 2024, Fearless Filming Mastering Your First 10 Clips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-scene-selection-mastery-livestreams/"><u>[Updated] In 2024, Scene Selection Mastery Livestreams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>[Updated] In 2024, The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instagram-intonation-blending-audio-with-imagery/"><u>[Updated] Instagram Intonation Blending Audio with Imagery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ai-evolution-and-control-learning-about-chatgpts-corporate-lineage/"><u>AI Evolution and Control: Learning About ChatGPT's Corporate Lineage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/building-the-ultimate-wireless-movie-lounge-right-inside-your-student-dorm/"><u>Building the Ultimate Wireless Movie Lounge Right Inside Your Student Dorm</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-imo-chat-app-evaluation-features-and-performance/"><u>Comprehensive Imo Chat App Evaluation: Features and Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722902154544-crafting-your-own-pc-compared-with-off-the-shelf-options-making-the-smart-decision-for-you/"><u>Crafting Your Own PC Compared with Off-the-Shelf Options - Making the Smart Decision for You.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/feel-the-thrill-top-10-sporting-movies-to-see-immedi-groovy-right-now/"><u>Feel the Thrill: Top 10 Sporting Movies to See Immedi Groovy Right Now!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-your-incoming-phone-the-iphone-15-pro-max-built-to-survive-a-dip-understanding-its-waterproof-rating/"><u>Is Your Incoming Phone, the iPhone 15 Pro Max, Built to Survive a Dip? - Understanding Its Waterproof Rating</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-entertainment-choices-differentiating-cable-from-digital-streaming-options/"><u>Navigating Entertainment Choices: Differentiating Cable From Digital Streaming Options</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Google Pixel 8 has been deleted.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-repairing-the-msvcr71dll-error-message/"><u>Step-by-Step Solutions for Repairing the 'msvcr71.dll' Error Message</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-for-the-elusive-missing-shell32dll-error/"><u>The Ultimate Fixes for the Elusive Missing shell32.dll Error</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-g22-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia G22.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>[New] Beginner’s Blueprint for YouTube Success Setting Up & Making Money</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-evolution-of-gaming-logging-beyond-fbx-limits/"><u>[New] In 2024, Evolution of Gaming Logging Beyond FBX Limits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unearthly-utility-top-five-terrafirma-maps/"><u>[New] Unearthly Utility Top Five Terrafirma Maps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-stellar-stories-celebrating-youtubes-best-narratives/"><u>[Updated] Stellar Stories Celebrating YouTube's Best Narratives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-analysis-of-crafting-an-apple-vision-pro-headset-insights-and-estimates/"><u>Cost Analysis of Crafting an Apple Vision Pro Headset - Insights and Estimates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnose-and-resolve-powerpoint-speaker-errors-expert-tips/"><u>Diagnose & Resolve PowerPoint Speaker Errors - Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-closed-captioning-a-step-by-step-guide-for-amazon-prime-watchers/"><u>Disabling Closed Captioning: A Step-by-Step Guide for Amazon Prime Watchers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-hacks-for-starting-your-windows-in-troubleshooting-safe-mode/"><u>Expert Hacks for Starting Your Windows in Troubleshooting Safe Mode</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimal-recording-for-virtual-meetings-top-5-equipment-lists-for-2024/"><u>Optimal Recording for Virtual Meetings Top 5 Equipment Lists for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782766-9781620552032-sexual-practices-of-the-druids-2nd-ed/"><u>Sexual Practices of the Druids (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-missing-d3dx9nine-library-issues/"><u>Step-by-Step Guide: Correcting Missing D3dx9_nine Library Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-practices-to-thoroughly-sanitize-and-wipe-down-your-dell-device/"><u>The Best Practices to Thoroughly Sanitize and Wipe Down Your Dell Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-the-best-max-original-series-streaming-today/"><u>Top Picks: The Best Max Original Series Streaming Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-correct-missing-microsoft-msodll-file/"><u>Troubleshooting Steps to Correct Missing Microsoft mso.dll File</u></a></li>
 </ul></div>
 

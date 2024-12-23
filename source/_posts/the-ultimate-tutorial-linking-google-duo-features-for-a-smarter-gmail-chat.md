@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial: Linking Google Duo Features for a Smarter Gmail Chat"
-date: 2024-12-07T19:59:24.675Z
-updated: 2024-12-13T22:31:41.429Z
+date: 2024-12-15T19:47:39.628Z
+updated: 2024-12-23T02:29:17.084Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Tutorial: Linking Google Duo Features for a Smarter Gmail Chat"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Date for the Next Google Event?
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Will Google Announce?
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Previous Google Events
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  You can watch the entire event below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Latest News About Google
@@ -92,20 +92,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>[New] 2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-innovating-your-image-tips-for-crafting-irresistible-youtube-live-graphics/"><u>[New] In 2024, Innovating Your Image Tips for Crafting Irresistible YouTube Live Graphics</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-social-snippets-showcase-twitters-trending-threads/"><u>[New] Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-full-featured-mac-video-and-audio-recorder/"><u>[Updated] 2024 Approved Full-Featured Mac Video & Audio Recorder</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-relevance-of-authenticity-in-insta-video-selfies/"><u>[Updated] In 2024, The Relevance of Authenticity in Insta Video Selfies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-techniques-to-correct-msvcr100dll-missing-or-non-existent-errors/"><u>Effective Techniques to Correct MSVCR100.DLL Missing or Non-Existent Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722901173130-exploring-the-hottest-imessage-game-selection-of-2024-our-picks/"><u>Exploring The Hottest iMessage Game Selection of 2024: Our Picks</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-simple-a-lorganisation-de-sauvegardes-hebdo-sous-windows-server-2008/"><u>Guide Simple À L'Organisation De Sauvegardes Hebdo Sous Windows Server 2008</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-analysis-apples-latest-4k-streaming-device-third-gen/"><u>In-Depth Analysis: Apple's Latest 4K Streaming Device, Third Gen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-openal32dll-file-not-found-issue/"><u>Resolving the openAL32.dll File Not Found Issue</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/shield-hero-ascendant-stunning-graphics-and-wallscapes-by-yl-computing/"><u>Shield Hero Ascendant: Stunning Graphics & Wallscapes by YL Computing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/by-step-guide-to-skyrocketing-video-views-for-2024/"><u>Step-by-Step Guide to Skyrocketing Video Views for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-tunes-to-your-insta-videos/"><u>Step-by-Step Guide: Adding Tunes to Your Insta Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-samsung-galaxy-z-fold-6-revealed-find-out-when-it-drops-and-what-it-packs-for-your-wallet/"><u>The Samsung Galaxy Z Fold 6 Revealed: Find Out When It Drops and What It Packs for Your Wallet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/your-ultimate-resource-for-free-iphone-guides-and-manuals-by-model-number/"><u>Your Ultimate Resource for Free iPhone Guides and Manuals by Model Number</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevate-your-visual-narratives-with-mastered-stories-bokeh/"><u>[Updated] 2024 Approved Elevate Your Visual Narratives with Mastered Stories Bokeh</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transcending-platform-boundaries-from-tiktok-to-fb-for-2024/"><u>[Updated] Transcending Platform Boundaries From TikTok To FB for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-techniques-for-ethically-following-a-phones-digital-trail/"><u>Free Techniques for Ethically Following a Phone's Digital Trail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gaming-at-its-peak-elevating-frame-rates-and-reducing-delays-in-genshin-impact/"><u>Gaming at Its Peak: Elevating Frame Rates and Reducing Delays in Genshin Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-logitech-keyboards-not-detected-on-windows-10/"><u>How to Fix Logitech Keyboards Not Detected on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-windows-11-october-2018-update-locating-missing-files-solution/"><u>How to Fix the Windows 11 October 2018 Update: Locating Missing Files Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pause-driver-upgrades-when-performing-windows-10-updates-effortlessly-resolve-the-issue/"><u>How to Pause Driver Upgrades When Performing Windows 10 Updates – Effortlessly Resolve the Issue!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-16-steps-to-successfully-livestream-and-save-money-on-education-platforms/"><u>In 2024, 16 Steps to Successfully Livestream and Save Money on Education Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntaneous-subscriber-tracking/"><u>Instantaneous Subscriber Tracking</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premiere-illustrator-adjustments-for-2024/"><u>Premiere Illustrator Adjustments for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/recommendations-for-reactivating-hp-print-headless-systems/"><u>Recommendations for Reactivating HP Print Headless Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-15-video-recording-and-live-streaming-tools-the-ultimate-movavi-alternative/"><u>Top 15 Video Recording and Live Streaming Tools: The Ultimate Movavi Alternative</u></a></li>
 </ul></div>
 

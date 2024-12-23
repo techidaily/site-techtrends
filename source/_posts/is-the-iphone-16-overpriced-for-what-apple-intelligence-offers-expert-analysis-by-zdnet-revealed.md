@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-12-09T18:50:38.355Z
-updated: 2024-12-13T22:25:47.553Z
+date: 2024-12-20T22:36:18.291Z
+updated: 2024-12-22T17:19:55.918Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -86,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,20 +158,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-free-skype-recording-made-easy-mp3-edition-for-2024/"><u>[Updated] Free Skype Recording Made Easy - MP3 Edition for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-change-your-virtual-rooms-palette-with-google-meet/"><u>[Updated] In 2024, Change Your Virtual Room's Palette with Google Meet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-iphone-16-vs-iphone-15-key-factors-for-your-next-upgrade-on-techradar/"><u>Apple iPhone 16 Vs. IPhone 15: Key Factors for Your Next Upgrade on TechRadar</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-how-copilot-key-upgrades-your-windows-11-experience/"><u>Discovering How Copilot Key Upgrades Your Windows 11 Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-apples-new-range-enhanced-13-inch-and-15-inch-macbook-air-with-m3-chip-launch-insightful-review-and-specs-update-from-zdnet/"><u>Explore Apple's New Range: Enhanced 13-Inch and 15-Inch MacBook Air with M3 Chip Launch | Insightful Review & Specs Update From ZDNET</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-manual-for-crafting-youtube-playlists-for-2024/"><u>How-To Manual for Crafting YouTube Playlists for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-video-maker-apps-for-novice-iphone-and-android-users/"><u>Ideal Video Maker Apps for Novice iPhone and Android Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-6-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 6 Plus without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-to-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick to a Projector</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tech-update-apple-greenlights-refurbished-pieces-in-iphone-repairs-sparks-industry-shift-findings/"><u>Tech Update: Apple Greenlights Refurbished Pieces in iPhone Repairs, Sparks Industry Shift | Findings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-strategies-when-you-cant-log-into-skype/"><u>Top Strategies When You Can't Log Into Skype</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-latest-macos-sonoma-patch-v144-essential-info-pre-update/"><u>Understanding the Latest MacOS Sonoma Patch v14.4 - Essential Info Pre-Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/usb-20-essentials-understanding-speeds-cable-types-and-connector-options/"><u>USB 2.0 Essentials: Understanding Speeds, Cable Types, and Connector Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-you-need-to-embrace-apple-pages-the-5-key-advantages-highlighted-by-zdnet-experts/"><u>Why You Need to Embrace Apple Pages: The 5 Key Advantages Highlighted by ZDNet Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/omparative-study-youtube-app-on-smartphone-platforms/"><u>[New] Comparative Study YouTube App on Smartphone Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-content-with-youtube-tags-and-notes/"><u>[New] Enhancing Content with YouTube Tags & Notes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-insights-into-youtube-shorts-business-model/"><u>[Updated] Insights Into YouTube Shorts Business Model</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-effective-methods-to-document-facetime-calls/"><u>2024 Approved Effective Methods to Document FaceTime Calls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehvew-on-how-to-properly-sterilize-your-television-controller/"><u>A Comprehvew on How to Properly Sterilize Your Television Controller</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-google-pixel-timepiece-series-4-price-predictions-expected-debut-date-and-speculations-unveiled/"><u>All About The Upcoming Google Pixel Timepiece (Series 4): Price Predictions, Expected Debut Date, and Speculations Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/aurora-hdr-assessment-excellence-or-overkill/"><u>Aurora HDR Assessment Excellence or Overkill?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-efficiently-pinging-your-target-websites/"><u>Essential Tips for Efficiently Pinging Your Target Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-alter-perceived-locations-on-your-mobile-device-a-comprehensive-guide/"><u>How to Alter Perceived Locations on Your Mobile Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-set-up-a-shared-viewing-experience-for-netflix-series-and-movies/"><u>How to Set Up a Shared Viewing Experience for Netflix Series and Movies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-taking-flight-hubsans-latest-aerial-marvel-reviewed/"><u>In 2024, Taking Flight Hubsan's Latest Aerial Marvel Reviewed</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/real-time-streaming-with-manycam-top-live-video-editing-and-remote-webcam-solutions/"><u>Real-Time Streaming with ManyCam: Top Live Video Editing & Remote Webcam Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-surprising-origins-and-meanings-of-your-favorite-emojis-10-mind-blowing-facts/"><u>The Surprising Origins and Meanings of Your Favorite Emojis: 10 Mind-Blowing Facts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316575-9781401920609-transforming-fate-into-destiny/"><u>Transforming Fate Into Destiny | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unbeatable-amazon-prime-day-offers-in-technology-sector/"><u>Unbeatable Amazon Prime Day Offers in Technology Sector</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
-date: 2024-12-09T18:54:42.767Z
-updated: 2024-12-13T21:04:04.984Z
+date: 2024-12-17T23:32:37.144Z
+updated: 2024-12-22T21:59:20.749Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 >
 
 ## Creating Personalized Notification Tones in Gmail – Step by Step
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -41,17 +37,21 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -116,22 +116,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb/"><u>[New] From Conventional to Cutting-Edge The Shift From Rgb to Srgb</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-instructions-installing-countdown-clocks-in-obs-for-2024/"><u>[New] In-Depth Instructions Installing Countdown Clocks in OBS for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-samsung-galaxy-ring-pricing-availability-dates-features-and-recent-information/"><u>All You Need to Know About the Samsung Galaxy Ring - Pricing, Availability Dates, Features & Recent Information</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny-for-2024/"><u>App Reception A Comprehensive Scrutiny for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-uninstall-tools-a-selection-of-15-options/"><u>Best Free Uninstall Tools: A Selection of 15 Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-a-smartwatch-wisely-5-critical-aspects-to-evaluate-beforehand/"><u>Choosing a Smartwatch Wisely: 5 Critical Aspects to Evaluate Beforehand</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-for-correcting-a-non-existent-user32dll-error-on-your-pc/"><u>Essential Tips for Correcting a Non-Existent User32.dll Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/handling-errors-a-guide-to-addressing-missing-d3dx933dll-issues/"><u>Handling Errors: A Guide to Addressing Missing d3dx9_33.dll Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/harnessing-the-power-of-siri-to-convert-text-into-speech-in-apple-ecosystem/"><u>Harnessing the Power of Siri to Convert Text Into Speech in Apple Ecosystem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/"><u>In 2024, Photoshop Face/Background Anonymity Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ingenious-stop-motion-cinema-ranking-the-best-15-for-2024/"><u>Ingenious Stop-Motion Cinema - Ranking the Best 15 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/masterful-messaging-find-your-go-to-text-transcription-aids-for-2024/"><u>Masterful Messaging Find Your Go-To Text Transcription Aids for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-troubleshooting-a-10-step-approach-for-wifi-adapter-repair/"><u>Mastering Troubleshooting: A 10-Step Approach for WiFi Adapter Repair</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-the-intricacies-of-power-management-in-windows-10-systems/"><u>Navigating Through the Intricacies of Power Management in Windows 10 Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-on-finding-and-crafting-spiritual-ringtones-for-2024/"><u>Step-by-Step on Finding and Crafting Spiritual Ringtones for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-how-to-erase-your-yahoo-mail-presence-forever/"><u>The Ultimate Walkthrough: How To Erase Your Yahoo Mail Presence Forever</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-9a-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 9A Location | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-detailed-close-ups-made-easy-in-videoleap-editing-for-2024/"><u>[New] Detailed Close-Ups Made Easy in Videoleap Editing for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-claude-and-gpt-for-household-assistance/"><u>AI Showdown: Claude & GPT for Household Assistance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/alternate-browsers-for-smart-tvs-how-to-change-your-samsungs-default-option/"><u>Alternate Browsers for Smart TVs: How to Change Your Samsung's Default Option</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-superiority-elite-ceiling-speakers-for-2024-unleashed/"><u>Discover the Superiority: Elite Ceiling Speakers for 202#4 Unleashed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-implementing-automated-accounts-in-your-discord-community/"><u>Guide: Implementing Automated Accounts in Your Discord Community</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-itel-p40plus-by-drfone-android/"><u>How to Bypass FRP on Itel P40+?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prospects-and-pitfalls-of-the-latest-in-photography-by-samsung-2023/"><u>In 2024, Prospects & Pitfalls of the Latest in Photography by Samsung, 2023</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-fire-tv-edition-toshibas-55lf711u20-review-and-ideal-features-for-prime-video-enthusiasts/"><u>Innovative Fire TV Edition: Toshiba's 55LF711U20 Review & Ideal Features for Prime Video Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-video-quality-enabling-av1-on-youtube-for-2024/"><u>Maximizing Video Quality Enabling AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-strategy-for-creating-viral-hashtags-on-facebook/"><u>The Ultimate Strategy for Creating Viral Hashtags on Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-cyber-monday-savings-score-a-high-performance-lg-gram-17-for-only-400-off-tech-news/"><u>Unmissable Cyber Monday Savings: Score a High-Performance LG Gram 17 for Only $400 Off | Tech News</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveil-clarity-the-finest-10-online-editing-utilities-ranked-for-2024/"><u>Unveil Clarity The Finest 10 Online Editing Utilities Ranked for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-go-to-guide-purchasing-ebooks-with-apples-books-app-for-ios-users/"><u>Your Go-To Guide: Purchasing eBooks with Apple's Books App for iOS Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Complete Breakdown of Bass Management Functions & Uses
-date: 2024-12-10T21:32:35.112Z
-updated: 2024-12-13T20:28:17.299Z
+date: 2024-12-19T21:43:34.118Z
+updated: 2024-12-22T21:10:10.620Z
 categories:
   - BestProducts
 description: This Article Describes A Complete Breakdown of Bass Management Functions & Uses
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Surround Sound and Bass
 
  Music (especially rock, pop, and rap) may contain low-frequency information that a subwoofer can take advantage of. When movies (and some TV shows) are mixed for DVD and[Blu-ray Disc](https://www.lifewire.com/blu-ray-disc-player-information-1846364) , sounds are assigned to each channel.
@@ -31,15 +35,15 @@ thumbnail: https://www.lifewire.com/thmb/0mT0cLKbnzK26DxOEQsLWDDJY0s=/400x300/fi
 
 Anthem AV
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Implementing Bass Management
 
  A home theater system ([usually anchored by a home theater receiver](https://www.lifewire.com/set-up-home-theater-receiver-4119787) ) needs to distribute sound frequencies to the correct channels and speakers to replicate a cinema-like experience. Bass management provides this tool.
 
  You can perform bass management automatically or manually. Before starting,[place the speakers in the proper locations](https://www.lifewire.com/positioning-loudspeakers-and-subwoofer-1846808) , connect them to your home theater receiver, and then designate where the sound frequencies need to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set Your Speaker Configuration
 
@@ -54,11 +58,7 @@ Anthem AV
 ![Denon AVR-X2100W Speaker Configuration Menu](https://www.lifewire.com/thmb/XqLRWKHghkeKaDVYsaE9FsbOEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-speaker-config-menu-alt-x-915893fe813c4bdaa043049af24e2a9b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Speaker/Subwoofer Signal Routing and Speaker Size
@@ -73,7 +73,7 @@ Anthem AV
 * If you have bookshelf-type speakers for the rest of the channels combined with a subwoofer, route all low frequencies to the subwoofer only. This takes the low-frequency load off the smaller speakers since they can't reproduce lower bass frequencies. If prompted, set all the speakers to small.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Subwoofer vs. LFE
@@ -81,10 +81,6 @@ Anthem AV
  When deciding which of the above options to use, most movie soundtracks on DVD, Blu-ray Disc, and some streaming sources contain a specific[LFE (Low-Frequency Effects)](https://www.dolby.com/uploadedFiles/Assets/US/Doc/Professional/38%5FLFE.pdf) channel ([Dolby](https://www.lifewire.com/dolby-digital-ex-plus-1846885) and[DTS](https://www.lifewire.com/what-is-dts-1846889) surround formats).
 
 ![Denon AVR-X2100W Subwoofer LFE Settings Menu](https://www.lifewire.com/thmb/7EpelSRkJveIXdtBvouIVTmPduQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denon-avr-x2100w-subwoofer-lfe-x-9632c722beac467a90cbde08657c5b66.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The LFE channel contains specific, extremely low-frequency information that can only be passed through the receiver's subwoofer preamp output. If you tell the receiver you don't have a subwoofer, you won't have access to the specific low-frequency information encoded on that channel. However, other low-frequency information not encoded specifically to the LFE channel can be routed to other speakers.
 
@@ -112,7 +108,7 @@ Onkyo USA
  Although convenient for most setups, this method isn't always accurate. It can sometimes miscalculate speaker distance and the speaker/subwoofer frequency points, setting the center channel output too low or the subwoofer output too high. However, you can correct these manually after the fact, if desired.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Bass Management Manually
@@ -135,6 +131,10 @@ Onkyo USA
  One way to find a good crossover point is to check the speaker and subwoofer specifications to determine what the manufacturer designates as the speakers' bottom-end response and the subwoofer's top-end response listed in Hz. You can then go into the home theater receiver's speaker settings and use those points as a guideline.
 
 ![Denon AVR-X2100W Crossover Settings Menu](https://www.lifewire.com/thmb/U0hvP3qoaLcpWMo4oNgfFZoQNFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/denonp-avr-x2100w-crossover-alt-x-6b7312c6847d4b4baa35670e710b17ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A useful tool in setting crossover points is a DVD or Blu-ray test disc that includes an audio test section, such as[Digital Video Essentials](https://www.amazon.com/Digital-Video-Essentials-Basics-Blu-ray/dp/B000V6LST0?tag=lifewire-onsite-prod-20&ascsubtag=4136746%7Cn1a0d219b82aa4a1997258ab762750e7b16%7C) .
 
@@ -188,17 +188,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-drone-motors-choose-the-5-best-motors-for-your-quadcopter/"><u>[New] 2024 Approved Drone Motors Choose the 5 Best Motors for Your Quadcopter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-using-supplementary-film-scenes/"><u>[New] The Essential Guide to Using Supplementary Film Scenes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tips-to-improve-profile-cover-videos-for-2024/"><u>[New] Tips to Improve Profile Cover Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>[Updated] Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-xr21-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia XR21 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-cinema-magic-in-3d-comfortably-master-fandangos-online-viewing/"><u>Enjoy Cinema Magic in 3D Comfortably: Master Fandango's Online Viewing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ps4-gameplay-hd-video-creation-a-comprehensive-how-to-guide-for-gamers/"><u>PS4 Gameplay HD Video Creation: A Comprehensive How-To Guide for Gamers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-securing-your-apple-genius-bar-appointment/"><u>Step-by-Step Guide: Securing Your Apple Genius Bar Appointment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-final-say-on-yahoo-mail-permanent-account-removal-explained/"><u>The Final Say on Yahoo Mail: Permanent Account Removal Explained</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-6s-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earnings-from-a-million-youtube-globals/"><u>[Updated] In 2024, Earnings From a Million YouTube Globals</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-beginners-blueprint-achieving-superior-image-clarity-in-videos-for-2024/"><u>[Updated] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/asus-touchpad-not-working-on-windows-1110-solved/"><u>ASUS Touchpad Not Working on Windows 11/10 [SOLVED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/battle-royale-gaming-fixes-for-low-fps/"><u>Battle Royale Gaming: Fixes for Low FPS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/camera-malfunction-in-windows-11-understanding-and-solving-error-code-0xa00f4244/"><u>Camera Malfunction in Windows 11: Understanding and Solving Error Code 0xA00F4244</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-window-past-with-these-3-tricks/"><u>Clear Window Past with These 3 Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-downloading-and-installing-hp-device-drivers-on-windows-7/"><u>Complete Guide: Downloading and Installing HP Device Drivers on Windows 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easily-switch-languages-on-windows-e-a-comprehensive-tutorial-for-windows-7-users/"><u>Easily Switch Languages on Windows E: A Comprehensive Tutorial for Windows 7 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-guide-to-postponing-software-improvements-on-your-windows-10-machine/"><u>Effortless Guide to Postponing Software Improvements on Your Windows 10 Machine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enable-built-in-administrator-account-in-windows-11-7-and-8-step-by-step/"><u>Enable Built-In Administrator Account in Windows 11, 7 & 8 (Step by Step)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/i2c-hid-device-driver-error-fixes-a-simplified-approach-to-smoother-operation/"><u>I2C HID Device Driver Error Fixes: A Simplified Approach to Smoother Operation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-11-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 11 How to Bypass?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a05-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A05 Fingerprint Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/supersede-your-wyze-cam-with-a-sturdy-secure-option-the-blink-mini-2-security-camera-review-zdnet/"><u>Supersede Your Wyze Cam with a Sturdy, Secure Option: The Blink Mini 2 Security Camera Review | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-methods-tracking-observers-of-your-youtube-channels/"><u>Unveiling the Methods: Tracking Observers of Your YouTube Channels</u></a></li>
 </ul></div>
 

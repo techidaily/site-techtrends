@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-12-07T20:22:25.717Z
-updated: 2024-12-13T17:38:29.057Z
+date: 2024-12-20T20:53:58.389Z
+updated: 2024-12-22T20:31:54.367Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -19,10 +19,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -32,10 +28,15 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -49,12 +50,20 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -70,10 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -86,7 +91,7 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -129,10 +134,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Was this page helpful?
 
 Thanks for letting us know!
@@ -162,18 +163,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-stay-on-top-of-youtube-moderation-standards/"><u>[New] 2024 Approved How to Stay on Top of YouTube Moderation Standards</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>[Updated] Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-wireless-music-streaming-with-dts-play-fi/"><u>Exploring the World of Wireless Music Streaming with DTS Play-Fi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-ac1st16dll-not-detected-issue-with-ease-step-by-step/"><u>Fix the ac1st16.dll Not Detected Issue with Ease - Step-by-Step</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-roku-subtitles-a-step-by-step-fix-for-turning-on-closed-captioning/"><u>Fix Your Roku Subtitles: A Step-by-Step Fix for Turning On Closed Captioning</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-11-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme 11 Pro Phone Network-Ready</u></a></li>
-<li><a href="https://techtrends.techidaily.com/july-2024-complete-set-of-default-access-codes-for-all-d-link-products/"><u>July 2024 Complete Set of Default Access Codes for All D-Link Products</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-2024-approved-easy-steps-to-translate-video-on-twitter/"><u>New 2024 Approved Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-not-connected-to-wifi-errors-on-a-galaxy-phone/"><u>Overcoming 'Not Connected to WiFi' Errors on a Galaxy Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-guide-when-world-of-warcraft-wont-boot-up-on-your-desktop/"><u>Quick Fix Guide: When World of Warcraft Won't Boot Up on Your Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-chat-for-tweens-and-teens-setting-up-restrictions-on-discord/"><u>Secure Chat for Tweens and Teens: Setting Up Restrictions on Discord</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-pathway-to-pinnacle-chromatic-precision/"><u>The Pathway to Pinnacle Chromatic Precision</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-unbeatable-best-buy-promotions-in-june-2024-the-ultimate-savings-guide-zdnet/"><u>Top 5 Unbeatable Best Buy Promotions in June 2024: The Ultimate Savings Guide - ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>[New] 2024 Approved Audio Alchemy Selecting Melodies that Enhance Boxings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>[New] 2024 Approved Perfect Virtual Screens Choosing Best Meet Backgrounds</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>[Updated] In 2024, Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-vanguard-visuals-ideal-notebooks-for-4k-editors-needs-for-2024/"><u>[Updated] Vanguard Visuals Ideal Notebooks for 4K Editors' Needs for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-12-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aster-app/"><u>EditMaster App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-error-why-your-iphone-wont-pair-with-itunes-invalid-response-issue/"><u>Fixing the Error: Why Your iPhone Won't Pair with iTunes (Invalid Response Issue)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-fixing-hard-drive-issues-in-windows-10-a-step-by-step-tutorial/"><u>Guide to Fixing Hard Drive Issues in Windows 10: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enable-and-use-compatibility-mode-for-legacy-software-on-windows-11/"><u>How to Enable and Use Compatibility Mode for Legacy Software on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-toggle-browser-cookie-settings-in-windows-11-a-step-by-step-guide-for-chrome-firefox-opera-and-edge/"><u>How to Toggle Browser Cookie Settings in Windows 11: A Step-by-Step Guide for Chrome, Firefox, Opera & Edge</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-steams-share-feature-a-comprehensive-walkthrough/"><u>Mastering Steam's Share Feature: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-frame-rate-essential-tips-for-enhancing-fps-in-the-game-of-rust/"><u>Maximizing Your Frame Rate: Essential Tips for Enhancing FPS in the Game of Rust</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-capturing-a-screen-image-effortlessly-in-windows/"><u>Quick Guide: Capturing a Screen Image Effortlessly in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/trending-memes-galore-unique-themes-for-any-event/"><u>Trending Memes Galore Unique Themes for Any Event</u></a></li>
 </ul></div>
 

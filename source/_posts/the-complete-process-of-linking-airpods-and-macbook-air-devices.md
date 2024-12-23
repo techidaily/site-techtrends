@@ -1,7 +1,7 @@
 ---
 title: The Complete Process of Linking AirPods and MacBook Air Devices
-date: 2024-12-06T22:53:08.363Z
-updated: 2024-12-13T22:25:17.993Z
+date: 2024-12-20T20:57:55.515Z
+updated: 2024-12-22T17:00:30.912Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Process of Linking AirPods and MacBook Air Devices
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 >
 
 ## The Complete Process of Linking AirPods and MacBook Air Devices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -37,24 +41,24 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![Bluetooth toggle from System Settings in macOS.](https://www.lifewire.com/thmb/xDyy0-wNQe-XeQ-GMd0y--hFjXM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_connect-airpods-to-macbook-air-5188769-7b8ab0bf74af49d7a60326f58903a997.jpg)
 3. With both AirPods in the charging case, open the lid. Press the button on the AirPods case until the status light starts to blink.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The setup button on the AirPods case](https://www.lifewire.com/thmb/UluEXY72qkp63Gp8Wqrn11pixNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_connectairpods3-aa8835d06ca5488ea04a6597909f5872-72c6445e2b43481781ff26466cef507f.jpg)
 4. The AirPods will appear in the Bluetooth preferences window. Click**Connect** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Connect button for an available set of AirPods Pro in macOS Bluetooth settings.](https://www.lifewire.com/thmb/KG0yU2YAi6Ct5NjtMCIkdfyAA7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_connect-airpods-to-macbook-air-5188769-baf578afb7944e938c59b082037e82d4.jpg)
 5. In a moment, the AirPods will be connected to your MacBook Air and you'll be ready to listen to audio.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To use the AirPods with your MacBook Air in the future, you won't need all of these steps. By default, your AirPods should connect automatically or when last connected to your Mac. If they don't, connect them from the**Control Center** \>**Bluetooth** or from the Bluetooth settings menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Connect Two Pairs of AirPods to One MacBook Air?
@@ -70,17 +74,13 @@ thumbnail: https://www.lifewire.com/thmb/iM4HZrQoKiP6qJ_hXe5JcveVDoI=/400x300/fi
 ![The Create Multi-Output Device option from the add menu in the Audio MIDI Setup app in macOS.](https://www.lifewire.com/thmb/MqndcghTr5gA9bPNn5_9SqqiyRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_connect-airpods-to-macbook-air-5188769-5664d35fbbc2464d80a4f714c5955221.jpg)
 3. Check the box next to the two sets of AirPods. In the**Master Device** drop-down, choose your AirPods. Check the**Drift Correction** box next to your friend's AirPods.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AirPods selected and one set to Drift Correction in Audio MIDI Setup in macOS.](https://www.lifewire.com/thmb/OiH8Qk5hsmap5RKxp1rTMtNuzG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-connect-airpods-to-macbook-air-5188769-fba01d5c7c96478f9e3070fc2bdcfa7c.jpg)
 4. Go to the**Apple** menu >**System Settings** or**System Preferences** \>**Sound** \>**Output** \>**Multi-Output Device** . With that done, the MacBook Air's audio is sent to both sets of AirPods.  
 
 ![A Multi-Output Device selected from the Output tab in macOS Sound settings.](https://www.lifewire.com/thmb/WcwsnAzXRRb5xQABJalZ7xjF9eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-connect-airpods-to-macbook-air-5188769-40b916aaa66f4d22a180b33f9422adfc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Won't My AirPods Connect to My MacBook Air?
@@ -123,22 +123,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-leveraging-spotifys-features-a-marketing-gamechanger-guide/"><u>[New] 2024 Approved Leveraging Spotify’s Features A Marketing Gamechanger Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-igtv-hash-tagging-boosting-your-fan-base-for-2024/"><u>[New] Mastering IGTV Hash Tagging Boosting Your Fan Base for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-simplified-hdr-an-in-depth-examination-for-2024/"><u>[Updated] Simplified HDR An In-Depth Examination for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-troubleshooting-phantom-taps-a-rising-concern-among-apple-watch-users-solutions-and-insights/"><u>1: Troubleshooting 'Phantom Taps': A Rising Concern Among Apple Watch Users - Solutions & Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-latest-tech-revelation-a-deep-dive-into-the-prospective-home-robot-its-cost-and-release-forecast/"><u>Apple's Latest Tech Revelation: A Deep Dive Into the Prospective Home Robot, Its Cost, and Release Forecast</u></a></li>
-<li><a href="https://windows11.techidaily.com/banishing-glitches-fix-windows-11-screen-flash/"><u>Banishing Glitches: Fix Windows 11 Screen Flash</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>In 2024, Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-update-174-unveiled-by-apple-featuring-enhanced-podcast-support-fresh-emoji-additions-and-european-app-marketplace-tweaks/"><u>IOS Update 17.4 Unveiled by Apple Featuring Enhanced Podcast Support, Fresh Emoji Additions & European App Marketplace Tweaks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-14-pro-versus-iphone-14-pro-max-choosing-your-next-smartphone-upgrade-wisely/"><u>IPhone 14 Pro Versus iPhone 14 Pro Max: Choosing Your Next Smartphone Upgrade Wisely</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211314927-9781440511394-lovecasts/"><u>Lovecasts | Free Book</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/perfect-shots-effortless-streaming-dslr-on-pcmac-for-2024/"><u>Perfect Shots, Effortless Streaming DSLR on PC/Mac for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/silencing-governmental-warnings-a-guide-to-deactivating-amber-alerts-on-your-iphone/"><u>Silencing Governmental Warnings: A Guide to Deactivating Amber Alerts on Your iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solve-autofocus-problems-on-your-iphone-with-effective-troubleshooting-steps/"><u>Solve Autofocus Problems on Your iPhone with Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-durability-top-ranked-titanium-apple-watch-band-review/"><u>Ultimate Durability: Top-Ranked Titanium Apple Watch Band Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-mac-application-guide-curated-list-by-tech-experts-at-zdnet/"><u>Ultimate Mac Application Guide | Curated List by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-hub/"><u>Unveiling the Latest in Hardware with Tom's Technology Hub</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-users-rejoice-learn-how-to-handle-imessages-with-ease-insights/"><u>Windows Users Rejoice! Learn How to Handle iMessages with Ease, Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-silent-videos-to-engaging-content-swiftly-add-captions-on-fb/"><u>[New] 2024 Approved From Silent Videos to Engaging Content Swiftly Add Captions on FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859876041-new-discover-the-best-open-worlds-today/"><u>[New] Discover the Best Open Worlds Today!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-expansion-at-wallet-friendly-costs/"><u>[New] In 2024, Channel Expansion at Wallet-Friendly Costs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-8-linux-compatible-cutting-apps/"><u>[Updated] In 2024, Top 8 Linux-Compatible Cutting Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-social-media-zoom-and-facebook-live-interactions/"><u>2024 Approved Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4avivob-movavi/"><u>網路直銷無限MP4/AVI到VOB自由下載 - 使用Movavi格式轉換工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-guide-to-navigating-t-mobiles-domestic-roaming-agreements/"><u>A Guide to Navigating T-Mobile's Domestic Roaming Agreements</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1366446-9781599474557-discovering-the-laws-of-life/"><u>Discovering the Laws of Life | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-update-region-configuration-on-an-iphone-device/"><u>How To Update Region Configuration On An iPhone Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-and-surface-pro-face-off-determining-your-ideal-device/"><u>IPad Pro and Surface Pro Face-Off: Determining Your Ideal Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-selecting-a-suitable-surge-suppressor-to-protect-your-electronics/"><u>Step-by-Step: Selecting a Suitable Surge Suppressor to Protect Your Electronics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-great-debate-clarifying-the-distinctive-characteristics-of-an-ipad-compared-to-other-tablets/"><u>The Great Debate: Clarifying the Distinctive Characteristics of an iPad Compared to Other Tablets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-figuring-out-your-own-email-address/"><u>The Ultimate Guide to Figuring Out Your Own Email Address</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-tactics-for-boosting-your-videos-to-viral-status-on-youtube/"><u>Top 8 Tactics for Boosting Your Videos to Viral Status on YouTube</u></a></li>
 </ul></div>
 

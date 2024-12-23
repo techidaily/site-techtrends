@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-12-11T23:12:03.560Z
-updated: 2024-12-13T18:50:52.215Z
+date: 2024-12-18T17:46:41.009Z
+updated: 2024-12-22T20:06:18.045Z
 tags:
   - apple
 categories:
@@ -29,20 +29,20 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +62,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-top-tips-to-mastering-the-art-of-hashtag-creation-on-youtube/"><u>[Updated] In 2024, Top Tips to Mastering the Art of Hashtag Creation on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-master-your-craft-best-drawing-tools-on-the-chromebook-spectrum-for-2024/"><u>[Updated] Master Your Craft Best Drawing Tools on the Chromebook Spectrum for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-how-to-install-third-party-ios-applications-without-jailbreak-a-comprehensive-guide/"><u>1. How to Install Third-Party iOS Applications Without Jailbreak: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/10-essential-upgrades-required-for-apples-ai-to-challenge-the-dominance-of-openai-and-google-an-in-depth-analysis/"><u>10 Essential Upgrades Required for Apple's AI to Challenge the Dominance of OpenAI & Google: An In-Depth Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/film-lovers-answers-repository/"><u>Film Lovers' Answers Repository</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/freedom-travel-planning-the-seven-top-free-ai-tools-for-itineraries/"><u>Freedom Travel Planning: The Seven Top FREE AI Tools for Itineraries</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-your-hands-on-the-latest-apple-pencil-2nd-generation-at-a-bargain-price-of-95-exclusive-labor-day-offer/"><u>Get Your Hands on the Latest Apple Pencil (2Nd Generation) at a Bargain Price of $95 - Exclusive Labor Day Offer!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-connectivity-issues-lenovo-and-windows-10/"><u>Navigating Connectivity Issues: Lenovo & Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-transition-moving-your-whatsapp-from-android-to-ios-devices-tips-and-steps/"><u>Seamless Transition: Moving Your WhatsApp From Android to iOS Devices - Tips & Steps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-goldilocks-approach-to-audio-unboxing-and-assessing-the-jbl-extreme-4-bluetooth-speaker/"><u>The Goldilocks Approach to Audio - Unboxing and Assessing the JBL Extreme 4 Bluetooth Speaker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-picks-the-ultimate-guide-to-twitter-management-apps/"><u>Top Picks: The Ultimate Guide to Twitter Management Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-airtag-wallet-selections-for-2-reviews-and-comparisons/"><u>Top-Rated AirTag Wallet Selections for 2# Reviews & Comparisons</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/visionary-voices-triumph-online-for-2024/"><u>Visionary Voices Triumph Online for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-preparing-for-peak-vr-performance/"><u>[New] In 2024, Preparing For Peak VR Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-screencapture-guide-for-laptop-techies-for-2024/"><u>[New] The Ultimate ScreenCapture Guide for Laptop Techies for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-accelerate-vimeo-video-experience-for-2024/"><u>[Updated] Accelerate Vimeo Video Experience for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breakneck-broadcast-channel-your-youtube-list/"><u>2024 Approved Breakneck Broadcast Channel Your YouTube List</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/como-editar-video-en-una-mac-usando-el-software-de-corta-filmado-movavi/"><u>Cómo Editar Vídeo en Una Mac Usando El Software De Corta-Filmado Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connect-and-compete-a-step-by-step-guide-to-playing-games-on-ps5-with-others/"><u>Connect and Compete: A Step-by-Step Guide to Playing Games on PS5 With Others</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-with-snapchats-tech-team-what-you-need-to-know/"><u>Connecting With Snapchat's Tech Team: What You Need To Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-strategies-for-dealing-with-not-found-d3dx941dll-errors-fixes-and-prevention-tips/"><u>Detailed Strategies for Dealing with Not Found d3dx9_41.dll Errors: Fixes and Prevention Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-6-amazing-free-substitutes-for-adobe-photoshop/"><u>Discover 6 Amazing Free Substitutes for Adobe Photoshop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-removing-text-overlays-in-amazon-prime-video/"><u>Easy Steps for Removing Text Overlays in Amazon Prime Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-and-ipads-best-video-player-compilation-top-10-for-2024/"><u>IPhone & iPad's Best Video Player Compilation (Top 10) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-live-streaming-techniques-for-the-rio-2024-olympiad-viewings/"><u>Master Live Streaming Techniques for the Rio 2024 Olympiad Viewings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-easy-underwater-film-making-top-7-hacks/"><u>Mastering Easy Underwater Film-Making Top 7 Hacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-privacy-easily-keeping-your-mobile-number-secret-on-an-android-smartphone/"><u>Securing Privacy: Easily Keeping Your Mobile Number Secret on an Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-to-overcome-the-notorious-code-43-malfunction/"><u>Step-by-Step Fixes to Overcome the Notorious Code #43 Malfunction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-tech-gear-a-look-into-toms-hardware-selections/"><u>Unveiling the Best Tech Gear: A Look Into Tom’s Hardware Selections</u></a></li>
+<li><a href="https://techtrends.techidaily.com/user32dll-not-found-heres-how-to-restore-the-missing-system-file/"><u>User32.dll Not Found? Here's How to Restore the Missing System File</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-12-09T16:17:33.491Z
-updated: 2024-12-13T21:22:14.437Z
+date: 2024-12-18T18:10:00.338Z
+updated: 2024-12-22T21:18:37.273Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -90,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,6 +117,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-compelling-content-the-most-attractive-6-video-types/"><u>[New] In 2024, Compelling Content The Most Attractive 6 Video Types</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-apex-chart-seeker-monitor-most-viewed-videos/"><u>[Updated] 2024 Approved Apex Chart Seeker Monitor Most Viewed Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-quick-thumbs-up-creating-your-own-google-image-mosaic/"><u>[Updated] Quick Thumbs Up Creating Your Own Google Image Mosaic</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-latest-phone-rumored-to-be-announced-soon-price-forecasts-release-calendar-and-feature-breakdown/"><u>Apple's Latest Phone Rumored to Be Announced Soon: Price Forecasts, Release Calendar & Feature Breakdown</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-tv-fixes-step-by-step-resolution-of-common-televison-faults/"><u>DIY TV Fixes: Step-by-Step Resolution of Common Televison Faults</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/essential-guide-upgrading-older-scan-device-parts-with-ease-insights-from-yl-computing-and-software/"><u>Essential Guide: Upgrading Older Scan Device Parts with Ease - Insights From YL Computing & Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-your-way-faster-explore-these-5-superior-iphone-gps-applications/"><u>Find Your Way Faster: Explore These 5 Superior iPhone GPS Applications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/free-windows-11-upgrade-ended-what-you-need-to-know-now-zdnet-insights/"><u>Free Windows 11 Upgrade Ended: What You Need to Know Now - ZDNet Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/"><u>Guide: Ensuring Your Email Address Securely Listed Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repair-solutions-for-the-missing-d3dx924dll-error/"><u>Troubleshooting and Repair: Solutions for the Missing d3dx9_24.dll Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-goodies-in-a-nintendo-switch-setup/"><u>Unveiling the Goodies in a Nintendo Switch Setup</u></a></li>
-<li><a href="https://extra-information.techidaily.com/voice-and-vision-in-scriptwriting/"><u>Voice and Vision in Scriptwriting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-is-aim-delving-into-the-world-of-aols-revolutionary-chat-system/"><u>What Is AIM? Delving Into the World of AOL's Revolutionary Chat System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722900419765-wi-fi-woes-fix-your-ipads-internet-connection-here/"><u>Wi-Fi Woes? Fix Your iPad's Internet Connection Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>[Updated] In 2024, The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards-for-2024/"><u>[Updated] Reversing the Flow A Guide to Tracing Instagram Pics Backwards for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-close-up-cinematic-magic-with-kinemaster-software/"><u>2024 Approved Close-Up Cinematic Magic with Kinemaster Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-productivity-with-two-screens-how-to-connect-extra-displays-in-windows-11/"><u>Boost Productivity with Two Screens: How to Connect Extra Displays in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-an-external-hard-drive-to-your-ps4-a-step-by-step-guide/"><u>Connecting an External Hard Drive to Your PS4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-shrink-dvd-t172603069690011/"><u>DVD Shrink 日本語対応ガイド： DVD保存プロセス入門</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-rectifying-bluetooth-speaker-and-display-sync-problems-in-windows-systems/"><u>Expert Tips for Rectifying Bluetooth Speaker & Display Sync Problems in Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-update-ios-18-is-here-installation-instructions-and-eligible-iphone-devices-techzdnet/"><u>Get the Latest Update: IOS 18 Is Here! Installation Instructions and Eligible iPhone Devices | TechZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-google-usb-driver-fast-and-easy-installation-steps-inside/"><u>Get Your Google USB Driver - Fast and Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-block-calls-on-iphone-and-android-phone-quickly-and-easily/"><u>How to Block Calls on iPhone & Android Phone | Quickly & Easily!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-export-chrome-bookmarks-easily/"><u>How to Export Chrome Bookmarks — Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-influencing-cultures-through-memetic-expression/"><u>In 2024, Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jest-jar-your-best-free-meme-source/"><u>Jest Jar Your Best Free Meme Source</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-iphone-16-the-revolutionary-camera-button-redefines-mobile-photography-full-details-by-zdnet/"><u>Unveiling the iPhone 16: The Revolutionary Camera Button Redefines Mobile Photography – Full Details by ZDNET.</u></a></li>
 </ul></div>
 

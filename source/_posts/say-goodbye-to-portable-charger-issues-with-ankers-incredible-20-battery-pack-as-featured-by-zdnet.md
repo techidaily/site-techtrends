@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2024-12-11T16:14:28.054Z
-updated: 2024-12-13T18:05:24.465Z
+date: 2024-12-15T22:25:34.149Z
+updated: 2024-12-23T01:19:59.354Z
 tags:
   - apple
 categories:
@@ -19,6 +19,10 @@ Sabrina Ortiz/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -39,7 +43,7 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -68,7 +72,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -78,10 +82,6 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -96,7 +96,7 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -104,7 +104,7 @@ The charger comes in five colors: blue, black, white, green, and pink, matching 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -141,22 +141,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-artisans-guide-to-striking-ae-title-designs/"><u>[New] 2024 Approved The Artisan's Guide to Striking AE Title Designs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>[New] Panoramic Precision Battle Gear Vs LGCam Showdown</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-adopting-the-way-of-google-meet-webinars/"><u>[Updated] Adopting the Way of Google Meet Webinars</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-conquer-snapchat-lens-design-two-easy-approaches/"><u>2024 Approved Conquer Snapchat Lens Design Two Easy Approaches</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-note-12-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi Note 12 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/battlenet-dilemma-determining-if-its-a-global-outage-or-personal-connection-problem/"><u>Battle.net Dilemma: Determining if It's a Global Outage or Personal Connection Problem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-productivity-with-gmail-how-to-utilize-filters-and-manage-separate-email-accounts/"><u>Boost Productivity with Gmail: How to Utilize Filters & Manage Separate Email Accounts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bypassing-code-28-glitches-on-your-windows-system-expert-advice/"><u>Bypassing Code 28 Glitches on Your Windows System - Expert Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-iphone-gps-applications-our-top-picks/"><u>Discover the Best iPhone GPS Applications: Our Top Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ideal-gaming-setups-selecting-the-perfect-consoles-and-gadgets-for-kids/"><u>Ideal Gaming Setups: Selecting the Perfect Consoles and Gadgets for Kids</u></a></li>
-<li><a href="https://techtrends.techidaily.com/lost-access-retrieving-your-fb-account-without-an-email-or-mobile/"><u>Lost Access: Retrieving Your FB Account without an Email or Mobile</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mfc71dll-file-not-present-a-comprehensive-guide/"><u>Resolving 'MFC71.DLL' File Not Present - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smart-text-messaging-hacks-preprogramming-your-iphones-outgoing-alerts/"><u>Smart Text Messaging Hacks: Preprogramming Your iPhone's Outgoing Alerts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-affordable-video-chat-for-android-users-for-2024/"><u>Top 10 Affordable Video Chat for Android Users for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/windows-1110-server-reimagined-a-comprehensive-guide-to-naked-pc-recycling/"><u>Windows 11/10 Server Reimagined - A Comprehensive Guide to Naked PC Recycling</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxdvd-and/"><u>WinXDVD 設置&使用完全實務課本 - 高效錄影解析技術</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-memetic-magic-unlock-with-kapwing-creator/"><u>[New] 2024 Approved Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-the-thrill-mastering-4-techniques-of-xbox-screen-recording/"><u>[New] Capture the Thrill Mastering 4 Techniques of Xbox Screen-Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-initial-steps-in-kinetic-illustration-techniques/"><u>[New] Initial Steps in Kinetic Illustration Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-filmmakers-guide-producing-engaging-youtube-splits/"><u>[Updated] 2024 Approved The Filmmaker's Guide Producing Engaging YouTube Splits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-newly-announced-samsung-galaxy-z-fold-6-find-out-price-availability-and-specifications/"><u>All About the Newly Announced Samsung Galaxy Z Fold 6 - Find Out Price, Availability & Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-dock-revolutionary-designs/"><u>ASUS ROG Ally Dock Revolutionary Designs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-enjoyable-free-movies-streaming-on-youtube-this-july-2nd4/"><u>Discover the Most Enjoyable Free Movies Streaming on YouTube This July 2nD4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-missing-libcurldll-error-fixes/"><u>Effective Solutions for Missing Libcurl.dll Error Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-fixing-the-error-when-d3dx933dll-is-nowhere-to-be-found/"><u>Expert Tips: Fixing the Error When d3dx9_33.dll Is Nowhere to Be Found</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-7-video-players-for-apple-devices/"><u>Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-transfer-of-high-definition-fb-media/"><u>In 2024, Seamless Transfer of High Definition FB Media</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-ps5s-capabilities-a-guide-to-unlocking-120-frames-per-second/"><u>Mastering the PS5's Capabilities: A Guide to Unlocking 120 Frames Per Second</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-kootek-portable-cpu-cooler-for-your-computer-top-pick-reviewed/"><u>The Ultimate Guide to the Kootek Portable CPU Cooler for Your Computer - Top Pick Reviewed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Travel Accessory Unveiled: The All-in-One MagSafe Charger Revolutionizing Mobile Power Sources, Now with Qi2 Support!"
-date: 2024-12-12T21:33:07.519Z
-updated: 2024-12-13T21:35:46.592Z
+date: 2024-12-21T21:43:35.565Z
+updated: 2024-12-22T20:14:57.524Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,19 +121,22 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-video-enhancement-embedding-youtube-into-google-slides/"><u>[New] 2024 Approved Video Enhancement Embedding YouTube Into Google Slides</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-a-perfect-playtime-how-to-take-great-xbox-one-shots-for-2024/"><u>[New] A Perfect Playtime How to Take Great Xbox One Shots for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>[New] Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-choice-elite-videographer-tool-for-vimeo/"><u>[New] In 2024, Top Choice Elite Videographer Tool for Vimeo</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capture-your-computers-moments-instantly-screenshotting-made-easy-on-logitech-keyboards/"><u>Capture Your Computer's Moments Instantly: Screenshotting Made Easy on Logitech Keyboards</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-fubo-tv-tips-for-amazon-fire-tv-stick-users/"><u>Connecting Fubo TV: Tips for Amazon Fire TV Stick Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/economical-mobile-messaging-skip-the-overages-with-these-tips/"><u>Economical Mobile Messaging: Skip the Overages with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/smart-buying-how-to-dodge-errors-when-shop-ping-a-monitor/"><u>Smart Buying: How to Dodge Errors When Shop-Ping a Monitor</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-common-connectivity-issues-in-dysfunctional-samsung-soundbars-effective-solutions-and-techniques/"><u>Solving Common Connectivity Issues in Dysfunctional Samsung Soundbars - Effective Solutions & Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-viewing-all-star-trek-films-sequentially/"><u>The Ultimate Guide: Viewing All Star Trek Films Sequentially</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/ultimate-guide-top-strategies-for-capturing-flawless-pc-gaming-sessions/"><u>Ultimate Guide: Top Strategies for Capturing Flawless PC Gaming Sessions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visual-impact-seamlessly-add-photos-to-your-instagram-account/"><u>Visual Impact Seamlessly Add Photos to Your Instagram Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-is-ussd-unstructured-supplementary-service-data/"><u>What Is USSD (Unstructured Supplementary Service Data)?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[New] 2024 Approved Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exclusive-list-12-flawless-non-timebound-tools/"><u>2024 Approved Exclusive List 12 Flawless Non-Timebound Tools</u></a></li>
+<li><a href="https://win-unique.techidaily.com/5pya6ygp44gq5oml5q6144gn44k344k544og44og44or44o844og44kj44k344on44oz44gl44kj44ow44o844oi44or44o844og44kj44k344on44oz44g444gu5asj5pu044ks44kk44oj/"><u>最適な手段でシステムパーティションからブートパーティションへの変更ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragons-dogma-2-and-pc-collapses-expert-tips-to-rectify-game-crashing-problems/"><u>Dragon's Dogma 2 and PC Collapses - Expert Tips to Rectify Game Crashing Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-add-motion-blur-effect-to-photos-in-photoshop-for-2024/"><u>How to Add Motion Blur Effect to Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-test-your-microphone-on-windows-10-a-comprehensive-guide/"><u>How to Test Your Microphone on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-update-video-drivers-in-windows-10-easily/"><u>How to Update Video Drivers in Windows 10. Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-system-performance-by-refreshing-driver-software-in-windows-10/"><u>Improve System Performance by Refreshing Driver Software in Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-note-12-4g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi Note 12 4G Phones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-there-a-way-to-speed-up-your-windows-updates-find-out-here/"><u>Is There a Way to Speed Up Your Windows Updates? Find Out Here!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-performance-clearing-unused-files-in-windows-ten/"><u>Maximizing Performance: Clearing Unused Files in Windows 지급판 (Ten)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-easy-way-to-perform-a-windows-11-factory-restore-follow-these-essential-4-steps/"><u>Quick and Easy Way to Perform a Windows 11 Factory Restore – Follow These Essential 4 Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-system-ultimate-guide-to-quickening-downloading-slow-pcs-on-windows-11-or-10/"><u>Reviving Your System: Ultimate Guide to Quickening Downloading Slow PCs on Windows 11 or 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-10-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 10 [Solved]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-downloading-and-setting-up-your-hp-wireless-driver-on-windows/"><u>Ultimate Guide: Downloading & Setting Up Your HP Wireless Driver on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-top-10-premier-audio-apps-for-microsoft-windows-10-users/"><u>Ultimate Guide: Top 10 Premier Audio Apps for Microsoft Windows 10 Users</u></a></li>
 </ul></div>
 

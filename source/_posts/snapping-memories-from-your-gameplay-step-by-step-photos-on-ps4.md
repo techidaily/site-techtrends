@@ -1,7 +1,7 @@
 ---
 title: "Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4"
-date: 2024-12-09T22:33:34.013Z
-updated: 2024-12-13T16:46:22.548Z
+date: 2024-12-17T00:52:00.743Z
+updated: 2024-12-22T16:33:37.290Z
 categories:
   - BestProducts
 description: "This Article Describes Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4"
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 ![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
 2. Select**Join now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
 3. Enter your email address, choose a password, then select**Join now** .  
 
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
 
  UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Your Dell Student Discount
 
@@ -60,15 +60,11 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 2. Select**Redeem Code** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
 3. Copy your code, and select**Launch Website** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This code only works once, and it expires after a short amount of time.  
 ![The code field and Launch Website button](https://www.lifewire.com/thmb/4fBRfT7u0MHWjuei9jQVA_cB9UQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-dell-student-discount-4686335-540f566a5b1745848e8b2b86662e3959.jpg)
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
  If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who is Eligible For the Dell Student Discount?
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
  Parents can't sign up for their children, so students younger than 17 are unable to use this discount even if they are enrolled at a qualifying school.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Dell Student Discount Get You?
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
  The Dell student discount typically provides a 10 percent discount on Dell products, in addition to whatever other deals Dell may be running at the time. This amount can change, so make sure to check UNiDAYS to see what the current offer is before making a decision.
 
  Coupon codes are generated through UNiDAYS and then applied in the shopping cart on Dell's site after verifying that you are a student. That means you will not see the discount reflected in prices on the Dell website prior to checkout.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does Dell Verify Student Enrollment?
 
@@ -146,21 +146,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>[New] 2024 Approved Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-maximizing-short-form-video-popularity-on-youtube/"><u>[New] In 2024, Maximizing Short Form Video Popularity on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-instagram-stardom-crafting-attractive-unboxing-videos/"><u>[New] Unlock Instagram Stardom Crafting Attractive Unboxing Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unveil-your-inner-artist-best-free-sketching-software-on-mac/"><u>[Updated] Unveil Your Inner Artist Best Free Sketching Software on Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-quick-start-zooming-into-success-with-win11/"><u>2024 Approved Quick Start Zooming Into Success with Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-clearing-browser-cache-on-all-top-browsers/"><u>Comprehensive Guide: Clearing Browser Cache on All Top Browsers</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comprehensive-review-can-you-trust-windows-defender-for-complete-virus-detection-and-cybersecurity-a-guide-from-yl-solutions/"><u>Comprehensive Review: Can You Trust Windows Defender for Complete Virus Detection and Cybersecurity – A Guide From YL Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-access-denied-401-error-your-ultimate-troubleshooting-handbook/"><u>Demystifying Access Denied (401 Error): Your Ultimate Troubleshooting Handbook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-digital-sketchpads-on-the-market/"><u>Discover the Leading Digital Sketchpads on the Market</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-skype-interview-techniques-to-ace-your-2024-applications/"><u>Effective Skype Interview Techniques to Ace Your 2024 Applications</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-x-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone X in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-data-consolidation-joining-together-excels-separate-columns/"><u>Mastering Data Consolidation: Joining Together Excel's Separate Columns</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-netgear-gear-discover-the-latest-password-info-for-july-2024/"><u>Secure Your NETGEAR Gear - Discover the Latest Password Info for July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-vcompdll-couldnt-be-loaded-error/"><u>Step-by-Step Guide: Correcting the 'vcomp.dll' Couldn't Be Loaded Error</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-fun-unleashed-configuring-your-nintendo-switch-console-with-a-television-display/"><u>Wireless Fun Unleashed: Configuring Your Nintendo Switch Console with a Television Display</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-path-to-digital-fame-starting-and-building-a-youtube-chanel-for-2024/"><u>[Updated] Path to Digital Fame Starting and Building a YouTube Chanel for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-tackle-the-persistent-black-screen-when-starting-valorant-a-step-by-step-solution/"><u>How to Tackle the Persistent Black Screen When Starting Valorant: A Step-by-Step Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-and-resolve-the-windows-10-taskbar-malfunction-a-comprehensive-guide/"><u>How to Troubleshoot and Resolve the Windows 10 Taskbar Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-unfreeze-a-computer-in-windows-11/"><u>How to Unfreeze a Computer in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>In 2024, Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
+<li><a href="https://fox-http.techidaily.com/jokes-in-photos-your-path-to-memeloreality-for-2024/"><u>Jokes in Photos Your Path to Memeloreality for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-desktop-imagery-windows-11-screen-capture-guide/"><u>Mastering Desktop Imagery: Windows 11 Screen Capture Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-90-gt-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 90 GT Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-gamers-free-screen-capture-tools-selection-list/"><u>Pro Gamers' Free Screen Capture Tools Selection List</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-science-of-creating-audience-driven-fb-groups-polls/"><u>The Science of Creating Audience-Driven FB Groups Polls</u></a></li>
 </ul></div>
 

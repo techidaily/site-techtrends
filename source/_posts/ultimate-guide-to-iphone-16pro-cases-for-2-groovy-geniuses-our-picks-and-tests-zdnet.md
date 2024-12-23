@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2024-12-06T23:25:42.099Z
-updated: 2024-12-13T23:20:59.597Z
+date: 2024-12-19T20:40:11.254Z
+updated: 2024-12-22T17:23:35.545Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -48,10 +48,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -60,19 +56,23 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -81,6 +81,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -92,10 +96,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,22 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-craft-eye-catching-youtubes-end-titles/"><u>[New] 2024 Approved How to Craft Eye-Catching YouTubes End Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-echo-amplification-record-computer-audio-for-2024/"><u>[New] Echo Amplification Record Computer Audio for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-tailoring-your-content-strategy-for-changed-algorithms/"><u>[New] Tailoring Your Content Strategy for Changed Algorithms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-transition-from-fb-videos-to-polished-mp3-tracks/"><u>[Updated] In 2024, Seamless Transition From FB Videos to Polished MP3 Tracks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024bilibilipciphone/"><u>2024年投稿先行解除方法：bilibiliで見られない時のPC、iPhone、スマホ対処法！ビリビリ動画を閲覧・ダウンロード</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-c51-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme C51</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-ios-175-beta-2-revolutionizes-app-acquisition-for-eu-customers-via-the-internet-analysis/"><u>How iOS 17.5 Beta 2 Revolutionizes App Acquisition for EU Customers via the Internet Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-upgrade-alert-how-to-get-the-pre-release-version-of-ios-16-installed-today-though-it-may-be-wise-to-wait/"><u>IPhone Upgrade Alert! How To Get the Pre-Release Version of iOS 16 Installed Today (Though It May Be Wise To Wait)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-collaborative-editing-in-apples-pages-through-icloud-expert-tips/"><u>Mastering Collaborative Editing in Apple's Pages Through iCloud: Expert Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-pitfalls-of-ios-18-on-your-iphone-join-others-in-solidarity-zdnet/"><u>Navigating the Pitfalls of iOS 18 on Your iPhone - Join Others in Solidarity | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/next-generation-qi2-wireless-charging-comes-to-iphone-13-and-14-with-ios-1veer-update/"><u>Next-Generation Qi2 Wireless Charging Comes to iPhone 13 and 14 with iOS 1Veer Update</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/recording-wonders-lightweight-win-11-edition-for-2024/"><u>Recording Wonders Lightweight Win 11 Edition for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restored-enable-your-systems-area-wide-safety-features-now/"><u>Restored: Enable Your System’s Area-Wide Safety Features Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-transition-moving-whatsapp-from-android-to-ios-devices-expert-guide/"><u>Seamless Transition: Moving WhatsApp From Android to iOS Devices - Expert Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-technological-devices-for-savvy-travellers-in-2e24/"><u>Top-Rated Technological Devices for Savvy Travellers in 2E24</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-fix-for-ieframedll-error-messages-tips-and-solutions/"><u>Ultimate Fix for ieframe.dll Error Messages - Tips & Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrade-your-system-effortlessly-11-favorite-free-update-programs/"><u>Upgrade Your System Effortlessly: 11 Favorite Free Update Programs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>[New] 2024 Approved Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-zoom-precision-fine-tuning-meeting-settings-for-success/"><u>[New] 2024 Approved Zoom Precision Fine-Tuning Meeting Settings for Success</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-classic-rogelikes-vs-roguelites-dynamics-for-2024/"><u>[New] Classic Rogelikes Vs. Roguelites' Dynamics for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-20-most-reliable-hashtag-tracker-tools-fbtwitterinsta/"><u>[New] In 2024, 20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-prime-portfolio-exceptional-webcam-supports/"><u>[Updated] 2024 Approved Prime Portfolio Exceptional Webcam Supports</u></a></li>
+<li><a href="https://techtrends.techidaily.com/building-or-buying-a-desktop-navigating-towards-the-perfect-fit-for-you/"><u>Building Or Buying A Desktop: Navigating Towards The Perfect Fit For You</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722898620763-comprehensive-solution-to-fix-d3dx941dll-not-found-mistake-quickly/"><u>Comprehensive Solution to Fix 'd3dx9_41.dll Not Found' Mistake Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-launchdll-not-found-issues-with-easy-troubleshooting-tips/"><u>Eliminate 'Launch.dll Not Found' Issues with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-cast-screen-with-custom-wallpapers-a-how-to-guide-for-changing-chromecast-bg/"><u>Enhance Your Cast Screen with Custom Wallpapers: A How-To Guide for Changing Chromecast BG</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-resolve-the-absence-of-ocidll-errors-in-windows/"><u>Expert Tips to Resolve the Absence of oci.dll Errors in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-address-and-repair-missing-mfc42dll-errors/"><u>How To Successfully Address and Repair Missing mfc42.dll Errors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/score-amazing-savings-exclusive-ipad-offers-just-in-time/"><u>Score Amazing Savings: Exclusive iPad Offers Just In Time</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211123037-9781088271285-solo-un-recuerdo/"><u>Solo un Recuerdo | Free Book</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-reinstating-icon-functionality-on-your-windows-11-desktop/"><u>Step-by-Step Guide: Reinstating Icon Functionality on Your Windows 11 Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-roblox-downtime-is-the-game-slow-for-all-players/"><u>Troubleshooting Roblox Downtime: Is the Game Slow for All Players?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-instructions-switching-the-microsoft-screen-type-function-on-and-off/"><u>Ultimate Instructions: Switching the Microsoft Screen-Type Function ON and OFF</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a38-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A38</u></a></li>
 </ul></div>
 

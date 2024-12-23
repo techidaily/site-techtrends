@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-12-11T22:51:11.938Z
-updated: 2024-12-13T16:48:42.901Z
+date: 2024-12-16T18:16:36.898Z
+updated: 2024-12-22T18:17:24.852Z
 tags:
   - apple
 categories:
@@ -53,7 +53,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -73,7 +73,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -93,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -102,16 +102,12 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -125,6 +121,10 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,17 +160,20 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-pick-the-perfect-video-youtube-vs-tiktok/"><u>[New] 2024 Approved Pick the Perfect Video YouTube Vs. TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pinnacle-mac-recording-options-top-5-for-clarity-for-2024/"><u>[Updated] Pinnacle Mac Recording Options Top 5 for Clarity for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>[Updated] The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-begin-a-new-era-of-editing-with-xps-video-suite/"><u>2024 Approved Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-bibliophiles-dream-17-places-to-get-your-favorite-books-without-spending/"><u>A Bibliophile's Dream: 17 Places to Get Your Favorite Books Without Spending</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-fast-does-your-pc-really-need-to-be/"><u>How Fast Does Your PC Really Need to Be?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-playback-problems-with-paramount-plus-on-your-firestick-device/"><u>How to Resolve Playback Problems with Paramount Plus on Your Firestick Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-global-leaders-in-real-time-gaming-streams/"><u>In 2024, Global Leaders in Real-Time Gaming Streams</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-elon-musks-robotaxi-anticipated-cost-release-date-and-specs-revealed/"><u>Inside Scoop on Elon Musk's Robotaxi - Anticipated Cost, Release Date and Specs Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-gaming-mini-pcs-ultimate-performance-in-a-compact-size/"><u>Top Gaming Mini PCs: Ultimate Performance in a Compact Size</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[Updated] How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-social-media-savant-to-money-maker-on-instagram/"><u>[Updated] In 2024, From Social Media Savant to Money Maker on Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-seamless-media-switching-your-ultimate-guide-for-srt-conversion-for-2024/"><u>[Updated] Seamless Media Switching Your Ultimate Guide for SRT Conversion for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/addressing-web-browser-errors-a-guide-to-rectifying-not-secured-notifications/"><u>Addressing Web Browser Errors: A Guide to Rectifying 'Not Secured' Notifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-http-404-error-tips-for-quick-recovery-and-prevention-strategies/"><u>Demystifying the HTTP 404 Error: Tips for Quick Recovery & Prevention Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ideal-films-to-binge-watch-according-to-lifewires-latest-guide/"><u>Discover the Ideal Films to Binge-Watch According to Lifewire's Latest Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-solutions-for-dealing-with-missing-or-corrupt-user32dll-files/"><u>Expert Solutions for Dealing with Missing or Corrupt User32.dll Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-combining-your-epic-battle-royale-profiles-fortnite/"><u>Guide: Combining Your Epic Battle Royale Profiles - Fortnite</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-sales-for-inexpensive-gopros-for-2024/"><u>Navigating Sales for Inexpensive GoPros for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/quick-solutions-locate-and-restore-your-missing-recently-deleted-folder/"><u>Quick Solutions: Locate & Restore Your Missing 'Recently Deleted' Folder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/removing-obscured-display-issues-in-recording-for-2024/"><u>Removing Obscured Display Issues in Recording for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip3-exciting-revelations-on-pricing-release-plans-and-technical-details-awaiting/"><u>Samsung Galaxy Z Flip3: Exciting Revelations on Pricing, Release Plans, and Technical Details Awaiting!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-finest-active-sports-movies-that-will-inspire-you-tonight/"><u>The Finest Active Sports Movies That Will Inspire You Tonight!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-video-mp4-in-file-audio-mp3-gratis-con-il-miglior-convertitore-windows-10/"><u>Trasforma I Tuoi Video MP4 in File Audio MP3 Gratis Con Il Miglior Convertitore Windows 10</u></a></li>
 </ul></div>
 

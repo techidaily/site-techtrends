@@ -1,7 +1,7 @@
 ---
 title: Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
-date: 2024-12-09T21:19:24.728Z
-updated: 2024-12-13T18:24:37.586Z
+date: 2024-12-20T00:44:40.171Z
+updated: 2024-12-22T21:05:30.452Z
 categories:
   - BestProducts
 description: This Article Describes Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
@@ -27,7 +27,7 @@ Close
  This article explains how to combine multiple JPEGs into one PDF on Windows and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Multiple JPEGs Into One PDF on Windows
@@ -43,7 +43,7 @@ Close
 4. Under**Printer** , choose**Microsoft Print to PDF** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't see**Microsoft Print To PDF** as an option, you need to[ set up print to PDF](https://www.lifewire.com/print-to-pdf-4147601) in your Windows settings. On Windows 7 and 8, you need to install a[ PDF creator](https://www.lifewire.com/free-tools-to-create-pdf-files-1356335) like doPDF.  
@@ -51,17 +51,13 @@ Close
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
 6. Select**Print** , then enter a name for the PDF and choose where you want to save it. Select**Save** to finish.  
 
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You now have a PDF file containing all your images you can print or attach to an email.  
 
@@ -75,16 +71,20 @@ Close
 ![Preview in the Finder context menu on Mac](https://www.lifewire.com/thmb/cd431MkhBC0DtgvHDda29AAVxyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle52-7e463ca835a8452a8e6255c8f84e7bc5.jpg)
 2. Click-and-drag the photos in the sidebar to rearrange their order. When you're satisfied, select**File** \>**Print** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternately, choose**Send in Mail** to send the PDF to someone directly as an email attachment.  
 ![Save as PDF in Mac Printer dialog](https://www.lifewire.com/thmb/T5qiCILDPCq3USXycr-nMv-R36I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle54-46f2d6bf443140d78f6fc2c1494e5921.jpg)
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
 
@@ -128,22 +128,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-pioneers-8-youtubes-fastest-climbers/"><u>[New] 2024 Approved Fresh Pioneers 8 YouTube's Fastest Climbers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-ease-and-speed-effective-methods-for-comment-removal/"><u>[Updated] Ease and Speed Effective Methods for Comment Removal</u></a></li>
-<li><a href="https://techtrends.techidaily.com/addressing-msstfmtdll-not-detected-comprehensive-fix-tips/"><u>Addressing 'Msstfmt.dll' Not Detected: Comprehensive Fix Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/current-favorites-premier-british-television-hits-on-netflix/"><u>Current Favorites: Premier British Television Hits on Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-to-access-insta-views-for-free-no-login-needed/"><u>Discover How to Access Insta Views for Free – No Login Needed!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-set-for-ipados-16-explore-the-upcoming-features-and-free-installation-details-now/"><u>Get Set for iPadOS 16! Explore the Upcoming Features and Free Installation Details Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic-vs-2-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-absence-of-d3dx9-library-files-on-your-computer/"><u>How to Correctly Address the Absence of D3DX9 Library Files on Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy S23 Ultra Phone Without Password?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-d3dx930dll-a-comprehensive-guide-to-overcoming-the-missing-file-error/"><u>Solving d3dx9_30.dll: A Comprehensive Guide to Overcoming the 'Missing File' Error</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-dawn-of-augmented-reality-microsofts-hololens-review/"><u>The Dawn of Augmented Reality – Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-choice-news-aggregator-sites/"><u>Top 10 Choice News Aggregator Sites</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/transform-your-brand-with-powerful-fb-video-messaging/"><u>Transform Your Brand with Powerful FB Video Messaging</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformer-un-fichier-mkv-en-wav-gratuitement-conversion-video-rapide-avec-movavi/"><u>Transformer Un Fichier MKV en WAV Gratuitement - Conversion Vidéo Rapide Avec Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-aax-audio-files-to-mp3-on-windows-10-and-11-a-step-by-step-guide/"><u>Transforming AAX Audio Files to MP3 on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-xs-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone XS Max without Passcode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-trending-our-top-favorite-programming-lineup-on-discovery-plus-for-july-2024/"><u>What's Trending? Our Top Favorite Programming Lineup on Discovery Plus for July 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ise-in-rankings-14-high-impact-gaming-videos-for-youtube-for-2024/"><u>[New] Rise in Rankings 14 High-Impact Gaming Videos for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tips-for-dynamic-and-engaging-video-covers-on-the-worlds-largest-social-media-network-for-2024/"><u>[New] Tips for Dynamic & Engaging Video Covers on the World's Largest Social Media Network for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-ez-grabber-a-quick-guide-to-downloading-setting-up-for-2024/"><u>[New] Unlocking EZ Grabber - A Quick Guide to Downloading, Setting Up for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-building-brands-through-memes/"><u>[Updated] 2024 Approved Building Brands Through Memes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-profits-from-a-million-viewer-baseline-for-2024/"><u>[Updated] Maximizing Profits From a Million-Viewer Baseline for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/bring-a-smile-simple-meme-creation-with-kapwing-for-2024/"><u>Bring a Smile Simple Meme Creation With Kapwing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-an-unresponsive-oculus-touch-controller/"><u>How to Troubleshoot an Unresponsive Oculus Touch Controller</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-uninstall-or-disable-microsoft-edge-in-windows-11/"><u>How to Uninstall or Disable Microsoft Edge in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-guide-unobtrusive-android-video-capture/"><u>In 2024, Essential Guide Unobtrusive Android Video Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-insights-into-windows-server-update-services-wsus-what-you-must-know-now/"><u>In-Depth Insights Into Windows Server Update Services (WSUS): What You Must Know Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-rise-of-tools-like-chatgpt-posing-a-challenge-to-conventional-search-platforms/"><u>Is the Rise of Tools Like ChatGPT Posing a Challenge to Conventional Search Platforms?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-converting-soundcloud-to-mp3-a-simple-step-by-step-guide/"><u>Mastering the Art of Converting SoundCloud to MP3 – A Simple, Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-personalized-email-footers-in-outlook-tips-and-tricks-for-2013-and-2016-edition/"><u>Mastering the Art of Personalized Email Footers in Outlook - Tips and Tricks for 2013 & 2016 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-frame-rates-on-roblox-ultimate-guide-for-gamers-in-202er/"><u>Maximize Frame Rates on Roblox - Ultimate Guide for Gamers in 202Er</u></a></li>
+<li><a href="https://techtrends.techidaily.com/oculus-air-link-window-error-heres-how-to-restore-connectivity/"><u>Oculus Air Link Window Error? Here's How to Restore Connectivity!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-driver-errors-on-logitech-g930-headsets-in-the-windows-environment/"><u>Overcoming Driver Errors on Logitech G930 Headsets in the Windows Environment</u></a></li>
 </ul></div>
 

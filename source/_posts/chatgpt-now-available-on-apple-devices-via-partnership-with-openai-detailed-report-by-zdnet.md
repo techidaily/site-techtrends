@@ -1,7 +1,7 @@
 ---
 title: 'ChatGPT Now Available on Apple Devices via Partnership with OpenAI | Detailed Report by ZDNET
-date: 2024-12-11T22:08:48.298Z
-updated: 2024-12-13T18:43:01.597Z
+date: 2024-12-18T21:39:31.326Z
+updated: 2024-12-23T00:43:02.569Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ The [Whoop 4.0](https://www.whoop.com/membership/strap/) is focused on sleep tra
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,10 +68,6 @@ The Whoop iPhone app is also used for monitoring the battery life, performing fi
 
 When looking at the Apple Watch, there are three applications on your iPhone that are part of the Apple Watch experience. The Watch app is used to manage watch faces, find/install/uninstall applications, change settings, and perform functions to set up your Apple Watch for an optimal experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best fitness trackers Fitness trackers offer a reasonably-priced alternative to smartwatches.  Read now](https://www.zdnet.com/article/best-fitness-tracker/)
@@ -79,6 +75,10 @@ When looking at the Apple Watch, there are three applications on your iPhone tha
 Inside the Fitness application, the status of your move, exercise, and stand rings can be viewed. The workouts you complete are also shown on the summary page, along with mindfulness, trends, and awards that you have earned. The activity of your friends can also be viewed in the Fitness application. Lastly, Apple's Fitness Plus service is embedded in the Fitness application so you can use your Apple Watch for various workouts.
 
 The Apple Health app brings in data collected by your Apple Watch and data captured by various other devices, services, and applications. Data in Apple Health includes fitness stats, health stats, health records, sleep details, and much more. It is a very comprehensive application and Apple is starting to roll out more instructive information here so you can understand why the data is important and what you can do to improve your life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pricing
 
@@ -94,6 +94,10 @@ In addition to a large assortment of bands to match your style, [Whoop Body acce
 
 Apple also offers a vast assortment of watch bands and thankfully these bands have worked on all Apple Watch models since the first generation so an investment in Apple Watch bands is one that you can take advantage of for years. In addition to bands, there are a plethora of charging docks, cases, screen protectors, and even a [camera](https://www.zdnet.com/product/wristcam/) to outfit your Apple Watch for your lifestyle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which one should you buy?
 
 For most people, the Apple Watch is the better option for health and fitness tracking because of its versatility and advanced functionality. Apple continues to improve the WatchOS experience and it may soon surpass most other wearables on the market.
@@ -101,10 +105,6 @@ For most people, the Apple Watch is the better option for health and fitness tra
 The Whoop doesn't offer much for the casual athlete that doesn't find value in daily strain and recovery metrics. Casual athletes aren't usually pushing their bodies to the limits so could end up with plenty of margins available in their daily strain and recovery metrics. Sleep tracking may be valuable, but the Apple Watch does a good job in this regard too.
 
 For serious athletes, using both may offer the best experience with the Whoop 4.0 tracking all of their particulars 24/7 in a subtle manner while the Apple Watch is used for focused activities and other smartwatch functions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives worth considering
 
@@ -120,19 +120,15 @@ Similar to the Whoop 4.0, the Oura Ring does not have a display and is a wearabl
 
 The Fitbit Sense is a smartwatch that competes with the Apple Watch, but has a heavy focus on health and wellness. Fitbit has mastered the art of providing you with actionable steps to take after the data is collected, but there is a monthly subscription fee to see those insights. It is not as advanced as the Apple Watch as a smartwatch, but it is affordable and does a good job with health and wellness tracking.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does the Whoop 4.0 track my workouts?
 
 The Whoop 4.0 is designed to determine automatically when you start and end a workout, but you can also start this tracking manually in the smartphone app or edit the session after you are done if the start and end time aren't correct. The Whoop uses the workout results to calculate strain figures that it uses for calculating your recovery status. GPS tracks and other specifics are not captured by the Whoop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use either of these wearables without an iPhone?
 
@@ -141,6 +137,10 @@ Whoop offers an Android application so it is fully supported on Android smartpho
 ## Does the Apple Watch also measure HRV?
 
 Heart rate variability (HRV) is a measure of the variation in the time interval between heat beats and a higher value indicates you are healthier, happier, and less stressed. It is often used as the key metric in recovery calculations. To view the HRV values measured by your Apple Watch, open the Apple Health app, tap the Browse tab, select Heart, and then select Heart Rate Variability. You can view the HRV data by day, week, month, six months, and one year. Whoop provides you with recommendations and insights about HRV, but Apple does not yet provide any further useful information. There are third party apps, such as Training Today, that pick up where Apple left off and provide recovery and other recommendation to help you avoid injury and maintain peak performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does battery life compare between the two?
 
@@ -176,20 +176,17 @@ The Whoop 4.0 typically lasts about five days between charges while the Apple Wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instavision-twists-the-art-of-creating-instagram-loops/"><u>[New] 2024 Approved InstaVision Twists The Art of Creating Instagram Loops</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-breathe-and-stretch-with-these-expert-yogis-online-for-2024/"><u>[Updated] Breathe and Stretch with These Expert Yogis Online for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-changing-console-voice/"><u>[Updated] The Comprehensive Guide to Changing Console Voice</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/black-ops-cold-war-audio-fixes-expert-solutions-to-bring-back-game-sounds-on-desktops/"><u>Black Ops Cold War Audio Fixes - Expert Solutions to Bring Back Game Sounds on Desktops</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-repair-tips-for-instagram-stories-that-just-wont-load-or-upload/"><u>DIY Repair Tips for Instagram Stories That Just Won't Load or Upload</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giggle-engineer-apocalyptic-comic-relief-for-2024/"><u>Giggle Engineer Apocalyptic Comic Relief for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>In 2024, Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-glitches-effective-solutions-for-microsoft-edge-malfunctions/"><u>Overcoming Glitches: Effective Solutions for Microsoft Edge Malfunctions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-user-guide-to-mastering-the-latest-windows-10/"><u>Pro User Guide to Mastering the Latest WINDOWS 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-mfc42dll-file-cannot-be-found-a-step-by-step-guide/"><u>Resolving MFC42.dll File Cannot Be Found: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-fold-6-specs-launch-date-and-cost-revealed/"><u>Samsung Galaxy Z Fold 6 Specs, Launch Date and Cost Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-sync-viewing-your-icloud-photos-on-all-devices/"><u>Seamless Sync: Viewing Your iCloud Photos on All Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tips-for-parents-limiting-or-preventing-access-to-youtube-on-ipads/"><u>Tips for Parents: Limiting or Preventing Access to YouTube on iPads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-cutting-edge-technology-in-the-newest-ipad-series/"><u>Unveiling the Cutting-Edge Technology in the Newest iPad Series</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-cutting-edge-technology-of-apples-latest-ipad-generation/"><u>Unveiling the Cutting-Edge Technology of Apple's Latest iPad Generation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nokia-130-music-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nokia 130 Music without App | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/demystifying-system-preferences-an-insight-into-default-settings-in-yls-control-panels/"><u>Demystifying System Preferences: An Insight Into Default Settings in YL's Control Panels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-your-sound-a-step-by-step-guide-for-reinstalling-realtek-hd-audio-manager-on-windows/"><u>Fixing Your Sound: A Step-by-Step Guide for Reinstalling Realtek HD Audio Manager on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/forgot-your-gmail-password-again-discover-simple-remedies-now/"><u>Forgot Your Gmail Password Again? Discover Simple Remedies Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-digital-signature-to-a-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add digital signature to a PDF v1.3 document</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-high-cpu-utilization-by-wuauserv-effective-solutions-and-troubleshooting-steps/"><u>How to Fix High CPU Utilization by Wuauserv: Effective Solutions and Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-the-most-recent-directx-12-update-on-your-windows-11-pc/"><u>How to Get the Most Recent DirectX 12 Update on Your Windows 11 PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quick-scan-maker-chrome-os/"><u>In 2024, Quick Scan Maker (Chrome OS)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unveiling-the-art-of-itunes-video-capture/"><u>In 2024, Unveiling the Art of iTunes Video Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screen-shotting-on-a-lenovo-device/"><u>Mastering the Art of Screen Shotting on a Lenovo Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/next-gen-gadgets-on-the-horizon-the-top-4-contenders-seeking-to-dethrone-traditional-smartphones/"><u>Next-Gen Gadgets on the Horizon: The Top 4 Contenders Seeking to Dethrone Traditional Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
 </ul></div>
 

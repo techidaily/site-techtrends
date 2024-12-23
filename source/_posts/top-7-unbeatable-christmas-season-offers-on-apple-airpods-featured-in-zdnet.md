@@ -1,7 +1,7 @@
 ---
 title: Top 7 Unbeatable Christmas Season Offers on Apple AirPods - Featured in ZDNet
-date: 2024-12-12T23:44:59.222Z
-updated: 2024-12-13T18:11:00.840Z
+date: 2024-12-18T19:17:26.358Z
+updated: 2024-12-22T17:00:10.239Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad Holiday deals
@@ -43,6 +43,10 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro (2021,12.9-inch, Wi-Fi + Cellular, 128GB)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://computers.woot.com/offers/new-apple-2021-12-9-ipad-pro-wifi-cellular-16): $810 (save $390 at W00t!)
 * [Apple iPad Pro (M2 Chip, 12.9-inch, Late 2022, 128GB, Wi-Fi)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731115-REG%2Fapple%5Fmnxp3ll%5Fa%5F12%5F9%5Fipad%5Fpro%5Fm2.html): $999 (save $100 at B&H)
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
 
@@ -101,7 +105,7 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C305ec6cb-1ed7-4227-b0e3-1746f3345cb6%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -111,23 +115,19 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best iPad?
 
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best iPad for kids?
 
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -198,20 +198,16 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-strategies-for-recording-slideshows/"><u>[New] Cutting-Edge Strategies for Recording Slideshows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-fastest-practices-powerpoint-recordings/"><u>[New] Fastest Practices PowerPoint Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-photo-perfection-on-iphones-and-androids-blurring-basics/"><u>[Updated] Photo Perfection on iPhones & Androids Blurring Basics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/breaking-down-cellular-networks-what-exactly-is-a-phone-carrier/"><u>Breaking Down Cellular Networks: What Exactly Is a Phone Carrier?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/buying-guide-how-to-find-the-best-television-model-for-optimal-viewing-comfort-at-home/"><u>Buying Guide: How to Find the Best Television Model for Optimal Viewing Comfort at Home</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-linksys-default-passwords-update-july-2024-edition/"><u>Comprehensive Guide: Linksys Default Passwords Update - July 2024 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-foddian-gamings-past/"><u>Delving Into Foddian Gaming's Past</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-selection-of-free-hdd-testers-as-of-july-2024/"><u>Discover the Ultimate Selection of Free HDD Testers as of July 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-ipad-pro-with-m1-chip-delivers-unmatched-laptop-level-power/"><u>Expert Analysis: IPad Pro with M1 Chip Delivers Unmatched Laptop-Level Power</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-the-newest-nvidia-graphics-card-drivers-with-this-guide/"><u>Find & Install the Newest NVIDIA Graphics Card Drivers with This Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-x-flip-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo X Flip to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-g73-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G73 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/introducing-apples-newest-macbook-a-look-at-the-latest-upgrade/"><u>Introducing Apple's Newest MacBook: A Look at the Latest Upgrade</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-macbook-heat-top-tips-for-monitoring-your-laptops-temperature/"><u>Mastering MacBook Heat: Top Tips for Monitoring Your Laptop's Temperature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-upgrade-your-usb-drivers-for-all-windows-users-11-7-8-and-veupgraded-to-81/"><u>How to Easily Upgrade Your USB Drivers for All Windows Users: 11, 7, 8, and Veupgraded to 8.1</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-black-and-white-display-on-your-windows-10-computer-step-by-step-guide/"><u>How To Fix The Black And White Display On Your Windows 10 Computer - Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-increase-download-speed-solved/"><u>How to Increase Download Speed [Solved]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a78-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A78 5G Is Unlocked</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instantly-swap-your-homepage-to-google-a-step-by-step-no-hassle-tutorial/"><u>Instantly Swap Your Homepage to Google - A Step-by-Step, No Hassle Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-multi-gpu-configurations-a-step-by-step-tutorial-on-nvidia-sli-setup/"><u>Mastering Multi-GPU Configurations: A Step-by-Step Tutorial on Nvidia SLI Setup</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-video-extraction-a-comprehensive-tutorial-on-downloading-from-jw-player/"><u>Mastering Video Extraction: A Comprehensive Tutorial on Downloading From JW Player</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/no-backup-no-problem-learn-here-for-free-restoring-deleted-items-in-windows-10/"><u>No Backup? No Problem! Learn Here for Free: Restoring Deleted Items in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-error-327-troubleshooting-steps-get-back-to-gameplay-asap/"><u>Star Wars Battlefront II Error 327 Troubleshooting Steps: Get Back to Gameplay ASAP</u></a></li>
 </ul></div>
 
