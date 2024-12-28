@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-12-20T22:36:18.291Z
-updated: 2024-12-22T17:19:55.918Z
+date: 2024-12-27T16:31:59.040Z
+updated: 2024-12-28T16:20:04.839Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,21 +158,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/omparative-study-youtube-app-on-smartphone-platforms/"><u>[New] Comparative Study YouTube App on Smartphone Platforms</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nhancing-content-with-youtube-tags-and-notes/"><u>[New] Enhancing Content with YouTube Tags & Notes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-insights-into-youtube-shorts-business-model/"><u>[Updated] Insights Into YouTube Shorts Business Model</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-effective-methods-to-document-facetime-calls/"><u>2024 Approved Effective Methods to Document FaceTime Calls</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehvew-on-how-to-properly-sterilize-your-television-controller/"><u>A Comprehvew on How to Properly Sterilize Your Television Controller</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-google-pixel-timepiece-series-4-price-predictions-expected-debut-date-and-speculations-unveiled/"><u>All About The Upcoming Google Pixel Timepiece (Series 4): Price Predictions, Expected Debut Date, and Speculations Unveiled</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/aurora-hdr-assessment-excellence-or-overkill/"><u>Aurora HDR Assessment Excellence or Overkill?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-for-efficiently-pinging-your-target-websites/"><u>Essential Tips for Efficiently Pinging Your Target Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-alter-perceived-locations-on-your-mobile-device-a-comprehensive-guide/"><u>How to Alter Perceived Locations on Your Mobile Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-set-up-a-shared-viewing-experience-for-netflix-series-and-movies/"><u>How to Set Up a Shared Viewing Experience for Netflix Series and Movies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-taking-flight-hubsans-latest-aerial-marvel-reviewed/"><u>In 2024, Taking Flight Hubsan's Latest Aerial Marvel Reviewed</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/real-time-streaming-with-manycam-top-live-video-editing-and-remote-webcam-solutions/"><u>Real-Time Streaming with ManyCam: Top Live Video Editing & Remote Webcam Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-surprising-origins-and-meanings-of-your-favorite-emojis-10-mind-blowing-facts/"><u>The Surprising Origins and Meanings of Your Favorite Emojis: 10 Mind-Blowing Facts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96316575-9781401920609-transforming-fate-into-destiny/"><u>Transforming Fate Into Destiny | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unbeatable-amazon-prime-day-offers-in-technology-sector/"><u>Unbeatable Amazon Prime Day Offers in Technology Sector</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-essential-iphones-podcast-tools-ranked-5-for-2024/"><u>[New] Essential iPhones Podcast Tools Ranked #5 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-the-monetized-space-a-buyers-primer/"><u>[New] Mastering the Monetized Space A Buyer's Primer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-harmonizing-audio-and-visuals-in-vimeo-media/"><u>[Updated] Harmonizing Audio and Visuals in Vimeo Media</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortless-video-creation-learn-basic-edits-on-vimeo-for-free/"><u>2024 Approved Effortless Video Creation Learn Basic Edits on Vimeo for Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movmp4mac-windows-11/"><u>無需付費的MOV到MP4格式转换解决方案：Mac和 Windows 11支持</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-lista-dos-10-aplicativos-mais-populares-para-copia-e-ripagem-de-dvds-sem-custo-algum/"><u>A Lista Dos 10 Aplicativos Mais Populares Para Cópia E Ripagem De DVDs Sem Custo Algum</u></a></li>
+<li><a href="https://techtrends.techidaily.com/h265-en-h264-gratuite-solution-adaptee-pour-windows-macos-et-linux/"><u>H.265 En H.264 Gratuite : Solution Adaptée Pour Windows, macOS Et Linux</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-stills-extraction-in-windows-11-photos/"><u>In 2024, Mastering Stills Extraction in Windows 11 Photos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/massive-discount-secure-your-complete-winx-media-suite-with-75-off-access-high-quality-dvd-ripping-and-video-editing-tools-now/"><u>Massive Discount: Secure Your Complete WinX Media Suite with 75% Off - Access High-Quality DVD Ripping and Video Editing Tools Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-hp-cyber-savings-event-unveiled-secure-laptops-monitors-and-more-at-astounding-discounts-up-to-71-off/"><u>Massive HP Cyber Savings Event Unveiled! Secure Laptops, Monitors & More at Astounding Discounts Up to 71% Off!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-fifa-18-professionelle-spieltechniken-fur-xbox-und-den-pc-windows-10-analysiert/"><u>Mastering FIFA 18: Professionelle Spieltechniken Für Xbox Und Den PC (Windows 10) Analysiert</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speed-up-your-media-transform-videos-and-audio-in-a-flash-using-winxvideo-ais-gpu-acceleration/"><u>Speed Up Your Media: Transform Videos & Audio in a Flash Using Winxvideo AI's GPU Acceleration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-mix-fold-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Mix Fold 3 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-vintage-memories-with-winxvideo-ai-instant-ways-to-add-colors-to-classic-pictures/"><u>Transform Your Vintage Memories with Winxvideo AI: Instant Ways to Add Colors to Classic Pictures!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-the-leading-pc-based-video-editors-in-the-market-today/"><u>Ultimate Guide: The Leading PC-Based Video Editors in the Market Today</u></a></li>
 </ul></div>
 

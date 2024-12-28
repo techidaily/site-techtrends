@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-12-20T22:47:56.087Z
-updated: 2024-12-23T00:58:00.415Z
+date: 2024-12-23T16:11:02.380Z
+updated: 2024-12-28T16:03:46.468Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -45,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -70,15 +70,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -96,10 +96,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -108,6 +104,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,24 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-all-about-dji-inspire-1-in-depth-analysis/"><u>[New] All About DJI Inspire 1 in Depth Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solved-how-to-update-graphics-driver-in-windows-easily/"><u>[Solved] | How to Update Graphics Driver in Windows | Easily</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-skype-to-mp3-capturing-calls-at-no-charge/"><u>[Updated] Skype to MP3 Capturing Calls at No Charge</u></a></li>
-<li><a href="https://win-special.techidaily.com/7-simple-steps-to-seamlessly-move-contacts-from-one-iphone-to-another/"><u>7 Simple Steps to Seamlessly Move Contacts From One iPhone to Another</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bypass-windows-update-freeze-quick-fixes-to-restart-the-process/"><u>Bypass Windows Update Freeze: Quick Fixes to Restart the Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-capturing-screen-images-on-your-lenovo-laptop/"><u>Complete Guide: Capturing Screen Images on Your Lenovo Laptop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-locate-and-install-msvcr100dll-common-issues-solved/"><u>Comprehensive Guide to Locate & Install MSVCR1_00.dll - Common Issues Solved</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/floor-dynamics-free-pristine-dj-template-videos-for-2024/"><u>Dancefloor Dynamics Free, Pristine DJ Template Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-windows-11-update-problem-resolve-error-code-0x80070422-with-this-method/"><u>Decoding the Windows 11 Update Problem: Resolve Error Code 0X80070422 with This Method</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808076113-easy-driver-refresh-for-usb-devices-on-multiple-windows-platforms-including-win10/"><u>Easy Driver Refresh for USB Devices on Multiple Windows Platforms - Including Win10!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tips-and-tricks-for-keeping-windows-10-current-with-new-updates/"><u>Easy Tips and Tricks for Keeping Windows 10 Current With New Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808244140-how-to-make-google-the-first-thing-you-see-on-launch-easy-methods-inside/"><u>How To Make Google The First Thing You See on Launch: Easy Methods Inside</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a05-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A05 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/inkrementelles-tutorial-zum-einrichten-von-windows-xp-auf-einem-windows-10-system/"><u>Inkrementelles Tutorial Zum Einrichten Von Windows XP Auf Einem Windows 10 System</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/solved-muted-youtube-shorts-appearance-for-2024/"><u>Solved Muted YouTube Shorts Appearance for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speedy-repair-techniques-for-when-the-camera-option-vanishes-from-pcs-device-manager/"><u>Speedy Repair Techniques for When the Camera Option Vanishes From PC's Device Manager</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/uberwindung-von-updatefehlern-error-4000-auf-ihrem-iphone-mit-tipps-fur-ios-7/"><u>Überwindung Von Updatefehlern (Error 4000) Auf Ihrem iPhone Mit Tipps Für iOS 7</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-constraints-effective-file-retrieval-techniques-within-windows-os-tips-from-yl-software-experts/"><u>Understanding Constraints: Effective File Retrieval Techniques Within Windows OS - Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/windows-11-bootloop-ursachen-und-losungen-behebe-den-unendlichen-startschleifen/"><u>Windows 11 Bootloop: Ursachen Und Lösungen - Behebe Den Unendlichen Startschleifen!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-professional-techniques-for-getting-rid-of-backgrounds-in-figma/"><u>[Updated] In 2024, Professional Techniques for Getting Rid of Backgrounds in Figma</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instantaneous-windows-image-player/"><u>[Updated] Instantaneous Windows Image Player</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tactics-to-quiet-down-distractions-during-google-meets-for-2024/"><u>[Updated] Tactics to Quiet Down Distractions During Google Meets for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725287198216-2022dvd/"><u>「如何有效地在電腦上存檔2022年DVD：三大最佳技術」</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-broadcom-bluetooth-drivers-on-windows-10-8-and-7/"><u>Download and Install Broadcom Bluetooth Drivers on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-reducing-file-size-with-high-quality-conversion-from-h264-to-h265/"><u>Efficiently Reducing File Size with High-Quality Conversion From H.264 To H.265</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/experience-the-old-school-games-anywhere-with-best-in-class-pc-gb-emulators-for-2024/"><u>Experience the Old School Games Anywhere with Best-in-Class PC GB Emulators for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-13-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 13 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-handbrake-suitable-for-encoding-av1-files-comprender-la-compatibilidad/"><u>Is HandBrake Suitable for Encoding AV1 Files? Comprender La Compatibilidad</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nef-inhoud-opschonen-en-veilig-hopen-gratuit-dek-iptc-afbeeldingen-met-movavi/"><u>NEF-Inhoud Opschonen En Veilig Hopen, Gratuit! Dek IPTC Afbeeldingen Met Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/official-website-winx-complimentary-downloads-for-dvd-ripping-and-high-definition-video-recoding-applications/"><u>Official Website: WinX - Complimentary Downloads for DVD Ripping and High Definition Video Recoding Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/paso-a-paso-transformar-viejas-grabaciones-en-vhs-a-un-formato-moderno-en-dvd-con-tu-ordenador/"><u>Paso a Paso: Transformar Viejas Grabaciones en VHS a Un Formato Moderno en DVD Con Tu Ordenador</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-simplest-way-to-flip-horizontal-videos-into-vertical-on-an-iphone/"><u>The Simplest Way to Flip Horizontal Videos Into Vertical on an iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-the-new-iphone-15-insider-tips-for-tech-aficionados-and-gurus/"><u>The Ultimate Guide to the New iPhone 15: Insider Tips for Tech Aficionados & Gurus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-editori-di-video-per-computer-la-guida-definitiva/"><u>Top 10 Editori Di Video per Computer: La Guida Definitiva</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285736796-6/"><u>お薦め音源分離ソフト！無料で使える上位6選手、どれが最強か？</u></a></li>
 </ul></div>
 

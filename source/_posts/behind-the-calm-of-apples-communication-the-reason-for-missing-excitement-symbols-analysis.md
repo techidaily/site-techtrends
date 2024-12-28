@@ -1,7 +1,7 @@
 ---
 title: "Behind the Calm of Apple's Communication: The Reason for Missing Excitement Symbols Analysis"
-date: 2024-12-19T19:02:18.432Z
-updated: 2024-12-22T18:37:27.059Z
+date: 2024-12-26T16:26:55.455Z
+updated: 2024-12-28T16:06:33.930Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -60,10 +64,6 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A lack of competitors
 
 While many users like myself are looking for a clear migration path to a competitor, no true alternatives to Sonos exist. Neither [Amazon Echo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3Fie%3DUTF8%26node%3D9818047011%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5Fijuevad4z%5Fe%26www.amazon.com%2Fdp%2FB07XKF5RM3%3Ftag%3Dgooghydr-20%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5F2g7cb1h5ze%5Fe%26gclid%3DCj0KCQjw-uK0BhC0ARIsANQtgGN0ThJnnXE7wtYeCxiGIl5czneMT%5FsjULx2rJ86YnnFx2KqPCbNjZ8aAjIfEALw%5FwcB%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C529f43e2-ab05-4f1b-95b2-107441a1e124%7Cdtp&dtb=1) nor [Google Nest Audio](https://store.google.com/us/product/nest%5Faudio?pli=1&hl=en-US) provides comparable multiroom audio or surround sound with their current smart speakers. Apple's [HomePod](https://www.apple.com/homepod/) is an excellent solution for a bedroom or a small living room with a two-speaker setup paired with an [Apple TV](https://www.zdnet.com/home-and-office/home-entertainment/tvos-18-will-enhance-the-dialogue-on-your-apple-tv-to-help-you-better-hear-it/), but the technology doesn't offer multiroom or surround sound.
@@ -84,12 +84,16 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 [As reported](https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/) in _MacRumors_, a connected "accessory" for Apple TV and HomePod powered by the yet-to-be-released A18 processor (coming in the [iPhone 16](https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/)) may bring the highly awaited Apple Intelligence features to the home entertainment space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Transforming Apple Music with AI
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Personalized music experiences
@@ -100,10 +104,6 @@ Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.z
 
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Social and collaborative features
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
@@ -113,7 +113,7 @@ Social and collaborative features could facilitate the creation of collaborative
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Learning and adaptation
@@ -123,7 +123,7 @@ The AI's adaptive learning capabilities could continuously refine music recommen
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
@@ -160,24 +160,22 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/raft-clearer-crisper-youtube-videos-with-quality-tools-for-2024/"><u>[New] Craft Clearer, Crisper YouTube Videos with Quality Tools for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-set-of-8-backdrops-to-personalize-mbp-design/"><u>[New] Ideal Set of 8 Backdrops to Personalize MBP Design</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-the-world-of-tweets-starting-fresh/"><u>2024 Approved Navigating the World of Tweets Starting Fresh</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-next-google-pixel-explore-projections-for-its-price-tag-availability-date-and-technical-details/"><u>Anticipating the Next Google Pixel – Explore Projections for Its Price Tag, Availability Date & Technical Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/arranging-the-dragon-tales-watching-how-to-train-your-dragon-chronologically/"><u>Arranging the Dragon Tales: Watching How to Train Your Dragon Chronologically</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/az-capture-extraordinaire-thorough-app-reviews-for-2024/"><u>AZ Capture Extraordinaire Thorough App Reviews for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-iphone-gps-tools-our-pick-of-the-top-5-choices/"><u>Best iPhone GPS Tools: Our Pick of the Top 5 Choices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-news-compilation-services-our-picks-s-standouts/"><u>Best News Compilation Services: Our Picks 'S Standouts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-digital-to-analog-converters-are-they-essential-for-quality-sound/"><u>Demystifying Digital-to-Analog Converters – Are They Essential for Quality Sound?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-free-alternatives-to-skype/"><u>Discover the Ultimate Free Alternatives to Skype</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elite-selection-of-fbs-best-viewing-apps-for-2024/"><u>Elite Selection of FB's Best Viewing Apps for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhancements-in-gmail-performance-optimized-experience-across-mobile-devices-and-tablets/"><u>Enhancements in Gmail Performance: Optimized Experience Across Mobile Devices & Tablets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-range-of-ipads-that-offer-onboard-gps-tracking/"><u>Exploring the Range of iPads that Offer Onboard GPS Tracking</u></a></li>
-<li><a href="https://blog-min.techidaily.com/get-your-free-15-discount-on-the-latest-winx-dvd-ripper-platinum-version-coupon-available-now/"><u>Get Your Free $15 Discount on the Latest WinX DVD Ripper Platinum Version - Coupon Available Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/incorporating-pinterest-into-facebook-enhance-visual-appeal-and-traffic/"><u>Incorporating Pinterest Into Facebook: Enhance Visual Appeal and Traffic</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-alerts-missing-discover-7-effective-solutions/"><u>IPhone Alerts Missing? Discover 7 Effective Solutions!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-breaking-down-your-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>New Breaking Down Your Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-fixing-problems-with-uploading-instagram-stories/"><u>Step-by-Step Solutions for Fixing Problems with Uploading Instagram Stories</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-a79-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo A79 5G?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-learn-audio-recording-in-audacity-with-your-mac/"><u>[New] 2024 Approved Learn Audio Recording in Audacity with Your Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>[Updated] 2024 Approved Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-invisible-trail-fbs-preview-functionality-explained/"><u>[Updated] Navigating the Invisible Trail FB's Preview Functionality Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pivotal-software-in-shaping-the-future-of-vtuber-audio-identity/"><u>2024 Approved Pivotal Software in Shaping the Future of VTuber Audio Identity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-dvdmac-osdvdmp4/"><u>高效率Mac DVD转码器：从Mac OS下载，解锁并转换加密DVD到MP4、手机或平板电子设备</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-facile-et-gratuite-de-m4a-en-format-vob-en-ligne-avec-movavi/"><u>Conversion Facile Et Gratuite De M4A en Format VOB en Ligne Avec Movavi</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 7/iPad? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-visuals-with-these-top-12-no-cost-ai-video-tools-for-windows-and-macos-users/"><u>Enhance Your Visuals with These Top 12 No-Cost AI Video Tools for Windows & macOS Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimal-video-codecs-and-settings-for-smartphones-samsung-vs-apple/"><u>Optimal Video Codecs and Settings for Smartphones: Samsung vs Apple</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-installer-efficiency/"><u>Optimizing Windows Installer Efficiency</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/remarkable-appraisal-and-other-recommendations/"><u>Remarkable Appraisal & Other Recommendations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-output-bigger-than-input-problem-in-handbrake-behoben/"><u>Resolving the 'Output Bigger than Input' Problem in Handbrake (Behoben)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/select-one-of-the-imported-avi-files-as-the-source-video-by-clicking-on-it-within-the-program-interface/"><u>Select One of the Imported AVI Files as the Source Video by Clicking on It Within the Program Interface.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-preferidos-convertidores-de-video-libres-para-mp4-como-pasar-a-y-desde-mp4-sin-coste/"><u>Top 6 Preferidos Convertidores De Vídeo Libres Para MP4: Cómo Pasar a Y Desde MP4 Sin Coste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-issue-of-non-responsive-netflix-streaming-across-all-your-gadgets/"><u>Troubleshooting Tips: Solving the Issue of Non-Responsive Netflix Streaming Across All Your Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285378512-winx-dvd-ripper/"><u>WinX DVD Ripper 및 비디오 컨버터를 구입하기 위한 금방 - 지역 전국 가장 유용한 판매 중심</u></a></li>
 </ul></div>
 

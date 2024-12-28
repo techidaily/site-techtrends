@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-12-19T23:36:52.265Z
-updated: 2024-12-22T23:46:53.755Z
+date: 2024-12-26T16:10:44.662Z
+updated: 2024-12-28T16:26:36.331Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -69,7 +69,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -79,7 +79,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -92,10 +92,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1599a1fd-b080-4e5b-ae5c-a67c38755459%7Cdtp&dtb=1). 
@@ -105,7 +101,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -117,6 +113,10 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,16 +171,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-explore-our-curated-top-12-click-based-pc-titles/"><u>[Updated] Explore Our Curated Top 12 Click-Based PC Titles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-easy-access-guide-skype-audio-to-mp3-free/"><u>2024 Approved Easy-Access Guide Skype Audio to Mp3, Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/code-31-in-windows-explained-quick-solutions-to-keep-you-running-smoothly/"><u>Code 31 in Windows Explained: Quick Solutions to Keep You Running Smoothly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-blues-8-effective-solutions-for-removing-uneven-colors-from-your-tv-screen/"><u>Fixing the Blues: 8 Effective Solutions for Removing Uneven Colors From Your TV Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-good-to-great-ai-discover-four-key-motivators-for-transitioning-to-claude-amoeba-claude-3-rather-than-chatgpt/"><u>From Good to Great AI: Discover Four Key Motivators for Transitioning to Claude Amoeba (Claude) 3 Rather Than ChatGPT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone without Any Data Loss</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-teslas-upcoming-smartphone-launch-date-cost-and-features-revealed/"><u>Inside Scoop on Tesla's Upcoming Smartphone - Launch Date, Cost & Features Revealed</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/mastering-professional-skills-with-icom-certification-courses-a-comprehensive-guide/"><u>Mastering Professional Skills with ICOM Certification Courses - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/must-have-android-watchface-and-companion-apps-of-this-year/"><u>Must-Have Android Watchface and Companion Apps of This Year</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premier-app-choices-for-your-samsung-smart-tv-2024-edition/"><u>Premier App Choices for Your Samsung Smart TV - 2024 Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-boosting-your-minecraft-gameplay-on-computer-by-resolving-stutter-issues-in-202/"><u>Step-by-Step Tutorial: Boosting Your Minecraft Gameplay on Computer by Resolving Stutter Issues in 202</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aster-visual-effects-discover-youtubes-green-screen-treasure-for-2024/"><u>[New] Master Visual Effects Discover YouTube’s Green Screen Treasure for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-meringue-movie-magic-step-by-step-guide-to-ice-cream-capture/"><u>In 2024, Meringue Movie Magic Step-by-Step Guide to Ice Cream Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-the-new-samsung-galaxy-s24-ultra-excessively-impressive/"><u>Is The New Samsung Galaxy S24 Ultra Excessively Impressive?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/launch-date-approaching-samsung-unveils-exciting-foldable-devices-on-july-10th/"><u>Launch Date Approaching: Samsung Unveils Exciting Foldable Devices on July 10Th</u></a></li>
+<li><a href="https://techtrends.techidaily.com/prevent-losing-years-of-messages-and-media-on-whatsapp-take-action-now/"><u>Prevent Losing Years of Messages & Media on WhatsApp - Take Action Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-watch-active-2-examined-an-exceptional-wearable-smart-device-with-minor-setbacks/"><u>Samsung Galaxy Watch Active 2 Examined: An Exceptional Wearable Smart Device with Minor Setbacks</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-downloading-your-favorite-zenith-vision-clips-effortlessly/"><u>Step-by-Step Guide: Downloading Your Favorite Zenith Vision Clips Effortlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transforming-live-interactions-into-captivating-content-for-2024/"><u>Transforming Live Interactions Into Captivating Content for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-no-compatible-driver-found-on-rainbow-six-extraction-expert-tips-and-tricks/"><u>Troubleshooting 'No Compatible Driver Found' On Rainbow Six Extraction: Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-ultimate-performance-with-best-video-controller-add-ons-for-2024/"><u>Unlock Ultimate Performance with Best Video Controller Add-Ons for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-the-release-of-high-frequency-1000hz-monitors-is-a-game-changer-top-3-reasons-to-be-thrilled/"><u>Why the Release of High-Frequency 1000Hz Monitors Is a Game Changer - Top 3 Reasons to Be Thrilled!</u></a></li>
 </ul></div>
 

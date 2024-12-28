@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive List of Apple Watches Compatible with WatchOS 11: Upgrades and Exclusions Revealed"
-date: 2024-12-15T23:24:55.454Z
-updated: 2024-12-22T18:07:08.430Z
+date: 2024-12-27T16:11:21.238Z
+updated: 2024-12-28T16:31:40.336Z
 tags:
   - apple
 categories:
@@ -38,13 +38,13 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -55,6 +55,10 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -80,17 +84,9 @@ Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check In comes to your wrist
 
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
 
@@ -98,24 +94,28 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
@@ -152,22 +152,21 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-step-by-step-guide-how-to-add-video-filters-in-zoom/"><u>[New] 2024 Approved Step-by-Step Guide How to Add Video Filters in Zoom</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iy-guide-zero-cost-youtube-intros-and-template-usage-for-2024/"><u>[New] DIY Guide Zero Cost YouTube Intros & Template Usage for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-tech-for-everyone-experts-analysis-for-2024/"><u>[New] Tech for Everyone Experts' Analysis for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-social-presence-top-10-tips-for-creating-an-instagram-sensation/"><u>Boost Your Social Presence: Top 10 Tips for Creating an Instagram Sensation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/boosting-online-engagement-with-advanced-cookiebot-marketing-tools/"><u>Boosting Online Engagement with Advanced Cookiebot Marketing Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-strategies-safeguarding-your-information-through-effective-backups/"><u>Essential Strategies: Safeguarding Your Information Through Effective Backups</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-ac1st16dll-error-on-your-computer/"><u>Fixing the ac1st16.dll Error on Your Computer</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-access-the-apple-tv-streaming-service-on-amazon-fire-stick/"><u>How To Access The Apple TV Streaming Service On Amazon Fire Stick</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-perfectly-blend-music-with-your-video-posts-on-insta/"><u>How To Perfectly Blend Music With Your Video Posts on Insta</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-date-placement-on-visual-memories/"><u>In 2024, Perfecting Date Placement on Visual Memories</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-asus-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Asus Phone Network-Ready</u></a></li>
-<li><a href="https://techtrends.techidaily.com/join-the-twitter-conversation-a-step-by-step-guide/"><u>Join the Twitter Conversation: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-solving-ocidll-is-absent-in-your-computer-system/"><u>Understanding and Solving 'oci.dll Is Absent' In Your Computer System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wi-fi-mesh-networks-decoded-are-they-truly-worth-your-investment/"><u>Wi-Fi Mesh Networks Decoded – Are They Truly Worth Your Investment?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-art-and-size-game-your-guide-to-top-tier-yt-banners/"><u>[New] In 2024, Mastering the Art & Size Game Your Guide to Top-Tier YT Banners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-game-changer-samsung-ue590-4k-monitor-for-2024/"><u>[New] Unveiling the Game Changer - Samsung UE590 4K Monitor for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-beginners-manual-to-windows-8-film-creation/"><u>[Updated] A Beginner's Manual to Windows 8 Film Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>[Updated] How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-perfect-your-youtube-experience-add-timestamps-efficiently/"><u>[Updated] In 2024, Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289661450-2024/"><u>攀升图片清晰度：2024年的五大方法与挑选对策</u></a></li>
+<li><a href="https://fox-info.techidaily.com/achromatic-no-more-blades-leap-to-ultra-hd-clarity/"><u>Achromatic No More Blade's Leap to Ultra-HD Clarity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-cambiar-de-formato-video-gratis-guia-para-convertir-mp4-en-avi-con-facilidad/"><u>Cómo Cambiar De Formato Video Gratis: Guía Para Convertir MP4 en AVI Con Facilidad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-passo-passo-come-aggiungere-i-subtitoli-ai-file-video-mp4/"><u>Guida Passo-Passo: Come Aggiungere I Subtitoli Ai File Video MP4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-simple-comment-dechiffrer-et-conserver-les-informations-dun-dvd-avec-systeme-dexploitation-windows-et-mac-os/"><u>Guide Simple: Comment Déchiffrer Et Conserver Les Informations D'un DVD Avec Système D'Exploitation Windows Et Mac OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-creating-iso-images-from-dvd-without-cost-on-windows-1187/"><u>Guide to Creating ISO Images From DVD without Cost on Windows 11/8/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macx-top-hd-dvd-ripper-and-converter-effortlessly-transferring-your-movies-from-dvd-to-iphone-compatible-with-latest-models-including-xs-xr-x-and-8-on-macos31/"><u>MacX - Top HD DVD Ripper & Converter: Effortlessly Transferring Your Movies From DVD to iPhone, Compatible with Latest Models Including XS, XR, X and 8 on macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meilleur-convertisseur-hdmi-h265-pour-windows-et-macos-convertisseur-video-hevc-optimise/"><u>Meilleur Convertisseur HDMI-H265 Pour Windows Et macOS - Convertisseur Vidéo HEVC Optimisé</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-quality-comparison-obs-or-fraps-for-2024/"><u>Streaming Quality Comparison OBS or Fraps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-3-premium-free-dvd-ripping-tools-for-windows-11-2020-convert-your-dvds-to-mp4-avi-or-wmv-effortlessly/"><u>Top 3 Premium Free DVD Ripping Tools for Windows 11 (2020) - Convert Your DVDs to MP4, AVI, or WMV Effortlessly</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-marketing/"><u>Updated What Is AI Marketing?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-12-20T01:18:58.257Z
-updated: 2024-12-22T19:57:21.404Z
+date: 2024-12-25T16:26:40.468Z
+updated: 2024-12-28T16:15:01.170Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,18 +119,19 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-excellent-10-drone-set-professional-filming-and-photography-for-2024/"><u>[New] Excellent 10-Drone Set Professional Filming & Photography for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-shutter-tips-free-windows-edition/"><u>[Updated] 2024 Approved Screen Shutter Tips Free Windows Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-aiseesofts-capture-tech-screen-recording-basics/"><u>[Updated] Mastering Aiseesoft's Capture Tech Screen Recording Basics</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-resetting-your-youtube-reputation/"><u>[Updated] Resetting Your YouTube Reputation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-full-featured-mac-video-and-audio-recorder/"><u>2024 Approved Full-Featured Mac Video & Audio Recorder</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-unplugging-the-servers-deleting-discord-on-devices/"><u>2024 Approved Unplugging the Servers Deleting Discord on Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-when-your-hdd-cant-be-seen-by-windows-11/"><u>How to Fix When Your HDD Can’t Be Seen by Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-make-google-the-first-thing-you-see-on-launch-easy-methods-inside/"><u>How To Make Google The First Thing You See on Launch: Easy Methods Inside!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-remove-password-in-windows-10-easily/"><u>How to Remove Password in Windows 10. Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-rip-dvds-to-windows-10-easy-steps/"><u>How to Rip DVDs to Windows 10? Easy Steps!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-uninstall-windows-10-update/"><u>How to Uninstall Windows 10 Update</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728466787723-onedrive3/"><u>OneDrive「同期中断」原因を解明し、対策3つ - 詳細ガイド!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/optimizing-engagement-with-these-exceptional-5-ai-tools/"><u>Optimizing Engagement with These Exceptional 5 AI Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-create-professional-valorant-thumbnails-in-no-time/"><u>[Updated] 2024 Approved Create Professional Valorant Thumbnails in No Time</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-compreran-a-deep-dive-into-the-logitech-4k-pro-webcam/"><u>[Updated] Compreran a Deep Dive Into the Logitech 4K Pro Webcam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-essential-tactics-for-success-in-instagrams-video-discussions/"><u>[Updated] Essential Tactics for Success in Instagram's Video Discussions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-architectural-wonders-top-6-sleek-mc-homes/"><u>[Updated] In 2024, Architectural Wonders Top 6 Sleek MC Homes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descargue-este-trato-gratis-conversion-sencilla-de-archivo-h2email-protected-a-email-protected-en-tamano-compacto-sin-sacrificar-la-claridad/"><u>Descargue Este Trato Gratis: Conversión Sencilla De Archivo H.2([email Protected]) a ([Email Protected]) en Tamaño Compacto Sin Sacrificar La Claridad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-duplication-guide-how-to-copy-drm-protected-dvds-on-mac-using-winx-dvd-ripper/"><u>DVD Duplication Guide - How to Copy DRM-Protected DVDs on Mac Using WinX DVD Ripper</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-integrating-libdvdcss-into-handbrake-for-macos-and-windows-operating-systems-version-11/"><u>Step-by-Step Tutorial for Integrating Libdvdcss Into Handbrake for macOS and Windows Operating Systems (Version 11)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-immersion-guide-to-lgs-360-vr-headset-for-2024/"><u>The Ultimate Immersion Guide to LG's 360 VR Headset for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-10-casual-pursuits-away-from-sports-fields-for-2024/"><u>Top 10 Casual Pursuits Away From Sports Fields for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-durable-laptop-picks-insiders-guide-by-zdnet/"><u>Top Durable Laptop Picks - Insider's Guide by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-content-top-5-techniques-to-upgrade-from-hd-to-ultra-hd-for-stunning-clarity/"><u>Transform Your Content: Top 5 Techniques to Upgrade From HD to Ultra HD for Stunning Clarity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixes-for-icloud-photo-synchronization-failures/"><u>Troubleshooting and Fixes for iCloud Photo Synchronization Failures</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-mini-marvel-a-comprehensive-look-at-xbox-series-s-specs-and-capabilities/"><u>Unveiling the Mini Marvel: A Comprehensive Look at Xbox Series S Specs and Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxdvd-ruckerstattungen-klare-richtlinien-bei-software-entschadigung-digiartis/"><u>WinXDVD Rückerstattungen - Klare Richtlinien Bei Software-Entschädigung | DigiArtis</u></a></li>
 </ul></div>
 

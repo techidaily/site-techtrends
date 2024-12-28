@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-12-22T01:34:06.884Z
-updated: 2024-12-22T18:04:51.601Z
+date: 2024-12-24T16:26:18.332Z
+updated: 2024-12-28T16:10:36.241Z
 tags:
   - apple
 categories:
@@ -29,24 +29,16 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -62,6 +54,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,14 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/complete-guide-restoring-functionality-of-water-damaged-iphonesipods/"><u>Complete Guide: Restoring Functionality of Water-Damaged iPhones/iPods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-dutilisation-du-support-technique-en-ligne-pour-winx-dvd-ripper-et-logiciels-de-conversion-video/"><u>Guide D'utilisation Du Support Technique en Ligne Pour WinX DVD Ripper Et Logiciels De Conversion Vidéo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-hot-40-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Hot 40</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-deciphering-youtubes-comprehensive-feedback-system/"><u>In 2024, Guide to Deciphering YouTube's Comprehensive Feedback System</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-revolutionize-your-shooting-essential-camera-gear-guide/"><u>In 2024, Revolutionize Your Shooting Essential Camera Gear Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-content-restrictions-on-youtube-videos/"><u>Mastering Content Restrictions on YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-your-deactivated-snapchat-a-step-by-step-guide/"><u>Reviving Your Deactivated Snapchat: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722854357401-tutorial-adjusting-languages-and-regions-on-ios-devices/"><u>Tutorial: Adjusting Languages and Regions on iOS Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722873941003-unbeatable-apple-watch-offers-dont-miss-out-on-savings/"><u>Unbeatable Apple Watch Offers - Don't Miss Out on Savings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-perfecting-your-drone-video-craft/"><u>[New] Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-essential-guide-to-multistation-open-source-video-tools-for-2024/"><u>[New] Essential Guide to Multistation Open Source Video Tools for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-rapid-route-to-reclaimed-reddit-articles-for-2024/"><u>[Updated] Rapid Route to Reclaimed Reddit Articles for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cbrmcprm/"><u>【ベストプラクティス無料】CBRM対応地デジフリーソフトを活用した正確なCPRM解除手順</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-put-a-halt-on-surprise-youtube-videos/"><u>2024 Approved Put a Halt on Surprise YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-best-fps-optimization-tools-for-lag-free-pc-gaming-and-streaming-boost-gameplay-performance-now/"><u>5 Best FPS Optimization Tools for Lag-Free PC Gaming and Streaming - Boost Gameplay Performance Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/15-4k-1080p/"><u>免費提供，15 部 4K 或者 1080P 電影轉檔平台解決方案</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-down-bandwidth-handy-fixes-for-improving-a-sluggish-internet-speed/"><u>Breaking Down Bandwidth: Handy Fixes for Improving a Sluggish Internet Speed</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-regular-vlogger-discussion-guidelines/"><u>In 2024, Regular Vlogger Discussion Guidelines</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4mov/"><u>MP4形式からMOVへ効果的に変換するための最適化方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/power2go-u/"><u>Power2Go操作マニュアル: U盤書き込み・コピー手法の実施</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-dvd-copying-with-winxdvd-convert-videos-and-effortlessly-move-to-ios-devices/"><u>Seamless DVD Copying with WinXDVD – Convert Videos & Effortlessly Move to iOS Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-solving-the-mystery-of-the-black-screen-during-your-facetime-calls/"><u>Ultimate Guide: Solving the Mystery of the Black Screen During Your FaceTime Calls</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-video-trailer-creation-tools-for-2024/"><u>Updated Top Video Trailer Creation Tools for 2024</u></a></li>
 </ul></div>
 

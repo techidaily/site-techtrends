@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2024-12-19T00:34:03.738Z
-updated: 2024-12-22T17:43:38.957Z
+date: 2024-12-22T16:03:55.647Z
+updated: 2024-12-28T16:10:09.639Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,22 +114,22 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-become-an-influencer-grow-by-a-thousand-on-instagrammonth/"><u>[New] In 2024, Become an Influencer Grow by a Thousand on Instagram/Month</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-gaming-youtubers-you-should-know/"><u>[New] In 2024, Top 10 Gaming YouTubers You Should Know</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-vid-vocated-trust-a-marketers-secret-weapon-for-2024/"><u>[Updated] Vid-Vocated Trust A Marketer's Secret Weapon for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-fb-campaigns-the-20-premier-video-tactics/"><u>2024 Approved Elevate Your FB Campaigns The 20 Premier Video Tactics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/achieve-a-seamless-visual-experience-presenting-whole-photos-on-instagram-effortlessly/"><u>Achieve a Seamless Visual Experience: Presenting Whole Photos on Instagram Effortlessly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cambia-il-tuo-dvd-su-pc-o-mac-converti-gratis-i-tuoi-video-in-mp4-usando-winxdvd-istruzioni-facili/"><u>Cambia Il Tuo DVD Su PC O Mac: Converti Gratis I Tuoi Video in MP4 Usando WinXDVD - Istruzioni Facili</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-8-email-solutions-beyond-gmail-for-this-year/"><u>Discover the Ultimate 8 Email Solutions Beyond Gmail for This Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-superior-sound-quality-with-the-updated-realtek-drivers-for-windows-11-10-and-7-free-downloads/"><u>Ensure Superior Sound Quality with the Updated Realtek Drivers for Windows 11, 10 and 7 – Free Downloads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-anyone-fast-a-user-friendly-guide-to-searching-on-facebook/"><u>Find Anyone Fast: A User-Friendly Guide to Searching on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-built-in-gps-on-ipads-determine-your-models-navigation-capabilities/"><u>Guide to Built-In GPS on iPads – Determine Your Model's Navigation Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-accurately-assess-your-mobile-or-wi-fi-data-use-at-home/"><u>How to Accurately Assess Your Mobile or Wi-Fi Data Use at Home</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-common-graphics-glitches-how-to-remove-horizontal-lines-from-monitors/"><u>Overcoming Common Graphics Glitches: How to Remove Horizontal Lines From Monitors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pro-tips-to-create-impactful-and-stunning-gopro-time-lapses-for-2024/"><u>Pro Tips to Create Impactful and Stunning GoPro Time-Lapses for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/simple-solutions-stop-the-buzzing-and-rattling-of-your-audio-system/"><u>Simple Solutions: Stop the Buzzing and Rattling of Your Audio System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-and-speed-up-mastering-the-art-of-android-cache-clearance/"><u>Simplify and Speed Up: Mastering the Art of Android Cache Clearance</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-free-movies-player-that-works-with-mov-files-fix-quicktime-issue/"><u>Top Free Movies Player That Works with .mov Files - Fix QuickTime Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-your-dvd-bd-and-cd-drives-when-they-refuse-to-eject/"><u>Ultimate Guide: Troubleshooting Your DVD, BD & CD Drives When They Refuse to Eject</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[New] Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-swiftstrike-timetape-recording-for-2024/"><u>[New] SwiftStrike TimeTape Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exclusive-play-on-apex-how-to-turn-off-cross-platform-mode/"><u>[Updated] Exclusive Play on Apex How to Turn Off Cross-Platform Mode</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-firecapture-pro-for-ff/"><u>[Updated] FireCapture Pro for FF</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-socialsound-maker-twitter-audio-for-2024/"><u>[Updated] SocialSound Maker Twitter Audio for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/achieve-maximum-impact-in-fb-video-ads-use-free-tools-for-2024/"><u>Achieve Maximum Impact in FB Video Ads - Use Free Tools for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experiencing-zoom-lag-whats-the-culprit-internet-or-you/"><u>Experiencing Zoom Lag - What's the Culprit, Internet or You?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-powerhouses-revealed-your-guide-to-the-planets-10-most-influential-websites/"><u>Online Powerhouses Revealed: Your Guide to the Planet’s 10 Most Influential Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-guide-how-to-watch-the-entire-dragon-ball-series/"><u>Ordered Guide: How to Watch the Entire Dragon Ball Series</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-challenge-of-a-non-existent-or-unfound-d3dx934dll-file/"><u>Overcoming the Challenge of a Non-Existent or Unfound d3dx9_34.dll File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722860152820-revolutionize-your-painting-task-with-these-4-handy-painting-apps/"><u>Revolutionize Your Painting Task with These 4 Handy Painting Apps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-cant-you-hear-your-games-on-discord/"><u>Solved: Why Can't You Hear Your Games on Discord?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-inner-workings-of-e-bikes-explained-for-enthusiasts/"><u>The Inner Workings of E-Bikes Explained for Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-impacts-of-generative-ai-on-future-employment-landscapes/"><u>Top 7 Impacts of Generative AI on Future Employment Landscapes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-new-brain-teasing-challenges-for-iphoneipad-reminiscent-of-classics-like-the-room-myst/"><u>Uncover New Brain-Teasing Challenges for iPhone/iPad Reminiscent of Classics Like The Room, Myst</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-fold-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Fold 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-did-my-car-speakers-stop-working/"><u>Why Did My Car Speakers Stop Working?</u></a></li>
 </ul></div>
 

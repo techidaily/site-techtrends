@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2024-12-16T19:20:26.834Z
-updated: 2024-12-23T02:25:49.844Z
+date: 2024-12-26T16:19:16.172Z
+updated: 2024-12-28T16:20:24.162Z
 tags:
   - apple
 categories:
@@ -28,7 +28,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -38,7 +38,7 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
@@ -46,7 +46,7 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -57,6 +57,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -65,11 +69,11 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-## Enable the Collaboration feature
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Enable the Collaboration feature
 
 ### 1\. Open an Apple Pages document
 
@@ -78,10 +82,6 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -149,15 +149,24 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/conquer-pc-crashing-master-nba-2k23-stability-with-seven-key-strategies-just-solved/"><u>Conquer PC Crashing: Master NBA 2K23 Stability with Seven Key Strategies Just Solved!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-wet-weather-prowess-of-iphone-15s-defense-capabilities/"><u>Exploring the Wet Weather Prowess of iPhone 15'S Defense Capabilities</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96466909-9781939681607-holy-daring/"><u>Holy Daring | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722867676898-how-can-i-enjoy-lowered-prices-your-complete-walkthrough-of-applying-for-spotifys-student-offer/"><u>How Can I Enjoy Lowered Prices? Your Complete Walkthrough of Applying for Spotify's Student Offer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enjoy-the-conjuring-saga-best-viewing-order-and-essential-tips/"><u>How To Enjoy The 'Conjuring' Saga: Best Viewing Order & Essential Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-screen-recorder-unleash-potential-on-win11/"><u>In 2024, Ultimate Screen Recorder - Unleash Potential on Win11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/r-the-motion-personalized-animation-techniques/"><u>Master the Motion Personalized Animation Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/seven-key-benefits-of-continuing-with-your-oldie-but-goodie-windows-10/"><u>Seven Key Benefits of Continuing with Your Oldie but Goodie - Windows 10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-quicktime-mov-files-into-webm-format-7-simple-no-cost-online-methods/"><u>Transforming QuickTime MOV Files Into WebM Format: 7 Simple, No-Cost Online Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-apple-watch-touchscreen/"><u>Troubleshooting Guide: Fixing a Non-Responsive Apple Watch Touchscreen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-effortless-production-of-fb-ad-videos-with-complimentary-kit-for-2024/"><u>[New] Effortless Production of FB Ad Videos with Complimentary Kit for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-youtube-to-mp4-blueprint/"><u>[Updated] 2024 Approved The Ultimate YouTube to MP4 Blueprint</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mirthful-stream-retriever-review-for-2024/"><u>[Updated] Mirthful Stream Retriever Review for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288980259-dvd/"><u>【安心サポート付き】 DVDスクリューダウンロード手順 お使い上手く機能する方法</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-capturing-high-quality-verbal-notes/"><u>2024 Approved Expertise in Capturing High-Quality Verbal Notes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y36-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y36 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehvew-of-best-practices-in-maintaining-a-clean-and-hygienic-mechanical-keyboard/"><u>Comprehvew of Best Practices in Maintaining a Clean and Hygienic Mechanical Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-gps-applications-for-your-ios-device-our-picks/"><u>Discover the Best GPS Applications for Your iOS Device: Our Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dive-into-a-world-of-technology-and-tales-with-high-end-phones-computers-and-novels/"><u>Dive Into a World of Technology & Tales with High-End Phones, Computers, & Novels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-to-restore-and-recover-lost-shelldll-components/"><u>Effective Strategies to Restore and Recover Lost Shell.dll Components</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-participate-in-an-xtwitter-chat/"><u>How to Participate in an X/Twitter Chat</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125129096-introducing-the-new-king-of-3d-printing-crealitys-flagship-k1c-reveal-all-about-its-launch-price-and-specs/"><u>Introducing the New King of 3D Printing: Creality's Flagship K1C – Reveal All About Its Launch, Price and Specs!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-powerpoint-updates-a-comprehensive-how-to-guide/"><u>Mastering PowerPoint Updates: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204413318-nba-2k21-green-hiccup-patch-details-and-how-its-gone/"><u>NBA 2K21 Green Hiccup: Patch Details & How It's Gone!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-technical-challenges-with-your-jabra-earphones-2024-user-manual/"><u>Overcoming Technical Challenges with Your Jabra Earphones - 2024 User Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-shell32dll-file-cannot-be-found-dilemma/"><u>Resolving the 'Shell32.dll File Cannot Be Found' Dilemma</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-how-to-binge-watch-the-complete-dragon-ball-series/"><u>Step-by-Step Instructions on How to Binge-Watch the Complete Dragon Ball Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-productivity-tablet-that-outshines-both-lenovo-and-microsoft-insider-tips-from-a-tech-guru/"><u>Top-Performing Productivity Tablet That Outshines Both Lenovo & Microsoft - Insider Tips From a Tech Guru</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-or-wired-how-to-hook-up-a-laptop-to-your-tv-via-hdmi/"><u>Wireless or Wired? How to Hook Up a Laptop to Your TV via HDMI</u></a></li>
 </ul></div>
 

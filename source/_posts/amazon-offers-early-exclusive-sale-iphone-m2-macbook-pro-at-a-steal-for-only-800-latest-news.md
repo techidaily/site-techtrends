@@ -1,7 +1,7 @@
 ---
 title: "Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News"
-date: 2024-12-21T19:16:33.168Z
-updated: 2024-12-22T19:01:47.809Z
+date: 2024-12-22T16:01:41.318Z
+updated: 2024-12-28T16:13:39.682Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Maria Diaz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended:
@@ -43,7 +43,7 @@ Smarts aside, much of the beauty in the Level Lock+ lies beneath the surface. Th
 [ZDNET RECOMMENDS Level Lock+ A discrete-looking smart lock that can be unlocked with the tap of a supported iPhone or Apple Watch. View at Level](https://shareasale.com/r.cfm?b=2175388&u=4338022&m=132656&afftrack=techidaily&urllink=https%3A%2F%2Ftwopages.pxf.io%2F21em1d)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What lies within the Level Lock+?
@@ -61,7 +61,7 @@ Level
 The Level Lock+ uses Bluetooth and Wi-Fi to connect to your phone and comes in three finishes: Satin Nickel, Matte Black, and Polished Brass. It also includes two physical keys and key cards, just in case your phone dies. The latter must be set up in the Level Home app and use NFC technology so anyone using a key card can hold it up to the smart lock and wait for it to unlock.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Home Key?
@@ -95,7 +95,7 @@ Don't get me wrong, I've always used my [Yale Assure locks](https://buy.geni.us/
 There are several other smart locks that currently support Home Key: The [Schlage Encode Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RS1Z1ZN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e35070a-0d67-4220-977b-807fb42e9e2c%7Cdtp&dtb=1), [Yale Assure Lock 2 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRBP2ZM%2FA%2Fyale-assure-lock-2-plus-home-key-lock&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Aqara U100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAqara-Fingerprint-Touchscreen-Electronic-Weatherproof%2Fdp%2FB0BZSD2L1W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e35070a-0d67-4220-977b-807fb42e9e2c%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Level app or Apple Home?
@@ -119,7 +119,7 @@ The touch-to-unlock and lock feature only works within a set timeframe of engagi
 There's also the option of buying a Level keypad, which is sold separately, to add to your Level Lock.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -158,20 +158,24 @@ The two largest advantages the Level Lock+ has over other smart locks are the Ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-discover-top-platforms-for-youtube-brand-partnerships/"><u>[Updated] 2024 Approved Discover Top Platforms for YouTube Brand Partnerships</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-complete-insight-gopro-silver-hero4-detailed-assessment-for-2024/"><u>[Updated] Complete Insight GoPro Silver Hero4 Detailed Assessment for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>[Updated] In 2024, Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-total-360-giroptic-vr-capture-examination-for-2024/"><u>[Updated] Total 360 Giroptic VR Capture Examination for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-audience-friendly-approach-to-pc-audio-recording-using-audacity-gratis/"><u>2024 Approved Audience-Friendly Approach to PC Audio Recording Using Audacity Gratis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimal-techniques-recording-console-games-via-pc/"><u>2024 Approved Optimal Techniques Recording Console Games via PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722903614484-apples-next-gen-sound-enabled-gadget-upcoming-release-details-and-pricing-revealed/"><u>Apple's Next-Gen Sound-Enabled Gadget: Upcoming Release Details & Pricing Revealed!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cracking-the-code-retrieving-lost-wi-fi-passphrases-on-a-windows-11-machine/"><u>Cracking the Code: Retrieving Lost Wi-Fi Passphrases on a Windows 11 Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-a-failed-authorization-fixing-error-401-on-your-website/"><u>Decoding a Failed Authorization: Fixing Error 401 on Your Website</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-manage-a-roku-television-using-non-traditional-methods/"><u>How To Manage A Roku Television Using Non-Traditional Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a70-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A70 Fingerprint Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-an-in-depth-review-of-specs-and-capabilities/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra - An In-Depth Review of Specs and Capabilities</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 14</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3d9dll-file-absent-or-inaccessible-mishaps/"><u>Resolving d3d9.dll File Absent or Inaccessible Mishaps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-tips-and-key-aspects-for-selecting-the-ideal-video-capture-unit/"><u>Top Tips and Key Aspects for Selecting the Ideal Video Capture Unit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-cartooncast-comprehensive-24-guidebook/"><u>[New] CartoonCast Comprehensive '24 Guidebook</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows/"><u>[New] In 2024, Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-teacher-friendly-video-capture-options-reviewed/"><u>[Updated] In 2024, Teacher-Friendly Video Capture Options Reviewed</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726027264003-windows-and-mac/"><u>「Windows & Mac対応の無料動画エンコーダー - 最高の選択肢について学ぶ！」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-top-non-adobe-software-options-for-boosting-your-design-work/"><u>1. Top Non-Adobe Software Options for Boosting Your Design Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-directory-for-got-ringtones-download/"><u>2024 Approved The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-car-news-update-potential-launch-timeline-price-estimates-and-revolutionary-features-explored/"><u>Apple Car News Update: Potential Launch Timeline, Price Estimates, and Revolutionary Features Explored</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-mac-systems-evolving-enough-to-challenge-pc-dominance-in-the-gamer-arena/"><u>Are Mac Systems Evolving Enough to Challenge PC Dominance in the Gamer Arena?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-the-original-pc-word-processing-program-gratis/"><u>Download the Original PC Word Processing Program, Gratis!</u></a></li>
+<li><a href="https://solve-info.techidaily.com/empower-your-site-analytics-through-innovative-tracker-solutions/"><u>Empower Your Site Analytics Through Innovative Tracker Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-horizon-zero-dawn-from-freezing-on-your-windows-computer/"><u>How To Stop Horizon Zero Dawn From Freezing On Your Windows Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stop-your-cursor-from-acting-up-a-comprehensive-guide/"><u>How to Stop Your Cursor From Acting Up: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-winrar-a-top-archiver-on-your-linux-system/"><u>How to Use WinRAR, a Top Archiver, on Your Linux System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y36-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/struggling-with-erratic-key-presses-in-windows-11-discover-effective-remedies-now/"><u>Struggling with Erratic Key Presses in Windows 11? Discover Effective Remedies Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/184065-9781595470034-the-realness-of-witchcraft-in-america/"><u>The Realness of Witchcraft in America | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-better-security-and-efficiency-a-guide-to-the-7-must-enable-windows-options-explained/"><u>Unlocking Better Security & Efficiency: A Guide to the 7 Must-Enable Windows Options Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-elgato-stream-deck-neo-comprehensive-unboxing-experience-and-preliminary-review/"><u>Unveiling the Elgato Stream Deck Neo – Comprehensive Unboxing Experience & Preliminary Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-process-retrieving-your-computer-name-in-windows-10-environment/"><u>Unveiling the Process: Retrieving Your Computer Name in Windows 10 Environment</u></a></li>
 </ul></div>
 

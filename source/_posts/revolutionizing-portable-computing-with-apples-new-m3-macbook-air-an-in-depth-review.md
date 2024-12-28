@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-12-19T01:14:17.745Z
-updated: 2024-12-23T01:44:21.975Z
+date: 2024-12-26T16:24:42.505Z
+updated: 2024-12-28T16:02:49.431Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -49,7 +49,7 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -74,6 +74,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 The ability to run two external monitors with the lid closed is one of the M3 MacBook Air's biggest upgrades.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
 
@@ -108,10 +112,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -156,7 +156,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,21 +235,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unveiling-vsdcs-potential-and-top-alternatives/"><u>[New] 2024 Approved Unveiling VSDC’s Potential & Top Alternatives</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-digital-companion-fb-stories-collector-for-2024/"><u>[Updated] Digital Companion - FB Stories Collector for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-targeted-success-using-snapads-for-business-growth/"><u>[Updated] Targeted Success Using SnapAds for Business Growth</u></a></li>
-<li><a href="https://techtrends.techidaily.com/26-leading-free-software-tools-to-clean-your-registry-best-picks/"><u>26 Leading Free Software Tools to Clean Your Registry - Best Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-tutorial-on-anchoring-chats-within-your-instagram-feed/"><u>A Comprehensive Tutorial on Anchoring Chats Within Your Instagram Feed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dells-price-breakdown-for-scholars-navigating-the-path-to-secure-educational-savings/"><u>Dell's Price Breakdown for Scholars: Navigating the Path to Secure Educational Savings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-how-to-remove-microsoft-copilot-integration-in-windows-11/"><u>Expert Advice on How to Remove Microsoft Copilot Integration in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-achieving-a-professional-look-with-background-blur-during-google-meets/"><u>Expert Tips: Achieving a Professional Look with Background Blur During Google Meets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-extents-of-vr-technology/"><u>Exploring the Extents of VR Technology</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone XR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-optimal-vpn-services-for-seamless-olympic-games-viewing-experience-insights-from-zdnet/"><u>Top 3 Optimal VPN Services for Seamless Olympic Games Viewing Experience - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-8-strategies-to-achieve-viral-success-on-youtube/"><u>Top 8 Strategies to Achieve Viral Success on YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-iphone-sim-slot-with-everyday-objects-a-step-by-nstep-process/"><u>Unlocking iPhone SIM Slot with Everyday Objects - A Step-by-nStep Process</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secret-to-striking-visuals-optimal-video-aspect-ratios/"><u>[New] The Secret to Striking Visuals Optimal Video Aspect Ratios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cut-the-cord-with-youtube-mp3-conversion-tools/"><u>[Updated] 2024 Approved Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tips-for-sharper-images-on-google-meet-calls/"><u>2024 Approved Top Tips for Sharper Images on Google Meet Calls</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unlocking-youtubes-monetization-secrets-for-successful-crews/"><u>2024 Approved Unlocking YouTube’s Monetization Secrets for Successful Crews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cant-pick-up-the-line-fixing-call-response-problems-on-your-samsung-galaxy-watch/"><u>Can't Pick Up the Line? Fixing Call Response Problems on Your Samsung Galaxy Watch</u></a></li>
+<li><a href="https://discover-help.techidaily.com/efficient-methods-for-moving-images-from-your-iphone-to-windows-or-mac/"><u>Efficient Methods for Moving Images From Your iPhone to Windows or Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-steps-for-enabling-webcam-conferencing-in-windows-with-zoom/"><u>Expert Steps for Enabling Webcam Conferencing in Windows with Zoom</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-world-of-superman-a-comprehensive-ordered-list-for-a-perfect-movie-marathon-experience/"><u>Explore the World of 'Superman': A Comprehensive Ordered List for a Perfect Movie Marathon Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-everything-about-final-cut-pro-90-days-free-trial-here/"><u>New In 2024, Everything About Final Cut Pro 90 Days FREE Trial Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snappy-driver-installer-version-113-comprehensive-review/"><u>Snappy Driver Installer Version 1.13: Comprehensive Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-the-new-samsung-galaxy-watch-7-what-you-need-to-know-about-pricing-and-specs/"><u>The Comprehensive Guide to the New Samsung Galaxy Watch 7: What You Need To Know About Pricing and Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-32-no-cost-data-backup-apps-rated-and-critiqued/"><u>Ultimate List of 32 No-Cost Data Backup Apps, Rated & Critiqued</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-new-drivers-gtx-1650-super-support-for-windows-operating-systems/"><u>Update Your System with New Drivers: GTX 1650 Super Support for Windows Operating Systems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-final-cut-pros-greatest-hits-10-memorable-movies-for-2024/"><u>Updated Final Cut Pros Greatest Hits 10 Memorable Movies for 2024</u></a></li>
 </ul></div>
 
