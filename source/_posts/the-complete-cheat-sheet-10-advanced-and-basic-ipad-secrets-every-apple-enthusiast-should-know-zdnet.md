@@ -1,7 +1,7 @@
 ---
 title: "The Complete Cheat Sheet: 10 Advanced & Basic iPad Secrets Every Apple Enthusiast Should Know | ZDNet"
-date: 2024-12-23T16:10:06.420Z
-updated: 2024-12-28T16:11:30.240Z
+date: 2024-12-31T01:41:16.709Z
+updated: 2025-01-06T20:06:51.241Z
 tags:
   - apple
 categories:
@@ -39,15 +39,15 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -65,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -128,6 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -143,7 +147,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -158,16 +162,12 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,24 +204,21 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-elevating-your-craft-top-camera-optics-for-professional-videos-for-2024/"><u>[New] Elevating Your Craft Top Camera Optics for Professional Videos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premier-action-cam-editors-and-software/"><u>[New] Premier Action Cam Editors and Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-achieving-professional-streams-with-obs-android-style-for-2024/"><u>[Updated] Achieving Professional Streams with OBS, Android Style for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamline-your-way-to-a-thriving-biz-youtube-channel/"><u>[Updated] In 2024, Streamline Your Way to a Thriving Biz YouTube Channel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-6-greatest-nintendo-mario-rpgs-for-personal-computers/"><u>Discover the 6 Greatest Nintendo Mario RPGs for Personal Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-leading-iphone-email-solutions-weve-rated-them/"><u>Discover the Leading iPhone Email Solutions - We've Rated Them!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-ways-to-identify-viewers-of-your-youtube-content/"><u>Discover Ways to Identify Viewers of Your YouTube Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dvd-memory/"><u>DVD Memory レビューとユーザーフィードバック：全面的なインサイト、利点、欠点および使用法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-dealing-with-a-missing-or-unfound-d3dx928dll-file/"><u>Expert Tips for Dealing with a Missing or Unfound d3dx9_28.dll File</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/in-depth-review-of-fugeteks-top-notch-ft-568-selfie-extender-a-solid-choice-for-shutterbugs/"><u>In-Depth Review of Fugetek's Top-Notch FT-568 Selfie Extender - A Solid Choice for Shutterbugs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-switching-to-a-wi-fi-mesh-network-worth-your-time-and-money/"><u>Is Switching to a Wi-Fi Mesh Network Worth Your Time and Money?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976865282-liberalism-as-a-political-philosophy-had-won-out-over-its-rivals-communism-fascism/"><u>Liberalism as a Political Philosophy Had Won Out over Its Rivals (Communism, Fascism).</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-future-of-employment-6-reasons-to-embrace-chatgpt-in-your-professional-life/"><u>Navigating the Future of Employment: 6 Reasons to Embrace ChatGPT in Your Professional Life</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-overcoming-audio-playback-problems-in-microsoft-powerpoint/"><u>Step-by-Step Solutions for Overcoming Audio Playback Problems in Microsoft PowerPoint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-strategies-for-identifying-and-eradicating-smartphone-spyware-cybersecurity-hub/"><u>Step-by-Step Strategies for Identifying & Eradicating Smartphone Spyware | CyberSecurity Hub</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-to-keeping-chat-topics-visible-on-instagram/"><u>Unlocking the Secrets: A Comprehensive Guide to Keeping Chat Topics Visible on Instagram</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-d-link-the-ultimate-password-list-for-july-2024/"><u>Unlocking Your D-Link: The Ultimate Password List for July 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-5-best-webcams-for-gaming/"><u>[Updated] 5 Best Webcams for Gaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-customize-your-video-to-pique-instagram-interest/"><u>[Updated] In 2024, Customize Your Video to Pique Instagram Interest</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unveiling-the-secrets-of-color-mastery-11-tutorials/"><u>[Updated] In 2024, Unveiling the Secrets of Color Mastery (11 Tutorials)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-all-in-one-video-editing-with-manycam-a-comprehensive-guide-to-streamlining-your-livestreams/"><u>1. All-in-One Video Editing with ManyCam: A Comprehensive Guide to Streamlining Your Livestreams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-best-manycam-alternatives-top-live-streaming-apps-and-online-cam-options/"><u>1. Best ManyCam Alternatives: Top Live Streaming Apps & Online Cam Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-manycam-top-tier-live-streaming-and-virtual-camera-app/"><u>1. ManyCam: Top-Tier Live Streaming and Virtual Camera App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-software-and-techniques-for-film-from-photos/"><u>Best Software and Techniques for Film From Photos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cost-effective-smartphone-comparison-how-motorola-one-matches-up-to-an-iphone/"><u>Cost-Effective Smartphone Comparison: How Motorola One Matches up to an iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808358553-forgot-your-gmail-password-again-discover-simple-remedies-now/"><u>Forgot Your Gmail Password Again? Discover Simple Remedies Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-pair-bose-soundlink/"><u>How to Pair Bose Soundlink</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac/"><u>In 2024, Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-broadcast-mastery-exploring-superior-software-options-beyond-manycams-virtual-camera-technology/"><u>Live Broadcast Mastery: Exploring Superior Software Options Beyond ManyCam's Virtual Camera Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-made-easy-a-guide-to-using-manycam-as-a-virtual-camera/"><u>Live Streaming Made Easy: A Guide to Using ManyCam as a Virtual Camera</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-the-manycam-solution-virtual-camera-app-revolutionizing-online-content-creation/"><u>Live Streaming Mastery: The ManyCam Solution - Virtual Camera App Revolutionizing Online Content Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-with-manycam-advanced-virtual-camera-options/"><u>Live Streaming with ManyCam: Advanced Virtual Camera Options</u></a></li>
+<li><a href="https://win-web.techidaily.com/systematic-revival-tailored-strategies-for-each-sectors-resurgence/"><u>Systematic Revival: Tailored Strategies for Each Sector's Resurgence</u></a></li>
 </ul></div>
 

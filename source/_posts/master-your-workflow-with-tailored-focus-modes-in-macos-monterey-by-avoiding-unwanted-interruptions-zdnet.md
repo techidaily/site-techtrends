@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2024-12-26T16:02:05.746Z
-updated: 2024-12-28T16:16:19.012Z
+date: 2025-01-05T04:28:22.858Z
+updated: 2025-01-06T22:40:07.551Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -60,6 +60,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Create the new Focus
 
 Click + at the bottom left corner of the window and select Custom (**Figure 3**).
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,21 +140,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ng-income-through-youtube-shorts-crucial-elements-and-earnings-potential-for-2024/"><u>Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elite-selection-of-multiuser-communication-tools-the-ultimate-list/"><u>Elite Selection of Multiuser Communication Tools: The Ultimate List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-photos-effective-zoom-in-and-out-methods-for-apple-gadgets/"><u>Enhance Your Photos: Effective Zoom In & Out Methods for Apple Gadgets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-your-videos-best-android-and-pc-compatible-apps/"><u>In 2024, Elevate Your Videos Best Android and PC-Compatible Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-soothing-stories-in-video-form-insights-and-critiques/"><u>In 2024, Soothing Stories in Video Form Insights and Critiques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leveraging-keywords-for-peak-marketing-results/"><u>Leveraging Keywords for Peak Marketing Results</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-kostenlose-wav-in-mp3-online-konvertierungstool-fur-schnelle-und-einfache-musiktransformationen/"><u>Movavi's Kostenlose WAV in MP3 Online Konvertierungstool Für Schnelle Und Einfache Musiktransformationen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-device-removal-in-google-home-a-comprehensive-guide/"><u>Navigating Device Removal in Google Home: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-deletion-top-5-methods-for-removing-albums-off-your-iphone/"><u>Permanent Deletion: Top 5 Methods for Removing Albums Off Your iPhone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Zero 30 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/professional-solutions-a-comprehensive-list-of-six-ways-to-increase-fps-in-eft/"><u>Professional Solutions: A Comprehensive List of Six Ways to Increase FPS in EFT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-x3daudiodll-file-missing-issues-a-comprehensive-guide/"><u>Solving x3daudio.dll File Missing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-command-line-interface-inside-directories/"><u>Step-by-Step Guide: Accessing Command Line Interface Inside Directories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-boosting-corporate-productivity-with-slack-tools-and-tips/"><u>The Ultimate Guide: Boosting Corporate Productivity with Slack Tools and Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-purging-the-dns-cache-on-macos/"><u>Troubleshooting Tips: Purging the DNS Cache on macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-time-travel-on-the-web-with-the-wayback-machine-tutorial/"><u>Unlock the Secrets of Time Travel on the Web with the Wayback Machine Tutorial</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-comprehensive-guide-to-captioning-for-enhanced-video-impact/"><u>[Updated] In 2024, Comprehensive Guide to Captioning for Enhanced Video Impact</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diy-guide-checking-your-pcs-psu-functionality-yl-software-solutions/"><u>DIY Guide: Checking Your PC's PSU Functionality - YL Software Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-resolving-when-a-mac-refuses-to-connect-with-an-additional-screen/"><u>Expert Tips for Resolving When a Mac Refuses to Connect with an Additional Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-craft-your-narrative-on-reddit-mastering-content-delivery/"><u>In 2024, Craft Your Narrative on Reddit Mastering Content Delivery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-motorola-moto-g84-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Motorola Moto G84 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/save-big-with-the-multifunctional-macbook-stand-and-charger-bundle-at-just-102-exclusive-offer-from-zdnet/"><u>Save Big with the Multifunctional MacBook Stand & Charger Bundle at Just $102 - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-eradicating-that-persistent-bass-hum-in-your-system/"><u>Step-by-Step Tutorial: Eradicating That Persistent Bass Hum in Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-complimentary-and-open-access-dns-service-providers/"><u>Top Picks: Complimentary & Open Access DNS Service Providers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-8-gpt-strategies-for-increasing-productivity-and-limiting-digital-noise/"><u>Ultimate 8 GPT Strategies for Increasing Productivity & Limiting Digital Noise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-to-ps5s-unique-gaming-experience-with-these-titles/"><u>Unlocking the Secrets to PS5's Unique Gaming Experience with These Titles</u></a></li>
 </ul></div>
 

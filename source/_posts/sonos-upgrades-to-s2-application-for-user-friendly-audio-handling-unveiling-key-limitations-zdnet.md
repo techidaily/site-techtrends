@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2024-12-27T16:26:53.241Z
-updated: 2024-12-28T16:03:15.304Z
+date: 2025-01-05T03:38:31.087Z
+updated: 2025-01-06T16:59:33.272Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ While this move towards a [more integrated software environment](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Observations of the new S2 UX
@@ -61,7 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -77,7 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -99,7 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -117,7 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -158,24 +158,24 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-transforming-self-doubt-into-youtube-dominance/"><u>[New] 2024 Approved Transforming Self-Doubt Into YouTube Dominance</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-reestablishing-communication-with-a-non-responsive-obs-cam-for-2024/"><u>[New] Reestablishing Communication with a Non-Responsive OBS Cam for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-find-the-best-videographer/"><u>[Updated] 2024 Approved How to Find the Best Videographer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-offline-auto-race-game-applications-your-guide-to-the-classics/"><u>Best Offline Auto Race Game Applications – Your Guide to the Classics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/broadcast-listening-basics-accessing-fm-radio-through-smartphones/"><u>Broadcast Listening Basics: Accessing FM Radio Through Smartphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/error-free-pc-restart-tips-for-overcoming-the-pc-reset-problem/"><u>Error-Free PC Restart: Tips for Overcoming the 'PC Reset Problem'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-insights-understanding-samsungs-smart-tv-applications/"><u>Essential Insights: Understanding Samsung's Smart TV Applications</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-brother-mfc-9130cw-printer-drivers-step-by-step-guide/"><u>How to Install Brother MFC-9130CW Printer Drivers - Step by Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-set-up-device-sync-and-display-on-your-lg-smart-television/"><u>How to Set Up Device Sync and Display on Your LG Smart Television</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y17s-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y17s</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-removing-photo-borders/"><u>In 2024, The Ultimate Guide to Removing Photo Borders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/initiate-your-amazon-echo-dot-into-setup-mode-a-comprehensive-walkthrough/"><u>Initiate Your Amazon Echo Dot Into Setup Mode - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-gif-comments-a-step-by-step-guide-for-instagram-users/"><u>Mastering the Art of GIF Comments: A Step-by-Step Guide for Instagram Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/mwc-showcase-top-tier-tech-declared-by-makeuseof/"><u>MWC Showcase: Top-Tier Tech Declared by MakeUseOf</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/superior-graphics-processors-in-4k-territory/"><u>Superior Graphics Processors in 4K Territory</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tactics-for-measuring-monthly-mobile-data-expenditure/"><u>Tactics for Measuring Monthly Mobile Data Expenditure</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-perfect-solution-when-you-need-to-retract-your-tiktok-repost-step-by-step-instructions/"><u>The Perfect Solution When You Need to Retract Your TikTok Repost - Step-by-Step Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-industry-experts-featured/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Industry Experts - Featured</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-power-of-photo-rescue-free-fixer-apps-for-damaged-photographs-online/"><u>Unlock the Power of Photo Rescue: Free Fixer Apps for Damaged Photographs Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking/"><u>[New] 2024 Approved A Compreenas Guide to Choosing Ideal Lenses for Filmmaking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/aether-explained-defining-the-concept-and-your-path-to-joining-it/"><u>Aether Explained: Defining the Concept & Your Path to Joining It</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-n3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find N3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crucial-considerations-when-choosing-your-ideal-smartwatch-top-5-insights/"><u>Crucial Considerations When Choosing Your Ideal Smartwatch - Top 5 Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tricks-for-successfully-refreshing-your-chromecast/"><u>Easy Tricks for Successfully Refreshing Your Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-libcurldll-not-detected-issue-efficiently/"><u>Fixing the libcurl.dll Not Detected Issue Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/funimate-video-downloader-review/"><u>Funimate Video Downloader Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>In 2024, Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-complete-checklist-for-recording-fb-chats-and-meets/"><u>In 2024, The Complete Checklist for Recording FB Chats and Meets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-and-updating-samsung-96e-hardware-drives-in-windows/"><u>Installing and Updating Samsung 96#E## Hardware Drives in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-pixma-mg2522-printer-drivers-free-download-and-updates/"><u>Latest Canon PIXMA MG2522 Printer Drivers – Free Download & Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-how-to-launch-command-prompt-for-direct-folder-management/"><u>Quick How-To: Launch Command Prompt for Direct Folder Management</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-lava-blaze-curve-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Lava Blaze Curve 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-perfecting-your-photo-layouts-for-instagram/"><u>Step-by-Step Guide: Perfecting Your Photo Layouts for Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-recovery-of-accidentally-deleted-emails-in-googles-mail-service/"><u>Step-by-Step Recovery of Accidentally Deleted Emails in Google's Mail Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-how-to-unlink-gadgets-from-your-google-nest-hub/"><u>The Ultimate Tutorial on How to Unlink Gadgets From Your Google Nest Hub</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-solutions-when-your-usb-tethering-fails/"><u>Troubleshooting Guide: Solutions When Your USB Tethering Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-overcoming-challenges-when-your-dhcp-server-is-offline/"><u>Understanding and Overcoming Challenges When Your DHCP Server Is Offline</u></a></li>
 </ul></div>
 

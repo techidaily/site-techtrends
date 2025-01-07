@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2024-12-20T20:53:58.389Z
-updated: 2024-12-22T20:31:54.367Z
+date: 2025-01-05T04:21:39.385Z
+updated: 2025-01-06T22:20:10.804Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -29,15 +29,7 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -51,7 +43,7 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reply to Email
@@ -62,7 +54,7 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
@@ -79,6 +71,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -91,7 +87,7 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -125,6 +121,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Go to Drafts (G, then D)** : Press the**G** key, then press**D** to see your message drafts.
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to View All Gmail Shortcuts
 
@@ -163,20 +163,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>[New] 2024 Approved Audio Alchemy Selecting Melodies that Enhance Boxings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>[New] 2024 Approved Perfect Virtual Screens Choosing Best Meet Backgrounds</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>[Updated] In 2024, Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-vanguard-visuals-ideal-notebooks-for-4k-editors-needs-for-2024/"><u>[Updated] Vanguard Visuals Ideal Notebooks for 4K Editors' Needs for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-12-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 12</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aster-app/"><u>EditMaster App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-error-why-your-iphone-wont-pair-with-itunes-invalid-response-issue/"><u>Fixing the Error: Why Your iPhone Won't Pair with iTunes (Invalid Response Issue)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-fixing-hard-drive-issues-in-windows-10-a-step-by-step-tutorial/"><u>Guide to Fixing Hard Drive Issues in Windows 10: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-enable-and-use-compatibility-mode-for-legacy-software-on-windows-11/"><u>How to Enable and Use Compatibility Mode for Legacy Software on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-toggle-browser-cookie-settings-in-windows-11-a-step-by-step-guide-for-chrome-firefox-opera-and-edge/"><u>How to Toggle Browser Cookie Settings in Windows 11: A Step-by-Step Guide for Chrome, Firefox, Opera & Edge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-steams-share-feature-a-comprehensive-walkthrough/"><u>Mastering Steam's Share Feature: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-your-frame-rate-essential-tips-for-enhancing-fps-in-the-game-of-rust/"><u>Maximizing Your Frame Rate: Essential Tips for Enhancing FPS in the Game of Rust</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-guide-capturing-a-screen-image-effortlessly-in-windows/"><u>Quick Guide: Capturing a Screen Image Effortlessly in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/trending-memes-galore-unique-themes-for-any-event/"><u>Trending Memes Galore Unique Themes for Any Event</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/howcase-your-brand-with-our-50-free-youtube-banners-for-2024/"><u>[New] Showcase Your Brand with Our 50 Free YouTube Banners for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-comprehensive-handbook-for-expert-srt-making-for-2024/"><u>A Comprehensive Handbook for Expert SRT Making for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/clearing-out-clones-a-guide-to-eliminating-redundant-files-on-android-phones-and-tablets/"><u>Clearing Out Clones: A Guide to Eliminating Redundant Files on Android Phones & Tablets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converti-gif-a-webm-senza-costi-direttamente-su-movavi-web/"><u>Converti GIF a WEBM Senza Costi Direttamente Su Movavi Web</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-transformation-from-webp-images-to-jpeg-format-using-movavi-image-editor/"><u>Effortless Transformation From WebP Images to JPEG Format Using Movavi Image Editor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-converter-vrije-audiovisualien-geavanceerd-aiff-naar-avi-movavi/"><u>Gratis Converter Vrije Audiovisualien: Geavanceerd AIFF Naar AVI - MOVAVI</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fanfare-gaming-patch/"><u>In 2024, Fanfare Gaming Patch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams/"><u>In 2024, Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-the-waters-unveiling-the-features-of-jackerys-innovative-ac-outlet-battery-pack/"><u>Testing the Waters: Unveiling the Features of Jackery's Innovative AC Outlet Battery Pack</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-comprehensive-step-by-step-to-installing-amd-radeon-rx-590-drivers-on-pcs-with-windows-operating-system/"><u>The Comprehensive Step-by-Step to Installing AMD Radeon RX 590 Drivers on PCs with Windows Operating System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-gif-in-3gp-rapidamente-e-gratis-lefficiente-metodo-online-di-movavi/"><u>Trasforma I Tuoi GIF in 3GP Rapidamente E Gratis: L'Efficiente Metodo Online Di Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-transferring-cd-music-to-mp3-files-successfully/"><u>Ultimate Guide to Transferring CD Music to MP3 Files Successfully</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
-date: 2024-12-25T16:00:23.225Z
-updated: 2024-12-28T16:03:57.821Z
+date: 2025-01-04T20:40:19.670Z
+updated: 2025-01-06T22:30:48.970Z
 categories:
   - BestProducts
 description: This Article Describes Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
@@ -17,7 +17,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ## Emphasizing the Tutorial Aspect and Inclusivity of Various Windows Versions Indicates a Detailed Walkthrough Which Can Attract Learners
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -40,11 +40,11 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -52,17 +52,21 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -96,7 +100,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -110,10 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -159,18 +159,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-6-must-visit-destinations-for-top-notch-youtube-branding-elements/"><u>[Updated] 2024 Approved 6 Must-Visit Destinations For Top-Notch YouTube Branding Elements</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>2024 Approved Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-one-device-live-broadcast-mastery-easy-steps-to-success/"><u>2024 Approved One-Device LIVE Broadcast Mastery Easy Steps to Success</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-vivo-s18-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo S18 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722900909463-easy-steps-to-type-a-love-heart-emoji-with-just-your-keyboard/"><u>Easy Steps to Type a Love Heart Emoji with Just Your Keyboard!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-honor-magic-5-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Honor Magic 5 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-users-manual-how-to-access-contents-of-rar-files-easily/"><u>MacOS Users' Manual: How to Access Contents of RAR Files Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-realme-c67-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Realme C67 5G.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/securing-email-with-gmails-two-step-verification-process-explained/"><u>Securing Email with Gmail's Two-Step Verification Process Explained</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95816993-9781547502813-smetti-di-essere-un-perdente-11-cambiamenti-in-21-giorni-per-vivere-nelleccellenza/"><u>Smetti di essere un perdente. 11 cambiamenti in 21 giorni per vivere nell'eccellenza, | Free Book</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/strategic-hashtag-application-for-greater-instagram-traction-for-2024/"><u>Strategic Hashtag Application for Greater Instagram Traction for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-uncovering-eliminated-contacts-in-your-phonebook-on-android-devices/"><u>The Ultimate Guide to Uncovering Eliminated Contacts in Your Phonebook on Android Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-to-correcting-missing-d3dx930dll-errors/"><u>The Ultimate Solution to Correcting Missing d3dx9_30.dll Errors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unraveling-facebooks-latest-hits-a-rundown-of-top-vids-for-2024/"><u>[New] Unraveling Facebook's Latest Hits A Rundown of Top Vids for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-a-secondary-email-address-on-gmail-the-ultimate-walkthrough/"><u>Creating a Secondary Email Address on Gmail: The Ultimate Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-worlds-best-hidden-travel-treasures-with-insights-from-66-influential-tweeters-on-deals-recommendations-and-excursions/"><u>Discover the World's Best Hidden Travel Treasures with Insights From 66 Influential Tweeters on Deals, Recommendations & Excursions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-camon-20-premier-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Camon 20 Premier 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-playlists-reconfigured-step-by-step-instructions/"><u>In 2024, YouTube Playlists Reconfigured Step-by-Step Instructions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/roku-support-guide-how-to-activate-subtitles/"><u>Roku Support Guide: How to Activate Subtitles</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/stunning-key-lime-pie-inspired-backdrops-and-digital-artwork-by-yl-computings-design-collection/"><u>Stunning Key Lime Pie-Inspired Backdrops & Digital Artwork by YL Computing's Design Collection</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/synology-cloud-sync-issue-resolved-all-files-no-longer-missing/"><u>Synology Cloud Sync Issue Resolved - All Files No Longer Missing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-one-display-woes-heres-how-you-can-fix-the-notorious-no-signal-error/"><u>Xbox One Display Woes? Here’s How You Can Fix the Notorious 'No Signal' Error!</u></a></li>
 </ul></div>
 

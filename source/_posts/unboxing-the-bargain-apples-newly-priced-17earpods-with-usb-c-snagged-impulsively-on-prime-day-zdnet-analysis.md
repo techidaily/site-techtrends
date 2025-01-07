@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis"
-date: 2024-12-16T00:23:55.624Z
-updated: 2024-12-22T18:37:28.803Z
+date: 2025-01-05T18:20:29.164Z
+updated: 2025-01-07T02:07:27.084Z
 tags:
   - apple
 categories:
@@ -56,7 +56,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -66,7 +66,7 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (mid-tier) if...
@@ -74,7 +74,7 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -86,7 +86,7 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -100,7 +100,7 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -137,24 +137,15 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-facebook-video-success-key-strategies-revealed/"><u>[Updated] 2024 Approved Unlocking Facebook Video Success Key Strategies Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-for-social-media-savvy-content-sharers-for-2024/"><u>[Updated] Guide for Social Media Savvy Content Sharers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-discovering-the-forgotten-chronicles-a-guide-to-past-facebook-stories-on-tech-devices/"><u>2024 Approved Discovering The Forgotten Chronicles A Guide to Past Facebook Stories on Tech Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/effortless-conversion-free-software-for-changing-powerpoint-presentations-into-flash-swf-files/"><u>Effortless Conversion: Free Software for Changing PowerPoint Presentations Into Flash (.swf) Files</u></a></li>
-<li><a href="https://article-helps.techidaily.com/evaluating-the-value-of-sns-hdr-in-a-crowded-market/"><u>Evaluating the Value of SNS HDR in a Crowded Market</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone XR?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-video-zoom-editing-cutting-edge-tools-listed/"><u>Pro Video Zoom Editing Cutting Edge Tools Listed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/quick-reference-guide-to-screencastifys-tools-for-2024/"><u>Quick Reference Guide to Screencastify's Tools for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-to-determine-your-nvidia-graphics-cards-current-driver-software/"><u>Simple Steps to Determine Your NVIDIA Graphics Card's Current Driver Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-overlap-camera-error-code-0xa00f4243-on-windows/"><u>Solving Overlap Camera Error Code 0xA00F4243 on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-easily-distribute-ps4-games-amongst-pals-in-202atury/"><u>Step-by-Step Guide: How to Easily Distribute PS4 Games Amongst Pals in 202Atury</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-identifying-and-viewing-installed-applications-in-windows/"><u>Step-by-Step Tutorial: Identifying and Viewing Installed Applications in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-game-sharing-via-steam-get-started-today/"><u>The Ultimate Tutorial for Game Sharing via Steam - Get Started Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-setting-up-and-resolving-issues-with-miracast-on-windows-1011/"><u>Troubleshooting Guide: Setting Up and Resolving Issues with Miracast on Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-resolving-cold-war-fps-issues-and-stutters-in-pc-games/"><u>Ultimate Guide to Resolving Cold War FPS Issues & Stutters in PC Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-ultimate-csgo-speed-top-strategies-for-optimizing-frames-per-second-fps/"><u>Unlock Ultimate CS:GO Speed: Top Strategies for Optimizing Frames Per Second (FPS)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-isnt-my-logitech-mouse-working-step-by-step-fix-guide/"><u>Why Isn't My Logitech Mouse Working? Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-find-user-guides-for-all-iphone-models/"><u>Comprehensive Guide: How To Find User Guides For All iPhone Models</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps-for-2024/"><u>Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-resolution-what-to-do-when-you-cant-find-ftd2xxdll-on-your-computer/"><u>Error Resolution: What to Do When You Can't Find ftd2xx.dll on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nubia-red-magic-9-proplus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nubia Red Magic 9 Pro+ Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-a-laptop-battery-that-wont-charge/"><u>Quick Solutions for a Laptop Battery That Won't Charge</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-access-to-wacom-driver-installation-get-your-free-download-now/"><u>Speedy Access to Wacom Driver Installation – Get Your Free Download Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-re-register-bluetooth-in-pcs-device-manager/"><u>Steps to Re-Register Bluetooth in PC's Device Manager</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-system-files-fix-procpsdll-errors-today/"><u>Troubleshooting the 'Missing System Files': Fix Procps.dll Errors Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-does-my-car-battery-consistently-lose-charge-uncovering-the-top-six-reasons-behind-this-issue/"><u>Why Does My Car Battery Consistently Lose Charge? Uncovering the Top Six Reasons Behind This Issue</u></a></li>
 </ul></div>
 

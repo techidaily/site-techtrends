@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2024-12-27T16:31:59.040Z
-updated: 2024-12-28T16:20:04.839Z
+date: 2025-01-05T17:39:32.683Z
+updated: 2025-01-06T23:19:45.969Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,6 +37,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -63,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +99,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -113,10 +117,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,21 +158,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-essential-iphones-podcast-tools-ranked-5-for-2024/"><u>[New] Essential iPhones Podcast Tools Ranked #5 for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/astering-the-monetized-space-a-buyers-primer/"><u>[New] Mastering the Monetized Space A Buyer's Primer</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-harmonizing-audio-and-visuals-in-vimeo-media/"><u>[Updated] Harmonizing Audio and Visuals in Vimeo Media</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortless-video-creation-learn-basic-edits-on-vimeo-for-free/"><u>2024 Approved Effortless Video Creation Learn Basic Edits on Vimeo for Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movmp4mac-windows-11/"><u>無需付費的MOV到MP4格式转换解决方案：Mac和 Windows 11支持</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-lista-dos-10-aplicativos-mais-populares-para-copia-e-ripagem-de-dvds-sem-custo-algum/"><u>A Lista Dos 10 Aplicativos Mais Populares Para Cópia E Ripagem De DVDs Sem Custo Algum</u></a></li>
-<li><a href="https://techtrends.techidaily.com/h265-en-h264-gratuite-solution-adaptee-pour-windows-macos-et-linux/"><u>H.265 En H.264 Gratuite : Solution Adaptée Pour Windows, macOS Et Linux</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-mastering-stills-extraction-in-windows-11-photos/"><u>In 2024, Mastering Stills Extraction in Windows 11 Photos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/massive-discount-secure-your-complete-winx-media-suite-with-75-off-access-high-quality-dvd-ripping-and-video-editing-tools-now/"><u>Massive Discount: Secure Your Complete WinX Media Suite with 75% Off - Access High-Quality DVD Ripping and Video Editing Tools Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-hp-cyber-savings-event-unveiled-secure-laptops-monitors-and-more-at-astounding-discounts-up-to-71-off/"><u>Massive HP Cyber Savings Event Unveiled! Secure Laptops, Monitors & More at Astounding Discounts Up to 71% Off!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-fifa-18-professionelle-spieltechniken-fur-xbox-und-den-pc-windows-10-analysiert/"><u>Mastering FIFA 18: Professionelle Spieltechniken Für Xbox Und Den PC (Windows 10) Analysiert</u></a></li>
-<li><a href="https://techtrends.techidaily.com/speed-up-your-media-transform-videos-and-audio-in-a-flash-using-winxvideo-ais-gpu-acceleration/"><u>Speed Up Your Media: Transform Videos & Audio in a Flash Using Winxvideo AI's GPU Acceleration</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-mix-fold-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Mix Fold 3 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-vintage-memories-with-winxvideo-ai-instant-ways-to-add-colors-to-classic-pictures/"><u>Transform Your Vintage Memories with Winxvideo AI: Instant Ways to Add Colors to Classic Pictures!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-the-leading-pc-based-video-editors-in-the-market-today/"><u>Ultimate Guide: The Leading PC-Based Video Editors in the Market Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-closer-inspection-pro-tips-for-pixelated-play/"><u>[New] Closer Inspection Pro Tips for Pixelated Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dial-back-unrequested-youtube-recommendations/"><u>[Updated] 2024 Approved Dial Back Unrequested YouTube Recommendations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/audiovisual-snapshots-made-easy/"><u>Audiovisual Snapshots Made Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-error-code-800-in-vpn-setups-for-clients-and-servers-best-practices/"><u>Diagnosing and Repairing Error Code 800 in VPN Setups for Clients and Servers: Best Practices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722866255415-exploring-the-samsung-galaxy-z-flip-6-find-out-about-its-pricing-release-date-and-innovative-features/"><u>Exploring the Samsung Galaxy Z Flip 6 - Find Out About Its Pricing, Release Date & Innovative Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-nvme-controller-drivers-for-windows-systems/"><u>How to Get the Latest NVMe Controller Drivers for Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-grab-a-full-picture-of-your-work-screenshots-on-hp-systems-explained/"><u>How to Grab a Full Picture of Your Work: Screenshots on HP Systems Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v29-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V29 Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streaming-mastery-zoom-plus-fb-live-tactics/"><u>In 2024, Streaming Mastery ZOOM + FB Live Tactics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-s18-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo S18 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-the-value-proposition-for-ea-play/"><u>Inquiring About the Value Proposition for EA Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-ipados-a-detailed-walkthrough-of-each-software-release/"><u>Mastering iPadOS: A Detailed Walkthrough of Each Software Release</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-with-toms-hardware-insights-and-advice/"><u>Navigating Tech Choices with Tom's Hardware Insights & Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-powerpoint-playback-sounds-issues/"><u>Step-by-Step Fixes for PowerPoint Playback Sounds Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unlocking-mac-files-with-unverified-developers/"><u>Troubleshooting: Unlocking Mac Files with Unverified Developers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncovering-concealed-apps-on-your-iphone-easy-steps-inside/"><u>Uncovering Concealed Apps on Your iPhone: Easy Steps Inside</u></a></li>
 </ul></div>
 

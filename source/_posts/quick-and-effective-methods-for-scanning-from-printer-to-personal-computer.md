@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2024-12-26T16:09:14.560Z
-updated: 2024-12-28T16:23:05.664Z
+date: 2025-01-06T05:44:11.012Z
+updated: 2025-01-07T04:52:32.620Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 ## Master the Art of Transferring Printouts to Computers Without Hassle
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * In Windows, go to**Start** \>**Scan** \>**Settings** \>**Devices** \>**Printers & Scanners** .
@@ -29,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
  This article explains how to capture a document scan from a printer to your Windows PC or Mac. These instructions will work on Windows 10, as well as macOS 11 (Big Sur). The instructions require that the drivers are installed and your printer is already in working order.
 
 ![Scanning a Document Using a Flatbed Scanner](https://www.lifewire.com/thmb/4ttTzWS9kaWy0rhmgoB3ZRzAwXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-1-97c5bf309a29400a92d8ba96f4af302b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 lolostock / Getty Images
 
@@ -43,6 +43,10 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
@@ -51,7 +55,7 @@ lolostock / Getty Images
 6. Click on your desired printer, then click**Manage** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
@@ -63,17 +67,9 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
@@ -89,11 +85,15 @@ lolostock / Getty Images
 14. Click**Open Scanner** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
@@ -104,7 +104,7 @@ lolostock / Getty Images
 19. Click**Scan** to start your scanning job.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -145,24 +145,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>[New] In 2024, Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-updated-youtube-income-guidelines/"><u>[New] In 2024, Updated YouTube Income Guidelines</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unbeatable-freebie-subtitle-services-our-top-picks/"><u>[New] Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-understanding-ios-video-recording/"><u>[Updated] Understanding iOS Video Recording</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-come-digitalizzare-le-tue-migliori-memorie-dai-vhs-al-dvd-in-pochi-e-facili-passaggi/"><u>1. Come Digitalizzare Le Tue Migliori Memorie: Dai VHS Al DVD in Pochi E Facili Passaggi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/10-effiziente-methoden-zur-hochwertigen-konvertierung-von-ts-dateien-ins-mp4-format/"><u>10 Effiziente Methoden Zur Hochwertigen Konvertierung Von TS-Dateien Ins MP4 Format</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flairful-imagery-best-android-collages-unveiled/"><u>2024 Approved Flairful Imagery – Best Android Collages Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725287091246-digiartistry/"><u>協助您連接 DigiArtistry - 最佳線上合作解決方案</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210404499-9781646547227-all-shades-between/"><u>All Shades Between | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nubia-z50s-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nubia Z50S Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-sky-vistas-in-hd-mi-drone-review/"><u>Discovering Sky Vistas in HD Mi Drone Review</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-honor-magic-v2-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Magic V2 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolution-des-problemes-handbrake-ne-fonctionne-pas-sous-windows-11-solutions-et-alternatives/"><u>Résolution Des Problèmes: Handbrake Ne Fonctionne Pas Sous Windows 11 - Solutions Et Alternatives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/strategie-rapide-come-masterare-limmaggio-e-la-conservazione-dei-dvd-su-windows-and-macos/"><u>Strategie Rapide: Come Masterare L'Immaggio E La Conservazione Dei DVD Su Windows & macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-beginners-guide-to-the-5-highest-ranking-vlogging-cameras-on-the-market-today/"><u>The Ultimate Beginners' Guide to the 5 Highest-Ranking Vlogging Cameras on the Market Today</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-raspberry-pi-starter-packs-your-comprehensive-guide/"><u>Top-Rated Raspberry Pi Starter Packs : Your Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-choosing-the-right-mkv-to-mp4-video-converter-across-desktop-and-cloud-services-for-windows-and-macos-users/"><u>Ultimate Guide: Choosing the Right MKV to MP4 Video Converter Across Desktop and Cloud Services for Windows & macOS Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wie-spielt-man-region-kompatible-dvds-auf-der-wiiwii-u-zwei-effektive-ansatze-aktualisiert-fur-2023/"><u>Wie Spielt Man Region-Kompatible DVDs Auf Der Wii/Wii U? - Zwei Effektive Ansätze Aktualisiert Für 2023</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725290516070-winx-dvd-author/"><u>WinX DVD Authorが危険な理由 - ユーザーレビューと正しい操作ガイド</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-your-content-strategy-prime-video-rank-monitors/"><u>[New] 2024 Approved Elevate Your Content Strategy Prime Video Rank Monitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water-for-2024/"><u>[New] Sea Dwellers in Focus Tips for Shooting Stunning GoPro Video Below Water for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-easy-youtube-video-ideas-everyone-can-make-it-for-2024/"><u>[Updated] 10 Easy YouTube Video Ideas Everyone Can Make It for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-2023-checklist-for-camstudio-video-recording/"><u>[Updated] In 2024, The Ultimate 2023 Checklist for CamStudio Video Recording</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-internet-setup-highest-quality-cable-modems-and-routers-of-202n4/"><u>Best Internet Setup: Highest-Quality Cable Modems & Routers of 202N4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-apple-watches-eligible-for-upgrade-to-watchos-11-understanding-compatibility-and-exclusions/"><u>Comprehensive List of Apple Watches Eligible for Upgrade to WatchOS 11: Understanding Compatibility and Exclusions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/delving-into-cutting-edge-technology-a-journey-through-toms-hardware-world/"><u>Delving Into Cutting-Edge Technology - A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-accurate-medical-information-strategies-to-validate-health-claims-from-ai-and-chatgpt-services/"><u>Ensuring Accurate Medical Information: Strategies to Validate Health Claims From AI and ChatGPT Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-an-iphone-that-isnt-ringing-quick-solutions-and-tips/"><u>Fix an iPhone That Isn't Ringing - Quick Solutions and Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-revival-tips-how-to-reactivate-your-account-quickly/"><u>Snapchat Revival Tips: How to Reactivate Your Account Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-mechanics-of-an-electric-bike-a-comprehensive-guide/"><u>Understanding the Mechanics of an Electric Bike: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-20cs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Spark 20Cs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-pixel-watch-series-4-anticipated-features-and-potential-launch-timeline-what-we-know-so-far/"><u>Upcoming Google Pixel Watch Series 4: Anticipated Features & Potential Launch Timeline – What We Know So Far</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2024-12-25T16:26:40.468Z
-updated: 2024-12-28T16:15:01.170Z
+date: 2025-01-01T19:45:51.084Z
+updated: 2025-01-06T19:19:01.462Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,19 +119,18 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-create-professional-valorant-thumbnails-in-no-time/"><u>[Updated] 2024 Approved Create Professional Valorant Thumbnails in No Time</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-compreran-a-deep-dive-into-the-logitech-4k-pro-webcam/"><u>[Updated] Compreran a Deep Dive Into the Logitech 4K Pro Webcam</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-tactics-for-success-in-instagrams-video-discussions/"><u>[Updated] Essential Tactics for Success in Instagram's Video Discussions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-architectural-wonders-top-6-sleek-mc-homes/"><u>[Updated] In 2024, Architectural Wonders Top 6 Sleek MC Homes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descargue-este-trato-gratis-conversion-sencilla-de-archivo-h2email-protected-a-email-protected-en-tamano-compacto-sin-sacrificar-la-claridad/"><u>Descargue Este Trato Gratis: Conversión Sencilla De Archivo H.2([email Protected]) a ([Email Protected]) en Tamaño Compacto Sin Sacrificar La Claridad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd-duplication-guide-how-to-copy-drm-protected-dvds-on-mac-using-winx-dvd-ripper/"><u>DVD Duplication Guide - How to Copy DRM-Protected DVDs on Mac Using WinX DVD Ripper</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-integrating-libdvdcss-into-handbrake-for-macos-and-windows-operating-systems-version-11/"><u>Step-by-Step Tutorial for Integrating Libdvdcss Into Handbrake for macOS and Windows Operating Systems (Version 11)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-immersion-guide-to-lgs-360-vr-headset-for-2024/"><u>The Ultimate Immersion Guide to LG's 360 VR Headset for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-10-casual-pursuits-away-from-sports-fields-for-2024/"><u>Top 10 Casual Pursuits Away From Sports Fields for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-durable-laptop-picks-insiders-guide-by-zdnet/"><u>Top Durable Laptop Picks - Insider's Guide by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-content-top-5-techniques-to-upgrade-from-hd-to-ultra-hd-for-stunning-clarity/"><u>Transform Your Content: Top 5 Techniques to Upgrade From HD to Ultra HD for Stunning Clarity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixes-for-icloud-photo-synchronization-failures/"><u>Troubleshooting and Fixes for iCloud Photo Synchronization Failures</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-mini-marvel-a-comprehensive-look-at-xbox-series-s-specs-and-capabilities/"><u>Unveiling the Mini Marvel: A Comprehensive Look at Xbox Series S Specs and Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxdvd-ruckerstattungen-klare-richtlinien-bei-software-entschadigung-digiartis/"><u>WinXDVD Rückerstattungen - Klare Richtlinien Bei Software-Entschädigung | DigiArtis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>[New] In 2024, Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-color-correctors-handbook/"><u>2024 Approved The Ultimate Color Corrector's Handbook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-guide-accessing-hulu-through-your-lg-smart-tv/"><u>A Beginner's Guide: Accessing Hulu Through Your LG Smart TV</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-rumored-personal-household-robot-anticipated-pricing-scheduled-drop-and-technical-details-revealed/"><u>Apple's Rumored Personal Household Robot - Anticipated Pricing, Scheduled Drop, and Technical Details Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-the-elusive-steamdll-error-on-your-computer/"><u>Effective Fixes for the Elusive Steam.dll Error on Your Computer</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-web-performance-with-cookiebot-technology-a-seamless-experience/"><u>Enhance Web Performance with Cookiebot Technology: A Seamless Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a78-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A78 FRP Bypass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-the-secrets-to-efficient-image-capturing/"><u>In 2024, Unlocking the Secrets to Efficient Image Capturing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/queer-culture-unveiled-your-ultimate-guide-to-lgbtq-focused-series-on-netflix-july-2024-edition/"><u>Queer Culture Unveiled: Your Ultimate Guide to LGBTQ-Focused Series on Netflix (July 2024 Edition)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reattaching-lost-keycaps-a-comprehensive-walkthrough-for-laptops/"><u>Reattaching Lost Keycaps: A Comprehensive Walkthrough for Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-low-on-memory-warning-in-windows-11-systems/"><u>Troubleshooting the 'Low on Memory' Warning in Windows 11 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/which-monitoring-software-triumphs-for-live-streamers/"><u>Which Monitoring Software Triumphs for Live Streamers?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/44k944ol44o844kr44oh44op44gn5asx44kp44km44gf55s75yop44o75yuv55s744gu5zue5b6p5oml6acg77ya5luj5pu5pa55rov77ys44gk/"><u>ソニーカメラで失われた画像・動画の回復手順：代替方法２つ</u></a></li>
 </ul></div>
 

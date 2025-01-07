@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2024-12-18T22:29:51.378Z
-updated: 2024-12-22T20:55:47.058Z
+date: 2025-01-04T03:36:44.163Z
+updated: 2025-01-06T21:19:40.730Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -109,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -122,6 +118,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -132,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,21 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-10-best-flash-and-fly-player-for-pc-and-mobile-for-2024/"><u>[New] 10 Best Flash and Fly Player for PC and Mobile for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-10-de-stress-fun-titles-for-playtime/"><u>[New] 2024 Approved Best 10 De-Stress Fun Titles for Playtime</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-advanced-features-in-obs-studio-android/"><u>[Updated] 2024 Approved Navigating Advanced Features in OBS Studio (Android)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-kodi-remote-x-wmps-easy-alternative/"><u>2024 Approved Kodi Remote X WMP's Easy Alternative</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-wit-workshop-do-computers-learn-to-chuckle/"><u>AI's Wit Workshop: Do Computers Learn to Chuckle?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-transforming-yourself-into-an-expert-video-editor/"><u>Essential Steps: Transforming Yourself Into an Expert Video Editor</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-issue-how-to-speed-up-a-sluggish-pc-that-frequently-crashes/"><u>Fixing the Issue: How to Speed Up a Sluggish PC That Frequently Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fortnite-mouse-sensitivity-solved/"><u>Fortnite Mouse Sensitivity [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hdmi-to-dvi-with-audio-connect-your-laptop-to-your-desktop/"><u>HDMI to DVI with Audio: Connect Your Laptop to Your Desktop</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-ethereums-turing-complete-language-solidity-facilitates-complex-decentralized-applications/"><u>How Ethereum's Turing-Complete Language (Solidity) Facilitates Complex Decentralized Applications</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-block-steams-startup-routine/"><u>How to Block Steam's Startup Routine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-open-control-panel-in-windows-8/"><u>How to Easily Open Control Panel in Windows 8</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-get-help-in-windows-10-easily/"><u>How to Get Help in Windows 10. Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-install-netflix-addon-for-kodi-ultimate-guide/"><u>How to Install Netflix Addon for Kodi - Ultimate Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-pinnacle-playbook-perfecting-the-art-of-live-thumbnail-design/"><u>In 2024, The Pinnacle Playbook Perfecting the Art of Live Thumbnail Design</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/vuephoto-ai-enhancement-showcase/"><u>VuePhoto AI Enhancement Showcase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>[New] 2024 Approved Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-file-transfer-the-ultimate-windows-and-mac-downloading-path/"><u>[New] In 2024, Mastering File Transfer The Ultimate Windows & Mac Downloading Path</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>[New] In 2024, Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-podcast-seo-skyrocketing-your-popularity/"><u>[New] Mastering Podcast SEO Skyrocketing Your Popularity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-effective-methods-for-transferring-youtube-videos-to-the-social-network/"><u>[Updated] Effective Methods for Transferring YouTube Videos to the Social Network</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unrivaled-streaming-experience-ranking-the-leaders/"><u>[Updated] Unrivaled Streaming Experience Ranking the Leaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-asus-proart-4k-ultra-a-pro-artists-dream-display/"><u>2024 Approved ASUS ProArt 4K Ultra A Pro Artist's Dream Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-tutorial-creating-an-oculus-questquest-2-user-profile/"><u>Beginner's Tutorial: Creating an Oculus Quest/Quest 2 User Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-communication-seamlessly-a-guide-to-using-google-duo-on-gmail/"><u>Enhancing Communication Seamlessly: A Guide to Using Google Duo on Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-enable-two-step-verification-on-your-icloud-email-for-added-security/"><u>How to Enable Two-Step Verification on Your iCloud Email for Added Security</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-boost-ps5-capacity-by-fitting-in-an-additional-solid-state-drive/"><u>How to Successfully Boost PS5 Capacity by Fitting in an Additional Solid State Drive</u></a></li>
+<li><a href="https://techtrends.techidaily.com/linking-several-bluetooth-audio-players-to-a-single-source-a-step-by-step-guide/"><u>Linking Several Bluetooth Audio Players to a Single Source: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/multi-channel-management-how-many-youtube-accounts-can-one-own/"><u>Multi-Channel Management: How Many YouTube Accounts Can One Own?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mystery-unveiled-latest-leaks-on-the-upcoming-m4-mac-minis-hardware-specs-expected-release-and-pricing-range/"><u>Mystery Unveiled: Latest Leaks on the Upcoming M4 Mac Mini's Hardware Specs, Expected Release and Pricing Range</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-mobile-platforms-for-enhanced-dji-cinematography-for-2024/"><u>Premier Mobile Platforms for Enhanced DJi Cinematography for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-watch-7-details-unpacking-its-price-tag-availability-and-cutting-edge-specs/"><u>Samsung Galaxy Watch 7 Details: Unpacking Its Price Tag, Availability, and Cutting-Edge Specs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-and-correcting-corrupted-hdmv-files-in-handbrake-for-perfect-playback/"><u>Troubleshooting and Correcting Corrupted HDMV Files in Handbrake for Perfect Playback</u></a></li>
 </ul></div>
 

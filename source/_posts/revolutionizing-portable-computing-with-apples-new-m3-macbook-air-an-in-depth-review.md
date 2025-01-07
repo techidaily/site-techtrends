@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2024-12-26T16:24:42.505Z
-updated: 2024-12-28T16:02:49.431Z
+date: 2025-01-04T16:16:08.817Z
+updated: 2025-01-06T19:31:29.670Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -49,7 +45,7 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -76,7 +72,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -84,6 +80,10 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -156,7 +156,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,20 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-secret-to-striking-visuals-optimal-video-aspect-ratios/"><u>[New] The Secret to Striking Visuals Optimal Video Aspect Ratios</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cut-the-cord-with-youtube-mp3-conversion-tools/"><u>[Updated] 2024 Approved Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tips-for-sharper-images-on-google-meet-calls/"><u>2024 Approved Top Tips for Sharper Images on Google Meet Calls</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-unlocking-youtubes-monetization-secrets-for-successful-crews/"><u>2024 Approved Unlocking YouTube’s Monetization Secrets for Successful Crews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cant-pick-up-the-line-fixing-call-response-problems-on-your-samsung-galaxy-watch/"><u>Can't Pick Up the Line? Fixing Call Response Problems on Your Samsung Galaxy Watch</u></a></li>
-<li><a href="https://discover-help.techidaily.com/efficient-methods-for-moving-images-from-your-iphone-to-windows-or-mac/"><u>Efficient Methods for Moving Images From Your iPhone to Windows or Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-steps-for-enabling-webcam-conferencing-in-windows-with-zoom/"><u>Expert Steps for Enabling Webcam Conferencing in Windows with Zoom</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-world-of-superman-a-comprehensive-ordered-list-for-a-perfect-movie-marathon-experience/"><u>Explore the World of 'Superman': A Comprehensive Ordered List for a Perfect Movie Marathon Experience</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-everything-about-final-cut-pro-90-days-free-trial-here/"><u>New In 2024, Everything About Final Cut Pro 90 Days FREE Trial Here</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snappy-driver-installer-version-113-comprehensive-review/"><u>Snappy Driver Installer Version 1.13: Comprehensive Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-the-new-samsung-galaxy-watch-7-what-you-need-to-know-about-pricing-and-specs/"><u>The Comprehensive Guide to the New Samsung Galaxy Watch 7: What You Need To Know About Pricing and Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-list-of-32-no-cost-data-backup-apps-rated-and-critiqued/"><u>Ultimate List of 32 No-Cost Data Backup Apps, Rated & Critiqued</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-system-with-new-drivers-gtx-1650-super-support-for-windows-operating-systems/"><u>Update Your System with New Drivers: GTX 1650 Super Support for Windows Operating Systems</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-final-cut-pros-greatest-hits-10-memorable-movies-for-2024/"><u>Updated Final Cut Pros Greatest Hits 10 Memorable Movies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-accessible-stopwatch-services/"><u>[New] Premium Accessible Stopwatch Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-live-broadcasting-bliss-comprehensive-list-of-hardware-and-software-for-successful-streams/"><u>[Updated] Live Broadcasting Bliss Comprehensive List of Hardware & Software for Successful Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-final-word-on-vegaspro-2019/"><u>[Updated] The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>2024 Approved The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-users-handbook-for-zd-softs-screen-recorder/"><u>2024 Approved Ultimate User’s Handbook for ZD Soft's Screen Recorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-msxml4dll-not-found-or-missing-errors/"><u>How to Fix Msxml4.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ballad-bliss-songs-that-score-big-on-will-you-questions/"><u>In 2024, Ballad Bliss Songs that Score Big on 'Will You?' Questions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-creative-power-of-youtube-themes/"><u>In 2024, Unlock Creative Power of YouTube Themes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-successful-webcam-driver-upgrades-on-windows-10/"><u>Step-by-Step Instructions for Successful Webcam Driver Upgrades on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-viewing-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Instructions on Viewing and Sharing 2024 Summer Olympics Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-swift-and-expensive-adventure-with-swagtrons-swagboard-t1-roller-skate-review/"><u>The Swift and Expensive Adventure with Swagtron's Swagboard T1 Roller Skate Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-5-premium-zero-fee-voip-services-for-international-dialing/"><u>The Ultimate List: 5 Premium Zero-Fee VoIP Services for International Dialing</u></a></li>
 </ul></div>
 

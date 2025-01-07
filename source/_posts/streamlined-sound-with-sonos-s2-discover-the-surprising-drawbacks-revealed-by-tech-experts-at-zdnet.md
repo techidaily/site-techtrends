@@ -1,7 +1,7 @@
 ---
 title: Streamlined Sound with Sonos S2? Discover the Surprising Drawbacks Revealed by Tech Experts at ZDNet
-date: 2024-12-17T01:15:14.026Z
-updated: 2024-12-23T00:05:58.520Z
+date: 2025-01-05T05:19:45.127Z
+updated: 2025-01-06T22:44:42.307Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -44,11 +44,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -67,7 +75,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -77,7 +85,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -89,10 +97,6 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -107,10 +111,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,21 +154,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unleash-humor-kapwings-meme-crafting-app/"><u>[New] 2024 Approved Unleash Humor Kapwing's Meme Crafting App</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-experts-picks-top-11-mac-applications-for-screen-capture-for-2024/"><u>[New] Expert's Picks Top 11 Mac Applications for Screen Capture for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-recipe-realms-stepwise-food-videography/"><u>[Updated] Recipe Realms Stepwise Food Videography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024-guide-identifying-and-dodging-phishing-scams-in-emails/"><u>2024 Guide: Identifying and Dodging Phishing Scams in Emails</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme Phone When You Forget the Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808162820-a-beginners-tutorial-to-fresh-video-drivers-in-windows-11-no-hassle/"><u>A Beginner's Tutorial to Fresh Video Drivers in Windows 11 - No Hassle!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bluetooth-tethering-made-easy-a-comprehensive-guide-for-linking-your-android-device-to-a-laptop/"><u>Bluetooth Tethering Made Easy: A Comprehensive Guide for Linking Your Android Device to a Laptop</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-change-aiff-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change AIFF Files Into MP4 Format with Ease</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/optimieren-sie-ihre-datensicherheit-festplattenloschen-im-einklang-mit-milspec-dod-522022-m-auf-windows-systemen/"><u>Optimieren Sie Ihre Datensicherheit: Festplattenlöschen Im Einklang Mit MILSPEC DoD 5220.22-M Auf Windows Systemen</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-intel-chipset-compatibility-with-ws-11781-systems/"><u>Refresh Intel Chipset Compatibility with WS 11/7/8.1 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808185044-simple-steps-for-effortless-windows-cuh-8-screenshots-everything-you-need-to-know/"><u>Simple Steps for Effortless Windows Cuh 8 Screenshots - Everything You Need to Know!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-recipe-roundup-top-tiktok-dining-experiences-for-2024/"><u>The Recipe Roundup Top TikTok Dining Experiences for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-failed-startup-on-windows-10-a-step-by-step-solution-guide/"><u>Troubleshoot Failed Startup on Windows 10 - A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808242462-we-cant-sign-into-your-account-in-windows-10-solved/"><u>We Can't Sign Into Your Account in Windows 10 [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-graphics-card-do-i-have-5-easy-ways-to-find-out/"><u>What Graphics Card Do I Have? 5 Easy Ways to Find Out</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-10-update-assistant-what-is-it-and-how-to-uninstall-it/"><u>Windows 10 Update Assistant – What Is It and How to Uninstall It</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-innovative-imagery-the-art-of-digital-bending/"><u>[New] In 2024, Innovative Imagery The Art of Digital Bending</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-techniques-for-secure-and-quality-vimeo-recording-for-2024/"><u>[New] Innovative Techniques for Secure & Quality Vimeo Recording for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-da-mov-a-flv-online-con-movea/"><u>Conversione Gratuita Da MOV a FLV Online Con Movea</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-archivo-de-pelicula-ape-a-formato-ogg-sin-coste-guia-movilvi/"><u>Convertir Archivo De Película APE a Formato Ogg Sin Coste: Guía Móvilvi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-rise-and-reality-of-magix-paintbox/"><u>In 2024, The Rise and Reality of MAGIX Paintbox</u></a></li>
+<li><a href="https://techtrends.techidaily.com/issanlilar-arasindaki-yatirim-sistemleri-ve-nakliye-politikalari/"><u>İşsanlılar Arasındaki Yatırım Sistemleri Ve Nakliye Politikaları</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp3-naar-m4vm4r-omzetten-vrije-online-servie-veerkrachtig-movavi/"><u>MP3 Naar M4V/M4R Omzetten Vrije Online Servië - Veerkrachtig Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-3gp-mp4-movavi/"><u>Online 무료 강화: 3GP, MP4 이동을 위한 Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-art-of-hiding-while-livestreaming-on-instagram-for-2024/"><u>The Art of Hiding While Livestreaming on Instagram for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/the-ultimate-guide-to-the-cherry-xtrfy-k5v2-keyboard-a-review-on-cutting-edge-red-switch-performance/"><u>The Ultimate Guide to the Cherry XTRFY K5V2 Keyboard - A Review on Cutting-Edge Red Switch Performance</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719281206376-win11-printer-woes-solutions-here/"><u>Win11 Printer Woes? Solutions Here!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2024-12-26T16:10:44.662Z
-updated: 2024-12-28T16:26:36.331Z
+date: 2025-01-05T02:38:13.822Z
+updated: 2025-01-06T22:55:14.681Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -52,6 +52,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -59,6 +63,10 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -69,7 +77,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -77,10 +85,6 @@ On the other hand, Apple "later this year" will enable you to create displays wi
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -100,10 +104,6 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -115,7 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -171,16 +171,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/aster-visual-effects-discover-youtubes-green-screen-treasure-for-2024/"><u>[New] Master Visual Effects Discover YouTube’s Green Screen Treasure for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-meringue-movie-magic-step-by-step-guide-to-ice-cream-capture/"><u>In 2024, Meringue Movie Magic Step-by-Step Guide to Ice Cream Capture</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-new-samsung-galaxy-s24-ultra-excessively-impressive/"><u>Is The New Samsung Galaxy S24 Ultra Excessively Impressive?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/launch-date-approaching-samsung-unveils-exciting-foldable-devices-on-july-10th/"><u>Launch Date Approaching: Samsung Unveils Exciting Foldable Devices on July 10Th</u></a></li>
-<li><a href="https://techtrends.techidaily.com/prevent-losing-years-of-messages-and-media-on-whatsapp-take-action-now/"><u>Prevent Losing Years of Messages & Media on WhatsApp - Take Action Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-watch-active-2-examined-an-exceptional-wearable-smart-device-with-minor-setbacks/"><u>Samsung Galaxy Watch Active 2 Examined: An Exceptional Wearable Smart Device with Minor Setbacks</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-downloading-your-favorite-zenith-vision-clips-effortlessly/"><u>Step-by-Step Guide: Downloading Your Favorite Zenith Vision Clips Effortlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/transforming-live-interactions-into-captivating-content-for-2024/"><u>Transforming Live Interactions Into Captivating Content for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-no-compatible-driver-found-on-rainbow-six-extraction-expert-tips-and-tricks/"><u>Troubleshooting 'No Compatible Driver Found' On Rainbow Six Extraction: Expert Tips and Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-ultimate-performance-with-best-video-controller-add-ons-for-2024/"><u>Unlock Ultimate Performance with Best Video Controller Add-Ons for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-the-release-of-high-frequency-1000hz-monitors-is-a-game-changer-top-3-reasons-to-be-thrilled/"><u>Why the Release of High-Frequency 1000Hz Monitors Is a Game Changer - Top 3 Reasons to Be Thrilled!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[New] From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-gain-extensive-engagement-master-the-view-multiplier-for-2024/"><u>[New] Gain Extensive Engagement Master the View Multiplier for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-experience-the-power-of-visuals-discover-all-50-banners-in-our-digital-collection/"><u>[New] In 2024, Experience the Power of Visuals Discover All 50 Banners in Our Digital Collection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pro-tips-securely-preserving-whatsapp-call-recordings/"><u>2024 Approved Pro Tips Securely Preserving WhatsApp Call Recordings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-must-know-insights-for-making-informed-choices-when-buying-stereo-speakers/"><u>5 Must-Know Insights for Making Informed Choices When Buying Stereo Speakers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-screens-and-keyboards-who-are-you-really-connecting-with-an-insight-into-dead-internet-phenomenon/"><u>Beyond Screens and Keyboards: Who Are You Really Connecting With? An Insight Into Dead Internet Phenomenon</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-levels-within-the-royal-match-saga/"><u>Deciphering the Levels Within the Royal Match Saga</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-sustainability-of-electric-vehicles-are-they-really-eco-friendly/"><u>Decoding the Sustainability of Electric Vehicles – Are They Really Eco-Friendly?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/defining-the-role-of-a-chief-ai-officer-steps-to-secure-your-position/"><u>Defining the Role of a Chief AI Officer: Steps to Secure Your Position</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-links-between-instagram-and-tiktok/"><u>In 2024, Navigating Links Between Instagram and TikTok</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-stop-0x0000005c-bug-expert-solutions-and-advice/"><u>Overcoming STOP 0X0000005C Bug: Expert Solutions and Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-access-and-edit-a-pages-document-on-your-windows-or-mac-computer/"><u>Steps to Access and Edit a Pages Document on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-unique-features-of-apples-ipad-vs-traditional-tablets/"><u>Unveiling the Unique Features of Apple's iPad vs Traditional Tablets</u></a></li>
 </ul></div>
 

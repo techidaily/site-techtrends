@@ -1,7 +1,7 @@
 ---
 title: "Top Travel Accessory Unveiled: The All-in-One MagSafe Charger Revolutionizing Mobile Power Sources, Now with Qi2 Support!"
-date: 2024-12-21T21:43:35.565Z
-updated: 2024-12-22T20:14:57.524Z
+date: 2025-01-01T16:00:50.802Z
+updated: 2025-01-07T01:17:25.763Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,22 +121,15 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[New] 2024 Approved Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exclusive-list-12-flawless-non-timebound-tools/"><u>2024 Approved Exclusive List 12 Flawless Non-Timebound Tools</u></a></li>
-<li><a href="https://win-unique.techidaily.com/5pya6ygp44gq5oml5q6144gn44k344k544og44og44or44o844og44kj44k344on44oz44gl44kj44ow44o844oi44or44o844og44kj44k344on44oz44g444gu5asj5pu044ks44kk44oj/"><u>最適な手段でシステムパーティションからブートパーティションへの変更ガイド</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragons-dogma-2-and-pc-collapses-expert-tips-to-rectify-game-crashing-problems/"><u>Dragon's Dogma 2 and PC Collapses - Expert Tips to Rectify Game Crashing Problems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-add-motion-blur-effect-to-photos-in-photoshop-for-2024/"><u>How to Add Motion Blur Effect to Photos in Photoshop for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-test-your-microphone-on-windows-10-a-comprehensive-guide/"><u>How to Test Your Microphone on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-update-video-drivers-in-windows-10-easily/"><u>How to Update Video Drivers in Windows 10. Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improve-system-performance-by-refreshing-driver-software-in-windows-10/"><u>Improve System Performance by Refreshing Driver Software in Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-note-12-4g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi Note 12 4G Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-there-a-way-to-speed-up-your-windows-updates-find-out-here/"><u>Is There a Way to Speed Up Your Windows Updates? Find Out Here!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-performance-clearing-unused-files-in-windows-ten/"><u>Maximizing Performance: Clearing Unused Files in Windows 지급판 (Ten)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-easy-way-to-perform-a-windows-11-factory-restore-follow-these-essential-4-steps/"><u>Quick and Easy Way to Perform a Windows 11 Factory Restore – Follow These Essential 4 Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-your-system-ultimate-guide-to-quickening-downloading-slow-pcs-on-windows-11-or-10/"><u>Reviving Your System: Ultimate Guide to Quickening Downloading Slow PCs on Windows 11 or 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seagate-external-hard-drive-not-showing-up-on-windows-10-solved/"><u>Seagate External Hard Drive Not Showing Up on Windows 10 [Solved]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-downloading-and-setting-up-your-hp-wireless-driver-on-windows/"><u>Ultimate Guide: Downloading & Setting Up Your HP Wireless Driver on Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-top-10-premier-audio-apps-for-microsoft-windows-10-users/"><u>Ultimate Guide: Top 10 Premier Audio Apps for Microsoft Windows 10 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-ultimate-list-top-8-fb-movies-to-download-in-23/"><u>[New] 2024 Approved Ultimate List Top 8 FB Movies to Download in '23</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bite-sized-content-explanation-the-lowdown/"><u>Bite-Sized Content Explanation The Lowdown</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/keep-track-who-dropped-off-my-insta-feed-in-2024/"><u>Keep Track Who Dropped Off My Insta Feed, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-glitches-with-samsung-tv-applications-a-users-guide/"><u>Overcoming Glitches with Samsung TV Applications: A User's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-iphone-remote-control-hiccups-effective-problem-solving-strategies/"><u>Overcoming iPhone Remote Control Hiccups: Effective Problem-Solving Strategies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pioneering-apple-vision-pro-beta-access-granted-by-unity-ignite-your-passion-for-immersive-arvr-gameplay-now/"><u>Pioneering Apple Vision Pro Beta Access Granted by Unity: Ignite Your Passion for Immersive AR/VR Gameplay Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-battle-of-brilliance-comparing-neo-qled-and-oled-tv-screens/"><u>The Battle of Brilliance: Comparing Neo QLED and OLED TV Screens</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/voice-enabled-assistance-making-siri-read-your-iphone-or-mac-content-aloud/"><u>Voice-Enabled Assistance: Making Siri Read Your iPhone or Mac Content Aloud</u></a></li>
 </ul></div>
 

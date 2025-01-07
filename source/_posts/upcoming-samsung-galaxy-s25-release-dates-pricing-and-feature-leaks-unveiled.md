@@ -1,7 +1,7 @@
 ---
 title: Upcoming Samsung Galaxy S25 - Release Dates, Pricing & Feature Leaks Unveiled
-date: 2024-08-30T15:29:02.053Z
-updated: 2024-08-31T15:29:02.053Z
+date: 2025-01-01T00:22:02.051Z
+updated: 2025-01-06T22:10:58.240Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Samsung Galaxy S25 - Release Dates, Pricing & Feature Leaks Unveiled
@@ -32,6 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/2CWJVr1lZkvKtGie-4aoD0wsp9A=/400x300/fi
 
 January or February 2025 is our best guess right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Price Rumors
 
  Nobody knows for sure what Samsung will charge for the Galaxy S25 and S25+. Official prices won't be revealed until the phones are formally announced next year. However, if we look at the pricing trend of the latest phones, we can estimate how much the Galaxy S25 might cost:
@@ -48,13 +52,18 @@ January or February 2025 is our best guess right now.
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
 
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy S25 Features
 
@@ -67,9 +76,6 @@ January or February 2025 is our best guess right now.
 
 [Is Samsung an Android? Yes, Here’s What You Need to Know](https://www.lifewire.com/is-samsung-an-android-5215944)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Specs and Hardware
 
  Despite many months remaining until the 2025[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event, there are some Galaxy S25 leaks and rumors we can review thus far. Of course, certain aspects are likely to remain consistent, such as the flat edge design and minimal bezels.
@@ -77,26 +83,21 @@ January or February 2025 is our best guess right now.
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Newer Processor
 
  The next Samsung Galaxy phones will likely be powered by the Qualcomm Snapdragon 8 Gen 4 in the US and the Exynos 2500 everywhere else. The Qualcomm processor[is said to support faster RAM](https://wccftech.com/lpddr6-support-for-snapdragon-8-gen-not-for-a18-pro/) , which will be much needed as on-device AI continues to work its way into these phones.
 
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -108,8 +109,9 @@ January or February 2025 is our best guess right now.
  It also looks like[the battery isn't changing either](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/) . The same 4000mAh battery found in the S24 might be used for at least another year.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Other Changes
 
 * In addition to faster RAM, these phones might come with faster hard drives,[potentially doubling the speed to 8 GB/s](https://www.sammobile.com/news/next-gen-samsung-galaxy-phones-faster-storage/) . This, again, is useful for everything you do on your phone but is especially beneficial for all the local AI smarts the S25 lineup will surely include.
@@ -132,8 +134,6 @@ January or February 2025 is our best guess right now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,20 @@ January or February 2025 is our best guess right now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-deeper-look-at-vivas-video-capabilities/"><u>[New] A Deeper Look at Viva's Video Capabilities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-logic-pro-the-process-of-gradually-quietening-audio-levels/"><u>[Updated] Logic Pro The Process of Gradually Quietening Audio Levels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-educational-apps-for-high-school-students-a-countdown/"><u>Best Educational Apps for High School Students - A Countdown!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-to-taylor-swifts-cinematic-journey-watching-order-unveiled/"><u>Complete Guide to Taylor Swift's Cinematic Journey – Watching Order Unveiled</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-your-system-backup-next-steps-for-safely-powering-down-your-pc/"><u>Complete Your System Backup? Next Steps for Safely Powering Down Your PC</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convert-and-save-your-favorite-washington-post-videos-mp4-wmv-mov-flv-and-avi-formats-for-pcs-and-macs/"><u>Convert and Save Your Favorite Washington Post Videos: MP4, WMV, MOV, FLV & AVI Formats for PCs and Macs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-riveting-true-crime-casts-top-13-picks/"><u>Discover the Most Riveting True Crime Casts: Top 13 Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-digital-video-recorders-what-are-they/"><u>Exploring the World of Digital Video Recorders: What Are They?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-14-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 14 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instasnap-upload-essentials/"><u>InstaSnap Upload Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/mysterious-deaths-decoded-by-smart-gaming/"><u>Mysterious Deaths Decoded by Smart Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartphone-fm-transmitter-tips-enjoy-local-radio-anywhere-on-iphone-or-android/"><u>Smartphone FM Transmitter Tips: Enjoy Local Radio Anywhere, On iPhone or Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-inside-scoop-on-sonys-new-vr-tech-specs-pricing-and-launch-date-exposed/"><u>The Inside Scoop on Sony's New VR Tech: Specs, Pricing & Launch Date Exposed</u></a></li>
+</ul></div>
 

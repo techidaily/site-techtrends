@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
-date: 2024-12-26T16:05:23.845Z
-updated: 2024-12-28T16:07:18.243Z
+date: 2025-01-03T05:38:04.640Z
+updated: 2025-01-07T04:44:46.191Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Instructions: Dealing with Not Found FM20.DLL Errors on Your PC"
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 ## Creating Personalized Notification Tones in Gmail – Step by Step
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -41,15 +45,11 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
@@ -116,18 +116,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-efficient-obs-fb-streaming-techniques/"><u>[Updated] 2024 Approved Efficient OBS-FB Streaming Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-video-testimonials-shape-perception-and-trust/"><u>[Updated] How Video Testimonials Shape Perception and Trust</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-internet-joke-architect/"><u>2024 Approved Internet Joke Architect</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-in-class-steadicam-equipment-for-drone-cinematography/"><u>Best-in-Class Steadicam Equipment for Drone Cinematography</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994881275-days-gone-multiplayer-release-pc-version-now-available/"><u>Days Gone Multiplayer Release - PC Version Now Available!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/error-code-explained-a-detailed-approach-to-correcting-401-unauthorized-mistakes/"><u>Error Code Explained: A Detailed Approach to Correcting 401 Unauthorized Mistakes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expanding-wi-fi-horizons-the-top-choice-of-signal-boosters/"><u>Expanding Wi-Fi Horizons: The Top Choice of Signal Boosters</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-7-video-capture-tools-for-engaging-social-media-presentations/"><u>Ideal 7 Video Capture Tools for Engaging Social Media Presentations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-users-handbook-the-ultimate-guide-to-effectively-using-emoji-features/"><u>IPhone User's Handbook: The Ultimate Guide to Effectively Using Emoji Features</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/precision-and-performance-top-6-video-edits-on-macos-big-sur/"><u>Precision and Performance Top 6 Video Edits on macOS Big Sur</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-comctl32dll-missing-file-issue-step-by-step-solutions/"><u>Resolving 'Comctl32.dll' Missing File Issue: Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-latest.techidaily.com/simple-solutions-restore-windows-11s-defender-functionality-in-three-steps/"><u>Simple Solutions: Restore Windows 11'S Defender Functionality in Three Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-how-to-connect-your-firestick-remote/"><u>Step-by-Step Instructions on How to Connect Your Firestick Remote</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/choosing-the-right-lights-and-cameras-for-youtube-videos-for-2024/"><u>Choosing the Right Lights & Cameras for YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discovering-toolwizs-potentials-in-digital-photography-editing/"><u>Discovering Toolwiz's Potentials in Digital Photography Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-viewing-contents-of-rar-files-using-macos-tools/"><u>Easy Methods for Viewing Contents of RAR Files Using macOS Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-remedies-when-your-dvdbdcd-drive-stops-working-properly/"><u>Effective Remedies When Your DVD/BD/CD Drive Stops Working Properly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-download-part-of-a-youtube-videos-for-2024/"><u>How to Download Part of a YouTube Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pick-a-winning-gaming-pc-a-buyers-guide-to-key-specifications-and-features/"><u>How to Pick a Winning Gaming PC – A Buyer’s Guide to Key Specifications and Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-viral-meme-creation-techniques/"><u>In 2024, Mastering Viral Meme Creation Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/joint-venture-in-virtual-spaces-facebook-and-instagram-unite/"><u>Joint Venture in Virtual Spaces: Facebook & Instagram Unite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legjobb-osszesedesekben-legjobb-ocakkal-gyujtott-tv-sorozatok-letoltesehez-movavi/"><u>Legjobb Összesedesekben: Legjobb Ócakkal Gyűjtött TV Sorozatok Letöltéséhez - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-ios-16-a-guide-to-using-iphones-new-photo-cutouts/"><u>Mastering the Art of iOS 16: A Guide to Using iPhone's New Photo Cutouts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-personalized-phone-tones-for-android-users-for-2024/"><u>The Ultimate Guide to Personalized Phone Tones for Android Users for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-potentials-gpt-3python/"><u>Unlocking AI Potentials: GPT-3/Python</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whatsapp-vs-signal-a-comprehensive-comparison-of-features/"><u>WhatsApp vs Signal: A Comprehensive Comparison of Features</u></a></li>
 </ul></div>
 

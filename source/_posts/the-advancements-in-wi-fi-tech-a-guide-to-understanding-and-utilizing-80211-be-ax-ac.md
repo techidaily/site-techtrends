@@ -1,7 +1,7 @@
 ---
 title: "The Advancements in Wi-Fi Tech: A Guide to Understanding and Utilizing 802.11 Be, Ax, Ac"
-date: 2024-12-23T16:11:08.879Z
-updated: 2024-12-28T16:19:04.095Z
+date: 2024-12-30T19:14:32.906Z
+updated: 2025-01-07T06:13:04.853Z
 categories:
   - BestProducts
 description: "This Article Describes The Advancements in Wi-Fi Tech: A Guide to Understanding and Utilizing 802.11 Be, Ax, Ac"
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is 802.11?
 
  In 1997, the Institute of Electrical and Electronics Engineers created the first WLAN standard. They called it_802.11_ after the name of the group formed to oversee its development. Unfortunately, 802.11 only supported a maximum[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) of 2 Mbps—too slow for most applications. For this reason, ordinary 802.11 wireless products are no longer manufactured. However, an entire family has sprung up from this initial standard.
@@ -32,14 +36,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 802.11be (Wi-Fi 7)
 
@@ -50,6 +50,10 @@ Lifewire
 ## 802.11ax (Wi-Fi 6)
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11aj
 
@@ -67,10 +71,6 @@ Lifewire
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 802.11ac (Wi-Fi 5)
 
  The generation of Wi-Fi that first signaled popular use,[802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , uses[dual-band wireless](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) technology, supporting simultaneous connections on both 2.4 GHz and 5 GHz Wi-Fi devices. 802.11ac offers backward compatibility to 802.11a/b/g/n and bandwidth rated up to 1300 Mbps on the 5 GHz band plus up to 450 Mbps on 2.4 GHz. Most home wireless routers are compliant with this standard.
@@ -79,15 +79,15 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
 
  While 802.11n offers significant bandwidth improvement from previous standards and is widely supported, the use of multiple signals may interfere with nearby 802.11b/g-based networks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11g (Wi-Fi 3)
 
@@ -96,6 +96,10 @@ Lifewire
  This standard is supported by essentially all wireless devices and network equipment in use today, and it's an expensive option. However, the entire network slows to match any 802.11b devices on the network.
 
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11a (Wi-Fi 2)
 
@@ -114,10 +118,6 @@ Lifewire
  802.11b uses the same_unregulated_ radio signaling frequency (2.4[GHz](https://www.lifewire.com/story-of-hertz-megahertz-and-gigahertz-818308) ) as the original 802.11 standard. Vendors often prefer using these frequencies to lower their production costs. Being unregulated, 802.11b gear can incur interference from microwave ovens, cordless phones, and other appliances using the same 2.4 GHz range. However, by installing 802.11b gear at a reasonable distance from other appliances, interference can easily be avoided.
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What About Bluetooth and the Rest?
 
@@ -198,19 +198,15 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/uns-and-plots-developing-7-funny-video-storylines/"><u>[New] Puns & Plots Developing 7 Funny Video Storylines</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-pc-and-android-strategies-for-optimized-facebook-video-uploads/"><u>[Updated] In 2024, PC & Android Strategies for Optimized Facebook Video Uploads</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-steps-for-perfect-audio-transition-in-adobe-audition/"><u>2024 Approved Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-visionaries-coordinated-consumption-across-channels/"><u>2024 Approved Video Visionaries Coordinated Consumption Across Channels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-2024-mac/"><u>最新DVDコピーソフトが完全無料! 2024 Mac対応モデルを特集 - おすすめの人気ソフトで満載!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bridging-the-gap-a-comprehensive-guide-to-connecting-an-android-phone-with-windows-pc-for-audio-streaming/"><u>Bridging the Gap: A Comprehensive Guide to Connecting an Android Phone with Windows PC for Audio Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clearing-windows-11windows-10s-update-cache-a-comprehensive-tutorial/"><u>Clearing Windows 11/Windows 10'S Update Cache: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tricks-to-successfully-upgrade-audio-controller-software-in-windows/"><u>Easy Tricks to Successfully Upgrade Audio Controller Software in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-to-resolve-notepad-wont-start-errors-on-windows-11-systems/"><u>Effective Strategies to Resolve 'Notepad Won't Start' Errors on Windows 11 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancements-in-windows-10-faster-and-more-efficient-update-process/"><u>Enhancements in Windows 10: Faster and More Efficient Update Process</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-fold-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel Fold to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-started-with-vn-video-editor-on-mac-or-find-alternative-solutions/"><u>New In 2024, Get Started with VN Video Editor on Mac or Find Alternative Solutions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellars-guide-to-efficient-and-safe-data-destruction-practices/"><u>Stellar's Guide to Efficient and Safe Data Destruction Practices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-honor-v-purse-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Honor V Purse Phones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-prime-pick-simple-effective-gaming-edit-suites/"><u>[New] Prime Pick Simple, Effective Gaming Edit Suites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-tutorial-on-configuring-an-echo-dot-device/"><u>Beginner’s Tutorial on Configuring an Echo Dot Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/big-sur-readiness-system-and-hardware-guide-for-2024/"><u>Big Sur Readiness System & Hardware Guide for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-guide-performing-a-full-system-restore-on-your-gateway-notebook-using-windows-11/"><u>Complete Guide: Performing a Full System Restore on Your Gateway Notebook Using Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-and-evaluation-of-recuva-the-top-ranking-data-restoration-software/"><u>Comprehensive Analysis and Evaluation of Recuva: The Top-Ranking Data Restoration Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-infinix-smart-8-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Smart 8 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rectifying-the-coredll-cannot-be-found-issue-expert-strategies/"><u>Rectifying the 'core.dll Cannot Be Found' Issue: Expert Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-correct-the-error-message-missing-or-corrupted-libcurldll/"><u>Steps to Correct the Error Message Missing or Corrupted libcurl.dll</u></a></li>
 </ul></div>
 

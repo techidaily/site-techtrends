@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-12-25T16:03:06.053Z
-updated: 2024-12-28T16:25:19.748Z
+date: 2024-12-31T20:00:33.458Z
+updated: 2025-01-06T20:47:58.031Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overall Findings
 
@@ -55,6 +59,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less customization.
 * Less familiarity with internal components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -65,10 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -76,10 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -97,7 +97,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Novice users may struggle with the technical side of the build process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advantages of Building
@@ -112,6 +112,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -123,7 +127,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Verdict: Know Your Needs and Skills
@@ -133,10 +137,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 Lifewire / Julie Bang
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -181,19 +181,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-editing-engine-room/"><u>[New] 2024 Approved Editing Engine Room</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-limitless-video-snipping-program/"><u>[New] 2024 Approved Limitless Video Snipping Program</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-boosting-dj-game-free-easy-online-beat-detectors-revealed/"><u>[New] Boosting DJ Game Free, Easy Online Beat Detectors Revealed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-seamlessly-download-youtube-thumbnails-online/"><u>2024 Approved Seamlessly Download YouTube Thumbnails Online</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-gt-neo-5-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme GT Neo 5 SE without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nubia-red-magic-9-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nubia Red Magic 9 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-htc-u23-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your HTC U23 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/newly-released-movies-on-dvd-upcoming-launch-dates-and-quick-tutorials-for-speedier-dvd-downloads/"><u>Newly Released Movies on DVD: Upcoming Launch Dates & Quick Tutorials for Speedier DVD Downloads</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/strategie-efficienti-per-comprimere-i-file-mp4-mantenendo-lottimo-quality-of-service/"><u>Strategie Efficienti per Comprimere I File MP4 Mantenendo L'Ottimo Quality of Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-secure-and-swift-video-converters-for-windows-11-and-10-users/"><u>Top 10 Secure and Swift Video Converters for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-votre-contenu-en-videos-superieures-grace-a-winxvideo-ia/"><u>Transformez Votre Contenu en Vidéos Supérieures Grâce À Winxvideo IA</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-mediatrans-la-solution-ultime-pour-transferer-votre-contenu-musical-et-multimedia-entre-ios-et-pc-facile-a-utiliser-and-efficace/"><u>WinX MediaTrans : La Solution Ultime Pour Transferer Votre Contenu Musical Et Multimédia Entre iOS Et PC - Facile À Utiliser & Efficace</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>[New] The Rotation Revelations Guide Crafting Captivating Images on Social Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>[Updated] In 2024, The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-xbox-gaming-captured-a-beginners-screen-recording-journey/"><u>[Updated] In 2024, Xbox Gaming Captured A Beginner's Screen Recording Journey</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apples-new-ai-tech-announced-at-wwdc-falls-short-of-excitement-and-why-it-might-be-perfect-insights/"><u>How Apple's New AI Tech Announced at WWDC Falls Short of Excitement (And Why It Might Be Perfect) | Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quickly-correct-oleaut32dll-missing-mistakes-on-your-pc/"><u>How To Quickly Correct Oleaut32.dll Missing Mistakes on Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y78 5G Phone Without Password?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-audiophiles-windows-companion/"><u>In 2024, Audiophile’s Windows Companion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a14-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A14 4G? Try These Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-android-measurement-tools-tips-for-successful-usage/"><u>Navigating the World of Android Measurement Tools - Tips for Successful Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722887742769-optimizing-your-tweets-check-out-these-unbeatable-twitter-tool-choices/"><u>Optimizing Your Tweets? Check Out These Unbeatable Twitter Tool Choices!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/t-mobiles-wireless-roaming-agreements-and-how-they-enhance-your-data-experience/"><u>T-Mobile's Wireless Roaming Agreements and How They Enhance Your Data Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Artificial Intelligence on Apple Devices: Comprehensive Insights Into Upcoming Features for iOS & macOS | ZDNET"
-date: 2024-12-18T18:10:00.338Z
-updated: 2024-12-22T21:18:37.273Z
+date: 2025-01-06T00:04:22.035Z
+updated: 2025-01-06T21:45:58.111Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -73,7 +69,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,19 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-cheat-sheet-to-ez-grabber-usage/"><u>[Updated] In 2024, The Ultimate Cheat Sheet to EZ Grabber Usage</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards-for-2024/"><u>[Updated] Reversing the Flow A Guide to Tracing Instagram Pics Backwards for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-close-up-cinematic-magic-with-kinemaster-software/"><u>2024 Approved Close-Up Cinematic Magic with Kinemaster Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-productivity-with-two-screens-how-to-connect-extra-displays-in-windows-11/"><u>Boost Productivity with Two Screens: How to Connect Extra Displays in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-an-external-hard-drive-to-your-ps4-a-step-by-step-guide/"><u>Connecting an External Hard Drive to Your PS4: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-shrink-dvd-t172603069690011/"><u>DVD Shrink 日本語対応ガイド： DVD保存プロセス入門</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-rectifying-bluetooth-speaker-and-display-sync-problems-in-windows-systems/"><u>Expert Tips for Rectifying Bluetooth Speaker & Display Sync Problems in Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-update-ios-18-is-here-installation-instructions-and-eligible-iphone-devices-techzdnet/"><u>Get the Latest Update: IOS 18 Is Here! Installation Instructions and Eligible iPhone Devices | TechZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-your-google-usb-driver-fast-and-easy-installation-steps-inside/"><u>Get Your Google USB Driver - Fast and Easy Installation Steps Inside!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-block-calls-on-iphone-and-android-phone-quickly-and-easily/"><u>How to Block Calls on iPhone & Android Phone | Quickly & Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-export-chrome-bookmarks-easily/"><u>How to Export Chrome Bookmarks — Easily</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-influencing-cultures-through-memetic-expression/"><u>In 2024, Influencing Cultures Through Memetic Expression</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/jest-jar-your-best-free-meme-source/"><u>Jest Jar Your Best Free Meme Source</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-iphone-16-the-revolutionary-camera-button-redefines-mobile-photography-full-details-by-zdnet/"><u>Unveiling the iPhone 16: The Revolutionary Camera Button Redefines Mobile Photography – Full Details by ZDNET.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-altering-mac-screenshot-format-on-the-fly/"><u>[New] In 2024, Altering Mac Screenshot Format on the Fly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-cutting-edge-speedy-frame-compiler/"><u>[New] In 2024, Cutting Edge Speedy Frame Compiler</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-from-bland-to-blockbuster-framing-videos-in-a-square-perspective/"><u>[Updated] In 2024, From Bland to Blockbuster Framing Videos in a Square Perspective</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>2024 Approved Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-uniting-platforms-post-videos-across-twitter-and-tumblr/"><u>2024 Approved Uniting Platforms Post Videos Across Twitter & Tumblr</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converter-de-mp3-para-mov-livre-e-online-usando-o-programa-gratuito-da-movavi/"><u>Converter De MP3 Para MOV Livre E Online - Usando O Programa Gratuito Da Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertissez-vos-fichiers-flash-vers-des-videos-webm-gratuites-et-rapides-via-le-site-web-de-movavi/"><u>Convertissez Vos Fichiers FLASH Vers Des Vidéos WebM Gratuites Et Rapides via Le Site Web De Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diferencia-entre-formato-de-audio-mp3-y-video-mp4-una-guia-completa-para-usuarios-digitales/"><u>Diferencia Entre Formato De Audio MP3 Y Video MP4 - Una Guía Completa Para Usuarios Digitales</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-enhance-your-audio-experience-with-official-behringer-drivers/"><u>Download and Enhance Your Audio Experience with Official Behringer Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-pbm-to-jpg-converter-by-movavi-do-it-online-today/"><u>Free PBM to JPG Converter by Movavi - Do It Online Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-pinnacle-of-artistry-highlighting-top-6-nft-creators/"><u>In 2024, The Pinnacle of Artistry Highlighting Top 6 NFT Creators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>In 2024, Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-aac-wmv-movavi/"><u>오토바이오(Online)에서 무료 퍼스트 링크를 사용한 AAC와 WMV 포함 비교 및 변환 – Movavi</u></a></li>
 </ul></div>
 

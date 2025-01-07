@@ -1,7 +1,7 @@
 ---
 title: "The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET"
-date: 2024-12-22T16:31:43.816Z
-updated: 2024-12-28T16:10:53.713Z
+date: 2025-01-01T00:34:20.073Z
+updated: 2025-01-06T22:18:50.727Z
 tags:
   - apple
 categories:
@@ -51,7 +51,7 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,17 +69,21 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
-## You should buy the Apple Watch Series 10 if...
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## You should buy the Apple Watch Series 10 if...
 
 ### 1\. You want a thinner design or larger watch sizes
 
@@ -94,7 +98,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -108,7 +112,7 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
@@ -126,10 +130,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -179,18 +179,24 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-fast-format-transformation-youtube-for-mac-ratio/"><u>[New] 2024 Approved Fast Format Transformation YouTube for Mac Ratio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-social-media-impact-tiktoks-viral-tweets-at-the-forefront-for-2024/"><u>[New] Social Media Impact TikTok's Viral Tweets at the Forefront for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-methods-for-effective-cleaning-of-television-remotes-at-home/"><u>Comprehensive Methods for Effective Cleaning of Television Remotes at Home</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-tune-treasures-a-list-of-15-spots-to-download-music-at-no-cost/"><u>Free Tune Treasures: A List of 15 Spots to Download Music at No Cost</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-20c-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 20C to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v29-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V29 Pro Unlock Without Password</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-10-sport-inspired-movies-that-will-keep-you-on-the-edge-of-your-seat/"><u>Leading 10 Sport-Inspired Movies That Will Keep You On The Edge Of Your Seat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rescue-guide-recovering-access-to-your-locked-ipad/"><u>Rescue Guide: Recovering Access to Your Locked iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resetting-your-new-x-account-credentials-a-step-by-step-guide/"><u>Resetting Your New X Account Credentials: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rmvb-to-mkv-free-online-converter-tool-streamline-your-media-files/"><u>RMVB to MKV: FREE Online Converter Tool - Streamline Your Media Files</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/speech-tuning-made-simple-on-sony-playstation-consoles-for-2024/"><u>Speech Tuning Made Simple on Sony PlayStation Consoles for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-addressing-msvbvm50dll-absence-errors/"><u>Troubleshooting Techniques for Addressing MSVBVM50.DLL Absence Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-efficiently-convert-youtube-to-desktop-format/"><u>[New] In 2024, Efficiently Convert YouTube to Desktop Format</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-illustrator-way-adding-realistic-blur-to-your-pics/"><u>[Updated] The Illustrator Way Adding Realistic Blur to Your Pics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2-unleash-creative-livestreams-using-manycams-powerful-software-for-virtual-camera-solutions/"><u>2. Unleash Creative Livestreams Using ManyCam's Powerful Software for Virtual Camera Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-hidden-history-in-your-browser-how-to-tackle/"><u>2024 Approved The Hidden History in Your Browser How to Tackle?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-insiders-guide-to-on-screen-text-in-youtube-media/"><u>2024 Approved The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-transformer-facilement-le-format-video-mkv-en-avi-sur-un-ordinateur-mac/"><u>Comment Transformer Facilement Le Format Vidéo MKV en AVI Sur Un Ordinateur Mac ?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compare-the-leading-manycam-substitutes-advanced-video-software-with-digital-webcams/"><u>Compare the Leading ManyCam Substitutes: Advanced Video Software with Digital Webcams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cutting-edge-strategies-for-fb-live-broadcasts-and-recordings-for-2024/"><u>Cutting-Edge Strategies for FB Live Broadcasts and Recordings for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-live-broadcast-tools-compete-with-manycam-using-advanced-virtual-webcams/"><u>Discover the Ultimate Live Broadcast Tools: Compete with ManyCam Using Advanced Virtual Webcams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-online-presence-the-ultimate-guide-to-using-manycam-for-remote-webcams-and-livestreaming-solutions/"><u>Enhance Online Presence: The Ultimate Guide to Using ManyCam for Remote Webcams and Livestreaming Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycam-top-tier-video-editing-and-virtual-webcam-solutions/"><u>Enhance Your Broadcasts Using ManyCam - Top-Tier Video Editing and Virtual Webcam Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestream-with-manycam-top-rated-online-video-editor-and-simulated-webcam/"><u>Enhance Your Livestream with ManyCam: Top-Rated Online Video Editor & Simulated Webcam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-with-manycam-a-revolutionary-video-conferencing-and-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam: A Revolutionary Video Conferencing and Virtual Webcam Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725616878042-enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam: The Ultimate Virtual Webcam Solution!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-virtual-webcams-with-manycam-best-live-video-editing-software-solutions/"><u>Explore Virtual Webcams with ManyCam – Best Live Video Editing Software Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-z-fold-5-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy Z Fold 5 won’t play MKV movies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
 </ul></div>
 

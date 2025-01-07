@@ -1,7 +1,7 @@
 ---
 title: Apple's Latest Leap in AI Technology Promises Progress, Yet Reveals Room for Improvement | ZDNet
-date: 2024-12-26T16:21:49.597Z
-updated: 2024-12-28T16:07:25.110Z
+date: 2025-01-03T18:18:58.683Z
+updated: 2025-01-06T16:05:02.008Z
 tags:
   - apple
 categories:
@@ -69,21 +69,26 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-capture-tool-for-windows-10-professional/"><u>[Updated] Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/intellectual-showdowns-ranking-2024s-trivia-platforms/"><u>Intellectual Showdowns Ranking 2024'S Trivia Platforms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-guide-to-crafting-compelling-squares-for-facebook/"><u>Step-by-Step Guide to Crafting Compelling Squares for Facebook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808353305-step-by-step-solution-for-unable-to-launch-application-correctly-with-the-notorious-error-0xc00001/"><u>Step-by-Step Solution for 'Unable to Launch Application Correctly' With the Notorious Error 0xC00001#</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-your-messages-with-telegrams-chat-folder-feature-a-must-try-for-better-organization/"><u>Streamline Your Messages with Telegram's Chat Folder Feature - A Must-Try for Better Organization</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-essential-checklist-for-using-zoom-on-your-windows-pc-for-2024/"><u>The Essential Checklist for Using Zoom on Your Windows PC for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-past-costs-of-amazon-items-methods-and-insights/"><u>Uncover Past Costs of Amazon Items: Methods and Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-recovery-emails-essential-uses-and-how-to-set-up/"><u>Understanding Recovery Emails: Essential Uses & How To Set Up</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-v30-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme V30 Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-benefits-of-gigabit-speeds-is-it-time-to-upgrade-for-you-find-out-here/"><u>Unlocking the Benefits of Gigabit Speeds - Is It Time to Upgrade for You? Find Out Here!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-mysteries-of-connections-todays-new-york-times-crossword-insight-and-solution-may-26th-edition/"><u>Unlocking the Mysteries of 'Connections': Today’s New York Times Crossword Insight & Solution - May 26Th Edition</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/youth-leaders-in-it-unite-at-the-2023-nigerian-global-summit-spotlight-on-cutting-edge-technology-by-yl-computing-and-yl-software-solutions/"><u>Youth Leaders in IT Unite at the 2023 Nigerian Global Summit: Spotlight on Cutting-Edge Technology by YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>[New] 2024 Approved Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-guide-to-mastering-steams-switch-pro-controller/"><u>[New] A Guide to Mastering Steam's Switch Pro Controller</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ccessing-global-hitters-the-1-6-short-video-downloaders/"><u>[New] Accessing Global Hitters The #1-#6 Short Video Downloaders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-invaluable-list-of-costless-photographic-and-moving-images/"><u>[Updated] 2024 Approved Invaluable List of Costless Photographic and Moving Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-visual-content-from-video-to-gif-transformation/"><u>[Updated] 2024 Approved Tweeting Visual Content From Video to GIF Transformation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>2024 Approved The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convertissez-gratuitement-des-fichiers-nef-en-images-jpeg-sur-internet-avec-movavi/"><u>Convertissez Gratuitement Des Fichiers NÉF en Images JPEG Sur Internet - Avec MOVAVI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-whats-new-at-apple-insights-from-the-2ebr-worldwide-developer-conference-2025/"><u>Discover What's New at Apple: Insights From the 2Ebr Worldwide Developer Conference 2025</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-for-captioning-your-ig-stories-for-accessibility/"><u>Effective Techniques for Captioning Your IG Stories for Accessibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-command-line-input-for-all-windows-operating-systems/"><u>Mastering Command Line Input for All Windows Operating Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-ps5-gameplay-a-step-by-step-guide-to-achieving-a-buttery-smooth-1nterframe-rate-of-120fps/"><u>Maximizing PS5 Gameplay: A Step-by-Step Guide to Achieving a Buttery Smooth 1Nterframe Rate of 120FPS.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-through-the-top-5-android-auto-clicking-solutions-without-rooting/"><u>Navigate Through the Top 5 Android Auto-Clicking Solutions Without Rooting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimized-obs-options-for-low-end-systems/"><u>Optimized OBS Options for Low-End Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-versus-ps5-slim-a-comprehensive-review-of-the-two-consoles-features-and-benefits/"><u>PS5 Versus PS5 Slim: A Comprehensive Review of the Two Consoles' Features and Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-vr-aka-psvr-2-news-price-release-date-specs-and-more/"><u>PS5 VR Aka PSVR 2: News, Price, Release Date, Specs, and More</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionize-your-entryway-expert-analysis-of-the-arlo-combined-doorbell-and-camera-system/"><u>Revolutionize Your Entryway: Expert Analysis of the Arlo Combined Doorbell & Camera System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-top-performance-and-durability-with-the-cybertruck-styled-amd-ryzen-7-powered-xyber-xpc-mini-pc-no-need-to-clean-off-pests-or-debris/"><u>Unleash Top Performance and Durability with The Cybertruck Styled AMD Ryzen 7 Powered Xyber XPC Mini PC - No Need to Clean Off Pests or Debris</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

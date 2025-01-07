@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2024-12-23T16:11:02.380Z
-updated: 2024-12-28T16:03:46.468Z
+date: 2025-01-02T18:01:56.809Z
+updated: 2025-01-07T04:24:56.381Z
 tags:
   - apple
 categories:
@@ -26,12 +26,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -45,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -70,15 +74,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -89,6 +93,10 @@ If you don't want to share the default details with a Check In, you can easily c
 If you still wish to use a timer for the Check In option but change the amount of time allocated, tap Timer. Tap the button for hours and use the Digital Crown to cycle through different numbers. Do the same for the number of minutes. When finished, tap Done. Tap the yellow checkmark and then send the text. When you end the Check In at the appropriate time, your recipient will be alerted as an indication that you've arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
 
@@ -104,19 +112,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,22 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-professional-techniques-for-getting-rid-of-backgrounds-in-figma/"><u>[Updated] In 2024, Professional Techniques for Getting Rid of Backgrounds in Figma</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instantaneous-windows-image-player/"><u>[Updated] Instantaneous Windows Image Player</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-tactics-to-quiet-down-distractions-during-google-meets-for-2024/"><u>[Updated] Tactics to Quiet Down Distractions During Google Meets for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725287198216-2022dvd/"><u>「如何有效地在電腦上存檔2022年DVD：三大最佳技術」</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-broadcom-bluetooth-drivers-on-windows-10-8-and-7/"><u>Download and Install Broadcom Bluetooth Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-reducing-file-size-with-high-quality-conversion-from-h264-to-h265/"><u>Efficiently Reducing File Size with High-Quality Conversion From H.264 To H.265</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/experience-the-old-school-games-anywhere-with-best-in-class-pc-gb-emulators-for-2024/"><u>Experience the Old School Games Anywhere with Best-in-Class PC GB Emulators for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-13-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 13 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-handbrake-suitable-for-encoding-av1-files-comprender-la-compatibilidad/"><u>Is HandBrake Suitable for Encoding AV1 Files? Comprender La Compatibilidad</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nef-inhoud-opschonen-en-veilig-hopen-gratuit-dek-iptc-afbeeldingen-met-movavi/"><u>NEF-Inhoud Opschonen En Veilig Hopen, Gratuit! Dek IPTC Afbeeldingen Met Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/official-website-winx-complimentary-downloads-for-dvd-ripping-and-high-definition-video-recoding-applications/"><u>Official Website: WinX - Complimentary Downloads for DVD Ripping and High Definition Video Recoding Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/paso-a-paso-transformar-viejas-grabaciones-en-vhs-a-un-formato-moderno-en-dvd-con-tu-ordenador/"><u>Paso a Paso: Transformar Viejas Grabaciones en VHS a Un Formato Moderno en DVD Con Tu Ordenador</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-simplest-way-to-flip-horizontal-videos-into-vertical-on-an-iphone/"><u>The Simplest Way to Flip Horizontal Videos Into Vertical on an iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-the-new-iphone-15-insider-tips-for-tech-aficionados-and-gurus/"><u>The Ultimate Guide to the New iPhone 15: Insider Tips for Tech Aficionados & Gurus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-editori-di-video-per-computer-la-guida-definitiva/"><u>Top 10 Editori Di Video per Computer: La Guida Definitiva</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725285736796-6/"><u>お薦め音源分離ソフト！無料で使える上位6選手、どれが最強か？</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-parody-basics-tips-for-entertaining-mocks/"><u>[New] 2024 Approved Parody Basics Tips for Entertaining Mocks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances-for-2024/"><u>[New] Gamer's Dream The Ultimate Compilation of Best YT Game Entrances for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-lg-bp550s-breakthrough-the-2023-technology-sprint-for-2024/"><u>[New] LG BP550's Breakthrough The 2023 Technology Sprint for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-global-viewer-count-triumphs-play-button-honors/"><u>[Updated] Global Viewer Count Triumphs Play Button Honors</u></a></li>
+<li><a href="https://win-web.techidaily.com/come-imparare-a-creare-un-solido-piano-di-riproduzione-con-aomei-backupper-su-windows/"><u>Come Imparare a Creare Un Solido Piano Di Riproduzione Con AOMEI Backupper Su Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-methods-to-keep-tabs-on-your-bandwidth-expenditure/"><u>Efficient Methods to Keep Tabs on Your Bandwidth Expenditure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-transportation-costs-are-ubers-more-affordable-than-taxis-in-your-city/"><u>Evaluating Transportation Costs: Are Ubers More Affordable Than Taxis in Your City?</u></a></li>
+<li><a href="https://facebook.techidaily.com/exposing-false-bargains-on-facebook-marketplace-how-to-dodge-them/"><u>Exposing False Bargains on Facebook Marketplace – How to Dodge Them</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P40 Phones with/without a PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y100 5G</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/non-fbx-innovations-leading-the-way-in-gameplay-tracking-for-2024/"><u>Non-FBX Innovations Leading the Way in Gameplay Tracking for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-submerged-iphoneipod-effective-drying-techniques/"><u>Revive Your Submerged iPhone/iPod: Effective Drying Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-correcting-vertical-distortion-issues-in-samsung-tvs/"><u>Step-by-Step Solutions: Correcting Vertical Distortion Issues in Samsung TVs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-brit-tv-programs-available-on-netflix-updated-list/"><u>The Best Brit TV Programs Available on Netflix – Updated List!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-embedding-transcripts-in-instagram-stories/"><u>The Ultimate Tutorial for Embedding Transcripts in Instagram Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-chatgpt-understanding-gpt-3s-conversational-powerhouse/"><u>Unveiling ChatGPT: Understanding GPT-3's Conversational Powerhouse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-oneplus-10-projections-on-launch-costs-specs-and-insider-gossip/"><u>Unveiling the OnePlus 10: Projections on Launch, Costs, Specs & Insider Gossip</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2024-12-22T16:03:55.647Z
-updated: 2024-12-28T16:10:09.639Z
+date: 2025-01-04T23:31:52.340Z
+updated: 2025-01-06T23:05:13.173Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,22 +114,21 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[New] Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-swiftstrike-timetape-recording-for-2024/"><u>[New] SwiftStrike TimeTape Recording for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-exclusive-play-on-apex-how-to-turn-off-cross-platform-mode/"><u>[Updated] Exclusive Play on Apex How to Turn Off Cross-Platform Mode</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-firecapture-pro-for-ff/"><u>[Updated] FireCapture Pro for FF</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-socialsound-maker-twitter-audio-for-2024/"><u>[Updated] SocialSound Maker Twitter Audio for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/achieve-maximum-impact-in-fb-video-ads-use-free-tools-for-2024/"><u>Achieve Maximum Impact in FB Video Ads - Use Free Tools for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experiencing-zoom-lag-whats-the-culprit-internet-or-you/"><u>Experiencing Zoom Lag - What's the Culprit, Internet or You?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-powerhouses-revealed-your-guide-to-the-planets-10-most-influential-websites/"><u>Online Powerhouses Revealed: Your Guide to the Planet’s 10 Most Influential Websites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ordered-guide-how-to-watch-the-entire-dragon-ball-series/"><u>Ordered Guide: How to Watch the Entire Dragon Ball Series</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-the-challenge-of-a-non-existent-or-unfound-d3dx934dll-file/"><u>Overcoming the Challenge of a Non-Existent or Unfound d3dx9_34.dll File</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722860152820-revolutionize-your-painting-task-with-these-4-handy-painting-apps/"><u>Revolutionize Your Painting Task with These 4 Handy Painting Apps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-why-cant-you-hear-your-games-on-discord/"><u>Solved: Why Can't You Hear Your Games on Discord?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-inner-workings-of-e-bikes-explained-for-enthusiasts/"><u>The Inner Workings of E-Bikes Explained for Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-impacts-of-generative-ai-on-future-employment-landscapes/"><u>Top 7 Impacts of Generative AI on Future Employment Landscapes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-new-brain-teasing-challenges-for-iphoneipad-reminiscent-of-classics-like-the-room-myst/"><u>Uncover New Brain-Teasing Challenges for iPhone/iPad Reminiscent of Classics Like The Room, Myst</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-x-fold-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Fold 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-did-my-car-speakers-stop-working/"><u>Why Did My Car Speakers Stop Working?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-engage-your-audience-in-live-discord-streams-easily/"><u>[New] 2024 Approved How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-polaroid-cubeplus-action-camera-review/"><u>[New] Polaroid Cube+ Action Camera Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-flips-mastering-the-video-360-turn/"><u>[Updated] In 2024, Instagram Flips Mastering the Video 360-Turn</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>2024 Approved Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-free-from-endless-linux-upgrades-discover-the-all-in-one-distribution-that-stops-the-cycle/"><u>Breaking Free From Endless Linux Upgrades? Discover the All-in-One Distribution That Stops the Cycle!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-a-firestick-with-your-projector-a-comprehensive-guide/"><u>Connecting a Firestick with Your Projector: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-printer-drivers-on-windows-1011-easy-guide/"><u>Download & Install HP Printer Drivers on Windows 10/11: Easy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-guide-to-hidden-widgets-on-windows-systems/"><u>Expert Guide to Hidden Widgets on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-amd-radeon-hd-graphics-card-drivers-compatible-with-windows-nine/"><u>Get the Newest AMD Radeon HD Graphics Card Drivers Compatible with Windows Nine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/google-event-preview-decoding-the-hype-with-insider-news-and-speculated-features/"><u>Google Event Preview: Decoding the Hype with Insider News & Speculated Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-i-manage-multiple-youtube-accounts-effectively/"><u>How Do I Manage Multiple YouTube Accounts Effectively?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-macbook-thermal-management-tips-for-monitoring-your-laptops-heat-levels/"><u>Mastering MacBook Thermal Management: Tips for Monitoring Your Laptop's Heat Levels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shuttered-by-darkness-iphone-tips-and-tricks/"><u>Shuttered by Darkness IPhone Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-5-key-questions-to-ask-when-shopping-for-the-perfect-smartwatch/"><u>The 5 Key Questions to Ask When Shopping for the Perfect Smartwatch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-unifying-your-epic-games-profiles/"><u>Ultimate Guide: Unifying Your Epic Games Profiles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zoom-connection-issues-are-you-facing-them-or-is-the-platform-at-fault/"><u>Zoom Connection Issues: Are You Facing Them or Is the Platform at Fault?</u></a></li>
 </ul></div>
 

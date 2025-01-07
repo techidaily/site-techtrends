@@ -1,7 +1,7 @@
 ---
 title: The Smart Move Away From iPhone 16 - Why Choosing Different Tech Might Be Better
-date: 2024-12-21T16:09:59.779Z
-updated: 2024-12-28T16:25:36.934Z
+date: 2025-01-02T19:27:22.697Z
+updated: 2025-01-06T17:50:59.502Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -87,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -99,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -117,6 +113,10 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,18 +158,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-strategies-in-drone-filmmaking/"><u>[New] 2024 Approved Top Strategies in Drone Filmmaking</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-expert-guide-to-android-time-lapse-video-magic-for-2024/"><u>[New] Expert Guide to Android Time-Lapse Video Magic for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions-for-2024/"><u>[New] The Power of Consistency Steps to Increase YouTube Views and Subscriptions for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-12-free-mobile-apps-for-watching-films-online/"><u>Best 12 Free Mobile Apps for Watching Films Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/boost-your-reach-tips-and-tricks-for-uploading-to-instagram-desktop-for-2024/"><u>Boost Your Reach Tips & Tricks for Uploading to Instagram Desktop for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comment-recuperer-vos-fichiers-egares-apres-lactualisation-de-windows-10-version-1809/"><u>Comment Récupérer Vos Fichiers Égarés Après L'Actualisation De Windows 10 (Version 1809) ?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-computer-gear-by-toms-hardware-guides/"><u>Expert Analysis on Computer Gear by Tom's Hardware Guides</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-itel-p55-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P55 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy XCover 6 Pro Tactical Edition Phone?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-and-easy-techniques-to-capture-what-you-see-on-your-pc-screen/"><u>Quick and Easy Techniques to Capture What You See on Your PC Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-leveraging-the-wayback-machines-capabilities/"><u>The Ultimate Tutorial on Leveraging the Wayback Machine's Capabilities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-determining-if-xbox-online-services-are-unavailable/"><u>Troubleshooting Guide: Determining if Xbox Online Services Are Unavailable</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-your-imagery-a-compreenasional-on-lightroom-hdr/"><u>[New] 2024 Approved Elevate Your Imagery A Compreenasional on Lightroom HDR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cost-analysis-maximizing-views-on-youtube/"><u>[Updated] In 2024, Cost Analysis Maximizing Views on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-video-builder-how-to-create-video-ads-for-free/"><u>[Updated] In 2024, YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-language-of-cinema-writing-as-an-art/"><u>[Updated] The Language of Cinema Writing as an Art</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adaptive-content-strategies-for-optimal-youtube-performance-for-2024/"><u>Adaptive Content Strategies for Optimal YouTube Performance for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/blending-your-loved-melodies-the-guide-to-combining-spotify-plays/"><u>Blending Your Loved Melodies: The Guide to Combining Spotify Plays</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhance-logistics-management-with-our-step-by-step-shipping-procedure-guide-get-it-here-today/"><u>Enhance Logistics Management with Our Step-by-Step Shipping Procedure Guide – Get It Here Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-enabling-and-leveraging-apples-stealthy-finder-path-bar-feature/"><u>Expert Tips for Enabling and Leveraging Apple's Stealthy Finder Path Bar Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-smartwatches-what-they-are-and-how-they-enhance-your-life/"><u>Exploring Smartwatches – What They Are and How They Enhance Your Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-solve-missing-python24dll-in-windows-systems/"><u>How to Address and Solve 'Missing Python24.dll' In Windows Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tream-platform-push-facebook-vs-youtube-and-periscope/"><u>Livestream Platform Push Facebook Vs. YouTube & Periscope</u></a></li>
+<li><a href="https://techtrends.techidaily.com/outreach-for-backlinks-contact-influencers-bloggers-or-experts-in-the-field-and-ask-them-to-share-your-content-on-their-platforms-or-link-back-to-your-artic41/"><u>Outreach for Backlinks: Contact Influencers, Bloggers, or Experts in the Field and Ask Them to Share Your Content on Their Platforms or Link Back to Your Article</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps5-dualsense-charger-woes-heres-how-to-get-your-controller-back-in-action/"><u>PS5 DualSense Charger Woes? Here's How to Get Your Controller Back in Action!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-steamdll-error-quickly-and-easily/"><u>Resolve 'Steam.dll' Error Quickly and Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-dialogue-in-film-and-theatre-for-2024/"><u>The Art of Dialogue in Film and Theatre for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-swf-en-format-webm-gratuitement-sur-linternet-services-de-conversion-de-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier SWF en Format Webm Gratuitement Sur L'Internet - Services De Conversion De Movavi</u></a></li>
 </ul></div>
 

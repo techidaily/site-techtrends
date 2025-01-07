@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2024-12-24T16:26:18.332Z
-updated: 2024-12-28T16:10:36.241Z
+date: 2025-01-05T20:08:17.799Z
+updated: 2025-01-07T04:09:38.686Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -48,6 +44,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +55,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-perfecting-your-drone-video-craft/"><u>[New] Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-essential-guide-to-multistation-open-source-video-tools-for-2024/"><u>[New] Essential Guide to Multistation Open Source Video Tools for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-rapid-route-to-reclaimed-reddit-articles-for-2024/"><u>[Updated] Rapid Route to Reclaimed Reddit Articles for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cbrmcprm/"><u>【ベストプラクティス無料】CBRM対応地デジフリーソフトを活用した正確なCPRM解除手順</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-put-a-halt-on-surprise-youtube-videos/"><u>2024 Approved Put a Halt on Surprise YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-best-fps-optimization-tools-for-lag-free-pc-gaming-and-streaming-boost-gameplay-performance-now/"><u>5 Best FPS Optimization Tools for Lag-Free PC Gaming and Streaming - Boost Gameplay Performance Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/15-4k-1080p/"><u>免費提供，15 部 4K 或者 1080P 電影轉檔平台解決方案</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-down-bandwidth-handy-fixes-for-improving-a-sluggish-internet-speed/"><u>Breaking Down Bandwidth: Handy Fixes for Improving a Sluggish Internet Speed</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-regular-vlogger-discussion-guidelines/"><u>In 2024, Regular Vlogger Discussion Guidelines</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp4mov/"><u>MP4形式からMOVへ効果的に変換するための最適化方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/power2go-u/"><u>Power2Go操作マニュアル: U盤書き込み・コピー手法の実施</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-dvd-copying-with-winxdvd-convert-videos-and-effortlessly-move-to-ios-devices/"><u>Seamless DVD Copying with WinXDVD – Convert Videos & Effortlessly Move to iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-solving-the-mystery-of-the-black-screen-during-your-facetime-calls/"><u>Ultimate Guide: Solving the Mystery of the Black Screen During Your FaceTime Calls</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-top-video-trailer-creation-tools-for-2024/"><u>Updated Top Video Trailer Creation Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-capturing-your-ps4-experience/"><u>[New] The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-10-free-stock-footage-websites-you-should-know-for-2024/"><u>[New] Top 10 Free Stock Footage Websites You Should Know for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-understanding-luts-to-amplify-your-photo-quality-for-2024/"><u>[New] Understanding LUTs to Amplify Your Photo Quality for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>[Updated] In 2024, A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c02-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C02 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-future-of-connectivity-with-verizons-5g-network/"><u>Anticipating the Future of Connectivity with Verizon's 5G Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-missing-python-240-dynamic-link-library-issues/"><u>Easy Solutions for Correcting Missing 'Python 2.4.0' Dynamic Link Library Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-images-to-tiff-format-movavis-online-tool/"><u>Free Conversion of PPM Images to TIFF Format - Movavi's Online Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fubotv-integration-install-and-enjoy-live-sports-and-shows-on-firestick/"><u>FuboTV Integration: Install and Enjoy Live Sports & Shows on Firestick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-leverage-the-windows-11-battery-report-for-better-device-performance/"><u>How to Leverage the Windows 11 Battery Report for Better Device Performance</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-wirecast-techniques-for-effective-youtube-streams/"><u>In 2024, WireCast Techniques for Effective Youtube Streams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 Vs. MacBook Air M3: What's the Difference?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-leads-bridging-cultures-and-courses-with-70plus-million-users/"><u>Mondly Leads: Bridging Cultures & Courses with 70+ Million Users</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/resolve-your-iphones-invisibility-issue-on-windows-pc-a-guide-with-6-effective-solutions/"><u>Resolve Your iPhone's Invisibility Issue on Windows PC: A Guide with 6 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/supercharge-your-iphone-browsing-4-ways-to-improve-safari-speed-and-responsiveness/"><u>Supercharge Your iPhone Browsing - 4 Ways to Improve Safari Speed and Responsiveness</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722900422983-troubleshooting-missing-zlibdll-error-a-comprehensive-guide/"><u>Troubleshooting Missing zlib.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-why-your-apple-watchs-cellular-connection-might-be-down-and-how-to-resolve-it/"><u>Troubleshooting: Why Your Apple Watch's Cellular Connection Might Be Down and How to Resolve It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-deactivating-and-deleting-your-tiktok-account/"><u>Ultimate Guide to Deactivating and Deleting Your TikTok Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unmasking-private-callers-expert-techniques-for-reconnecting-with-anonymous-telephone-contacts/"><u>Unmasking Private Callers: Expert Techniques for Reconnecting with Anonymous Telephone Contacts</u></a></li>
 </ul></div>
 

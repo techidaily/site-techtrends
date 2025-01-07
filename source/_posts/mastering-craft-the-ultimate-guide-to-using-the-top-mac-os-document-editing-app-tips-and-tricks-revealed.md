@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed"
-date: 2024-12-19T18:56:28.576Z
-updated: 2024-12-22T19:05:26.040Z
+date: 2025-01-03T16:57:12.286Z
+updated: 2025-01-06T22:11:31.604Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,21 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-scripts-that-reshape-cinematic-history/"><u>[New] Scripts that Reshape Cinematic History</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-create-gifs-from-youtube-videos/"><u>[Updated] In 2024, How to Create GIFs From YouTube Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/299-amazon-prime-day-special-the-new-apple-10th-generation-ipad/"><u>$299 Amazon Prime Day Special: The New Apple 10Th Generation iPad!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-uncluttered-focus-affinity-photos-cleanup-technique/"><u>2024 Approved Uncluttered Focus Affinity Photo's Cleanup Technique</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tricks-to-sync-a-bluetooth-mouse-on-microsoft-windows-and-apple-macos/"><u>Easy Tricks to Sync a Bluetooth Mouse on Microsoft Windows & Apple macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tutorial-using-a-dvd-player-application-on-windows-10-for-film-enjoyment/"><u>Easy Tutorial: Using a DVD Player Application on Windows 10 for Film Enjoyment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-revive-a-dysfunctional-lenovo-keyboard-glow/"><u>Effective Solutions to Revive a Dysfunctional Lenovo Keyboard Glow</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-lowering-processor-load-on-your-windows-pc/"><u>Effective Strategies for Lowering Processor Load on Your Windows PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-guide-to-identifying-your-current-windows-11-system-version/"><u>Effortless Guide to Identifying Your Current Windows 11 System Version</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/essential-strategies-and-insights-on-data-deletion-stellar-collection/"><u>Essential Strategies & Insights on Data Deletion - Stellar Collection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expanding-workspace-with-dual-monitors-compatible-with-windows-7-8-and-10-instructions/"><u>Expanding Workspace with Dual Monitors: Compatible With Windows 7, 8 & 10 Instructions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-the-wasteland-of-fallout-3-installation-guide-for-windows-11-gamers/"><u>Experience the Wasteland of Fallout 3: Installation Guide for Windows 11 Gamers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/iphone-7-proven-strategies-for-screen-capture-for-2024/"><u>IPhone 7 Proven Strategies for Screen Capture for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/launch-of-stable-diffusion-xl-version-10-enhanced-artistic-capabilities-unveiled/"><u>Launch of Stable Diffusion XL Version 1.0: Enhanced Artistic Capabilities Unveiled</u></a></li>
-<li><a href="https://solve-info.techidaily.com/master-the-art-of-risk-free-cryptocurrency-exchange-using-yl-computing-tools/"><u>Master the Art of Risk-Free Cryptocurrency Exchange Using YL Computing Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-sound-of-success-audio-tips-to-elevate-your-youtube-experience-for-2024/"><u>The Sound of Success Audio Tips to Elevate Your YouTube Experience for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-elevate-your-online-presence-conquer-10-key-smm-steps-today/"><u>[New] In 2024, Elevate Your Online Presence Conquer 10 Key SMM Steps Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-simplify-images-remove-the-environmental-elements/"><u>2024 Approved Simplify Images Remove the Environmental Elements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/buddy-system-boost-enhancing-your-pokemon-expeditions-together/"><u>Buddy System Boost: Enhancing Your Pokémon Expeditions Together</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-the-differences-ps5-console-vs-ps5-digital-edition/"><u>Comparing the Differences: PS5 Console Vs. PS5 Digital Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-gpt-series-from-1-to-4/"><u>Demystifying GPT Series From 1 to 4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-bing-what-you-need-to-know-about-this-search-engine/"><u>Discover Bing: What You Need To Know About This Search Engine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-top-5-exciting-features-of-the-newly-released-ios-18-public-beta-insights-from-zdnet/"><u>Discover Top 5 Exciting Features of the Newly Released iOS 18 Public Beta - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-resolving-windows-code-31-issues/"><u>Effective Solutions for Resolving Windows Code 31 Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-stop-anonymous-phone-numbers-from-disturbing-you-on-ios-devices/"><u>Guide: Stop Anonymous Phone Numbers From Disturbing You on iOS Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v27e-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-video-vulnerability-sample-based-fixes/"><u>Restoring Video Vulnerability: Sample-Based Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-transition-getting-started-with-outlook-preview-on-windows-11/"><u>Seamless Transition: Getting Started with Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-media-sensation-top-eight-videos/"><u>Social Media Sensation Top Eight Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-erasing-your-images-from-facebooks-timeline/"><u>Step-by-Step Guide: Erasing Your Images From Facebook's Timeline</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-3-essential-technology-trends-shaping-the-future/"><u>Top 3 Essential Technology Trends Shaping the Future</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-creativity-with-these-4-must-try-free-cad-applications/"><u>Unlocking Creativity with These 4 Must-Try Free CAD Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-start-my-adventure-solving-wings-of-ruin-game-launch-problems/"><u>Why Can't I Start My Adventure? Solving 'Wings of Ruin' Game Launch Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2024-12-24T16:28:05.235Z
-updated: 2024-12-28T16:18:43.710Z
+date: 2025-01-02T22:49:35.687Z
+updated: 2025-01-07T01:00:18.973Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -17,7 +17,7 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 ## Effective Strategies for Managing Workflow with Slack Notifications
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -29,7 +29,7 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
  If you work with remote team members, you're probably familiar with Slack as a collaboration tool. But did you know that Slack also has a powerful, built-in task reminder system? Slack reminders are a great way to remember things like work tasks, personal appointments, or birthdays. Here's how it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a Reminder in Slack
@@ -48,15 +48,11 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![Reminder confirmation](https://www.lifewire.com/thmb/PzyebHvUXsi9Hje98FToFqDftnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackreminderresult-a1aede9c7212420fad2f823efe967309.jpg)
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
@@ -67,10 +63,18 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![List of reminders](https://www.lifewire.com/thmb/93fmPOaAUZSyg_r2w9V_Eko55e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-78e950d238934f26bea0fad0dc6c6106.jpg)
 2. Select**Delete** next to the task you want to remove.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
 
  The /remind command works the same whether you're using Slack on the web or the Slack mobile app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set a Reminder in Slack From Messages
 
@@ -82,10 +86,6 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 
 3. On the**Remind me** window, tap the time when you want to be reminded. Select**Custom** to set your own date, time, or custom reminder text.  
 ![Remind Me in Slack app](https://www.lifewire.com/thmb/5qXQiml1lToF3zCuFYZVOfTFy2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackappremindme-9ada02a06c2c490bb9fa654470dd6913.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  These reminders will show up in the Slackbot channel just like any of the other reminders that you've set for yourself using the /remind command.
 
@@ -118,24 +118,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-gaming-history-told-by-top-video-makers/"><u>[New] 2024 Approved Gaming History Told by Top Video Makers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>[New] In 2024, Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-7-advanced-mobile-applications-transforming-voice-clarity/"><u>[Updated] 2024 Approved 7 Advanced Mobile Applications Transforming Voice Clarity</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-lore-legends-top-10-roguelike-experiences/"><u>[Updated] 2024 Approved Lore Legends Top 10 Roguelike Experiences</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-perfecting-trailer-audio-a-step-by-step-approach-for-2024/"><u>[Updated] Perfecting Trailer Audio A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-saving-game-moments-top-5-techniques-on-win10/"><u>[Updated] Saving Game Moments Top 5 Techniques on Win10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-reanimated-warfare-gameplay-excellence-in-the-undead-genre/"><u>2024 Approved Reanimated Warfare Gameplay Excellence in the Undead Genre</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-finest-gmail-substitutes-ranked-your-2024-guide-to-e-mail-excellence/"><u>Discover the Finest Gmail Substitutes Ranked - Your 2024 Guide to E-Mail Excellence</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-dell-wd19-driver-step-by-step-guide/"><u>Download & Install Dell WD19 Driver: Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminate-your-msvcr70dll-error-comprehensive-troubleshooting-steps/"><u>Eliminate Your MSVCR70.dll Error - Comprehensive Troubleshooting Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-enabling-and-using-facetime-on-your-windows-pc/"><u>Guide: Enabling and Using FaceTime on Your Windows PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-waters-of-education-securing-a-discount-with-tidal-account/"><u>Navigating the Waters of Education: Securing a Discount with Tidal Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamp-your-streaming-experience-fix-netflix-problems-on-lg-screens-using-our-top-19-hacks/"><u>Revamp Your Streaming Experience: Fix Netflix Problems on LG Screens Using Our Top 19 Hacks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-for-resolving-gsdll32dll-errors/"><u>Step-by-Step Guide for Resolving gSDll32.DLL Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solution-making-your-samsung-tv-apps-work-again/"><u>Step-by-Step Solution: Making Your Samsung TV Apps Work Again</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-secrets-how-to-craft-your-own-awkward-potion-in-minecraft-legacy/"><u>Unveiling Secrets: How to Craft Your Own Awkward Potion in Minecraft Legacy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/your-personal-screening-room-master-the-art-of-watching-3d-films-via-fandangos-at-home-service/"><u>Your Personal Screening Room: Master the Art of Watching 3D Films via Fandango's At-Home Service</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-installing-snapchat-a-mac-owners-handbook/"><u>[New] Installing Snapchat A Mac Owner's Handbook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>[Updated] 2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[Updated] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-closer-examination-of-netflixs-past-the-story-behind-its-dvd-subscription-service/"><u>A Closer Examination of Netflix's Past - The Story Behind Its DVD Subscription Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-your-iphone-apps-to-download-follow-our-top-10-troubleshooting-steps/"><u>Can't Get Your iPhone Apps to Download? Follow Our Top 10 Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/checking-your-mailcom-email-how-long-is-it-valid-for/"><u>Checking Your Mail.Com Email: How Long Is It Valid For?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/currently-hot-the-best-tv-series-airing-on-max-network/"><u>Currently Hot: The Best TV Series Airing on MAX Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-video-chat-apps-skype-alternatives-2024-edition/"><u>Discover the Ultimate List of Free Video Chat Apps (Skype Alternatives) - 2024 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ting-your-videos-status-on-youtube-for-2024/"><u>Elevating Your Video's Status on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-to-resolve-binkw32dll-missing-mistakes-in-your-system/"><u>Essential Steps to Resolve Binkw32.dll Missing Mistakes in Your System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975784873-free-download-hp-deskjet-pro-7520-printer-drivers-get-your-printing-started/"><u>Free Download: HP DeskJet Pro 7520 Printer Drivers - Get Your Printing Started</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-microsoft-outlooks-spell-check-feature-back-on-track-a-step-by-step-guide/"><u>Getting Microsoft Outlook's Spell Check Feature Back on Track – A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 5 Lite</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-best-livestreaming-video-tech-for-2024/"><u>In-Depth Analysis The Best Livestreaming Video Tech for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-netflix-available-and-functional-on-the-nintendo-switch-platform/"><u>Is Netflix Available and Functional on the Nintendo Switch Platform?</u></a></li>
 </ul></div>
 

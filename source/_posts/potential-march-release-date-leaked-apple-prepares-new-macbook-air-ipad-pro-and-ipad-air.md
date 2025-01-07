@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-12-25T16:24:06.853Z
-updated: 2024-12-28T16:12:49.791Z
+date: 2024-12-30T16:58:23.205Z
+updated: 2025-01-06T23:41:54.872Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -57,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -77,7 +77,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,24 +160,21 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-record-podcast-remotely-for-2024/"><u>[New] How to Record Podcast Remotely for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-connecting-through-ig-a-guide-for-hyperlink-posts/"><u>2024 Approved Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-translate-compressed-files-into-subtitle-format-srt/"><u>2024 Approved Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-curators-choice-top-12-websites-to-steal-millions-of-favorite-pixels/"><u>A Curator's Choice Top 12 Websites to Steal Millions of Favorite Pixels</u></a></li>
-<li><a href="https://windows11.techidaily.com/combating-computer-chaos-fixing-windows-non-responsive-keys/"><u>Combating Computer Chaos: Fixing Windows' Non-Responsive Keys</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-find-opengl32dll-on-windows-systems/"><u>Easy Fixes for When You Can't Find OpenGL32.dll on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-windows-update-error-a-step-by-step-guide/"><u>Fixing Windows Update Error: A Step-By-Step Guide</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-effective-is-windows-defender-in-blocking-viruses-and-threats-insights-from-yl-computing-experts/"><u>How Effective Is Windows Defender in Blocking Viruses and Threats? - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-navigating-high-speed-video-transitions-with-ease/"><u>In 2024, Navigating High-Speed Video Transitions with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/installing-windows-10-a-comprehensive-tutorial-for-brand-new-drives/"><u>Installing Windows 10: A Comprehensive Tutorial for Brand New Drives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-version-of-mozilla-thunderbird-update-52-released/"><u>Latest Version of Mozilla Thunderbird - Update 52 Released</u></a></li>
-<li><a href="https://techtrends.techidaily.com/listen-together-how-to-stream-spotify-with-two-people-at-once/"><u>Listen Together: How to Stream Spotify with Two People At Once</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-users-handbook-unlocking-secure-file-archives-with-rars/"><u>MacOS Users' Handbook: Unlocking Secure File Archives with RARs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-apples-icloud-accounts-via-advanced-multi-level-authentication-techniques/"><u>Protecting Apple's iCloud Accounts via Advanced Multi-Level Authentication Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-the-elusive-gsdll32dll-not-detected-problems/"><u>The Ultimate Fix for the Elusive gsdll32.dll Not Detected Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranking-android-smartwatch-applications-a-comprehvew/"><u>Top-Ranking Android Smartwatch Applications: A Comprehvew</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-guide-step-by-step-processes-for-saving-your-data-on-hp-computers-using-windows-operating-systems-from-vista-to-the-latest-version/"><u>Ultimate Guide: Step-by-Step Processes for Saving Your Data on HP Computers Using Windows Operating Systems (From Vista to the Latest Version)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-student-only-deals-on-youtube-premium-your-ultimate-cheat-sheet/"><u>Unlocking Student-Only Deals on YouTube Premium – Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-obs-for-top-notch-social-media-streaming-for-2024/"><u>[New] Leveraging OBS for Top-Notch Social Media Streaming for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mac-studios-for-top-quality-recordings/"><u>[Updated] In 2024, Mac Studios for Top-Quality Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mac-high-quality-video-and-audible-recording/"><u>[Updated] Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-apeak-recording-examined-quality-and-features-decoded/"><u>2024 Approved Apeak Recording Examined Quality and Features Decoded</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722848391437-dciman32dll-couldnt-be-located-heres-how-to-fix-it/"><u>dciman32.dll Couldn't Be Located? Here's How to Fix It</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-motherboard-picks-deciphering-7-critical-aspects-to-assess-before-buying/"><u>Mastering Motherboard Picks: Deciphering 7 Critical Aspects to Assess Before Buying</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-digital-dialogues-harnessing-gpt-capabilities/"><u>Personalizing Digital Dialogues: Harnessing GPT Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-razer-headset-microphone-quick-and-simple-repair-tips/"><u>Revive Your Razer Headset Microphone: Quick & Simple Repair Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-streaming-made-simple-linking-your-android-device-with-amazons-firestick/"><u>Seamless Streaming Made Simple: Linking Your Android Device with Amazon's Firestick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-how-to-recover-from-a-missing-or-undetectable-d3dx933dll-file/"><u>Solving the Dilemma: How to Recover From a Missing or Undetectable d3dx9_33.dll File</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/stop-the-mute-add-sound-to-tweeted-clips-for-2024/"><u>Stop the Mute Add Sound to Tweeted Clips for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-hierarchy-of-royal-match-games-discovering-the-total-number-of-stages/"><u>The Hierarchy of Royal Match Games: Discovering the Total Number of Stages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-rcs-the-next-evolution-in-mobile-texting/"><u>Understanding RCS: The Next Evolution in Mobile Texting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722901452376-whatsapp-integration-guide-for-macos-enthusiasts-start-messaging-today/"><u>WhatsApp Integration Guide for MacOS Enthusiasts - Start Messaging Today!</u></a></li>
 </ul></div>
 
