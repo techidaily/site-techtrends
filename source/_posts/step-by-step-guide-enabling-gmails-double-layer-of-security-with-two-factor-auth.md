@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Enabling Gmail's Double Layer of Security with Two-Factor Auth"
-date: 2024-08-30T15:27:27.568Z
-updated: 2024-08-31T15:27:27.568Z
+date: 2025-01-11T18:44:56.571Z
+updated: 2025-01-13T16:59:35.683Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Enabling Gmail's Double Layer of Security with Two-Factor Auth"
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 [The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use AirDroid to Mirror Android on Windows 10  
 
  AirDroid is a free app that runs on Android, so you need an Android device to use this method. Once it's installed, you can view your phone live on your computer screen. If you enable remote control, you can even control your phone from Windows 10.
@@ -39,16 +40,28 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 5. Open the app and tap**Sign in** . Log in using one of the options, such as your Google account.  
 ![Install, Open, and Sign in buttons highlighted in the AirDroid app.](https://www.lifewire.com/thmb/-xB18efOoQrY5DNsDIQvVPm8Z7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B2-RunAndroidAppsonWindows10-annotated-96a94d6e72974efe9758ee2bc466187c.jpg)
 6. Tap**Continue** on the permission request to access your phone's files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
 9. Select**OK** on the Security & Remote Features screen to continue setup.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
 ![Screen Mirroring, Grant permission, and Still enable highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/tsy2xem1mP28NPMcPJucG_xT-s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B7-RunAndroidAppsonWindows10-annotated-34d27e18c6ec4ff7acdb6db8f668606c.jpg)
 11. Select**Continue** on the prompt to allow display over other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 12. Tap**AirDroid** from your list of apps.
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
@@ -57,6 +70,11 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
@@ -64,24 +82,17 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
 
  FAQ
@@ -115,8 +126,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +133,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/outube-artistry-designing-channels-visual-assets-bannersicons/"><u>[New] YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-questions-about-intermittent-video-playback-at-photobooth/"><u>2024 Approved Questions About Intermittent Video Playback at Photobooth</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mmakers-guide-to-mastering-green-screen-technology-for-2024/"><u>A Filmmaker's Guide to Mastering Green Screen Technology for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-top-10-complimentary-audio-visual-interface-tools-for-pcs-and-mac-devices/"><u>Discover the Top 10 Complimentary Audio Visual Interface Tools for PCs & Mac Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easily-change-flv-files-to-webm-online-for-no-cost-using-movavis-tools/"><u>Easily Change FLV Files to WebM Online for No Cost Using Movavi's Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-video-quality-prime-4k-conversion-solutions/"><u>Elevate Video Quality Prime 4K Conversion Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974566805-find-and-fix-issues-with-the-elan-smbus-driver-for-windows-a-comprehensive-update-guide/"><u>Find and Fix Issues with the Elan SMBus Driver for Windows: A Comprehensive Update Guide.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-pmg-informatie-in-een-png-beeld-online-metenavvi/"><u>Gratis PMG-Informatie in Een PNG-Beeld: Online Metenavvi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-x9a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor X9a to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-c53-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme C53</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>In 2024, LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformer-des-videos-mpeg-en-webm-facilement-guide-pas-a-pas-avec-movavi/"><u>Transformer Des Vidéos MPEG en WebM Facilement - Guide Pas À Pas Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wav-mp3-movavi/"><u>お使いワニで楽しむ WAV から MP3 に自由自在変換サービス – Movavi</u></a></li>
+</ul></div>
 

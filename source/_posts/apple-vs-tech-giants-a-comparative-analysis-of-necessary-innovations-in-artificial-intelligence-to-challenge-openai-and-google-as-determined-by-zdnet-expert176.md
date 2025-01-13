@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2024-12-31T20:53:25.248Z
-updated: 2025-01-07T00:06:36.213Z
+date: 2025-01-10T17:51:12.037Z
+updated: 2025-01-13T18:48:52.881Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -90,10 +90,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,17 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-effortlessly-fast-forward-focus-in-video-content/"><u>[New] In 2024, Effortlessly Fast-Forward Focus in Video Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-education-evolved-embracing-vr-technology/"><u>[Updated] In 2024, Education Evolved Embracing VR Technology</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-syncopated-social-media-adding-melodies-to-reels/"><u>[Updated] Syncopated Social Media Adding Melodies to Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-the-virtual-landscape-with-metaverse-marketing/"><u>2024 Approved Pioneering the Virtual Landscape with Metaverse Marketing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-mobile-apps-for-unlimited-access-to-your-favorite-films-and-series/"><u>Best Free Mobile Apps for Unlimited Access to Your Favorite Films and Series</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-virality-in-instagram-clips/"><u>In 2024, Mastering Virality in Instagram Clips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-apples-latest-gem-iphone-15-pro-max-built-for-underwater-adventures/"><u>Is Apple's Latest Gem, iPhone 15 Pro Max, Built for Underwater Adventures?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211253181-9783988316400-spellcrafting/"><u>SPELLCRAFTING | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/stable-logitech-webcam-software-installation/"><u>Stable Logitech Webcam Software Installation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-on-purchasing-an-ideal-tv-for-home-entertainment/"><u>Step-by-Step Strategies on Purchasing an Ideal TV for Home Entertainment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-for-connecting-homepod-to-a-tv-device/"><u>Ultimate Tutorial for Connecting HomePod to a TV Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-boosting-obs-streams-direct-to-facebook-feed/"><u>[New] In 2024, Boosting OBS Streams Direct to Facebook Feed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>[Updated] 2024 Approved Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>[Updated] In 2024, From Still Life to Motion Picture A Complete Guide on Pixiz Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] In 2024, Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-email-management-by-adding-new-addresses-to-gmail/"><u>Enhance Your Email Management by Adding New Addresses to Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-of-mobility-unveiled-top-trends-shaping-the-new-era-of-smart-devices-and-beyond/"><u>Future of Mobility Unveiled: Top Trends Shaping the New Era of Smart Devices and Beyond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-determine-if-system-configurations-are-controlled-by-admin-in-windows/"><u>How to Determine If System Configurations Are Controlled by Admin in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-sonys-new-vr-experience-price-estimates-launch-timeline-feature-overview-and-whispered-rumors/"><u>Inside Scoop on Sony's New VR Experience – Price Estimates, Launch Timeline, Feature Overview & Whispered Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-18-enhances-iphone-14-user-experience-with-seamless-content-creation-insights-for-developers/"><u>IOS 18 Enhances iPhone 14 User Experience with Seamless Content Creation – Insights for Developers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-your-next-purchase-should-you-opt-for-macbook-pro-or-macbook-air-expert-insights/"><u>Navigating Your Next Purchase: Should You Opt for MacBook Pro or MacBook Air? Expert Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-grade-8-filters-for-live-feeds-for-2024/"><u>Professional-Grade 8 Filters for Live Feeds for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722095219679-shield-up-dont-surrenderflee-googles-bard-app/"><u>Shield Up, Don't Surrender—Flee Google's Bard App</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-ssd-enhancement-for-your-hp-17-cn1053cl-comprehensive-tutorial-and-pro-tips/"><u>Step-by-Step SSD Enhancement for Your HP 17-Cn1053Cl: Comprehensive Tutorial & Pro Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-kid-friendly-smartphones-a-comprehensive-review-zdnet/"><u>Top Kid-Friendly Smartphones: A Comprehensive Review - ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-common-problems-with-wireless-network-devices-in-10-steps/"><u>Ultimate Guide: Resolving Common Problems with Wireless Network Devices in 10 Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-your-network-a-step-by-step-guide-to-finding-wi-fi-passwords-on-windows-11/"><u>Unlocking Your Network: A Step-by-Step Guide to Finding Wi-Fi Passwords on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-the-complexities-of-firefox-split-screen/"><u>Unraveling the Complexities of Firefox Split Screen</u></a></li>
 </ul></div>
 

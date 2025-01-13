@@ -1,7 +1,7 @@
 ---
 title: "Investigating Xbox Online Problems: Determining if It's Just User-Specific Issues or an Actual Service Interruption."
-date: 2024-08-30T15:22:42.294Z
-updated: 2024-08-31T15:22:42.294Z
+date: 2025-01-06T18:23:17.692Z
+updated: 2025-01-13T17:40:51.760Z
 categories:
   - BestProducts
 description: "This Article Describes Investigating Xbox Online Problems: Determining if It's Just User-Specific Issues or an Actual Service Interruption."
@@ -42,6 +42,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -51,15 +55,13 @@ Patent US8929085B2.
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -72,23 +74,22 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -102,8 +103,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -138,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +153,22 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-demystifying-social-engagement-instagram-stories-surveys/"><u>[New] 2024 Approved Demystifying Social Engagement Instagram Stories Surveys</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-secrets-of-seamlessly-sharing-in-tiktok-livestreams/"><u>[New] 2024 Approved Secrets of Seamlessly Sharing in TikTok Livestreams</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevating-tiktok-visuals-with-monumental-head-effects-for-2024/"><u>Elevating TikTok Visuals with Monumental Head Effects for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-diagnose-and-repair-unresponsive-typing-on-your-keyboard/"><u>How to Diagnose and Repair Unresponsive Typing on Your Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-chatting-seamlessly-with-mozilla-thunderbird-a-comprehensive-overview/"><u>How to Navigate Chatting Seamlessly with Mozilla Thunderbird - A Comprehensive Overview</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-huawei-nova-y71-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722898480698-mac-users-rejoice-how-to-reset-your-dns-records-effortlessly/"><u>Mac Users Rejoice: How to Reset Your DNS Records Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722877778619-networking-made-simple-how-to-link-external-drives-with-mac-os/"><u>Networking Made Simple: How to Link External Drives with Mac OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/prioritize-your-purchase-key-considerations-for-buying-the-perfect-smart-tv/"><u>Prioritize Your Purchase: Key Considerations for Buying the Perfect Smart TV</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto G34 5G FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-restoring-unhidden-applications-on-an-iphone-device/"><u>The Ultimate Guide to Restoring Unhidden Applications on an iPhone Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-workflows-dive-into-8-customized-ai-models/"><u>Transform Workflows: Dive Into 8 Customized AI Models</u></a></li>
+<li><a href="https://article-posts.techidaily.com/video-quest-hero5-black-vs-virb-for-adventurers/"><u>Video Quest Hero5 Black VS. VIRB for Adventurers</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-to-do-if-the-mail-and-calendar-app-wont-open-in-windows-11/"><u>What to Do if the Mail and Calendar App Won’t Open in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-it-reigns-supreme-in-smart-devices-today-techsavvyreviews/"><u>Why It Reigns Supreme in Smart Devices Today | TechSavvyReviews</u></a></li>
+</ul></div>
 

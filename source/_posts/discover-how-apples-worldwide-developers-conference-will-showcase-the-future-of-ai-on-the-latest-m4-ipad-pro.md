@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2025-01-04T23:31:52.340Z
-updated: 2025-01-06T23:05:13.173Z
+date: 2025-01-11T16:05:16.679Z
+updated: 2025-01-13T18:28:58.921Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,21 +114,15 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-engage-your-audience-in-live-discord-streams-easily/"><u>[New] 2024 Approved How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-polaroid-cubeplus-action-camera-review/"><u>[New] Polaroid Cube+ Action Camera Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-flips-mastering-the-video-360-turn/"><u>[Updated] In 2024, Instagram Flips Mastering the Video 360-Turn</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>2024 Approved Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-free-from-endless-linux-upgrades-discover-the-all-in-one-distribution-that-stops-the-cycle/"><u>Breaking Free From Endless Linux Upgrades? Discover the All-in-One Distribution That Stops the Cycle!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connecting-a-firestick-with-your-projector-a-comprehensive-guide/"><u>Connecting a Firestick with Your Projector: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-printer-drivers-on-windows-1011-easy-guide/"><u>Download & Install HP Printer Drivers on Windows 10/11: Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-to-hidden-widgets-on-windows-systems/"><u>Expert Guide to Hidden Widgets on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-amd-radeon-hd-graphics-card-drivers-compatible-with-windows-nine/"><u>Get the Newest AMD Radeon HD Graphics Card Drivers Compatible with Windows Nine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/google-event-preview-decoding-the-hype-with-insider-news-and-speculated-features/"><u>Google Event Preview: Decoding the Hype with Insider News & Speculated Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-do-i-manage-multiple-youtube-accounts-effectively/"><u>How Do I Manage Multiple YouTube Accounts Effectively?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-macbook-thermal-management-tips-for-monitoring-your-laptops-heat-levels/"><u>Mastering MacBook Thermal Management: Tips for Monitoring Your Laptop's Heat Levels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shuttered-by-darkness-iphone-tips-and-tricks/"><u>Shuttered by Darkness IPhone Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-5-key-questions-to-ask-when-shopping-for-the-perfect-smartwatch/"><u>The 5 Key Questions to Ask When Shopping for the Perfect Smartwatch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-unifying-your-epic-games-profiles/"><u>Ultimate Guide: Unifying Your Epic Games Profiles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/zoom-connection-issues-are-you-facing-them-or-is-the-platform-at-fault/"><u>Zoom Connection Issues: Are You Facing Them or Is the Platform at Fault?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-playtime-pathways-video-games-resembling-gta-v/"><u>[New] In 2024, Playtime Pathways Video Games Resembling GTA V</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-top-snapchat-content-strategies-to-stand-out/"><u>[New] Top Snapchat Content Strategies to Stand Out</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nseen-algorithms-powering-youtubes-viewer-statistics/"><u>[New] Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-teen-drama-series-streaming-now-on-netflix/"><u>Best Teen Drama Series Streaming Now on Netflix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>In 2024, The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-control-of-your-computer-accessibility-settings-by-disabling-sticky-keys-in-windows-systems/"><u>Master the Control of Your Computer Accessibility Settings by Disabling Sticky Keys in Windows Systems</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-apowersoft-pdf-converter-tool-detailed-users-handbook-and-guide/"><u>Mastering the Apowersoft PDF Converter Tool: Detailed User's Handbook & Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smart-shopping-guide-important-points-to-remember-when-picking-out-a-video-recorder/"><u>Smart Shopping Guide: Important Points to Remember When Picking Out a Video Recorder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-your-spotify-playlists-into-written-documents/"><u>Step-by-Step Guide: Converting Your Spotify Playlists Into Written Documents</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/er-top-15-sci-tech-youtube-channels-for-learners/"><u>Uncover Top 15 Sci-Tech YouTube Channels for Learners</u></a></li>
 </ul></div>
 

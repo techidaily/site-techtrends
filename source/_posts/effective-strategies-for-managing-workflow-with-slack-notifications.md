@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2025-01-02T22:49:35.687Z
-updated: 2025-01-07T01:00:18.973Z
+date: 2025-01-08T16:02:02.044Z
+updated: 2025-01-13T17:56:14.190Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 
 ## Effective Strategies for Managing Workflow with Slack Notifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * In the comment field, type**/remind** followed by the person you want to remind, the reminder, and the date for the reminder.
@@ -27,10 +23,6 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 * To edit reminders, go to your own Slack channel and type**/remind list** .
 
  If you work with remote team members, you're probably familiar with Slack as a collaboration tool. But did you know that Slack also has a powerful, built-in task reminder system? Slack reminders are a great way to remember things like work tasks, personal appointments, or birthdays. Here's how it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add a Reminder in Slack
 
@@ -40,19 +32,31 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 ![/remind in comment field](https://www.lifewire.com/thmb/JfagLg56YIHsOoAPjrF9H7yGFrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremind-5f0ca162e03b45e4aaf16a79ff623134.jpg)
 2. Always precede the name of the person with the**@** symbol or the name of the channel with the**#** symbol. If you're reminding yourself, just use**me** without the @ symbol. Follow the /remind command with the person you want to set the reminder for, the reminder, and the date for the reminder. Like this:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _/remind me "reminder" 4/29/2020 9:15 PM_  
 ![Reminder in Slack comment field](https://www.lifewire.com/thmb/Y_JaemDUyAZIyqIKuDZj3PtsRqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslackcommentfield-65f035cb01d248c89a768e5c87c5f919.jpg)  
  You can use a number of formats to define the time. Specify only the time for today, state the date in most formats, or write any day of the week. You can also use recurring terms like "every Monday and Friday" or "every weekday". If you don't specify time, it'll default to 9:00 AM on the day you specify.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. When you press**Enter** , you'll see a message confirming that Slack will remind you at the date and time you specified. You'll also see buttons to**Delete** the reminder or**View Reminders** that you've already set.  
 ![Reminder confirmation](https://www.lifewire.com/thmb/PzyebHvUXsi9Hje98FToFqDftnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackreminderresult-a1aede9c7212420fad2f823efe967309.jpg)
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
@@ -64,17 +68,13 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 2. Select**Delete** next to the task you want to remove.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
 
  The /remind command works the same whether you're using Slack on the web or the Slack mobile app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set a Reminder in Slack From Messages
 
@@ -118,21 +118,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-installing-snapchat-a-mac-owners-handbook/"><u>[New] Installing Snapchat A Mac Owner's Handbook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>[Updated] 2024 Approved How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[Updated] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-closer-examination-of-netflixs-past-the-story-behind-its-dvd-subscription-service/"><u>A Closer Examination of Netflix's Past - The Story Behind Its DVD Subscription Service</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-get-your-iphone-apps-to-download-follow-our-top-10-troubleshooting-steps/"><u>Can't Get Your iPhone Apps to Download? Follow Our Top 10 Troubleshooting Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/checking-your-mailcom-email-how-long-is-it-valid-for/"><u>Checking Your Mail.Com Email: How Long Is It Valid For?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/currently-hot-the-best-tv-series-airing-on-max-network/"><u>Currently Hot: The Best TV Series Airing on MAX Network</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-free-video-chat-apps-skype-alternatives-2024-edition/"><u>Discover the Ultimate List of Free Video Chat Apps (Skype Alternatives) - 2024 Edition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ting-your-videos-status-on-youtube-for-2024/"><u>Elevating Your Video's Status on YouTube for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-steps-to-resolve-binkw32dll-missing-mistakes-in-your-system/"><u>Essential Steps to Resolve Binkw32.dll Missing Mistakes in Your System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975784873-free-download-hp-deskjet-pro-7520-printer-drivers-get-your-printing-started/"><u>Free Download: HP DeskJet Pro 7520 Printer Drivers - Get Your Printing Started</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-microsoft-outlooks-spell-check-feature-back-on-track-a-step-by-step-guide/"><u>Getting Microsoft Outlook's Spell Check Feature Back on Track – A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor Magic 5 Lite</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-best-livestreaming-video-tech-for-2024/"><u>In-Depth Analysis The Best Livestreaming Video Tech for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-netflix-available-and-functional-on-the-nintendo-switch-platform/"><u>Is Netflix Available and Functional on the Nintendo Switch Platform?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-detailed-look-at-the-latest-lg-360-camera-tech/"><u>[New] In 2024, Detailed Look at the Latest LG 360 Camera Tech</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-made-easier-learning-to-use-netflixs-dual-screen-feature/"><u>[New] Streaming Made Easier Learning to Use Netflix's Dual-Screen Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-and-tricks-how-to-choose-a-winner-amongst-360-degree-cameras/"><u>2024 Approved Tips & Tricks How to Choose a Winner Amongst 360-Degree Cameras</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto G34 5G Phone?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-proven-methods-for-assessing-youtube-channel-profitability/"><u>In 2024, Proven Methods for Assessing YouTube Channel Profitability</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-liquid-found-inside-charging-port-dilemma-and-solutions-explained/"><u>Iphone Liquid Found Inside Charging Port: Dilemma & Solutions Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-your-task-list-proven-strategies-to-streamline-workday-processes-tips/"><u>Master Your Task List: Proven Strategies to Streamline Workday Processes - Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinventing-menu-magic-in-modern-operating-system/"><u>Reinventing Menu Magic in Modern Operating System</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reset-your-web-browsing-dns-clearing-on-windows-10-and-11-explained/"><u>Reset Your Web Browsing: DNS Clearing on Windows 10 & 11 Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/save-big-this-season-discover-the-41-greatest-apple-discounts-for-festive-shopping-with-expert-insights-by-zdnet/"><u>Save Big This Season: Discover the 41 Greatest Apple Discounts for Festive Shopping with Expert Insights by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-what-steps-should-you-take-if-your-emails-arent-syncing-on-gmail/"><u>Solving the Issue: What Steps Should You Take If Your Emails Aren't Syncing on Gmail?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-and-transferring-iso-files-to-your-ipad-including-ipad-mini/"><u>Step-by-Step Guide: Converting and Transferring ISO Files to Your iPad, Including iPad Mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-iphone-15-buyers-guide-deciding-between-regular-plus-pro-and-pro-max-variants-expert-reviews/"><u>The Ultimate iPhone 15 Buyer's Guide: Deciding Between Regular, Plus, Pro, and Pro Max Variants | Expert Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-family-entertainment-on-netflix/"><u>Ultimate List of Family Entertainment on Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-apples-bold-attack-on-leading-browser-through-eerie-marketing-move-spotlighted/"><u>Unveiling Apple's Bold Attack on Leading Browser Through Eerie Marketing Move, Spotlighted</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-generated-text-for-2024/"><u>Updated What Is AI Generated Text for 2024</u></a></li>
 </ul></div>
 

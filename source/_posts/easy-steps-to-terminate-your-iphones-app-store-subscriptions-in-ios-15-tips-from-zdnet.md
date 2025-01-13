@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips From ZDNet!
-date: 2025-01-02T04:04:15.219Z
-updated: 2025-01-06T20:02:35.086Z
+date: 2025-01-09T16:37:29.208Z
+updated: 2025-01-13T16:51:57.920Z
 tags:
   - apple
 categories:
@@ -28,7 +28,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -45,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -55,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -76,19 +84,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-online-title-mastery-techniques-you-cant-ignore/"><u>[New] 2024 Approved Online Title Mastery Techniques You Can't Ignore</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-techniques-for-saving-facetime-chats-live/"><u>[New] 2024 Approved Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-add-custom-thumbnails-to-your-youtube-videos-for-2024/"><u>[New] How To Add Custom Thumbnails to Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>[New] In 2024, Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-win-strategies-top-20-video-tips-for-content-boosters-for-2024/"><u>[Updated] Quick-Win Strategies Top 20 Video Tips for Content Boosters for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/analyzing-the-dji-phantom-4-vision-tech/"><u>Analyzing the DJI Phantom 4 Vision Tech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/blizzard-server-status-is-the-entire-world-offline-or-just-your-connection/"><u>Blizzard Server Status: Is the Entire World Offline, or Just Your Connection?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/extend-your-ipads-lifespan-a-comprehensive-guide-to-replacing-its-battery/"><u>Extend Your iPad's Lifespan - A Comprehensive Guide to Replacing Its Battery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fubotv-setup-made-easy-a-comprehensive-guide-for-fire-stick-users/"><u>FuboTV Setup Made Easy - A Comprehensive Guide For Fire Stick Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ranking-the-5-premier-generators-for-crafting-ai-prompts-across-various-systems/"><u>Ranking: The 5 Premier Generators for Crafting AI Prompts Across Various Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rocky-linux-foundation-gains-momentum-with-key-linux-experts-backing-its-contributor-identity-quest/"><u>Rocky Linux Foundation Gains Momentum with Key Linux Experts Backing Its Contributor Identity Quest</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/skyrocket-your-periscope-live-transmission-time/"><u>Skyrocket Your Periscope Live Transmission Time</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-9-essential-educational-gadgets-that-empower-students/"><u>The Ultimate List of 9 Essential Educational Gadgets That Empower Students</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-15-dolby-atmos-films-ultimate-in-home-cinema-experience/"><u>Top 15 Dolby Atmos Films: Ultimate In-Home Cinema Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-break-your-iphone-out-of-constant-headset-mode/"><u>Top 8 Solutions: How to Break Your iPhone Out of Constant Headset Mode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transferring-images-seamlessly-from-google-photo-library-to-apples-icloud/"><u>Transferring Images Seamlessly - From Google Photo Library to Apple's iCloud</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-overcoming-formidable-lynel-foes-in-botw/"><u>Ultimate Guide to Overcoming Formidable Lynel Foes in BOTW</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-huge-savings-the-best-6-coupons-and-discounts-websites-you-need-to-know-about/"><u>Unlock Huge Savings: The Best 6 Coupons & Discounts Websites You Need to Know About</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-on-the-horizon-for-apple-event-date-rumors-and-breakthrough-news-revealed/"><u>What's on the Horizon for Apple? Event Date, Rumors & Breakthrough News Revealed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-inside-out-how-to-react-on-twitter-vids/"><u>[Updated] 2024 Approved Inside Out How to React on Twitter Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-advice-on-itunes-video-capturing-for-2024/"><u>[Updated] Expert Advice on iTunes Video Capturing for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-note-12-4g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi Note 12 4G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-innovation-how-pre-ordering-the-apple-vision-pro-reflects-promising-developments-analysis/"><u>Anticipating Innovation: How Pre-Ordering the Apple Vision Pro Reflects Promising Developments Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722889118011-be-first-in-line-for-samsungs-innovative-phone-launch-event-details-inside/"><u>Be First in Line for Samsung's Innovative Phone Launch Event: Details Inside!</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effizientes-datensicherungs-und-wiederherstellungsprogramm-von-dell/"><u>Effizientes Datensicherungs- Und Wiederherstellungsprogramm Von Dell</u></a></li>
+<li><a href="https://win-web3.techidaily.com/explore-the-latest-innovations-in-microsofts-new-ai-powered-surface-devices-pro-10-and-laptop-6-insights-from-zdnet/"><u>Explore the Latest Innovations in Microsoft's New AI-Powered Surface Devices: Pro 10 and Laptop 6 | Insights From ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-apples-enhanced-nfc-technology-opens-new-doors-for-third-party-developers-on-iphones-discover-the-impact-and-advantages-techinsider/"><u>How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monthly-income-on-youtubes-revenue-model/"><u>In 2024, Monthly Income on YouTube's Revenue Model?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/keeping-kids-away-from-youtube-on-ipads-top-techniques-for-parents/"><u>Keeping Kids Away From YouTube on iPads - Top Techniques for Parents</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ringtune-recipe-mixing-and-mastering-tamil-music-for-alerts/"><u>RingTune Recipe Mixing & Mastering Tamil Music for Alerts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-enjoying-android-app-functionality-in-windows-11-environment/"><u>The Ultimate How-To: Enjoying Android App Functionality in Windows 11 Environment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-saving-secrets-how-to-retrieve-archived-reels-on-instagram/"><u>Uncover Saving Secrets: How to Retrieve Archived Reels on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-i-prefer-apples-new-mini-iphone-16-pro-over-the-iphone-16-max-insights/"><u>Why I Prefer Apple's New Mini iPhone 16 Pro Over the iPhone 16 Max : Insights</u></a></li>
 </ul></div>
 

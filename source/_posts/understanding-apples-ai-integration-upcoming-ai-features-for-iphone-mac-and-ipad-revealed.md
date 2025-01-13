@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2024-12-30T18:26:30.922Z
-updated: 2025-01-06T18:52:09.178Z
+date: 2025-01-09T16:52:37.958Z
+updated: 2025-01-13T17:28:42.290Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -77,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -99,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -126,6 +122,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -136,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -157,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,21 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/reate-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[New] Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-achieve-complete-volume-on-fb-media-shows-for-2024/"><u>[New] How to Achieve Complete Volume on Fb Media Shows for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategize-your-content-approach-unveil-youtube-metrics-via-social-blade/"><u>[New] Strategize Your Content Approach - Unveil YouTube Metrics via Social Blade</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722868036158-all-you-need-to-know-about-the-upcoming-samsung-galaxy-s25-price-forecasts-launch-timeline-and-tech-specs/"><u>All You Need to Know About the Upcoming Samsung Galaxy S25 - Price Forecasts, Launch Timeline & Tech Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/crack-the-code-on-401-authorization-error-fixes-essential-tips-and-tricks/"><u>Crack the Code on 401 Authorization Error Fixes – Essential Tips and Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-engaging-yt-titles-in-a-flash/"><u>Craft Engaging YT Titles in a Flash</u></a></li>
-<li><a href="https://techtrends.techidaily.com/critical-considerations-when-selecting-a-video-capturing-device/"><u>Critical Considerations When Selecting a Video Capturing Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-getting-your-macbook-pros-keyboard-back-in-action/"><u>Expert Tips: Getting Your MacBook Pro's Keyboard Back in Action</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-12-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 12 Pro Max Without Previous Owner?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-process-of-reactivation-after-instagram-account-limitation-or-deactivation/"><u>Navigating the Process of Reactivation After Instagram Account Limitation or Deactivation</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essentials-of-space-management-in-retro-game-archives-via-chdman/"><u>The Essentials of Space Management in Retro Game Archives via ChDMan</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-a-guide-to-getting-your-free-music-on-spotify-with-a-student-account/"><u>Unlocking the Secrets: A Guide to Getting Your Free Music on Spotify with a Student Account</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-asus-dvd-player-drivers-secure-your-system-now/"><u>Update Your ASUS DVD Player Drivers – Secure Your System Now</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>Updated In 2024, XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-was-the-role-of-aim-in-online-communication-diving-deeper-into-aols-legacy/"><u>What Was the Role of AIM in Online Communication? Diving Deeper Into AOL's Legacy</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024s-premium-youtube-channels-leading-in-product-launch-content/"><u>[New] 2024'S Premium YouTube Channels Leading in Product Launch Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-farm-frontier-favorites-similar-titles-galore/"><u>[New] In 2024, Farm Frontier Favorites Similar Titles Galore</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-harmonize-visuals-and-melodies-in-facebook-media-posts/"><u>[New] In 2024, Harmonize Visuals & Melodies in Facebook Media Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-brisk-blueprints-for-scribing-presentations/"><u>2024 Approved Brisk Blueprints for Scribing Presentations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-fall-lineup-revealed-explore-new-technological-advancements-in-iphone-ipad-mac-and-beyond-with-cutting-edge-ai-integration-zdnet/"><u>Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-apple-watch-series-7-over-series-10-a-users-perspective/"><u>Choosing Apple Watch Series 7 over Series 10 – A User's Perspective.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-solutions-to-overcome-obstacles-in-your-computers-start-up-sequence-post/"><u>Efficient Solutions to Overcome Obstacles in Your Computer's Start-Up Sequence (POST)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-elite-gaming-phone-market-our-2022-curated-list-from-zdnet/"><u>Exploring the Elite Gaming Phone Market: Our 2022 Curated List From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-make-collage-for-facebook-instantly-for-2024/"><u>How to Make Collage for Facebook Instantly for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-m6-pro-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco M6 Pro 4G Face Lock?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/safekeep-stories-the-unlimited-save-service/"><u>Safekeep Stories The Unlimited Save Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapping-memories-from-your-gameplay-step-by-step-photos-on-ps4/"><u>Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-guide-to-skyrocketing-video-views/"><u>Step-by-Step Guide to Skyrocketing Video Views</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mastering-the-art-of-airpod-resets-and-recognizing-essential-scenarios/"><u>Step-by-Step Guide: Mastering the Art of AirPod Resets & Recognizing Essential Scenarios</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-choosing-and-acquiring-the-ideal-home-entertainment-system/"><u>Step-by-Step Strategies: Choosing and Acquiring the Ideal Home Entertainment System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-is-the-enhancement-justifiable-for-apple-aficionados-gizmodo-comparison-guide/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro: Is the Enhancement Justifiable for Apple Aficionados? | Gizmodo Comparison Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Privacy: Techniques to Conceal Your Surroundings on Microsoft Teams Video Calls"
-date: 2024-08-30T15:23:53.246Z
-updated: 2024-08-31T15:23:53.246Z
+date: 2025-01-10T17:41:42.599Z
+updated: 2025-01-13T16:42:22.785Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Privacy: Techniques to Conceal Your Surroundings on Microsoft Teams Video Calls"
@@ -26,9 +26,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
  In_Pokémon Go_ , you’re allowed one buddy Pokémon at a time and can change this Pokémon for another one up to 20 times per day. Here’s how to swap your buddy Pokémon.  
@@ -38,15 +35,13 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -70,17 +65,24 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Drag your finger back and forth to pat it. If you’re patting your Pokémon buddy correctly, you should see sparkles.  
 ![Pokemon GO with buddy Pokemon and Play icons highlighted](https://www.lifewire.com/thmb/ZJo8o9TObp3SUocJtYPzmQ-r3VA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Play-with-buddy-Pokemon-5d81ad40271c49dba320d76c94d2ae10.jpg)
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
 7. To feed your Pokémon buddy, tap and drag berries from the lower menu to your Pokémon. Three regular Razz, Nanab, or Pinap berries will be enough to have your buddy join you on the map. One Silver Pinap Berry, one Golden Razz Berry, or one Poffin will also do the job.  
  Once your buddy Pokémon is on the map with you, the distance required to walk to earn candy is reduced. Your buddy may also direct you to spin certain Pokéstops to earn hidden prizes and earn bonus hearts.  
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Swapping Buddies Lose Progress?
 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
@@ -88,8 +90,9 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
  It doesn’t really matter at all who you choose to have as your_Pokémon Go_ buddy. At the end of the day, it comes down to what your particular aims are within the game.
@@ -120,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +130,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-best-online-houses-purchasing-unique-tailored-boxed-gifts-for-2024/"><u>[New] Best Online Houses Purchasing Unique, Tailored Boxed Gifts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage-for-2024/"><u>[New] Master Instagram Livestreams with Ease Your Complete Guide to OBS Usage for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-outro-techniques-for-videos/"><u>[New] Mastering Outro Techniques for Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-guide-to-the-best-8-no-cost-videoconferencing-platforms/"><u>[Updated] 2024 Approved Essential Guide to the Best 8 No-Cost Videoconferencing Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>[Updated] Crafting the Perfect Introduction 15 Viral YouTube Video Intros</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-effective-android-smartwatch-apps/"><u>Discover the Most Effective Android Smartwatch Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-correct-the-missing-dnssddll-error/"><u>Effective Solutions to Correct the Missing dnssd.dll Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correct-coredll-missing-errors-in-your-system/"><u>Expert Tips to Correct 'Core.dll' Missing Errors in Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-and-restore-missing-email-messages-the-ultimate-tutorial-for-gmail-users/"><u>Find & Restore Missing Email Messages: The Ultimate Tutorial for Gmail Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-and-correct-error-code-0x80070570/"><u>How to Troubleshoot and Correct Error Code: 0X80070570</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>In 2024, Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimize-your-sci-fi-journey-with-the-ideal-viewing-sequence-of-the-matrix-movies/"><u>Optimize Your Sci-Fi Journey with the Ideal Viewing Sequence of The Matrix Movies</u></a></li>
+<li><a href="https://win-studio.techidaily.com/personalizing-your-start-menu-on-windows-10-a-step-by-step-guide-by-yl-computing/"><u>Personalizing Your Start Menu on Windows 10: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-correcting-the-wininetdll-error-on-your-computer/"><u>Step-by-Step Tips: Correcting the wininet.dll Error on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-strategies-for-engaging-in-twitter-interactions-successfully/"><u>Top Strategies for Engaging in Twitter Interactions Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformer-gratuitement-un-fichier-mov-en-wav-en-ligne-guide-complet-avec-movavi/"><u>Transformer Gratuitement Un Fichier MOV en WAV en Ligne : Guide Complet Avec Movavi</u></a></li>
+</ul></div>
 

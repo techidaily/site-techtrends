@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2024-12-30T16:58:23.205Z
-updated: 2025-01-06T23:41:54.872Z
+date: 2025-01-06T17:55:04.567Z
+updated: 2025-01-13T18:06:17.198Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
 
@@ -57,7 +53,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -77,7 +73,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -96,6 +92,10 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Magic Keyboard
 
 Apple
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,21 +160,21 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leveraging-obs-for-top-notch-social-media-streaming-for-2024/"><u>[New] Leveraging OBS for Top-Notch Social Media Streaming for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mac-studios-for-top-quality-recordings/"><u>[Updated] In 2024, Mac Studios for Top-Quality Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mac-high-quality-video-and-audible-recording/"><u>[Updated] Mac High-Quality Video & Audible Recording</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-apeak-recording-examined-quality-and-features-decoded/"><u>2024 Approved Apeak Recording Examined Quality and Features Decoded</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722848391437-dciman32dll-couldnt-be-located-heres-how-to-fix-it/"><u>dciman32.dll Couldn't Be Located? Here's How to Fix It</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-motherboard-picks-deciphering-7-critical-aspects-to-assess-before-buying/"><u>Mastering Motherboard Picks: Deciphering 7 Critical Aspects to Assess Before Buying</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalizing-digital-dialogues-harnessing-gpt-capabilities/"><u>Personalizing Digital Dialogues: Harnessing GPT Capabilities</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-razer-headset-microphone-quick-and-simple-repair-tips/"><u>Revive Your Razer Headset Microphone: Quick & Simple Repair Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-streaming-made-simple-linking-your-android-device-with-amazons-firestick/"><u>Seamless Streaming Made Simple: Linking Your Android Device with Amazon's Firestick</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-dilemma-how-to-recover-from-a-missing-or-undetectable-d3dx933dll-file/"><u>Solving the Dilemma: How to Recover From a Missing or Undetectable d3dx9_33.dll File</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/stop-the-mute-add-sound-to-tweeted-clips-for-2024/"><u>Stop the Mute Add Sound to Tweeted Clips for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-hierarchy-of-royal-match-games-discovering-the-total-number-of-stages/"><u>The Hierarchy of Royal Match Games: Discovering the Total Number of Stages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-rcs-the-next-evolution-in-mobile-texting/"><u>Understanding RCS: The Next Evolution in Mobile Texting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722901452376-whatsapp-integration-guide-for-macos-enthusiasts-start-messaging-today/"><u>WhatsApp Integration Guide for MacOS Enthusiasts - Start Messaging Today!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-from-frame-to-story-vertical-video-editing-guide-for-fcpx-users-on-insta/"><u>[New] 2024 Approved From Frame to Story Vertical Video Editing Guide for FCPX Users on Insta</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-amplify-your-sounds-mac-studio-guide/"><u>[Updated] In 2024, Amplify Your Sounds Mac Studio Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-dvd1/"><u>DVD デクリプターを使用したDVDの高密度情報圧縮方法：1層化入門講座</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-remedies-to-address-the-wmvcoredll-not-detected-problem/"><u>Effective Remedies to Address the wmvcore.dll Not Detected Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-public-dns-solutions-your-essential-resource-roundup/"><u>Free Public DNS Solutions: Your Essential Resource Roundup</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/get-your-tweets-right-comply-with-aspect-ratio-standards-for-2024/"><u>Get Your Tweets Right Comply with Aspect Ratio Standards for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-90-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor 90 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pc-and-portable-speaker-connection-a-simple-guide-to-using-bluetooth-technology/"><u>PC and Portable Speaker Connection: A Simple Guide to Using Bluetooth Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/psvr-2-announcements-unpacked-an-in-depth-look-at-the-complete-game-catalog/"><u>PSVR 2 Announcements Unpacked: An In-Depth Look at the Complete Game Catalog</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-why-your-discord-app-keeps-failing-to-launch-fixes-here/"><u>Solved: Why Your Discord App Keeps Failing to Launch - Fixes Here!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stay-protected-updated-july-202-cuidate-con-sus-dispositivos-de-netgear-lista-de-contrasenas-predeterminadas/"><u>Stay Protected: Updated July 202 Cuidate Con Sus Dispositivos De Netgear - Lista De Contraseñas Predeterminadas</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-pairing-and-using-logitech-mice/"><u>The Complete Walkthrough on Pairing and Using Logitech Mice</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211455245-9781396325717-the-lesser-key-of-solomon/"><u>The Lesser Key of Solomon | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-tutorial-on-securely-saving-cnns-live-coverage-without-cost-using-web-tools-and-applications/"><u>The Ultimate Tutorial on Securely Saving CNN's Live Coverage Without Cost Using Web Tools & Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-espnpluss-function-a-guide-to-the-world-of-sports-streaming/"><u>Understanding ESPN+'s Function: A Guide to the World of Sports Streaming</u></a></li>
 </ul></div>
 

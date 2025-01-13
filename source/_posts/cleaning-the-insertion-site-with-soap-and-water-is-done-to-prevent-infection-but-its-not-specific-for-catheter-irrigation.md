@@ -1,7 +1,7 @@
 ---
 title: Cleaning the Insertion Site with Soap and Water Is Done to Prevent Infection, but It's Not Specific for Catheter Irrigation
-date: 2024-08-30T15:23:04.107Z
-updated: 2024-08-31T15:23:04.107Z
+date: 2025-01-10T18:31:52.204Z
+updated: 2025-01-13T18:17:20.923Z
 categories:
   - BestProducts
 description: This Article Describes Cleaning the Insertion Site with Soap and Water Is Done to Prevent Infection, but It's Not Specific for Catheter Irrigation
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-5-steps-to-transform-your-photos-hues-right-away/"><u>[New] In 2024, 5 Steps to Transform Your Photo's Hues Right Away</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-common-issues-how-to-restore-voice-communication-in-destiny-2/"><u>Fixing Common Issues: How To Restore Voice Communication In Destiny 2?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-note-30-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Note 30 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-low-light-guru-writes-for-iphone-users/"><u>In 2024, The Low Light Guru' Writes for iPhone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-quick-fixes-for-zoom-camera-not-working/"><u>Mastering Quick Fixes for Zoom Camera Not Working</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-market-understanding-pre-purchase-considerations-for-smartwatches-5-tips/"><u>Navigating the Market: Understanding Pre-Purchase Considerations for Smartwatches (5 Tips)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-locating-and-restoring-the-missing-ac1st16dll/"><u>Step-by-Step Guide: Locating and Restoring The Missing ac1st16.dll</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/664381-9781846946578-superconscious-relationships/"><u>Superconscious Relationships | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-alluring-aesthetics-of-the-valkyrie-vind-sl12e-unimpressive-results-despite-attractive-anime-appearance/"><u>The Alluring Aesthetics of the Valkyrie Vind SL12e: Unimpressive Results Despite Attractive Anime Appearance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-benefits-of-choosing-chatgpt-plus-making-the-right-decision/"><u>Top 5 Benefits of Choosing ChatGPT Plus – Making the Right Decision</u></a></li>
+<li><a href="https://article-helps.techidaily.com/transformative-tactics-for-impeccable-hue-correction-for-2024/"><u>Transformative Tactics for Impeccable Hue Correction for 2024</u></a></li>
+</ul></div>
 

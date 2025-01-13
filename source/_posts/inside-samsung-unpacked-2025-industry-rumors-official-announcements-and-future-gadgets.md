@@ -1,7 +1,7 @@
 ---
 title: "Inside Samsung Unpacked 2025: Industry Rumors, Official Announcements & Future Gadgets"
-date: 2024-08-30T15:27:48.444Z
-updated: 2024-08-31T15:27:48.444Z
+date: 2025-01-11T17:55:08.812Z
+updated: 2025-01-13T17:49:45.776Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Samsung Unpacked 2025: Industry Rumors, Official Announcements & Future Gadgets"
@@ -21,33 +21,40 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,22 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>[New] 2024 Approved Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-stories-advanced-bokeh-techniques/"><u>[New] Elevate Your Stories Advanced Bokeh Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ls-pros-and-cons-firmware-versus-devices/"><u>[Updated] LS Pros & Cons Firmware Versus Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-streaming-experience-dual-screen-mode-on-netflix/"><u>2024 Approved Maximize Your Streaming Experience - Dual Screen Mode on Netflix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cafaiff-movavi/"><u>網路上無成本的CAF到AIFF過渡 - 利用Movavi轉換工具</u></a></li>
+<li><a href="https://techtrends.techidaily.com/swf-flv-movavi/"><u>網路無料 SWF 至 FLV 格式轉換 - 利用Movavi變更器</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-9-substitutes-for-final-cut-pro-on-windows-pcs-a-comprehensive-guide/"><u>Best 9 Substitutes for Final Cut Pro on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-between-avi-and-mp4-video-files-a-comprehensive-guide-to-understanding-their-distinct-advantages/"><u>Choosing Between AVI and MP4 Video Files: A Comprehensive Guide to Understanding Their Distinct Advantages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-rapide-et-gratuite-du-format-ogg-a-laac-sur-internet-via-mouvavi-facile-dutilisation/"><u>Conversion Rapide Et Gratuite Du Format OGG À L'AAC Sur Internet via Mouvavi - Facile D'utilisation!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-libera-ed-elettronica-di-video-mp4-a-formato-mpeg/"><u>Conversione Libera Ed Elettronica Di Video MP4 a Formato MPEG</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-conversione-vob-a-mpeg-senza-costi-movavi-il-tuo-punto-di-riferimento/"><u>Online Conversione VOB a MPEG Senza Costi - Movavi: Il Tuo Punto Di Riferimento</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-performance-tuning-maximizing-frame-rate-for-ultimate-gameplay/"><u>Overwatch Performance Tuning: Maximizing Frame Rate for Ultimate Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2025-01-02T18:01:56.809Z
-updated: 2025-01-07T04:24:56.381Z
+date: 2025-01-10T16:29:09.005Z
+updated: 2025-01-13T17:27:35.625Z
 tags:
   - apple
 categories:
@@ -26,16 +26,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -49,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -74,15 +70,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -95,7 +91,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,22 +154,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-parody-basics-tips-for-entertaining-mocks/"><u>[New] 2024 Approved Parody Basics Tips for Entertaining Mocks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamers-dream-the-ultimate-compilation-of-best-yt-game-entrances-for-2024/"><u>[New] Gamer's Dream The Ultimate Compilation of Best YT Game Entrances for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-lg-bp550s-breakthrough-the-2023-technology-sprint-for-2024/"><u>[New] LG BP550's Breakthrough The 2023 Technology Sprint for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-global-viewer-count-triumphs-play-button-honors/"><u>[Updated] Global Viewer Count Triumphs Play Button Honors</u></a></li>
-<li><a href="https://win-web.techidaily.com/come-imparare-a-creare-un-solido-piano-di-riproduzione-con-aomei-backupper-su-windows/"><u>Come Imparare a Creare Un Solido Piano Di Riproduzione Con AOMEI Backupper Su Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficient-methods-to-keep-tabs-on-your-bandwidth-expenditure/"><u>Efficient Methods to Keep Tabs on Your Bandwidth Expenditure</u></a></li>
-<li><a href="https://techtrends.techidaily.com/evaluating-transportation-costs-are-ubers-more-affordable-than-taxis-in-your-city/"><u>Evaluating Transportation Costs: Are Ubers More Affordable Than Taxis in Your City?</u></a></li>
-<li><a href="https://facebook.techidaily.com/exposing-false-bargains-on-facebook-marketplace-how-to-dodge-them/"><u>Exposing False Bargains on Facebook Marketplace – How to Dodge Them</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-p40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel P40 Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y100 5G</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/non-fbx-innovations-leading-the-way-in-gameplay-tracking-for-2024/"><u>Non-FBX Innovations Leading the Way in Gameplay Tracking for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-submerged-iphoneipod-effective-drying-techniques/"><u>Revive Your Submerged iPhone/iPod: Effective Drying Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-correcting-vertical-distortion-issues-in-samsung-tvs/"><u>Step-by-Step Solutions: Correcting Vertical Distortion Issues in Samsung TVs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-brit-tv-programs-available-on-netflix-updated-list/"><u>The Best Brit TV Programs Available on Netflix – Updated List!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-embedding-transcripts-in-instagram-stories/"><u>The Ultimate Tutorial for Embedding Transcripts in Instagram Stories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-chatgpt-understanding-gpt-3s-conversational-powerhouse/"><u>Unveiling ChatGPT: Understanding GPT-3's Conversational Powerhouse</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-oneplus-10-projections-on-launch-costs-specs-and-insider-gossip/"><u>Unveiling the OnePlus 10: Projections on Launch, Costs, Specs & Insider Gossip</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-life-in-motion-a-comprehensive-review-of-camplus-cubeplus/"><u>Capturing Life in Motion A Comprehensive Review of Cam+ Cube+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-craft-how-writers-exceed-machine-generated-content/"><u>Elevating Craft: How Writers Exceed Machine-Generated Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-strategies-to-repair-corrupted-mov-files-with-ease-via-vlc-media-player/"><u>Expert Strategies to Repair Corrupted Mov Files with Ease via VLC Media Player</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-tesla-bot-insights-into-price-forecasts-release-timeline-and-feature-breakdown/"><u>Exploring the Tesla Bot: Insights Into Price Forecasts, Release Timeline, & Feature Breakdown</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/gain-control-over-yt-calls-start-gs-focused-for-2024/"><u>Gain Control Over YT Calls, Start GS-Focused for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-meizu-21-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Meizu 21 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-organization-select-the-best-of-our-top-free-online-calendar-options/"><u>Mastering Organization: Select the Best of Our Top Free Online Calendar Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-academic-success-with-our-top-6-pick-of-homework-apps-for-parents-and-students/"><u>Navigating Academic Success with Our Top 6 Pick of Homework Apps for Parents and Students</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-the-new-default-password-secrets-of-linksys-models-july-review/"><u>Revealing the New Default Password Secrets of Linksys Models - July Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionize-your-eating-habits-with-these-6-food-tracker-app-recommendations/"><u>Revolutionize Your Eating Habits with These 6 Food Tracker App Recommendations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-surviving-in-days-gone-motorcycle-adventures-amongst-the-dead/"><u>The Ultimate Guide to Surviving in 'Days Gone': Motorcycle Adventures Amongst the Dead</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unverifiable-developer-messages-for-mac-users/"><u>Troubleshooting 'Unverifiable Developer' Messages for Mac Users</u></a></li>
 </ul></div>
 

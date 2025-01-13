@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple’s Recent Strides in Artificam Intelligence: Unveiling the Power of Their New Model Lineup"
-date: 2025-01-03T21:50:05.537Z
-updated: 2025-01-06T18:19:41.402Z
+date: 2025-01-09T16:22:10.475Z
+updated: 2025-01-13T17:26:09.467Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Apple Intelligence will bring to the company's operating system platforms
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
 
@@ -61,7 +53,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -73,7 +65,7 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -84,11 +76,19 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI image generation and Genmoji
 
 Apple has opened up a world of creative possibilities by integrating the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) API into all apps. Users can create AI-generated images in three styles: Sketch, Animation, and Realism. Imagine creating and sharing these images directly within Messages or Pages -- it's a game-changer. In Notes, a new Image Wand tool can generate images based on the current page content. [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) allows users to create custom emojis, adding a personalized touch to communications.
 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
 
@@ -137,7 +137,7 @@ Finally, the new Translation API will be unveiled. It will help developers build
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
@@ -180,18 +180,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-to-aplus-tiktok-videos-with-designed-templates/"><u>[New] Step-by-Step Guide to A+ TikTok Videos with Designed Templates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advantages-of-upgrading-to-an-rtx-graphics-cards-explained/"><u>Advantages of Upgrading to an RTX Graphics Cards Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722892896751-decode-the-meaning-of-502-bad-gateway-error-and-its-fixes/"><u>Decode the Meaning of '502 Bad Gateway' Error and Its Fixes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-ebook-conversion-mastery-with-calibre-tutorial/"><u>Effortless eBook Conversion Mastery with Calibre Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/elevate-your-keyboard-proficiency-12-favorite-age-friendly-cost-free-typing-courses/"><u>Elevate Your Keyboard Proficiency: 12 Favorite Age-Friendly, Cost-Free Typing Courses</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-xs-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone XS Max iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-high-pitched-whining-in-desktop-cpu-fans/"><u>How to Resolve High-Pitched Whining in Desktop CPU Fans</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>In 2024, Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-infusing-memes-with-virality-factor/"><u>In 2024, Infusing Memes with Virality Factor</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-marvels-mutants-orderly-viewing-of-x-men-features-explained/"><u>Mastering Marvel's Mutants: Orderly Viewing of X-Men Features Explained</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209954480-9781071527016-meditacion-para-principiantes/"><u>Meditación Para Principiantes | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrading-to-ios-17-is-it-worth-your-consideration/"><u>Upgrading to iOS 17: Is It Worth Your Consideration?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vanguard-marketplaces-for-ai-content-crafting/"><u>Vanguard Marketplaces for AI Content Crafting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-diy-guide-for-building-powerful-youtube-ad-videos/"><u>[Updated] 2024 Approved The Ultimate DIY Guide for Building Powerful YouTube Ad Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-excellence-in-capturing-moments-best-add-ops-for-yi-4k/"><u>[Updated] Excellence in Capturing Moments - Best Add-Ops for YI 4K</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>[Updated] Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-swift-routes-to-the-control-panel-interface/"><u>10 Swift Routes to the Control Panel Interface</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-xcover-7-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy XCover 7? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-accurate-is-your-home-setup-for-authentic-dolby-atmos-surround-sound/"><u>How Accurate Is Your Home Setup for Authentic Dolby Atmos Surround Sound?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-make-your-instagram-stories-more-inclusive-with-easy-text-additions/"><u>How To Make Your Instagram Stories More Inclusive With Easy Text Additions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-permanently-erase-your-presence-on-twitch-platform/"><u>How to Permanently Erase Your Presence on Twitch Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-auto-gpt-configuration-for-ubuntu-enthusiasts/"><u>Mastering Auto-GPT Configuration for Ubuntu Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-application-problems-quickly-a-guide-for-samsung-tv-users/"><u>Solve Application Problems Quickly: A Guide for Samsung TV Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-process-to-download-and-install-nvme-drivers-on-windows-1087/"><u>Step-by-Step Process to Download & Install NVMe Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-approach-to-factory-reconditioning-for-lenovo-devices/"><u>The Comprehensive Approach to Factory Reconditioning for Lenovo Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-transforming-your-pdfs-into-easy-to-read-ebooks/"><u>The Ultimate Guide: Transforming Your PDFs Into Easy-to-Read eBooks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-snapping-images-of-your-desktop-or-laptop-display/"><u>The Ultimate How-To for Snapping Images of Your Desktop or Laptop Display</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-pick-of-best-automatic-clicker-programs-for-your-android-phone/"><u>Ultimate Pick of Best Automatic Clicker Programs for Your Android Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/viewing-roku-channels-directly-online-no-hardware-required/"><u>Viewing Roku Channels Directly Online – No Hardware Required!</u></a></li>
 </ul></div>
 

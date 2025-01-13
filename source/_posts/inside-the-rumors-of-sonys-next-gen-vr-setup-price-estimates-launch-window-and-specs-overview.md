@@ -1,7 +1,7 @@
 ---
 title: "Inside the Rumors of Sony's Next-Gen VR Setup: Price Estimates, Launch Window, and Specs Overview!"
-date: 2024-08-30T15:23:15.628Z
-updated: 2024-08-31T15:23:15.628Z
+date: 2025-01-06T17:13:01.377Z
+updated: 2025-01-13T16:50:45.558Z
 categories:
   - BestProducts
 description: "This Article Describes Inside the Rumors of Sony's Next-Gen VR Setup: Price Estimates, Launch Window, and Specs Overview!"
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
  In January, Sony announced a partnership with Siemens to develop an industrial headset for engineers and 3D content creators. This Sony-Siemens pro-grade collaboration is tentatively scheduled to arrive later this year. Here’s what else we know about the Sony VR headset release date, features, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will the Sony VR Headset Be Released? 
 
  The[ CES 2024](https://www.lifewire.com/ces-news-and-everything-else-to-know-5090178) unveiling of the Sony-Siemens partnership came with a general timeline for their Extended Reality (XR) head-mounted display (HMD): later this year. 
@@ -30,29 +34,28 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
  Assuming Sony and Siemens are still on track with their initial announcement, we anticipate a release by the end of the year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
 
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sony VR Headset Features 
 
  Sony presented prototypes of its VR headset at CES 2024, and a recent[ Siemens press release](https://newsroom.sw.siemens.com/en-US/siemens-rl24-sony-siemens-nx/) confirms one important detail of the partnership: The headset was developed with and exclusively uses Siemens’ Xcelerator engineering software—specifically its new NX Immersive Designer product, which will also be available when the headset launches.
@@ -66,14 +69,12 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sony VR Headset Specs and Hardware 
 
  On the specs and hardware side, this Sony-Siemens headset will run on Android OS and have an 8K display: two 1.3-inch micro-OLEDs with 4K resolution per eye.
@@ -89,8 +90,9 @@ Sony
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the Sony VR Headset 
 
  You can get more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) , including a few stories of interest about Sony.
@@ -111,8 +113,6 @@ Sony
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,18 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-grandview-alliance-how-to-settle-on-a-cms/"><u>[Updated] Grandview Alliance How to Settle on a CMS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-setting-up-facebook-viewing-for-smooth-apple-tv-experience-for-2024/"><u>[Updated] Setting Up Facebook Viewing for Smooth Apple TV Experience for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/directly-launching-cmd-easy-instructions-for-opening-terminal-in-a-specific-directory/"><u>Directly Launching CMD: Easy Instructions for Opening Terminal in a Specific Directory</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-remote-collaboration-by-linking-zoom-sessions-with-televisions/"><u>Enhance Remote Collaboration by Linking Zoom Sessions with Televisions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-solve-logitech-c615-sound-problems-a-step-by-step-guide/"><u>How To Effortlessly Solve Logitech C615 Sound Problems | A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722890784886-how-to-repair-and-resolve-msodll-file-missing-error-on-your-pc/"><u>How to Repair and Resolve mso.dll File Missing Error on Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-clear-video-logger-for-windows-10-systems/"><u>In 2024, Clear Video Logger for Windows 10 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-15-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 15 and iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-reconnecting-your-disconnected-ipad-to-wi-fi/"><u>The Ultimate Fix: Reconnecting Your Disconnected iPad to Wi-Fi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-channel-evolution-via-studio-for-2024/"><u>The Ultimate Guide to Channel Evolution via Studio for 2024</u></a></li>
+</ul></div>
 

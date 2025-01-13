@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2024-12-30T18:47:25.610Z
-updated: 2025-01-07T02:18:54.858Z
+date: 2025-01-06T16:18:57.600Z
+updated: 2025-01-13T16:38:33.007Z
 tags:
   - apple
 categories:
@@ -28,7 +28,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -37,13 +37,13 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -53,6 +53,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -61,7 +65,15 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -71,10 +83,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -82,10 +90,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,24 +149,20 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[New] In 2024, Gourmet Gurus Who You Should Subscribe To</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-what-lies-beneath-the-true-meanings-in-emoji/"><u>[New] What Lies Beneath The True Meanings in Emoji</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>[Updated] Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-comprehensive-idevice-screenplay-techniques/"><u>[Updated] Comprehensive iDevice Screenplay Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>[Updated] In 2024, Fiscal Landmarks Understanding Mr. Beast’s Financial Growth</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-curated-selections-of-lgbt-movies-available-now-on-netflix-july-2amo/"><u>Discover Curated Selections of LGBT Movies Available Now on Netflix (July 2Amo)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-digital-meets-literary-world-with-top-laptop-picks-smartphone-apps-and-book-recommendations/"><u>Discover the Digital-Meets-Literary World with Top Laptop Picks, Smartphone Apps & Book Recommendations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-configure-your-email-preferences-and-safelist-a-site-on-apples-mail-client-for-mac/"><u>How To Configure Your Email Preferences and Safelist a Site on Apple's Mail Client for Mac</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-serene-soundtracks-copyright-free-legal-meditation-music/"><u>In 2024, Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
-<li><a href="https://techtrends.techidaily.com/making-the-right-pick-distinguishing-between-ipad-pro-and-macbook-air/"><u>Making the Right Pick: Distinguishing Between iPad Pro and MacBook Air</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-on-the-go-charging-with-the-mighty-chargetech-27000mah-battery-pack-a-thorough-evaluation/"><u>Revolutionize Your On-the-Go Charging with the Mighty ChargeTech 27000mAh Battery Pack: A Thorough Evaluation</u></a></li>
-<li><a href="https://win11.techidaily.com/snap-tile-and-taskbar-tricks-for-windows-11-professionals/"><u>Snap, Tile & Taskbar Tricks for Windows 11 Professionals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-accessing-imessage-on-an-android-smartphone/"><u>Step-by-Step Tutorial: Accessing iMessage on an Android Smartphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/symptoms-of-uterine-rupture-include-sudden-severe-abdominal-pain-and-fetal-distress-immediate-emergency-cesarean-delivery-is-often-required/"><u>Symptoms of Uterine Rupture Include Sudden Severe Abdominal Pain and Fetal Distress; Immediate Emergency Cesarean Delivery Is Often Required.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-role-of-memory-velocity-and-delay-in-pc-efficiency/"><u>Understanding the Role of Memory Velocity and Delay in PC Efficiency</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-identifying-your-hidden-email-details-easily/"><u>Unlock the Secrets of Identifying Your Hidden Email Details Easily</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-essential-fcpx-plugins-to-elevate-your-video-editing-game-free-and-paid/"><u>Updated 10 Essential FCPX Plugins to Elevate Your Video Editing Game Free and Paid</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-14-free-video-editing-software-without-watermark/"><u>Updated In 2024, Top 14 Free Video Editing Software without Watermark</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-and-wi-fi-security-how-to-access-your-password-safely/"><u>Windows 11 and Wi-Fi Security: How to Access Your Password Safely</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-video-uploads-past-standard-limits-on-instagram/"><u>[New] In 2024, Mastering Video Uploads Past Standard Limits on Instagram</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-complete-guide-to-adjusting-your-tiktok-voice/"><u>[New] The Complete Guide to Adjusting Your TikTok Voice</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-how-to-properly-initialize-your-brand-new-ipad-insights-from-zdnet/"><u>Complete Guide: How to Properly Initialize Your Brand-New iPad - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-a24-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy A24 Without PUK Codes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-comprehensive-users-manual-for-precision-playback/"><u>In 2024, The Comprehensive User's Manual for Precision Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insiders-review-on-aphaca-bt69-streaming-your-tunes-as-a-wireless-bluetooth-fm-signal-in-cars/"><u>Insider's Review on Aphaca BT69: Streaming Your Tunes as a Wireless Bluetooth FM Signal in Cars</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keyword-optimization-for-higher-youtube-viewership-for-2024/"><u>Keyword Optimization for Higher YouTube Viewership for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-iphone-privacy-settings-hide-your-device-with-easy-tips-to-deactivate-find-my-friends-tech-advisor/"><u>Protect Your iPhone Privacy Settings: Hide Your Device with Easy Tips to Deactivate Find My Friends | Tech Advisor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-apple-watch-series-10-today-from-just-99-by-preordering-on-bestbuy-exclusive-guide-zdnet/"><u>Secure Your Apple Watch Series 10 Today From Just $99 by Preordering on BestBuy - Exclusive Guide | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/startech-drivers-troubleshooting-solutions-in-windows-10-and-earlier-versions/"><u>StarTech Drivers Troubleshooting Solutions in Windows 10 and Earlier Versions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-choosing-the-ideal-apple-watch-band-expert-reviews-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing the Ideal Apple Watch Band : Expert Reviews and Comparisons | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-small-tablet-guide-for-2hren-expert-opinions-and-rankings/"><u>Ultimate Small Tablet Guide for 2Hren: Expert Opinions and Rankings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-truth-are-you-underestimating-your-apple-watchs-battery-health/"><u>Unveiling the Truth: Are You Underestimating Your Apple Watch's Battery Health?</u></a></li>
 </ul></div>
 

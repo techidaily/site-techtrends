@@ -1,7 +1,7 @@
 ---
 title: Demystifying Windows 11'S Battery Status Insights for Optimized Performance
-date: 2024-08-30T15:26:20.375Z
-updated: 2024-08-31T15:26:20.375Z
+date: 2025-01-06T18:04:39.032Z
+updated: 2025-01-13T16:41:47.030Z
 categories:
   - BestProducts
 description: This Article Describes Demystifying Windows 11'S Battery Status Insights for Optimized Performance
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 ---
 
 ## Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -27,20 +32,34 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -51,9 +70,6 @@ The powerful video editing program for your Windows PC</a>
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -91,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +114,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>[New] In 2024, Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-pinnacle-of-engagement-custom-youtube-shorts-thumbnails-guide/"><u>[New] The Pinnacle of Engagement Custom YouTube Shorts Thumbnails Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ace-meetings-integrating-filters-to-stand-out-on-zoom-for-2024/"><u>[Updated] Ace Meetings Integrating Filters to Stand Out on Zoom for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-video-format-mastery-best-practices-for-instagram-for-2024/"><u>[Updated] Video Format Mastery Best Practices for Instagram for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-engage-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing/"><u>2024 Approved Engage, Enchant, Excel The Quintessential 5 Strategies for YouTube Marketing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-tips-for-erasing-backgrounds-in-figma-design/"><u>2024 Approved Ultimate Tips for Erasing Backgrounds in Figma Design</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726226133354-wma-movavi/"><u>網路無限 WMA格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertidor-gratuito-on-line-de-mp3-a-m4a-guia-completa-con-movavi/"><u>Convertidor Gratuito On-Line De MP3 a M4A: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertir-vos-fichiers-mp3-en-swf-sur-demande-tirez-parti-de-la-technologie-gratuit-de-movavi/"><u>Convertir Vos Fichiers MP3 en SWF Sur Demande - Tirez Parti De La Technologie Gratuit De Movavi !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convertis-votre-image-webp-en-jpg-rapidement-sans-cout-demo-online-de-movavi/"><u>Convertis Votre Image Webp En Jpg Rapidement Sans Coût - Démo Online De Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-conversion-change-ogg-audio-files-to-mp3-format-with-movavi/"><u>Free Online Conversion: Change OGG Audio Files to MP3 Format with Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-online-converter-voor-arw-en-png-efficient-omzijdig-werken-met-behulp-van-de-movavi-toolset/"><u>Gratis Online Converter Voor ARW en PNG: Efficiënt Omzijdig Werken Met Behulp Van De Movavi Toolset</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100i-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100i Phone FRP Lock</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-powered-iphone-recovery-program-safeguard-your-deleted-visual-content-and-personal-connections-with-ease/"><u>Mac-Powered iPhone Recovery Program: Safeguard Your Deleted Visual Content & Personal Connections with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-video-editing-software-tools-to-transform-your-footage-into-stunning-visuals/"><u>Top Video Editing Software: Tools to Transform Your Footage Into Stunning Visuals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-music-download-and-convert-mp4-audios-to-lossless-flac-via-movavis-no-cost-service/"><u>Transform Your Music: Download & Convert MP4 Audios to Lossless FLAC via Movavi's No-Cost Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-ts-en-video-mkv-online-sin-costo-una-guia-completa-sobre-movavi/"><u>Transforma TS en Vídeo MKV Online Sin Costo: Una Guía Completa Sobre Movavi</u></a></li>
+<li><a href="https://techidaily.com/trouble-preserving-chatgpt-discussions-discover-the-ultimate-solutions/"><u>Trouble Preserving ChatGPT Discussions? Discover the Ultimate Solutions!</u></a></li>
+</ul></div>
 

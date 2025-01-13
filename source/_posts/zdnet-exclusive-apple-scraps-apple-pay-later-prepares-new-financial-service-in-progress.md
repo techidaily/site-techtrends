@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Apple Scraps Apple Pay Later, Prepares New Financial Service in Progress"
-date: 2025-01-02T17:21:11.728Z
-updated: 2025-01-06T20:16:26.063Z
+date: 2025-01-11T16:25:45.713Z
+updated: 2025-01-13T18:00:20.286Z
 tags:
   - apple
 categories:
@@ -83,25 +83,26 @@ From Apple's description, the new installment plans offer a couple of benefits o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ree-thumbnail-extract-from-youtube-videos-today-for-2024/"><u>[New] Free Thumbnail Extract From YouTube Videos Today for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-must-have-10-fcp-plug-ins-for-professionals/"><u>[New] In 2024, Must-Have 10 FCP Plug-Ins for Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[Updated] 2024 Approved How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-content-with-these-20-pro-video-shortcuts/"><u>[Updated] Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-walkthrough-to-send-your-friend-a-steam-card-online/"><u>A Comprehensive Walkthrough to Send Your Friend a Steam Card Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-404-error-identification-and-quick-fixes/"><u>Decoding the 404 Error: Identification and Quick Fixes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/efficiently-converting-dss-audio-tracks-to-wav-a-user-friendly-guide/"><u>Efficiently Converting DSS Audio Tracks to WAV - A User-Friendly Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exciting-reveal-of-new-lineup-from-samsung-telecoms/"><u>Exciting Reveal of New Lineup From Samsung Telecoms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-your-missing-d3dx941dll-file-today-comprehensive-guide-and-tips-for-successful-restoration/"><u>Fix Your Missing d3dx9_41.dll File Today - Comprehensive Guide & Tips for Successful Restoration</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>In 2024, A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-approach-to-saving-instagram-stories/"><u>In 2024, Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-look-at-sony-psvr-2-key-information-on-when-to-buy-how-much-it-costs-and-whats-under-the-hood/"><u>Inside Look at Sony PSVR 2 – Key Information on When to Buy, How Much It Costs and What's Under the Hood</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-track-your-every-move-best-motion-tracking-apps-reviewed/"><u>New In 2024, Track Your Every Move Best Motion Tracking Apps Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-msiexecexe-is-missing-steps-to-recover-msidll/"><u>Resolving 'msiexec.exe' Is Missing: Steps to Recover msi.dll</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-d3dx92n4dll-file-absentnotfound-issues/"><u>Solutions for Resolving d3dx9_2n4.dll File Absent/NotFound Issues</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/trasforma-video-vob-in-formato-m4v-on-demand-e-gratuito-utilizzando-movavi/"><u>Trasforma Video VOB in Formato M4V On-Demand E Gratuito Utilizzando Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-10-professional-grade-microphones-for-podcasters-for-2024/"><u>[Updated] Top 10 Professional-Grade Microphones for Podcasters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-journey-from-monochrome-masterpieces-to-vivid-hdri-imagery/"><u>2024 Approved Journey From Monochrome Masterpieces to Vivid HDRI Imagery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-notetaking-software-picks-our-expert-selection/"><u>Best Notetaking Software Picks : Our Expert Selection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-if-your-apple-device-harbors-an-ingenious-smart-speaker-core-the-elusive-mac-and-ipad-smart-home-receiver/"><u>Discover If Your Apple Device Harbors an Ingenious Smart Speaker Core - The Elusive Mac and iPad Smart Home Receiver</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-10-budget-friendly-passport-photographers-online-for-2024/"><u>Exclusive List 10 Budget-Friendly Passport Photographers Online for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/experience-sound-perfection-comprehensive-review-of-the-user-friendly-beats-pill-speaker/"><u>Experience Sound Perfection: Comprehensive Review of the User-Friendly Beats Pill Speaker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-the-missing-jscriptdll-files-in-windows/"><u>How To Correctly Handle The Missing Jscript.dll Files In Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-switch-your-whatsapp-messages-over-to-an-iphone-expert-tips-for-a-smooth-transition/"><u>How To Effortlessly Switch Your WhatsApp Messages Over to an iPhone – Expert Tips for a Smooth Transition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-y77t-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo Y77t to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-gopro-versions-unveiled-an-analytical-review/"><u>In 2024, Gopro Versions Unveiled An Analytical Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/legally-recording-calls-with-ios-a-step-by-step-guide-and-state-laws-overview/"><u>Legally Recording Calls with iOS: A Step-by-Step Guide & State Laws Overview</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mastering-cross-device-imagery-how-to-effortlessly-move-photos-from-iphone-to-huawei-p30/"><u>Mastering Cross-Device Imagery: How to Effortlessly Move Photos From iPhone to Huawei P30</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/minimizing-noise-subtle-audio-tweaks-for-pc-mac/"><u>Minimizing Noise Subtle Audio Tweaks for PC, Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/people-rely-on-hunting-and-agriculture-for-food-traditional-economies-are-often-based-in-rural-areas-where-people-depend-heavily-on-natural-resources-for-su46/"><u>People Rely on Hunting and Agriculture for Food: Traditional Economies Are Often Based in Rural Areas Where People Depend Heavily on Natural Resources for Survival. Hunting, Fishing, and Subsistence Farming Are Common Means of Obtaining Food.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-the-struggles-of-disheartened-sonos-enthusiasts-how-apples-intervention-could-make-a-difference/"><u>Reviving the Struggles of Disheartened Sonos Enthusiasts: How Apple's Intervention Could Make a Difference</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ipad-air-sleeves-of-2024-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Sleeves of 2024 - Comprehensive Reviews & Ratings by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-clearer-conversations-on-your-apple-tv-discover-how-tvos-18-elevates-listening-quality-zdnet-insights/"><u>Unlock Clearer Conversations on Your Apple TV - Discover How tvOS 18 Elevates Listening Quality | ZDNET Insights</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

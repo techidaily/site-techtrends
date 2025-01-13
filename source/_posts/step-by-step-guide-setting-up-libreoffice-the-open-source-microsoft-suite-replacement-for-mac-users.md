@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2024-12-31T05:59:05.101Z
-updated: 2025-01-07T02:43:14.260Z
+date: 2025-01-08T16:30:47.290Z
+updated: 2025-01-13T16:29:58.178Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,15 +52,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,14 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked-for-2024/"><u>[New] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-explore-8-mirrorless-cameras-that-make-great-video-content-for-2024/"><u>[Updated] Explore 8 Mirrorless Cameras That Make Great Video Content for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-insiders-look-at-xvision-prodigy-studio-an-all-inclusive-guide/"><u>[Updated] Insider's Look at XVision Prodigy Studio - An All-Inclusive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-408-request-timeout-issue-causes-fixes-and-prevention-tips/"><u>Decoding 408 Request Timeout Issue – Causes, Fixes & Prevention Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-8-fantastic-no-cost-music-apps-on-your-iphone-today/"><u>Explore 8 Fantastic No-Cost Music Apps on Your iPhone Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-possibility-could-discord-server-issues-be-myth-or-reality/"><u>Exploring the Possibility: Could Discord Server Issues Be Myth or Reality?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>In 2024, FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-importance-and-process-behind-microsofts-patch-tuesday-a-comprehensive-overview/"><u>The Importance and Process Behind Microsoft's Patch Tuesday - A Comprehensive Overview</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format/"><u>Updated 2024 Approved Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exclusive-insight-into-budget-friendly-design-portals-for-2024/"><u>[New] Exclusive Insight Into Budget-Friendly Design Portals for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximizing-chances-to-engage-premier-filmmakers/"><u>[New] Maximizing Chances to Engage Premier Filmmakers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/bridging-the-gap-facebook-to-television-screenplay-for-2024/"><u>Bridging the Gap Facebook to Television Screenplay for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-data-recovery-tactics-understanding-host-and-guest-system-backups/"><u>Efficient Data Recovery Tactics: Understanding Host and Guest System Backups</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/fixing-issues-with-windows-media-player-during-file-playback-a-comprehensive-guide/"><u>Fixing Issues with Windows Media Player During File Playback: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/groundbreaking-news-apple-to-launch-economically-priced-ar-spectacles-and-basic-eyewear-headset-zdnet-insights/"><u>Groundbreaking News: Apple to Launch Economically Priced AR Spectacles & Basic Eyewear Headset | ZDNet Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-15-analysis-top-features-that-impress-both-beginners-and-experts-a-comprehensive-review-techzine/"><u>IPhone 15 Analysis: Top Features That Impress Both Beginners and Experts - A Comprehensive Review | TechZine</u></a></li>
+<li><a href="https://techtrends.techidaily.com/m3-vs-m2-macbook-air-an-in-depth-review-to-determine-apples-top-laptop-pick-by-zdnet/"><u>M3 Vs. M2 MacBook Air: An In-Depth Review to Determine Apple’s Top Laptop Pick by ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/seizing-photographic-segments-from-videos-in-windows-11/"><u>Seizing Photographic Segments From Videos in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-chatting-with-whatsapp-on-a-mac-computer/"><u>The Ultimate How-To for Chatting with WhatsApp on a Mac Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-3-must-watch-technological-innovations-reshaping-the-future/"><u>Top 3 Must-Watch Technological Innovations Reshaping the Future</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transfer-tactics-efficiently-getting-data-on-your-computer/"><u>Transfer Tactics Efficiently Getting Data On Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-the-innovative-features-of-apples-mac-studio-prevent-my-purchase-from-an-m4-mac-mini-in-autumn-insights-zdnet/"><u>Why the Innovative Features of Apple's Mac Studio Prevent My Purchase From an M4 Mac Mini in Autumn - Insights | ZDNet</u></a></li>
 </ul></div>
 

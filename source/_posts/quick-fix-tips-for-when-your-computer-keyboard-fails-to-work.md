@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2024-12-31T20:00:33.458Z
-updated: 2025-01-06T20:47:58.031Z
+date: 2025-01-12T17:47:21.299Z
+updated: 2025-01-13T16:08:06.601Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overall Findings
@@ -60,7 +60,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advantages of Buying
@@ -96,10 +96,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Requires considerable research.
 * Novice users may struggle with the technical side of the build process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -113,7 +109,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disadvantages of Building
@@ -126,17 +122,21 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Julie Bang
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Build a Computer
 
@@ -181,16 +181,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>[New] The Rotation Revelations Guide Crafting Captivating Images on Social Media</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>[Updated] In 2024, The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-xbox-gaming-captured-a-beginners-screen-recording-journey/"><u>[Updated] In 2024, Xbox Gaming Captured A Beginner's Screen Recording Journey</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apples-new-ai-tech-announced-at-wwdc-falls-short-of-excitement-and-why-it-might-be-perfect-insights/"><u>How Apple's New AI Tech Announced at WWDC Falls Short of Excitement (And Why It Might Be Perfect) | Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-quickly-correct-oleaut32dll-missing-mistakes-on-your-pc/"><u>How To Quickly Correct Oleaut32.dll Missing Mistakes on Your PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y78 5G Phone Without Password?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audiophiles-windows-companion/"><u>In 2024, Audiophile’s Windows Companion</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a14-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A14 4G? Try These Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-android-measurement-tools-tips-for-successful-usage/"><u>Navigating the World of Android Measurement Tools - Tips for Successful Usage</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722887742769-optimizing-your-tweets-check-out-these-unbeatable-twitter-tool-choices/"><u>Optimizing Your Tweets? Check Out These Unbeatable Twitter Tool Choices!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/t-mobiles-wireless-roaming-agreements-and-how-they-enhance-your-data-experience/"><u>T-Mobile's Wireless Roaming Agreements and How They Enhance Your Data Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-effortless-online-subtitles-the-leading-free-services/"><u>[New] 2024 Approved Effortless Online Subtitles The Leading Free Services</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-broadcast-to-box-viewing-facebook-streams-on-roku/"><u>[Updated] In 2024, From Broadcast to Box Viewing Facebook Streams on Roku</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-the-cold-with-five-cozy-cinematic-elements/"><u>Elevating the Cold with Five Cozy Cinematic Elements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-effective-solutions-for-dealing-with-code-pressing-the-c-key-twice-to-activate-code-completion-or-if-necessary-reinstalling-or-repairing-your-of36/"><u>Expert Tips: Effective Solutions for Dealing with Code Pressing the 'C' Key Twice to Activate Code Completion or, if Necessary, Reinstalling or Repairing Your Office Software From a Trusted Source Can Also Be Effective Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-edge-40-neo-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Edge 40 Neo to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-a54-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy A54 5G online without jailbreak</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-craft-the-ultimate-guide-to-using-the-top-mac-os-document-editing-app-tips-and-tricks-revealed/"><u>Mastering Craft: The Ultimate Guide to Using the Top Mac OS Document Editing App – Tips & Tricks Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/next-level-technology-unveiled-discover-the-latest-evolution-in-iphones/"><u>Next-Level Technology Unveiled: Discover the Latest Evolution in iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-travel-accessory-unveiled-the-all-in-one-magsafe-charger-revolutionizing-mobile-power-sources-now-with-qi2-support/"><u>Top Travel Accessory Unveiled: The All-in-One MagSafe Charger Revolutionizing Mobile Power Sources, Now with Qi2 Support!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unboxing-the-bargain-apples-newly-priced-17earpods-with-usb-c-snagged-impulsively-on-prime-day-zdnet-analysis/"><u>Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-advanced-ai-features-on-meta-quest-3-beats-apple-vision-pro-heres-your-guide-techinsights/"><u>Unlocking Advanced AI Features on Meta Quest 3 – Beats Apple Vision Pro, Here’s Your Guide! | TechInsights</u></a></li>
 </ul></div>
 

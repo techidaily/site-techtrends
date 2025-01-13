@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2025-01-01T19:45:51.084Z
-updated: 2025-01-06T19:19:01.462Z
+date: 2025-01-06T17:49:51.318Z
+updated: 2025-01-13T18:44:29.748Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,18 +119,16 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>[New] In 2024, Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-color-correctors-handbook/"><u>2024 Approved The Ultimate Color Corrector's Handbook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-beginners-guide-accessing-hulu-through-your-lg-smart-tv/"><u>A Beginner's Guide: Accessing Hulu Through Your LG Smart TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-rumored-personal-household-robot-anticipated-pricing-scheduled-drop-and-technical-details-revealed/"><u>Apple's Rumored Personal Household Robot - Anticipated Pricing, Scheduled Drop, and Technical Details Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-the-elusive-steamdll-error-on-your-computer/"><u>Effective Fixes for the Elusive Steam.dll Error on Your Computer</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhance-web-performance-with-cookiebot-technology-a-seamless-experience/"><u>Enhance Web Performance with Cookiebot Technology: A Seamless Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a78-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A78 FRP Bypass</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-the-secrets-to-efficient-image-capturing/"><u>In 2024, Unlocking the Secrets to Efficient Image Capturing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/queer-culture-unveiled-your-ultimate-guide-to-lgbtq-focused-series-on-netflix-july-2024-edition/"><u>Queer Culture Unveiled: Your Ultimate Guide to LGBTQ-Focused Series on Netflix (July 2024 Edition)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reattaching-lost-keycaps-a-comprehensive-walkthrough-for-laptops/"><u>Reattaching Lost Keycaps: A Comprehensive Walkthrough for Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-low-on-memory-warning-in-windows-11-systems/"><u>Troubleshooting the 'Low on Memory' Warning in Windows 11 Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/which-monitoring-software-triumphs-for-live-streamers/"><u>Which Monitoring Software Triumphs for Live Streamers?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/44k944ol44o844kr44oh44op44gn5asx44kp44km44gf55s75yop44o75yuv55s744gu5zue5b6p5oml6acg77ya5luj5pu5pa55rov77ys44gk/"><u>ソニーカメラで失われた画像・動画の回復手順：代替方法２つ</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-charting-a-course-to-riches-youtubes-monetary-milestones-for-2024/"><u>[New] Charting a Course to Riches YouTube's Monetary Milestones for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-comparative-reviews-beyond-the-norms-of-sharex/"><u>[Updated] In 2024, Comparative Reviews Beyond the Norms of ShareX</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-mobile-tools-4-apps-that-revolutionize-diy-house-painting/"><u>Essential Mobile Tools: 4 Apps That Revolutionize DIY House Painting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Google Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-pop-7-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Pop 7 Pro Is Unlocked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-opting-for-a-wi-fi-mesh-system-a-reliable-choice/"><u>Is Opting for a Wi-Fi Mesh System a Reliable Choice?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-nspr4dll-file-is-missing-a-comprehensive-guide/"><u>Solving the 'Nspr4.dll' File Is Missing - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/by-step-designing-striking-youtube-thumbnails-with-macos-for-2024/"><u>Step-by-Step Designing Striking Youtube Thumbnails with macOS for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-reviving-your-pc-when-the-screen-remains-black/"><u>Troubleshooting Steps: Reviving Your PC When the Screen Remains Black</u></a></li>
 </ul></div>
 

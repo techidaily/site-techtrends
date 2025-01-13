@@ -1,7 +1,7 @@
 ---
 title: Quickly Unfriend Many Users at Once on Snapchat - Step-by-Step Tutorial
-date: 2024-08-30T15:24:00.969Z
-updated: 2024-08-31T15:24:00.969Z
+date: 2025-01-10T17:35:48.157Z
+updated: 2025-01-13T16:58:51.421Z
 categories:
   - BestProducts
 description: This Article Describes Quickly Unfriend Many Users at Once on Snapchat - Step-by-Step Tutorial
@@ -21,13 +21,18 @@ Close
 
  This article describes how to delete friends on Snapchat for Android and iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove Friends on Snapchat 
 
  There are a few techniques to this, but all of them eventually lead to the same place: the Manage Friendship menu. This is where you'll find the delete option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Friends From Your Friends List 
 
  One method, which works even if you don't have any recent messages with the person, is to find someone in your My Friends list.
@@ -39,18 +44,17 @@ Close
 3. Search or scroll to the friend you want to delete, and tap-and-hold this friend's entry.  
 ![Bitmoji icon, My Friends, and contact highlighted in Snapchat](https://www.lifewire.com/thmb/uWrlw4QXKo6xV7zBnqVm80ddBDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-remove-multiple-friends-on-snapchat-6425728-c69d3e9fda0b484ca51d7db2be711d22.jpg)  
  Take note of the three-dot menu at the top. There is an option to see recently added friends. This is a great way to delete users you just added by mistake.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. From the options, choose**Manage Friendship** \>**Remove Friend** \>**Remove** .  
 ![Three dot menu, Manage Friendship, and Remove in Snapchat](https://www.lifewire.com/thmb/uzZV1QwYbat0Yav-GTMCn85wFzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-remove-multiple-friends-on-snapchat-6425728-8ed6c2dd02ff4fe2905d713e5114dc3d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Remove Friends From the Chat Page 
 
  If you want to unfriend people you've recently snapped with, save time and start at the Chat screen. This area is where all your uncleared conversations are held, so deleting a friend you were just chatting with is best done here.
@@ -66,8 +70,9 @@ Close
  The only exception is if you[ delete your whole Snapchat account](https://www.lifewire.com/how-to-delete-snapchat-account-4692675) . Technically, this is the quickest way to remove all your Snapchat friends in one move, but your username will go with it, as will your Snaps and chats.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Readd Friends You Deleted on Snapchat 
 
  There isn't a "deleted friends" list readily available within the Snapchat app that you can sift through to easily readd old friends.
@@ -78,9 +83,6 @@ Close
 
  One way to[ know if someone has blocked you on Snapchat](https://www.lifewire.com/how-to-tell-if-you-are-blocked-on-snapchat-4169359) is if you can't find them. This is most likely the case if you delete a friend, but then can't add them again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Stop Old Friends From Adding You Back on Snapchat 
 
  If you have deleted someone, but they keep nagging you to be their friend, you can simply[ block them on Snapchat](https://www.lifewire.com/block-someone-on-snapchat-4169485) .
@@ -118,8 +120,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/fficient-ways-to-clean-your-youtube-watch-later-playlist-for-2024/"><u>[New] Efficient Ways to Clean Your YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-jestful-joymaker-online/"><u>[Updated] In 2024, Jestful Joymaker Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-palette-proficiency-expertise-through-experience/"><u>[Updated] Palette Proficiency Expertise Through Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-making-your-blue-yeti-microphone-function-correctly/"><u>Common Problems and Fixes: Making Your Blue Yeti Microphone Function Correctly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-fixes-for-your-home-theater-resetting-your-samsung-soundbar/"><u>DIY Fixes for Your Home Theater: Resetting Your Samsung Soundbar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-clearing-images-from-your-facebook-page/"><u>Easy Methods for Clearing Images From Your Facebook Page</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-guide-fixing-the-d3dx924dll-error-when-it-cant-be-located/"><u>Expert Guide: Fixing the 'D3DX9_24.DLL' Error When It Can't Be Located</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/friend-to-friend-play-mastering-the-xbox-one-gamesharing-process/"><u>Friend-to-Friend Play: Mastering the Xbox One Gamesharing Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722855286828-getting-ready-for-amazon-prime-day-2024-heres-everything-you-need-to-know/"><u>Getting Ready for Amazon Prime Day 2024? Here's Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-vcompdll-file-missing-or-errors/"><u>How to Correctly Handle vcomp.dll File Missing or Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-13-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 13 mini How to Bypass?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-best-no-cost-languages-online-a-comprehensive-guide/"><u>Top 9 Best No-Cost Languages Online: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixing-ftd2xxdll-is-absent-messages/"><u>Troubleshooting and Fixing 'ftd2xx.dll Is Absent' Messages</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-growth-booster-top-seo-tools-uncovered-for-2024/"><u>Video Growth Booster – Top SEO Tools Uncovered for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wininetdll-not-found-heres-how-to-correct-the-issue-and-prevent-future-problems/"><u>Wininet.dll Not Found? Here’s How to Correct the Issue and Prevent Future Problems</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/yl-software-explains-how-you-can-make-bitcoin-and-altcoins-a-part-of-your-everyday-transactions/"><u>YL Software Explains How You Can Make Bitcoin and Altcoins a Part of Your Everyday Transactions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-essential-guide-to-unblocking-on-instagram-for-2024/"><u>Your Essential Guide to Unblocking on Instagram for 2024</u></a></li>
+</ul></div>
 

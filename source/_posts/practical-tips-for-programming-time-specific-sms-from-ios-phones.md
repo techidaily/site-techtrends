@@ -1,7 +1,7 @@
 ---
 title: Practical Tips for Programming Time-Specific SMS From iOS Phones
-date: 2024-08-30T15:24:26.121Z
-updated: 2024-08-31T15:24:26.121Z
+date: 2025-01-11T17:12:59.870Z
+updated: 2025-01-13T17:48:51.125Z
 categories:
   - BestProducts
 description: This Article Describes Practical Tips for Programming Time-Specific SMS From iOS Phones
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 * You can also use**Paste Special** to insert a variety of data into a document, including code.
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Insert Code in Word With an Embedded Document
 
@@ -34,18 +38,29 @@ These instructions only work with a single page of code.
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -57,8 +72,9 @@ The ultimate burning program for all your needs!</a>
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -96,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +119,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-vlcs-screen-recorder-features/"><u>[New] In 2024, Exploring VLC's Screen Recorder Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leveraging-youtube-and-apple-tv-integration-for-enhanced-fb-video-watching/"><u>[Updated] 2024 Approved Leveraging YouTube & Apple TV Integration for Enhanced FB Video Watching</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essentials-of-expertly-editing-images-at-home/"><u>[Updated] The Essentials of Expertly Editing Images at Home</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ride-the-waves-with-top-tier-surf-cameras/"><u>2024 Approved Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/boost-your-tiktoks-speed-a-step-by-step-guide/"><u>Boost Your TikTok's Speed A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-western-digital-data-lifeguard-diagnostics-software-evaluation/"><u>Comprehensive Analysis: Western Digital Data Lifeguard Diagnostics Software Evaluation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-communication-with-gmail-recognizing-the-difference-between-sent-delivered-and-read-messages/"><u>Effective Communication with Gmail: Recognizing the Difference Between Sent, Delivered, and Read Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-combat-firefox-video-lag-with-these-techniques/"><u>In 2024, Combat Firefox Video Lag with These Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-fixes-for-prevalent-code-43-complications/"><u>Mastering Fixes for Prevalent Code 43 Complications</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g84-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G84 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-btballoondll-error-a-step-by-step-guide/"><u>Solving the btballoon.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-pre-purchase-considerations-for-desktops/"><u>The Ultimate Checklist: Pre-Purchase Considerations for Desktops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-understanding-blue-screen-stop-codes/"><u>Ultimate Guide to Understanding Blue Screen Stop Codes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-v29e-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo V29e ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

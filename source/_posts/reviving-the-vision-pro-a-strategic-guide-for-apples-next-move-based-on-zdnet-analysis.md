@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Vision Pro: A Strategic Guide for Apple's Next Move Based on ZDNet Analysis"
-date: 2024-12-31T01:07:22.314Z
-updated: 2025-01-06T18:37:08.376Z
+date: 2025-01-12T16:02:05.005Z
+updated: 2025-01-13T18:51:20.167Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How could Meta possibly beat Apple?
@@ -58,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -91,7 +87,7 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Think different?
@@ -114,6 +110,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -128,10 +128,6 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -141,6 +137,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -153,10 +153,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -177,6 +173,10 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,20 +227,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-triumphs-how-to-turn-your-cell-phone-into-an-editing-machine/"><u>[New] YouTube Triumphs How to Turn Your Cell Phone Into an Editing Machine</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-countering-harshness-maintaining-poise-online/"><u>[Updated] In 2024, Countering Harshness Maintaining Poise Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-network-address-translation-types-simplified-for-wins-oses/"><u>Changing Network Address Translation Types Simplified for Wins OSes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-the-missing-physxloaderdll-error-message/"><u>Easy Solutions for Correcting the Missing physxloader.dll Error Message</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-deal-with-missing-d3dx928dll-error-messages/"><u>Effective Solutions to Deal with Missing d3dx9_28.dll Error Messages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-d3dx-library-not-found-d3dx933dll-expert-tips-and-solutions/"><u>Fix D3DX Library Not Found (d3dx9_33.dll): Expert Tips and Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/home-cinema-magic-access-fandango-movies-and-events-via-apple-tv/"><u>Home Cinema Magic: Access Fandango Movies and Events via Apple TV</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-connect-nintendo-switch-to-a-tv/"><u>How to Connect Nintendo Switch to a TV</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-chuckle-factory-spooky-androids/"><u>In 2024, Chuckle Factory Spooky Androids</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-harnessing-techniques-for-superior-pics-free-of-charge/"><u>In 2024, Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722873272936-navigating-your-way-through-the-best-gaming-pc-options-important-factors-you-shouldnt-ignore/"><u>Navigating Your Way Through the Best Gaming PC Options: Important Factors You Shouldn't Ignore</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-pubg-mobile-lagging-and-unresponsiveness-on-windows/"><u>Solving the Issue of PUBG Mobile Lagging and Unresponsiveness on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-football-manager-2022s-missing-debut-tips-and-tricks/"><u>Solving the Puzzle of Football Manager 2022'S Missing Debut – Tips and Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-creative-potential-with-our-picks-for-the-6-finest-free-adobe-photoshop-alternatives/"><u>Unlock Creative Potential with Our Picks for the 6 Finest FREE Adobe Photoshop Alternatives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-instagram-time-keeper-learning-to-rewind/"><u>[New] 2024 Approved The Instagram Time Keeper Learning to Rewind</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unparalleled-costless-pixel-perfection-software/"><u>[New] Unparalleled, Costless Pixel Perfection Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-social-media-self-proofing-deciphering-ig-identity/"><u>[Updated] 2024 Approved Social Media Self-Proofing Deciphering IG Identity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tiktok-to-facebook-social-media-linking-guide/"><u>[Updated] TikTok-to-Facebook Social Media Linking Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-guide-to-professional-photo-coloring/"><u>2024 Approved The Ultimate Guide to Professional Photo Coloring</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-restoring-a-computer-without-any-indicators-of-functionality/"><u>Diagnosing and Restoring a Computer Without Any Indicators of Functionality</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-video-converter-windows/"><u>Movavi Video Converter Windows 操作手冊 - 步驟指南</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pro-tips-for-perfect-pet-gazes-adjusting-photographic-eyes/"><u>Pro Tips for Perfect Pet Gazes: Adjusting Photographic Eyes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-for-when-your-usb-flash-drive-wont-show-up/"><u>Quick Fix Guide for When Your USB Flash Drive Won't Show Up</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-apple-devices-currently-not-worth-your-money-insights/"><u>Top 4 Apple Devices Currently Not Worth Your Money: Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-top-4-new-ipados-16x-enhancements-released-during-apples-wwdc-keynote-eligible-ipad-models/"><u>Unveiling the Top 4 New iPadOS 16.x Enhancements Released During Apple's WWDC Keynote: Eligible iPad Models</u></a></li>
 </ul></div>
 

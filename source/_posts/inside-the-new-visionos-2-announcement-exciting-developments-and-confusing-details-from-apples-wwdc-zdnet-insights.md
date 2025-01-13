@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2025-01-05T02:38:13.822Z
-updated: 2025-01-06T22:55:14.681Z
+date: 2025-01-10T16:32:58.905Z
+updated: 2025-01-13T18:28:06.160Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -53,7 +53,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -64,10 +64,6 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -76,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -96,6 +92,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1599a1fd-b080-4e5b-ae5c-a67c38755459%7Cdtp&dtb=1). 
@@ -103,6 +103,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -113,10 +117,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,18 +171,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[New] From Visionary to Reality The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-gain-extensive-engagement-master-the-view-multiplier-for-2024/"><u>[New] Gain Extensive Engagement Master the View Multiplier for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-experience-the-power-of-visuals-discover-all-50-banners-in-our-digital-collection/"><u>[New] In 2024, Experience the Power of Visuals Discover All 50 Banners in Our Digital Collection</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-pro-tips-securely-preserving-whatsapp-call-recordings/"><u>2024 Approved Pro Tips Securely Preserving WhatsApp Call Recordings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-must-know-insights-for-making-informed-choices-when-buying-stereo-speakers/"><u>5 Must-Know Insights for Making Informed Choices When Buying Stereo Speakers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-screens-and-keyboards-who-are-you-really-connecting-with-an-insight-into-dead-internet-phenomenon/"><u>Beyond Screens and Keyboards: Who Are You Really Connecting With? An Insight Into Dead Internet Phenomenon</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-the-levels-within-the-royal-match-saga/"><u>Deciphering the Levels Within the Royal Match Saga</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-sustainability-of-electric-vehicles-are-they-really-eco-friendly/"><u>Decoding the Sustainability of Electric Vehicles – Are They Really Eco-Friendly?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/defining-the-role-of-a-chief-ai-officer-steps-to-secure-your-position/"><u>Defining the Role of a Chief AI Officer: Steps to Secure Your Position</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-links-between-instagram-and-tiktok/"><u>In 2024, Navigating Links Between Instagram and TikTok</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-stop-0x0000005c-bug-expert-solutions-and-advice/"><u>Overcoming STOP 0X0000005C Bug: Expert Solutions and Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-access-and-edit-a-pages-document-on-your-windows-or-mac-computer/"><u>Steps to Access and Edit a Pages Document on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-unique-features-of-apples-ipad-vs-traditional-tablets/"><u>Unveiling the Unique Features of Apple's iPad vs Traditional Tablets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>[New] 2024 Approved From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>[New] In 2024, How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-conversion-wizardry-from-youtube-to-igtv/"><u>[New] Video Conversion Wizardry From Youtube to IGTV</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-efficient-timelapse-recording-via-ipad/"><u>[Updated] 2024 Approved Efficient Timelapse Recording via iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Methods to Prevent Your Mac From Entering Sleep Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-streaming-technology-and-devices/"><u>Exploring the World of Streaming Technology & Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>In 2024, Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-google-home-mobile-application-for-pc-users-a-comprehensive-guide/"><u>Navigating the Google Home Mobile Application for PC Users - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-twitch-a-guide-to-solving-puzzling-aspects-for-novice-users/"><u>Navigating Twitch: A Guide to Solving Puzzling Aspects for Novice Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
 </ul></div>
 

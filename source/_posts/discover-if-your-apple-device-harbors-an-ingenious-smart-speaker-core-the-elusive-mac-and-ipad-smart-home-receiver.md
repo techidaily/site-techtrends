@@ -1,7 +1,7 @@
 ---
 title: Discover If Your Apple Device Harbors an Ingenious Smart Speaker Core - The Elusive Mac and iPad Smart Home Receiver
-date: 2025-01-04T22:27:34.884Z
-updated: 2025-01-07T03:41:20.693Z
+date: 2025-01-11T17:40:32.721Z
+updated: 2025-01-13T18:28:18.423Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ It only weighs 6.9 ounces, so it won't weigh your work bag or suitcase down, and
 In addition to the charging station, the only other thing you need to bring with you is a high-output USB-C cable and adapter, both of which are included in the box. The Anker adapter maxes out at 40W, so anything that's the same or higher would be ideal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,20 +108,17 @@ If you consider yourself an Apple aficionado -- or just a big fan of wireless ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-storytelling-on-snapchat-top-15-ideas/"><u>[Updated] Elevate Your Storytelling on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-securing-the-best-presentation-of-subtitles-through-srt-uploads-for-2024/"><u>[Updated] Securing the Best Presentation of Subtitles Through SRT Uploads for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-compilation-of-top-tier-free-iphone-composition-software/"><u>2024 Approved The Ultimate Compilation of Top-Tier Free iPhone Composition Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-detailed-guide-to-every-release-of-apples-ipad-operating-system/"><u>A Detailed Guide to Every Release of Apple's iPad Operating System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-adding-your-emails-to-the-safe-senders-list-on-gmail/"><u>A Step-by-Step Guide to Adding Your Emails to the Safe Senders List on Gmail</u></a></li>
-<li><a href="https://facebook.techidaily.com/ai-supremacy-on-the-horizon-metas-initiative/"><u>AI Supremacy on the Horizon - Meta's Initiative</u></a></li>
-<li><a href="https://techtrends.techidaily.com/before-you-buy-a-dash-cam-understanding-9-crucial-considerations-first/"><u>Before You Buy a Dash Cam: Understanding 9 Crucial Considerations First</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-the-thrill-of-mens-ncaa-basketball-radio-broadcasts-march-madness-through-to-the-final-four/"><u>Experience the Thrill of Men's NCAA Basketball Radio Broadcasts - March Madness Through To The Final Four</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-fe-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy S23 FE Lock Screen Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-90-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor 90 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-methods-for-creating-reverse-playback-effects-in-snapchat-videos/"><u>Innovative Methods for Creating Reverse Playback Effects in Snapchat Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsungs-anticipated-2eplus-event-of-2025-dates-latest-headlines-and-expectations/"><u>Samsung's Anticipated 2E+ Event of 2025: Dates, Latest Headlines & Expectations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/starting-urdu-learning-journey-with-keywords/"><u>Starting Urdu Learning Journey with Keywords</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-revising-your-instagram-direct-messages-effortlessly/"><u>The Ultimate Guide: Revising Your Instagram Direct Messages Effortlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-when-you-cant-find-cygwin1dll-file/"><u>Troubleshooting Steps When You Can't Find Cygwin1.dll File</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-customizing-video-dimensions-the-aspect-ratio-guide/"><u>[New] 2024 Approved Customizing Video Dimensions The Aspect Ratio Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mobile-mastery-high-shots-with-your-smartphone/"><u>[Updated] In 2024, Mobile Mastery High Shots with Your Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-freebie-libraries-17-websites-with-free-ebooks/"><u>Discover Freebie Libraries - 17 Websites with Free Ebooks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/durable-and-upgradable-chromebook-evaluation-discovering-the-ultimate-fixer-upper-model-on-zdnet/"><u>Durable and Upgradable Chromebook Evaluation: Discovering the Ultimate Fixer-Upper Model on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-collaboration-in-microsoft-teams-through-copilot-integration-step-by-step/"><u>Enhancing Collaboration in Microsoft Teams Through Copilot Integration - Step by Step</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576807700-huaweis-appgallery-welcomes-mondly/"><u>Huawei's AppGallery Welcomes Mondly!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-discord-bot-setup-a-comprehensive-how-to-guide/"><u>Mastering Discord Bot Setup: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/stardews-ultimate-customization-guide-the-top-7-mods-listed-for-2024/"><u>Stardew's Ultimate Customization Guide The Top 7 Mods Listed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-collection-of-the-11-most-uplifting-movies-for-a-positive-mindset/"><u>The Definitive Collection of the 11 Most Uplifting Movies for a Positive Mindset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-iphone-vpns-in-depth-comparison-and-reviews-by-industry-experts/"><u>Top-Rated iPhone VPNs: In-Depth Comparison & Reviews by Industry Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-we-switched-from-apple-vision-pro-and-meta-quest/"><u>Why We Switched From Apple Vision Pro and Meta Quest</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/alisdar-algdyd-3-trk-shhyra-ligraaa-nskh-ahtyatya-fy-windows-server-omgmaa-windows-server-o-qnap-nas/"><u>الإصدار الجديد: 3 طرق شهيرة لإجراء نسخ احتياطية في Windows Server ومجمع Windows Server و QNAP NAS</u></a></li>
 </ul></div>
 

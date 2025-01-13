@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2025-01-05T20:08:17.799Z
-updated: 2025-01-07T04:09:38.686Z
+date: 2025-01-12T18:18:11.093Z
+updated: 2025-01-13T18:50:55.603Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -35,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -44,10 +52,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-capturing-your-ps4-experience/"><u>[New] The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/op-10-free-stock-footage-websites-you-should-know-for-2024/"><u>[New] Top 10 Free Stock Footage Websites You Should Know for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-understanding-luts-to-amplify-your-photo-quality-for-2024/"><u>[New] Understanding LUTs to Amplify Your Photo Quality for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>[Updated] In 2024, A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c02-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C02 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-future-of-connectivity-with-verizons-5g-network/"><u>Anticipating the Future of Connectivity with Verizon's 5G Network</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-solutions-for-correcting-missing-python-240-dynamic-link-library-issues/"><u>Easy Solutions for Correcting Missing 'Python 2.4.0' Dynamic Link Library Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-conversion-of-ppm-images-to-tiff-format-movavis-online-tool/"><u>Free Conversion of PPM Images to TIFF Format - Movavi's Online Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fubotv-integration-install-and-enjoy-live-sports-and-shows-on-firestick/"><u>FuboTV Integration: Install and Enjoy Live Sports & Shows on Firestick</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-leverage-the-windows-11-battery-report-for-better-device-performance/"><u>How to Leverage the Windows 11 Battery Report for Better Device Performance</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-wirecast-techniques-for-effective-youtube-streams/"><u>In 2024, WireCast Techniques for Effective Youtube Streams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 Vs. MacBook Air M3: What's the Difference?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-leads-bridging-cultures-and-courses-with-70plus-million-users/"><u>Mondly Leads: Bridging Cultures & Courses with 70+ Million Users</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/resolve-your-iphones-invisibility-issue-on-windows-pc-a-guide-with-6-effective-solutions/"><u>Resolve Your iPhone's Invisibility Issue on Windows PC: A Guide with 6 Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/supercharge-your-iphone-browsing-4-ways-to-improve-safari-speed-and-responsiveness/"><u>Supercharge Your iPhone Browsing - 4 Ways to Improve Safari Speed and Responsiveness</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722900422983-troubleshooting-missing-zlibdll-error-a-comprehensive-guide/"><u>Troubleshooting Missing zlib.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-why-your-apple-watchs-cellular-connection-might-be-down-and-how-to-resolve-it/"><u>Troubleshooting: Why Your Apple Watch's Cellular Connection Might Be Down and How to Resolve It</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-deactivating-and-deleting-your-tiktok-account/"><u>Ultimate Guide to Deactivating and Deleting Your TikTok Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unmasking-private-callers-expert-techniques-for-reconnecting-with-anonymous-telephone-contacts/"><u>Unmasking Private Callers: Expert Techniques for Reconnecting with Anonymous Telephone Contacts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-effortless-google-podcast-upload/"><u>[New] Expert Tips for Effortless Google Podcast Upload</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-step-into-mobile-entertainment-funimates-apk-pathway/"><u>[New] In 2024, Step Into Mobile Entertainment Funimate's APK Pathway</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-methods-for-win10-game-screen-recording-for-2024/"><u>[Updated] Expert Methods for Win10 Game Screen Recording for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-se-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone SE? Find the Best Solution Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-apple-watchs-battery-with-these-essential-setting-tweaks/"><u>Boost Your Apple Watch's Battery with These Essential Setting Tweaks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-managing-workflow-with-slack-notifications/"><u>Effective Strategies for Managing Workflow with Slack Notifications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-apples-curated-list-of-must-have-applications-and-gaming-experiences-as-recommended/"><u>Explore Apple’s Curated List of Must-Have Applications and Gaming Experiences , as Recommended</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-prevent-your-amd-radeon-wattman-from-crashing-settings-restored-guide/"><u>How to Prevent Your AMD Radeon Wattman From Crashing: Settings Restored Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-learn-the-art-of-virality-infuse-insta-reels-with-tiktok-charm/"><u>In 2024, Learn the Art of Virality Infuse Insta Reels With TikTok Charm</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-creativity-showdown-apple-pencil-pro-vs-apple-pencil-2nd-gen-ultimate-verdict-for-artists-and-designers-techradar/"><u>IPad Creativity Showdown: Apple Pencil Pro vs Apple Pencil (2Nd Gen) – Ultimate Verdict for Artists and Designers | TechRadar</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-flip-video-quickly-and-easily/"><u>New How to Flip Video Quickly and Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/newest-airpods-arrival-predicted-insights-and-how-to-secure-your-preorder-guide/"><u>Newest AirPods Arrival Predicted: Insights & How to Secure Your Preorder Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-assurance-delete-your-fb-browsing-data/"><u>Privacy Assurance: Delete Your FB Browsing Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-gadgets-the-essential-guide-to-mitigating-airtags-dangerous-battery-safety-glitch/"><u>Protect Your Gadgets: The Essential Guide to Mitigating AirTag's Dangerous Battery Safety Glitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-step-in-smartwatch-innovation-is-it-time-to-upgrade-from-apple-watch-series-8-to-the-rumored-series-10-insights-by-zdnet/"><u>The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-headphones-on-sale-in-march-2024-exclusive-offers-from-zdnet/"><u>Top Rated Headphones on Sale in March 2024: Exclusive Offers From ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-11-outlook/"><u>Windows 11 と Outlook メール同期不能時の問題解消手順</u></a></li>
 </ul></div>
 
