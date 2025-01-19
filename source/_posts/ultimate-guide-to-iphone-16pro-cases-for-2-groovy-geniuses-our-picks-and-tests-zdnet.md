@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2025-01-10T17:16:53.655Z
-updated: 2025-01-13T18:03:13.909Z
+date: 2025-01-15T20:15:58.615Z
+updated: 2025-01-19T21:45:14.843Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -37,7 +37,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -58,25 +58,25 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -85,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,20 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-empowering-enterprises-through-vr-engagement/"><u>[Updated] Empowering Enterprises Through VR Engagement</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-forthcoming-touchscreen-macbook-price-forecasts-release-date-speculations-and-feature-deep-dive/"><u>All You Need to Know About the Forthcoming Touchscreen MacBook: Price Forecasts, Release Date Speculations & Feature Deep-Dive</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciphering-and-correcting-code-28-problems-on-your-pc-a-users-manual/"><u>Deciphering and Correcting Code 28 Problems on Your PC: A User's Manual</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-canon-pro-100-printer-setup-step-by-step-guide-for-windows-users/"><u>Easy Canon PRO 100 Printer Setup: Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-overcoming-google-chat-message-glitches-in-androids-rcs-system/"><u>Effective Solutions for Overcoming Google Chat Message Glitches in Android's RCS System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-picks-for-ultimate-keys-finder-tools-2024-rankings/"><u>Expert Picks for Ultimate Keys Finder Tools - 2024 Rankings</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-online-gif-video-converters/"><u>In 2024, The Ultimate Guide to Online GIF Video Converters</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-young-users-on-discord-the-ultimate-guide-to-activating-parent-locks/"><u>Protecting Young Users on Discord: The Ultimate Guide to Activating Parent Locks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revival-rendezvous-stellar-and-data-hubs/"><u>Revival Rendezvous: Stellar and Data Hubs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722953928200-samsung-m2070-drivers-update-effortless-setup-in-minutes/"><u>Samsung M2070 Drivers Update: Effortless Setup in Minutes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-vpn-apps-for-apple-devices-in-depth-analysis-and-reviews-by-industry-experts-zdnet/"><u>Top-Rated VPN Apps for Apple Devices: In-Depth Analysis & Reviews by Industry Experts - ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-methodologies-for-detaching-audio-elements-from-new-mkv-file-types/"><u>Updated In 2024, Methodologies for Detaching Audio Elements From New MKV File Types</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-new-in-icloud-apple-unveils-significant-changes-and-solutions-for-windows-users-insights/"><u>What's New in iCloud? Apple Unveils Significant Changes and Solutions for Windows Users Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722874147995-x-men-movie-marathon-watch-in-the-perfect-order/"><u>X-Men Movie Marathon: Watch in the Perfect Order!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-concept-to-reality-an-elaborate-breakdown-of-toolwiz-photosapp-2023-edition/"><u>[New] From Concept to Reality An Elaborate Breakdown of Toolwiz PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-crafting-yt-masterpieces-for-igtv-showcase/"><u>[Updated] Crafting YT Masterpieces for IGTV Showcase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-comprehensively-reviewed-androids-lightroom-features-and-functions/"><u>[Updated] In 2024, Comprehensively Reviewed Android’s Lightroom Features & Functions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>[Updated] In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnose-and-resolve-powerpoint-speaker-errors-expert-tips/"><u>Diagnose & Resolve PowerPoint Speaker Errors - Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-closed-captioning-a-step-by-step-guide-for-amazon-prime-watchers/"><u>Disabling Closed Captioning: A Step-by-Step Guide for Amazon Prime Watchers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-hacks-for-starting-your-windows-in-troubleshooting-safe-mode/"><u>Expert Hacks for Starting Your Windows in Troubleshooting Safe Mode</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nintendo-game-and-watch-super-mario-bros-review/"><u>Nintendo Game & Watch: Super Mario Bros. Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-minecraft-error-code-5-a-step-by-step-guide/"><u>Resolving Minecraft Error Code 5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-missing-d3dx9nine-library-issues/"><u>Step-by-Step Guide: Correcting Missing D3dx9_nine Library Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-practices-to-thoroughly-sanitize-and-wipe-down-your-dell-device/"><u>The Best Practices to Thoroughly Sanitize and Wipe Down Your Dell Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-correct-missing-microsoft-msodll-file/"><u>Troubleshooting Steps to Correct Missing Microsoft mso.dll File</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

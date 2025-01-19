@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Restoring Firestick Remote Control Functionality
-date: 2024-08-30T15:13:24.845Z
-updated: 2024-08-31T15:13:24.845Z
+date: 2025-01-16T21:13:14.345Z
+updated: 2025-01-19T21:21:06.470Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Restoring Firestick Remote Control Functionality
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/5U6tHmrD6jfMYsAht3yyeAXJsFs=/400x300/fi
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -24,6 +28,14 @@ thumbnail: https://www.lifewire.com/thmb/5U6tHmrD6jfMYsAht3yyeAXJsFs=/400x300/fi
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -36,9 +48,6 @@ thumbnail: https://www.lifewire.com/thmb/5U6tHmrD6jfMYsAht3yyeAXJsFs=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -54,18 +63,12 @@ thumbnail: https://www.lifewire.com/thmb/5U6tHmrD6jfMYsAht3yyeAXJsFs=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -77,10 +80,6 @@ thumbnail: https://www.lifewire.com/thmb/5U6tHmrD6jfMYsAht3yyeAXJsFs=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -101,9 +100,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,6 +112,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -125,8 +125,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +155,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastery-guide-installing-snapchat-on-mac-os-for-2024/"><u>[New] Mastery Guide Installing Snapchat on Mac OS for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pro-gear-for-documenting-excursions/"><u>[Updated] In 2024, Pro Gear for Documenting Excursions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-fb-video-downloader-app-windows-macos-android/"><u>2023 FB Video Downloader App - Windows, macOS, Android</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximize-networking-with-fb-link-downloader-tools/"><u>2024 Approved Maximize Networking with FB Link Downloader Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-implementing-bots-into-your-server-on-discord-platform/"><u>Easy Methods for Implementing Bots Into Your Server on Discord Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-hardware-by-toms-tech-hub-reliable-and-informed-reviews/"><u>Expert Insights Into Hardware by Tom's Tech Hub - Reliable and Informed Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-view-tiktok-clips-directly-on-your-tv-set/"><u>How To View TikTok Clips Directly on Your TV Set</u></a></li>
+<li><a href="https://techtrends.techidaily.com/join-forces-with-friends-the-ultimate-tutorial-on-creating-tiktok-duets/"><u>Join Forces with Friends: The Ultimate Tutorial on Creating TikTok Duets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/star-trek-cinematic-journey-how-to-watch-movies-in-the-right-progression/"><u>Star Trek Cinematic Journey: How to Watch Movies in the Right Progression</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-evaluated-and-recommended-insights-from-tech-experts/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Evaluated & Recommended - Insights From Tech Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-zlibdll-not-found-problems/"><u>Troubleshooting Steps for 'zlib.dll Not Found' Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-connecting-your-logitech-mouse-seamlessly/"><u>Ultimate Guide: Connecting Your Logitech Mouse Seamlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/xsplit-vault-expert-gaming-split-analysis/"><u>XSplit Vault Expert Gaming Split Analysis</u></a></li>
+</ul></div>
 

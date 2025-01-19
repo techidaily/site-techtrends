@@ -1,7 +1,7 @@
 ---
 title: What Causes a 503 Error and How Can You Quickly Fix Your Website?
-date: 2024-08-30T15:17:31.898Z
-updated: 2024-08-31T15:17:31.898Z
+date: 2025-01-12T19:11:02.449Z
+updated: 2025-01-19T20:43:04.568Z
 categories:
   - BestProducts
 description: This Article Describes What Causes a 503 Error and How Can You Quickly Fix Your Website?
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/kZqZQ4MaGvh55alCWa6btlfV6SM=/400x300/fi
  Instead, here are five things to address before you do anything else:  
 
  Have a laptop or tablet instead? Your[first steps look a little different](https://www.lifewire.com/5-steps-to-set-up-new-laptops-and-tablets-4154474) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update Your Antimalware Program
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/kZqZQ4MaGvh55alCWa6btlfV6SM=/400x300/fi
 
 ![Windows Update restart required message](https://www.lifewire.com/thmb/fgxMJF0Su1apMldBBFegonZpNkA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-update-restart-required-9135caaf9bc8435f996c9ff7c7731572.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The[Windows Update](https://www.lifewire.com/what-is-windows-update-2624597) tool is preconfigured to download and install updates automatically. While this is generally a good thing, it can be a bit overwhelming of a thing to happen in the background during the first few hours of using your new computer. Fortunately, it's easy to[change Windows Update settings](https://www.lifewire.com/how-to-change-windows-update-settings-2625778) —this is something we usually recommend people do.
 
  Windows Update might install[driver](https://www.lifewire.com/what-is-a-device-driver-2625796) updates for you, too, which are needed for your[hardware](https://www.lifewire.com/computer-hardware-2625895) to work properly. However, Microsoft only provides basic drivers for_some_ hardware, and will not install a driver for some gaming mice,[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) microphones, and other devices you might plug into your new computer, like a webcam, drawing tablet, etc.
@@ -47,8 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/kZqZQ4MaGvh55alCWa6btlfV6SM=/400x300/fi
  Keep one of those programs on your computer to make sure you always have quick access to these updates. They're especially helpful if your[network adapter](https://www.lifewire.com/definition-of-adapter-817585) doesn't work and you need a network driver but don't have an internet connection. This might be a scenario if you've[installed Windows manually](https://www.lifewire.com/how-to-install-a-windows-operating-system-2624925) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Install a File Recovery Program
 
  This one might surprise you. Why install a program to help[recover accidentally deleted files](https://www.lifewire.com/how-to-recover-deleted-files-2622870) if you haven't even used your computer yet, let alone lost something?
@@ -59,9 +68,6 @@ thumbnail: https://www.lifewire.com/thmb/kZqZQ4MaGvh55alCWa6btlfV6SM=/400x300/fi
 
  See our[Free File Recovery Software Programs](https://www.lifewire.com/free-data-recovery-software-tools-2622893) list for a number of excellent and completely free undelete tools. Just install one and forget it. If you need it in the future, it'll be there.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Sign Up for an Online Backup Service
 
  Yep, another proactive step here, one you'll be thanking us for someday.
@@ -75,8 +81,9 @@ thumbnail: https://www.lifewire.com/thmb/kZqZQ4MaGvh55alCWa6btlfV6SM=/400x300/fi
  However, if buying a new computer is the last big purchase you want to make for a while, consider using a[free backup service](https://www.lifewire.com/free-backup-software-tools-2617964) or, at the very least, a[local backup tool](https://www.lifewire.com/free-backup-software-tools-2617964) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uninstall Programs You Don't Want
 
  You may already have noticed that your computer came with a lot of...well, let's just say "extra" software.
@@ -88,8 +95,9 @@ thumbnail: https://www.lifewire.com/thmb/kZqZQ4MaGvh55alCWa6btlfV6SM=/400x300/fi
 ![Windows 11 Settings apps and features list](https://www.lifewire.com/thmb/s_ji3SnEjbustwmrjBqMKIZu9j0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-settings-apps-list-b2429c83382041d685e3964d889edc21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  An easier option, if you'd like, is to use a dedicated uninstaller program for just this purpose. They're called_uninstallers_ , and[we've reviewed a number of them](https://www.lifewire.com/free-uninstaller-programs-2625188) .  
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
@@ -121,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +136,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-fusionslideshow-crafting-video-plus-image-narratives/"><u>[New] In 2024, FusionSlideshow Crafting Video + Image Narratives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-goovision-pro-high-quality-chromecasting/"><u>2024 Approved GooVision Pro High-Quality Chromecasting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-taking-flight-in-edits-top-9-choices-for-every-drone-enthusiast/"><u>2024 Approved Taking Flight in Edits Top 9 Choices for Every Drone Enthusiast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-snapchats-emoji-language-an-essential-how-to-guide/"><u>Deciphering Snapchat's Emoji Language: An Essential How-To Guide</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effiziente-methoden-zum-hochladen-von-mp3-tracks-auf-ihr-ipad-ohne-die-verwendung-von-itunes/"><u>Effiziente Methoden Zum Hochladen Von MP3-Tracks Auf Ihr iPad, Ohne Die Verwendung Von iTunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-connecting-your-mac-and-television-with-airplay/"><u>Essential Guide: Connecting Your Mac and Television with AirPlay</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/fishing-footage-kings-select-the-best-camers/"><u>Fishing Footage Kings Select the Best Camers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-fix-apricorn-ez-gig-iv-external-hard-drive-copying-issues/"><u>How to Fix Apricorn EZ Gig IV External Hard Drive Copying Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco</u></a></li>
+<li><a href="https://techtrends.techidaily.com/list-of-ipad-devices-with-integrated-gps-capabilities/"><u>List of iPad Devices with Integrated GPS Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-tracking-email-opens-and-read-receipts-in-gmail/"><u>The Ultimate Guide: Tracking Email Opens and Read Receipts in Gmail</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-essential-study-aids-best-homework-apps-for-kids-and-parents/"><u>Top 6 Essential Study Aids: Best Homework Apps for Kids & Parents</u></a></li>
+</ul></div>
 

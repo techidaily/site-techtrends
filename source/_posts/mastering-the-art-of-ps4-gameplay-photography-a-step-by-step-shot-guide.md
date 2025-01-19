@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of PS4 Gameplay Photography: A Step-by-Step Shot Guide"
-date: 2024-08-30T15:18:51.007Z
-updated: 2024-08-31T15:18:51.007Z
+date: 2025-01-18T17:54:20.797Z
+updated: 2025-01-19T16:43:32.054Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Art of PS4 Gameplay Photography: A Step-by-Step Shot Guide"
@@ -27,18 +27,38 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -49,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +113,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-basic-scan-capture-program-windows-10-for-2024/"><u>[New] Basic Scan-Capture Program - Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-tiktok-engagement-in-unboxing-videos/"><u>[New] Maximizing TikTok Engagement in Unboxing Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-power-of-featured-channels-on-youtube-platform-for-2024/"><u>[Updated] Unveiling the Power of Featured Channels on YouTube Platform for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-fitbit-charge-6-a-detailed-user-guide/"><u>Comprehensive Analysis of the Fitbit Charge 6: A Detailed User Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-dealing-with-windows-software-code-39-issues/"><u>Easy Fixes for Dealing with Windows Software Code 39 Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-for-dealing-with-microsoft-word-file-opening-issues/"><u>Essential Tips for Dealing With Microsoft Word File Opening Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-list-of-top-disneyplus-flicks-for-immediate-streaming/"><u>Exclusive List of Top Disney+ Flicks for Immediate Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-oldest-to-newest-how-to-conduct-a-full-system-reboot-on-any-ipad-edition/"><u>From Oldest to Newest: How to Conduct a Full System Reboot on Any iPad Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-honor-play-40c-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Honor Play 40C</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-k70-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi K70 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-phantom-v-flipmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Phantom V FlipMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-dos-and-donts-of-youtube-videos-on-twitter/"><u>In 2024, The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
+<li><a href="https://win11.techidaily.com/indispensable-android-programs-for-windows-pc-fans/"><u>Indispensable Android Programs for Windows PC Fans</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-sonys-playstation-network-down-for-all-users-or-am-i-alone-in-this-struggle/"><u>Is Sony's PlayStation Network Down for All Users, or Am I Alone in This Struggle?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-fixes-ensuring-seamless-operation-of-samsung-tv-apps/"><u>Master Fixes: Ensuring Seamless Operation of Samsung TV Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-invisible-wifi-a-guide-when-its-not-detectable-on-devices/"><u>Reviving Invisible WiFi: A Guide When It's Not Detectable on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-behind-error-message-0x800key70-fixing-techniques-revealed/"><u>Solving the Mystery Behind Error Message 0X800(KEY]70: Fixing Techniques Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-insiders-guide-to-crafting-insta-tones/"><u>The Insider's Guide to Crafting Insta Tones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-normalizdll-not-found-error-on-your-pc/"><u>Troubleshooting the 'Normaliz.dll Not Found' Error on Your PC</u></a></li>
+</ul></div>
 

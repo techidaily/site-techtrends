@@ -1,7 +1,7 @@
 ---
 title: "Easy Screenshots: How to Use Your Logiteche Keyboard's Features for Image Capture"
-date: 2024-08-30T15:13:22.278Z
-updated: 2024-08-31T15:13:22.278Z
+date: 2025-01-17T16:21:23.038Z
+updated: 2025-01-19T17:06:52.952Z
 categories:
   - BestProducts
 description: "This Article Describes Easy Screenshots: How to Use Your Logiteche Keyboard's Features for Image Capture"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-economic-expressiveness-in-video-theming-tools/"><u>[Updated] 2024 Approved Economic Expressiveness in Video Theming Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-iphones-handbooks-comprehensive-source-for-each-version-explained/"><u>Download iPhones Handbooks - Comprehensive Source for Each Version Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-methods-for-deactivating-facebook-from-android-handsets-and-tablets/"><u>Effective Methods for Deactivating Facebook From Android Handsets and Tablets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-update-for-wacom-cintiq-13hd-drivers-download-now/"><u>Effortless Update for Wacom Cintiq 13HD Drivers - Download Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-how-to-accurately-use-the-in-built-measurement-application-on-android-devices/"><u>Expert Advice: How To Accurately Use The In-Built Measurement Application On Android Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-quintessential-collection-5-unbeatable-free-cross-border-chat-services/"><u>Explore the Quintessential Collection: 5 Unbeatable Free Cross-Border Chat Services</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-c32-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C32 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ranking-the-premier-online-church-service-providers/"><u>In 2024, Ranking the Premier Online Church Service Providers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-audio-tools-for-professional-podcast-creators/"><u>In 2024, Top Audio Tools for Professional Podcast Creators</u></a></li>
+<li><a href="https://common-error.techidaily.com/origin-gaming-troubleshooting-guide-resolving-issues-in-your-game-configuration/"><u>Origin Gaming - Troubleshooting Guide: Resolving Issues in Your Game Configuration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-lcd-best-practices-for-dust-free-and-smudge-less-television-displays/"><u>Protecting Your LCD: Best Practices for Dust-Free and Smudge-Less Television Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-sound-problems-during-your-powerpoint-presentation/"><u>Resolving Sound Problems During Your PowerPoint Presentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-engaging-in-chats-via-mozilla-thunderbird-platform/"><u>Step-by-Step Tutorial: Engaging in Chats via Mozilla Thunderbird Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-artful-swap-from-cold-scenes-to-cozy-vlogs-for-2024/"><u>The Artful Swap From Cold Scenes to Cozy Vlogs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-superiority-of-evs-compared-to-petrol-engines-explained/"><u>The Superiority of EVs Compared to Petrol Engines Explained</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-crafting-seamless-sound-tracks-with-imovies-volume-control/"><u>Updated In 2024, Crafting Seamless Sound Tracks with iMovies Volume Control</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-we-know-so-far-about-the-new-google-tv-media-player-rumored-price-launch-plans-and-hardware-features/"><u>What We Know So Far About the New Google TV Media Player: Rumored Price, Launch Plans, and Hardware Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Storm 5G | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

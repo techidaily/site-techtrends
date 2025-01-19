@@ -1,7 +1,7 @@
 ---
 title: The Smart Move Away From iPhone 16 - Why Choosing Different Tech Might Be Better
-date: 2025-01-06T17:47:16.751Z
-updated: 2025-01-13T17:05:51.342Z
+date: 2025-01-12T19:58:18.661Z
+updated: 2025-01-19T19:53:45.984Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -35,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -63,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -93,10 +97,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,22 +158,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-a-comprehensive-overview-of-multiscreen-streaming-techniques-on-social-media-platforms-like-facebook/"><u>[New] A Comprehensive Overview of Multiscreen Streaming Techniques on Social Media Platforms Like Facebook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-excellent-ios-options-for-emulating-top-notch-psp-games/"><u>[New] In 2024, Excellent iOS Options for Emulating Top-Notch PSP Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-photographic-albums-with-background-music/"><u>[Updated] Photographic Albums with Background Music</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-polishing-your-youtube-projects-the-premiere-pro-way/"><u>2024 Approved Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-perfect-photo-safe-mix-zero-cost-cloud-with-elite-paid-options/"><u>2024 Approved The Perfect Photo Safe Mix Zero-Cost Cloud with Elite Paid Options</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bringing-social-media-fun-to-your-living-room-watch-tiktok-on-tv/"><u>Bringing Social Media Fun to Your Living Room: Watch TikTok on TV</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/childhood-nutrition-savvy-with-mondly-kids-google-plays-best-of-2017/"><u>Childhood Nutrition Savvy with Mondly Kids - Google Play’s Best of 2017</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-the-right-smartphone-for-your-child-expert-reviews-on-safety-and-fun-features-insights/"><u>Choosing the Right Smartphone for Your Child? Expert Reviews on Safety and Fun Features Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-to-view-apples-stunning-3d-spatial-videography-on-your-meta-quest-3-with-easy-steps/"><u>Discover How to View Apple’s Stunning 3D Spatial Videography on Your Meta Quest 3 with Easy Steps!</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effective-steps-to-eliminate-malware-and-viruses-from-your-pc-tips-by-yl-computing/"><u>Effective Steps to Eliminate Malware and Viruses From Your PC - Tips by YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-picks-must-have-smartwatch-apps-that-will-transform-your-android-device/"><u>Expert Picks: Must-Have Smartwatch Apps That Will Transform Your Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-textbooks-to-tablets-claiming-your-well-deserved-lenovo-student-rebates-and-reductions/"><u>From Textbooks to Tablets: Claiming Your Well-Deserved Lenovo Student Rebates and Reductions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-detailed-capture-gopro-hero5-vs-sjcam-sj7/"><u>In 2024, Detailed Capture GoPro Hero5 vs SJCAM SJ7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rejuvenated-icloud-support-for-windows-users-by-apple-explore-the-latest-innovations-gizmosphere/"><u>Rejuvenated iCloud Support for Windows Users by Apple - Explore the Latest Innovations | GizmoSphere</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sharing-a-single-spotify-session-how-many-listeners-does-it-support/"><u>Sharing A Single Spotify Session: How Many Listeners Does It Support?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unexplained-vulnerabilities-exposed-by-eye-safety-experts-a-comprehensive-guide-on-how-to-respond-if-this-occurs/"><u>Unexplained Vulnerabilities Exposed by Eye Safety Experts - A Comprehensive Guide on How to Respond If This Occurs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-unlocks-ultimate-tips-enhance-apple-watch-lifespan-with-these-8-essential-tweaks/"><u>ZDNet Unlocks Ultimate Tips: Enhance Apple Watch Lifespan with These 8 Essential Tweaks!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-content-for-success-how-to-start-your-own-youtube-chanel/"><u>[Updated] In 2024, Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-share-tiktok-videos-to-facebook-in-quick-easy-steps/"><u>[Updated] In 2024, Share TikTok Videos to Facebook in Quick Easy Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bridging-the-gap-between-ps-vr-and-pcs-expert-tips-and-tricks/"><u>Bridging the Gap Between PS VR and PCs: Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertissez-gratuitement-des-fichiers-wmv-en-asf-en-ligne-avec-ease-parmi-les-meilleurs-services-de-conversion/"><u>Convertissez Gratuitement Des Fichiers WMV en ASF en Ligne Avec Ease - Parmi Les Meilleurs Services De Conversion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/do-battery-powered-cars-match-up-to-combustion-engines-when-it-comes-to-endurance-and-reliability/"><u>Do Battery-Powered Cars Match Up to Combustion Engines When It Comes to Endurance and Reliability?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elysian-estates-transforming-simple-nests-into-grand-homes/"><u>Elysian Estates: Transforming Simple Nests Into Grand Homes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-to-engaging-in-email-discussions-with-mozilla-thunderbird/"><u>Essential Guide to Engaging in Email Discussions with Mozilla Thunderbird</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-by-tom-navigating-the-world-of-hardware-and-gadgets/"><u>Expert Reviews by Tom: Navigating the World of Hardware and Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-latest-advancements-in-5g-with-verizon/"><u>Exploring the Latest Advancements in 5G with Verizon</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-watch-the-how-to-train-your-dragon-movies-in-correct-sequence-an-ultimate-list/"><u>How To Watch the How To Train Your Dragon Movies in Correct Sequence - An Ultimate List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unlocking-youtubes-potential-title-and-tag-best-practices/"><u>In 2024, Unlocking YouTube's Potential Title and Tag Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-challenge-of-0x8007045d-error-on-windows-11/"><u>Overcoming the Challenge of 0X8007045d Error on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-dciman32dll-file-not-found-step-by-step-troubleshooting-guide/"><u>Resolving 'Dciman32.dll' File Not Found: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-opengl32dll-files-on-your-pc/"><u>Troubleshooting Missing OpenGL32.dll Files on Your PC</u></a></li>
+<li><a href="https://fox-where.techidaily.com/verschiebe-deine-steam-titel-effizient-auf-eine-ssd-mit-diesen-4-tricks/"><u>Verschiebe Deine Steam-Titel Effizient Auf Eine SSD Mit Diesen 4 Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/yahoo-mail-deletion-process-securely-remove-your-email-address-once-and-for-all/"><u>Yahoo Mail Deletion Process: Securely Remove Your Email Address Once and For All</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Oculus Quest 2 Shopping Spree: How to Buy Games Seamlessly in the Metaverse"
-date: 2024-08-30T15:20:08.374Z
-updated: 2024-08-31T15:20:08.374Z
+date: 2025-01-16T19:25:35.882Z
+updated: 2025-01-19T18:17:12.729Z
 categories:
   - BestProducts
 description: "This Article Describes Oculus Quest 2 Shopping Spree: How to Buy Games Seamlessly in the Metaverse"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * From headset:**Oculus button** on right touch controller >**Store** \> select game >**Price** \>**Purchase** .
@@ -20,6 +24,10 @@ Close
 * Games bought through the desktop app will_typically_ play on your PC but require you to tether your Quest 2.
 
  This article explains how to buy new games on your Meta Quest 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Buy Games for Meta (Oculus) Quest 2 
 
@@ -42,33 +50,33 @@ Close
 1. Press the Oculus button on your right touch controller to bring up the Toolbar, and select the**Store** (the shopping bag) icon.  
 ![The store icon (orange shopping bag) highlighted on the Quest 2 toolbar.](https://www.lifewire.com/thmb/7FrHRSwPcNnHEOUU-JheXy62pog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-get-free-games-on-meta-oculus-quest-and-quest-2-6362547-4f476cd7eaaf450c841a3eab5de9f4b1.jpg)
 2. Scroll through the list of games, use the search field to look for a specific game, or select a filter on the right like**Genre** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Genre highlighted in the Quest 2 store filters.](https://www.lifewire.com/thmb/BzFwxJ2kyVwlq36h_EHB2ruQMZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-buy-games-on-meta-oculus-quest-2-6362981-bce2ac22b7a24ac386d5c3a9d2c0890a.jpg)  
  You can also select the search field and type the name of a specific game, or scroll down to see a select of deals and recommended games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Narrow your search by selecting a**Genre** option.  
 ![The genre options highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/JqiPREh38nbqNVmh4_0IFES42dw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-buy-games-on-meta-oculus-quest-2-6362981-a3743059ae88404c9056741063a8ee1a.jpg)
 4. Locate and select a game you want.  
-![Rez Infinite highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/6-Jnwu5ZDaNlVBcBBhzX6ZsUsaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-buy-games-on-meta-oculus-quest-2-6362981-89648f7fa8f34d5abff77ed499fe1b05.jpg)
-5. Select the blue price button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![The blue price icon highlighted in a game listing in Quest VR.](https://www.lifewire.com/thmb/cdEdp7qcUvcU5YwpWC2TT5T6rts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-buy-games-on-meta-oculus-quest-2-6362981-daa552883d0443a8ad602ec93692fd49.jpg)
-6. Select**Purchase** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Purchase highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/baf-kKFv5jco3Iix164qbVMvSQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-buy-games-on-meta-oculus-quest-2-6362981-ed0f7dd945be4b68ab25cbf897adc911.jpg)
-7. Your default payment method will be charged, and the game will be added to your library.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Rez Infinite highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/6-Jnwu5ZDaNlVBcBBhzX6ZsUsaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-buy-games-on-meta-oculus-quest-2-6362981-89648f7fa8f34d5abff77ed499fe1b05.jpg)
+5. Select the blue price button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![The blue price icon highlighted in a game listing in Quest VR.](https://www.lifewire.com/thmb/cdEdp7qcUvcU5YwpWC2TT5T6rts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-buy-games-on-meta-oculus-quest-2-6362981-daa552883d0443a8ad602ec93692fd49.jpg)
+6. Select**Purchase** .  
+![Purchase highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/baf-kKFv5jco3Iix164qbVMvSQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-buy-games-on-meta-oculus-quest-2-6362981-ed0f7dd945be4b68ab25cbf897adc911.jpg)
+7. Your default payment method will be charged, and the game will be added to your library.
+
 ##  How to Buy Games for Quest 2 Through the Mobile App 
 
  The Quest 2 storefront is convenient if you’re already in VR, but the mobile app lets you check out new games and make purchases whenever you want.  
@@ -81,9 +89,6 @@ Close
 3. Tap the game you want.  
 ![Store, Search icon, and Zenith highlighted in the Oculus app store.](https://www.lifewire.com/thmb/X12UCrvmKH13ZkePkgckwr70ElE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-buy-games-on-meta-oculus-quest-2-6362981-81b7952cda394641b097eb77092c08be.jpg)  
  If you have other headsets connected to your app, like a Rift or Rift S, make sure that the app says Oculus/Oculus 2 in the upper right corner. If it doesn’t, tap the name of the headset that is shown there and select Oculus/Oculus 2\. If you don’t, you could end up buying games for the wrong platform.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Tap the blue price button.
 5. Tap**Purchase** .  
 ![Price button and Purchase highlighted in the Oculus app store.](https://www.lifewire.com/thmb/nJtTk5p2_mOLXqSsta49Yk1bhr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-buy-games-on-meta-oculus-quest-2-6362981-e64e49259a7049c88439ed152908458d.jpg)
@@ -130,8 +135,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +142,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-the-essence-of-your-facebook-live-spontaneity-for-2024/"><u>[New] Capturing the Essence of Your Facebook Live Spontaneity for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-demystifying-video-profit-on-youtube/"><u>[Updated] 2024 Approved Demystifying Video Profit on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-metrics-guide-to-monetize-and-mobilize-youtube-audiences/"><u>[Updated] In 2024, The Ultimate Metrics Guide to Monetize and Mobilize YouTube Audiences</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>2024 Approved How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-initially-yours-the-ultimate-gear-list-for-gopros/"><u>2024 Approved Initially Yours The Ultimate Gear List for GoPros</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-to-minimize-artificial-intelligence-misinterpretations/"><u>6 Effective Strategies to Minimize Artificial Intelligence Misinterpretations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-mighty-lynel-a-step-by-step-guide-in-zelda-breath-of-the-wild/"><u>Conquering the Mighty Lynel: A Step-by-Step Guide in Zelda Breath of the Wild</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-virtual-face-maker-websites-for-2024/"><u>Free Virtual Face Maker Websites for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-zero-to-hero-in-building-an-x-presence-a-complete-setup-walkthrough/"><u>From Zero to Hero in Building an X Presence – A Complete Setup Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recover-or-restore-missing-launchdll-files-on-your-pc-efficiently/"><u>How to Recover or Restore Missing Launch.dll Files on Your PC Efficiently</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-spark-20-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Spark 20 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-role-of-cache-velocity-and-access-time-in-computing-efficiency/"><u>The Role of Cache Velocity and Access Time in Computing Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-your-androids-wi-fi-connection-authentication-woes/"><u>Troubleshoot Your Android's Wi-Fi Connection Authentication Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-fix-guide-what-to-do-when-your-microsoft-edge-isnt-working/"><u>Ultimate Fix Guide: What To Do When Your Microsoft Edge Isn't Working</u></a></li>
+<li><a href="https://techtrends.techidaily.com/underwater-resistance-is-the-new-iphone-15-pro-max-built-for-wet-conditions/"><u>Underwater Resistance: Is the New iPhone 15 Pro Max Built for Wet Conditions?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unbiased-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-creators-for-2024/"><u>Updated Unbiased Comparison Sony Vegas vs Adobe Premiere Pro for Video Creators for 2024</u></a></li>
+</ul></div>
 

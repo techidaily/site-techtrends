@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Yahoo! Email for Good: A Step-by-nStep Guide to Total Account Erasure"
-date: 2024-08-30T15:13:32.456Z
-updated: 2024-08-31T15:13:32.456Z
+date: 2025-01-17T19:24:11.406Z
+updated: 2025-01-19T18:33:41.011Z
 categories:
   - BestProducts
 description: "This Article Describes Say Goodbye to Yahoo! Email for Good: A Step-by-nStep Guide to Total Account Erasure"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 ---
 
 ## Say Goodbye to Yahoo! Email for Good: A Step-by-nStep Guide to Total Account Erasure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First, cancel premium services you're subscribed to through Yahoo and quit using this email as your recovery address.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 * You have 30 days to reactivate your Yahoo account if you change your mind. Just log back in to use it again.
 
  This article explains how to delete a Yahoo account from a web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete a Yahoo Mail Account
 
@@ -32,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 3. Click**Privacy controls** at the top.  
 ![The Yahoo Mail account overview page showing the Privacy controls link](https://www.lifewire.com/thmb/XEno_dNrKM6NBukWJoOSU7d_kG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-account-overview-30181da72ca746cca757640663eac4a2.png)
 4. Scroll to the very bottom of the Yahoo Privacy Dashboard page and select**Delete My Account** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Delete My Account link on the Yahoo Privacy Dashboard](https://www.lifewire.com/thmb/bWoRgV3FHuL_j-q_oP4FyXY36BM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-your-yahoo-account-bd9a372594cd42e691854358e22bc7d0.png)
 5. Read the text on the page titled "Before continuing, please consider the following information." It details what you will lose when you delete your Yahoo Mail account. Press**Continue delete my account** .  
 ![The Continue delete my account button on Yahoo's website](https://www.lifewire.com/thmb/YZPgf_xTtNOSNJ_Hx6n9xW0qCNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-delete-my-account-a59191a0872b4ce19768c7352229f7e8.png)
@@ -39,22 +53,20 @@ thumbnail: https://thmb.techidaily.com/1d9a817ed59482a0eeff36b88b02b53bced3999d9
 7. Select **Yes, delete this account** .  
 ![The final confirmation page for deleting a Yahoo account](https://www.lifewire.com/thmb/4RriqtlFkKYQ5jkHhvT2HRNU2Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/delete-yahoo-account-confirmation-d5b04610003e461287b0a838aa1c57c8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In some cases,[Yahoo won't remove everything for up to 180 days](https://legal.yahoo.com/us/en/yahoo/privacy/topics/datastorage/index.html) , but that depends largely on the country you signed up from. Data connected to paid Fantasy Sports products might be kept even longer.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Cancel a BT Yahoo Mail Premium Account
 
  If you got your Yahoo Mail account with[BT Group](https://www.bt.com/) , you can't cancel your account using the Yahoo website. Instead,[contact BT directly](https://www.bt.com/help/contact-bt#/) to have your Yahoo Mail Premium account deleted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## What Does It Mean to Delete a Yahoo Mail Account?
 
  Deleting Yahoo Mail is only possible if you delete the whole Yahoo account. This means, of course, that your emails will get removed, but you'll also lose access to your [My Yahoo](https://my.yahoo.com/) settings, calendars, Yahoo Fantasy teams, Yahoo Finance portfolios, and any other data stored in Yahoo's services.  
@@ -100,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +119,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-from-silence-to-symphony-adding-music-and-voices-in-reels-for-2024/"><u>[New] From Silence to Symphony Adding Music & Voices in Reels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-proportions-a-guide-to-video-aspect-ratios/"><u>[New] Ideal Proportions A Guide to Video Aspect Ratios</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ensemble-moves-syncing-your-song-collections/"><u>[Updated] 2024 Approved Ensemble Moves Syncing Your Song Collections</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enhancing-your-websites-performance-with-advanced-analytics/"><u>Cookiebot: Enhancing Your Website's Performance with Advanced Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ideal-iphone-location-tools-our-choice-of-top-5/"><u>Discover the Ideal iPhone Location Tools: Our Choice of Top 5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-tech-help-how-to-successfully-boot-windows-10-from-an-empty-hard-disk/"><u>DIY Tech Help: How to Successfully Boot Windows 10 From an Empty Hard Disk</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-multilingualism-start-a-language-journey/"><u>Embrace Multilingualism: Start a Language Journey</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-lg-24lh4830-smart-tv-savvy-shopping-meets-cutting-edge-tech/"><u>Get More Bang for Your Buck With The LG 24LH4830 Smart TV: Savvy Shopping Meets Cutting-Edge Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-free-mp4-movie-downloads-for-your-android-device/"><u>Guide: Free MP4 Movie Downloads for Your Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-malfunctioning-iphone-email-settings-and-services/"><u>How to Fix Malfunctioning iPhone Email Settings and Services</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-a78-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo A78 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-strategies-for-video-discovery-boosting-viewership-cost-free/"><u>In 2024, Strategies for Video Discovery Boosting Viewership Cost-Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/instructions-for-turning-off-closed-captions-on-amazons-owned-platform/"><u>Instructions for Turning Off Closed Captions on Amazon's Owned Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-showdown-how-does-ipad-mini-stack-up-against-ipad-air/"><u>IPad Showdown: How Does IPad Mini Stack Up Against iPad Air?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/monitor-your-google-docs-usage-identifying-which-users-checked-your-files/"><u>Monitor Your Google Docs Usage - Identifying Which Users Checked Your Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-streaming-issues-a-step-by-step-guide-to-fixing-netflix-on-your-roku-device/"><u>Resolving Streaming Issues: A Step-by-Step Guide to Fixing Netflix on Your Roku Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-connecting-zoom-calls-on-your-television/"><u>Step-by-Step Guide: Connecting Zoom Calls on Your Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-advrcntr2dll-is-missing-error-for-nero-users/"><u>Troubleshooting the 'Advrcntr2.dll Is Missing' Error for Nero Users</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-investment-capacity-how-much-can-you-put-into-crypto-insights-by-yl-computing/"><u>Understanding Investment Capacity: How Much Can You Put Into Crypto? - Insights by YL Computing</u></a></li>
+</ul></div>
 

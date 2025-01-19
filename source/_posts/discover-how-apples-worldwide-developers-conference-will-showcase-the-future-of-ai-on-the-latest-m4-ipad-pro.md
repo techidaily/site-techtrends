@@ -1,7 +1,7 @@
 ---
 title: Discover How Apple's Worldwide Developers Conference Will Showcase the Future of AI on the Latest M4 iPad Pro
-date: 2025-01-11T16:05:16.679Z
-updated: 2025-01-13T18:28:58.921Z
+date: 2025-01-13T18:39:34.456Z
+updated: 2025-01-19T20:57:36.421Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,15 +114,20 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-playtime-pathways-video-games-resembling-gta-v/"><u>[New] In 2024, Playtime Pathways Video Games Resembling GTA V</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-top-snapchat-content-strategies-to-stand-out/"><u>[New] Top Snapchat Content Strategies to Stand Out</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nseen-algorithms-powering-youtubes-viewer-statistics/"><u>[New] Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-teen-drama-series-streaming-now-on-netflix/"><u>Best Teen Drama Series Streaming Now on Netflix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>In 2024, The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-control-of-your-computer-accessibility-settings-by-disabling-sticky-keys-in-windows-systems/"><u>Master the Control of Your Computer Accessibility Settings by Disabling Sticky Keys in Windows Systems</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-the-apowersoft-pdf-converter-tool-detailed-users-handbook-and-guide/"><u>Mastering the Apowersoft PDF Converter Tool: Detailed User's Handbook & Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smart-shopping-guide-important-points-to-remember-when-picking-out-a-video-recorder/"><u>Smart Shopping Guide: Important Points to Remember When Picking Out a Video Recorder</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-your-spotify-playlists-into-written-documents/"><u>Step-by-Step Guide: Converting Your Spotify Playlists Into Written Documents</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/er-top-15-sci-tech-youtube-channels-for-learners/"><u>Uncover Top 15 Sci-Tech YouTube Channels for Learners</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-add-custom-thumbnails-to-your-youtube-videos/"><u>[New] In 2024, How To Add Custom Thumbnails to Your YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-art-of-larger-video-posts-in-instagram/"><u>[New] Mastering the Art of Larger Video Posts in Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-soften-image-periphery-with-circular-light-blend-photoshop/"><u>[New] Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/202ndvd/"><u>如何在202n保存DVD片段到計算機：優異選路</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-restoring-or-replacing-the-lost-msvcrtdll-library-file/"><u>Comprehensive Guide: Restoring or Replacing the Lost Msvcrt.dll Library File</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-your-view-on-ios-devices-a-guide-to-zooming-inout/"><u>Enhancing Your View on iOS Devices: A Guide to Zooming In/Out</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-unmatched-beach-vibes-sonys-latest-portable-speakers-take-center-stage-for-the-season-a-comprehensive-zdnet-analysis/"><u>Experience Unmatched Beach Vibes: Sony's Latest Portable Speakers Take Center Stage for the Season - A Comprehensive ZDNET Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-soggy-to-secure-effective-steps-to-dry-out-and-repair-a-wet-iphone-or-ipod/"><u>From Soggy to Secure: Effective Steps to Dry Out and Repair a Wet iPhone or iPod</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-x50-gt-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor X50 GT?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-new-features-a-guide-to-using-live-activities-in-ios-16/"><u>Mastering the New Features: A Guide to Using Live Activities in iOS 16</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-smart-7-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Smart 7 FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolving-missing-mfc42dll-errors-effectively/"><u>Troubleshooting and Resolving Missing mfc42.dll Errors Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-rumors-decoded-meta-quest-prototypes-projected-price-and-expected-arrival/"><u>Upcoming Rumors Decoded: Meta Quest Prototype's Projected Price & Expected Arrival</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/weibo-and/"><u>Weibo 利用マストライル & 動画保存手順ガイド</u></a></li>
 </ul></div>
 

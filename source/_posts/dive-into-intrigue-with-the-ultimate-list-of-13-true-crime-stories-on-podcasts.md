@@ -1,7 +1,7 @@
 ---
 title: Dive Into Intrigue with the Ultimate List of 13 True Crime Stories on Podcasts
-date: 2024-08-30T15:20:37.198Z
-updated: 2024-08-31T15:20:37.198Z
+date: 2025-01-14T19:05:00.069Z
+updated: 2025-01-19T16:34:26.719Z
 categories:
   - BestProducts
 description: This Article Describes Dive Into Intrigue with the Ultimate List of 13 True Crime Stories on Podcasts
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 ## Witness the Grand Arrival: Dive Into the World of the New Apple iPhone Today
 
  _Another Apple Event was held online on September 12, 2023\. This time, the event covered two key items in Apple's lineup: The newest iPhone and latest smartwatch. Both are wildly popular with consumers; both of these newest iterations have plenty of cool new features to make even skeptics take a hard look at the offerings._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 15: The Latest iPhone from Apple
 
@@ -35,18 +39,12 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 
 ![iPhone 15 features](https://www.lifewire.com/thmb/t4gspKbwq56DPRs0r-LDMn8noZQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15features-8a38c089557647769e3bd494e7e49178.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pro and Pro Max: What's the Difference?
 
  The main reason someone might go for the Pro version of an iPhone over the base model is the camera. While the iPhone 15 and Pro both have an impressive 48-megapixel main camera, the Pro versions have a third lens that provides additional features.
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%273166%27 height=%271676%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![iPhone 15 Pro features](https://www.lifewire.com/thmb/W5IYkEGNlzvUhlNEOkvgw50dDgc=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/iPhone15ProFeatures-c322bb8455fb4be2af8125103040fef4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  PHOTO:
 
 Apple Inc
@@ -65,6 +63,10 @@ Apple Inc
 
 [9 Ways to Use the iPhone 15 Pro's Action Button](https://www.lifewire.com/ways-to-use-iphone-action-button-8346805)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Coolest Features of the iPhone 15 and 15 Pro
 
  Apple shared plenty of interesting news at the iPhone 15 launch, but here are some of our favorite things coming to the iPhone 15 and 15 Pro.
@@ -80,8 +82,9 @@ Apple Inc
 **Spatial Video** : Spatial Video is a gimmick feature that only works with a niche product (the Vision Pro), but darn if it doesn't look cool. The possibilities are also there if Apple decides to open it up to other uses, like 3D scanning.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### iPhone 15 Pricing and Availability
 
  The iPhone 15 series starts at $799, but size, version, and memory choices will impact the final price. Here's how these options affect the cost:  
@@ -99,9 +102,17 @@ Apple Inc
 
 [USB-C: Everything You Need to Know](https://www.lifewire.com/usb-c-4149490)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The New Apple Watches
 
  This event included two new models of the Apple Watch: the standard Series 9 and the more rugged Ultra 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Series 9
 
@@ -115,9 +126,6 @@ Apple Inc
 
 ![All of the colors of the Apple Watch Series 9](https://www.lifewire.com/thmb/5BubYB89xa6KPdrUupdSDvAf--w=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Apple-Watch-Series-9-Colors-5d09e52b67794b0d915413c9c17ac1af.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Each case is available in 41 and 45mm sizes, and either one can optionally connect to a cellular network.  
 
 ### Ultra 2
@@ -136,10 +144,6 @@ Apple Inc
 
  And, for outdoor emergencies, you can tap and hold the Action Button for a siren.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### The Coolest Features
 
  Apple dropped a lot of information really quickly, but some features were definitely our favorites. Here are our picks for the best things about the Apple Watch Series 9 and Ultra 2.
@@ -162,9 +166,6 @@ Apple Inc
 
 [Double Tap on Apple Watch Series 9 Could Be the Coolest Feature Ever](https://www.lifewire.com/apple-watch-series-9-confirmed-7968679)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Pricing and Availability
 
  The Series 9 starts at $399, but the price will change depending on case material, size, connectivity, and band. Here's a quick breakdown:
@@ -186,14 +187,11 @@ Apple Inc
 
 [The Next Apple Event: Dates, News, Rumors, and Announcements](https://www.lifewire.com/apple-event-5097169)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,4 +200,21 @@ Apple Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>[Updated] In 2024, Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-packaging-to-prowess-marketings-unboxed-secrets/"><u>[Updated] Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-users-manual-to-zoom-meeting-recordings-for-2024/"><u>[Updated] The Complete User's Manual to Zoom Meeting Recordings for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-faster-youtube-submission-via-smart-rendering-and-uploading/"><u>2024 Approved Unlock Faster YouTube Submission via Smart Rendering & Uploading</u></a></li>
+<li><a href="https://techtrends.techidaily.com/academic-achievers-resource-picking-out-the-right-laptop-or-desktop-for-learning/"><u>Academic Achievers' Resource: Picking Out the Right Laptop or Desktop for Learning</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-s23plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy S23+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-an-oculus-meta-quest-2-login-a-comprehensive-walkthrough/"><u>Creating an Oculus Meta Quest 2 Login: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-computers-touchpad-stops-functioning/"><u>Effective Fixes When Your Computer's Touchpad Stops Functioning</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-comctl32dll-error-fixes-in-windows/"><u>Effective Solutions for Comctl32.dll Error Fixes in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/surviving-splashes-and-spills-the-waterproof-integrity-of-the-new-iphone-15-model/"><u>Surviving Splashes and Spills: The Waterproof Integrity of the New iPhone 15 Model</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-tracking-the-thermal-performance-of-a-macbook/"><u>Understanding and Tracking the Thermal Performance of a MacBook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-true-environmental-impact-of-electric-cars/"><u>Unveiling the True Environmental Impact of Electric Cars</u></a></li>
+</ul></div>
 

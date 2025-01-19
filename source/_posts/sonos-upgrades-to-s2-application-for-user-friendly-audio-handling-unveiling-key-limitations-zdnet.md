@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2025-01-10T16:34:49.943Z
-updated: 2025-01-13T16:01:24.136Z
+date: 2025-01-15T18:04:54.151Z
+updated: 2025-01-19T16:53:50.478Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ While this move towards a [more integrated software environment](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Observations of the new S2 UX
@@ -61,7 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -77,7 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -99,7 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -117,7 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -158,19 +158,15 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweets-unfolded-yearly-guide-to-social-reactions/"><u>[New] In 2024, Tweets Unfolded Yearly Guide to Social Reactions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-sky-high-speeds-key-moments-in-the-short-tracks-olympics-for-2024/"><u>[New] Sky-High Speeds Key Moments in the Short Tracks, Olympics for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-exquisite-background-melodies-for-edits/"><u>[Updated] 2024 Approved Exquisite Background Melodies for Edits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-playbook-of-igtv-mastery-top-10-branding-techniques-for-2024/"><u>[Updated] The Ultimate Playbook of IGTV Mastery Top 10 Branding Techniques for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-new-glasses-explained-cost-breakdown-innovative-capabilities-and-user-experience-insights-cybertech-daily/"><u>Apple's New Glasses Explained: Cost Breakdown, Innovative Capabilities & User Experience Insights | CyberTech Daily</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-finest-apple-device-compatible-messaging-platforms-free-of-charge/"><u>Discover The Finest Apple Device-Compatible Messaging Platforms (Free of Charge)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-find-the-msvcr100dll-file/"><u>Easy Fixes for When You Can't Find the MSVCR100.DLL File</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-the-major-class-action-deal-ensures-compensation-for-specific-macbook-owners-from-apple-digitaltechnews/"><u>How the Major Class Action Deal Ensures Compensation for Specific MacBook Owners From Apple | DigitalTechNews</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-a1x-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo A1x 5G Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-174-launch-apple-enhances-user-experience-with-podcast-transcriptions-fresh-emoji-additions-and-updated-eu-app-store-regulations-tech-news/"><u>IOS 17.4 Launch: Apple Enhances User Experience with Podcast Transcriptions, Fresh Emoji Additions, and Updated EU App Store Regulations - Tech News</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-discover-the-power-of-windows-movie-maker-advanced-video-editing-techniques/"><u>New In 2024, Discover the Power of Windows Movie Maker Advanced Video Editing Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-apple-vision-pro-privacy-the-definitive-guide-to-setting-up-a-vpn-and-its-advantages-digitalsafetyhub/"><u>Protecting Apple Vision Pro Privacy: The Definitive Guide to Setting Up a VPN and Its Advantages | DigitalSafetyHub</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-complete-playbook-for-instagram-revenue-generation/"><u>The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-metaverse-meme-landscape-for-2024/"><u>[New] Exploring the Metaverse Meme Landscape for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-youtubes-ecosystem-with-optimal-video-formats/"><u>[Updated] Mastering YouTube's Ecosystem with Optimal Video Formats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo T2x 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-http-404-error-tips-for-quick-recovery-and-prevention-strategies/"><u>Demystifying the HTTP 404 Error: Tips for Quick Recovery & Prevention Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/detailed-guide-to-minecraft-capturing-techniques-on-mac-for-2024/"><u>Detailed Guide to Minecraft Capturing Techniques on Mac for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-addressing-and-fixing-a-missing-coprocessor-driver-in-windows-10/"><u>Expert Tips: Addressing and Fixing a Missing Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209539767-9781601636539-exposed-uncovered-declassified-ufos-and-aliens/"><u>Exposed, Uncovered & Declassified: UFOs and Aliens | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-combining-your-epic-battle-royale-profiles-fortnite/"><u>Guide: Combining Your Epic Battle Royale Profiles - Fortnite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip3-exciting-revelations-on-pricing-release-plans-and-technical-details-awaiting/"><u>Samsung Galaxy Z Flip3: Exciting Revelations on Pricing, Release Plans, and Technical Details Awaiting!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-tips-for-successfully-pairing-a-dualshock-4/"><u>Troubleshooting & Tips for Successfully Pairing a DualShock 4</u></a></li>
 </ul></div>
 

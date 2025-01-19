@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2025-01-06T17:49:51.318Z
-updated: 2025-01-13T18:44:29.748Z
+date: 2025-01-17T19:06:07.532Z
+updated: 2025-01-19T20:40:38.660Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,16 +119,24 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-charting-a-course-to-riches-youtubes-monetary-milestones-for-2024/"><u>[New] Charting a Course to Riches YouTube's Monetary Milestones for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-comparative-reviews-beyond-the-norms-of-sharex/"><u>[Updated] In 2024, Comparative Reviews Beyond the Norms of ShareX</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-mobile-tools-4-apps-that-revolutionize-diy-house-painting/"><u>Essential Mobile Tools: 4 Apps That Revolutionize DIY House Painting</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-google-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Google Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-pop-7-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Pop 7 Pro Is Unlocked</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-opting-for-a-wi-fi-mesh-system-a-reliable-choice/"><u>Is Opting for a Wi-Fi Mesh System a Reliable Choice?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-nspr4dll-file-is-missing-a-comprehensive-guide/"><u>Solving the 'Nspr4.dll' File Is Missing - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/by-step-designing-striking-youtube-thumbnails-with-macos-for-2024/"><u>Step-by-Step Designing Striking Youtube Thumbnails with macOS for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-reviving-your-pc-when-the-screen-remains-black/"><u>Troubleshooting Steps: Reviving Your PC When the Screen Remains Black</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[New] Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-spark-ultimate-portable-camera-uav-guide/"><u>[New] In 2024, DJI Spark Ultimate Portable Camera UAV Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-investing-5-yields-hundreds-of-new-viewers-now/"><u>[New] Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-efficacy-of-vlcs-screen-recording-for-2024/"><u>[New] The Efficacy of VLC's Screen Recording for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipated-launch-of-samsung-galaxy-s25-insights-on-pricing-release-timeline-and-features/"><u>Anticipated Launch of Samsung Galaxy S25 - Insights on Pricing, Release Timeline & Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-release-of-over-600-tailored-apps-for-apples-upcoming-vision-pro-headset-revealed-by-zdnet/"><u>Exclusive Release of Over 600 Tailored Apps for Apple's Upcoming Vision Pro Headset Revealed by ZDNET</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-effortless-transactions-with-apple-pay-via-your-apple-watch/"><u>Guide: Effortless Transactions with Apple Pay via Your Apple Watch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-8-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 8 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-address-missing-or-not-found-d3dx9-27-dll-files-issues/"><u>How to Successfully Address Missing or Not Found D3dx9_ 27 DLL Files Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-message-communication-a-guide-to-sending-texts-from-your-ipad/"><u>Mastering Message Communication: A Guide to Sending Texts From Your iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-social-media-insights-methods-to-find-out-who-shared-your-content-on-facebook/"><u>Mastering Social Media Insights: Methods to Find Out Who Shared Your Content on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-jscriptdll-file-absent-or-lost-issue/"><u>Resolving the 'JScript.dll' File Absent or Lost Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-case-against-relying-on-major-tech-companies-insights-from-microsofts-recent-downtimes/"><u>The Case Against Relying on Major Tech Companies: Insights From Microsoft's Recent Downtimes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-insiders-tutorial-monitoring-and-recognizing-google-doc-observers/"><u>The Insider's Tutorial: Monitoring and Recognizing Google Doc Observers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-multi-tasking-power-a-how-to-manual-for-enabling-split-screen-on-macbook-air/"><u>Unlocking Multi-Tasking Power: A How-To Manual for Enabling Split Screen on MacBook Air</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-x5-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco X5 Pro Device</u></a></li>
 </ul></div>
 

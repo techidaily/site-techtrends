@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2024-12-31T23:02:36.341Z
-updated: 2025-01-07T02:11:56.719Z
+date: 2025-01-17T19:26:21.176Z
+updated: 2025-01-19T18:08:06.767Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -24,11 +24,19 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
 
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
 
 _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it significantly in 2019 by letting your buddy appear on the map. The app directed all players through the process of adding a buddy Pokémon after each feature update, but if for some reason you managed to bypass these in-app tutorials, you can add your first Pokémon buddy by selecting your trainer profile icon from the lower-left corner of the map screen and tapping**Buddy History** or**Buddy** .
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
 
@@ -41,10 +49,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 2. Scroll down to the bottom of the screen and select**Swap Buddies** .  
 ![Pokemon GO app with Pokemon buddy icon and Swap Buddies icons highlighted.](https://www.lifewire.com/thmb/6eTmPPyKyA71qCXG--scAbBsXPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Swap-Buddy-1b1fab1572ac45a599c81931d34db597.jpg)
 3. Tap**Yes** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
@@ -63,7 +67,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play Together With Your Buddy in 'Pokémon Go'
@@ -78,7 +82,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -87,7 +91,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
@@ -95,10 +99,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
  Swapping a_Pokémon Go_ buddy for another one will delete any unfinished progress that’s currently in action, but it won’t remove any gained friendship level status. For example, if your buddy Pokémon is halfway into unlocking a candy, swapping the buddy out will remove this progress. The usual stats that reset at the end of each day will also clear with a swap.
 
  However, if this buddy has reached Great Buddy or some other friendship level status, that progress will remain no matter how many times you swap the buddy out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does It Matter Who Your Buddy Is in 'Pokémon Go'?
 
@@ -139,14 +139,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/audiovisual-debut-breakdown-for-2024/"><u>Audiovisual Debut Breakdown for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/camera-memory-rescue-photo-restoration-guide/"><u>Camera Memory Rescue: Photo Restoration Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-breaking-the-mold-revolutionary-methods-to-boost-your-fb-page-rank/"><u>In 2024, Breaking the Mold Revolutionary Methods to Boost Your FB Page Rank</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-investing-in-a-blu-ray-disc-player-worth-it-today/"><u>Is Investing in a Blu-Ray Disc Player Worth It Today?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/roku-free-viewing-watch-your-favorite-shows-on-the-roku-platform/"><u>Roku-Free Viewing: Watch Your Favorite Shows on The Roku Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/seeking-outno-cost-clip-art-deposits-for-2024/"><u>Seeking Outno-Cost Clip Art Deposits for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/taylor-swift-filmography-the-ultimate-viewing-guide/"><u>Taylor Swift Filmography: The Ultimate Viewing Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-to-the-cannot-find-physxloaderdll-problem/"><u>The Ultimate Solution to the Cannot Find PhysXLoader.dll Problem</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-x50iplus-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of X50i+?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-nvidia-method-to-perfect-gaming-replays/"><u>[New] 2024 Approved The NVIDIA Method to Perfect Gaming Replays</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rand-yourself-differently-strategies-for-finding-uncommon-names-for-2024/"><u>[New] Brand Yourself Differently Strategies for Finding Uncommon Names for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-design-dynamics-realizing-color-potential-for-2024/"><u>[New] Design Dynamics Realizing Color Potential for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/celebrity-quick-shot-analysis/"><u>Celebrity Quick Shot Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-acquiring-and-setting-up-epson-xp-430-drivers-on-windows-systems/"><u>Comprehensive Walkthrough: Acquiring & Setting Up Epson XP-430 Drivers on Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-combine-the-power-of-different-bluetooth-speakers-using-one-controller-a-how-to-guide/"><u>Effortlessly Combine the Power of Different Bluetooth Speakers Using One Controller: A How-To Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-anti-malware-solutions-for-safe-browsing-our-expert-picks-for-free-tools-in-202/"><u>Essential Anti-Malware Solutions for Safe Browsing: Our Expert Picks for Free Tools in 202</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-the-7-best-strategies-for-speeding-up-your-pc/"><u>Expert Advice on the 7 Best Strategies for Speeding Up Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/mac-users-guide-to-quickly-converting-and-watching-mkv-content-with-ease/"><u>Mac User's Guide to Quickly Converting & Watching MKV Content with Ease</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892884287-the-new-era-of-computing-with-apples-rumored-touchscreen-macbook-price-estimates-and-unveiling-date/"><u>The New Era of Computing with Apple’s Rumored Touchscreen MacBook – Price Estimates & Unveiling Date</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-12-amazing-free-online-calling-services/"><u>The Ultimate List: 12 Amazing Free Online Calling Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-logitech-g203-driver-setup-free-download-for-windows-users-on-latest-versions/"><u>Ultimate Logitech G203 Driver Setup - Free Download for Windows Users on Latest Versions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-iphone-15s-resistance-how-effective-is-its-waterproofing/"><u>Understanding iPhone 15'S Resistance: How Effective Is Its Waterproofing?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-endless-entertainment-without-spending-our-picks-for-free-streams-like-netflix/"><u>Unlock Endless Entertainment Without Spending: Our Picks for Free Streams Like Netflix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgraded-graphics-with-latest-nvidia-driver-win10-and-gtx-970/"><u>Upgraded Graphics with Latest Nvidia Driver - Win10 & GTX 970</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-the-5-key-points-for-choosing-the-right-smartwatch/"><u>What You Need To Know: The 5 Key Points for Choosing the Right Smartwatch</u></a></li>
 </ul></div>
 

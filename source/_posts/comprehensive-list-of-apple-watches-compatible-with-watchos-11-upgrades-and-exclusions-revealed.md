@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive List of Apple Watches Compatible with WatchOS 11: Upgrades and Exclusions Revealed"
-date: 2025-01-08T16:28:22.513Z
-updated: 2025-01-13T18:29:36.700Z
+date: 2025-01-15T18:01:43.730Z
+updated: 2025-01-19T18:12:19.530Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pause your rings
@@ -47,7 +47,7 @@ Serious athletes will likely be drawn to these features since this is the first 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -76,6 +76,10 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Double Tap now works with any app
 
 One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) and [Ultra 2](https://www.zdnet.com/article/i-spent-a-week-with-the-apple-watch-ultra-2-and-heres-what-stood-out-the-most/) was how limited Double Tap was. Up until now, the feature has only worked in select apps that supported scrolling by tapping your fingers. But now, it's expanding to all apps and third-party apps with WatchOS 11\. Apple will also roll out the Double Tap API, which will let developers implement the feature in their apps.
@@ -85,7 +89,7 @@ Double tap gesture on Apple Watch Series 9.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
@@ -98,16 +102,12 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
@@ -152,20 +152,19 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/mbark-on-the-journey-defining-and-developing-style-and-niche-for-2024/"><u>[New] Embark on the Journey Defining & Developing Style and Niche for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[Updated] In 2024, Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-approaches-to-integrating-vocal-elements-into-video-storytelling/"><u>[Updated] In 2024, Innovative Approaches to Integrating Vocal Elements Into Video Storytelling</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unleashing-video-potential-steps-to-become-a-staff-pick-favorite/"><u>[Updated] In 2024, Unleashing Video Potential Steps to Become a Staff Pick Favorite</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-step-into-the-details-the-quickest-ways-to-zoom-in-minecraft/"><u>2024 Approved Step Into the Details The Quickest Ways to ZOOM in Minecraft</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-the-ideal-phone-for-your-child-expert-picks-and-reviews/"><u>Choosing the Ideal Phone for Your Child: Expert Picks and Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/compact-and-powerful-discover-the-new-m4-enhanced-mac-mini-tiny-but-mighty-like-an-apple-tv-zdnet/"><u>Compact and Powerful: Discover the New M4-Enhanced Mac Mini - Tiny but Mighty Like an Apple TV | ZDNet</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/epic-ninja-visuals-for-your-pc-professional-photo-backgrounds-in-ultra-definition-curated-exclusively-at-yl-software/"><u>Epic Ninja Visuals for Your PC: Professional Photo Backgrounds in Ultra Definition - Curated Exclusively at YL Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-tracking-your-followers-departure/"><u>In 2024, Instagram Tracking Your Followers' Departure</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations/"><u>In 2024, The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inspirational-beats-for-peak-exercitation/"><u>Inspirational Beats for Peak Exercitation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ipad-showdown-discovering-the-surprisingly-superior-features-of-ipad-air-over-ipad-pro-gizmoinsight/"><u>IPad Showdown: Discovering the Surprisingly Superior Features of iPad Air over iPad Pro | GizmoInsight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimizing-your-social-media-a-beginners-guide-to-searching-photos-on-facebook/"><u>Optimizing Your Social Media: A Beginner's Guide to Searching Photos on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-major-issues-how-pixel-watch-3-revolutionizes-googles-wearables-insights-from-zdnet/"><u>Solving the Major Issues: How Pixel Watch 3 Revolutionizes Google's Wearables - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-synthesizing-google-trends-insights-for-videography-ideas/"><u>[New] 2024 Approved Synthesizing Google Trends Insights for Videography Ideas</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-breaking-down-2023s-most-sharing-videos-on-twitter/"><u>[New] Breaking Down 2023'S Most Sharing Videos on Twitter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screen-capturing-made-simple-with-apowersoft-for-2024/"><u>[New] Screen Capturing Made Simple with Apowersoft for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/building-or-buying-a-desktop-navigating-towards-the-perfect-fit-for-you/"><u>Building Or Buying A Desktop: Navigating Towards The Perfect Fit For You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-flawlessly-use-movavis-gratis-tool-for-mpegm1v-streaming/"><u>Convert Video Formats Flawlessly - Use Movavi's Gratis Tool for MPEG/M1V Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminate-launchdll-not-found-issues-with-easy-troubleshooting-tips/"><u>Eliminate 'Launch.dll Not Found' Issues with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-cast-screen-with-custom-wallpapers-a-how-to-guide-for-changing-chromecast-bg/"><u>Enhance Your Cast Screen with Custom Wallpapers: A How-To Guide for Changing Chromecast BG</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-byb-e430-led-light-fixture-assessment-the-ultimate-swing-arm-illumination/"><u>Expert BYB E430 LED Light Fixture Assessment: The Ultimate Swing Arm Illumination</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-address-and-repair-missing-mfc42dll-errors/"><u>How To Successfully Address and Repair Missing mfc42.dll Errors</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-14-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 14 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-of-asus-zephyrus-g14-where-power-meets-performance-in-gaming/"><u>In-Depth Review of Asus Zephyrus G14: Where Power Meets Performance in Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-data-flow-from-non-responsive-usb-devices-win-os/"><u>Restoring Data Flow From Non-Responsive USB Devices (Win OS)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/rev-up-creativity-instagrams-best-inspirational-snapshots-for-2024/"><u>Rev Up Creativity Instagram's Best Inspirational Snapshots for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-instructions-switching-the-microsoft-screen-type-function-on-and-off/"><u>Ultimate Instructions: Switching the Microsoft Screen-Type Function ON and OFF</u></a></li>
 </ul></div>
 

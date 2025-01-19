@@ -1,7 +1,7 @@
 ---
 title: "How Apple's Enhanced NFC Technology Opens New Doors for Third-Party Developers on iPhones: Discover the Impact and Advantages | TechInsider"
-date: 2025-01-02T04:52:05.876Z
-updated: 2025-01-06T23:10:32.888Z
+date: 2025-01-12T19:38:44.614Z
+updated: 2025-01-19T21:57:14.441Z
 tags:
   - apple
 categories:
@@ -54,6 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -72,7 +76,7 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -86,7 +90,7 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
@@ -104,7 +108,7 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -115,10 +119,6 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Payment, wallet, and digital identity diversification:** In addition to new open transaction and digital identity platforms like OpenWallet, we might see further diversification in the digital wallet and payment systems market, reducing Apple's control over financial transactions with the predominance of Apple Pay on iOS devices, and potentially lowering transaction fees.
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
 
@@ -131,7 +131,7 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -170,20 +170,24 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-captivating-creations-the-process-of-making-popular-video-memes/"><u>[New] 2024 Approved Captivating Creations The Process of Making Popular Video Memes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-soundwaves-compreeved-websites-for-skype-audio/"><u>[New] The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-narratives-through-captioning/"><u>[Updated] 2024 Approved Mastering Instagram Narratives Through Captioning</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>[Updated] In 2024, Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-tips-for-ppt-screen-capture/"><u>[Updated] In 2024, Essential Tips for PPT Screen Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[Updated] What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024-zoom-movavi/"><u>2024 新推荐：三种最简单的 Zoom 录制技巧 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descargar-y-convertir-wma-a-m4v-gratuitamente-usando-el-software-movavi/"><u>Descargar Y Convertir WMA a M4V Gratuitamente Usando El Software Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-webm-to-flv-converter-quick-and-easy-by-movavi/"><u>Free WebM-to-FLV Converter - Quick and Easy by Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/innovating-cleanup-generative-erase-revolutionizes-windows/"><u>Innovating Cleanup: Generative Erase Revolutionizes Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/toutes-les-etapes-pour-convertir-mp4-en-wav-en-ligne-sans-frais-un-guide-complet/"><u>Toutes Les Étapes Pour Convertir MP4 en WAV en Ligne Sans Frais : Un Guide Complet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformer-un-fichier-m4v-en-mp4-gratuitement-une-solution-facile-avec-convertidoramovil/"><u>Transformer Un Fichier M4V en MP4 Gratuitement : Une Solution Facile Avec ConvertidoraMovil</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-file-wma-in-wmv-offline-e-gratis-con-moveavi/"><u>Trasforma I File WMA in WMV Offline E Gratis Con Moveavi</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/kak-sozdat-video-uroki-s-ekrana-bazovyj-urok-po-ispolzovaniyu-movavi/"><u>Как Создать Видео-Уроки С Экрана: Базовый Урок По Использованию MOVAVI</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-8-pioneering-open-source-platforms-revolutionizing-business-calls/"><u>[New] In 2024, 8 Pioneering Open-Source Platforms Revolutionizing Business Calls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-digital-footprints-recording-nintendo-switch-sessions/"><u>[Updated] Digital Footprints Recording Nintendo Switch Sessions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-driving-engagement-the-art-of-building-a-buzz/"><u>[Updated] In 2024, Driving Engagement The Art of Building a Buzz</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-step-by-step-crafting-your-own-android-ringtones-and-sounds/"><u>[Updated] Step-By-Step Crafting Your Own Android Ringtones and Sounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quicksnap-studio-pro/"><u>2024 Approved QuickSnap Studio Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chrome-tricks-a-step-by-step-method-to-bypass-site-blocks/"><u>Chrome Tricks: A Step-by-Step Method to Bypass Site Blocks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/convenient-procedures-for-recording-screen-chats/"><u>Convenient Procedures for Recording Screen Chats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/duo-display-configuration-in-windows-11-how-to/"><u>Duo Display Configuration in Windows 11 – How To</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-installation-complete-hp-driver-pack-for-windows-10/"><u>Easy Installation: Complete HP Driver Pack for Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-gameplay-fluidity-in-diablo-ii-reborn-a-comprehensive-guide-to-increasing-fps-performance/"><u>Enhancing Gameplay Fluidity in Diablo II Reborn: A Comprehensive Guide to Increasing FPS Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-june-2024s-must-have-discounts-at-best-buy-featured-on-zdnet/"><u>Exclusive Scoop: June 2024'S Must-Have Discounts at Best Buy, Featured on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-connection-how-to-resolve-oculus-quest-2s-issues-with-pc-sync/"><u>Fixing the Connection: How to Resolve Oculus Quest 2'S Issues with PC Sync</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-dilemma-of-non-responsive-sleep-function-on-windows-11/"><u>Fixing the Dilemma of Non-Responsive Sleep Function on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-preventing-unwanted-windows-11-updates-without-hitches/"><u>Guide: Preventing Unwanted Windows 11 Updates Without Hitches!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-the-connection-issue-between-your-oculus-quest-2-and-computer/"><u>How to Fix the Connection Issue Between Your Oculus Quest 2 and Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808244428-quick-and-simple-guide-reset-your-facebook-password-instantly/"><u>Quick and Simple Guide: Reset Your Facebook Password Instantly!</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-civi-3-disney-100th-anniversary-edition-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Civi 3 Disney 100th Anniversary Edition Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1726226702014-webmkv-movavi/"><u>オンラインで簡単！無料WEBムービーファイルのMKVへの変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Integrated Workout Tracking of Apple Watch Enough or Should You Stick with Garmin Devices?
-date: 2025-01-06T16:18:57.600Z
-updated: 2025-01-13T16:38:33.007Z
+date: 2025-01-18T21:17:03.031Z
+updated: 2025-01-19T19:37:29.636Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -28,7 +32,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -36,10 +40,6 @@ Let me show you how easy it is to use the Collaboration feature found in Apple P
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
@@ -53,10 +53,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -65,14 +61,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -91,6 +83,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Enable Track Changes
 
 Click Move to iCloud and then, when prompted, click Continue to enable Track Changes (**Figure 5**).
@@ -108,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,20 +149,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-video-uploads-past-standard-limits-on-instagram/"><u>[New] In 2024, Mastering Video Uploads Past Standard Limits on Instagram</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-complete-guide-to-adjusting-your-tiktok-voice/"><u>[New] The Complete Guide to Adjusting Your TikTok Voice</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-how-to-properly-initialize-your-brand-new-ipad-insights-from-zdnet/"><u>Complete Guide: How to Properly Initialize Your Brand-New iPad - Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-a24-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy A24 Without PUK Codes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-comprehensive-users-manual-for-precision-playback/"><u>In 2024, The Comprehensive User's Manual for Precision Playback</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insiders-review-on-aphaca-bt69-streaming-your-tunes-as-a-wireless-bluetooth-fm-signal-in-cars/"><u>Insider's Review on Aphaca BT69: Streaming Your Tunes as a Wireless Bluetooth FM Signal in Cars</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/keyword-optimization-for-higher-youtube-viewership-for-2024/"><u>Keyword Optimization for Higher YouTube Viewership for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protect-your-iphone-privacy-settings-hide-your-device-with-easy-tips-to-deactivate-find-my-friends-tech-advisor/"><u>Protect Your iPhone Privacy Settings: Hide Your Device with Easy Tips to Deactivate Find My Friends | Tech Advisor</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-apple-watch-series-10-today-from-just-99-by-preordering-on-bestbuy-exclusive-guide-zdnet/"><u>Secure Your Apple Watch Series 10 Today From Just $99 by Preordering on BestBuy - Exclusive Guide | ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/startech-drivers-troubleshooting-solutions-in-windows-10-and-earlier-versions/"><u>StarTech Drivers Troubleshooting Solutions in Windows 10 and Earlier Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-choosing-the-ideal-apple-watch-band-expert-reviews-and-comparisons-zdnet/"><u>Ultimate Guide to Choosing the Ideal Apple Watch Band : Expert Reviews and Comparisons | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-small-tablet-guide-for-2hren-expert-opinions-and-rankings/"><u>Ultimate Small Tablet Guide for 2Hren: Expert Opinions and Rankings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-truth-are-you-underestimating-your-apple-watchs-battery-health/"><u>Unveiling the Truth: Are You Underestimating Your Apple Watch's Battery Health?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-youtubes-top-mp3-conversion-apps/"><u>[New] 2024 Approved Decoding YouTube's Top MP3 Conversion Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-an-easy-to-use-youtube-subscription-tagline/"><u>[Updated] 2024 Approved Crafting an Easy-to-Use YouTube Subscription Tagline</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-videography-tips-optimal-sizes-and-formats/"><u>[Updated] 2024 Approved Instagram Videography Tips Optimal Sizes & Formats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-troubleshooting-steps-to-correct-the-mscorwksdll-not-present-problem/"><u>Comprehensive Troubleshooting Steps to Correct the Mscorwks.dll Not Present Problem</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-y36i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo Y36i to Another | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sleepy-sequences-examining-bedtime-story-video-adaptations/"><u>In 2024, Sleepy Sequences Examining Bedtime Story Video Adaptations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/nintendo-switchs-ultimate-hd-gameplay/"><u>Nintendo Switch's Ultimate HD Gameplay</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedying-the-error-oleaut32dll-file-not-located-on-your-pc/"><u>Remedying the Error: 'OleAut32.dll' File Not Located on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-a-missing-user32dll-file/"><u>Resolving the Issue: What To Do When You Encounter a Missing User32.dll File</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-phasmophobia-game-breaks-top-patches/"><u>Solving Phasmophobia Game-Breaks: Top Patches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-non-responsive-key-to-control-display-brightness-on-windows-11/"><u>Unblocking Non-Responsive Key to Control Display Brightness on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-ocidll-missing-files-a-comprehensive-guide/"><u>Understanding and Repairing 'Oci.dll' Missing Files – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-potential-strategies-for-embarking-on-a-professional-prompt-writing-route/"><u>Unlock Your Potential: Strategies for Embarking on a Professional Prompt Writing Route</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-a-408-request-timeout-diagnosis-and-repair-tips/"><u>What Is a 408 Request Timeout? Diagnosis and Repair Tips</u></a></li>
 </ul></div>
 

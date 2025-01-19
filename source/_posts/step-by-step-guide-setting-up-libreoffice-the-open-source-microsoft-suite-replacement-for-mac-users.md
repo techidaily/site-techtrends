@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2025-01-08T16:30:47.290Z
-updated: 2025-01-13T16:29:58.178Z
+date: 2025-01-18T18:57:04.640Z
+updated: 2025-01-19T19:46:12.293Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -59,7 +55,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-exclusive-insight-into-budget-friendly-design-portals-for-2024/"><u>[New] Exclusive Insight Into Budget-Friendly Design Portals for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-maximizing-chances-to-engage-premier-filmmakers/"><u>[New] Maximizing Chances to Engage Premier Filmmakers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/bridging-the-gap-facebook-to-television-screenplay-for-2024/"><u>Bridging the Gap Facebook to Television Screenplay for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-data-recovery-tactics-understanding-host-and-guest-system-backups/"><u>Efficient Data Recovery Tactics: Understanding Host and Guest System Backups</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/fixing-issues-with-windows-media-player-during-file-playback-a-comprehensive-guide/"><u>Fixing Issues with Windows Media Player During File Playback: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/groundbreaking-news-apple-to-launch-economically-priced-ar-spectacles-and-basic-eyewear-headset-zdnet-insights/"><u>Groundbreaking News: Apple to Launch Economically Priced AR Spectacles & Basic Eyewear Headset | ZDNet Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-15-analysis-top-features-that-impress-both-beginners-and-experts-a-comprehensive-review-techzine/"><u>IPhone 15 Analysis: Top Features That Impress Both Beginners and Experts - A Comprehensive Review | TechZine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/m3-vs-m2-macbook-air-an-in-depth-review-to-determine-apples-top-laptop-pick-by-zdnet/"><u>M3 Vs. M2 MacBook Air: An In-Depth Review to Determine Apple’s Top Laptop Pick by ZDNet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/seizing-photographic-segments-from-videos-in-windows-11/"><u>Seizing Photographic Segments From Videos in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-how-to-for-chatting-with-whatsapp-on-a-mac-computer/"><u>The Ultimate How-To for Chatting with WhatsApp on a Mac Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-3-must-watch-technological-innovations-reshaping-the-future/"><u>Top 3 Must-Watch Technological Innovations Reshaping the Future</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transfer-tactics-efficiently-getting-data-on-your-computer/"><u>Transfer Tactics Efficiently Getting Data On Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-the-innovative-features-of-apples-mac-studio-prevent-my-purchase-from-an-m4-mac-mini-in-autumn-insights-zdnet/"><u>Why the Innovative Features of Apple's Mac Studio Prevent My Purchase From an M4 Mac Mini in Autumn - Insights | ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-optimizing-your-imovie-content-for-vimeo-display-for-2024/"><u>[New] Optimizing Your iMovie Content for Vimeo Display for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-polishing-your-presentations-expert-video-editing-for-instagram/"><u>[New] Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>[Updated] In 2024, The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users-for-2024/"><u>8 Compelling No-Cost Video Calls Applications for PC and MAC Users for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-gamers-use-airpods-as-headsets-on-the-nintendo-switch-platform/"><u>Can Gamers Use AirPods as Headsets on the Nintendo Switch Platform?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-enemies-most-of-these-can-be-defeated-by-any-character-class/"><u>Common Enemies (Most of These Can Be Defeated by Any Character Class)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/email-monitoring-essentials-unveiling-gmails-read-receipts-system/"><u>Email Monitoring Essentials: Unveiling Gmail's 'Read Receipts' System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-game-returns-and-reimbursements-on-the-steam-platform-expert-advice/"><u>Mastering Game Returns and Reimbursements on the Steam Platform – Expert Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-productivity-on-your-macbook-air-with-splitscreen-functionality/"><u>Maximize Productivity on Your MacBook Air with Splitscreen Functionality</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/melhores-ferramentas-de-design-digital-para-personalizar-posts-no-tiktok/"><u>Melhores Ferramentas De Design Digital Para Personalizar Posts No TikTok</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-phones-battery-without-a-charger-ingenious-tips-and-tricks/"><u>Revive Your Phone’s Battery Without a Charger: Ingenious Tips & Tricks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/routines-to-automate-amd-driver-acquisitionupdates/"><u>Routines to Automate AMD Driver Acquisition/Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-for-transferring-your-digital-content-from-laptop-to-tv-using-hdmi/"><u>Simple Steps for Transferring Your Digital Content From Laptop to TV Using HDMI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-2024-guide-leading-free-software-against-malware-threats/"><u>The 2024 Guide: Leading Free Software Against Malware Threats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-secret-guide-browsing-instagram-as-a-non-member/"><u>The Secret Guide: Browsing Instagram as a Non-Member</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-d3derr-not-available-issues/"><u>Troubleshooting Tips for Overcoming 'D3DERR Not Available' Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-your-ultra-hdtv-for-super-bowl-viewing/"><u>Ultimate Guide: Setting Up Your Ultra HDTV for Super Bowl Viewing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-car-insurance-how-it-works-benefits-and-when-to-get-non-owner-coverage/"><u>Understanding Car Insurance: How It Works, Benefits, and When to Get Non-Owner Coverage</u></a></li>
 </ul></div>
 

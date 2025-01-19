@@ -1,7 +1,7 @@
 ---
 title: "Apple iPhone 16 Vs. IPhone 15: Key Factors for Your Next Upgrade on TechRadar"
-date: 2025-01-10T16:49:13.466Z
-updated: 2025-01-13T17:42:13.440Z
+date: 2025-01-15T21:06:50.637Z
+updated: 2025-01-19T16:34:16.538Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -48,10 +48,6 @@ To help you make this decision, we've broken down all of the most important deta
 | Price        | Starting at $[799](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-16&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) | Starting at $[799](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
@@ -73,6 +69,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want "next-level performance"
 
 Powering the iPhone 16 will be Apple's A18 chipset which the tech giant claims "delivers a huge leap in performance and power efficiency." Its processor is 30 faster than the iPhone 15's A16 Bionic chip and requires 30 percent less power for the same workloads. The GPU on the iPhone 16 is better too, boasting a 40 percent speed boost over the previous generation.
@@ -92,16 +92,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -110,6 +106,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6418071%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6418071.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,15 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>[New] 2024 Approved Audio Clarity 10 Pro Tips for High-Quality Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-maps-to-mastery-terrarias-quintessential-gold-hunt-for-2024/"><u>[New] Maps to Mastery Terraria's Quintessential Gold Hunt for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-for-dealing-with-ksuserdll-file-missing-or-corruption-problems/"><u>Easy Fixes for Dealing with ksuser.dll File Missing or Corruption Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-techniques-for-efficient-email-sorting-in-gmail/"><u>Expert Techniques for Efficient Email Sorting in Gmail</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-enhancing-video-visibility-to-attract-vimeos-top-choices/"><u>In 2024, Enhancing Video Visibility to Attract Vimeo's Top Choices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-principles-of-plot-construction/"><u>In 2024, Principles of Plot Construction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/real-time-macbook-thermal-management-top-tips-and-tricks/"><u>Real-Time MacBook Thermal Management: Top Tips & Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synthesize-music-with-images-in-ppts-for-2024/"><u>Synthesize Music with Images in PPTs for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-strategies-to-safeguard-your-digital-information-through-effective-backup-solutions/"><u>Top 5 Strategies to Safeguard Your Digital Information Through Effective Backup Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/turning-pics-into-time-capsules-with-videos/"><u>Turning Pics Into Time Capsules With Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-vimeo-vs-youtube-the-differentiators-analysis/"><u>[Updated] 2024 Approved Vimeo V/S YouTube The Differentiator's Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>2024 Approved Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>2024 Approved Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-16-leaks-prospective-features-speculated-cost-and-launch-timeline-unveiled/"><u>Android 16 Leaks: Prospective Features, Speculated Cost, & Launch Timeline Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-virtual-trainer-companion-crafting-custom-fitness-programs/"><u>ChatGPT as Your Virtual Trainer Companion: Crafting Custom Fitness Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-fubotv-to-your-firestick-a-complete-tutorial/"><u>Connecting FuboTV to Your Firestick: A Complete Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/create-your-ideal-summer-day-with-these-7-edc-staples/"><u>Create Your Ideal Summer Day with These 7 EDC Staples</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-cutting-edge-technology-with-samsungs-new-phone-launch-event/"><u>Experience Cutting-Edge Technology with Samsung's New Phone Launch Event</u></a></li>
+<li><a href="https://techtrends.techidaily.com/googles-latest-timepiece-teased-price-forecasts-release-schedule-and-speculated-specifications/"><u>Google's Latest Timepiece Teased – Price Forecasts, Release Schedule & Speculated Specifications!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-reno-10-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-live-online-broadcasts-recording-techniques/"><u>In 2024, Mastering Live Online Broadcasts Recording Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-ways-to-update-and-enhance-powerpoint-templates/"><u>Innovative Ways to Update and Enhance PowerPoint Templates</u></a></li>
+<li><a href="https://win-news.techidaily.com/is-your-system-secure-with-just-windows-defender-against-malware-threats-understanding-the-limits-and-extra-measures-needed-cyber-safety-guide-yl-computing-62/"><u>Is Your System Secure with Just Windows Defender Against Malware Threats? Understanding the Limits & Extra Measures Needed - Cyber Safety Guide | YL Computing Software Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/password-woes-step-by-step-guide-to-recover-fb-access-without-emailphone/"><u>Password Woes? Step-by-Step Guide to Recover FB Access Without Email/Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-typical-installation-hurdles-for-auto-gpt-and-their-solutions/"><u>Six Typical Installation Hurdles for Auto-GPT and Their Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-free-fixes-for-a-smooth-magic-mouse-experience/"><u>Trouble-Free Fixes for a Smooth Magic Mouse Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-strategies-to-elevate-your-fps-in-counter-strike-global-offensive-comprehensive-optimization-techniques/"><u>Ultimate Strategies to Elevate Your FPS in Counter-Strike: Global Offensive - Comprehensive Optimization Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-your-favorite-songs-6-ideal-destinations-to-watch-music-videos-on-the-web/"><u>Unlock Your Favorite Songs: 6 Ideal Destinations to Watch Music Videos on the Web</u></a></li>
 </ul></div>
 

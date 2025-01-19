@@ -1,7 +1,7 @@
 ---
 title: Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
-date: 2025-01-05T04:21:39.385Z
-updated: 2025-01-06T22:20:10.804Z
+date: 2025-01-18T17:44:21.984Z
+updated: 2025-01-19T20:52:27.164Z
 categories:
   - BestProducts
 description: This Article Describes Keeping Kids Away From YouTube on iPads - Top Techniques for Parents
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Gmail Shortcuts
 
@@ -43,7 +47,7 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reply to Email
@@ -52,10 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -71,10 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -86,10 +82,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -100,6 +92,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -109,6 +105,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -122,10 +122,6 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -133,6 +129,10 @@ thumbnail: https://www.lifewire.com/thmb/ftPfQDlgysYZgO8Z2ifYsshTuKw=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -163,18 +163,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/howcase-your-brand-with-our-50-free-youtube-banners-for-2024/"><u>[New] Showcase Your Brand with Our 50 Free YouTube Banners for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-comprehensive-handbook-for-expert-srt-making-for-2024/"><u>A Comprehensive Handbook for Expert SRT Making for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/clearing-out-clones-a-guide-to-eliminating-redundant-files-on-android-phones-and-tablets/"><u>Clearing Out Clones: A Guide to Eliminating Redundant Files on Android Phones & Tablets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converti-gif-a-webm-senza-costi-direttamente-su-movavi-web/"><u>Converti GIF a WEBM Senza Costi Direttamente Su Movavi Web</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-transformation-from-webp-images-to-jpeg-format-using-movavi-image-editor/"><u>Effortless Transformation From WebP Images to JPEG Format Using Movavi Image Editor</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-converter-vrije-audiovisualien-geavanceerd-aiff-naar-avi-movavi/"><u>Gratis Converter Vrije Audiovisualien: Geavanceerd AIFF Naar AVI - MOVAVI</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fanfare-gaming-patch/"><u>In 2024, Fanfare Gaming Patch</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams/"><u>In 2024, Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/testing-the-waters-unveiling-the-features-of-jackerys-innovative-ac-outlet-battery-pack/"><u>Testing the Waters: Unveiling the Features of Jackery's Innovative AC Outlet Battery Pack</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-comprehensive-step-by-step-to-installing-amd-radeon-rx-590-drivers-on-pcs-with-windows-operating-system/"><u>The Comprehensive Step-by-Step to Installing AMD Radeon RX 590 Drivers on PCs with Windows Operating System</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trasforma-i-tuoi-gif-in-3gp-rapidamente-e-gratis-lefficiente-metodo-online-di-movavi/"><u>Trasforma I Tuoi GIF in 3GP Rapidamente E Gratis: L'Efficiente Metodo Online Di Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-transferring-cd-music-to-mp3-files-successfully/"><u>Ultimate Guide to Transferring CD Music to MP3 Files Successfully</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-tiktok-how-to-set-and-modify-your-profile-age/"><u>[Updated] 2024 Approved Mastering TikTok How to Set & Modify Your Profile Age</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-boundless-imagination-with-these-android-graphics-tools-for-2024/"><u>Boost Your Boundless Imagination with These Android Graphics Tools for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypass-website-blockers-tips-for-unrestricted-browsing-in-chrome/"><u>Bypass Website Blockers: Tips for Unrestricted Browsing in Chrome</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808322834-collaborations-with-major-companies-like-microsoft-google-and-ibm-that-signify-growing-trust-in-the-platformamoebas-ether-dapps/"><u>Collaborations with Major Companies Like Microsoft, Google, and IBM that Signify Growing Trust in the Platform'amoebas': ['Ether', 'DApps']</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-setting-up-file-encryption-and-password-protection-for-text-files/"><u>Comprehensive Guide to Setting Up File Encryption and Password Protection for Text Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-setting-up-kodi-on-your-xbox-one-a-step-by-step-tutorial/"><u>Comprehensive Guide: Setting Up Kodi on Your Xbox One - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decode-hxtsrexe-causes-effects-and-how-to-fix-it-on-your-windows-11-device/"><u>Decode HxTsr.exe: Causes, Effects & How to Fix It on Your Windows 11 Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808211095-easy-how-to-tutorial-for-windows-11-setup-via-external-usb-stick-including-images/"><u>Easy How-To Tutorial for Windows 11 Setup via External USB Stick - Including Images!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808229768-effortlessly-block-incoming-calls-tips-for-both-iphone-and-android-users/"><u>Effortlessly Block Incoming Calls: Tips for Both iPhone and Android Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808226276-enlisted-how-to-boost-fps-and-fix-lag/"><u>Enlisted – How to Boost FPS & Fix Lag</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-poco-x5-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Poco X5 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808222176-how-to-use-a-vpn-on-xbox-one-quickly-and-easily/"><u>How to Use a VPN on Xbox One | Quickly & Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creativity-with-these-4-pioneering-ai-tools/"><u>Revolutionizing Creativity with These 4 Pioneering AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-driven-survival-strategies-from-chatgpt/"><u>Tech-Driven Survival Strategies From ChatGPT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-quick-zoomers-guide-to-clearer-instagram-narratives-for-2024/"><u>The Quick-Zoomer's Guide to Clearer Instagram Narratives for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/id-masterpiece-for-2024/"><u>TinyVid Masterpiece for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808261034-turbocharge-your-mozilla-experience-with-these-10-quick-fixes-achieving-up-to-5x-speeds/"><u>Turbocharge Your Mozilla Experience with These 10 Quick Fixes, Achieving Up to 5X Speeds!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/wallet-friendly-action-cam-gems-under-100-budget-for-2024/"><u>Wallet-Friendly ACTION Cam Gems Under $100 Budget for 2024</u></a></li>
 </ul></div>
 

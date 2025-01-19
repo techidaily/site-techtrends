@@ -1,7 +1,7 @@
 ---
 title: Ultimate How-To Tutorial on Using Apple's AirPlay Feature with Mac and TV Devices
-date: 2024-08-30T15:18:06.773Z
-updated: 2024-08-31T15:18:06.773Z
+date: 2025-01-14T17:40:23.171Z
+updated: 2025-01-19T16:47:26.126Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate How-To Tutorial on Using Apple's AirPlay Feature with Mac and TV Devices
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 * Macs: Press**Shift+Command+3** or**Shift+Command+4** or**Shift+Command+4+Spacebar** for partial capture.
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
@@ -33,8 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -44,11 +54,13 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -86,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +105,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-building-a-compelling-cinematic-snippet/"><u>[New] In 2024, Building a Compelling Cinematic Snippet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitter-trends-review-the-hottest-content-on-social-network/"><u>[New] In 2024, Twitter Trends Review The Hottest Content on Social Network</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-curving-images-effortlessly-in-photo-editing/"><u>[Updated] In 2024, Curving Images Effortlessly in Photo Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-fees-a-comprehensive-guide-to-free-netflix-access/"><u>Bypassing Fees: A Comprehensive Guide to FREE Netflix Access</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cant-connect-to-psn-server-problems-or-your-connection-error/"><u>Can't Connect to PSN - Server Problems or Your Connection Error?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-snappydriver-v113-software-evaluation-insights-and-tips/"><u>Comprehensive SnappyDriver V1.13 Software Evaluation: Insights & Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-15-complimentary-windows-11-visual-overhauls/"><u>Discover the Ultimate List of 15 Complimentary Windows 11 Visual Overhauls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-livestreams-using-manycams-virtual-webcam-technology-for-professional-results/"><u>Enhance Your Livestreams Using ManyCam's Virtual Webcam Technology for Professional Results</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/langchain-large-language-model-101-your-first-steps-into-an-advanced-world/"><u>LangChain Large Language Model 101: Your First Steps Into an Advanced World</u></a></li>
+<li><a href="https://win-latest.techidaily.com/le-choix-des-experts-top-4-solutions-logicielles-de-sauvegarde-ssd/"><u>Le Choix Des Experts : Top 4 Solutions Logicielles De Sauvegarde SSD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-transferring-documents-via-printer-scanning/"><u>Step-by-Step Guide: Transferring Documents via Printer Scanning</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-your-macs-secrets-locating-hidden-usernames-and-passwords/"><u>Unlock Your Mac's Secrets: Locating Hidden Usernames and Passwords</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-snapchat-on-your-computer-essential-steps-for-a-seamless-experience/"><u>Unlocking Snapchat on Your Computer: Essential Steps for a Seamless Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-samsung-galaxys-hidden-bluetooth-trick-boost-your-audio-experience/"><u>Unveiling Samsung Galaxy's Hidden Bluetooth Trick: Boost Your Audio Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-behind-meta-ai-comprehensive-insights/"><u>Unveiling the Secrets Behind Meta AI: Comprehensive Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-users-bitter-experiences-counted/"><u>Windows 11: Users' Bitter Experiences Counted</u></a></li>
+</ul></div>
 

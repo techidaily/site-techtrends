@@ -1,7 +1,7 @@
 ---
 title: "Laptop Maintenance 101: Methods for Putting Broken Keys Back in Place"
-date: 2024-08-30T15:16:09.590Z
-updated: 2024-08-31T15:16:09.590Z
+date: 2025-01-16T17:08:34.110Z
+updated: 2025-01-19T18:57:13.280Z
 categories:
   - BestProducts
 description: "This Article Describes Laptop Maintenance 101: Methods for Putting Broken Keys Back in Place"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 ---
 
 ## Effortless Screen Capturing in Windows 11? Unlock These 4 Proven Tricks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -28,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -41,10 +43,11 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -61,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -73,11 +73,13 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/6327dfd2fe6706001f2a15356912946cde0731783
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -126,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +136,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-transform-your-video-chats-using-zooms-filters/"><u>[New] 2024 Approved Transform Your Video Chats Using Zoom's Filters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-video-editing-on-a-budget-with-free-fcp/"><u>2024 Approved Mastering Video Editing on a Budget with Free FCP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-everything-you-need-to-know-about-netflixs-top-tier-streaming-platform/"><u>Exploring Everything You Need to Know About Netflix's Top-Tier Streaming Platform</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-design-to-performance-a-comprehensive-review-of-the-apple-iphone-12-mini/"><u>From Design to Performance: A Comprehensive Review of the Apple iPhone 12 Mini</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-the-class-not-registered-message-on-your-windows-1nformation/"><u>How to Correct the 'Class Not Registered' Message on Your Windows 1Nformation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-techniques-for-recording-instagram-stories/"><u>In 2024, Essential Techniques for Recording Instagram Stories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-zero-fee-techniques-for-vibrant-video-text-effects/"><u>In 2024, Zero-Fee Techniques for Vibrant Video Text Effects</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-videos-adhere-to-aspect-ratio-rules-for-2024/"><u>Mastering Twitter Videos Adhere to Aspect Ratio Rules for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-rtx-2080-graphics-card-drivers-compatible-with-windows-11-7-and-8/"><u>New RTX 2080 Graphics Card Drivers Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-systems-that-start-but-show-no-image-on-monitor/"><u>Quick Fixes for Systems That Start but Show No Image on Monitor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-start-guide-registering-and-configuring-your-oculus-meta-headset-questquest-2/"><u>Quick Start Guide: Registering and Configuring Your Oculus Meta Headset (Quest/Quest 2)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-your-powerpoints-volume-and-playback-quirks-a-guide/"><u>Resolve Your PowerPoint's Volume and Playback Quirks - A Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-viewing-the-ultimate-guide-to-watching-indiana-jones/"><u>Sequential Viewing: The Ultimate Guide to Watching Indiana Jones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-5-mobile-apps-to-expand-your-circle-of-friends/"><u>The Ultimate List of 5 Mobile Apps to Expand Your Circle of Friends</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/think-twice-before-choosing-bargain-lapses-the-hidden-pitfalls-of-economical-computers/"><u>Think Twice Before Choosing Bargain Lapses: The Hidden Pitfalls of Economical Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-family-organization-tools-best-shared-calendars-for-keeping-busy-schedules-in-check/"><u>Top 7 Family Organization Tools: Best Shared Calendars for Keeping Busy Schedules in Check</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-trending-devices-and-reading-materials-laptops-phones-and-literary-treasures/"><u>Top Trending Devices & Reading Materials: Laptops, Phones, & Literary Treasures!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-your-phones-alerts-with-tailored-audio-choices-for-android-for-2024/"><u>Transforming Your Phone's Alerts with Tailored Audio Choices for Android for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-solving-your-ps5-dualsense-charger-woes/"><u>Troubleshooting Guide: Solving Your PS5 DualSense Charger Woes</u></a></li>
+</ul></div>
 

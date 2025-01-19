@@ -1,7 +1,7 @@
 ---
 title: The Complete Tutorial on Creating Versatile Filters in Gmail
-date: 2025-01-11T17:24:32.653Z
-updated: 2025-01-13T17:21:31.333Z
+date: 2025-01-18T19:02:52.733Z
+updated: 2025-01-19T20:59:43.921Z
 categories:
   - BestProducts
 description: This Article Describes The Complete Tutorial on Creating Versatile Filters in Gmail
@@ -30,10 +30,6 @@ of 10
 ## [Gmail](https://www.google.com/gmail/about/#)
 
 ![Gmail's All Mail folder displaying a list of emails](https://www.lifewire.com/thmb/3IIMsIheYn4Re-v436dRAUZUO90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-all-mail-772d959e265c40cc81aefb129991f3bd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -68,9 +64,17 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Outlook](https://outlook.live.com/mail/)
 
 ![Emails in an Outlook.com account](https://www.lifewire.com/thmb/H-eJC9BjhHDNlttlpKjOcwFqn0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-email-96b6e0e2cb634079b2fd23872831e774.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -106,13 +110,13 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Proton Mail](https://proton.me/mail)
 
 ![ProtonMail inbox](https://www.lifewire.com/thmb/2A5ZBpitET9klvQvOoZKvrgjXK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/proton-mail-09e4a81823e3432fa07c5076fb0e8ec9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -154,16 +158,12 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Yahoo Mail](https://overview.mail.yahoo.com/)
 
 ![Yahoo Mail email inbox](https://www.lifewire.com/thmb/sU-JXf-rjXc7JEILC7Oc5ZE5rQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-mail-ad1701b87a104041b1841b2889d75d13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -310,10 +310,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [AOL Mail](https://www.aol.com/)
 
 ![AOL Mail inbox](https://www.lifewire.com/thmb/fmPyWPLETFWZS5zg3BYZt-QjHNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aol-mail-afe56902b0334cb0a542d11e4f7bac82.png)
@@ -352,12 +348,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [10 Minute Mail](https://10minutemail.net/)
 
 ![10 minute mail disposable email account inbox](https://www.lifewire.com/thmb/z54bILlMdpNst4W5XMOQWgjMozs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/10-minute-mail-87c7ad30b94c4a8da83103d31ea84bc3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What We Like
@@ -388,13 +388,13 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Zoho Mail](https://www.zoho.com/mail/)
 
 ![Zoho Mail](https://www.lifewire.com/thmb/BcrKaOI0YwKyznVpNGYEic1abEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zoho-mail-website-5b9141c5c9e77c0050dbc327.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What We Like
 
@@ -471,21 +471,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-cross-social-media-file-transfers-youtube-and-facebook/"><u>[New] Unlocking the Power of Cross-Social Media File Transfers (YouTube & Facebook)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-cracking-the-code-of-viral-success-with-tiktoks-top-strategies-for-2024/"><u>[Updated] Cracking the Code of Viral Success with TikTok's Top Strategies for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-affordable-video-chat-for-android-users-for-2024/"><u>[Updated] Top 10 Affordable Video Chat for Android Users for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2023s-premier-philips-hue-lights-reviewed-and-compared-by-professionals-zdnet/"><u>2023'S Premier Philips Hue Lights Reviewed & Compared by Professionals | ZDNET</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-error-code-0xc00d36b4-in-win1011-devices/"><u>Demystifying Error Code 0XC00D36B4 in Win10/11 Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-ways-to-add-multiple-waypoints-using-google-maps-features/"><u>Effortless Ways to Add Multiple Waypoints Using Google Maps Features</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-converter-change-rmvb-files-into-flv-format-with-movavi/"><u>Free Online Converter: Change RMVB Files Into FLV Format with Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/future-of-wireless-audio-a-detailed-comparison-of-apples-new-airpods-offerings-explained-zdnet/"><u>Future of Wireless Audio: A Detailed Comparison of Apple's New AirPods Offerings Explained | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/james-bond-film-series-the-perfect-viewing-sequence-explained/"><u>James Bond Film Series: The Perfect Viewing Sequence Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-newbie-pitfalls-in-twitch-streaming-chats-insights-and-tips/"><u>Navigating Newbie Pitfalls in Twitch Streaming Chats: Insights & Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-a-discounted-ipad-at-only-199-in-the-exclusive-amazon-labor-day-blowout-find-out-how-on-zdnet/"><u>Secure a Discounted iPad at Only $199 in the Exclusive Amazon Labor Day Blowout: Find Out How on ZDNet</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-issue-nvidia-gpu-missing-from-windows-mgmt-sys/"><u>Tech Issue: NVIDIA GPU Missing From Windows Mgmt Sys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-of-its-game-discover-enhanced-apple-vision-pro-demo-experiences-booking-guide-for-an-unbeatable-test-drive-zdnet/"><u>Top of Its Game: Discover Enhanced Apple Vision Pro Demo Experiences - Booking Guide for an Unbeatable Test Drive | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-starting-up-macs-in-safe-or-recovery-modes/"><u>Unlock the Secrets of Starting Up Macs in Safe or Recovery Modes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-apple-enthusiasts-should-switch-to-this-amazing-qi2-charging-station-all-you-need-to-know-from-zdnet/"><u>Why Apple Enthusiasts Should Switch to This Amazing Qi2 Charging Station: All You Need to Know From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-your-media-presentation-top-12-players-list/"><u>2024 Approved Enhance Your Media Presentation Top 12 Players List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/9-prime-destinations-offering-free-educational-entertainment-for-toddlers/"><u>9 Prime Destinations Offering Free Educational Entertainment for Toddlers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-galaxy-ring-price-analysis-spec-sheet-upcoming-debut-and-fresh-insights/"><u>All You Need to Know About Samsung Galaxy Ring: Price Analysis, Spec Sheet, Upcoming Debut & Fresh Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/campus-life-perks-scoring-a-youtube-premium-sub-at-student-rates/"><u>Campus Life Perks: Scoring a YouTube Premium Sub at Student Rates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquer-windows-error-code-39-tips-and-strategies-for-successful-repair/"><u>Conquer Windows Error Code 39 - Tips and Strategies for Successful Repair.</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-x80072f30-quick-fix-for-windows-store-problems/"><u>Eliminate X80072F30: Quick Fix for Windows Store Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/far-cry-5-system-requirements-pro-tips/"><u>Far Cry 5 System Requirements [Pro Tips]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-lenovo-thinkphone-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Lenovo ThinkPhone to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722857076786-inside-scoop-on-nothing-phone-3-anticipated-launch-timeline-cost-estimates-and-specs-revealed/"><u>Inside Scoop on Nothing Phone 3: Anticipated Launch Timeline, Cost Estimates, and Specs Revealed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-updated-d-link-default-credentials-guide/"><u>July 2024 Updated D-Link Default Credentials Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/music-making-magic-selecting-background-beats-for-vids/"><u>Music Making Magic Selecting Background Beats for Vids</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-of-the-best-5-free-wmv-video-editors-reviewed/"><u>New In 2024, Best of the Best 5 Free WMV Video Editors Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-gmail-with-extra-protection-a-how-to-for-two-step-verification/"><u>Securing Gmail with Extra Protection: A How-To for Two-Step Verification</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-starting-your-mac-from-the-recovery-utility/"><u>Step-by-Step Guide: Starting Your Mac From the Recovery Utility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-connect-windows-desktop-to-television-with-googles-chromecast-device/"><u>Step-by-Step Tutorial: Connect Windows Desktop to Television with Google's Chromecast Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-captivating-your-online-audience-for-2024/"><u>The Art of Captivating Your Online Audience for 2024</u></a></li>
 </ul></div>
 

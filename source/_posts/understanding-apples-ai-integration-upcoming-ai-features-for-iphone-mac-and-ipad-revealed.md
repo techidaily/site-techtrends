@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2025-01-09T16:52:37.958Z
-updated: 2025-01-13T17:28:42.290Z
+date: 2025-01-18T17:31:47.894Z
+updated: 2025-01-19T20:51:36.994Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -121,10 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,21 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024s-premium-youtube-channels-leading-in-product-launch-content/"><u>[New] 2024'S Premium YouTube Channels Leading in Product Launch Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-farm-frontier-favorites-similar-titles-galore/"><u>[New] In 2024, Farm Frontier Favorites Similar Titles Galore</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-harmonize-visuals-and-melodies-in-facebook-media-posts/"><u>[New] In 2024, Harmonize Visuals & Melodies in Facebook Media Posts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-brisk-blueprints-for-scribing-presentations/"><u>2024 Approved Brisk Blueprints for Scribing Presentations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-fall-lineup-revealed-explore-new-technological-advancements-in-iphone-ipad-mac-and-beyond-with-cutting-edge-ai-integration-zdnet/"><u>Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-apple-watch-series-7-over-series-10-a-users-perspective/"><u>Choosing Apple Watch Series 7 over Series 10 – A User's Perspective.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficient-solutions-to-overcome-obstacles-in-your-computers-start-up-sequence-post/"><u>Efficient Solutions to Overcome Obstacles in Your Computer's Start-Up Sequence (POST)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-elite-gaming-phone-market-our-2022-curated-list-from-zdnet/"><u>Exploring the Elite Gaming Phone Market: Our 2022 Curated List From ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-make-collage-for-facebook-instantly-for-2024/"><u>How to Make Collage for Facebook Instantly for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-m6-pro-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco M6 Pro 4G Face Lock?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/safekeep-stories-the-unlimited-save-service/"><u>Safekeep Stories The Unlimited Save Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snapping-memories-from-your-gameplay-step-by-step-photos-on-ps4/"><u>Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/by-step-guide-to-skyrocketing-video-views/"><u>Step-by-Step Guide to Skyrocketing Video Views</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mastering-the-art-of-airpod-resets-and-recognizing-essential-scenarios/"><u>Step-by-Step Guide: Mastering the Art of AirPod Resets & Recognizing Essential Scenarios</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-strategies-choosing-and-acquiring-the-ideal-home-entertainment-system/"><u>Step-by-Step Strategies: Choosing and Acquiring the Ideal Home Entertainment System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrading-from-iphone-13-pro-to-iphone-15-pro-is-the-enhancement-justifiable-for-apple-aficionados-gizmodo-comparison-guide/"><u>Upgrading From iPhone 13 Pro to iPhone 15 Pro: Is the Enhancement Justifiable for Apple Aficionados? | Gizmodo Comparison Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-zoom-techniques-for-peak-call-quality-for-2024/"><u>[New] Cutting Edge Zoom Techniques for Peak Call Quality for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-moment-in-time-windows-108-screenshots-explained/"><u>[Updated] In 2024, Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-top-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved Top 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-ac68u-router-evaluation-fast-and-fortified-with-advanced-5g-connectivity/"><u>Asus AC68U Router Evaluation: Fast & Fortified with Advanced 5G Connectivity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-connection-methods-for-ps-vr-and-your-desktop-system/"><u>Easy Connection Methods for PS VR and Your Desktop System</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-solve-msvcr80dll-missing-issues/"><u>How to Correctly Address and Solve MSVCR80.DLL Missing Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-remove-the-built-in-news-update-section-on-your-pc-running-windows-11/"><u>How to Remove the Built-In News Update Section on Your PC Running Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-for-laptop-and-desktop-enthusiasts-master-the-mobile-app-on-a-larger-screen/"><u>Snapchat for Laptop and Desktop Enthusiasts: Master the Mobile App on a Larger Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-resolve-the-shell32dll-missing-error/"><u>Solutions: Resolve the 'Shell32.dll Missing' Error</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-iphone-video-editing-roundup-top-5-apps/"><u>The Ultimate iPhone Video Editing Roundup Top 5 Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whea-fatal-errors-demystified-your-ultimate-repair-manual/"><u>WHEA Fatal Errors Demystified - Your Ultimate Repair Manual</u></a></li>
 </ul></div>
 

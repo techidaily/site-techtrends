@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2025-01-10T16:32:58.905Z
-updated: 2025-01-13T18:28:06.160Z
+date: 2025-01-15T21:11:18.002Z
+updated: 2025-01-19T21:05:42.683Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -46,15 +46,15 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -72,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -93,7 +93,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -104,10 +104,6 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -117,6 +113,10 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,15 +171,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-from-raw-footage-to-final-product-using-windows-10-for-editing-success/"><u>[New] 2024 Approved From Raw Footage to Final Product Using Windows 10 for Editing Success</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-how-to-prepare-your-room-and-vr-ready-pc-for-oculus-rift/"><u>[New] In 2024, How to Prepare Your Room and VR-Ready PC for Oculus Rift</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-conversion-wizardry-from-youtube-to-igtv/"><u>[New] Video Conversion Wizardry From Youtube to IGTV</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-efficient-timelapse-recording-via-ipad/"><u>[Updated] 2024 Approved Efficient Timelapse Recording via iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-methods-to-prevent-your-mac-from-entering-sleep-mode/"><u>Effective Methods to Prevent Your Mac From Entering Sleep Mode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-world-of-streaming-technology-and-devices/"><u>Exploring the World of Streaming Technology & Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>In 2024, Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-google-home-mobile-application-for-pc-users-a-comprehensive-guide/"><u>Navigating the Google Home Mobile Application for PC Users - A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-twitch-a-guide-to-solving-puzzling-aspects-for-novice-users/"><u>Navigating Twitch: A Guide to Solving Puzzling Aspects for Novice Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-video-editing-free-high-quality-pp-templates-for-2024/"><u>[Updated] Advanced Video Editing FREE High-Quality PP Templates for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-collection-the-best-11-streamers/"><u>2024 Approved Elite Collection The Best 11 Streamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/anonymity-in-action-insta-stories-guide/"><u>Anonymity in Action Insta Stories Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-automate-email-organization-with-gmails-rule-setting-feature/"><u>How To Automate Email Organization With Gmail's Rule-Setting Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-false-connections-on-social-media-platforms/"><u>Identifying False Connections on Social Media Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-flight-a-look-at-dji-phantom-3-professional/"><u>Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/swift-shutter-speed-iphone-tricks-for-blur-magic/"><u>Swift Shutter Speed IPhone Tricks for Blur Magic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-favorite-family-movies-to-watch-on-amazon-prime-video-july-edition/"><u>The Ultimate List of Favorite Family Movies to Watch on Amazon Prime Video - July Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievable-trend-in-tech-gadgets-more-vr-headsets-sold-than-airpods-on-black-friday-according-to-zdnet/"><u>Unbelievable Trend in Tech Gadgets: More VR Headsets Sold than AirPods on Black Friday, According to ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-new-languages-2024s-essential-free-learning-apps/"><u>Unlocking New Languages: 2024'S Essential Free Learning Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/viewing-guide-the-ultimate-order-of-how-to-train-your-dragon-films/"><u>Viewing Guide: The Ultimate Order of How to Train Your Dragon Films</u></a></li>
 </ul></div>
 

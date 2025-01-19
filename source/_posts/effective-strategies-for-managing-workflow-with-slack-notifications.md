@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2025-01-08T16:02:02.044Z
-updated: 2025-01-13T17:56:14.190Z
+date: 2025-01-13T18:58:28.091Z
+updated: 2025-01-19T17:40:51.496Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 >
 
 ## Effective Strategies for Managing Workflow with Slack Notifications
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -32,16 +36,12 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 ![/remind in comment field](https://www.lifewire.com/thmb/JfagLg56YIHsOoAPjrF9H7yGFrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremind-5f0ca162e03b45e4aaf16a79ff623134.jpg)
 2. Always precede the name of the person with the**@** symbol or the name of the channel with the**#** symbol. If you're reminding yourself, just use**me** without the @ symbol. Follow the /remind command with the person you want to set the reminder for, the reminder, and the date for the reminder. Like this:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _/remind me "reminder" 4/29/2020 9:15 PM_  
 ![Reminder in Slack comment field](https://www.lifewire.com/thmb/Y_JaemDUyAZIyqIKuDZj3PtsRqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslackcommentfield-65f035cb01d248c89a768e5c87c5f919.jpg)  
  You can use a number of formats to define the time. Specify only the time for today, state the date in most formats, or write any day of the week. You can also use recurring terms like "every Monday and Friday" or "every weekday". If you don't specify time, it'll default to 9:00 AM on the day you specify.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. When you press**Enter** , you'll see a message confirming that Slack will remind you at the date and time you specified. You'll also see buttons to**Delete** the reminder or**View Reminders** that you've already set.  
@@ -49,15 +49,11 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
 
@@ -67,12 +63,12 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 ![List of reminders](https://www.lifewire.com/thmb/93fmPOaAUZSyg_r2w9V_Eko55e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-78e950d238934f26bea0fad0dc6c6106.jpg)
 2. Select**Delete** next to the task you want to remove.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The /remind command works the same whether you're using Slack on the web or the Slack mobile app.
 
@@ -83,6 +79,10 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 1. In the Slack web app, select the three dots to the right of the message. This will bring up a menu where you can select**Remind me about this** . Then, to the left, select when you want to be reminded. You can choose a fixed time period or select**Custom** to set a date and time and customize the reminder itself.  
 ![Adding a reminder in Slack from a message](https://www.lifewire.com/thmb/Aof2e6hSv-K9tdZj-mb6_4JL1M0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremindmeaboutthis-76786ff068db4882884989ab933b45ca.jpg)
 2. To add a reminder from a message on the Slack app, long-press on the message and select**Remind Me** from the pop-up menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. On the**Remind me** window, tap the time when you want to be reminded. Select**Custom** to set your own date, time, or custom reminder text.  
 ![Remind Me in Slack app](https://www.lifewire.com/thmb/5qXQiml1lToF3zCuFYZVOfTFy2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackappremindme-9ada02a06c2c490bb9fa654470dd6913.jpg)
@@ -118,21 +118,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-detailed-look-at-the-latest-lg-360-camera-tech/"><u>[New] In 2024, Detailed Look at the Latest LG 360 Camera Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streaming-made-easier-learning-to-use-netflixs-dual-screen-feature/"><u>[New] Streaming Made Easier Learning to Use Netflix's Dual-Screen Feature</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-and-tricks-how-to-choose-a-winner-amongst-360-degree-cameras/"><u>2024 Approved Tips & Tricks How to Choose a Winner Amongst 360-Degree Cameras</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola Moto G34 5G Phone?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-proven-methods-for-assessing-youtube-channel-profitability/"><u>In 2024, Proven Methods for Assessing YouTube Channel Profitability</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-liquid-found-inside-charging-port-dilemma-and-solutions-explained/"><u>Iphone Liquid Found Inside Charging Port: Dilemma & Solutions Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-your-task-list-proven-strategies-to-streamline-workday-processes-tips/"><u>Master Your Task List: Proven Strategies to Streamline Workday Processes - Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinventing-menu-magic-in-modern-operating-system/"><u>Reinventing Menu Magic in Modern Operating System</u></a></li>
-<li><a href="https://win-forum.techidaily.com/reset-your-web-browsing-dns-clearing-on-windows-10-and-11-explained/"><u>Reset Your Web Browsing: DNS Clearing on Windows 10 & 11 Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/save-big-this-season-discover-the-41-greatest-apple-discounts-for-festive-shopping-with-expert-insights-by-zdnet/"><u>Save Big This Season: Discover the 41 Greatest Apple Discounts for Festive Shopping with Expert Insights by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-issue-what-steps-should-you-take-if-your-emails-arent-syncing-on-gmail/"><u>Solving the Issue: What Steps Should You Take If Your Emails Aren't Syncing on Gmail?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-and-transferring-iso-files-to-your-ipad-including-ipad-mini/"><u>Step-by-Step Guide: Converting and Transferring ISO Files to Your iPad, Including iPad Mini</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-iphone-15-buyers-guide-deciding-between-regular-plus-pro-and-pro-max-variants-expert-reviews/"><u>The Ultimate iPhone 15 Buyer's Guide: Deciding Between Regular, Plus, Pro, and Pro Max Variants | Expert Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-list-of-family-entertainment-on-netflix/"><u>Ultimate List of Family Entertainment on Netflix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-apples-bold-attack-on-leading-browser-through-eerie-marketing-move-spotlighted/"><u>Unveiling Apple's Bold Attack on Leading Browser Through Eerie Marketing Move, Spotlighted</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-generated-text-for-2024/"><u>Updated What Is AI Generated Text for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-transform-scripted-text-into-storytelling-magic/"><u>[Updated] 2024 Approved Transform Scripted Text Into Storytelling Magic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accessing-netflix-subscription-through-your-nintendo-switch-gaming-system/"><u>Accessing Netflix Subscription Through Your Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuite-de-fichier-m2p-a-mp3-sur-internet-avec-movavi/"><u>Conversion Gratuite De Fichier M2P À MP3 Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-key-finder-systems-top-products-for-peace-of-mind/"><u>Essential Key Finder Systems : Top Products for Peace of Mind</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expanding-email-horizons-effortlessly-creating-an-alternate-gmail-signal/"><u>Expanding Email Horizons: Effortlessly Creating an Alternate Gmail Signal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gamers-guide-what-makes-a-high-performance-gaming-pc/"><u>Gamer's Guide: What Makes a High-Performance Gaming PC?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leading-mobile-and-desktop-photography-sync-tools-apple-ecosystem-edition/"><u>Leading Mobile & Desktop Photography Sync Tools: Apple Ecosystem Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-jaycut-tutorial-unlock-the-power-of-free-online-video-editing-for-2024/"><u>New Jaycut Tutorial Unlock the Power of Free Online Video Editing for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-low-performance-pcs-overcoming-intel-hd-graphics-issues/"><u>Resolving Low-Performance PCs: Overcoming Intel HD Graphics Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-the-command-prompt-inside-your-file-explorer/"><u>Step-by-Step Guide: Accessing the Command Prompt Inside Your File Explorer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-freezing-problems-in-minecraft-on-pc-guide/"><u>Troubleshooting Persistent Freezing Problems in Minecraft on PC (Guide)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024-top-14/"><u>최신 기술에 힘의 사용: 2024 년 TOP 14 자막 프로그램 강조</u></a></li>
 </ul></div>
 

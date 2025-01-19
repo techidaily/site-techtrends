@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2025-01-12T17:06:50.714Z
-updated: 2025-01-13T17:59:06.740Z
+date: 2025-01-16T17:35:01.513Z
+updated: 2025-01-19T18:55:51.949Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -58,13 +54,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -121,7 +117,7 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -140,7 +136,7 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -165,6 +161,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -179,6 +179,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -187,6 +191,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -218,10 +226,6 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -241,10 +245,6 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,22 +275,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pinnacle-8-android-video-chat-solutions-for-big-teams/"><u>[New] 2024 Approved Pinnacle 8 Android Video Chat Solutions for Big Teams</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-the-power-of-social-media-video-marketing-strategies/"><u>[New] In 2024, Unveiling the Power of Social Media Video Marketing Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/35-deal-alert-the-ultimate-wireless-magnetic-charger-for-iphones-now-available-on-zdnet/"><u>$35 Deal Alert: The Ultimate Wireless Magnetic Charger for iPhones, Now Available on ZDNet!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-premier-mac-mkv-solvers-list/"><u>2024 Approved Premier Mac MKV Solvers List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-rollercoaster-ride-with-my-cherished-show-on-apple-vision-pro-the-marvels-and-fatigue-exclusive/"><u>A Rollercoaster Ride with My Cherished Show on Apple Vision Pro: The Marvels and Fatigue Exclusive</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boosting-iphone-efficiency-unveiling-the-impact-of-integrating-google-gemini-into-ios-insights-from-zdnet/"><u>Boosting iPhone Efficiency: Unveiling the Impact of Integrating Google Gemini Into iOS - Insights From ZDNet</u></a></li>
-<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-se-2022-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone SE (2022) Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-video-editing-suite-selections-a-look-at-our-top-5-pickings/"><u>Essential Video Editing Suite Selections: A Look at Our Top 5 Pickings</u></a></li>
-<li><a href="https://win-docs.techidaily.com/from-audio-clips-to-phenomenon-uncover-the-real-story-behind-podcasts-and-ipods-via-massmail-expertise/"><u>From Audio Clips to Phenomenon: Uncover the Real Story Behind Podcasts & iPods via Massmail Expertise</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ready-for-fresh-audio-innovations-latest-speculation-on-imminent-airpods-lite-and-airpods-max-debut-apple-insights/"><u>Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights</u></a></li>
-<li><a href="https://article-posts.techidaily.com/hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war-for-2024/"><u>Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-communication-conquests-powerful-expressions-for-success/"><u>In 2024, Communication Conquests Powerful Expressions for Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-it-worth-switching-to-iphone-16-pro-from-iphone-ephone-14-pro-a-detailed-comparison-for-tech-enthusiasts-gizmodo/"><u>Is It Worth Switching to iPhone 16 Pro From iPhone ePhone 14 Pro? A Detailed Comparison for Tech Enthusiasts | Gizmodo</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-no-budget-no-problem-top-free-wmv-video-editors/"><u>New No Budget? No Problem! Top Free WMV Video Editors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smartwatch-showdown-navigating-features-and-performance-of-the-apple-watch-ultra-vs-series-n/"><u>Smartwatch Showdown: Navigating Features and Performance of the Apple Watch Ultra Vs. Series N</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrade-confidently-how-macos-1441-ensures-secure-updates-for-your-mac-insights/"><u>Upgrade Confidently: How macOS 14.4.1 Ensures Secure Updates for Your Mac - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-you-shouldnt-overlook-apples-help-resources-a-deep-dive-by-zdnet-into-the-top-reasons-to-use-them/"><u>Why You Shouldn't Overlook Apple's Help Resources - A Deep Dive by ZDNet Into the Top Reasons to Use Them</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>[New] 2024 Approved Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-echoes-of-entertainment-adding-sound-to-snapchat-vids-for-2024/"><u>[New] Echoes of Entertainment Adding Sound to Snapchat Vids for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-guide-to-online-video-calls-free-edition-best/"><u>[New] Master Guide to Online Video Calls Free Edition Best</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1-essential-subscription-why-retro-gamers-cant-miss-playstation-plus-premium/"><u>1. Essential Subscription: Why Retro Gamers Can't Miss PlayStation Plus Premium</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-use-your-phone-as-a-webcam-to-record-videos/"><u>2024 Approved How to Use Your Phone as A Webcam to Record Videos?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-total-motion-analysis-2023/"><u>2024 Approved Total Motion Analysis 2023</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition-for-2024/"><u>Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-concept-of-internet-equality/"><u>Demystifying the Concept of Internet Equality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-record-gameplay-on-ps4/"><u>How to Record Gameplay on PS4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-quest-meta-3-lite-release-schedule-price-speculations-and-cutting-edge-specifications-revealed/"><u>Inside Scoop on Quest Meta 3 Lite: Release Schedule, Price Speculations, and Cutting-Edge Specifications Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1721471620799-iphone-screen-not-turning-off-promptly-discover-how-to-fix-this-annoyance/"><u>IPhone Screen Not Turning Off Promptly? Discover How to Fix This Annoyance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-like-a-pro-enabling-the-undercover-navigation-bar-in-file-explorer/"><u>Navigate Like a Pro: Enabling The Undercover Navigation Bar in File Explorer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartwatch-101-comprehensive-guide-to-their-uses-and-benefits/"><u>Smartwatch 101: Comprehensive Guide to Their Uses & Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-resolving-missing-d3d9dll-error-messages/"><u>Step-by-Step Tutorial on Resolving Missing d3d9.dll Error Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-understanding-netflix-streaming-platform/"><u>The Complete Guide to Understanding Netflix Streaming Platform</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-effective-methods-for-converting-youtube-audio-to-mp3-securely-for-2024/"><u>Three Effective Methods for Converting YouTube Audio to MP3 Securely for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixing-the-stop-0x0000007b-bsod-error-on-windows-pcs/"><u>Troubleshooting and Fixing the STOP 0X0000007B BSOD Error on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-acer-nitro-5-driver-software-for-optimal-performance-a-step-by-nstep-tutorial/"><u>Update Acer Nitro 5 Driver Software for Optimal Performance: A Step-by-nStep Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-in-july-2024-fresh-windows-update-roster-unveiled/"><u>What's New in July 2024: Fresh Windows Update Roster Unveiled!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Secret to Unlocking Past Instagram Reels You've Archived
-date: 2024-08-30T15:16:16.036Z
-updated: 2024-08-31T15:16:16.036Z
+date: 2025-01-13T18:28:56.871Z
+updated: 2025-01-19T16:14:27.201Z
 categories:
   - BestProducts
 description: This Article Describes The Secret to Unlocking Past Instagram Reels You've Archived
@@ -13,12 +13,20 @@ thumbnail: https://www.lifewire.com/thmb/OIPY-VxVGP5PiKTAM4Cq6QjIVnI=/400x300/fi
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * To find saved reals, open your profile and go to**menu** \>**Saved** \>**All Posts** \>**Reels** .
 * To find liked reels, go to your profile and tap**menu** \>**Your activity** \>**Interactions** \>**Likes** .
 
  This article will show you how to see the reels you have saved and liked on Instagram.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to See Saved Reels 
 
@@ -28,12 +36,14 @@ Close
 2. Select the**menu** at the top, then choose**Saved** to go to the screen with your saved collections.  
 ![Instagram with profile, menu, and Save highlighted](https://www.lifewire.com/thmb/yQEYtXTInCIqOe3csW9FWPvIng8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Saved-d879b8d2fee44ba5a0431b4dd05dfedc.jpg)
 3. Open the**All Posts** album.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the clapperboard icon.  
 ![Instagram with All Posts, thumbnail, and reel icon highlighted](https://www.lifewire.com/thmb/5L9VaOlvYPxifnrJgcP6s_JRnsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Allposts-77fa855bc1094b4689ee3a8c7b2e7d61.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  How to See Liked Reels 
 
  Instagram bunches all your likes in one view, so there is no clear filter to separate your photos, reels, and videos. But you can use these steps to narrow down your liked reels:
@@ -43,18 +53,18 @@ Close
 3. Tap**Your activity** .  
 ![Instagram with profile, menu, and Your Activity highlighted](https://www.lifewire.com/thmb/Zf3LLgW9iX6vNnW_e9LEFtvISko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YourActivity-340e15bbecb34b00acc78cc37ef210e4.jpg)
 4. Choose**Likes** from the**Interactions** section.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Instagram Activity with Interactions, Likes, and reels highlighted](https://www.lifewire.com/thmb/ALoHlh23szTpJ2h6OxsGkmAcT9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Interactions-d0c085c7e11f4ae7bd53ceec00871091.jpg)
 5. Tap any thumbnail, or choose**All content types** to filter out posts or reels.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Reels and Videos on Instagram](https://www.lifewire.com/thmb/00siQqtXUVRm0e2YBvqTFFeed38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reells-Stories-Instagram-c543e73f0b714f1191a822259532239b.jpg)  
  You can use the Likes page to unlike a specific reel, video, or photo. Choose**Select** \>**Unlike** to process them in batches.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -86,8 +96,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +103,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-where-can-you-find-instagram-ringtones-that-elevate-your-call-experience/"><u>[New] 2024 Approved Where Can You Find Instagram Ringtones That Elevate Your Call Experience?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-inside-look-how-mycam-shapes-your-visual-storytelling/"><u>[New] Inside Look How MyCam Shapes Your Visual Storytelling</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-harness-mematic-for-efficient-note-taking/"><u>[Updated] In 2024, Harness Mematic for Efficient Note-Taking</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-revisiting-sonys-s6700-blu-ray/"><u>[Updated] In 2024, Revisiting Sony's S6700 Blu-Ray</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clearing-space-on-your-photoshop-scratch-disk-easy-fixes-and-tips/"><u>Clearing Space on Your Photoshop Scratch Disk – Easy Fixes and Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-online-movie-repositories-a-guide-to-11-great-options/"><u>Discover the Best Free Online Movie Repositories: A Guide to 11 Great Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-wi-fi-networks-secret-key-on-windows-11-a-step-by-step-guide/"><u>Discovering Your Wi-Fi Network's Secret Key on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-control-your-pcs-network-discovery-functionality-on-windows-11/"><u>How to Control Your PC's Network Discovery Functionality on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-ai-powered-podcast-names-the-ultimate-selection-list/"><u>In 2024, AI-Powered Podcast Names The Ultimate Selection List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+</ul></div>
 

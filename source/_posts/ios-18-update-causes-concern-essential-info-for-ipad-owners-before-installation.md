@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Update Causes Concern: Essential Info for iPad Owners Before Installation"
-date: 2024-12-09T23:22:52.947Z
-updated: 2024-12-13T18:29:08.972Z
+date: 2025-01-16T17:14:33.932Z
+updated: 2025-01-19T18:19:23.726Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,16 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-stories-6-premier-apps-for-snapchat-filters-for-2024/"><u>[New] Transform Your Stories 6 Premier Apps for Snapchat Filters for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>[Updated] 2024 Approved SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-uncover-the-best-15-free-web-based-image-editing-tools-of-2023-for-2024/"><u>[Updated] Uncover the Best 15 Free Web-Based Image Editing Tools of 2023 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-linear-display-anomalies-on-personal-computers/"><u>Comprehensive Fixes for Linear Display Anomalies on Personal Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-the-silent-phone-effective-remedies-to-restore-your-iphones-ringtones/"><u>Diagnosing the 'Silent Phone': Effective Remedies to Restore Your iPhone's Ringtones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-on-integrating-various-fortnite-accounts-efficiently/"><u>Expert Tips on Integrating Various Fortnite Accounts Efficiently</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/how-to-easily-save-online-content-on-your-mac-unlimited-conversions-and-free-downloads-in-multiple-formats-mp4-mov-avi/"><u>How To Easily Save Online Content on Your Mac - Unlimited Conversions and Free Downloads in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-the-mysteries-of-proper-youtube-channel-monetization/"><u>In 2024, Unlocking the Mysteries of Proper YouTube Channel Monetization</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-color-grading-techniques-with-luts/"><u>Integrating Color Grading Techniques with Luts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722887307809-watching-fubotv-heres-how-you-can-stream-it-using-fire-stick-easily/"><u>Watching FuboTV? Here's How You Can Stream It Using Fire Stick Easily!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/yahoo-messenger-explained-its-history-and-reason-behind-the-closure/"><u>Yahoo! Messenger Explained: Its History and Reason Behind the Closure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-image-management-in-google-photos/"><u>[New] Simplified Image Management in Google Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-resolve-ipadiphone-fb-video-playback-delays-for-2024/"><u>[Updated] Resolve iPad/iPhone FB Video Playback Delays for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-your-computer-to-an-external-display-a-comprehensive-guide-for-projectors/"><u>Connecting Your Computer to an External Display: A Comprehensive Guide for Projectors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-blue-screen-of-death-a-users-manual-to-understanding-windows-errors/"><u>Decoding Blue Screen of Death: A User's Manual to Understanding Windows Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-repair-tips-for-a-malfunctioning-logitech-k520-keyboard-step-by-step-solutions/"><u>Effortless Repair Tips for a Malfunctioning Logitech K520 Keyboard | Step-by-Step Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-steps-to-restore-accidentally-deleted-documents-in-windows-11/"><u>Effortless Steps to Restore Accidentally Deleted Documents in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eliminating-nvidia-drivers-a-complete-guide-for-windows-10-users/"><u>Eliminating NVIDIA Drivers: A Complete Guide for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23-tactical-edition-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23 Tactical Edition in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-for-cannot-open-file-error-in-windows/"><u>Immediate Fixes for Cannot Open File Error in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/inclusion-of-microtransactions-necessary-or-superfluous/"><u>Inclusion of Microtransactions: Necessary or Superfluous?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-fcp-editing-audio-like-a-pro/"><u>New 2024 Approved Mastering FCP Editing Audio Like a Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y78t-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y78t Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailoring-your-own-ai-conversational-agent-with-gpt-technology-key-steps-unveiled/"><u>Tailoring Your Own AI Conversational Agent with GPT Technology - Key Steps Unveiled</u></a></li>
 </ul></div>
 

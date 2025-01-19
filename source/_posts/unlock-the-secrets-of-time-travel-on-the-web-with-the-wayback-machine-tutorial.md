@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Time Travel on the Web with the Wayback Machine Tutorial
-date: 2024-08-30T15:17:14.945Z
-updated: 2024-08-31T15:17:14.945Z
+date: 2025-01-15T19:01:39.348Z
+updated: 2025-01-19T20:56:54.971Z
 categories:
   - BestProducts
 description: This Article Describes Unlock the Secrets of Time Travel on the Web with the Wayback Machine Tutorial
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 ---
 
 ## Unlock the Secrets of Time Travel on the Web with the Wayback Machine Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Enter the website URL (domain or specific page) in the Wayback Machine search bar.
@@ -22,9 +27,6 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  The Wayback Machine search engine is where you should head first to look for archived webpages and sites. The search box is also prominent on The Internet Archive's homepage. Click the Wayback Machine logo to go to its[main page](https://web.archive.org/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Find Websites With a URL
 
  The Wayback Machine search field works like any other search engine. The site ranks search results by how often the site was saved and how many related links each homepage has.
@@ -32,10 +34,11 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 1. In the Wayback Machine's search bar, type the URL of the website you're interested in. You can use the domain URL (e.g.,[www.example.com](http://www.example.com/) ) or a specific page on the site.  
 ![The search bar on the WayBack Machine site](https://www.lifewire.com/thmb/IgHw28Kscr3NKqqVR6O0fRMl3x8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WayBack-Machine-Search-Bar-b38b8ded832b472499450450ad2a53fb.jpg)
 2. The result is displayed as a Calendar with a timeline with years on the top and the monthly view of that specific year.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wayback Machine Calendar View](https://www.lifewire.com/thmb/vBQyXPQg5ozxehCxof0HN4YPGKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WaybackMachine-CalendarView-66a466e6111640959a1ef75fe1aa2fc0.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Note  
 
@@ -54,9 +57,6 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
 
  You can't download a snapshot from the Wayback Machine directly; their[Terms of Use](https://archive.org/about/terms.php) do not allow it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Find Archived Sites With Keywords
 
  Although the Wayback Machine works only with URLs, it has a limited ability to search with keywords. However, these keywords are for entire sites and not ones buried in an individual webpage.
@@ -72,8 +72,9 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
  Wayback Machine also supports[multilingual keyword searches](https://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search/) along with the site search operator (e.g., site:nytimes.com "global warming").
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Save Pages in the Wayback Machine
 
  With the**Save Page Now** feature, you can add and archive webpages to the Wayback Machine. However, you can't save entire websites yet, just a related number of pages (via the outlinks on your target page).
@@ -83,26 +84,30 @@ thumbnail: https://www.lifewire.com/thmb/pIkWjlA3P_2dZwUS0mBLkOsB_Bk=/400x300/fi
  If you don't see this field, make sure you're at**web.archive.org** and not just**archive.org** .  
 ![The 'Save Page Now' option on the WayBack Machine website](https://www.lifewire.com/thmb/XMiBKXjO58hMYAKKHcYUbQaAKOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Save-Page-WayBack-Machine-0fa9827d32e84795a3ac3d43eab13bce.jpg)
 3. Select**Save Page** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Save Page" button on the WayBack Machine](https://www.lifewire.com/thmb/fE_zr_NaZdnSpCZWXkui8bb2MQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Save-Page-button-on-WayBack-Machine-bbd0d186952342f492bc9a83aa68882f.jpg)
 4. Registering and logging in with a free account gives a few more options, like saving screenshots of a page, keeping a personal web archive, the ability to email search results to yourself, and use of WACZ files.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip
 
  If you regularly use the Wayback Machine, consider their[Chrome extension](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) . The extension is an indirect way to "search" the Wayback Machine, as you can automatically view archived pages of a site by clicking on it. It's a helpful way to see cached pages if the webpage you are trying to access does not exist or displays a 404 Not Found Error. Check the extension's Settings for extra features. Extensions and add-ons are also available for Safari, Edge, and Firefox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the WayBack Machine?
 
  The Wayback Machine is part of the[Internet Archive](https://archive.org/) , which Brewster Kahle and Bruce Gilliat founded in 1996 as a non-profit organization to preserve the World Wide Web and create a[searchable public library of digital assets](https://www.lifewire.com/internet-movie-archive-1357416) . Since then, the Internet Archive has grown to include millions of free books, movies, software, music, art, video games, etc.  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Note
 
  Other publicly available resources are available, including the Open Library, a digital library of books, and the NASA Images Archive, a collection of images from NASA's archives.
@@ -131,8 +136,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-epic-entertainment-a-rundown-of-hilarious-youtuber-hits/"><u>[New] In 2024, Epic Entertainment A Rundown of Hilarious YouTuber Hits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-leading-selection-of-premium-suspended-speakers-for-immersive-home-theater-experience/"><u>2024'S Leading Selection of Premium Suspended Speakers for Immersive Home Theater Experience</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1726028071605-5/"><u>最高のビデオフリップ・ウェブサイト上選ばれるトップ5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bridging-streaming-services-a-comprehensive-guide-to-casting-apple-tv-plus-using-a-chromecast-stick/"><u>Bridging Streaming Services: A Comprehensive Guide to Casting Apple TV Plus Using a Chromecast Stick</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-windows-defender-for-additional-security-software/"><u>Circumventing Windows Defender for Additional Security Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-to-activate-and-navigate-your-secret-file-tracker-menu/"><u>Discover How to Activate and Navigate Your Secret File Tracker Menu</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-on-integrating-apple-homepod-and-tv-for-a-streamlined-experience/"><u>Easy Instructions on Integrating Apple HomePod and TV for a Streamlined Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elon-musk-and-spacexs-controversial-views-on-freedom-may-jeopardize-minority-rights-in-india-techcrunch/"><u>Elon Musk & SpaceX's Controversial Views on Freedom May Jeopardize Minority Rights in India | TechCrunch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-hubs-for-communication-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Hubs for Communication: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expose-concealed-apps-on-ios-devices-with-these-easy-tips/"><u>Expose Concealed Apps on iOS Devices with These Easy Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-of-windows-11s-malfunctioning-search-tool/"><u>How to Restore Functionality of Windows 11'S Malfunctioning Search Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonic-heralds-discovering-the-finest-music-for-podcast-beginnings/"><u>In 2024, Harmonic Heralds Discovering the Finest Music for Podcast Beginnings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-story-remix-windows-10-photos-for-video-editing/"><u>In 2024, Mastering Story Remix Windows 10 Photos for Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-making-all-ios-apps-visible-again/"><u>Master the Art of Making All iOS Apps Visible Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/mystery-non-edge-processes-in-task-manager/"><u>Mystery: Non-Edge Processes in Task Manager?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-data-access-across-devices-learn-to-map-a-network-drive-on-macos/"><u>Seamless Data Access Across Devices: Learn to Map a Network Drive on macOS</u></a></li>
+</ul></div>
 

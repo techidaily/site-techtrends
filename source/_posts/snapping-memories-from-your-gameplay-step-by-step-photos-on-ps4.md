@@ -1,7 +1,7 @@
 ---
 title: "Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4"
-date: 2025-01-01T04:30:14.916Z
-updated: 2025-01-06T20:38:25.499Z
+date: 2025-01-16T16:10:16.171Z
+updated: 2025-01-19T20:37:05.821Z
 categories:
   - BestProducts
 description: "This Article Describes Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4"
@@ -33,14 +33,30 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 ![The More menu on the Dell site](https://www.lifewire.com/thmb/iRBSbijAwd_xuFqJVcVraGBYT64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-dell-student-discount-4686335-829147eb5af94f2fadcf1c028049dbfd.jpg)
 2. Select**Join now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Join Now button](https://www.lifewire.com/thmb/mhaCUA5fDltGefzG805lHQiuY2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-dell-student-discount-4686335-90ee14273a1f4bbb994914b59e4f1615.jpg)
 3. Enter your email address, choose a password, then select**Join now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![A screenshot of Unidays.](https://www.lifewire.com/thmb/Zld2fuMr3eQZQqJlraNVI2T_tbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays1-e239f02eff234f7ba45724f722b18638.JPG)
 4. Enter your school information, then select**Continue** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Unidays sign up process.](https://www.lifewire.com/thmb/7K0kVXrnI49EKcO66eJsPsLhrcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidays2-ce804ce49a8d44f09fb00f328958f3dc.JPG)
 5. Follow the on-screen prompts to complete your verification process. If you aren't able to verify automatically, or if your school isn't listed, contact UNiDAYS to manually verify your account.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  UNiDAYS partners with a lot of major brands, including Apple, so signing up will provide you with a lot of discounts beyond just Dell.
 
@@ -55,26 +71,18 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 ![The Redeem Online button](https://www.lifewire.com/thmb/Vow8xBAfY4hXPmMBojDj2t4Mn20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-dell-student-discount-4686335-e43e1b733ce347fbb0eb56898de05ad5.jpg)
 2. Select**Redeem Code** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A screenshot of the Unidays Dell discount.](https://www.lifewire.com/thmb/dukIQ5HI1HxABy3YO6Hr7yFb-jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/unidaysdell2-3baec4ecbd1249e881c3d8761fda43d1.jpg)
 3. Copy your code, and select**Launch Website** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This code only works once, and it expires after a short amount of time.  
 ![The code field and Launch Website button](https://www.lifewire.com/thmb/4fBRfT7u0MHWjuei9jQVA_cB9UQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-dell-student-discount-4686335-540f566a5b1745848e8b2b86662e3959.jpg)
 4. On the Dell website, locate a laptop or desktop that you want to buy. When you reach the checkout page, enter your coupon code and verify your discount.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the discount doesn't apply, try generating a new code. If that doesn't work, contact UNiDAYS for additional support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who is Eligible For the Dell Student Discount?
 
@@ -86,19 +94,11 @@ thumbnail: https://thmb.techidaily.com/35cdbcc9d0463edeaedcfabc37b755463ffdb3615
 
  Parents can't sign up for their children, so students younger than 17 are unable to use this discount even if they are enrolled at a qualifying school.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does the Dell Student Discount Get You?
 
  The Dell student discount typically provides a 10 percent discount on Dell products, in addition to whatever other deals Dell may be running at the time. This amount can change, so make sure to check UNiDAYS to see what the current offer is before making a decision.
 
  Coupon codes are generated through UNiDAYS and then applied in the shopping cart on Dell's site after verifying that you are a student. That means you will not see the discount reflected in prices on the Dell website prior to checkout.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Does Dell Verify Student Enrollment?
 
@@ -146,19 +146,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services/"><u>[New] The Complete Guide to Proficient KineMaster Use and Top Digital Services</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-igtv-star-making-picks-for-your-watchlist/"><u>2024 Approved IGTV Star-Making Picks for Your Watchlist</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-the-right-platform-features-of-ios-app-store-and-google-play-store-compared/"><u>Choosing the Right Platform: Features of IOS App Store and Google Play Store Compared</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/city-life-simulation-at-its-best-a-comprehensive-cities-skylines-critique/"><u>City Life Simulation at Its Best: A Comprehensive Cities: Skylines Critique</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-bug-patched/"><u>Direct3D Launcher Bug Patched</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-mastering-cloud-based-play-on-xbox-game-pass-ultimate/"><u>Essential Tips: Mastering Cloud-Based Play on Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-connecting-an-array-of-wireless-speakers-to-one-device/"><u>Expert Tips for Connecting an Array of Wireless Speakers to One Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-nvidias-rtx-gpus-key-features-and-benefits/"><u>Exploring the World of Nvidia's RTX GPUs: Key Features and Benefits</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-security-alert-developer-cannot-be-verified-errors-on-apple-computers/"><u>How to Address Security Alert: Developer Cannot Be Verified Errors on Apple Computers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-pop-7-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Pop 7 Pro FRP Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722882517397-the-elite-top-1aturals-in-online-dominance-meet-the-10-biggest-websites-ever/"><u>The Elite Top 1Aturals in Online Dominance: Meet The 10 Biggest Websites Ever</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-for-coredll-error-tips-and-tricks-to-get-it-working-again/"><u>The Ultimate Fix for 'Core.dll Error': Tips and Tricks to Get It Working Again</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-fbx-free-gametime-tracking-for-2024/"><u>The Ultimate Guide FBX-Free Gametime Tracking for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-bands-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Bands - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-4-techniques-for-effective-android-content-capturing/"><u>[New] In 2024, 4 Techniques for Effective Android Content Capturing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>[New] In 2024, Tailoring Your Vtuber's Tone Best App Recommendations Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stream-quality-which-is-superior-obs-or-fraps-in-2024/"><u>[New] Stream Quality Which Is Superior, OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-engagement-how-to-include-a-pinterest-widget-on-facebook-page/"><u>Boost Engagement: How To Include A Pinterest Widget On Facebook Page</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-fix-kernel32dll-faults-in-windows-environments/"><u>Comprehensive Solutions to Fix Kernel32.dll Faults in Windows Environments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-20-handpicked-films-by-lifewire-for-your-next-screening/"><u>Discover 20 Handpicked Films by Lifewire for Your Next Screening</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-a-black-screen-on-facetime/"><u>How to Fix a Black Screen on FaceTime</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-xs-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone XS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-asus-rog-phone-8-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Asus ROG Phone 8 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-the-fresh-look-of-your-iphone-skstientek-the-ultimate-three-step-accessory-strategy-from-zdnet/"><u>Preserve the Fresh Look of Your iPhone ˈsɪkstiēn'tek - The Ultimate Three-Step Accessory Strategy From ZDNET</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/proven-methods-to-elevate-patient-testimonial-videos/"><u>Proven Methods to Elevate Patient Testimonial Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-tips-to-restart-and-repair-stubborn-macos-applications/"><u>Quick Tips to Restart & Repair Stubborn macOS Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-mfc20dll-errors-step-by-step-solutions/"><u>Resolving MFC20.dll Errors: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-recurrent-freezing-and-closure-issues-with-microsoft-outlook/"><u>Resolving Recurrent Freezing & Closure Issues with Microsoft Outlook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-silence-a-guide-to-resolve-iphones-unresponsive-ringer-issue/"><u>Solving Silence: A Guide to Resolve iPhone's Unresponsive Ringer Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-significance-of-bsod-in-hardware-troubleshooting/"><u>The Significance of BSoD in Hardware Troubleshooting</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-video-converters-for-ts-to-mp4-conversion-reviews-and-comparisons/"><u>Top Video Converters for TS to MP4 Conversion - Reviews and Comparisons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-freezing-issues-on-your-macbook-air/"><u>Ultimate Guide: Resolving Freezing Issues on Your MacBook Air</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722889361116-winxp-haldll-not-found-heres-your-step-by-step-fix/"><u>WinXP Hal.dll Not Found? Here's Your Step-by-Step Fix!</u></a></li>
 </ul></div>
 

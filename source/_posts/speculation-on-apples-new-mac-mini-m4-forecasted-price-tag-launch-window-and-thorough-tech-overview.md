@@ -1,7 +1,7 @@
 ---
 title: "Speculation on Apple's New Mac Mini (M4): Forecasted Price Tag, Launch Window & Thorough Tech Overview"
-date: 2024-08-30T15:19:53.144Z
-updated: 2024-08-31T15:19:53.144Z
+date: 2025-01-18T16:42:03.190Z
+updated: 2025-01-19T18:48:43.627Z
 categories:
   - BestProducts
 description: "This Article Describes Speculation on Apple's New Mac Mini (M4): Forecasted Price Tag, Launch Window & Thorough Tech Overview"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 
  Apple's next-generation Mac Mini is expected to be built around the[ Apple M4 chip](https://www.lifewire.com/apple-m4-chip-8640914) , come in two versions, and cost the same as current models. This article collects all of the news and rumors about the Mac Mini M4, including its features, price, release date, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is the M4 Mac Mini Release Date? 
 
  We don't know the M4 Mac Mini release date just yet, and Apple doesn't release new Mac Minis on a consistent schedule[ the way it does iPhones](https://www.lifewire.com/iphone-17-8612548) .
@@ -32,15 +36,13 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information 
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Mac Mini M4 Price Rumors 
 
  The Mac Mini M4 will likely cost about the same as current models. Apple often keeps the prices of new models of existing products the same year after year, so this makes sense.
@@ -48,17 +50,15 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
  If that holds true, expect the Mac Mini M4 to start at $599\. The current entry-level model delivers an[ M2 processor](https://www.lifewire.com/why-the-new-m2-mac-mini-is-the-perfect-second-computer-7098470) , 8GB of RAM, and a 256GB hard drive for that price. At the high end, the current model costs $1,299 for an M2 Pro chip, 16GB of RAM, and a 512GB hard drive. There's also likely to be a model at an in-between price point.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mac Mini M4 Features 
 
  There aren't a lot of rumors about the Mac Mini M4's features, so we'll update this article as information becomes available. Many features of the Mac Mini are unlikely to change from the current model, however.
 
  Some things to expect from the next-generation Mini are:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### M4 Processor 
 
  As its name suggests, this Mac Mini will be built around Apple's next-generation M4 processor. That means that the Mac Mini will jump from using the M2 to the M4, without ever offering[ a model built using Apple's M3 chip](https://www.lifewire.com/m3-mac-mini-7571458) .
@@ -70,15 +70,17 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the Mac Mini M4 
 
  Stay up to date on all the latest news, rumors, and opinions with Lifewire's[ coverage of desktop and laptop computers](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . You might be interested in these articles about other Apple products:
@@ -103,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,22 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-add-transitions-on-inshot-app/"><u>[Updated] How to Add Transitions on Inshot App?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-slideshow-software-for-iphone-fi-and-pro-max/"><u>[Updated] Perfect Slideshow Software For iPhone Fi & Pro Max</u></a></li>
+<li><a href="https://techtrends.techidaily.com/email-less-pathway-the-ultimate-guide-to-restoring-your-facebook-credentials/"><u>Email-Less Pathway: The Ultimate Guide to Restoring Your Facebook Credentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-devices-performance-stopping-non-essential-android-processes/"><u>Enhance Your Device's Performance: Stopping Non-Essential Android Processes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579577151-enter-new-era-of-language-learning-with-mondlyar/"><u>Enter New Era of Language Learning with MondlyAR!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-free-online-tiktok-to-mp3-conversion-apps-top-6/"><u>Essential Free, Online TikTok to MP3 Conversion Apps Top 6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-oleaut32dll-is-absent-or-inaccessible-expert-tips-and-tricks/"><u>Fixing 'Oleaut32.dll Is Absent or Inaccessible': Expert Tips & Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210103861-9781439671160-haunted-vancouver-washington/"><u>Haunted Vancouver, Washington | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quick-and-simple-ways-to-take-a-capture-of-your-screen/"><u>How To: Quick & Simple Ways to Take a Capture of Your Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-samsung-unpacked-2025-event-timetable-exciting-releases-speculations-and-potential-game-changers/"><u>Inside Samsung Unpacked 2025: Event Timetable, Exciting Releases, Speculations & Potential Game-Changers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-repair-technique-for-cmos-verification-failures/"><u>Mastering the Repair Technique for CMOS Verification Failures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/risk-assessment-can-you-get-dismissed-for-chatgpt-usage/"><u>Risk Assessment: Can You Get Dismissed for ChatGPT Usage?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-why-are-my-youtube-comments-not-appearing/"><u>Step-by-Step Solution: Why Are My YouTube Comments Not Appearing?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/troubleshooting-guide-fixing-undetected-printer-issues-on-your-pc-insights-by-yl-computing/"><u>Troubleshooting Guide: Fixing Undetected Printer Issues on Your PC - Insights by YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-features-an-in-depth-look-at-the-new-nokia-31-phone-for-beginners/"><u>Unveiling the Features: An In-Depth Look at the New Nokia 3.1 Phone for Beginners</u></a></li>
+</ul></div>
 

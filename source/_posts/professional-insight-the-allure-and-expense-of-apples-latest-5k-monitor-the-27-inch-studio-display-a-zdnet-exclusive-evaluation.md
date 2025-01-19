@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: The Allure and Expense of Apple's Latest 5K Monitor, the 27-Inch Studio Display - A ZDNet Exclusive Evaluation"
-date: 2025-01-04T23:36:07.608Z
-updated: 2025-01-07T03:49:27.009Z
+date: 2025-01-14T21:39:02.155Z
+updated: 2025-01-19T19:37:46.934Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -42,15 +46,15 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -75,7 +79,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -88,10 +92,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -99,10 +99,6 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -114,6 +110,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -124,7 +124,7 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -171,22 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-smart-techniques-to-curve-and-sculpt-pixels/"><u>[Updated] In 2024, Smart Techniques to Curve and Sculpt Pixels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/carrie-marshall-professional-photographer-at-movavi-capture-your-perfect-moments/"><u>Carrie Marshall: Professional Photographer at Movavi - Capture Your Perfect Moments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversor-aacflac-em-graca-funcionalidade-on-line-do-programa-de-conversao-gratis-da-movavi/"><u>Conversor AAC/FLAC Em Graça - Funcionalidade On-Line Do Programa De Conversão Grátis Da Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-mov-files-to-wav-format-for-free-onlinevideoconvert/"><u>Convert MOV Files to WAV Format for Free - OnlineVideoConvert</u></a></li>
-<li><a href="https://fox-access.techidaily.com/dynamic-camera-audio-excellence-top-10-picks-for-2024/"><u>Dynamic Camera Audio Excellence, Top 10 Picks for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/high-end-laptop-clash-samsung-galaxy-book-2-ultra-versus-apple-macbook-pro-in-depth-comparison/"><u>High-End LAPTOP Clash: Samsung Galaxy Book 2 Ultra versus Apple MacBook Pro - In-Depth Comparison</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-add-music-to-any-snapchat-video/"><u>In 2024, How to Add Music to Any Snapchat Video?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-limitations-unanswerable-queries-and-tasks-beyond-chatgpts-reach/"><u>Top 7 Limitations: Unanswerable Queries & Tasks Beyond ChatGPT's Reach</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-vivo-y100-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo Y100 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranked-vob-video-player-reviews-your-ultimate-guide/"><u>Top-Ranked VOB Video Player Reviews: Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-smart-home-weather-monitors-2024s-ultimate-selection/"><u>Top-Rated Smart Home Weather Monitors: 2024'S Ultimate Selection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transcode-webm-a-ogg-online-gratuitement-avec-movavi/"><u>Transcode WebM À OGG Online Gratuitement Avec Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformation-gratuite-de-fichiers-ogv-en-mp4-en-temps-reel-avec-movavi/"><u>Transformation Gratuite De Fichiers OGV en MP4 en Temps Réel Avec Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-libero-m4a-online-gratuitamente-con-convertiavim4a/"><u>Trasforma I Tuoi File AVI in Formato Libero M4A Online Gratuitamente Con ConvertiAVIM4A</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wma-3gp-tv/"><u>WMA에서 3GP로 스마트 TV 및 모바일 시켓기의 유용한 정기적인 무료 전환 도구</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1726218822430-vob-movavi/"><u>オンラインで自由にVOBファイル変換 - Movaviが教える手順!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis/"><u>[Updated] 2024 Approved Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-webcam-wisdom-for-professional-streaming-enthusiasts/"><u>[Updated] 2024 Approved Webcam Wisdom for Professional Streaming Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-posting-on-instagram/"><u>2024 Approved A Step-by-Step Guide to Posting on Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/dull-to-delightful-text-that-tumbles-and-twirls/"><u>From Dull to Delightful Text that Tumbles and Twirls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correct-ui-bug-27711-on-call-of-duty-black-ops-cold-war/"><u>How to Correct UI Bug 27711 on Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-webcam-black-screen-on-windows-1110/"><u>How to Fix Webcam Black Screen on Windows 11/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-install-fonts-for-windows-10-easily-solved/"><u>How to Install Fonts for Windows 10 Easily [Solved]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-retrieve-skype-forgotten-password/"><u>How to Retrieve Skype Forgotten Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-rip-dvds-to-windows-11-easy-steps/"><u>How to Rip DVDs to Windows 11? Easy Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-a-vpn-on-xbox-one-quickly-and-easily/"><u>How to Use a VPN on Xbox One | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-excellence-in-resolution-macs-favorite-4k-screens/"><u>In 2024, Excellence in Resolution Mac's Favorite 4K Screens</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-printer-software-update-2024-free-downloads/"><u>Latest HP Officejet 4500 Printer Software Update 2024 - Free Downloads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oppo-reno-11f-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-setup-obtain-the-latest-google-usb-drivers-here/"><u>Quick Setup: Obtain the Latest Google USB Drivers Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-windows-n10-login-issues-a-comprehensive-guide/"><u>Resolving Windows N10 Login Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-accessing-the-windows-8-control-panel-with-ease/"><u>Simple Steps: Accessing the Windows 8 Control Panel with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-cyber-companion-tone-downloads-guide-for-2024/"><u>Ultimate Cyber Companion Tone Downloads Guide for 2024</u></a></li>
 </ul></div>
 

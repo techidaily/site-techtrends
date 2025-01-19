@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2025-01-08T17:55:55.030Z
-updated: 2025-01-13T16:10:59.036Z
+date: 2025-01-12T20:09:03.075Z
+updated: 2025-01-19T20:59:45.786Z
 tags:
   - apple
 categories:
@@ -73,10 +73,6 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
 ---
@@ -106,7 +102,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -137,6 +133,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -152,7 +152,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -172,7 +172,7 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,24 +235,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-unlock-professional-subtitle-transformation-at-zero-price/"><u>[Updated] Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-windows-1011-grab-your-desk-view/"><u>2024 Approved Windows 10/11 Grab Your Desk View</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-xstudio-procedures-reviewed-complete-overview/"><u>2024 Approved XStudio Procedures Reviewed Complete Overview</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-correcting-msodll-errors-in-microsoft-office/"><u>Comprehensive Tips for Correcting 'mso.dll' Errors in Microsoft Office</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-your-dream-game-day-companion-on-ios-dive-into-apple-sports-the-free-app-for-devoted-enthusiasts-zdnet/"><u>Discover Your Dream Game Day Companion on iOS - Dive Into Apple Sports: The Free App for Devoted Enthusiasts | ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-the-power-of-spatial-recognition-on-the-latest-vision-pro-tablet-by-apple-unlock-and-test-now/"><u>Discovering the Power of Spatial Recognition on the Latest Vision Pro Tablet by Apple - Unlock and Test Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-the-quit-now-popup-a-guide-for-roblox-players/"><u>Eradicating the 'Quit Now' Popup: A Guide for Roblox Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experts-picks-for-the-most-advanced-small-tablets-of-202e-in-depth-analysis-and-ratings/"><u>Experts' Picks for the Most Advanced Small Tablets of 202E: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-the-new-generation-apple-pencil-at-only-95-exclusive-labor-day-offer-on-zdnet/"><u>Get the New Generation Apple Pencil at Only $95: Exclusive Labor Day Offer on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-acer-screen-software-updates-downloaded-here/"><u>Get Your Acer Screen Software Updates Downloaded Here</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-craft-the-ultimate-guide-to-using-macos-top-document-management-app-insights/"><u>Mastering Craft: The Ultimate Guide to Using MacOS' Top Document Management App - Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/meta-quest-owners-dive-into-apples-world-of-3d-vr-videos-watch-now-with-our-easy-zdnet-tutorial/"><u>Meta Quest Owners, Dive Into Apple's World of 3D VR Videos - Watch Now with Our Easy ZDNET Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-more-wi-fi-dropouts-for-iphone-users-master-these-5-fixes-today/"><u>No More Wi-Fi Dropouts for iPhone Users - Master These 5 Fixes Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streamline-learning-with-our-pick-of-6-premier-homework-assistance-apps-for-families/"><u>Streamline Learning with Our Pick of 6 Premier Homework Assistance Apps for Families</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/thrilling-mobile-enigmas-reminiscent-of-the-room-and-myst-discover-new-ios-favorites/"><u>Thrilling Mobile Enigmas Reminiscent of 'The Room' And 'Myst': Discover New iOS Favorites</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-aeeusy-portable-solar-generator-ideal-pure-sine-wave-for-delicate-medical-devices/"><u>Top Rated AEEUSY Portable Solar Generator: Ideal Pure Sine Wave for Delicate Medical Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-waterproof-smartwatches-in-depth-analysis-by-tech-experts/"><u>Top-Rated Waterproof Smartwatches : In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-easy-steps-for-tempo-control-in-instagram-videos/"><u>[Updated] 2024 Approved Easy Steps for Tempo Control in Instagram Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-get-facebook-links-downloaded-top-8-tools-of-the-year-2023/"><u>[Updated] In 2024, Get Facebook Links Downloaded Top 8 Tools of the Year 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] In 2024, How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-break-new-ground-in-social-sagas-free-extended-versions-await/"><u>2024 Approved Break New Ground in Social Sagas – Free, Extended Versions Await</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722890609819-all-you-need-to-know-about-the-new-google-pixel-timepiece-rumored-features-and-pricing-insights-await/"><u>All You Need to Know About the New Google Pixel Timepiece – Rumored Features and Pricing Insights Await!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/boost-computer-speed-with-a-bootable-sata-ssd-upgrade-from-ide-in-windows/"><u>Boost Computer Speed with a Bootable SATA SSD Upgrade From IDE in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/curated-list-by-lifewire-20-essential-films-for-your-immediate-viewing-pleasure-online/"><u>Curated List by Lifewire: 20 Essential Films for Your Immediate Viewing Pleasure Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-updates-on-playstation-5-slim-pricing-launch-timeline-and-detailed-specifications/"><u>Latest Updates on PlayStation 5 Slim - Pricing, Launch Timeline & Detailed Specifications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-to-access-final-cut-pro-for-free-for-2024/"><u>Learn To Access Final Cut Pro for Free for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-keeping-your-w11-cool/"><u>Tips & Tricks for Keeping Your W11 Cool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-factors-to-evaluate-prior-to-purchasing-used-or-restored-notebooks/"><u>Top 5 Factors to Evaluate Prior to Purchasing Used or Restored Notebooks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excitement-of-drone-warfare-dji-robomasters-s1-a-comprehensive-evaluation-for-gamers/"><u>Unveiling the Excitement of Drone Warfare: DJI RoboMasters S1 - A Comprehensive Evaluation for Gamers</u></a></li>
 </ul></div>
 

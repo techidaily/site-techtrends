@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - A Match for the M3 MacBook Air!"
-date: 2025-01-06T17:36:11.089Z
-updated: 2025-01-13T17:25:58.379Z
+date: 2025-01-13T21:51:35.524Z
+updated: 2025-01-19T16:13:49.657Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,6 +72,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -83,10 +87,6 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -101,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -115,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -162,15 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-the-pros-picks-top-10-mic-technology-for-podcasters/"><u>[Updated] The Pros' Picks Top 10 Mic Technology for Podcasters</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-gamer-wealth-wave-the-year-ahead/"><u>2024 Approved Gamer Wealth Wave The Year Ahead</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-vision-pros-brilliance-revealed-a-deep-dive-into-its-ten-surprising-features-insights/"><u>Apple Vision Pro's Brilliance Revealed: A Deep Dive Into Its Ten Surprising Features | Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-future-at-ifa-with-these-top-laptops/"><u>Discover the Future at IFA with These Top Laptops</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-apple-is-facilitating-the-move-to-android-devices-for-users-exclusive-reports-by-zdnet/"><u>How Apple Is Facilitating the Move to Android Devices for Users - Exclusive Reports by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/precise-instructions-to-overcome-a-500-level-system-fault/"><u>Precise Instructions to Overcome a 500-Level System Fault</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tactical-stealth-in-retaining-chatgpt-interactions/"><u>Tactical Stealth in Retaining ChatGPT Interactions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-insiders-handbook-to-whatsapp-hidden-features-for-2024/"><u>The Insider's Handbook to WhatsApp Hidden Features for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-next-generation-of-apple-computing-understanding-the-mac-studios-heritage-as-the-new-mac-mini/"><u>The Next Generation of Apple Computing: Understanding the Mac Studio’s Heritage as the New Mac Mini</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-recommendations-for-the-ultimate-32-inch-tv-models-zdnet/"><u>Top Picks: Expert Recommendations for the Ultimate 32-Inch TV Models - ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-find-n3-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo Find N3 to Roku | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-what-is-a-408-request-timeout/"><u>A Comprehensive Guide: What Is a 408 Request Timeout?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-deep-dive-into-how-dts-play-fi-works-for-your-audio-needs/"><u>A Deep Dive Into How DTS Play-Fi Works for Your Audio Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/before-going-electric-the-must-ask-9-points-to-ensure-a-smart-purchase-decision/"><u>Before Going Electric: The Must-Ask 9 Points to Ensure a Smart Purchase Decision</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-repair-methods-for-when-you-encounter-binkw32dll-errors/"><u>Expert Advice: Repair Methods for When You Encounter binkw32.dll Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-select-top-rated-learning-apps-for-2amidst/"><u>Explore Our Select Top-Rated Learning Apps for 2Amidst</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-linking-your-laptop-and-tv-using-an-hdmi-cable/"><u>Guide: Linking Your Laptop and TV Using an HDMI Cable</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-spark-10c-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Spark 10C Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/macs-premier-mkv-player-picks/"><u>Mac's Premier MKV Player Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-problems-unplugging-and-reconnecting-headphones-and-speakers-on-windows-11-8-and-7/"><u>Resolving Audio Problems: Unplugging and Reconnecting Headphones & Speakers on Windows 11, 8, & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/surviving-the-heat-or-cold-the-effectiveness-and-endurance-of-electric-vehicles-under-extreme-weather-conditions/"><u>Surviving the Heat or Cold: The Effectiveness and Endurance of Electric Vehicles Under Extreme Weather Conditions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-hidden-perks-of-driving-an-electric-car-gain-free-parking-access-and-skip-the-traffic-with-hov-lane-privileges/"><u>The Hidden Perks of Driving an Electric Car: Gain Free Parking Access and Skip the Traffic with HOV Lane Privileges</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-recovering-disappeared-telephone-numerals-from-your-android-smartphone/"><u>The Ultimate Guide to Recovering Disappeared Telephone Numerals From Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovations/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210239389-9781087953298-true-feathers/"><u>True Feathers | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-worlds-await-top-10-vr-videos/"><u>Virtual Worlds Await Top 10 VR Videos</u></a></li>
 </ul></div>
 

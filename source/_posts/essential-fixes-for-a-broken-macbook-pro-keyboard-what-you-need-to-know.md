@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know
-date: 2024-08-30T15:16:25.503Z
-updated: 2024-08-31T15:16:25.503Z
+date: 2025-01-13T16:15:55.602Z
+updated: 2025-01-19T19:17:25.428Z
 categories:
   - BestProducts
 description: This Article Describes Essential Fixes for a Broken MacBook Pro Keyboard – What You Need to Know
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
  You'll need to attempt fixes such as cleaning it, checking for updates, and removing potential problem apps to get your keyboard working again. Most of these fixes also work for MacBook Air keyboards.
 
  Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a MacBook Pro Keyboard That Isn't Working
 
@@ -46,6 +50,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
  Apple fixes some keyboard issues at no charge due to defects in the butterfly switch mechanisms, but customer support can tell you whether your MacBook is covered.
 
  Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a MacBook Pro Keyboard to Stop Working?
 
@@ -92,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +107,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-express-screen-snag-aural-elements/"><u>[New] In 2024, Express Screen Snag Aural Elements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[New] In 2024, Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-searches-the-updated-guide-for-finding-youtube-on-fb/"><u>[New] Seamless Searches The Updated Guide for Finding YouTube on FB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-roadmap-to-becoming-an-excellent-interviewer/"><u>[New] The Roadmap To Becoming An Excellent Interviewer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unleashing-game-potential-custom-audio-in-ps5ps4/"><u>2024 Approved Unleashing Game Potential Custom Audio in PS5/PS4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-delete-photos-from-icloud-while-keeping-them-on-your-iphone/"><u>How to Delete Photos From iCloud (While Keeping Them on Your iPhone)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-avs-video-editor-review/"><u>New In 2024, The Ultimate AVS Video Editor Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-performance-exclusive-insights-into-oculus-headsets-for-2024/"><u>Pioneering Performance Exclusive Insights Into Oculus Headsets for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remote-possibilities-unlocking-full-control-over-your-samsung-tv-with-ease/"><u>Remote Possibilities: Unlocking Full Control Over Your Samsung TV with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quest-for-ownership-in-the-age-of-ai-creations/"><u>The Quest for Ownership in the Age of AI Creations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-resolve-missing-vcompdll-errors-troubleshooting-techniques/"><u>Ultimate Guide to Resolve Missing vcomp.dll Errors | Troubleshooting Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-solving-the-jvmdll-couldnt-be-found-problem/"><u>Understanding and Solving the JVM.dll Couldn't Be Found Problem</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

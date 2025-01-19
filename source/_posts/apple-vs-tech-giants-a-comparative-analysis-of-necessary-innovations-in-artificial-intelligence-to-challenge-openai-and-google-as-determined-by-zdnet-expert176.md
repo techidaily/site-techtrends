@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2025-01-10T17:51:12.037Z
-updated: 2025-01-13T18:48:52.881Z
+date: 2025-01-17T18:10:51.401Z
+updated: 2025-01-19T17:13:05.317Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -105,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -117,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -130,7 +138,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -150,10 +158,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-boosting-obs-streams-direct-to-facebook-feed/"><u>[New] In 2024, Boosting OBS Streams Direct to Facebook Feed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>[Updated] 2024 Approved Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>[Updated] In 2024, From Still Life to Motion Picture A Complete Guide on Pixiz Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] In 2024, Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-email-management-by-adding-new-addresses-to-gmail/"><u>Enhance Your Email Management by Adding New Addresses to Gmail</u></a></li>
-<li><a href="https://techtrends.techidaily.com/future-of-mobility-unveiled-top-trends-shaping-the-new-era-of-smart-devices-and-beyond/"><u>Future of Mobility Unveiled: Top Trends Shaping the New Era of Smart Devices and Beyond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-determine-if-system-configurations-are-controlled-by-admin-in-windows/"><u>How to Determine If System Configurations Are Controlled by Admin in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-sonys-new-vr-experience-price-estimates-launch-timeline-feature-overview-and-whispered-rumors/"><u>Inside Scoop on Sony's New VR Experience – Price Estimates, Launch Timeline, Feature Overview & Whispered Rumors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-18-enhances-iphone-14-user-experience-with-seamless-content-creation-insights-for-developers/"><u>IOS 18 Enhances iPhone 14 User Experience with Seamless Content Creation – Insights for Developers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-your-next-purchase-should-you-opt-for-macbook-pro-or-macbook-air-expert-insights/"><u>Navigating Your Next Purchase: Should You Opt for MacBook Pro or MacBook Air? Expert Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-grade-8-filters-for-live-feeds-for-2024/"><u>Professional-Grade 8 Filters for Live Feeds for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722095219679-shield-up-dont-surrenderflee-googles-bard-app/"><u>Shield Up, Don't Surrender—Flee Google's Bard App</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-ssd-enhancement-for-your-hp-17-cn1053cl-comprehensive-tutorial-and-pro-tips/"><u>Step-by-Step SSD Enhancement for Your HP 17-Cn1053Cl: Comprehensive Tutorial & Pro Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-kid-friendly-smartphones-a-comprehensive-review-zdnet/"><u>Top Kid-Friendly Smartphones: A Comprehensive Review - ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-common-problems-with-wireless-network-devices-in-10-steps/"><u>Ultimate Guide: Resolving Common Problems with Wireless Network Devices in 10 Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-network-a-step-by-step-guide-to-finding-wi-fi-passwords-on-windows-11/"><u>Unlocking Your Network: A Step-by-Step Guide to Finding Wi-Fi Passwords on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unraveling-the-complexities-of-firefox-split-screen/"><u>Unraveling the Complexities of Firefox Split Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-exploring-alternatives-to-game-bar-for-video-recording/"><u>[New] 2024 Approved Exploring Alternatives to Game Bar for Video Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>[Updated] Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehve-guide-picking-the-best-surge-protector-to-safeguard-your-appliances/"><u>A Comprehve Guide: Picking the Best Surge Protector to Safeguard Your Appliances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-mobile-experience-with-these-8-premier-multi-number-apps/"><u>Enhance Your Mobile Experience with These 8 Premier Multi-Number Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-integrating-a-pinning-feature-on-your-facebook-business-profile/"><u>Guide: Integrating a Pinning Feature on Your Facebook Business Profile</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-creative-expression-adding-video-filters-in-zoom/"><u>In 2024, Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-potential-in-google-photos-features/"><u>In 2024, Maximizing Potential in Google Photos Features</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-meme-mastery-the-top-10-apps-for-android-and-ios-users/"><u>New 2024 Approved Meme Mastery The Top 10 Apps for Android and iOS Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782571-9781620554708-the-divining-mind/"><u>The Divining Mind | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-clearing-browser-cache-for-enhanced-security-and-privacy/"><u>Ultimate Guide to Clearing Browser Cache for Enhanced Security and Privacy</u></a></li>
 </ul></div>
 

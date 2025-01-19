@@ -1,7 +1,7 @@
 ---
 title: Memorial Day Apple Watch SE Sale! Grab a $60 Discount & Why It's My #1 Gadget Purchase | Insights by ZDNET
-date: 2025-01-12T17:26:39.350Z
-updated: 2025-01-13T16:57:01.938Z
+date: 2025-01-13T21:53:01.679Z
+updated: 2025-01-19T21:10:45.627Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -89,20 +89,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-seamless-android-screen-grabber/"><u>[New] In 2024, Seamless Android Screen Grabber</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-quality-hero5-black-battery-packs-legit-and-third-party-options/"><u>[New] Top-Quality Hero5 Black Battery Packs - Legit & Third-Party Options</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-visual-storytelling-on-macbook-webcam-setup-for-2024/"><u>[New] Visual Storytelling on MacBook Webcam Setup for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-how-to-use-adsense-for-youtube/"><u>2024 Approved How to Use AdSense for YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-selection-of-portable-mp4s/"><u>2024 Approved Premium Selection of Portable MP4s</u></a></li>
-<li><a href="https://some-tips.techidaily.com/as-operational-excellence-gains-traction-within-corporate-tech-environments-challenges-rise-too/"><u>As Operational Excellence Gains Traction Within Corporate Tech Environments, Challenges Rise Too</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/erase-internet-history-and-improve-speed-by-flushing-cache-in-popular-web-browsers/"><u>Erase Internet History and Improve Speed by Flushing Cache in Popular Web Browsers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-mastering-your-ipad-10-must-know-settings-and-tricks-for-apple-enthusiasts-featured/"><u>Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-errors-with-shelldll-not-detected-or-present-on-your-pc/"><u>Fixing Errors with Shell.DLL Not Detected or Present on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-the-latest-news-on-googles-pixel-fold-2-price-guesswork-expected-release-and-potential-features/"><u>Get Ahead of the Curve with the Latest News on Google's Pixel Fold 2 - Price Guesswork, Expected Release & Potential Features</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-honor-magic-6-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Honor Magic 6 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-mobile-savings-on-independence-day-discover-the-best-cell-phone-bargains-zdnet/"><u>Top Mobile Savings on Independence Day: Discover the Best Cell Phone Bargains - ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-solutions-to-restart-and-refresh-your-iphone-15-device/"><u>Ultimate Solutions to Restart and Refresh Your iPhone 15 Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unbeatable-deal-discover-the-top-non-apple-non-anker-magsafe-wallet-in-my-testing-now-on-sale/"><u>Unbeatable Deal: Discover the Top Non-Apple, Non-Anker MagSafe Wallet in My Testing - Now On Sale!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[New] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dismantling-youtube-ranks-factors-and-their-effects/"><u>[New] Dismantling YouTube Ranks Factors and Their Effects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-in-imovie/"><u>[Updated] 2024 Approved How to Edit YouTube Videos in iMovie?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expertly-edited-entries-anywhere-at-the-tap-of-a-finger-in-2e23/"><u>[Updated] Expertly Edited Entries, Anywhere at the Tap of a Finger in 2E23</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-504-gateway-timeouts-comprehensive-approaches-for-swift-resolution-and-recovery/"><u>Decoding 504 Gateway Timeouts: Comprehensive Approaches for Swift Resolution and Recovery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-pc/"><u>Download & Install Atheros Network Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/email-safety-first-a-complete-guide-on-the-process-of-whitelist-submission/"><u>Email Safety First: A Complete Guide on the Process of Whitelist Submission</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-the-best-clicking-tools-a-curated-list-of-5-android-auto-clicker-apps/"><u>Find the Best Clicking Tools: A Curated List of 5 Android Auto-Clicker Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-discs-to-digital-tracing-the-journey-of-netflixs-dvd-rental-program/"><u>From Discs to Digital: Tracing the Journey of Netflix's DVD Rental Program</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/laptop-guide-downloading-popular-movies-from-netflix-safely/"><u>Laptop Guide: Downloading Popular Movies From Netflix Safely</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-texts-rescue-methods-for-recovering-removed-iphone-notes/"><u>Lost Texts Rescue: Methods for Recovering Removed iPhone Notes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-repairing-your-androids-call-capabilities-a-step-by-step-guide/"><u>Master Repairing Your Android's Call Capabilities - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-espn-plus-viewing-expert-tips-for-connecting-with-lg-smart-television-systems/"><u>Mastering ESPN Plus Viewing: Expert Tips for Connecting with LG SMART Television Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-infinix-hot-40-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/recovering-lost-contacts-a-guide-to-retrieve-deleted-numbers-on-your-android-device/"><u>Recovering Lost Contacts: A Guide to Retrieve Deleted Numbers on Your Android Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts</u></a></li>
 </ul></div>
 

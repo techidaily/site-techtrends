@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mystery: A Step-by-Step Guide to Repairing a 500 Internal Server Mishap"
-date: 2024-08-30T15:22:00.543Z
-updated: 2024-08-31T15:22:00.543Z
+date: 2025-01-14T18:22:57.566Z
+updated: 2025-01-19T19:28:35.847Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Mystery: A Step-by-Step Guide to Repairing a 500 Internal Server Mishap"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ---
 
 ## Maximizing PS5 Gameplay: A Step-by-Step Guide to Achieving a Buttery Smooth 1Nterframe Rate of 120FPS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -31,14 +40,20 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dji-mavic-pro-pioneering-the-aerial-photography-frontier/"><u>[New] In 2024, DJI Mavic Pro Pioneering the Aerial Photography Frontier</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-editing-tutorial-mastering-video-cuts/"><u>[Updated] 2024 Approved YouTube Editing Tutorial Mastering Video Cuts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-80-pro-straight-screen-edition-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor 80 Pro Straight Screen Edition without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/affordable-ai-tools-in-action-how-singapores-smes-benefit-from-subsidized-microsoft-copilot-services/"><u>Affordable AI Tools in Action: How Singapore's SMEs Benefit From Subsidized Microsoft Copilot Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/curated-selection-top-lgbtq-content-available-on-netflix-this-july/"><u>Curated Selection: Top LGBTQ Content Available on Netflix This July</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-you-encounter-shell32dll-not-found-issues-on-your-pc/"><u>Effective Solutions for When You Encounter 'Shell32.dll Not Found' Issues on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-address-frame-rate-drops-while-playing-f1-2n21-on-a-desktop-system/"><u>Expert Tips to Address Frame Rate Drops While Playing F1 2N21 on a Desktop System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-a-dvdbdcd-drive-that-wont-open-or-eject/"><u>How to Fix a DVD/BD/CD Drive That Won't Open or Eject</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-recover-from-a-ksuserdll-missing-error-on-your-computer-systematically/"><u>How To Recover From A ksuser.dll Missing Error on Your Computer Systematically</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-get-the-facts-about-youtube-keyword-research/"><u>In 2024, Get the Facts About YouTube Keyword Research</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-edge-webcams-and-camcorders-for-windows-11-pcs-for-2024/"><u>Leading Edge Webcams & Camcorders for Windows 11 PCs for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-chatgpt-applications-from-your-macs-app-store-why-it-may-not-be-worth-it/"><u>The Risks of Using ChatGPT Applications From Your Mac's App Store – Why It May Not Be Worth It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-for-correcting-distorted-colors-and-images-on-computer-displays/"><u>Troubleshooting Techniques for Correcting Distorted Colors and Images on Computer Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-transition-from-gasoline-cars-to-evs/"><u>Understanding the Transition From Gasoline Cars to EVs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2025-01-12T17:38:22.516Z
-updated: 2025-01-13T17:32:27.201Z
+date: 2025-01-18T19:58:40.025Z
+updated: 2025-01-19T20:54:36.403Z
 tags:
   - apple
 categories:
@@ -26,10 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -37,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -57,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>[New] In 2024, Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-capturing-dynamic-range-in-iphone-shots/"><u>2024 Approved Capturing Dynamic Range in iPhone Shots</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-public-disruption-mastering-the-art-of-airpods-and-quest/"><u>Avoid Public Disruption: Mastering the Art of AirPods and Quest 지킷 연결</u></a></li>
-<li><a href="https://techtrends.techidaily.com/be-their-advocate/"><u>Be Their Advocate</u></a></li>
-<li><a href="https://techtrends.techidaily.com/efficiently-stay-connected-using-your-apple-watch-to-message-loved-ones/"><u>Efficiently Stay Connected: Using Your Apple Watch to Message Loved Ones</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-legally-acquire-and-convert-popular-trainmaster-shows-for-offline-viewing-in-mp4-mov-and-avi-files/"><u>How to Legally Acquire and Convert Popular Trainmaster Shows for Offline Viewing in MP4, MOV & AVI Files</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-google-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Google online without jailbreak</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-motorola-razr-40-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Motorola Razr 40 Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-why-its-a-top-pick-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - Why It’s a Top Pick ! | ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/optimizing-your-instagram-outreach-through-innovative-meta-artificial-intelligence-solutions/"><u>Optimizing Your Instagram Outreach Through Innovative Meta Artificial Intelligence Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-dell-g7-driver-refresh-tutorials-for-better-performance/"><u>Quick and Simple Dell G7 Driver Refresh Tutorials for Better Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snag-the-deal-before-it-ends-amazons-temporary-200-discount-on-apple-vision-pro/"><u>Snag the Deal Before It Ends! Amazon's Temporary $200 Discount on Apple Vision Pro.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-on-rejuvenating-your-apple-watchs-functionality-expert-advice-by-zdnet/"><u>The Ultimate Walkthrough on Rejuvenating Your Apple Watch's Functionality - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-revolutionary-at-home-entertainment-the-new-flexus-200/"><u>Unveiling Revolutionary At-Home Entertainment: The New Flexus 200</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-best-vr-applications-for-phones/"><u>Unveiling the Best VR Applications for Phones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/why-your-imessages-were-undelivered-recently-a-breakdown-of-yesterdays-issues-insights-from-zdnet/"><u>Why Your iMessages Were Undelivered Recently: A Breakdown of Yesterday's Issues - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ios-compatible-psp-games-the-five-finest/"><u>[New] In 2024, IOS Compatible PSP Games The Five Finest</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2023s-scarcity-pioneering-vr-content-shortcomings/"><u>[Updated] 2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>2024 Approved Capture the Action The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-os-11-upgrade-unveiled-discover-the-latest-innovative-features-now-available-zdnet/"><u>Apple Watch OS 11 Upgrade Unveiled - Discover the Latest Innovative Features Now Available | ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-worldwide-the-powerhouses-behind-your-online-social-experience-facebook-twitter-instagram-youtube/"><u>Connecting Worldwide: The Powerhouses Behind Your Online Social Experience (Facebook, Twitter, Instagram, Youtube)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-adding-code-extracts-seamlessly-into-your-word-files/"><u>Guide: Adding Code Extracts Seamlessly Into Your Word Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-discovering-individual-email-addresses-online-safely-and-ethically/"><u>Guide: Discovering Individual Email Addresses Online Safely and Ethically</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2250930-9781844038121-living-with-time-to-think/"><u>Living with Time to Think | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-bundles-what-included-in-each-package/"><u>Nintendo Switch Bundles: What Included in Each Package?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-tips-how-to-turn-off-facebook-on-android-phones-and-tablets/"><u>Quick Tips: How To Turn Off Facebook On Android Phones and Tablets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/remedies-and-strategies-for-when-your-computer-cant-find-winhttpdll/"><u>Remedies and Strategies for When Your Computer Can't Find Winhttp.dll</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

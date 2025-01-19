@@ -1,7 +1,7 @@
 ---
 title: Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
-date: 2024-12-30T16:35:27.681Z
-updated: 2025-01-06T19:31:45.499Z
+date: 2025-01-15T20:40:16.927Z
+updated: 2025-01-19T18:35:46.616Z
 categories:
   - BestProducts
 description: This Article Describes Creating a Unified PDF Document From Multiple JPEG Photos - Tips & Tricks
@@ -27,7 +27,7 @@ Close
  This article explains how to combine multiple JPEGs into one PDF on Windows and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Multiple JPEGs Into One PDF on Windows
@@ -43,7 +43,7 @@ Close
 4. Under**Printer** , choose**Microsoft Print to PDF** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't see**Microsoft Print To PDF** as an option, you need to[ set up print to PDF](https://www.lifewire.com/print-to-pdf-4147601) in your Windows settings. On Windows 7 and 8, you need to install a[ PDF creator](https://www.lifewire.com/free-tools-to-create-pdf-files-1356335) like doPDF.  
@@ -51,7 +51,7 @@ Close
 5. Adjust the image quality and choose from the layout options on the right side. Select**Options** if you want to sharpen the image. If your images appear cut off in the preview, uncheck the**Fit picture to frame** box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Page layout options and Fit picture to frame in Windows 10 Printer dialog](https://www.lifewire.com/thmb/tkUIXck5JLhGBfEsRA02SwVbtNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle50-bcbea8fd36a64719a058a084fad2c4f0.jpg)
@@ -59,13 +59,13 @@ Close
 
 ![Print in the Windows 10 Print dialog](https://www.lifewire.com/thmb/2Ve0tNTzgukORg7veZOabgwkyD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle51-bee55e87fe864de785e575acb043f1b2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You now have a PDF file containing all your images you can print or attach to an email.  
 
  Websites like the[ JPG to PDF converter tool](https://smallpdf.com/jpg-to-pdf) also let you upload images and then download a PDF.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Combine Images Into a PDF on a Mac
 
@@ -78,13 +78,13 @@ Close
 ![File > Print in the Preview App on Mac](https://www.lifewire.com/thmb/bTVXwB2AO30wNTho1uUG29uMbO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle53-cdf4bfc9cb524ba29d6066571dc99d05.jpg)
 3. In the**PDF** drop-down menu, choose**Save as PDF** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternately, choose**Send in Mail** to send the PDF to someone directly as an email attachment.  
 ![Save as PDF in Mac Printer dialog](https://www.lifewire.com/thmb/T5qiCILDPCq3USXycr-nMv-R36I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle54-46f2d6bf443140d78f6fc2c1494e5921.jpg)
 4. Give the PDF file a name, choose a location to save it to, and select**Save** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Save in the Mac Printer dialog](https://www.lifewire.com/thmb/FmYdGvQKyHwYA4fZ_QhlEy9pNfw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rectangle55-649384770aa24fadaacad3a10af64d07.jpg)
 
@@ -128,24 +128,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-hone-your-hashtag-game-tripled-traffic-6kplus-vistas-for-2024/"><u>[Updated] Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-for-a-more-organized-life-6-tips-for-home-efficiency-gains/"><u>ChatGPT for a More Organized Life: 6 Tips for Home Efficiency Gains</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-the-best-17-software-solutions-for-professional-graphic-designing/"><u>Find the Best 17 Software Solutions for Professional Graphic Designing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-overcoming-the-developer-cannot-be-verified-error-in-macos/"><u>Guide: Overcoming the 'Developer Cannot Be Verified' Error in macOS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-steps-to-modify-a-different-accounts-password-on-windows/"><u>Guide: Steps to Modify a Different Account's Password on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-download-a-different-samsung-tv-internet-browser/"><u>How to Download a Different Samsung TV Internet Browser</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-enhancing-visual-content-turning-youtube-clips-into-animated-gifs/"><u>In 2024, Enhancing Visual Content Turning Youtube Clips Into Animated GIFs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a34-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A34 5G Phone FRP Lock</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 13</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-new-iphone-photo-cutout-feature-in-ios-16/"><u>Mastering the New iPhone Photo Cutout Feature in iOS 16</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-security-settings-how-to-earn-control-over-system-files-through-trustedinstaller/"><u>Navigating Security Settings: How to Earn Control Over System Files Through TrustedInstaller</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-the-disappearance-of-printmanagement-service/"><u>Quick Fix for the Disappearance of 'Printmanagement' Service</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/save-online-movies-and-tv-shows-as-mp4movavi-files-guides-for-mac-and-pc/"><u>Save Online Movies & TV Shows as MP4/MOV/AVI Files: Guides for Mac & PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-art-of-spotting-deceptive-friendship-overtures-on-the-internet/"><u>The Art of Spotting Deceptive Friendship Overtures on the Internet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-creating-a-playstation-network-profile/"><u>The Complete Walkthrough on Creating a PlayStation Network Profile</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-10-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 10 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformez-facilement-votre-fichier-aif-en-un-mp4-gratuitement-via-movavi-online/"><u>Transformez Facilement Votre Fichier AIF en Un MP4 Gratuitement via Movavi Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-effective-iphone-shortcut-tips-and-tricks/"><u>Ultimate Guide: Effective iPhone Shortcut Tips & Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-audience-behind-your-youtube-viewer-statistics/"><u>Unveiling the Audience Behind Your YouTube Viewer Statistics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-mastery-top-ten-template-treasures/"><u>2024 Approved Meme Mastery Top Ten Template Treasures</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/vlc-vlc/"><u>効果的なVLCでのビデオサイズ圧縮手法 - VLCメディアプレーヤー</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-number-restoration-how-to-locate-and-retrieve-erased-caller-ids/"><u>Android Number Restoration: How to Locate and Retrieve Erased Caller IDs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-smart-7-hd-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Smart 7 HD.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-the-right-iphone-for-optimal-game-performance-our-expert-advice/"><u>Choosing the Right iPhone for Optimal Game Performance: Our Expert Advice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia C12 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-sharing-your-favorite-show-the-ultimate-guide-to-syncing-netflix-on-multiple-devices/"><u>Mastering the Art of Sharing Your Favorite Show: The Ultimate Guide to Syncing Netflix on Multiple Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-exploring-the-best-television-streaming-services/"><u>The Ultimate List: Exploring the Best Television Streaming Services</u></a></li>
 </ul></div>
 

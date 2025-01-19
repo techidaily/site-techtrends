@@ -1,7 +1,7 @@
 ---
 title: Free Trial & Student Discounts for Microsoft Word – Everything You Need to Know
-date: 2024-08-30T15:13:27.458Z
-updated: 2024-08-31T15:13:27.458Z
+date: 2025-01-14T16:55:05.699Z
+updated: 2025-01-19T20:41:30.336Z
 categories:
   - BestProducts
 description: This Article Describes Free Trial & Student Discounts for Microsoft Word – Everything You Need to Know
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,28 @@ thumbnail: https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/fi
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/4LAWGdRhL5KUSVQ6A2SremFrAQ0=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-mobile-mastery-in-saving-team-video-gatherings/"><u>[New] Mobile Mastery in Saving Team Video Gatherings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-creativity-with-free-audio-effects-online/"><u>[Updated] 2024 Approved Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-9-gif-recipes-for-capturing-windows-graphics-fun/"><u>2024 Approved Essential 9 GIF Recipes for Capturing Windows Graphics Fun</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pixelcutter-studio/"><u>2024 Approved PixelCutter Studio</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-roblox-speed-drain-on-computer/"><u>Addressing Roblox Speed Drain on Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-setting-up-windows-11-on-your-brand-new-ssd/"><u>Complete Guide: Setting Up Windows 11 on Your Brand-New SSD</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-eliminating-screen-burn-in-across-all-displays/"><u>Effective Solutions: Eliminating Screen Burn-In Across All Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-every-aspect-of-the-revolutionary-netflix-online-platform/"><u>Exploring Every Aspect of the Revolutionary Netflix Online Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-screenshotting-in-windows-11-four-essential-strategies/"><u>Guide: Screenshotting in Windows 11 - Four Essential Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-problems-that-occur-during-the-post/"><u>How to Fix Problems that Occur During the POST</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-g2-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to G2 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1723003261967-immortals-of-heroes-fenyx-rising-release-date-confirmed-issue-resolved/"><u>Immortals of Heroes: Fenyx Rising Release Date Confirmed - Issue Resolved!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-of-attraction-how-to-enjoy-every-james-bond-movie-without-missing-a-beat/"><u>Order of Attraction: How to Enjoy Every James Bond Movie Without Missing a Beat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fixes-for-ntdlldll-failures-in-different-windows-systems/"><u>Step-by-Step Fixes for ntdll.dll Failures in Different Windows Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tailored-thumbnail-for-social-media-vids-for-2024/"><u>Tailored Thumbnail for Social Media Vids for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-new-in-ipados-v17-unlock-the-release-schedule-gratis-access-top-features-and-latest-news-highlights/"><u>What's New in iPadOS v17? Unlock the Release Schedule, Gratis Access, Top Features & Latest News Highlights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063147041-wins-uhdr-fixed-and-improved/"><u>Win's UHDR - Fixed and Improved</u></a></li>
+</ul></div>
 
