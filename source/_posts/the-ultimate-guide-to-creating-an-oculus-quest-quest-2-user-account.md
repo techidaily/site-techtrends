@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Creating an Oculus Quest / Quest 2 User Account
-date: 2024-08-30T15:11:36.010Z
-updated: 2024-08-31T15:11:36.010Z
+date: 2025-01-23T17:42:49.520Z
+updated: 2025-01-25T20:36:58.861Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Creating an Oculus Quest / Quest 2 User Account
@@ -37,14 +37,19 @@ thumbnail: https://www.lifewire.com/thmb/Rr6nc70fuFv3ti4r4F-gj-bHQas=/540x405/fi
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -54,18 +59,12 @@ thumbnail: https://www.lifewire.com/thmb/Rr6nc70fuFv3ti4r4F-gj-bHQas=/540x405/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -77,6 +76,10 @@ thumbnail: https://www.lifewire.com/thmb/Rr6nc70fuFv3ti4r4F-gj-bHQas=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -87,9 +90,6 @@ thumbnail: https://www.lifewire.com/thmb/Rr6nc70fuFv3ti4r4F-gj-bHQas=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,8 +101,9 @@ thumbnail: https://www.lifewire.com/thmb/Rr6nc70fuFv3ti4r4F-gj-bHQas=/540x405/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,8 +117,9 @@ thumbnail: https://www.lifewire.com/thmb/Rr6nc70fuFv3ti4r4F-gj-bHQas=/540x405/fi
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -146,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ow-tos-selecting-the-very-best-free-iphoneipad-editors/"><u>[New] How-To's Selecting the Very Best Free iPhone/iPad Editors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ahead-of-the-curve-5-critical-ai-innovations-for-entrepreneurs/"><u>Ahead of the Curve: 5 Critical AI Innovations for Entrepreneurs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-to-correct-haldll-file-not-found-issues-in-windows-xp/"><u>Essential Steps to Correct 'hal.dll' File Not Found Issues in Windows XP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-your-new-linksys-admin-password-the-july-2024-edition/"><u>Find Your New Linksys Admin Password: The July 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-display-driver-has-recovered-message-on-your-screen/"><u>Fixing the 'Display Driver Has Recovered' Message on Your Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pairing-it-right-your-essential-handbook-for-duets-on-the-popular-app-tiktok/"><u>Pairing It Right: Your Essential Handbook for Duets on the Popular App TikTok</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-correctly-address-a-missing-mssfmtdll-file-error-message/"><u>Steps to Correctly Address a Missing mssfmt.dll File Error Message</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo V27 | Dr.fone</u></a></li>
+</ul></div>
 

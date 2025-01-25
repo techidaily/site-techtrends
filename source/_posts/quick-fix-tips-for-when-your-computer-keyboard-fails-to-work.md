@@ -1,7 +1,7 @@
 ---
 title: Quick Fix Tips for When Your Computer Keyboard Fails to Work
-date: 2025-01-14T21:10:28.478Z
-updated: 2025-01-19T17:12:48.115Z
+date: 2025-01-19T19:42:42.027Z
+updated: 2025-01-25T16:33:19.419Z
 categories:
   - BestProducts
 description: This Article Describes Quick Fix Tips for When Your Computer Keyboard Fails to Work
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overall Findings
 
@@ -40,6 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -56,7 +64,7 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advantages of Buying
@@ -68,10 +76,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
  One more significant consideration when choosing to get a pre-built PC is that you don't have to research individual components to ensure compatibility, quality, and other factors. The manufacturer often provides different configuration options to offer a flexible selection depending on your needs. Plus, you don't have to be a technology guru to configure a new PC. If you're unsure of the offerings, there's usually a phone number or email to ask questions.
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Disadvantages of Buying
 
@@ -108,10 +112,6 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [What Should I Upgrade on My PC?](https://www.lifewire.com/what-to-upgrade-on-pc-8423213)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Disadvantages of Building
 
  One of the biggest disadvantages of building a computer is the lack of a single support organization. Since each component likely comes from a different manufacturer, if a part has a problem, you'll deal with the appropriate company. With pre-built systems, you only have to contact the manufacturer and their warranty service. This can also be an advantage in terms of building it yourself as a part failure is often quickly and easily resolved by replacing the part yourself rather than waiting for a large company to send out a technician or ship the system back to them.
@@ -122,20 +122,20 @@ thumbnail: https://www.lifewire.com/thmb/jCvX-ub6O4jb-hfwueT0ckkgyL8=/540x405/fi
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
 
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Julie Bang
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Build a Computer
@@ -181,19 +181,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-optimize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>[New] 2024 Approved Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[Updated] Can I View All Shared Videos And Photos on Messenger?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] In 2024, Hire Harmony A Collection of Inspirational Clips</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unmask-the-tricks-of-photo-and-video-upload-in-win11/"><u>[Updated] In 2024, Unmask the Tricks of Photo & Video Upload in Win11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-screen-recording-snapshots-on-mobile/"><u>2024 Approved Step-by-Step Screen Recording Snapshots on Mobile</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210718636-9781784979744-calling-us-home/"><u>Calling Us Home | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-out-if-you-can-access-microsoft-word-for-zero-cost-the-full-story/"><u>Find Out if You Can Access Microsoft Word for Zero Cost – The Full Story</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-discover-how-to-fine-tune-game-audio-on-ps-console/"><u>In 2024, Discover How to Fine-Tune Game Audio on PS Console</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-research-strategies-how-to-identify-a-persons-phone-number-without-invasion-of-privacy/"><u>Online Research Strategies: How to Identify a Person's Phone Number Without Invasion of Privacy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-combining-your-fortnite-players-into-one-account/"><u>Step-by-Step Guide: Combining Your Fortnite Players Into One Account</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-creating-gmail-forwarding-aliases/"><u>Step-by-Step Tutorial for Creating Gmail Forwarding Aliases</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-your-xbox-one-display-issue-steps-to-overcome-no-signal-glitches/"><u>Troubleshoot Your Xbox One Display Issue: Steps to Overcome No Signal Glitches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-finding-wi-fi-passwords-on-windows-11/"><u>Unlocking the Secrets: Finding Wi-Fi Passwords on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/asterclass-on-uploading-youtube-vids-to-fb-groups-for-2024/"><u>[New] Masterclass on Uploading YouTube Vids to FB Groups for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-equipment-for-cutting-edge-livestreams/"><u>[Updated] Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-elite-list-of-wi-fi-expanders-to-maximize-your-connection/"><u>2024'S Elite List of Wi-Fi Expanders to Maximize Your Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-no-cost-sms-applications-for-apples-mobile-phones/"><u>Best No-Cost SMS Applications for Apple's Mobile Phones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-on-free-youtube-events-without-extra-cost/"><u>In 2024, Expert Advice on Free Youtube Events without Extra Cost</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-g54-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola G54 5G Through Google Earth?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seconds-to-enjoy-a-look-at-20mb-video-files/"><u>In 2024, Seconds to Enjoy - A Look at 20MB Video Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-pro-vs-macbook-air-showdown-which-fits-your-needs-better/"><u>IPad Pro Vs. MacBook Air Showdown: Which Fits Your Needs Better?</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fixes-for-stable-play-of-madden-nfl-20-on-windowsmac/"><u>Master the Fixes for Stable Play of Madden NFL 20 on Windows/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-oleauto32dll-not-detected-errors-top-tips-and-fixes/"><u>Troubleshooting OleAuto32.dll Not Detected Errors – Top Tips and Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722856632544-what-to-do-when-you-cant-find-d3dx92n26dll-error-solutions-unveiled/"><u>What to Do When You Can't Find d3dx9_2n_26.dll: Error Solutions Unveiled</u></a></li>
 </ul></div>
 

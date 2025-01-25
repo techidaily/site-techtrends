@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2025-01-15T20:15:58.615Z
-updated: 2025-01-19T21:45:14.843Z
+date: 2025-01-24T17:42:46.110Z
+updated: 2025-01-25T18:31:54.653Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -37,7 +37,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -47,6 +47,10 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -60,16 +64,12 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -77,6 +77,10 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,18 +161,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-from-concept-to-reality-an-elaborate-breakdown-of-toolwiz-photosapp-2023-edition/"><u>[New] From Concept to Reality An Elaborate Breakdown of Toolwiz PhotosApp, 2023 Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-crafting-yt-masterpieces-for-igtv-showcase/"><u>[Updated] Crafting YT Masterpieces for IGTV Showcase</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-comprehensively-reviewed-androids-lightroom-features-and-functions/"><u>[Updated] In 2024, Comprehensively Reviewed Android’s Lightroom Features & Functions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>[Updated] In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnose-and-resolve-powerpoint-speaker-errors-expert-tips/"><u>Diagnose & Resolve PowerPoint Speaker Errors - Expert Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disabling-closed-captioning-a-step-by-step-guide-for-amazon-prime-watchers/"><u>Disabling Closed Captioning: A Step-by-Step Guide for Amazon Prime Watchers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-hacks-for-starting-your-windows-in-troubleshooting-safe-mode/"><u>Expert Hacks for Starting Your Windows in Troubleshooting Safe Mode</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/nintendo-game-and-watch-super-mario-bros-review/"><u>Nintendo Game & Watch: Super Mario Bros. Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-minecraft-error-code-5-a-step-by-step-guide/"><u>Resolving Minecraft Error Code 5: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-missing-d3dx9nine-library-issues/"><u>Step-by-Step Guide: Correcting Missing D3dx9_nine Library Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-practices-to-thoroughly-sanitize-and-wipe-down-your-dell-device/"><u>The Best Practices to Thoroughly Sanitize and Wipe Down Your Dell Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-correct-missing-microsoft-msodll-file/"><u>Troubleshooting Steps to Correct Missing Microsoft mso.dll File</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-calm-cursor-3-pathways-to-mellow-watching-videos-on-youtube-57-chars/"><u>[New] In 2024, Calm Cursor 3 Pathways to Mellow Watching Videos on YouTube (57 Chars)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-combatting-loss-of-detail-on-online-video/"><u>[Updated] Combatting Loss of Detail on Online Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-easily-disableremove-youtube-shorts-permanently-in-2024/"><u>[Updated] How to Easily Disable/Remove YouTube Shorts Permanently, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/begin-your-journey-in-ai-access-to-15-premium-free-online-lessons-curated-by-lifewire/"><u>Begin Your Journey in AI - Access to 15 Premium Free Online Lessons Curated by Lifewire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-permanently-erase-your-yahoo-email/"><u>Complete Guide: Steps to Permanently Erase Your Yahoo! Email</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solution-for-shelldll-not-found-system-issue/"><u>Comprehensive Solution for 'Shell.dll Not Found' System Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-on-getting-your-samsung-blu-ray-player-back-online/"><u>Expert Tips on Getting Your Samsung Blu-Ray Player Back Online</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-how-can-i-use-imessage-on-an-android-device/"><u>Guide: How Can I Use iMessage on an Android Device?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-apple-addressed-the-top-challenge-of-fixing-electronics-yourself/"><u>How Apple Addressed the Top Challenge of Fixing Electronics Yourself</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-huawei-nova-y71-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Huawei Nova Y71 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860370118-in-2024-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>In 2024, Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>In 2024, Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-pc-effective-fixes-for-windows-11s-persistent-black-screen-issue/"><u>Reviving Your PC: Effective Fixes for Windows 11'S Persistent Black Screen Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-2024-learning-apps-our-ultimate-picks-for-knowledge-enthusiasts/"><u>The Best 2024 Learning Apps: Our Ultimate Picks for Knowledge Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-7-essentials-for-your-ultimate-summer-everyday-carry-list/"><u>Top 7 Essentials for Your Ultimate Summer Everyday Carry List</u></a></li>
 </ul></div>
 

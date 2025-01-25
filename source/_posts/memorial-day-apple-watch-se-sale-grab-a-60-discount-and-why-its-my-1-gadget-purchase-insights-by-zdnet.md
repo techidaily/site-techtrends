@@ -1,7 +1,7 @@
 ---
 title: Memorial Day Apple Watch SE Sale! Grab a $60 Discount & Why It's My #1 Gadget Purchase | Insights by ZDNET
-date: 2025-01-13T21:53:01.679Z
-updated: 2025-01-19T21:10:45.627Z
+date: 2025-01-23T16:29:55.778Z
+updated: 2025-01-25T17:01:25.682Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -89,22 +89,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[New] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-dismantling-youtube-ranks-factors-and-their-effects/"><u>[New] Dismantling YouTube Ranks Factors and Their Effects</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-how-to-edit-youtube-videos-in-imovie/"><u>[Updated] 2024 Approved How to Edit YouTube Videos in iMovie?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-expertly-edited-entries-anywhere-at-the-tap-of-a-finger-in-2e23/"><u>[Updated] Expertly Edited Entries, Anywhere at the Tap of a Finger in 2E23</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-504-gateway-timeouts-comprehensive-approaches-for-swift-resolution-and-recovery/"><u>Decoding 504 Gateway Timeouts: Comprehensive Approaches for Swift Resolution and Recovery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-pc/"><u>Download & Install Atheros Network Adapter Drivers on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/email-safety-first-a-complete-guide-on-the-process-of-whitelist-submission/"><u>Email Safety First: A Complete Guide on the Process of Whitelist Submission</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-the-best-clicking-tools-a-curated-list-of-5-android-auto-clicker-apps/"><u>Find the Best Clicking Tools: A Curated List of 5 Android Auto-Clicker Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-discs-to-digital-tracing-the-journey-of-netflixs-dvd-rental-program/"><u>From Discs to Digital: Tracing the Journey of Netflix's DVD Rental Program</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/laptop-guide-downloading-popular-movies-from-netflix-safely/"><u>Laptop Guide: Downloading Popular Movies From Netflix Safely</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-texts-rescue-methods-for-recovering-removed-iphone-notes/"><u>Lost Texts Rescue: Methods for Recovering Removed iPhone Notes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-repairing-your-androids-call-capabilities-a-step-by-step-guide/"><u>Master Repairing Your Android's Call Capabilities - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-espn-plus-viewing-expert-tips-for-connecting-with-lg-smart-television-systems/"><u>Mastering ESPN Plus Viewing: Expert Tips for Connecting with LG SMART Television Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-infinix-hot-40-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Hot 40 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recovering-lost-contacts-a-guide-to-retrieve-deleted-numbers-on-your-android-device/"><u>Recovering Lost Contacts: A Guide to Retrieve Deleted Numbers on Your Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ermanent-deactivation-the-ultimate-guide-to-youtube-shorts-for-2024/"><u>[New] Permanent Deactivation The Ultimate Guide to YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-art-and-science-behind-color-grading-tools-luts/"><u>[New] The Art and Science Behind Color Grading Tools (LUTs)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-8-best-converters-bringing-your-subs-into-srt-format/"><u>[Updated] 8 Best Converters Bringing Your Subs Into SRT Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/0-ssd-controller-the-revolutionary-e29t-unveiled-at-fms-2024/"><u>0 SSD Controller: The Revolutionary E29T Unveiled at FMS 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-manipulating-media-with-mastery-tools/"><u>2024 Approved Manipulating Media with Mastery Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-mac-applications-that-wont-start-up-properly/"><u>Easy Fixes for Mac Applications That Won’t Start Up Properly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-repair-missing-ocidll-errors/"><u>How To Correctly Address and Repair Missing oci.dll Errors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revamping-visual-performance-the-ultimate-process-to-update-ati-radeon-drivers-under-windows/"><u>Revamping Visual Performance: The Ultimate Process to Update ATI Radeon Drivers Under Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-costs-with-44-savings-the-ultimate-11-in-1-portable-hub-for-a-neat-workspace-now-on-sale-at-zdnet/"><u>Slash Your Costs with 44% Savings: The Ultimate 11-in-1 Portable Hub for a Neat Workspace - Now on Sale at ZDNet!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-turning-on-the-closed-captions-functionality-in-roku-system/"><u>Step-by-Step Solution: Turning On the Closed Captions Functionality in Roku System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-role-of-quick-memory-and-responsiveness-in-enhancing-pc-speed/"><u>The Role of Quick Memory & Responsiveness in Enhancing PC Speed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/to-update-or-not-exploring-the-benefits-of-ios-17/"><u>To Update or Not: Exploring the Benefits of iOS 17</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-parent-control-tools-and-services-recommended/"><u>Top 8 Parent Control Tools & Services Recommended</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-fixing-the-elusive-msvcr80dll-file-not-detected-issue/"><u>Troubleshooting Tips: Fixing the Elusive Msvcr80.dll File Not Detected Issue</u></a></li>
 </ul></div>
 

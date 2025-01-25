@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2025-01-15T21:11:18.002Z
-updated: 2025-01-19T21:05:42.683Z
+date: 2025-01-18T17:07:00.285Z
+updated: 2025-01-25T18:27:47.594Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -47,7 +43,7 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
@@ -64,6 +60,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -71,10 +71,6 @@ The Mac virtual display feature of the Vision Pro has been nice, but limited. In
 Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
 
@@ -93,7 +89,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -103,6 +99,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -115,7 +115,7 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -171,18 +171,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-advanced-video-editing-free-high-quality-pp-templates-for-2024/"><u>[Updated] Advanced Video Editing FREE High-Quality PP Templates for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-collection-the-best-11-streamers/"><u>2024 Approved Elite Collection The Best 11 Streamers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/anonymity-in-action-insta-stories-guide/"><u>Anonymity in Action Insta Stories Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-automate-email-organization-with-gmails-rule-setting-feature/"><u>How To Automate Email Organization With Gmail's Rule-Setting Feature</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/identifying-false-connections-on-social-media-platforms/"><u>Identifying False Connections on Social Media Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-flight-a-look-at-dji-phantom-3-professional/"><u>Mastering Flight A Look at DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/swift-shutter-speed-iphone-tricks-for-blur-magic/"><u>Swift Shutter Speed IPhone Tricks for Blur Magic</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-favorite-family-movies-to-watch-on-amazon-prime-video-july-edition/"><u>The Ultimate List of Favorite Family Movies to Watch on Amazon Prime Video - July Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbelievable-trend-in-tech-gadgets-more-vr-headsets-sold-than-airpods-on-black-friday-according-to-zdnet/"><u>Unbelievable Trend in Tech Gadgets: More VR Headsets Sold than AirPods on Black Friday, According to ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-new-languages-2024s-essential-free-learning-apps/"><u>Unlocking New Languages: 2024'S Essential Free Learning Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/viewing-guide-the-ultimate-order-of-how-to-train-your-dragon-films/"><u>Viewing Guide: The Ultimate Order of How to Train Your Dragon Films</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-image-browsing-the-ultimate-guide-to-pexels-wonders/"><u>[New] 2024 Approved Mastering Image Browsing The Ultimate Guide to Pexels Wonders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[New] 2024 Approved The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-mc-stronghold-constructions-for-2024/"><u>[New] Essential MC Stronghold Constructions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyy-leads-the-pack-in-idcs-innovative-software-solutions-landscape/"><u>Abbyy Leads the Pack in IDC's Innovative Software Solutions Landscape</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyys-top-tier-talent-scout-paula-dam-master-of-senior-acquisition-roles-and-techniques/"><u>ABBYY's Top-Tier Talent Scout, Paula Dam: Master of Senior Acquisition Roles and Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-engage-your-audience-in-live-discord-streams-easily/"><u>How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-phone-without-pin-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Phone without PIN</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>In 2024, Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-intel-hduhd-drivers-on-windows-11/"><u>Step-by-Step Guide to Downloading and Installing Intel HD/UHD Drivers on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-savings-with-promo-codes-insights-from-the-abbeyy-blog/"><u>Unlocking Savings with Promo Codes: Insights From the ABBEYY Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-personalized-visitor-analytics-and-seo-boost/"><u>Utilizing Cookiebot Technology for Personalized Visitor Analytics & SEO Boost</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-superior-user-experience-management-on-websites/"><u>Utilizing Cookiebot Technology for Superior User Experience Management on Websites</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
 

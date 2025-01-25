@@ -1,7 +1,7 @@
 ---
 title: "Apple's Fall Lineup Revealed: Explore New Technological Advancements in iPhone, iPad, Mac, and Beyond with Cutting-Edge AI Integration | ZDNet"
-date: 2025-01-12T17:06:53.719Z
-updated: 2025-01-19T16:56:34.122Z
+date: 2025-01-18T20:17:27.744Z
+updated: 2025-01-25T16:56:49.066Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -68,10 +72,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-profiles-visual-appeal/"><u>[Updated] 2024 Approved Elevate Your Profile's Visual Appeal</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-comparing-cameras-obs-vs-twitch-studio-edition-for-2024/"><u>[Updated] Comparing Cameras OBS vs Twitch Studio Edition for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhance-visibility-editing-igtv-video-texts/"><u>[Updated] In 2024, Enhance Visibility Editing IGTV Video Texts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-key-points-in-youtube-monetization-overhaul/"><u>[Updated] In 2024, Key Points in YouTube Monetization Overhaul</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-efficiency-with-these-30-powerful-gmail-hotkeys/"><u>Boost Efficiency with These 30 Powerful Gmail Hotkeys</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bringing-snapchat-to-your-workstation-tips-and-tricks-for-pc-users/"><u>Bringing Snapchat to Your Workstation: Tips & Tricks for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-faults-getting-roblox-to-launch-expert-advice/"><u>Common Faults: Getting Roblox to Launch - Expert Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-how-to-hide-subtitles-while-watching-on-amazon-prime-video/"><u>Guide: How To Hide Subtitles While Watching On Amazon Prime Video</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-tech-trick-how-to-code-a-multifunctional-home-remote-control/"><u>Innovative Tech Trick: How To Code A Multifunctional Home Remote Control</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/introduction-to-dynamic-graphic-techniques-for-2024/"><u>Introduction to Dynamic Graphic Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-unfreezing-your-days-gone-adventure-on-pc/"><u>Mastering the Art of Unfreezing Your Days Gone Adventure on PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-subtitle-editing-tools-for-mac-a-comprehensive-list-of-alternatives-for-2024/"><u>New Best Subtitle Editing Tools for Mac A Comprehensive List of Alternatives for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/powerpoint-refresh-protocols-enhancing-and-updating-presentations-easily/"><u>PowerPoint Refresh Protocols: Enhancing and Updating Presentations Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-to-resolve-normalizdll-file-absence-issues-on-your-pc/"><u>Solutions to Resolve Normaliz.dll File Absence Issues on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-file-alerts-for-windows-the-msvcr80-dll-solution/"><u>Troubleshooting 'Missing File' Alerts for Windows: The MSVCR80 DLL Solution</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-your-iphones-audio-library-with-top-podcast-strategies-for-2024/"><u>[Updated] Unlocking Your iPhone's Audio Library with Top Podcast Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-generate-funny-image-for-giphy/"><u>2024 Approved Generate Funny Image for Giphy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/brightening-tactics-for-android-video-enthusiasts/"><u>Brightening Tactics for Android Video Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fix-invalid-label-alert-in-win11/"><u>Guide to Fix Invalid Label Alert in Win11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-iphone-photos-discover-how-to-retrieve-them-with-proven-recovery-applications/"><u>Lost iPhone Photos? Discover How to Retrieve Them with Proven Recovery Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-to-restore-text-input-functionality-when-cursor-goes-white-on-windows-pc/"><u>Solutions to Restore Text Input Functionality When Cursor Goes White on Windows PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-boot-issues-on-your-mac-a-step-by-step-guide-to-utilizing-recovery-mode/"><u>Solving Boot Issues on Your Mac: A Step-by-Step Guide to Utilizing Recovery Mode</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-without-words-cultivating-bilingual-intimacy/"><u>Speaking Without Words: Cultivating Bilingual Intimacy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-applications-from-the-microsoft-store-onto-your-windows-10-system/"><u>Step-by-Step Guide: Adding Applications From the Microsoft Store Onto Your Windows 10 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-screen-images-with-an-opaque-mouse-pointer-on-windows-10/"><u>Step-by-Step Guide: Capturing Screen Images with an Opaque Mouse Pointer on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-creating-utilizing-and-organizing-passkeys-in-windows-11/"><u>Step-by-Step Guide: Creating, Utilizing & Organizing Passkeys in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-12-tycoons-the-ultimate-challenge-for-every-gamer-for-2024/"><u>Top 12 Tycoons - The Ultimate Challenge for Every Gamer for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-sound-problems-resolved-how-to-fix-your-speakers-now/"><u>Windows 11 Sound Problems Resolved: How to Fix Your Speakers Now</u></a></li>
 </ul></div>
 

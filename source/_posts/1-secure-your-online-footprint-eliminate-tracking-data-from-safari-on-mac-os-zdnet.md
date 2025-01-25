@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2025-01-17T19:06:07.532Z
-updated: 2025-01-19T20:40:38.660Z
+date: 2025-01-21T17:58:30.107Z
+updated: 2025-01-25T16:54:44.674Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,24 +119,21 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-logos-sculpt-your-brand-with-stock-imagery/"><u>[New] Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-dji-spark-ultimate-portable-camera-uav-guide/"><u>[New] In 2024, DJI Spark Ultimate Portable Camera UAV Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-investing-5-yields-hundreds-of-new-viewers-now/"><u>[New] Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-efficacy-of-vlcs-screen-recording-for-2024/"><u>[New] The Efficacy of VLC's Screen Recording for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipated-launch-of-samsung-galaxy-s25-insights-on-pricing-release-timeline-and-features/"><u>Anticipated Launch of Samsung Galaxy S25 - Insights on Pricing, Release Timeline & Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-release-of-over-600-tailored-apps-for-apples-upcoming-vision-pro-headset-revealed-by-zdnet/"><u>Exclusive Release of Over 600 Tailored Apps for Apple's Upcoming Vision Pro Headset Revealed by ZDNET</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-effortless-transactions-with-apple-pay-via-your-apple-watch/"><u>Guide: Effortless Transactions with Apple Pay via Your Apple Watch</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-8-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 8 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-address-missing-or-not-found-d3dx9-27-dll-files-issues/"><u>How to Successfully Address Missing or Not Found D3dx9_ 27 DLL Files Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-message-communication-a-guide-to-sending-texts-from-your-ipad/"><u>Mastering Message Communication: A Guide to Sending Texts From Your iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-social-media-insights-methods-to-find-out-who-shared-your-content-on-facebook/"><u>Mastering Social Media Insights: Methods to Find Out Who Shared Your Content on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-jscriptdll-file-absent-or-lost-issue/"><u>Resolving the 'JScript.dll' File Absent or Lost Issue</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-case-against-relying-on-major-tech-companies-insights-from-microsofts-recent-downtimes/"><u>The Case Against Relying on Major Tech Companies: Insights From Microsoft's Recent Downtimes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-insiders-tutorial-monitoring-and-recognizing-google-doc-observers/"><u>The Insider's Tutorial: Monitoring and Recognizing Google Doc Observers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-multi-tasking-power-a-how-to-manual-for-enabling-split-screen-on-macbook-air/"><u>Unlocking Multi-Tasking Power: A How-To Manual for Enabling Split Screen on MacBook Air</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-x5-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco X5 Pro Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expertly-selected-best-9-video-conference-apps-for-cross-platform-use/"><u>[New] In 2024, Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-virtual-frontiers-in-business-technology-and-strategy/"><u>[New] Virtual Frontiers in Business Technology and Strategy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-tips-for-shooting-profesional-youtube-videos/"><u>[Updated] 2024 Approved 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-zoomview-partition-inspection/"><u>[Updated] In 2024, ZoomView Partition Inspection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724766646461-makemkv/"><u>「無料トライアルから正式利用へ:MakeMKVキーの申し込み手順と登録コード拡張方法」</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-adapting-to-diverse-candidate-personalities/"><u>2024 Approved Adapting to Diverse Candidate Personalities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-the-latest-iphones-discover-if-upgrading-to-iphone-15-makes-sense-over-iphone-e/"><u>Comparing the Latest iPhones: Discover If Upgrading to iPhone 15 Makes Sense Over iPhone E</u></a></li>
+<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-now-official-macxdvd-ultimate-toolkit-for-dvd-ripping-hd-video-conversion-and-seamless-data-transfer/"><u>Download Now: [OFFICIAL] MacXDVD Ultimate Toolkit for DVD Ripping, HD Video Conversion & Seamless Data Transfer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/download-top-macx-youtube-downloader-macxdvd-app-delivers-lightning-fast-4k-video-retrieval-from-youtube/"><u>Download Top MacX YouTube Downloader: MacXDVD App Delivers Lightning-Fast 4K Video Retrieval From YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-dvd-ripping-from-mac-to-android-device/"><u>Effortless DVD Ripping From Mac to Android Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/erfolgreiches-konvertieren-von-dvds-mit-macx-dvd-ripper-pro-auf-windows-schritt-fur-schritt-anleitung-zum-umwandeln-in-mp4aviflv-fur-desktop-und-smartphones1/"><u>Erfolgreiches Konvertieren Von DVDs Mit MacX DVD Ripper Pro Auf Windows - Schritt-Für-Schritt Anleitung Zum Umwandeln in MP4/AVI/FLV Für Desktop Und Smartphones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exposing-security-flaws-how-anycubics-3d-printers-were-compromised/"><u>Exposing Security Flaws: How Anycubic's 3D Printers Were Compromised</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-revert-from-ios-17-to-ios-934-on-your-iphone-or-ipad-step-by-step-guide/"><u>How to Revert From iOS 17 to iOS 9.3.4 on Your iPhone or iPad - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/subtle-sound-level-lowering-in-fl-studio-for-2024/"><u>Subtle Sound Level Lowering in FL Studio for 2024</u></a></li>
 </ul></div>
 

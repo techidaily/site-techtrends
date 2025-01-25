@@ -1,7 +1,7 @@
 ---
 title: Experience Deep Bass with Skullcandy Smokin' Buds XT – Premium Sound Quality Without Breaking the Bank
-date: 2024-08-30T15:06:07.436Z
-updated: 2024-08-31T15:06:07.436Z
+date: 2025-01-24T16:09:08.643Z
+updated: 2025-01-25T17:33:11.981Z
 tags:
   - product-reviews
 categories:
@@ -99,6 +99,10 @@ Expand
 
 ![The Skullcandy Smokin' Buds in front of the case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/the-skullcandy-smokin-buds-infront-of-the-case-2jpg_53055597620_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  The Smokin’ Buds XT have a sleek appearance and come in two color options, True Black and Matcha. The box contents include the buds and charging case, a USB-C to USB-A charging cable, small and large-sized ear tips (the buds are already equipped with the medium size), and a user manual.
@@ -107,32 +111,28 @@ Hannah Stryker / How-To Geek
 
  Fit-wise, things started improving though. I had no issue getting the Buds XT to fit my ears and was able to use the ear tips that were already equipped. Jumping and jostling did nothing to unseat them either, and the fact that these are IPX4 buds makes them ideal for sports and exercise.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Controls: Works As Advertised
 
 ![The Skullcandy Smokin' Buds case open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-skullcandy-smokin-buds-case-open-2jpg_53054632267_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Like the Skullcandy Dime 3 True Wireless Earbuds, the Smokin’ Buds XT have touch controls mapped to the top of both earbud stems. Unlike the Dime 3 though, the Buds XT taps and long-presses won’t send the earbuds deeper into your ear canals. This is because the Buds XT stems don’t have a clicking mechanism. Instead, you just tap or long-press the upper stem’s flat surface.
 
  Commands include play, pause, call answering, and call hang-ups with a single tap, volume up with two taps, volume down with three taps, and EQ preset cycling with four taps. You can also press and hold to call up your phone or tablet’s voice assistant. There are also a few manual pairing and re-pairing commands you can execute by pressing and holding for longer than three seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Sound Quality: Awesome for What It Is
 
 ![A person holding the Skullcandy Smokin' Buds earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-a-skullcandy-smokin-buds-earbudjpg_53055597230_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Considering the super-low price, I actually thought the Smokin’ Buds XT sounded really good. Over the course of several days, I put them through a number of audio tests, encompassing multiple music genres and podcasts.
@@ -142,6 +142,10 @@ Hannah Stryker / How-To Geek
  Note that I didn’t say “wide soundstage,” because that’s not the case here. Metal, pop, and acoustic tracks all sound fairly compressed, but to be honest, I didn’t really mind. For less than $50, I think Skullcandy did a nice job at honing in on the most important parts of a sound mix (especially if you’re really into bass).
 
  As a frequent “WTF with Marc Maron” listener, I played through several interviews using the Buds XT, and they all sounded pretty good. There’s even a dedicated podcast-listening mode, which highlights the upper mids and pulls out a lot of the low end. I did prefer doing most of my listening in Standard mode though, which adds a little extra punch to the audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Call Quality: Not Awesome
 
@@ -154,12 +158,9 @@ Hannah Stryker / How-To Geek
 ![A person holding the Skullcandy Smokin' Buds case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-the-skullcandy-smokin-buds-case-1jpg_53054631867_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Skullcandy claims the Smokin’ Buds XT should last for up to eight hours on a full charge, with 12 additional listening hours provided with a fully charged case.
@@ -174,10 +175,6 @@ Hannah Stryker / How-To Geek
 
 ![The Skullcandy Smokin' Buds XT Wireless Earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/skullcandy-smokin-buds-xt-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 #####  Skullcandy Smokin' Buds XT Wireless Earbuds
 
 7/ 10 
@@ -192,8 +189,6 @@ For less than $50, the Skullcandy Smokin Buds’ XT deliver the kind of sound we
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +196,26 @@ For less than $50, the Skullcandy Smokin Buds’ XT deliver the kind of sound we
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[New] Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-enhance-visibility-amplify-impact-video-seo/"><u>[Updated] 2024 Approved Enhance Visibility, Amplify Impact (Video SEO)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>2024 Approved Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-accuracy-achieved-learn-how-to-utilize-the-in-built-measure-app-effectively/"><u>Android Accuracy Achieved: Learn How to Utilize the In-Built Measure App Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/command-line-magic-automating-archive-creation-in-windows/"><u>Command Line Magic: Automating Archive Creation in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-a-simple-guide-for-deactivating-and-deleting-your-tiktok-username/"><u>DIY: A Simple Guide for Deactivating and Deleting Your TikTok Username</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-underrated-free-speech-to-text-apps-for-mac/"><u>Essential, Underrated, Free Speech-to-Text Apps for Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-8-leading-applications-to-simplify-handling-multiple-cellphone-contacts/"><u>Explore the 8 Leading Applications to Simplify Handling Multiple Cellphone Contacts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-x100-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo X100 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/1716271114475-how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan/"><u>How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-audio-output-when-your-chromecast-is-mute-or-silent/"><u>How to Restore Audio Output When Your Chromecast Is Mute or Silent</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-capturing-minute-details-on-video/"><u>In 2024, Expert Techniques for Capturing Minute Details on Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone/"><u>In 2024, How to Transfer Videos and Photos From a PC to an iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-using-your-chromecast-remote-efficiently/"><u>Master the Art of Using Your Chromecast Remote Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-msstdfmtdll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the 'msstdfmt.dll File Not Found' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-great-debate-unpacking-the-contrast-between-cable-and-streaming-media/"><u>The Great Debate: Unpacking the Contrast Between Cable and Streaming Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fix-guide-for-roku-closed-captioning-issues/"><u>The Ultimate Fix Guide for Roku Closed Captioning Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-launch-of-the-google-pixel-tablet-official-announcement-and-key-features/"><u>Upcoming Launch of the Google Pixel Tablet - Official Announcement & Key Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-platinum-un-logiciel-haute-vitesse-pour-extraire-facilement-tous-vos-contenus-sur-dvd-securises-sous-windows-10/"><u>WinX DVD Ripper Platinum : Un Logiciel Haute Vitesse Pour Extraire Facilement Tous Vos Contenus Sur DVD Sécurisés Sous Windows 10.</u></a></li>
+</ul></div>
 

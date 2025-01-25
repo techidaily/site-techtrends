@@ -1,7 +1,7 @@
 ---
 title: Master Your Workflow with Tailored Focus Modes in macOS Monterey by Avoiding Unwanted Interruptions | ZDNET
-date: 2025-01-18T19:58:40.025Z
-updated: 2025-01-19T20:54:36.403Z
+date: 2025-01-21T17:12:33.599Z
+updated: 2025-01-25T17:51:05.707Z
 tags:
   - apple
 categories:
@@ -27,22 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -51,6 +47,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,18 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ios-compatible-psp-games-the-five-finest/"><u>[New] In 2024, IOS Compatible PSP Games The Five Finest</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2023s-scarcity-pioneering-vr-content-shortcomings/"><u>[Updated] 2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-the-action-the-fastest-most-effective-home-filmmaking-tricks/"><u>2024 Approved Capture the Action The Fastest, Most Effective Home Filmmaking Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-os-11-upgrade-unveiled-discover-the-latest-innovative-features-now-available-zdnet/"><u>Apple Watch OS 11 Upgrade Unveiled - Discover the Latest Innovative Features Now Available | ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worldwide-the-powerhouses-behind-your-online-social-experience-facebook-twitter-instagram-youtube/"><u>Connecting Worldwide: The Powerhouses Behind Your Online Social Experience (Facebook, Twitter, Instagram, Youtube)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-adding-code-extracts-seamlessly-into-your-word-files/"><u>Guide: Adding Code Extracts Seamlessly Into Your Word Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-discovering-individual-email-addresses-online-safely-and-ethically/"><u>Guide: Discovering Individual Email Addresses Online Safely and Ethically</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2250930-9781844038121-living-with-time-to-think/"><u>Living with Time to Think | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/nintendo-switch-bundles-what-included-in-each-package/"><u>Nintendo Switch Bundles: What Included in Each Package?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-tips-how-to-turn-off-facebook-on-android-phones-and-tablets/"><u>Quick Tips: How To Turn Off Facebook On Android Phones and Tablets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/remedies-and-strategies-for-when-your-computer-cant-find-winhttpdll/"><u>Remedies and Strategies for When Your Computer Can't Find Winhttp.dll</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-photo-glitches-on-windows-10-a-quick-guide/"><u>[Updated] Preventing Photo Glitches on Windows 10 A Quick Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-top-rated-learning-platforms-a-comprehensive-review/"><u>2024’S Top-Rated Learning Platforms: A Comprehensive Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/audiences-unmasked-the-insiders-method-for-seeing-who-watches-your-youtube-content/"><u>Audiences Unmasked: The Insider’s Method for Seeing Who Watches Your YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-no-cost-software-updater-tools-top-11-picks/"><u>Discover the Best No-Cost Software Updater Tools (Top 11 Picks)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-ways-to-link-up-a-ps4-controller-for-gaming-sessions/"><u>Easy Ways to Link Up a PS4 Controller for Gaming Sessions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-fixing-windows-10-computer-wont-power-off-problem/"><u>Expert Guide: Fixing Windows 10 Computer Won't Power Off Problem</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-all-encompassing-iptv-access-strategies/"><u>In 2024, All-Encompassing IPTV Access Strategies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insights-into-the-functionality-of-windows-iscsi-initiator/"><u>Insights Into the Functionality of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leading-no-cost-screen-recorders-for-windows-top-5-list-for-2024/"><u>Leading No-Cost Screen Recorders For Windows – Top 5 List for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ary-gains-mr-beast-in-focus/"><u>Monetary Gains Mr. Beast in Focus</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-best-alarm-clock-applications/"><u>The Ultimate List: Best Alarm Clock Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-desktop-with-personalized-dynamic-clock-screen-savers-using-these-5-tools/"><u>Transform Your Desktop with Personalized, Dynamic Clock Screen Savers Using These 5 Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-missing-launchdll-files-in-windows/"><u>Troubleshooting Steps for Missing 'Launch.dll' Files in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-streaming-espn-on-demand-on-an-lg-smart-set-top-unit/"><u>Ultimate Guide: Streaming ESPN On Demand on an LG Smart Set-Top Unit</u></a></li>
 </ul></div>
 

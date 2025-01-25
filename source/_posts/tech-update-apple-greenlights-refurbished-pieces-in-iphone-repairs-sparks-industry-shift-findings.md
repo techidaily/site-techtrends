@@ -1,7 +1,7 @@
 ---
 title: "Tech Update: Apple Greenlights Refurbished Pieces in iPhone Repairs, Sparks Industry Shift | Findings"
-date: 2025-01-18T18:50:13.575Z
-updated: 2025-01-19T17:30:24.550Z
+date: 2025-01-20T16:53:34.356Z
+updated: 2025-01-25T18:30:33.673Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -50,7 +46,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -69,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -77,6 +73,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -132,6 +132,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -146,10 +150,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -162,13 +162,13 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,22 +204,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/wartime/"><u>/Wartime</u></a></li>
-<li><a href="https://fox-access.techidaily.com/crafting-clear-accessible-podcast-xml-files-for-listeners/"><u>Crafting Clear, Accessible Podcast XML Files for Listeners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-ways-to-hook-up-nintendo-switch-console-with-your-home-tv-setup/"><u>Easy Ways to Hook Up Nintendo Switch Console with Your Home TV Setup</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-combine-multiple-images-onto-a-single-webpage-flipbuilder-tutorial/"><u>How To Combine Multiple Images Onto A Single Webpage - FlipBuilder Tutorial</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-13-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 13 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-narratives-how-to-use-chatgpt-for-engaging-text-games/"><u>Journey Through Narratives: How to Use ChatGPT for Engaging Text Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-security-a-users-manual-for-changing-passwords-on-the-newly-renamed-social-media-app/"><u>Mastering Security: A User's Manual for Changing Passwords on the Newly Renamed Social Media App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-skype-screening-2024s-ultimate-career-guide/"><u>Mastering the Skype Screening: 2024'S Ultimate Career Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigate-facebooks-network-6-straightforward-techniques-to-find-people/"><u>Navigate Facebook's Network: 6 Straightforward Techniques to Find People</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-ssl-certificate-issues-for-a-safe-browsing-experience/"><u>Overcoming SSL Certificate Issues for a Safe Browsing Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209903168-9781788360227-seeing/"><u>Seeing | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-websites-for-easier-apartment-hunting/"><u>Top 10 Websites for Easier Apartment Hunting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-6-best-discount-site-picks-to-slash-your-spending/"><u>Top 6 Best Discount Site Picks to Slash Your Spending</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-mfplatdll-error-on-your-computer/"><u>Troubleshooting the Missing mfplat.dll Error on Your Computer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-incorporating-songs-seamlessly-into-powerpoint-slideshow/"><u>Ultimate Guide: Incorporating Songs Seamlessly Into PowerPoint Slideshow</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-earning-potential-revenue-from-youtube-advertisements-for-2024/"><u>[New] Exploring Earning Potential Revenue From YouTube Advertisements for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-smart-eco-friendly-screen-tech-compilation-for-2024/"><u>[New] Smart, Eco-Friendly Screen Tech Compilation for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-synthesize-shots-the-photo-montage-methodology/"><u>[Updated] Synthesize Shots The Photo Montage Methodology</u></a></li>
+<li><a href="https://win-docs.techidaily.com/excel-9/"><u>如何恢复失去或丢失的 Excel 文件: 走向成功的 9 种方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automated-conversion-tracking-with-the-ai-driven-solution-from-cookiebot/"><u>Automated Conversion Tracking with the AI-Driven Solution From Cookiebot</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-zmi-powerpack-20000-analysis-your-ultimate-portable-energy-solution/"><u>Comprehensive ZMI PowerPack 20000 Analysis - Your Ultimate Portable Energy Solution</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-fix-sound-card-problems-using-external-applications-insights-by-yl-computing-and-yl-software/"><u>How to Fix Sound Card Problems Using External Applications - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>In 2024, Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home-for-2024/"><u>Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-world-glitches-solutions-to-stop-the-continuous-freezing/"><u>New World Glitches: Solutions to Stop the Continuous Freezing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/renover-votre-gestion-de-documents-avec-abbyy-chez-rhenus-services-partages-optimises/"><u>Rénover Votre Gestion De Documents Avec ABBYY Chez Rhenus : Services Partagés Optimisés</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionize-mobile-banking-explore-the-power-of-ocr-on-smartphones-insights-from-the-abbyy-blog/"><u>Revolutionize Mobile Banking: Explore the Power of OCR on Smartphones - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-management-struggles-with-tech-change-amidst-rising-disruptions-insights-from-the-latest-abbyy-survey/"><u>Top Management Struggles with Tech Change Amidst Rising Disruptions - Insights From the Latest ABBYY Survey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-the-future-of-tech-labor-with-intelligent-solutions-from-abbyy-and-blue-prism/"><u>Transforming the Future of Tech Labor with Intelligent Solutions From ABBYY and Blue Prism</u></a></li>
+<li><a href="https://techtrends.techidaily.com/two-key-practices-for-optimal-health-embrace-online-fitness-guidance-and-unplug-regularly-learn-why-on-the-aabby-blog/"><u>Two Key Practices for Optimal Health: Embrace Online Fitness Guidance & Unplug Regularly – Learn Why on the AABBY Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleashing-website-efficiency-with-cookiebot-technology-solutions/"><u>Unleashing Website Efficiency with Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-a-remarkable-iphone-functionality-upgrade-by-apple-unnoticed-by-many/"><u>Unveiling a Remarkable iPhone Functionality Upgrade by Apple Unnoticed by Many</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-advanced-user-tracking-and-site-optimization/"><u>Utilizing Cookiebot Technology for Advanced User Tracking and Site Optimization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/webinaire-specialise-tirer-pleinement-parti-des-donnees-pour-transformer-votre-chaine-dapprovisionnement-avec-lexpertise-dabbyy/"><u>Webinaire Spécialisé : Tirer Pleinement Parti Des Données Pour Transformer Votre Chaine D'Approvisionnement Avec L'Expertise D'ABBYY</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ugreen's NASync DXP2800 Reviewed - Striking Hardware with Subpar Software Performance
-date: 2024-08-30T15:06:25.990Z
-updated: 2024-08-31T15:06:25.990Z
+date: 2025-01-20T19:35:16.454Z
+updated: 2025-01-25T18:52:37.691Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  Ugreen is shaking up the network-attached storage (NAS) market with NASync, a collection of attractive, powerful, and reasonably-priced home servers. I've spent about a month testing the two-bay NASync DXP2800, and while I'm impressed by the hardware, Ugreen's ecosystem lacks the mature software experience that most customers need.
 
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Ugreen NASync DXP2800
 
@@ -76,6 +80,10 @@ Expand
 
  The [NASync DXP2800](https://nas.ugreen.com/products/ugreen-nasync-series-network-attached-storage) was sent to me before Ugreen opened its [Kickstarter campaign](https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/) or began filling orders. Many of the complaints that I make in my review will (hopefully) be resolved by the company. So, I'll try to keep this article up to date as Ugreen introduces new software improvements, though it may take several days or weeks for me to evaluate such improvements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Impressive Hardware for the Price
 
 ![The UGREEN NASYNC DXP2800 with a partially removed drive bay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug3.jpg) 
@@ -98,9 +106,6 @@ Andrew Heinzman / How-To Geek
 
  The only concern I have in terms of hardware is power consumption. Ugreen says that the DXP2800 will fluctuate between 50 and 70 watts depending on its power state, which seems a bit excessive for a two-bay NAS device. I'd love to know if power consumption can be better optimized in software in the future. Also, while this has nothing to do with the amount of power the DXP2800 uses, I was surprised to see that this NAS runs on a third-party 9v power supply. I'm using a pre-release unit that was (presumably) used for testing or press events, so maybe it's just a pre-release quirk.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Easy To Upgrade
 
  Out of the box, the NASync DXP2800 has 8GB of built-in DDR4 memory, which may prove to be a limitation for some users. Thankfully, you can upgrade to 16GB of RAM, and the upgrade process is outrageously easy.
@@ -115,9 +120,6 @@ Close
 
  However, the NASync DXP2800 offers no form of PCIe upgradeability. If you were hoping to upgrade from 2.5 GbE to a 10 Gig connection, tough luck.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  An Operating System in Its Infancy
 
  The Debian-based Ugreen operating system, called UGOS, needs a lot of work. It currently lacks third-party app support, meaning that you can't run [Docker](https://instagram-clips.techidaily.com/2024-approved-the-quick-guide-to-disconnect-on-ig/), [Plex Media Server](https://screen-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/), or other home server applications. UGOS also lacks any [hybrid RAID](https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-ace-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/) options, it doesn't support cloud storage backups (to Dropbox, Google Drive, etc), and it doesn't provide 2FA protection when remote access is enabled.
@@ -136,12 +138,13 @@ Close
 
  Flashing an alternate OS will have no impact on the NASync hardware warranty. This has been confirmed to me by Ugreen, though it's also mentioned in the NASync Kickstarter listing. However, the company suggests that people stick with UGOS. I have intentionally refrained from using Unraid or TrueNAS during my review process, but I will begin testing alternate operating systems after this review is published.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Security Concerns
 
 ![UG8 locking hard drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug8-locking-hard-drive.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
 
@@ -155,16 +158,14 @@ Andrew Heinzman / How-To Geek
 
  If security experts vouch for UGOS, or if the UGOS operating system goes a few years without any security incidents, I'll adjust my opinion. For now, I'm erring on the side of caution and gut feeling.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Ugreen NASync DXP2800?
 
 ![The UGREEN NASYNC DXP2800 with a drive bay removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug14.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Andrew Heinzman / How-To Geek
 
  As of April 2024, I feel that [Ugreen's NASync devices](https://nas.ugreen.com/products/ugreen-nasync-series-network-attached-storage) are mainly for the enthusiast crowd. If you've never set up a home server, or if you want to access advanced NAS functionality without flashing an alternate OS, you should probably buy a NAS from a more established brand.
@@ -174,8 +175,9 @@ Andrew Heinzman / How-To Geek
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Ugreen NASync DXP2800
 
 6/ 10 
@@ -190,8 +192,6 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +199,22 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-construct-a-careerscape-on-camera-by-critiquing-closets/"><u>[Updated] Construct a Careerscape on Camera by Critiquing Closets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-optimize-your-social-presence-with-efficient-fb-covers/"><u>[Updated] In 2024, Optimize Your Social Presence with Efficient FB Covers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tailoring-youtube-experience-on-the-worlds-largest-social-network/"><u>[Updated] In 2024, Tailoring YouTube Experience on the World's Largest Social Network</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-top-win11-videography-software-selections/"><u>[Updated] Unveiling Top Win11 Videography Software Selections</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-traffic-with-advanced-cookiebot-driven-analytics/"><u>Boost Your Traffic with Advanced Cookiebot-Driven Analytics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-traffic-with-our-advanced-cookiebot-driven-optimization-tools/"><u>Boost Your Traffic with Our Advanced Cookiebot-Driven Optimization Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-pdfs-and-images-to-searchable-text-files-on-ios-utilize-finereader-for-easy-scanning-and-ocr/"><u>Convert Your PDFs and Images to Searchable Text Files on iOS – Utilize FineReader for Easy Scanning and OCR</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-insights-elevating-data-driven-decisions-in-marketing/"><u>Cookiebot Driven Insights: Elevating Data-Driven Decisions in Marketing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-personalization-elevating-digital-presence-and-seo-strategies-effectively/"><u>Cookiebot-Driven Personalization: Elevating Digital Presence & SEO Strategies Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-driven-solutions-boost-your-sites-analytics-and-tracking/"><u>Cookiebot-Driven Solutions: Boost Your Site's Analytics & Tracking</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-productivity-with-macos-montereys-full-screen-mode-feature-a-step-by-step-guide-to-craft-your-own-focused-workspace/"><u>Enhancing Productivity with macOS Monterey's Full-Screen Mode Feature - A Step-by-Step Guide to Craft Your Own Focused Workspace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-complexity-openais-ai-evolution-gpt-14/"><u>Simplifying Complexity: OpenAI's AI Evolution (GPT-1–4)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlock-the-secrets-of-high-quality-gopro-vlogging-for-2024/"><u>Unlock the Secrets of High-Quality GoPro Vlogging for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/weaving-a-captivating-tiktok-closure-narrative-for-2024/"><u>Weaving a Captivating TikTok Closure Narrative for 2024</u></a></li>
+</ul></div>
 

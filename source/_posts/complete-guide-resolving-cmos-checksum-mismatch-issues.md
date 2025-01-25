@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Resolving CMOS Checksum Mismatch Issues"
-date: 2024-08-30T15:10:45.108Z
-updated: 2024-08-31T15:10:45.108Z
+date: 2025-01-21T17:12:17.483Z
+updated: 2025-01-25T19:04:14.478Z
 categories:
   - BestProducts
 description: "This Article Describes Complete Guide: Resolving CMOS Checksum Mismatch Issues"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
@@ -31,24 +35,21 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Wearable Device With Direct Audio Features
 
@@ -56,14 +57,6 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple, Inc / USPTO
 
  It's not hard to imagine that this device could be a next-generation AirPods product. It also brings to mind wearable computers like the[Humane AI pin](https://www.theverge.com/24126502/humane-ai-pin-review) . While that particular product hasn't succeeded, the concept of a wearable device with a next-generation interface could likely crop up more in the coming years.
@@ -73,9 +66,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -85,8 +75,9 @@ Apple, Inc / USPTO
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
@@ -94,8 +85,9 @@ Apple, Inc / USPTO
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -106,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +111,21 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-endless-preservation-of-instagrams-free-and-easy-for-2024/"><u>[New] Endless Preservation of Instagrams, Free & Easy for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-delve-into-the-science-of-asmrs-positive-impact/"><u>[Updated] Delve Into the Science of ASMR's Positive Impact</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-smallscope-snag-watch-reviews/"><u>[Updated] In 2024, SmallScope Snag Watch Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dragon-ball-viewing-guide-the-ultimate-way-to-experience-dbz-saga-sequentially/"><u>Dragon Ball Viewing Guide: The Ultimate Way to Experience DBZ Saga Sequentially</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficient-solutions-for-when-your-microsoft-word-document-wont-open-correctly/"><u>Efficient Solutions for When Your Microsoft Word Document Won't Open Correctly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30 5G?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-wireless-network-issues-on-samsung-smartphones/"><u>How to Resolve Wireless Network Issues on Samsung Smartphones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v27-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V27 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>In 2024, Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect</u></a></li>
+<li><a href="https://techtrends.techidaily.com/powerpoint-revision-strategies-improving-presentations-with-simple-techniques/"><u>PowerPoint Revision Strategies: Improving Presentations with Simple Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solve-your-nvidia-shadowplay-glitches-master-playback-and-recording-features/"><u>Solve Your Nvidia Shadowplay Glitches - Master Playback and Recording Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722874499038-unboxing-samsungs-latest-innovation-the-galaxy-z-fold-series-6-pricing-details-and-release-schedule-revealed/"><u>Unboxing Samsung's Latest Innovation - The Galaxy Z Fold Series 6: Pricing Details and Release Schedule Revealed!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>Updated Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
+</ul></div>
 

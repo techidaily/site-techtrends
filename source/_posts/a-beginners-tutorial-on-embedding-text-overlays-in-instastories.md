@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Tutorial on Embedding Text Overlays in InstaStories
-date: 2025-01-17T21:37:37.403Z
-updated: 2025-01-19T21:51:39.024Z
+date: 2025-01-21T19:55:00.936Z
+updated: 2025-01-25T20:30:06.961Z
 categories:
   - BestProducts
 description: This Article Describes A Beginner's Tutorial on Embedding Text Overlays in InstaStories
@@ -17,7 +17,7 @@ thumbnail: https://www.lifewire.com/thmb/D7EdS_MHuVzjVop6wq6cjiqxwXI=/540x405/fi
 ## Master the Art of Transferring Printouts to Computers Without Hassle
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -31,14 +31,10 @@ thumbnail: https://www.lifewire.com/thmb/D7EdS_MHuVzjVop6wq6cjiqxwXI=/540x405/fi
 ![Scanning a Document Using a Flatbed Scanner](https://www.lifewire.com/thmb/4ttTzWS9kaWy0rhmgoB3ZRzAwXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-1-97c5bf309a29400a92d8ba96f4af302b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 lolostock / Getty Images
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Capturing a Scan From a Printer on a Windows PC
 
@@ -58,18 +54,18 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
@@ -80,7 +76,7 @@ lolostock / Getty Images
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
@@ -101,6 +97,10 @@ lolostock / Getty Images
 
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
@@ -145,22 +145,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-explore-the-world-of-video-calls-hangouts-for-android-for-2024/"><u>[New] Explore the World of Video Calls Hangouts for Android for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-introduction-to-effective-telegram-promotion-for-rookies-for-2024/"><u>[New] Introduction to Effective Telegram Promotion for Rookies for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-vct-pro-capture-assessment-full-review-for-2024/"><u>[New] VCT Pro Capture Assessment Full Review for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>[Updated] Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-deceptive-consequences-of-genuine-popularity-illusions/"><u>[Updated] In 2024, The Deceptive Consequences of Genuine Popularity Illusions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-video-editing-revolutionized-intense-examination-of-vivacut-24/"><u>2024 Approved Video Editing Revolutionized Intense Examination of VivaCut '24</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-for-correcting-wlanapidll-unavailability-on-computers/"><u>Comprehensive Solutions for Correcting WLanAPIDLL Unavailability on Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-top-8-streamers-dominating-television/"><u>Explore the Top 8 Streamers Dominating Television</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-switching-off-synchronized-text-in-your-amazon-prime-viewing-experience/"><u>Guide to Switching Off Synchronized Text in Your Amazon Prime Viewing Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y200e-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y200e 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-an-instagram-deactivation-expert-advice-on-restoring-your-profile-and-more/"><u>Overcoming an Instagram Deactivation: Expert Advice on Restoring Your Profile and More</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-viewing-tiktok-content-on-a-tv-screen/"><u>Step-by-Step Instructions for Viewing TikTok Content on a TV Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-buyers-guide-to-picking-the-right-power-strip-with-surge-protection/"><u>The Ultimate Buyer's Guide to Picking the Right Power Strip with Surge Protection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-monoliths-mammoth-data-models-highlighted/"><u>Top 6 Monoliths: Mammoth Data Models Highlighted</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-banishing-your-bass-boxs-buzzing-noise/"><u>Ultimate Guide: Banishing Your Bass Box's Buzzing Noise</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-connecting-your-mac-to-tv-via-airplay/"><u>Ultimate Guide: Connecting Your Mac to TV via AirPlay</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-2023-edition-of-effortless-instagram-filter-usage-unveiled/"><u>[New] 2024 Approved The 2023 Edition of Effortless Instagram Filter Usage Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-premier-online-streaming-options-for-faith-communities/"><u>[Updated] 2024 Approved Premier Online Streaming Options for Faith Communities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-journey-to-high-definition-mastering-sdr-to-hdr-conversion/"><u>[Updated] In 2024, Journey to High Definition Mastering SDR to HDR Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-phone-options-for-enhanced-gear-vr-immersion/"><u>2024 Approved Explore the Best Phone Options for Enhanced Gear VR Immersion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/accounts-payable-software-measuring-cost-effectiveness-and-profitability-insights/"><u>Accounts Payable Software: Measuring Cost-Effectiveness and Profitability Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-ocr-technology-from-abbyy-enhances-operational-efficiency-for-leading-london-based-law-office/"><u>Advanced OCR Technology From ABBYY Enhances Operational Efficiency for Leading London-Based Law Office</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-innovation-showcase-at-the-abbyy-summit-pioneering-the-next-era-of-intelligence/"><u>AI Innovation Showcase at the ABBYY Summit: Pioneering the Next Era of Intelligence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic 5 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automated-conversion-tracking-with-cookiebot-boost-your-websites-performance/"><u>Automated Conversion Tracking with Cookiebot: Boost Your Website's Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automated-marketing-solutions-enhanced-with-cookiebot-technology/"><u>Automated Marketing Solutions: Enhanced with Cookiebot Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chief-pioneer-of-abbyy-speaks-on-future-innovations-during-the-premier-artificial-intelligence-summit-in-new-york-2019-highlights/"><u>Chief Pioneer of ABBYY Speaks on Future Innovations During the Premier Artificial Intelligence Summit in New York - 2019 Highlights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chip-vonburg-elevated-to-vital-role-senior-executive-for-abbyys-client-experience/"><u>Chip vonBurg Elevated to Vital Role: Senior Executive for ABBYY's Client Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-of-digital-marketing-tactics-within-the-financial-sector-insights-by-abbyy/"><u>Comprehensive Analysis of Digital Marketing Tactics Within the Financial Sector - Insights by ABBYY</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-solutions-in-photo-recovery-and-repair-techniques/"><u>Leading Solutions in Photo Recovery & Repair Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-in-game-photography-essential-techniques-to-improve-screen-shot-quality/"><u>Mastering In-Game Photography: Essential Techniques to Improve Screen Shot Quality</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-6-iphone-security-apps-a-comprehensive-review/"><u>Top 6 iPhone Security Apps: A Comprehensive Review</u></a></li>
 </ul></div>
 

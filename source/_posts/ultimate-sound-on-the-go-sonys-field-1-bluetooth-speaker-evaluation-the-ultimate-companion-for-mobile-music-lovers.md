@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Sound on the Go: Sony's Field 1 Bluetooth Speaker Evaluation - The Ultimate Companion for Mobile Music Lovers"
-date: 2024-08-30T15:06:28.183Z
-updated: 2024-08-31T15:06:28.183Z
+date: 2025-01-24T20:57:50.000Z
+updated: 2025-01-25T16:02:29.390Z
 tags:
   - product-reviews
 categories:
@@ -44,6 +44,10 @@ adventures.
 
 [$98 at Amazon](https://www.amazon.com/dp/B0CXL4FQBK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002642&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsony-ult-field-1-review%2F&asc%5Fcampaign=Authority) [$129 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpromo%2Fsony-ult) [$129 at Sony](https://electronics.sony.com/audio/speakers/all-speakers/p/srsult10-b) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Sony ULT Field 1 will be available in the coming months for $129\. It comes in black, orange, off-white, and forest gray. The speaker replaces the previous Sony SRS-XE200 model. The Field 1 is the smaller of the two new speakers, with the Field 7 being the bigger, more substantial music maker.
@@ -70,12 +74,13 @@ adventures.
 
  IP67 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Is the Field 1 Speaker For?
 
 ![Person holding Sony ULT Field 1 over a pool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/person-holding-sony-ult-field-1-over-a-pool.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -91,13 +96,14 @@ Tyler Hayes / How-To Geek
 
 Left to right: Sonos Roam, Field 1, and SRS-XE200
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  There's an ULT Button For Extra Bass
 
 ![Close up of the buttons on teh Sony ULT Field 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/close-up-of-the-buttons-on-teh-sony-ult-field-1.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Speaking of the SRS-XE200, I found the Field 1 to have better clarity with an all-around better sound than the previous model. I thought the old speaker often sounded muddy and didn’t seem to have much mid-range clarity.
@@ -122,16 +128,14 @@ Tyler Hayes / How-To Geek
 
  There's a USB-C port on the back for recharging the unit. The rubber cover hiding the port was easy enough to pop off and wasn't too stiff to maneuver around. All around the battery life and powering the product was fine—two thumbs up.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Sony ULT Field 1?
 
 ![human hand holding Sony ULT Field 1 showing the side](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/human-hand-holding-sony-ult-field-1-showing-the-side.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  As a portable Bluetooth speaker that you can keep in the car or bring around, the [Sony ULT Field 1](https://www.amazon.com/dp/B0CXL4FQBK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002642&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsony-ult-field-1-review%2F&asc%5Fcampaign=Authority) is a terrific choice. It’s versatile enough for all climate types and produces a big enough sound to give gatherings some background music. I loved its form and sound, but I especially love its $129 retail price point which makes it a competitive option among other low-cost Bluetooth speakers.
@@ -139,13 +143,11 @@ Tyler Hayes / How-To Geek
 ![Sony ULT Field 1 standing vertical and laying vertical](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/edaab4f2-6e42-4af6-a252-c3af280f8e74.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Sony ULT Field 1
 
 9/ 10 
@@ -164,8 +166,6 @@ adventures.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +173,26 @@ adventures.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>[New] 2024 Approved Pro Snipping Made Simple The Top 5 PC Screen Capture Apps Revealed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-fast-tracking-tiktok-filming-the-ultimate-playbook-for-2024/"><u>[New] Fast-Tracking TikTok Filming The Ultimate Playbook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-to-easy-nft-crafting/"><u>[New] Step-by-Step to Easy NFT Crafting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-create-memorable-thumbnails-discover-these-8-youtube-aids/"><u>[Updated] In 2024, Create Memorable Thumbnails - Discover These 8 YouTube Aids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-leading-live-streaming-services-a-detailed-comparison/"><u>[Updated] Leading Live Streaming Services A Detailed Comparison</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-the-secret-ingredient-behind-advanced-analytics-and-personalization/"><u>Cookiebot: The Secret Ingredient Behind Advanced Analytics and Personalization</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-the-secret-ingredient-behind-effective-online-tracking-solutions/"><u>Cookiebot: The Secret Ingredient Behind Effective Online Tracking Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-your-key-to-advanced-website-personalization-and-targeting/"><u>Cookiebot: Your Key to Advanced Website Personalization and Targeting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decryptage-des-reglements-sur-les-cookies-par-abbyy-une-vue-generale/"><u>Décryptage Des Règlements Sur Les Cookies Par ABBYY: Une Vue Générale</u></a></li>
+<li><a href="https://techtrends.techidaily.com/driven-with-cookiebot-enhancing-your-websites-performance/"><u>Driven with Cookiebot: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-online-advertising-with-cutting-edge-cookiebot-solutions/"><u>Elevate Your Online Advertising with Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevating-your-websites-visibility-through-advanced-cookiebot-tools/"><u>Elevating Your Website's Visibility Through Advanced Cookiebot Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/embarking-on-a-journey-to-knowledge-begin-your-wisdom-quest-with-abbyy-learn-more-on-our-blog/"><u>Embarking on a Journey to Knowledge: Begin Your Wisdom Quest with ABBYY | Learn More on Our Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/empower-your-website-with-cookiebot-advanced-user-tracking-solutions/"><u>Empower Your Website with Cookiebot: Advanced User Tracking Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-beginners-bonanza-affordable-profitable-channel-options/"><u>In 2024, Beginner's Bonanza Affordable, Profitable Channel Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-g2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo G2 Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/level-up-your-gameplay-the-6-step-guide-to-making-chatgpt-the-perfect-dungeon-master-ally/"><u>Level Up Your Gameplay: The 6-Step Guide to Making ChatGPT the Perfect Dungeon Master Ally</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nocturnal-notions-for-iphone-photographers-for-2024/"><u>Nocturnal Notions for iPhone Photographers for 2024</u></a></li>
+</ul></div>
 

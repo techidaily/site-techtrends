@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Overpriced for What Apple Intelligence Offers? Expert Analysis by ZDNet Revealed!
-date: 2025-01-14T17:55:23.847Z
-updated: 2025-01-19T16:45:24.894Z
+date: 2025-01-18T17:38:30.281Z
+updated: 2025-01-25T18:01:58.723Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +99,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -113,10 +117,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,22 +158,21 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-1-global-musical-views/"><u>[New] Top 1 Global Musical Views</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-photobooth-glitch-unraveling-video-lags/"><u>[Updated] Photobooth Glitch Unraveling Video Lags</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/14-ways-to-make-irresistible-gourmet-vids-for-2024/"><u>14 Ways to Make Irresistible Gourmet Vids for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/anticipating-the-arrival-apple-watch-series-release-date-cutting-edge-specs-price-analysis-and-current-headlines/"><u>Anticipating the Arrival: Apple Watch Series Ⅷ Release Date, Cutting-Edge Specs, Price Analysis & Current Headlines</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/becoming-a-seo-guru-top-ten-facebook-optimization-tactics-for-2024/"><u>Becoming a SEO Guru Top Ten Facebook Optimization Tactics for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-and-compete-a-step-by-step-guide-to-playing-games-on-ps5-with-others/"><u>Connect and Compete: A Step-by-Step Guide to Playing Games on PS5 With Others</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-6-amazing-free-substitutes-for-adobe-photoshop/"><u>Discover 6 Amazing Free Substitutes for Adobe Photoshop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/evaluating-vlc-for-screen-recordings/"><u>Evaluating VLC for Screen Recordings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-accessing-netflix-through-your-gaming-console-nintendo-switch-included/"><u>Guide to Accessing Netflix Through Your Gaming Console, Nintendo Switch Included!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-prevent-apple-music-from-auto-playing-next-tracks/"><u>How To Prevent Apple Music From Auto-Playing Next Tracks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-screen-share-netflix/"><u>How to Screen Share Netflix</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola Moto G23</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-correct-sequence-viewing-lord-of-the-rings-trilogy-step-by-step/"><u>The Correct Sequence: Viewing 'Lord of the Rings' Trilogy Step-by-Step</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-flirting-improving-dating-strategies-using-chatgpt-technology/"><u>The Future of Flirting: Improving Dating Strategies Using ChatGPT Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-insiders-handbook-to-deciphering-snapchat-emojis/"><u>The Insider's Handbook to Deciphering Snapchat Emojis</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-loop-life-tips-to-make-your-boomerangs-addictive-for-2024/"><u>The Loop Life Tips to Make Your Boomerangs Addictive for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/why-the-apple-ipad-pro-2018-11-inches-stands-out-as-the-premier-choice-in-high-end-tablets/"><u>Why the Apple iPad Pro 2018 (11 Inches) Stands Out as the Premier Choice in High-End Tablets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cost-effective-high-performance-asmr-microphones-guide/"><u>[New] 2024 Approved Cost-Effective, High-Performance ASMR Microphones Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-virtual-venue-vaults-audiences/"><u>[New] Virtual Venue Vaults Audiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ideal-selections-the-best-9-mobile-video-meeting-solutions-reviewed/"><u>[Updated] 2024 Approved Ideal Selections The Best 9 Mobile Video Meeting Solutions Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-firefox-pip-simplified-for-the-everyday-user/"><u>[Updated] Firefox PIP Simplified for the Everyday User</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-rated-desktop-video-recorders-for-pcmac/"><u>[Updated] In 2024, Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diydvd/"><u>「DIY：DVD画像品質を劇的に改善する簡単方法！初心者も楽しめる解説」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2-access-premium-films-for-free-in-1080p-resolution-iconic-hollywood-and-bollywood-selections/"><u>2. Access Premium Films for Free in 1080P Resolution: Iconic Hollywood and Bollywood Selections</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-guide-to-final-cut-pro-for-film-professionals/"><u>2024 Approved Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compatible-high-definition-media-playback-sony-samsung-lg-and-tcls-guide-to-4k-format-compatibility/"><u>Compatible High-Definition Media Playback: Sony, Samsung, LG & TCL's Guide to 4K Format Compatibility</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-latest-from-digiarty-software-powerful-mac-dvd-ripping-and-conversion-app-now-available/"><u>Discover the Latest From Digiarty Software - Powerful Mac DVD Ripping and Conversion App Now Available!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-guide-how-to-transform-mp4-videos-into-wmv-format-using-your-mac-including-big-sur-systems/"><u>Effortless Guide: How to Transform MP4 Videos Into WMV Format Using Your Mac, Including Big Sur Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-up-your-iphones-storage-by-easily-deleting-heic-image-files-what-you-need-to-know/"><u>Free Up Your iPhone's Storage by Easily Deleting HEIC Image Files - What You Need to Know</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-nvidia-rtx-2070-super-drivers-compatible-with-windows-10-and-11-systems/"><u>Get the Most Recent Nvidia RTX 2070 Super Drivers: Compatible with Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-without-password-by-drfone-android/"><u>How To Unlock Nubia Red Magic 9 Pro+ Phone Without Password?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-multimedia-with-macx-mobile-premium-cross-platform-video-converter-for-all-your-apple-and-android-gadgets/"><u>Master Multimedia with MacX Mobile - Premium Cross-Platform Video Converter for All Your Apple and Android Gadgets!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/telescope-truth-expose/"><u>Telescope Truth Exposé</u></a></li>
 </ul></div>
 

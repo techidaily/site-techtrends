@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day | ZDNet Analysis"
-date: 2025-01-13T19:53:03.474Z
-updated: 2025-01-19T18:10:26.438Z
+date: 2025-01-22T20:58:04.562Z
+updated: 2025-01-25T16:19:33.934Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
@@ -60,7 +64,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -69,16 +73,12 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -89,6 +89,10 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You want the "just right" AirPods
 
 If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier AirPods 4 have more audio features and some hardware upgrades. The AirPods 3 don't have noise cancellation or conversation awareness, a feature that quiets your music when the earbuds' microphones pick up on you trying to have a conversation. Additionally, the mid-tier AirPods 4's case has better water and dust resistance and wireless charging compatibility.
@@ -98,10 +102,6 @@ If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier 
 You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPods since they give users the best of both worlds. You get upgraded audio features not found in the second or third-generation AirPods without offering too many advanced features found in the AirPods Pro 2.
 
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -137,19 +137,20 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[Updated] From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-a58-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo A58 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-inserting-text-based-programming-into-microsoft-word/"><u>Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/expert-iphone-macro-photography-tips-and-tricks/"><u>Expert iPhone Macro Photography Tips and Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-2022-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE (2022) Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolve-shaky-and-fluttering-screens-on-surface-pro-expert-tips/"><u>Resolve Shaky and Fluttering Screens on Surface Pro - Expert Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-your-routine-explore-these-top-7-alarm-clock-app-recommendations/"><u>Simplify Your Routine: Explore These Top 7 Alarm Clock App Recommendations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-indicating-emails-have-been-read-in-googles-mail-service/"><u>Step-by-Step: Indicating Emails Have Been Read in Google's Mail Service</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unlocking-the-best-vr-experience-in-drone-aerial-sports-for-2024/"><u>Unlocking the Best VR Experience in Drone Aerial Sports for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-roku-express-and-stick-key-contrasts-explored/"><u>Unveiling Roku Express and Stick: Key Contrasts Explored</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-entertainment-setting-up-amazon-firestick-with-a-home-theater-projector/"><u>Wireless Entertainment: Setting up Amazon Firestick with a Home Theater Projector</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-masterclass-syncing-your-social-media-with-urls/"><u>[New] In 2024, Masterclass Syncing Your Social Media with URLs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-preferred-mkv-player-choices-on-macos/"><u>[Updated] Preferred MKV Player Choices on macOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-perfect-recording-companion-10-best-on-spotify-platforms/"><u>2024 Approved Perfect Recording Companion 10 Best on Spotify Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-awaken-calm-top-copyright-free-legal-music-playlists/"><u>In 2024, Awaken Calm Top Copyright-Free, Legal Music Playlists</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-isprings-screencap-capabilities/"><u>In 2024, Exploring iSpring's Screencap Capabilities</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcp-is-capable-enough-to-merge-the-reverse-option-with-retiming-effects-so-that-something-innovative-can-be-developed-even-with-simple-editing-effor/"><u>In 2024, FCP Is Capable Enough to Merge the Reverse Option with Retiming Effects so that Something Innovative Can Be Developed Even with Simple Editing Efforts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/quick-fixes-for-privacy-concerns-in-piscart-images-for-2024/"><u>Quick Fixes for Privacy Concerns in PiscArt Images for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nubia-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rediscovering-the-classics-msn-gamespy-and-winamp-a-trip-down-memory-lane/"><u>Rediscovering the Classics: MSN, GameSpy & Winamp - A Trip Down Memory Lane</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/secure-boot-techniken-zur-kodierung-von-systemkopien-auf-heterogenen-computereinheiten/"><u>Secure Boot: Techniken Zur Kodierung Von Systemkopien Auf Heterogenen Computereinheiten</u></a></li>
+<li><a href="https://techtrends.techidaily.com/securing-your-data-a-step-by-step-guide-to-encrypting-a-usb-flash-drive-in-windows-1011/"><u>Securing Your Data: A Step-by-Step Guide to Encrypting a USB Flash Drive in Windows 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-complete-restoration-of-windows-11-system/"><u>Step-by-Step Guide: Complete Restoration of Windows 11 System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-launching-windows-powershell-with-administrative-privileges-on-windows-10/"><u>Ultimate Guide: Launching Windows PowerShell with Administrative Privileges on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-hidden-pixels-comprehensive-tutorial-for-finding-any-picture-saved-in-windows-10-systems/"><u>Uncover Hidden Pixels: Comprehensive Tutorial for Finding Any Picture Saved in Windows 10 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-hands-free-sound-transforming-your-android-smartphone-into-a-bluetooth-speaker-for-windows-computers/"><u>Unlocking Hands-Free Sound: Transforming Your Android Smartphone Into a Bluetooth Speaker for Windows Computers</u></a></li>
 </ul></div>
 

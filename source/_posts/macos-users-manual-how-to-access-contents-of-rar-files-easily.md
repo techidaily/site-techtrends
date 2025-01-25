@@ -1,7 +1,7 @@
 ---
 title: "MacOS Users' Manual: How to Access Contents of RAR Files Easily"
-date: 2024-08-30T15:10:38.535Z
-updated: 2024-08-31T15:10:38.535Z
+date: 2025-01-23T18:17:15.115Z
+updated: 2025-01-25T20:09:33.607Z
 categories:
   - BestProducts
 description: "This Article Describes MacOS Users' Manual: How to Access Contents of RAR Files Easily"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 ---
 
 ## Mac Users Rejoice: How to Reset Your DNS Records Effortlessly
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * You can delete the DNS cache through Terminal. Press**Command** +**Space** to search for it.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 * El Capitan and older Mac OS X systems use different commands to clear DNS.
 
  This article explains how to delete the[DNS cache](https://www.lifewire.com/what-is-a-dns-cache-817514) on a Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the macOS Flush DNS Command
 
@@ -34,8 +43,13 @@ thumbnail: https://thmb.techidaily.com/bbd20210fc5074f713b02b244d2b1993bd6b418ee
 The password will not appear in Terminal as you type it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Flush DNS on Mac OS X
 
  The Mac OS X flush DNS command is different than the one used in modern versions of the operating system. Open Terminal and then enter the command that corresponds with your version:
@@ -48,8 +62,9 @@ The password will not appear in Terminal as you type it.
 * **Tiger** : lookupd -flushcache
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Flushing DNS Do?
 
  Each time you access a website in your web browser, the URL you enter is sent to a[DNS server](https://www.lifewire.com/what-is-a-dns-server-2625854) for translation into an[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) . This information is stored in a cache on your Mac for easy retrieval in the future, hence the term_DNS cache_ .
@@ -89,8 +104,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +111,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-identity-design-icons-and-thumbnails-essentials/"><u>[New] 2024 Approved Channel Identity Design Icons & Thumbnails Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-effortless-online-transformation-ff-vids-to-mp4-in-high-definition-for-2024/"><u>[New] Effortless Online Transformation FF Vids to MP4 in High Definition for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-5-best-facebook-video-downloader-for-ios/"><u>[Updated] 2024 Approved Top 5 Best Facebook Video Downloader for iOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-muddled-to-clear-mastering-photo-bg-removal-for-2024/"><u>[Updated] From Muddled to Clear Mastering Photo Bg Removal for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-the-major-oversight-of-the-most-recent-ipad-unveiling-solutions-for-apple-to-rectify-the-situation-zdnet/"><u>Addressing the Major Oversight of the Most Recent iPad Unveiling – Solutions for Apple to Rectify the Situation | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-substitutes-for-chatgpt-our-1-picks/"><u>Best Substitutes for ChatGPT: Our #1 Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-step-by-step-guide-to-installing-steelseries-drivers-on-windows-systems/"><u>Easy Step-by-Step Guide to Installing SteelSeries Drivers on Windows Systems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-premier-top-selections-affordable-sbd-applications/"><u>In 2024, Premier Top Selections Affordable SBD Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/jpeg-to-pdf-consolidation-how-to-compile-several-images-into-one-handy-document/"><u>JPEG to PDF Consolidation: How to Compile Several Images Into One Handy Document</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-connectivity-problems-a-step-by-step-solution-for-unresponsive-fire-stick-remotes/"><u>Resolving Connectivity Problems: A Step-by-Step Solution for Unresponsive Fire Stick Remotes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-dota-2-startup-issues-and-persistent-loading-interfaces/"><u>Resolving Dota 2 Startup Issues and Persistent Loading Interfaces</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-sending-a-virtual-gift-on-steam-platform/"><u>Ultimate Guide: Sending a Virtual Gift on Steam Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/utilizing-siris-text-reading-feature-a-comprehensive-guide-for-iphone-and-mac-users/"><u>Utilizing Siri’s Text Reading Feature: A Comprehensive Guide for iPhone & Mac Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2025-01-14T21:26:19.929Z
-updated: 2025-01-19T19:49:29.061Z
+date: 2025-01-19T20:46:20.365Z
+updated: 2025-01-25T18:39:19.142Z
 tags:
   - apple
 categories:
@@ -27,16 +27,12 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -54,10 +50,6 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -74,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -81,7 +77,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -100,6 +96,10 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -108,15 +108,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,21 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-social-screening-highest-view-counts-on-youtube/"><u>[New] In 2024, Social Screening Highest View Counts on YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-inverse-photo-journey-through-facebooks-vast-web-for-2024/"><u>[New] The Inverse Photo Journey Through Facebook’s Vast Web for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pivotal-elements-in-designing-effective-product-praise-videos/"><u>[Updated] Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-setting-the-stage-for-seamless-video-playback-in-facebook-network/"><u>2024 Approved Setting the Stage for Seamless Video Playback in Facebook Network</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-breakdown-navigating-the-world-of-gadgets-on-toms-digital-platform/"><u>Advanced Tech Breakdown: Navigating the World of Gadgets on Tom's Digital Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-next-big-apple-unveiling-time-table-and-buzzing-rumors/"><u>All You Need to Know About the Next Big Apple Unveiling: Time Table & Buzzing Rumors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-top-22-graphic-design-suites-and-applications/"><u>Comprehensive Guide to Top 22 Graphic Design Suites and Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-for-overcoming-login-errors-with-chatgpt/"><u>Expert Tips for Overcoming Login Errors with ChatGPT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hulus-errorrununk13-bug-easy-fixes-and-workarounds/"><u>Hulu's ERROR_RUNUNK13 Bug: Easy Fixes and Workarounds</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-google-tv-streaming-stick-launch-date-pricing-strategies-and-featured-performance-insights/"><u>Inside Scoop: Google TV Streaming Stick Launch Date, Pricing Strategies, and Featured Performance Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-best-free-online-calling-apps-of-2024-you-should-try/"><u>Top 12 Best Free Online Calling Apps of 2024 You Should Try</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-controlling-your-online-data-footprint/"><u>Understanding and Controlling Your Online Data Footprint</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-ray-tracing-technology-and-its-applications/"><u>Understanding Ray Tracing Technology and Its Applications</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-cut-edit-repeat-top-10-free-webm-video-editing-software/"><u>Updated In 2024, Cut, Edit, Repeat Top 10 Free WebM Video Editing Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-the-perfect-schedule-for-jobs-and-youtube-for-2024/"><u>[New] Crafting the Perfect Schedule for Jobs & YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlined-teaching-mastering-lecture-capture-on-mac-systems/"><u>[Updated] 2024 Approved Streamlined Teaching Mastering Lecture Capture on Mac Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/access-high-definition-hollywood-films-free-bilingual-english-and-hindi-downloads/"><u>Access High-Definition Hollywood Films Free: Bilingual (English & Hindi) Downloads</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battle-in-the-desk-space-how-huaweis-matestation-x-goes-head-to-head-with-apple-imac-a-comprehveive-review-and-buyers-guide-gadgetgeeks/"><u>Battle in the Desk Space: How Huawei's MateStation X Goes Head-to-Head with Apple iMac - A Comprehveive Review and Buyer's Guide | GadgetGeeks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-videos-flawlessly-with-the-top-free-avi-to-mkv-converter-for-macos-and-windows-10/"><u>Convert Your Videos Flawlessly with the Top Free AVI to MKV Converter for macOS & Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-effortless-steps-to-get-and-set-up-virtualdub-on-your-mac/"><u>Guide: Effortless Steps to Get and Set Up VirtualDub on Your Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-hardware-detection-errors-in-win/"><u>How To Correct Hardware Detection Errors in Win</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-leap-by-openai-with-the-new-gpt-4-generative-ai-model/"><u>Innovative Leap by OpenAI with the New GPT-ˈ4 Generative AI Model</u></a></li>
+<li><a href="https://win-guides.techidaily.com/quick-fixes-for-resolving-hulu-error-code-137-instantly/"><u>Quick Fixes for Resolving Hulu Error Code 137 Instantly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-for-fixing-whatsapp-malfunction-on-ios-devices-xsxrx87/"><u>Troubleshooting Guide for Fixing WhatsApp Malfunction on iOS Devices (XS/XR/X/8/7)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-finding-the-perfect-region-free-dvd-player-for-your-mac/"><u>Ultimate Guide to Finding the Perfect Region-Free DVD Player for Your Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-take-professional-screenshots-and-record-your-mac-display-with-crystal-clarity/"><u>Ultimate Guide: How to Take Professional Screenshots and Record Your Mac Display with Crystal Clarity</u></a></li>
+<li><a href="https://win-web3.techidaily.com/weekly-music-blast-elvis-and-more-on-karaoke-cloud-pro-join-our-fifty-song-journey/"><u>Weekly Music Blast! Elvis & More on Karaoke Cloud Pro - Join Our 'Fifty-Song' Journey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724765947878-xmedia-recode/"><u>XMedia Recode チュートリアル：ダウンロード方法と使用ガイド - 日本版</u></a></li>
 </ul></div>
 

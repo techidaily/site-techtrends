@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2025-01-18T18:57:04.640Z
-updated: 2025-01-19T19:46:12.293Z
+date: 2025-01-23T18:47:40.411Z
+updated: 2025-01-25T18:01:02.422Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -55,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-optimizing-your-imovie-content-for-vimeo-display-for-2024/"><u>[New] Optimizing Your iMovie Content for Vimeo Display for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-polishing-your-presentations-expert-video-editing-for-instagram/"><u>[New] Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>[Updated] In 2024, The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users-for-2024/"><u>8 Compelling No-Cost Video Calls Applications for PC and MAC Users for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-gamers-use-airpods-as-headsets-on-the-nintendo-switch-platform/"><u>Can Gamers Use AirPods as Headsets on the Nintendo Switch Platform?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-enemies-most-of-these-can-be-defeated-by-any-character-class/"><u>Common Enemies (Most of These Can Be Defeated by Any Character Class)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/email-monitoring-essentials-unveiling-gmails-read-receipts-system/"><u>Email Monitoring Essentials: Unveiling Gmail's 'Read Receipts' System</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-game-returns-and-reimbursements-on-the-steam-platform-expert-advice/"><u>Mastering Game Returns and Reimbursements on the Steam Platform – Expert Advice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximize-productivity-on-your-macbook-air-with-splitscreen-functionality/"><u>Maximize Productivity on Your MacBook Air with Splitscreen Functionality</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/melhores-ferramentas-de-design-digital-para-personalizar-posts-no-tiktok/"><u>Melhores Ferramentas De Design Digital Para Personalizar Posts No TikTok</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-phones-battery-without-a-charger-ingenious-tips-and-tricks/"><u>Revive Your Phone’s Battery Without a Charger: Ingenious Tips & Tricks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/routines-to-automate-amd-driver-acquisitionupdates/"><u>Routines to Automate AMD Driver Acquisition/Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-for-transferring-your-digital-content-from-laptop-to-tv-using-hdmi/"><u>Simple Steps for Transferring Your Digital Content From Laptop to TV Using HDMI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-2024-guide-leading-free-software-against-malware-threats/"><u>The 2024 Guide: Leading Free Software Against Malware Threats</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-secret-guide-browsing-instagram-as-a-non-member/"><u>The Secret Guide: Browsing Instagram as a Non-Member</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-d3derr-not-available-issues/"><u>Troubleshooting Tips for Overcoming 'D3DERR Not Available' Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-setting-up-your-ultra-hdtv-for-super-bowl-viewing/"><u>Ultimate Guide: Setting Up Your Ultra HDTV for Super Bowl Viewing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-car-insurance-how-it-works-benefits-and-when-to-get-non-owner-coverage/"><u>Understanding Car Insurance: How It Works, Benefits, and When to Get Non-Owner Coverage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-strategies-for-flawless-cricket-livestreams/"><u>[New] 2024 Approved Essential Strategies for Flawless Cricket Livestreams</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-facebook-live-views-roku-edition-for-2024/"><u>[New] Mastering Facebook Live Views Roku Edition for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-explore-exceptional-economically-priced-asmr-gear/"><u>[Updated] 2024 Approved Explore Exceptional, Economically-Priced ASMR Gear</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-skyline-spectacular-the-gopro-karma-edition/"><u>[Updated] In 2024, Skyline Spectacular The GoPro Karma Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/activating-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Activating Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-duckduckgo-understanding-its-features-and-safety/"><u>Exploring DuckDuckGo: Understanding Its Features and Safety</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-game-crashes-in-red-dead-online/"><u>How To Resolve PC Game Crashes in Red Dead Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-messaging-a-comprehensive-guide-to-sending-texts-from-your-ipad/"><u>Mastering Messaging: A Comprehensive Guide to Sending Texts From Your iPad</u></a></li>
+<li><a href="https://win-dash.techidaily.com/run-the-downloaded-installer-files-one-at-acuoonding-usually-in-alphabetical-order-the-installation-process-may-vary-depending-on-the-manufacturers-setup-ho235/"><u>Run the Downloaded Installer Files One at Acuoonding (Usually in Alphabetical Order). The Installation Process May Vary Depending on the Manufacturer's Setup; However, You Typically Need to Restart Your Computer After Completing the Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-d3dx926dll-file-cannot-be-found-problem/"><u>Step-by-Step Guide: Correcting the 'd3dx9_26.dll' File Cannot Be Found Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-star-wars-marathon-watch-the-saga-back-to-back-on-disneyplus/"><u>The Ultimate Guide to Star Wars Marathon - Watch the Saga Back-to-Back on Disney+</u></a></li>
+<li><a href="https://driver-error.techidaily.com/toms-tech-evaluations-comprehensive-reviews-and-advice-on-electronics/"><u>Tom's Tech Evaluations: Comprehensive Reviews & Advice on Electronics</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/troubleshoot-your-icloud-easily-overcome-the-vcard-export-issue-with-these-three-solutions/"><u>Troubleshoot Your iCloud: Easily Overcome the VCard Export Issue with These Three Solutions</u></a></li>
 </ul></div>
 

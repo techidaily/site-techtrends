@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Windows 11 Experience - Altering Taskbar Hue
-date: 2024-08-30T15:12:19.042Z
-updated: 2024-08-31T15:12:19.042Z
+date: 2025-01-21T16:23:14.281Z
+updated: 2025-01-25T17:01:21.918Z
 categories:
   - BestProducts
 description: This Article Describes Transforming Your Windows 11 Experience - Altering Taskbar Hue
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -28,9 +32,6 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -42,13 +43,15 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -64,9 +67,6 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,8 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,8 +88,9 @@ thumbnail: https://www.lifewire.com/thmb/__TQ9mu1jhMjFGlblpJv70ME1DE=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -126,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps/"><u>[New] 2024 Approved How To Broadcast Your Online Meeting via YouTube - Google Meet Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieving-maximum-comfort-in-vr-landscape/"><u>[New] Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-text-tilt-treasures-for-2024/"><u>[Updated] Top Text Tilt Treasures for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-twelve-souths-compact-and-stable-compasspro-gadget/"><u>Expert Review of Twelve South's Compact and Stable CompassPro Gadget</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-forza-horizon-4-running-perfectly-pro-tips-for-dealing-with-launch-difficulties/"><u>Get Forza Horizon 4 Running Perfectly: Pro Tips for Dealing with Launch Difficulties</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-navigating-to-your-personal-youtube-collection/"><u>In 2024, Navigating to Your Personal YouTube Collection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reimagining-text-in-photographyvideo/"><u>In 2024, Reimagining Text in Photography/Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-easy-guide-how-to-update-your-windows-10-drivers/"><u>Quick & Easy Guide: How to Update Your Windows 10 Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-simple-steps-determining-ram-usage-in-windows-operating-system/"><u>Quick and Simple Steps: Determining Ram Usage in Windows Operating System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-elevated-processor-load-by-windows-modules-installation-in-win10/"><u>Resolving Elevated Processor Load by Windows Modules Installation in Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/screenshot-mastery-tips-and-tricks-for-acer-notebook-users/"><u>Screenshot Mastery: Tips and Tricks for Acer Notebook Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-best-places-for-finding-attractive-free-tiktok-bg-videos/"><u>The Best Places for Finding Attractive Free TikTok BG Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-mod-video-editing-solutions-expert-approved-choices/"><u>Updated 2024 Approved Free MOD Video Editing Solutions Expert-Approved Choices</u></a></li>
+</ul></div>
 

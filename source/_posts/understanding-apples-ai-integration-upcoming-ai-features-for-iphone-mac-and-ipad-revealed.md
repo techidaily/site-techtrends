@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2025-01-18T17:31:47.894Z
-updated: 2025-01-19T20:51:36.994Z
+date: 2025-01-18T18:35:22.288Z
+updated: 2025-01-25T16:22:18.699Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -111,6 +111,10 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-zoom-techniques-for-peak-call-quality-for-2024/"><u>[New] Cutting Edge Zoom Techniques for Peak Call Quality for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-moment-in-time-windows-108-screenshots-explained/"><u>[Updated] In 2024, Moment in Time Windows 10/8 Screenshots Explained</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-top-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved Top 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/asus-ac68u-router-evaluation-fast-and-fortified-with-advanced-5g-connectivity/"><u>Asus AC68U Router Evaluation: Fast & Fortified with Advanced 5G Connectivity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-connection-methods-for-ps-vr-and-your-desktop-system/"><u>Easy Connection Methods for PS VR and Your Desktop System</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-and-solve-msvcr80dll-missing-issues/"><u>How to Correctly Address and Solve MSVCR80.DLL Missing Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-remove-the-built-in-news-update-section-on-your-pc-running-windows-11/"><u>How to Remove the Built-In News Update Section on Your PC Running Windows 11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snapchat-for-laptop-and-desktop-enthusiasts-master-the-mobile-app-on-a-larger-screen/"><u>Snapchat for Laptop and Desktop Enthusiasts: Master the Mobile App on a Larger Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-resolve-the-shell32dll-missing-error/"><u>Solutions: Resolve the 'Shell32.dll Missing' Error</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-iphone-video-editing-roundup-top-5-apps/"><u>The Ultimate iPhone Video Editing Roundup Top 5 Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whea-fatal-errors-demystified-your-ultimate-repair-manual/"><u>WHEA Fatal Errors Demystified - Your Ultimate Repair Manual</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-videos-making-a-statement-on-instagram/"><u>[New] YouTube Videos Making a Statement on Instagram</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-successful-steam-game-returns-and-refunds-process/"><u>Complete Guide: Successful Steam Game Returns and Refunds Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-how-you-can-master-asl-with-these-16-gratuitous-learning-aids/"><u>Discover How You Can Master ASL with These 16 Gratuitous Learning Aids</u></a></li>
+<li><a href="https://fox-place.techidaily.com/free-soundcloud-reader-seamless-offline-access-to-your-favorite-tunes/"><u>Free SoundCloud Reader – Seamless Offline Access to Your Favorite Tunes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70efrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70EFRP Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-the-fix-for-ralink-rt3290-connectivity-issues-on-windows-1187-systems/"><u>Mastering the Fix for Ralink RT3290 Connectivity Issues on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-macbook-with-touch-display-the-lowdown-on-pricing-launch-timeline-and-tech-specs/"><u>New MacBook with Touch Display - The Lowdown on Pricing, Launch Timeline, and Tech Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-quietness-expert-tips-for-restoring-sound-in-your-audio-unit/"><u>Reviving Quietness: Expert Tips for Restoring Sound in Your Audio Unit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-next-leap-in-gaming-inside-look-at-apples-rumored-revolutionary-game-mode-what-you-need-to-know-now/"><u>The Next Leap in Gaming? Inside Look at Apple's Rumored Revolutionary Game Mode - What You Need to Know Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-selection-of-80s-movies-to-stream-now/"><u>The Perfect Selection of '80S Movies to Stream Now</u></a></li>
 </ul></div>
 

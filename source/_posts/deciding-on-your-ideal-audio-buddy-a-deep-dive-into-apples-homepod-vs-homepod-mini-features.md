@@ -1,7 +1,7 @@
 ---
 title: "Deciding on Your Ideal Audio Buddy: A Deep Dive Into Apple’s HomePod vs HomePod Mini Features"
-date: 2025-01-18T17:43:18.255Z
-updated: 2025-01-19T16:55:02.024Z
+date: 2025-01-20T19:52:38.616Z
+updated: 2025-01-25T20:54:01.541Z
 tags:
   - apple
 categories:
@@ -102,6 +102,10 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -114,10 +118,6 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -127,10 +127,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -138,6 +134,10 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -148,7 +148,7 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
@@ -158,10 +158,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -178,7 +174,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -186,6 +182,10 @@ You can even drag and drop documents between your Mac or iPad, instead of waitin
 Screenshot by Jason Cipriani/ZDNet
 
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
 
@@ -239,19 +239,19 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bridging-the-gap-integrating-spotify-and-youtube-music-playlists/"><u>[New] 2024 Approved Bridging the Gap Integrating Spotify and YouTube Music Playlists</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[New] In 2024, Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-titlegenius-revolutionizing-video-title-generation/"><u>[New] TitleGenius Revolutionizing Video Title Generation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-autonomous-vehicle-latest-updates-pricing-insights-and-expected-launch-details/"><u>Apple's Autonomous Vehicle: Latest Updates, Pricing Insights & Expected Launch Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-overcoming-the-challenge-of-non-existent-gl32dll-in-open-graphics/"><u>Comprehensive Tips: Overcoming the Challenge of Non-Existent GL32.dll in Open Graphics</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-best-audio-to-text-conversion-apps-of-202-(elab)(elab)the-top-speech-recognition-applications-ranked/"><u>Expert Picks: Best Audio to Text Conversion Apps of 202 <Elab></Elab>The Top Speech Recognition Applications Ranked</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-harness-your-pcs-power-for-high-dynamic-range-video-magic/"><u>In 2024, Harness Your PC's Power for High Dynamic Range Video Magic</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g23-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Moto G23 Phone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-playlist-import-music-into-inshot/"><u>In 2024, Streamline Your Playlist Import Music Into InShot</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-server-rack-solutions-the-2024-market-overview/"><u>Leading Server Rack Solutions: The 2024 Market Overview</u></a></li>
-<li><a href="https://techtrends.techidaily.com/new-to-streaming-here-are-the-most-puzzling-twitch-chat-trends-explained/"><u>New to Streaming? Here Are the Most Puzzling Twitch Chat Trends Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-unexpected-closure-errors-in-frostpunk-gameplay-a-step-by-step-guide/"><u>Overcoming Unexpected Closure Errors in Frostpunk Gameplay: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-understanding-various-ipados-releases/"><u>Step-by-Step Guide to Understanding Various iPadOS Releases</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/xvid/"><u>원격 XviD 발음기 적용에 대한 단계별 가이드 프로그래밍</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-roku-experience-for-facebook-live-broadcasts-for-2024/"><u>[New] Enhancing Roku Experience for Facebook Live Broadcasts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-9-elite-webmicrone-recording-systems-for-professional-use-23/"><u>[Updated] 9 Elite Webmicrone Recording Systems for Professional Use ('23)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-anonymous-insights-best-story-viewing-apps/"><u>2024 Approved Anonymous Insights Best Story-Viewing Apps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-samsung-unpacked-2025-when-it-happens-plus-top-gadget-reveals/"><u>All About Samsung Unpacked 2025: When It Happens + Top Gadget Reveals</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-unresponsive-seek-help-fast/"><u>Canon Printer: Unresponsive, Seek Help Fast</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-cloud-based-gaming-a-focus-on-xbox-game-pass-ultimate/"><u>Navigating the World of Cloud-Based Gaming: A Focus on Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/perfecting-your-skills-a-beginners-guide-to-pokemon-unite-on-pc/"><u>Perfecting Your Skills: A Beginner's Guide to Pokemon Unite on PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smart-speaker-face-off-google-nest-audio-against-the-compact-nest-mini/"><u>Smart Speaker Face-Off: Google Nest Audio Against the Compact Nest Mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-free-html-code-editors-on-windows-no-cost-high-performance/"><u>Top 8 Free HTML Code Editors on Windows: No Cost, High Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-problem-of-your-ps5-dualsense-not-charging/"><u>Troubleshooting Tips: Solving the Problem of Your PS5 DualSense Not Charging</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/understanding-the-impact-of-system-restrictions-on-gpu-efficiency-insights-by-yl-computing/"><u>Understanding the Impact of System Restrictions on GPU Efficiency - Insights by YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-does-dvr-stand-for-exploring-the-world-of-digital-video-recording-devices/"><u>What Does DVR Stand For? Exploring the World of Digital Video Recording Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/windows-11-capture-top-eight-tools-ranked-for-2024/"><u>Windows 11 Capture Top Eight Tools Ranked for 2024</u></a></li>
 </ul></div>
 

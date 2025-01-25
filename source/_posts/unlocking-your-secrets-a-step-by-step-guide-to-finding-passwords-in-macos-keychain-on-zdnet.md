@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Secrets: A Step-by-Step Guide to Finding Passwords in macOS Keychain on ZDNet"
-date: 2025-01-17T19:51:57.802Z
-updated: 2025-01-19T21:23:59.126Z
+date: 2025-01-19T17:26:21.595Z
+updated: 2025-01-25T16:00:41.623Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -51,10 +51,6 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -71,7 +67,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -81,6 +77,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,24 +113,22 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-5-steps-to-transform-your-photos-hues-right-away-for-2024/"><u>[New] 5 Steps to Transform Your Photo's Hues Right Away for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instant-access-windows-photos-view/"><u>[New] Instant Access Windows Photos View</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-innovating-for-success-crafting-an-effective-instagram-video-marketing-blueprint/"><u>[Updated] 2024 Approved Innovating for Success Crafting an Effective Instagram Video Marketing Blueprint</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-immersive-insight-amd-radeon-update/"><u>[Updated] In 2024, Immersive Insight AMD Radeon Update</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-media-marketing-essential-ig-video-editors/"><u>[Updated] Mastering Media Marketing Essential IG Video Editors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-minecraft-video-tutorials/"><u>[Updated] The Essential Minecraft Video Tutorials</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/childs-drone-pick-top-five-suggestions-for-2024/"><u>Child's Drone Pick Top Five Suggestions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/combat-vr-motion-sickness-a-guide-for-2024/"><u>Combat VR Motion Sickness A Guide for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-dealing-with-steam-disk-writing-complications/"><u>Comprehensive Tips for Dealing with Steam Disk Writing Complications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-with-ease-top-five-smartphone-apps-for-making-lifelong-friendships/"><u>Connect with Ease: Top Five Smartphone Apps for Making Lifelong Friendships</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-exceptional-deals-on-mobile-devices-worldwide/"><u>Discover Exceptional Deals on Mobile Devices Worldwide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-hidden-advantages-parking-benefits-and-hov-lane-access-for-electric-vehicle-drivers/"><u>Exploring the Hidden Advantages: Parking Benefits & HOV Lane Access for Electric Vehicle Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/friendly-competition-playing-pokemon-go-together-for-maximum-fun-and-success/"><u>Friendly Competition: Playing 'Pokémon Go' Together for Maximum Fun and Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-turn-off-captions-and-subtitles-when-binge-watching-on-amazon-prime/"><u>How To Turn Off Captions & Subtitles When Binge-Watching On Amazon Prime</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/iphones-guide-to-spherical-videos-on-facebook-platform/"><u>IPhone's Guide to Spherical Videos on Facebook Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-non-charging-issues-in-airpods-discover-9-key-methods/"><u>Overcoming Non-Charging Issues in AirPods: Discover 9 Key Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>Streamline Your Media Experience Add Subtitles in Windows Media Player</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-homeowners-handbook-for-powering-up-your-electric-car-overnight/"><u>The Ultimate Homeowner's Handbook for Powering Up Your Electric Car Overnight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-activating-your-finders-toolbar/"><u>Unlocking the Secrets: A Step-by-Step Guide to Activating Your Finders Toolbar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>[Updated] 2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-grab-specialists-top-apps-for-windows-10-users/"><u>[Updated] In 2024, Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-new-ways-to-record-presentations/"><u>[Updated] In 2024, Unveiling New Ways to Record Presentations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-privacy-prioritized-procedures-uploading-and-sending-youtube-files-via-google/"><u>2024 Approved Privacy-Prioritized Procedures Uploading and Sending YouTube Files via Google</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-auto-clicking-tools-for-android-users-seeking-easy-installations/"><u>Best Auto-Clicking Tools for Android Users Seeking Easy Installations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bypassing-and-repairing-steam-unable-to-write-to-disc-essential-tips-and-tricks/"><u>Bypassing and Repairing 'Steam Unable to Write to Disc': Essential Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-your-hidden-gems-a-guide-to-finding-saved-instagram-reels/"><u>Discovering Your Hidden Gems: A Guide to Finding Saved Instagram Reels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-filming-tools-for-tourists/"><u>In 2024, Mobile Filming Tools for Tourists</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-14-pro-max-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 14 Pro Max Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-jscriptdll-cannot-be-found-dilemma-a-comprehensive-guide/"><u>Solving the 'JScript.dll Cannot Be Found' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-2024-ranking-of-optimal-gaming-pcs-how-to-get-started-from-affordable-entry-level-models-up-to-high-end-machines-over-4000/"><u>The 2024 Ranking of Optimal Gaming PCs: How to Get Started From Affordable Entry-Level Models up to High-End Machines Over $4,000</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-compact-tablet-guide-for-2n34-industry-insider-opinions-and-testing-cnet/"><u>Ultimate Compact Tablet Guide for 2N34: Industry Insider Opinions and Testing | CNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-keep-your-mac-awake-prevent-automatic-sleep-mode/"><u>Ultimate Guide: Keep Your Mac Awake – Prevent Automatic Sleep Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-for-windows-11-screenshot-hacks-learn-the-top-4-approaches/"><u>Ultimate Tutorial for Windows 11 Screenshot Hacks – Learn the Top 4 Approaches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-joy-with-7-fantastic-interactive-games-tailored-for-toddlers-online/"><u>Unleash Joy with 7 Fantastic Interactive Games Tailored for Toddlers Online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-style-and-performance-of-taotronics-latest-tt-dl16-modern-led-lamp/"><u>Unveiling The Style & Performance of TaoTronics' Latest TT-DL16 Modern LED Lamp</u></a></li>
 </ul></div>
 

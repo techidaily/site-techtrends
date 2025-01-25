@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Innovative Features of the Switchbot S10: The Revolutionary Water Refilling and Discharge Cycle in Robotic Cleaning Technology"
-date: 2024-08-30T15:06:15.389Z
-updated: 2024-08-31T15:06:15.389Z
+date: 2025-01-24T17:50:04.623Z
+updated: 2025-01-25T16:44:30.958Z
 tags:
   - product-reviews
 categories:
@@ -92,22 +92,19 @@ Patrick Campanale / How-To Geek
 
 ![SwitchBot S10 Robot Vacuum Auto Water Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-auto-water-station.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  This solves one of the biggest pain points with robot mops, in my opinion. The dirty water in a mop is always nasty, and something that can sometimes smell, and is something you wouldn’t want to spill when carrying it. So, the fact that the S10 can empty and refill itself is pretty stellar. In my testing of the robot, it did this perfectly every time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Be Ready To Do Some Plumbing Work, or Just Pick Up the External Water Tank
 
  When it comes to installing the water station, there’s a bit of plumbing that goes into it. It's critical to make sure you have a place for this to live before buying. Initially, I planned to install the water station in my guest bathroom under the toe kick. The station, however, didn’t fit there. So, I moved to my laundry room, where I planned to tie it into my washer water and drain lines. And, to my surprise, the ¾ to ½ tee was already in the package! Sadly, [my washer uses a different thread type](https://blog.boshart.com/ultimate-overview-of-connection-types-pictures-included) (GHT instead of NPT), so I wasn’t able to hook the S10 into my main water supply.
 
 ![SwitchBot S10 Robot Vacuum Auto Water Station with Buckets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-auto-water-station-with-buckets.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -121,9 +118,6 @@ Patrick Campanale / How-To Geek
 
 ![SwitchBot S10 Robot Vacuum AI Object Detection Moving Around Shoe](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-ai-object-detection-moving-around-shoe.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  Robot vacuums are nice in that they do a task for you, and can do it at any time of the day (or night). Well, having used several robot vacuums in the past, the S10 is definitely on the noisier side of the ones I’ve used. While there are multiple vacuum modes, and “standard” suction is quite quiet, it also doesn’t pick up a lot.
@@ -135,13 +129,11 @@ Patrick Campanale / How-To Geek
  To remedy this, I just set the vacuum strength to the strongest it could be, and that allowed the S10 to pick up the junk that was on the floor with relative ease, though it was much, much louder during the process. I wouldn’t recommend running the S10 at night with how loud it is, as it would keep me up while cleaning.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  The S10 Could Do a Better Job at Cleaning Under Cabinets and at Transitions![SwitchBot S10 Robot Vacuum Cleaning Floor](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-cleaning-floor.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In addition to having to turn the suction up to the strongest setting to get the S10 to effectively clean my hard floors, it also didn’t do the best at cleaning under the toe kick of my cabinets or at the transitions from hard floors to carpets. There’s the side brush that’s supposed to kick the stuff along the side into the path of the vacuum, but, because of how tall the vacuum is, it just doesn’t fit under those cabinet areas. Now, your mileage may vary, as our house was built in 1993, and the toe kicks are shorter than in modern homes. But, it’s a problem I ran into nonetheless.
 
  The transitions are something that took me by surprise, however. The S10 left some dirt and dust in the transition between carpet to hard floor in my home. The transition is a bit tall, but I would still expect it to clean it; the other robot vacuums I’ve used cleaned that area (and the area under my toe kicks) with no problem, for comparison.
@@ -153,8 +145,9 @@ Patrick Campanale / How-To Geek
 ![SwitchBot S10 Robot Vacuum Going Around Chair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-going-around-chair.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  While the vacuum portion of the S10 had some issues with a few areas of my home, the mop didn’t disappoint at all. I was very impressed with how well the mop worked, and it quickly cleaned up my floor and made it look fantastic. I wasn’t even using the cleaning solution that SwitchBot offers, either. This means that, if you used the solution, it could clean better, but I see no need for it. At least, not at my house. I didn’t try the “wetter” setting for the mop, as my floors were left basically dry and very clean after the robot was done.
@@ -167,16 +160,14 @@ Close
 
  This helps a lot with cleaning up and is particularly useful if you have a dusty mess for it to clean. I simulated spilling flour on the floor by putting some baking soda in the path of the vacuum. When set to clean and mop (and one time only), it left tracks all over the place. However, when I flipped it to clean twice, it went back and picked up the original tracks the second time since it shifted the cleaning route by 90 degrees. So, if you want the most thorough clean possible, you'll want to make sure to enable the two passes and be prepared for cleaning to take twice as long. But, on the bright side, the vacuum is smart enough to dock itself to empty the dust bin or empty the dirty water/refill the clean water tank mid-cleaning, as well as charge, should it need to.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don’t Place Your Dock on the Carpet
 
 ![SwitchBot S10 Robot Vacuum Dock On Hard Floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-dock-on-hard-floor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  In the multiple robot vacuums I’ve owned or used, I’ve never had a problem with dock location. However, the S10 just simply refused to dock while on the carpet. In talking with a few of the other editors and writers here at How-To Geek, this seems to be something that occasionally happens with certain vacuums and not others. The thought is that docks with a long plastic entryway for the wheels to go on work best on carpets, and the more sleek docks (like the S10 has) don’t work as well on carpets.
@@ -184,9 +175,9 @@ Patrick Campanale / How-To Geek
  Regardless of the reasoning, I spent about 30 to 45 minutes trying to get the S10 to dock on the carpet before realizing that it just simply wouldn’t, and it would only work on hard floors. That’s a pretty big negative if you’re planning to keep it in a carpeted area. I do have thick carpet, and on a shorter type, you might be fine. But, just keep in mind that you might have to keep the dock located on hard floors for it to function. And, the water station will likewise have to be on hard floors, but it shouldn’t be on carpet anyway just in case a leak does happen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  SwitchBot’s App Offers Some Nice Features
 
 Close 
@@ -198,11 +189,16 @@ Close
  Resizing furniture pieces was a little finicky and sometimes worked, and other times didn’t. However, no-go zones were typically pretty reliable to resize. And, this is something that could easily be fixed in a future app update.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  No Camera Access Is Both a Pro and Con
 
 ![SwitchBot S10 Robot Vacuum AI Detection Camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/switchbot-s10-robot-vacuum-front-on-carpet.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -226,6 +222,10 @@ Patrick Campanale / How-To Geek
 
 ![SwitchBot S10 Robot Vacuum and Mop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/switchbot-s10-robot-vacuum-mop.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  SwitchBot S10 Robot Vacuum and Mop
 
 7/ 10 
@@ -242,8 +242,6 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +249,24 @@ The SwitchBot S10 robot vacuum and mop takes what we're used to and makes it mor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-achieving-virality-youtube-promotion-no-cost-involved/"><u>[New] In 2024, Achieving Virality YouTube Promotion No Cost Involved</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>[New] Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-10-best-gba-emulators-for-android/"><u>[Updated] The 10 Best GBA Emulators for Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-deleting-a-twitch-account/"><u>Comprehensive Instructions for Deleting a Twitch Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-installing-the-latest-zoom-update-on-windowsmac-os/"><u>Easy Steps for Installing the Latest Zoom Update on Windows/Mac OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-the-smart-ring-doorbell-plus-is-it-worth-it/"><u>Expert Review of the Smart Ring Doorbell Plus - Is It Worth It?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-lameencdll-malfunction-tips-and-techniques-for-audacity-users/"><u>Fixing the lame_enc.dll Malfunction: Tips and Techniques for Audacity Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-setting-up-bots-on-your-discord-platform/"><u>Guide: Setting Up Bots on Your Discord Platform</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-cutting-edge-6-internet-audio-divide-and-conquer-software/"><u>In 2024, Cutting Edge 6 Internet Audio Divide and Conquer Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-insta-without-an-account-a-comprehensive-tutorial/"><u>Navigating Insta Without an Account – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-secrets-unveiled-the-art-of-crafting-reverse-video-content-easily/"><u>Snapchat Secrets Unveiled: The Art of Crafting Reverse Video Content Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-a-guide-to-repairing-msvcrtdll-file-absence-issues/"><u>Solving the Mystery: A Guide to Repairing MSVCRT.DLL File Absence Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premium-picks-the-ultimate-guide-to-the-best-inflatable-kayaks/"><u>Top 5 Premium Picks: The Ultimate Guide to the Best Inflatable Kayaks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-ups-solutions-the-ultimate-guide-to-power-protection/"><u>Top Rated UPS Solutions: The Ultimate Guide to Power Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mp4-gif/"><u>Windowsで優れた MP4から GIFへの変換ガイド</u></a></li>
+</ul></div>
 

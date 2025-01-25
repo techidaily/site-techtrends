@@ -1,7 +1,7 @@
 ---
 title: "A User-Friendly Tutorial: Switching Browsers on a Samsung Television Set"
-date: 2024-08-30T15:11:27.724Z
-updated: 2024-08-31T15:11:27.724Z
+date: 2025-01-22T19:43:32.269Z
+updated: 2025-01-25T17:23:18.117Z
 categories:
   - BestProducts
 description: "This Article Describes A User-Friendly Tutorial: Switching Browsers on a Samsung Television Set"
@@ -39,36 +39,21 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 8 or 8.1
 
  You'll find Command Prompt in Windows 8 through the Apps screen.
@@ -81,9 +66,6 @@ Key features:
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -96,8 +78,9 @@ Key features:
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -105,6 +88,14 @@ Key features:
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -118,9 +109,6 @@ Key features:
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -156,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +151,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/est-free-youtube-ending-creators-top-6-picks-for-2024/"><u>[New] Best Free YouTube Ending Creators - Top 6 Picks for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/kyrocket-to-partner-status-crush-that-critical-10000-view-benchmark-for-2024/"><u>[New] Skyrocket to Partner Status Crush that Critical 10,000-View Benchmark for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unzipping-for-srt-methods-and-tips/"><u>2024 Approved Unzipping for SRT Methods and Tips</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/convert-your-protected-dvds-with-macx-imkvmaker-create-encrypted-mkv-formats-seamlessly/"><u>Convert Your Protected DVDs with MacX iMKVmaker - Create Encrypted MKV Formats Seamlessly</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-8t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-missing-and-not-found-winhttpdll-error-messages-on-your-pc/"><u>Fixing 'Missing' And 'Not Found' Winhttp.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-asus-rog-phone-8-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Asus ROG Phone 8?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-disneyplus-for-a-complete-star-wars-viewing-journey-step-by-step/"><u>Navigate Disney+ for a Complete Star Wars Viewing Journey - Step by Step</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-ebook-purchases-a-comprehvew-for-iphoneipad-users/"><u>Navigating Through eBook Purchases: A Comprehvew for iPhone/iPad Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-a-non-functional-sennheiser-gameone-microphone-a-guide/"><u>Reviving a Non-Functional Sennheiser GameOne Microphone: A Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/selecting-the-top-series-on-discovery-plus-this-july-expert-picks/"><u>Selecting the Top Series on Discovery Plus This July - Expert Picks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1168345-9781577317968-the-miracle-of-the-breath/"><u>The Miracle of the Breath | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-how-quick-access-speeds-influence-computer-efficiency/"><u>Understanding How Quick Access Speeds Influence Computer Efficiency</u></a></li>
+</ul></div>
 

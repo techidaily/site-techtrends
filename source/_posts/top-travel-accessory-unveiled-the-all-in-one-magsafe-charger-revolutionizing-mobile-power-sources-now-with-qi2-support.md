@@ -1,7 +1,7 @@
 ---
 title: "Top Travel Accessory Unveiled: The All-in-One MagSafe Charger Revolutionizing Mobile Power Sources, Now with Qi2 Support!"
-date: 2025-01-18T21:45:36.404Z
-updated: 2025-01-19T20:31:03.894Z
+date: 2025-01-21T20:50:23.982Z
+updated: 2025-01-25T19:17:40.974Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,21 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-critical-platforms-offering-twitter-like-interaction/"><u>[New] Critical Platforms Offering Twitter-Like Interaction</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-libraries-improving-efficiency-in-your-javascript-projects/"><u>[New] Leveraging Libraries Improving Efficiency in Your JavaScript Projects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/asterclass-in-time-the-top-10-youtube-channels-for-history-students-for-2024/"><u>[New] Masterclass in Time The Top 10 YouTube Channels For History Students for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/10-free-netflix-alternatives-to-try/"><u>10 Free Netflix Alternatives to Try</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-others-facing-nintendo-switch-online-disruption-too-or-is-it-an-individual-glitch/"><u>Are Others Facing Nintendo Switch Online Disruption Too, or Is It an Individual Glitch?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-entertainment-platforms-similar-to-netflix-top-10-picks/"><u>Best Free Entertainment Platforms Similar to Netflix (Top 10 Picks)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/esegui-la-compressione-del-tuo-video-in-un-blink-scopri-il-metodo-facile-di-movavi/"><u>Esegui La Compressione Del Tuo Video in Un Blink - Scopri Il Metodo Facile Di Movavi!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-resolving-launchdll-cannot-be-found-problems-quickly-and-effectively/"><u>Expert Advice: Resolving 'Launch.dll Cannot Be Found' Problems Quickly and Effectively</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-smartphone-snaps-guide-for-ios-devices/"><u>Maximizing Smartphone Snaps: Guide for iOS Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-divx-video-trimming-tools-top-picks/"><u>New Free Divx Video Trimming Tools Top Picks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-errors-for-valheim-players-in-early-2024/"><u>Overcoming Launch Errors for Valheim Players in Early 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-to-correct-microsoft-visual-cplusplus-redistributable-missing-errors/"><u>Quick Fixes to Correct Microsoft Visual C++ Redistributable Missing Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-javascript-file-jsksriptdll-absence-issues/"><u>Solving JavaScript File 'jsksript.dll' Absence Issues</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-pioneers-bdr-xs06-blu-ray-disc-burner-a-balance-of-convenience-and-functionality/"><u>Ultimate Guide to Pioneer's BDR-XS06 Blu-Ray Disc Burner - A Balance of Convenience & Functionality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-strategic-sharing-spoken-engagement-for-youtube-viewers/"><u>[New] Strategic Sharing Spoken Engagement for YouTube Viewers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-noise-cancelled-skype-communication/"><u>[Updated] In 2024, Noise-Cancelled Skype Communication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-impose-restrictions-on-response-character-count-or-word-limit/"><u>Does ChatGPT Impose Restrictions on Response Character Count or Word Limit?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-to-determine-installed-java-versions-in-windows-11-systems/"><u>Easy Methods to Determine Installed Java Versions in Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-file-comparison-techniques-using-notepadplusplus-tools/"><u>Effective File Comparison Techniques Using Notepad++ Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enablingdisabling-the-security-of-windows-10-login-process-explained-easily/"><u>Enabling/Disabling the Security of Windows 10 Login Process Explained Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-relocating-installed-software-between-drives-using-windows-11/"><u>Guide: Relocating Installed Software Between Drives Using Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-is-facilitating-the-move-to-android-devices-for-users-exclusive-reports/"><u>How Apple Is Facilitating the Move to Android Devices for Users - Exclusive Reports</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-vanguard-visual-transformers-lenscrafters-art/"><u>In 2024, Vanguard Visual Transformers LensCrafters' Art</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004180878-modern-warfare-mw3-crash-mystery-solved-overcome-the-dauntinig-error-6068/"><u>Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068 !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/new-feature-alert-transfer-images-from-smartphone-to-windows-11-effortlessly/"><u>New Feature Alert: Transfer Images From Smartphone to Windows 11 Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reclaim-hard-drive-space-eliminate-data-from-uninstalled-game-files/"><u>Reclaim Hard Drive Space - Eliminate Data From Uninstalled Game Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-voice-customization-in-free-fire-guide-included-no-cost-for-2024/"><u>Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/struggling-with-poor-iphone-battery-life-after-updating-to-ios-1751-discover-these-7-power-saving-tips-gadgetguru/"><u>Struggling with Poor iPhone Battery Life After Updating to iOS 17.5.1? Discover These 7 Power-Saving Tips | GadgetGuru</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/stunning-nature-inspired-visuals-for-your-pc-high-quality-images-and-photos-from-yl-softwares-gallery/"><u>Stunning Nature-Inspired Visuals for Your PC: High-Quality Images & Photos From YL Software's Gallery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zooms-commitment-no-unauthorized-usage-of-user-data-in-ai-development/"><u>Zoom's Commitment: No Unauthorized Usage of User Data in AI Development</u></a></li>
 </ul></div>
 

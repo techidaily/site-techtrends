@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review
-date: 2025-01-12T20:09:03.075Z
-updated: 2025-01-19T20:59:45.786Z
+date: 2025-01-19T16:05:37.218Z
+updated: 2025-01-25T19:41:56.463Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -67,11 +71,19 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -100,10 +112,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -134,7 +142,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
@@ -152,7 +160,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -171,10 +179,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78d6e9ed-f261-4b2d-a1d4-fe065ba10e9a%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,17 +235,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-easy-steps-for-tempo-control-in-instagram-videos/"><u>[Updated] 2024 Approved Easy Steps for Tempo Control in Instagram Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-get-facebook-links-downloaded-top-8-tools-of-the-year-2023/"><u>[Updated] In 2024, Get Facebook Links Downloaded Top 8 Tools of the Year 2023</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] In 2024, How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-break-new-ground-in-social-sagas-free-extended-versions-await/"><u>2024 Approved Break New Ground in Social Sagas – Free, Extended Versions Await</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722890609819-all-you-need-to-know-about-the-new-google-pixel-timepiece-rumored-features-and-pricing-insights-await/"><u>All You Need to Know About the New Google Pixel Timepiece – Rumored Features and Pricing Insights Await!</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/boost-computer-speed-with-a-bootable-sata-ssd-upgrade-from-ide-in-windows/"><u>Boost Computer Speed with a Bootable SATA SSD Upgrade From IDE in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/curated-list-by-lifewire-20-essential-films-for-your-immediate-viewing-pleasure-online/"><u>Curated List by Lifewire: 20 Essential Films for Your Immediate Viewing Pleasure Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-updates-on-playstation-5-slim-pricing-launch-timeline-and-detailed-specifications/"><u>Latest Updates on PlayStation 5 Slim - Pricing, Launch Timeline & Detailed Specifications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/learn-to-access-final-cut-pro-for-free-for-2024/"><u>Learn To Access Final Cut Pro for Free for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-keeping-your-w11-cool/"><u>Tips & Tricks for Keeping Your W11 Cool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-factors-to-evaluate-prior-to-purchasing-used-or-restored-notebooks/"><u>Top 5 Factors to Evaluate Prior to Purchasing Used or Restored Notebooks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excitement-of-drone-warfare-dji-robomasters-s1-a-comprehensive-evaluation-for-gamers/"><u>Unveiling the Excitement of Drone Warfare: DJI RoboMasters S1 - A Comprehensive Evaluation for Gamers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-novice-to-pro-a-guide-for-using-snapchat-for-businesses/"><u>[Updated] From Novice to Pro A Guide for Using Snapchat for Businesses</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-call-transcription-4-proven-tips-for-fb-video-calls-for-2024/"><u>[Updated] Optimize Call Transcription 4 Proven Tips for FB Video Calls for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-elevating-your-instagram-engagement-through-hashtags/"><u>[Updated] Step-by-Step Elevating Your Instagram Engagement Through Hashtags</u></a></li>
+<li><a href="https://techtrends.techidaily.com/12-premium-quality-free-keyboard-lessons-that-work-across-age-groups/"><u>12 Premium-Quality Free Keyboard Lessons That Work Across Age Groups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a/"><u>A</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-release-of-apples-new-sound-integrated-gadget-cost-projections-scheduled-launch-date-features-overview-and-secret-rumors/"><u>Anticipating the Release of Apple's New Sound-Integrated Gadget: Cost Projections, Scheduled Launch Date, Features Overview & Secret Rumors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-snappydriver-installer-version-113-a-game-changer/"><u>Comprehensive Review of SnappyDriver Installer Version 1.13 - A Game Changer?</u></a></li>
+<li><a href="https://win-online.techidaily.com/descubre-como-recuperar-tu-registro-de-conversaciones-eliminadas-por-error-de-wechat-en-dispositivos-ios/"><u>Descubre Cómo Recuperar Tu Registro De Conversaciones Eliminadas Por Error De WeChat en Dispositivos iOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-fixes-handling-a-server-error-500-successfully/"><u>Essential Fixes: Handling a Server Error 500 Successfully</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grok-ai-deciphering-its-meaning-functionality-and-cost-with-elon-musk/"><u>Grok AI: Deciphering Its Meaning, Functionality & Cost with Elon Musk</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-clashing-kings-the-top-battle-royale-games/"><u>In 2024, Clashing Kings The Top Battle Royale Games</u></a></li>
+<li><a href="https://win-popular.techidaily.com/master-the-art-of-diagnosing-hardware-disputes-with-ease-expert-advice-from-yl-software/"><u>Master the Art of Diagnosing Hardware Disputes with Ease: Expert Advice From YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-capturing-and-sharing-your-nintendo-switch-gameplay/"><u>Mastering the Art of Capturing & Sharing Your Nintendo Switch Gameplay</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reviving-lost-content-how-to-restore-deleted-youtube-videos-on-your-pc/"><u>Reviving Lost Content: How to Restore Deleted YouTube Videos on Your PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-why-isnt-your-yahoo-mail-retrieving-new-messages/"><u>Solving the Issue: Why Isn't Your Yahoo Mail Retrieving New Messages?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-private-surfing-on-popular-web-browsers-including-chrome-edge-firefox-safari-and-opera/"><u>Step-by-Step Tutorial for Private Surfing on Popular Web Browsers Including Chrome, Edge, Firefox, Safari and Opera</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-to-correct-the-nospinlockavailable-system-error-code/"><u>Step-by-Step Tutorial to Correct the NO_SPIN_LOCK_AVAILABLE System Error Code</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-se-2020-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone SE (2020) Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-essential-list-of-13-premier-free-pdf-editing-software-for-july-2024/"><u>Your Essential List of 13 Premier Free PDF Editing Software for July 2024</u></a></li>
 </ul></div>
 

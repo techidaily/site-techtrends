@@ -1,7 +1,7 @@
 ---
 title: Tech Reviewers' Top Phone Selections Revealed by ZDNet Team
-date: 2025-01-18T20:27:18.734Z
-updated: 2025-01-19T21:08:44.792Z
+date: 2025-01-20T20:00:39.851Z
+updated: 2025-01-25T18:45:06.248Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ It's no secret that iPhones aren't the most rugged devices, sometimes yielding s
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best iPhone 16 case right now?
 
@@ -46,10 +42,14 @@ Cons
 * Only available for iPhone 16 Pro models
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nomad Sport Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 16 case overall
 
@@ -77,7 +77,7 @@ Cons
 * Not many color options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Torras 360-degree OStand
@@ -107,6 +107,10 @@ Cons
 * Heftier price
 
 ## Pitaka Ultra Slim case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best thin iPhone 16 case
 
@@ -158,6 +162,10 @@ Pros
 Cons 
 * Pricier
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Mous Limitless 6.0
 
 ### Best protective iPhone 16 case
@@ -186,10 +194,6 @@ Cons
 * No camera protection
 
 ## Incase Icon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best stylish iPhone 16 case
 
@@ -220,7 +224,7 @@ Cons
 ## Moft Snap Case Movas
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best vegan-leather iPhone 16 case
@@ -249,7 +253,15 @@ Cons
 * Unsure on sustainability
 * Only for Pro models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nomad Modern Leather Case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best leather case for iPhone 16
 
@@ -287,10 +299,6 @@ The best iPhone 16 case option for you differs depending on your needs. For one,
 | Incase Icon case                | A unique and stylish case with protection and MagSafe capabilities.                                     |
 | Nomad Modern Leather case       | A person who prefers leather cases. This one also protects and comes worn in.                           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best iPhone 16 case
 
 We kept in mind the most important factors when choosing the best iPhone 16 cases. The most relevant aspects are:
@@ -305,7 +313,7 @@ We kept in mind the most important factors when choosing the best iPhone 16 case
 To choose these iPhone 16 cases, we performed extensive research over every corner of the internet, like Reddit forums and customer reviews, to find the best picks at the time of this writing. When we can't test a product, we rely on opinions from real people over company promises. We also receive recommendations  experts like reviews editor Kerry Wan and editor-in-chief Jason Hiner, who have years of experience in the tech journalism field. Our picks are meant to leave the reader happy and their device healthy. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What iPhone case is most protective?
@@ -314,17 +322,9 @@ On this list, the Nomad Sport case and the Torras Ostand MagSafe Case are the mo
 
 However, if you stray from the list, the best options are those with a solid bumper and durable material. Before purchasing a case, make sure to check its drop protection and other safety features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best phone case brand?
 
 Unfortunately, there isn't such a thing as the best phone case brand. Many sources point to Spigen and Otterbox as the most popular phone case brands with the most units sold. That, however, does not necessarily mean they are the best brands. It is ultimately up to you and your lived experience and opinion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What case material is best for iPhone?
 
@@ -343,7 +343,7 @@ If your phone has the problem of overheating, it may be best to look into specia
 This is a good question, and if we had to chime in, we would say something more durable. A study by tech protection service Asurion in 2013 that [3 out of 10 teenagers have dropped](https://www.prnewswire.com/news-releases/3-out-of-10-teens-damaged-cell-phones-in-the-last-18-months-mainly-at-school-218494391.html#:~:text=A%20back%2Dto%2Dschool%20survey,most%20accidents%20happening%20at%20school.) and/or damaged their cell phones in the past 18 months. Ten years later, many phones are even less durable. Therefore, that number may be higher, especially if teenagers have more phones than ever. To prevent damage to your teen's phone, it may be wise to invest in a durable case that protects the device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative iPhone 16 cases worth considering?
@@ -392,24 +392,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-transforming-your-twitter-feed-adding-custom-thumbnails-to-videos/"><u>[New] 2024 Approved Transforming Your Twitter Feed Adding Custom Thumbnails to Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-prime-selection-highest-quality-stands/"><u>[New] Prime Selection Highest Quality Stands</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-mayhem-top-10-sci-fi-movies-breaking-boundaries/"><u>2024 Approved Metaverse Mayhem Top 10 Sci-Fi Movies Breaking Boundaries</u></a></li>
-<li><a href="https://extra-information.techidaily.com/budget-friendly-choices-must-have-gopro-add-ons/"><u>Budget-Friendly Choices Must-Have GoPro Add-Ons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/chrome-tweaks-eliminating-pop-up-ads-without-using-adblock/"><u>Chrome Tweaks: Eliminating Pop-Up Ads Without Using AdBlock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-correcting-the-unavailability-of-x3daudiodll-files/"><u>Comprehensive Guide: Correcting the Unavailability of x3daudio.dll Files</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructions-for-downloading-apps-on-samsungs-latest-smart-televisions/"><u>Easy Instructions for Downloading Apps on Samsung's Latest Smart Televisions</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-g2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo G2 Devices | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-language-mastery-the-ultimate-selection-of-apps/"><u>Free Language Mastery: The Ultimate Selection of Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-addressing-and-fixing-mfc71dll-error-messages-on-your-pc/"><u>Guide to Addressing and Fixing mfc71.dll Error Messages on Your PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-asus-rog-phone-8-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Asus ROG Phone 8 Phone Now with These Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-note-30i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Note 30i? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simplify-smartphone-interaction-explore-the-best-5-auto-clicker-solutions-tailored-for-android-users/"><u>Simplify Smartphone Interaction: Explore the Best 5 Auto Clicker Solutions Tailored for Android Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-the-microsoftdirectxdirectinputdll-failure-messages/"><u>Step-by-Step Solutions for the 'Microsoft.DirectX.DirectInput.DLL' Failure Messages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tracing-the-development-journey-of-ios-including-versions-10-180/"><u>Tracing the Development Journey of iOS, Including Versions 1.0-18.0</u></a></li>
-<li><a href="https://techtrends.techidaily.com/travel-smart-mastering-the-art-of-roku-streaming-on-the-go/"><u>Travel Smart: Mastering the Art of Roku Streaming On-the-Go</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-recover-a-lost-or-missing-msodll/"><u>Troubleshooting Steps to Recover a Lost or Missing mso.dll</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-adobes-storage-system-guide-and-comparison-chart-for-2024/"><u>Unraveling Adobe's Storage System Guide & Comparison Chart for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlocking-the-prime-youtube-post-hours/"><u>[Updated] In 2024, Unlocking the Prime YouTube Post Hours</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-instagram-picture-perfect-a-quick-guide-for-2024/"><u>[Updated] Instagram Picture Perfect A Quick Guide for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-8t-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-deep-how-to-drive-engaging-dialogue-in-chatgpts-roleplay-sphere/"><u>Delving Deep: How to Drive Engaging Dialogue in ChatGPT's Roleplay Sphere</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-retrieve-old-website-versions-using-the-internet-archives-wayback-machine/"><u>How to Retrieve Old Website Versions Using the Internet Archive's Wayback Machine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-9-command-center-of-live-gaming-streams/"><u>In 2024, 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-fade-strategies-for-dynamic-videos/"><u>In 2024, Expert Fade Strategies for Dynamic Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-video-praise-with-innovative-approaches/"><u>In 2024, Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-tech-new-energy-via-atlasos/"><u>Old Tech, New Energy via AtlasOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quick-video-growth-top-20-hacks-for-instant-impact/"><u>Quick Video Growth Top 20 Hacks for Instant Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-wi-fi-problems-on-your-ipad-with-these-simple-fixes/"><u>Solve Wi-Fi Problems on Your iPad with These Simple Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-delete-programs-on-a-mac-computers/"><u>Step-by-Step Tutorial: How to Delete Programs on a Mac Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-uninstall-samsung-smart-tv-applications/"><u>Step-by-Step Tutorial: How to Uninstall Samsung Smart TV Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-resolving-missing-pdhdll-error-messages-in-windows/"><u>The Ultimate Guide to Resolving Missing Pdh.dll Error Messages in Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-gaming-systems-in-2/"><u>Top-Rated Gaming Systems in 2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-d3dx934dll-expert-advice-for-a-smooth-resolution/"><u>Troubleshooting Missing d3dx9_34.dll: Expert Advice for a Smooth Resolution</u></a></li>
 </ul></div>
 

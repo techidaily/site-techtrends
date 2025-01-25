@@ -1,7 +1,7 @@
 ---
 title: Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations | ZDNet
-date: 2025-01-15T18:04:54.151Z
-updated: 2025-01-19T16:53:50.478Z
+date: 2025-01-19T17:43:30.946Z
+updated: 2025-01-25T19:07:44.874Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ While this move towards a [more integrated software environment](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Observations of the new S2 UX
@@ -61,7 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -77,7 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -99,7 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -117,7 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -158,15 +158,24 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-exploring-the-metaverse-meme-landscape-for-2024/"><u>[New] Exploring the Metaverse Meme Landscape for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastering-youtubes-ecosystem-with-optimal-video-formats/"><u>[Updated] Mastering YouTube's Ecosystem with Optimal Video Formats</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo T2x 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/demystifying-the-http-404-error-tips-for-quick-recovery-and-prevention-strategies/"><u>Demystifying the HTTP 404 Error: Tips for Quick Recovery & Prevention Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/detailed-guide-to-minecraft-capturing-techniques-on-mac-for-2024/"><u>Detailed Guide to Minecraft Capturing Techniques on Mac for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-addressing-and-fixing-a-missing-coprocessor-driver-in-windows-10/"><u>Expert Tips: Addressing and Fixing a Missing Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209539767-9781601636539-exposed-uncovered-declassified-ufos-and-aliens/"><u>Exposed, Uncovered & Declassified: UFOs and Aliens | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-combining-your-epic-battle-royale-profiles-fortnite/"><u>Guide: Combining Your Epic Battle Royale Profiles - Fortnite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-flip3-exciting-revelations-on-pricing-release-plans-and-technical-details-awaiting/"><u>Samsung Galaxy Z Flip3: Exciting Revelations on Pricing, Release Plans, and Technical Details Awaiting!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-tips-for-successfully-pairing-a-dualshock-4/"><u>Troubleshooting & Tips for Successfully Pairing a DualShock 4</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-comedy-in-a-click-best-funny-short-video-suggestions-for-youtubers/"><u>[Updated] 2024 Approved Comedy in a Click Best Funny Short Video Suggestions for YouTubers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-echoes-of-chuckles-parody-playlists/"><u>[Updated] 2024 Approved Echoes of Chuckles Parody Playlists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elite-6-tools-to-convert-visual-text-into-different-languages/"><u>[Updated] Elite 6 Tools to Convert Visual Text Into Different Languages</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-generate-sharable-gifs-with-a-laugh-twist-giphy/"><u>[Updated] In 2024, Generate Sharable Gifs with a Laugh Twist, Giphy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-the-basics-of-instagram-a-step-by-easy-guide/"><u>Discovering the Basics of Instagram: A Step-by-Easy Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-repairing-and-preventing-screen-burn-in-across-various-displays/"><u>Effective Solutions: Repairing and Preventing Screen Burn-In Across Various Displays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-network-recognition-issues-a-practical-guide-for-your-samsung-device/"><u>Fixing Network Recognition Issues: A Practical Guide for Your Samsung Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-long-does-a-mailcom-email-last-before-its-deactivated/"><u>How Long Does a Mail.com Email Last Before It's Deactivated?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v29-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo V29 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-audio-technica-drivers/"><u>How to Update Audio Technica Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-picture-in-picture-perfection-tips-and-tricks-for-final-cut-pro/"><u>New Picture-in-Picture Perfection Tips and Tricks for Final Cut Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reconnect-to-wi-fi-a-detailed-fix-for-your-surface-pro-woes/"><u>Reconnect to Wi-Fi: A Detailed Fix for Your Surface Pro Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-rununk13-issue-a-step-by-step-guide-to-restore-your-hulu-streaming/"><u>Resolving the RUNUNK13 Issue: A Step-by-Step Guide to Restore Your Hulu Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-crafting-a-heart-icon-with-keys/"><u>Step-by-Step Tutorial: Crafting a Heart Icon with Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-nostalgia-unleashed-windows-11-to-the-past/"><u>Tech Nostalgia Unleashed: Windows 11 to the Past</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-best-news-aggregator-platforms-discover-your-favorites/"><u>Top 10 Best News Aggregator Platforms - Discover Your Favorites!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-resolve-mozilla-thunderbird-launch-issues/"><u>Troubleshooting Steps to Resolve Mozilla Thunderbird Launch Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-is-immersive-tech-so-pricey-uncovering-4-triggers/"><u>Why Is Immersive Tech so Pricey?: Uncovering 4 Triggers</u></a></li>
 </ul></div>
 

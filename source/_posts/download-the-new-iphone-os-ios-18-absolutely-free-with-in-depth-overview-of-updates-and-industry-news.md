@@ -1,7 +1,7 @@
 ---
 title: Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
-date: 2025-01-14T20:41:00.043Z
-updated: 2025-01-19T16:46:38.457Z
+date: 2025-01-24T20:44:13.007Z
+updated: 2025-01-25T20:21:08.130Z
 categories:
   - BestProducts
 description: This Article Describes Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
@@ -36,6 +36,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
 ### Open Command Prompt Through the Start Menu Folder
@@ -44,20 +48,20 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -71,10 +75,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 3. Select**Command Prompt** . You can now execute whatever command you needed to run.
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
 
@@ -96,11 +96,7 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
@@ -114,6 +110,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -159,24 +159,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-your-ultimate-iphone-podcast-downloading-manual/"><u>[New] In 2024, Your Ultimate iPhone Podcast Downloading Manual</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nnovating-mukbang-content-with-fresh-creative-ideas/"><u>[New] Innovating Mukbang Content with Fresh, Creative Ideas</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-free-animation-digitalphysical-realms/"><u>[Updated] In 2024, Unlocking Free Animation Digital/Physical Realms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-video-watch-counts-youtubes-historical-list/"><u>[Updated] Top Video Watch Counts YouTube's Historical List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-iphone-shot-potential-adopt-these-10-principles/"><u>[Updated] Unlocking iPhone Shot Potential Adopt These 10 Principles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-apples-newest-macbook-innovations-and-releases/"><u>Discover Apple's Newest MacBook Innovations and Releases</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-top-7-imessage-games-taking-over-202/"><u>Discover the Top 7 iMessage Games Taking Over 202</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-system-tune-up-updating-to-mf4770n-drivers/"><u>Efficient System Tune-Up: Updating to MF4770n Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/epic-mario-quests-find-your-favorite-pc-game-among-these-top-6-titles/"><u>Epic Mario Quests: Find Your Favorite PC Game Among These Top 6 Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msvcr70dll-not-found-or-missing-errors/"><u>How to Fix Msvcr70.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/july-2024s-handpicked-selection-of-best-gratis-hdd-and-ssd-assessment-utilities-top-13/"><u>July 2024'S Handpicked Selection of Best Gratis HDD & SSD Assessment Utilities (Top 13)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-remote-gifting-a-comprehhavable-guide-to-sending-steam-code-gifts/"><u>Mastering the Art of Remote Gifting: A Comprehhavable Guide to Sending Steam Code Gifts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reactivate-and-fix-audio-capture-problems-with-obs-on-pcmac/"><u>Reactivate and Fix Audio Capture Problems with OBS on PC/Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-stream-or-save-your-ps4-gameplays-effortlessly/"><u>Step-by-Step Tutorial: How To Stream or Save Your PS4 Gameplays Effortlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transition-of-a-giant-tracing-the-journey-from-netflixs-physical-dvd-service/"><u>Transition of a Giant: Tracing the Journey From Netflix's Physical DVD Service</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshoot-and-enhance-how-to-get-your-iphone-camera-to-focus-again/"><u>Troubleshoot and Enhance: How to Get Your iPhone Camera to Focus Again</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-detecting-and-eliminating-mobile-spyware-tips/"><u>Ultimate Guide: Detecting & Eliminating Mobile Spyware - Tips</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unlocking-the-potential-of-pc-based-tiktok-live-shows-for-2024/"><u>Unlocking the Potential of PC-Based TikTok Live Shows for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-visionary-beauticians-poised-success-for-2024/"><u>[Updated] 10 Visionary Beauticians Poised Success for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-google-pixel-7a-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Google Pixel 7a PC | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/bring-the-mobile-experience-to-pc-a-comprehensive-guide-to-launching-android-apps-on-windows-10/"><u>Bring the Mobile Experience to PC: A Comprehensive Guide to Launching Android Apps on Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-language-models-the-top-4-improvements-were-eager-for-gpt-n/"><u>Elevating Language Models: The Top 4 Improvements We're Eager For GPT-N</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-in-windows-11-complete-solution/"><u>How to Fix MsMpEng.exe High CPU Usage in Windows 11: Complete Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-chromes-choppy-behavior-on-windows-an-expert-guide-for-a-smooth-surfing-experience/"><u>Mastering Chrome's Choppy Behavior on Windows: An Expert Guide for a Smooth Surfing Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-new-ios-16-feature-a-step-by-step-guide-to-using-photo-cutouts-on-your-iphone/"><u>Mastering the New iOS 16 Feature: A Step-by-Step Guide to Using Photo Cutouts on Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-new-sounds-a-comprehensive-introduction-to-home-audio-setups-for-novices/"><u>Navigating New Sounds: A Comprehensive Introduction to Home Audio Setups for Novices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-saving-spotify-playlists-in-plain-text-format/"><u>Step-by-Step Guide: Saving Spotify Playlists in Plain Text Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/time-zone-changes-made-easy-managing-settings-on-your-kindle-paperwhite/"><u>Time Zone Changes Made Easy: Managing Settings on Your Kindle Paperwhite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-msvcp60dll-is-absent-error-appears/"><u>Troubleshooting Tips for When msvcp60.dll Is Absent Error Appears</u></a></li>
 </ul></div>
 

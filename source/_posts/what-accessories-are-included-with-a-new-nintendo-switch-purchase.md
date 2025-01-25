@@ -1,7 +1,7 @@
 ---
 title: What Accessories Are Included with a New Nintendo Switch Purchase?
-date: 2025-01-17T19:26:21.176Z
-updated: 2025-01-19T18:08:06.767Z
+date: 2025-01-21T18:03:53.041Z
+updated: 2025-01-25T20:03:32.419Z
 categories:
   - BestProducts
 description: This Article Describes What Accessories Are Included with a New Nintendo Switch Purchase?
@@ -25,7 +25,7 @@ thumbnail: https://www.lifewire.com/thmb/14nNxUXwnIr_5l4-JEba_JxQdNw=/400x300/fi
  The_Pokémon Go_ buddy system is a feature that lets you show off your favorite Pokémon, earn candy, and receive in-app gifts and souvenirs. This guide explains how to play together with your buddy in_Pokémon Go_ , how to swap Pokémon buddies, and how to best use the buddy system to get the most out of the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding a ‘Pokémon Go’ Buddy for the First Time
@@ -34,11 +34,11 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
 ![Pokemon Go trainer screen with Buddy History icon highlighted.](https://www.lifewire.com/thmb/BdiPfIa8oWBYka7UEwDkhYUEZlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buddy-icon-in-Pokemon-Go-0b51206346d144a0b55dda8d337fcc18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see a**Buddy History** or**Buddy** option, you may need to update the_Pokémon Go_ app to its latest version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Your ‘Pokémon Go’ Buddy Pokémon
 
@@ -53,6 +53,10 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 4. Find the Pokémon you want to add as your new buddy and tap it. If successful, the selected Pokémon will be shown in a brief fullscreen announcement and then appear on the Pokémon buddy screen as your new buddy.  
 ![Pokemon Go app showing how to swap your Buddy Pokémon](https://www.lifewire.com/thmb/BoGpxHgNU6FVRwfj_E4L0CrpefQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-play-with-your-buddy-in-pokemon-go-02-e064b240ebdf48fa89583f0851d42bcd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Point of Having a Buddy in Pokémon Go?
 
  While having your favorite Pokémon appear alongside you on your trainer profile and walk on the map can be cool, there are several more practical benefits to having a buddy Pokémon.
@@ -66,10 +70,6 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 
  You can completely ignore the Pokémon buddy feature if you like, but it is required if you want to 100 percent complete your Pokédex and challenges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play Together With Your Buddy in 'Pokémon Go'
 
  The Play Together feature in_Pokémon Go_ lets you interact with your buddy Pokémon by patting it. The feature works much like the similar features in the various mainline Pokémon video games on the[Nintendo Switch](https://www.lifewire.com/what-is-the-nintendo-switch-4148184) and[3DS consoles](https://www.lifewire.com/nintendo-3ds-overview-1126249) . The main difference is that playing with your buddy Pokémon in_Pokémon Go_ lets you earn hearts, which in turn helps level up your buddy Pokémon to higher friendship levels.  
@@ -82,7 +82,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 5. After several seconds of patting, a bright light should surround your buddy, and a heart will appear. This heart will go toward your buddy’s friendship level. You can only earn one heart by playing with your buddy Pokémon every day, though you can play with them as many times as you like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Tap the**Exit** icon in the top-left corner to return to the map, or tap the**Berry** icon in the lower-left corner to feed your Pokémon berries to get it to appear on the map.
@@ -91,7 +91,7 @@ _Pokémon Go_ added the initial buddy feature back in 2018 and then expanded it 
 ![Pokemon GO buddy screens with Exit and Berry icons highlighted, berry to buddy swipe gesture added.](https://www.lifewire.com/thmb/7fPUcRq4cguvQ2HkO9UqgBsgHUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Feeding-buddy-Pokemon-664324e020424c63a8b97f9500ce6a11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Swapping Buddies Lose Progress?
@@ -139,22 +139,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-nvidia-method-to-perfect-gaming-replays/"><u>[New] 2024 Approved The NVIDIA Method to Perfect Gaming Replays</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rand-yourself-differently-strategies-for-finding-uncommon-names-for-2024/"><u>[New] Brand Yourself Differently Strategies for Finding Uncommon Names for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-design-dynamics-realizing-color-potential-for-2024/"><u>[New] Design Dynamics Realizing Color Potential for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/celebrity-quick-shot-analysis/"><u>Celebrity Quick Shot Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-acquiring-and-setting-up-epson-xp-430-drivers-on-windows-systems/"><u>Comprehensive Walkthrough: Acquiring & Setting Up Epson XP-430 Drivers on Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortlessly-combine-the-power-of-different-bluetooth-speakers-using-one-controller-a-how-to-guide/"><u>Effortlessly Combine the Power of Different Bluetooth Speakers Using One Controller: A How-To Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-anti-malware-solutions-for-safe-browsing-our-expert-picks-for-free-tools-in-202/"><u>Essential Anti-Malware Solutions for Safe Browsing: Our Expert Picks for Free Tools in 202</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-the-7-best-strategies-for-speeding-up-your-pc/"><u>Expert Advice on the 7 Best Strategies for Speeding Up Your PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/mac-users-guide-to-quickly-converting-and-watching-mkv-content-with-ease/"><u>Mac User's Guide to Quickly Converting & Watching MKV Content with Ease</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722892884287-the-new-era-of-computing-with-apples-rumored-touchscreen-macbook-price-estimates-and-unveiling-date/"><u>The New Era of Computing with Apple’s Rumored Touchscreen MacBook – Price Estimates & Unveiling Date</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-12-amazing-free-online-calling-services/"><u>The Ultimate List: 12 Amazing Free Online Calling Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-logitech-g203-driver-setup-free-download-for-windows-users-on-latest-versions/"><u>Ultimate Logitech G203 Driver Setup - Free Download for Windows Users on Latest Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-iphone-15s-resistance-how-effective-is-its-waterproofing/"><u>Understanding iPhone 15'S Resistance: How Effective Is Its Waterproofing?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-endless-entertainment-without-spending-our-picks-for-free-streams-like-netflix/"><u>Unlock Endless Entertainment Without Spending: Our Picks for Free Streams Like Netflix</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-graphics-with-latest-nvidia-driver-win10-and-gtx-970/"><u>Upgraded Graphics with Latest Nvidia Driver - Win10 & GTX 970</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-the-5-key-points-for-choosing-the-right-smartwatch/"><u>What You Need To Know: The 5 Key Points for Choosing the Right Smartwatch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-android-and-iphones-powerful-picklist-boosting-facebook-likeability/"><u>[New] 2024 Approved Android & iPhone's Powerful Picklist Boosting Facebook Likeability</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-shedding-light-techniques-for-improving-youtube-video-quality/"><u>[New] 2024 Approved Shedding Light Techniques for Improving YouTube Video Quality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>[New] In 2024, Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-seamless-creativity-free-mac-apps-for-tiktok-video-edits/"><u>[New] In 2024, Seamless Creativity Free Mac Apps for TikTok Video Edits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-picks-microphones-for-diverse-online-audiences-for-2024/"><u>[Updated] Perfect Picks Microphones for Diverse Online Audiences for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-ai-search-engines-what-to-expect-from-openai-on-may-13th-beyond-just-chatgpt/"><u>The Future of AI Search Engines - What to Expect From OpenAI on May 13Th, Beyond Just ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-release-of-stable-diffusion-v2-mixed-reactions-spark-debate/"><u>The Release of Stable Diffusion v2: Mixed Reactions Spark Debate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-essential-chatgpt-plus-add-ons-with-high-roi-your-guide-to-smart-spending/"><u>Top 10 Essential ChatGPT Plus Add-Ons with High ROI – Your Guide to Smart Spending</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-10-highly-rated-and-free-notetaking-tools-for-android-devices-simplified-usage-guide/"><u>Top 10 Highly Rated & Free Notetaking Tools for Android Devices - Simplified Usage Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transferring-images-from-your-oculus-quest-2-headset-to-windows-macos-and-linux-systems/"><u>Transferring Images From Your Oculus Quest 2 Headset to Windows, macOS, and Linux Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformative-collaboration-british-petroleum-teams-up-with-tesla-for-revolutionary-charging-solutions/"><u>Transformative Collaboration: British Petroleum Teams Up with Tesla for Revolutionary Charging Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-ark-sanctuary-island-the-top-pc-fps-optimization-techniques/"><u>Ultimate Guide: Enhancing ARK: Sanctuary Island - The Top PC FPS Optimization Techniques</u></a></li>
 </ul></div>
 

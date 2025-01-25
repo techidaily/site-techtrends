@@ -1,7 +1,7 @@
 ---
 title: Discover the Unmatched Ride Quality of the Tenways CGO60
-date: 2024-08-30T15:06:00.244Z
-updated: 2024-08-31T15:06:00.244Z
+date: 2025-01-21T16:22:01.553Z
+updated: 2025-01-25T16:11:58.054Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Discover the Unmatched Ride Quality of the Tenways CGO60
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * [CGO600 Pro Price and Availability](https://instagram-video-files.techidaily.com/updated-instacaptions-for-a-global-stage-top-100-inspirational-posts-for-2024/)
 * [Tenways CGO600 Pro vs CGO800S](https://visual-screen-recording.techidaily.com/enhancing-gameplay-with-switch-pro-a-compreran-guide-for-steam-gamers-for-2024/)
 * [Should You Buy the Tenways CGO600 Pro Ebike?](https://article-posts.techidaily.com/cut-and-paste-chronicles-qanda-archive/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -101,12 +109,13 @@ Expand
 
 [$1699 at Tenways](https://www.us.tenways.com/?ref=mwuxnmm&utm%5Fsource=tapfiliate&utm%5Fmedium=affiliate&utm%5Fcampaign=mwuxnmm) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  An Ebike High on Style and Design
 
 ![A close up of the Tenways CGO600 Pro front light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/598ab282-910d-41dc-8a79-76f4c60a94a9.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -118,9 +127,6 @@ Tyler Hayes / How-To Geek
 
  From a purely aesthetic standpoint, I thought the CGO600 Pro looked like a cousin of VanMoof ([R.I.P](https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer).) ebikes. Although the Avocado Green color might not be for everyone, I was smitten with its pale green complexion, which seemed sophisticated. I’ve tried a black Tenways bike before, and that color also looked good in person. The front light added to some of the bike's visual appeal, even though it's meant to be more for function. The light was useful at night, but I wish it had been a little bit brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Benefits of a Belt-Drive Bike
 
 ![A close up of the Tenways CGO600 Pro belt drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/821c0c13-9fac-41ad-894d-ebd7e1a138a1.JPG) 
@@ -135,6 +141,10 @@ Tyler Hayes / How-To Geek
 
  Riding up hills, I hit about 11 to 13 miles per hour speeds. I purposefully wasn't trying to push myself to reach higher speeds either. I suspect anyone interested in commuting with this bike wouldn't want to show up to work drenched in sweat. Using the most powerful pedal assist level and only minor effort still kept me moving at a reasonable speed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Riding the Distance
 
  About a month before riding the CGO600 Pro, I finally sold an old, traditional street bike that was taking up space in my garage. I had bought it before ebikes were ever a thing, but jumping on this CGO600 Pro still reminded me of it.
@@ -147,9 +157,6 @@ Tyler Hayes / How-To Geek
 
  The ebike is quoted as having up to 53 miles of range. This can be achieved on the lowest power setting. Based on my experience, the more reasonable expectation is closer to 30 miles of range. Exclusively using the bike at full power push, that number is lower, but I never felt the need to leave it on the highest setting. Especially around flatter areas, I found the middle power setting to be the sweet spot. When the battery does get depleted, it can be removed from the bike and charged anywhere. The battery also has a small 4-dot power meter, which was helpful to see without needing to turn the bike on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Tech and the Bike's Mobile App
 
 ![Close up of the Tenways CGO600 Pro display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/fa040df2-0ce6-4068-ad55-065ab1bb8006.JPG) 
@@ -166,19 +173,12 @@ The screen did not photograph well but was readable in most lighting conditions.
 
  The CGO600 Pro has a passcode on the display to prevent others from turning on the power. As a security measure, that felt silly. The bike was easy to ride with no power. But it was also silly that the code could not be set or bypassed with the mobile app. After a few uses of the Tenways app, I left it closed and never missed it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  CGO600 Pro Price and Availability
 
  The Tenways CGO600 Pro is widely available and [retails for $1,899](http://us.tenways.com/products/cgo600-pro) but is commonly on sale for $1,699 and offers free mudguards and a kickstand.
 
  The $1,699 cost is still pricey compared to the wide range of increasingly budget ebike options on the market, but it feels much more reasonable than the $1,899 retail price. [Velotric's T1 ebike](https://www.velotricbike.com/products/velotric-t1-ebike?variant=41729522794679) weighs a similar 36 pounds and also retails for around $1,699\. It has some different features and trade-offs, but these are certainly two comparable bikes that come in at a similar target price.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Tenways CGO600 Pro vs CGO800S
 
  The CGO600 Pro and the [CGO800S](https://us.tenways.com/products/cgo800s) are ultimately different enough bikes not to make the buying decision too difficult, but they are related. Most prominently, both use a single-gear belt drive.
@@ -193,8 +193,9 @@ The screen did not photograph well but was readable in most lighting conditions.
 * The CGO600 Pro offers different size frames for different-sized riders
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Tenways CGO600 Pro Ebike?
 
 ![Tenways CGO600 Pro on a basketball court standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/bike.JPG) 
@@ -267,16 +268,11 @@ Expand
 
 [$1699 at Tenways](https://www.us.tenways.com/?ref=mwuxnmm&utm%5Fsource=tapfiliate&utm%5Fmedium=affiliate&utm%5Fcampaign=mwuxnmm) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the different ebike classes?
 
@@ -294,8 +290,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +297,26 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-see-what-you-just-watched-on-facebook/"><u>[New] 2024 Approved How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-picture-clarity-efficiently-eradicating-backgrounds/"><u>[New] Perfecting Picture Clarity Efficiently Eradicating Backgrounds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-essential-guide-to-choosing-no-cost-iphone-and-android-apps/"><u>[New] The Essential Guide to Choosing No-Cost iPhone and Android Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-pulse-picking-playbacks-character-beats-unveiled/"><u>2024 Approved Pulse-Picking Playbacks Character Beats Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-windows-10-capture-champions-app-roundup/"><u>2024 Approved Windows 10 Capture Champions App Roundup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-diagnosing-and-fixing-zero-display-issues-in-computers/"><u>A Comprehensive Guide to Diagnosing and Fixing Zero-Display Issues in Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-step-by-step-tutorial-for-recording-youtube-live-across-devices-for-2024/"><u>A Step-by-Step Tutorial for Recording YouTube Live Across Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-premium-modemrouter-hybrids-dominating-the-market/"><u>Comprehensive Guide to Premium Modem/Router Hybrids Dominating the Market</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connect-and-display-a-detailed-tutorial-of-broadcasting-window-os-interface-to-your-hdtv-with-chromecast/"><u>Connect and Display: A Detailed Tutorial of Broadcasting Window OS Interface to Your HDTV with Chromecast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-usb-20-performance-benefits-wire-varieties-and-plug-ins/"><u>Decoding USB 2.0: Performance Benefits, Wire Varieties, and Plug-Ins</u></a></li>
+<li><a href="https://games-able.techidaily.com/delay-ps5-reasons-for-postponement/"><u>Delay PS5: Reasons for Postponement</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-long-does-iphone-to-iphone-14-data-transfer-take/"><u>How Long Does iPhone-to-iPhone 14 Data Transfer Take?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-closer-look-approach-to-team-collaboration/"><u>In 2024, The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-software-for-group-video-conferencing/"><u>Leading Software for Group Video Conferencing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pro-tips-and-hidden-tricks-revolutionize-your-whatsapp-experience-for-2024/"><u>Pro Tips and Hidden Tricks Revolutionize Your WhatsApp Experience for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-techniques-for-snapping-photos-from-playstation-4-screens/"><u>Simple Techniques for Snapping Photos From PlayStation 4 Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-personalizing-mac-folders-with-custom-colors/"><u>Step-by-Step Tutorial: Personalizing Mac Folders with Custom Colors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-apple-watch-ultra-2-industry-rumors-on-features-specs-forecasted-price-points-and-release-timing/"><u>The Next Apple Watch Ultra 2: Industry Rumors on Features, Specs, Forecasted Price Points and Release Timing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-wininetdll-not-present-warnings-on-your-pc/"><u>Understanding and Fixing wininet.dll Not Present Warnings on Your PC</u></a></li>
+</ul></div>
 

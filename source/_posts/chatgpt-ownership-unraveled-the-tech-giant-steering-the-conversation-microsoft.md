@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Ownership Unraveled: The Tech Giant Steering the Conversation, Microsoft"
-date: 2024-08-30T15:10:51.413Z
-updated: 2024-08-31T15:10:51.413Z
+date: 2025-01-19T20:02:12.779Z
+updated: 2025-01-25T17:43:01.755Z
 categories:
   - BestProducts
 description: "This Article Describes ChatGPT Ownership Unraveled: The Tech Giant Steering the Conversation, Microsoft"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 Close 
 
  This article provides a look at OpenAI and ChatGPT, who made them, and who's in charge today.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Made ChatGPT? 
 
@@ -29,11 +33,19 @@ Close
 
  Although there was some turmoil in the OpenAI board in the Fall of 2023, where CEO Sam Altman was temporarily ousted, he soon returned after an exodus of OpenAI staff. Altman and OpenAI's president, Greg Brockman, also work as part of an advanced AI research team at Microsoft despite OpenAI continuing to be their main focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Did ChatGPT Come Out? 
 
  Although OpenAI developed a number of GPT language models internally as part of its AI research efforts, it only released its first commercial ChatGPT service in December 2022\. This first version of the AI chatbot was based on its GPT-3.5 language model,
 
 ![ChatGPT main page.](https://www.lifewire.com/thmb/NHebqSA2n4TcEKIMK_5Uig6pAKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chatgpt0111-4c3933ae2610433489dcbf124c7f8872.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The ChatGPT window as it is seen in 2024, with the GPT-4o language model. 
 
@@ -44,8 +56,9 @@ Close
  OpenAI launched the latest version of ChatGPT in May 2024\. GPT-4o introduced multi-modality to the AI in a much broader array of capabilities than ever before. This version is faster than its predecessor and offers more functionality to both free and paid users.  
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who Invented ChatGPT? 
 
  ChatGPT was created by OpenAI, although the concept of AI chatbots has existed for far longer.
@@ -55,8 +68,9 @@ Close
  Symbolic efforts were made to develop NLP models over the ensuing decades, but it wasn't until the integration with big data and machine learning, along with the advanced computing power of the 2010s, that its development really accelerated. This led to the first viable NLM commercial product in ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Else Does OpenAI Make? 
 
  OpenAI is also behind the development and release of all new versions of ChatGPT, including the more advanced GPT-4 language model that has been available as part of ChatGPT Plus since March 2023 and the latest GPT-4o language model, launched in May 2024.
@@ -83,8 +97,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +104,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-tips-solve-obss-blackout-during-live-captures/"><u>[New] In 2024, Quick Tips Solve OBS's Blackout During Live Captures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-7-high-motion-dslrs-for-dynamic-live-content-creation/"><u>[Updated] Best 7 High-Motion DSLRs for Dynamic Live Content Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-complimentary-email-providers-top-picks/"><u>Discover the Best Complimentary Email Providers, Top Picks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist-for-2024/"><u>Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-picks-the-13-best-no-cost-tools-to-evaluate-your-hard-drives/"><u>Expert Picks: The 13 Best No-Cost Tools to Evaluate Your Hard Drives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/group-music-sessions-on-spotify-connect-and-jam-with-friends/"><u>Group Music Sessions on Spotify: Connect and Jam with Friends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hd-viewing-of-the-complete-223-billboards-music-awards-ceremony-available-for-free-downloads-and-watches/"><u>HD Viewing of the Complete 2^2^3^ Billboards Music Awards Ceremony Available for FREE Downloads and Watches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-the-termination-of-a-paramountplus-account-effectively/"><u>How to Navigate the Termination of a Paramount+ Account Effectively</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a1-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo A1 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-the-best-google-wireless-nest-doorbell-on-batteries/"><u>In-Depth Assessment: The Best Google Wireless Nest Doorbell on Batteries</u></a></li>
+<li><a href="https://techtrends.techidaily.com/must-watch-athletic-dramas-our-picks-for-the-perfect-film-selection/"><u>Must-Watch Athletic Dramas: Our Picks for the Perfect Film Selection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-market-5-tips-for-selecting-a-high-quality-video-game-console/"><u>Navigating the Market: 5 Tips for Selecting a High-Quality Video Game Console</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-dealing-with-missing-wmvcoredll-errors/"><u>Step-by-Step Solution for Dealing with Missing Wmvcore.dll Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-a23-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy A23 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-taskbar-how-to-personalize-colors-on-windows-10-for-a-fresh-look/"><u>Transform Your Taskbar: How to Personalize Colors on Windows 10 for a Fresh Look</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor X9b | Dr.fone</u></a></li>
+</ul></div>
 

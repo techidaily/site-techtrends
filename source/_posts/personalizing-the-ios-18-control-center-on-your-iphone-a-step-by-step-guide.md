@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2025-01-15T17:30:14.441Z
-updated: 2025-01-19T20:10:28.748Z
+date: 2025-01-23T17:56:18.189Z
+updated: 2025-01-25T18:07:00.749Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
@@ -40,6 +40,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -48,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -76,19 +84,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earnings-analysis-youtube-views-vs-financial-gain/"><u>[Updated] 2024 Approved Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-recording-mastery-utilizing-gameye-and-more/"><u>[Updated] Game Recording Mastery Utilizing GamEye and More</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehensive-guide-to-refreshing-your-dell-system-and-starting-anew/"><u>A Comprehensive Guide to Refreshing Your Dell System and Starting Anew</u></a></li>
-<li><a href="https://win-special.techidaily.com/de-tweede-top-tips-voor-kopieerend-kopieeren-van-harde-schijf-op-je-del-laptop-zonder-installeren-van-het-besturings-systeem/"><u>De Tweede Top-Tips Voor Kopieerend Kopieeren Van Harde Schijf Op Je Del-Laptop Zonder Installeren Van Het Besturings Systeem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-augmented-reality-ar-virtual-reality-vr-mixed-reality-mr-and-extended-reality-xr-a-comparison-guide/"><u>Decoding Augmented Reality (AR), Virtual Reality (VR), Mixed Reality (MR) & Extended Reality (XR): A Comparison Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-wireless-security-solution-the-waterproof-blink-mini-2-outperforms-wyze-camera/"><u>Discover the Ultimate Wireless Security Solution: The Waterproof Blink Mini 2 Outperforms Wyze Camera</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tutorial-on-getting-rid-of-the-ai-assistant-microsoft-copilot-in-windows-11/"><u>Easy Tutorial on Getting Rid of the AI Assistant, Microsoft Copilot, in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-issue-how-to-resolve-100-disk-utilization-on-windows-11/"><u>Fixing the Issue: How to Resolve 100% Disk Utilization on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-swf-videobestanden-in-wav-format-beheren-professioneel-konverteren-met-movavi/"><u>Gratuit SWF-Videobestanden in WAV Format Beheren: Professioneel Konverteren Met Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-signature-to-a-pdf-v12-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add signature to a PDF v1.2 document</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-fixing-search-glitches-in-windows-11/"><u>How to Restore Functionality: Fixing Search Glitches in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/maximizing-screen-usage-with-androids-built-in-picture-in-picture-tutorial/"><u>Maximizing Screen Usage with Android's Built-In Picture-in-Picture Tutorial</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-150-2023-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia 150 (2023) Screen | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-ipad-print-command-errors-tips-for-finding-lost-or-invisible-printers/"><u>Solving iPad Print Command Errors: Tips for Finding Lost or Invisible Printers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-triggering-a-hardware-reset-on-windows-for-boot-into-safe-mode/"><u>Step-by-Step Guide: Triggering a Hardware Reset on Windows for Boot Into Safe Mode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-utilizing-windows-11s-detailed-battery-analysis-tool/"><u>The Ultimate Guide to Utilizing Windows 11'S Detailed Battery Analysis Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-refresh-your-chromecast-device/"><u>Ultimate Guide: Steps to Refresh Your Chromecast Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-deciphering-the-maximum-duration-for-instagram-videos/"><u>[New] 2024 Approved Deciphering the Maximum Duration for Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-craft-an-attractive-animation-from-any-video-a-comprehensive-youtube-to-gif-guide/"><u>[Updated] In 2024, Craft an Attractive Animation From Any Video - A Comprehensive Youtube-to-GIF Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[Updated] In 2024, Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-web-based-heic-to-jpeg-transformer-reviews-and-ratings/"><u>Best FREE Web-Based HEIC to JPEG Transformer - Reviews & Ratings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-and-simple-guide-swift-video-trimming-techniques-for-mac-users/"><u>Free & Simple Guide: Swift Video Trimming Techniques for Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-playback-problems-when-using-a-beachbody-exercise-dvd-for-perfect-workouts/"><u>How to Resolve Playback Problems When Using a Beachbody Exercise DVD for Perfect Workouts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-10macx-mediatransiphoneitunes/"><u>IOS 10対応版のMacX MediaTransでiPhoneを正常に同期：iTunes認識不能？</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-capture-to-share-mastering-gopro-quik-video-editing-on-macbook/"><u>New 2024 Approved From Capture to Share Mastering GoPro Quik Video Editing on MacBook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-into-computer-hardware/"><u>Tom's Tech Review: Expert Insights Into Computer Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-watch-christmas-movies-on-dvd-purchase-or-rental-options/"><u>Top 10 Must-Watch Christmas Movies on DVD - Purchase or Rental Options</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-amazon-discounts-available-in-september-2024-find-the-hottest-offers/"><u>Top Amazon Discounts Available in September 2024 - Find the Hottest Offers</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-pdf-printers-discover-swift-solutions/"><u>Trouble With PDF Printers? Discover Swift Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-all-access-pass-to-the-enhanced-macxdvd-tool-suite-complimentary-update-opportunity/"><u>Unlock All-Access Pass to the Enhanced MacXDVD Tool Suite – Complimentary Update Opportunity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-full-features-of-macdvd-suite-with-complimentary-full-license-the-ultimate-deal/"><u>Unlock Full Features of MacDVD Suite with Complimentary Full License – The Ultimate Deal!</u></a></li>
 </ul></div>
 

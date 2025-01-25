@@ -1,7 +1,7 @@
 ---
 title: "Potential March Release Date Leaked: Apple Prepares New MacBook Air, iPad Pro & iPad Air"
-date: 2025-01-18T20:40:59.478Z
-updated: 2025-01-19T20:10:05.236Z
+date: 2025-01-21T16:18:32.923Z
+updated: 2025-01-25T20:29:18.872Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything announced at Apple's 'Let Loose' event
@@ -37,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -76,6 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -92,10 +96,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -103,7 +103,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -111,7 +111,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -160,19 +160,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-bio-writing-essential-tactics-for-success/"><u>[Updated] Mastering Facebook Bio Writing Essential Tactics for Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amazon-echo-dot-configuration-a-comprehensive-walkthrough/"><u>Amazon Echo Dot Configuration: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expanding-display-real-estate-linking-three-displays-to-one-computer/"><u>Expanding Display Real Estate: Linking Three Displays to One Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-wireless-capability-is-turned-off-solved/"><u>Fix Wireless Capability Is Turned Off [Solved]</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-dive-deep-into-tiktok-lives-how-to-engage-effectively/"><u>In 2024, Dive Deep Into TikTok Lives How to Engage Effectively</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-role-of-asmr-in-improving-mental-clarity/"><u>In 2024, The Role of ASMR in Improving Mental Clarity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-s18-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo S18 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor Magic 5 Lite? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722843287770-keep-your-valuable-data-intact-a-guide-to-5-reliable-backup-solutions/"><u>Keep Your Valuable Data Intact: A Guide to 5 Reliable Backup Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/steampcsepgaudio/"><u>SteamPCゲーム音楽及びSEPGAudioファイル抽出テクニック</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-syncing-up-multiple-bluetooth-speakers-with-just-one-device/"><u>The Ultimate Guide to Syncing Up Multiple Bluetooth Speakers with Just One Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trick-your-trackers-steps-to-change-where-google-maps-says-you-are/"><u>Trick Your Trackers: Steps to Change Where Google Maps Says You Are</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-error-code-0x80070570-a-comprehensive-guide/"><u>Understanding Error Code 0X80070570: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-your-brand-with-brilliant-educational-videos-a-guide-to-youtube-excellence/"><u>[New] 2024 Approved Building Your Brand with Brilliant Educational Videos A Guide to YouTube Excellence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mirthful-methodology-making-memes-for-free/"><u>[New] 2024 Approved Mirthful Methodology Making Memes for Free</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-craft-viral-instagram-moments-by-incorporating-tiktok-wisdom/"><u>[Updated] 2024 Approved Craft Viral Instagram Moments by Incorporating TikTok Wisdom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-create-endless-video-on-iphone-for-2024/"><u>[Updated] How-To Create Endless Video on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-the-new-streaming-landscape-with-youtube-premium/"><u>[Updated] In 2024, Navigating the New Streaming Landscape with YouTube Premium</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-aerial-camera-crew-the-best-10-drones/"><u>[Updated] Premium Aerial Camera Crew The Best 10 Drones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-buying-extra-tools-learn-to-open-your-iphones-sim-by-yourself/"><u>Avoid Buying Extra Tools - Learn to Open Your iPhone's SIM by Yourself</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cable-or-streaming-a-comprehensive-guide-comparing-both-options/"><u>Cable or Streaming? A Comprehensive Guide Comparing Both Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-insights-on-lg-channels-a-comprehensive-guide/"><u>Essential Insights on LG Channels: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-transfer-and-play-ps4-titles-on-a-new-ps5-system/"><u>How To Transfer and Play PS4 Titles On A New PS5 System?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lack-of-light-display-disruption/"><u>Lack of Light: Display Disruption</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-microsoft-teams-with-ai-the-ultimate-guide-to-leveraging-copilot/"><u>Mastering Microsoft Teams with AI: The Ultimate Guide to Leveraging Copilot</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722985207989-silence-not-working-in-lost-ark-discover-tips-for-bringing-back-the-games-soundscape/"><u>Silence Not Working In Lost Ark? Discover Tips For Bringing Back The Game's Soundscape</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-wi-fi-connection-issues-a-step-by-step-guide-for-vizio-tvs/"><u>Solving Your Wi-Fi Connection Issues: A Step-by-Step Guide for Vizio TVs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-for-securing-the-blue-badge-on-instagram/"><u>Step-by-Step Strategies for Securing the Blue Badge on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-for-implementing-reminders-on-slack-platform/"><u>The Complete Walkthrough for Implementing Reminders on Slack Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-and-repair-mfplatdll-not-detected-issues-with-ease/"><u>Troubleshoot and Repair 'mfplat.dll' Not Detected Issues with Ease</u></a></li>
 </ul></div>
 

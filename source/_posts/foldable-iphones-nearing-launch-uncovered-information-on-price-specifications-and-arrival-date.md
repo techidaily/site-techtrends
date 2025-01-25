@@ -1,7 +1,7 @@
 ---
 title: Foldable iPhones Nearing Launch? Uncovered Information on Price, Specifications, and Arrival Date
-date: 2024-08-30T15:12:29.380Z
-updated: 2024-08-31T15:12:29.380Z
+date: 2025-01-21T16:31:13.579Z
+updated: 2025-01-25T18:28:21.926Z
 categories:
   - BestProducts
 description: This Article Describes Foldable iPhones Nearing Launch? Uncovered Information on Price, Specifications, and Arrival Date
@@ -22,11 +22,19 @@ In This Article
 
  One idea floating around is Apple combining an iPhone and an iPad to make a double-wide phone, or maybe the iPhone Flip will fold like the iconic Motorola Razr. These are just rumors for now, and some experts think Apple might release a foldable iPad before a flip phone. Whatever the case, the talk about a foldable Apple gadget is picking up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Summary
 
 * **Release date** : 2026
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When Will the Foldable iPhone Be Released?
 
@@ -42,6 +50,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -51,8 +63,9 @@ Patent US8929085B2.
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
@@ -69,24 +82,14 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -99,10 +102,6 @@ Michal Dufka
 
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -128,8 +127,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -140,14 +140,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +153,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-blueprint-for-an-intriguing-videography-script/"><u>[New] Blueprint for an Intriguing Videography Script</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-echo-your-personality-setting-unique-ringtones-and-sounds-in-androids-settings-menu/"><u>[New] Echo Your Personality Setting Unique Ringtones & Sounds in Android's Settings Menu</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-excellence-in-penmanship-8-screenplay-classics/"><u>[New] Excellence in Penmanship 8 Screenplay Classics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-screen-time-for-peaceful-phone-puzzles/"><u>[Updated] In 2024, Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streamsavvy-exploring-alternatives-to-dacast/"><u>[Updated] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-advanced-mac-photo-tips-5-efficient-snapshot-techniques/"><u>2024 Approved Advanced Mac Photo Tips 5 Efficient Snapshot Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-world-in-motion-discover-14-text-animation-creations/"><u>A World in Motion Discover 14 Text Animation Creations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-connection-tips-how-to-pair-a-bluetooth-keyboard-successfully/"><u>Easy Connection Tips: How To Pair A Bluetooth Keyboard Successfully</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-checking-your-nvidia-drivers-a-step-by-score/"><u>Easy Methods for Checking Your NVIDIA Drivers – A Step-by-Score</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-capturing-screen-images-in-windows-11/"><u>Easy Steps for Capturing Screen Images in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-completely-delete-programs-from-windows-10/"><u>Easy Steps to Completely Delete Programs From Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enduring-endless-wait-times-for-windows-10-updates-heres-how-to-fix-it/"><u>Enduring Endless Wait Times for Windows 10 Updates? Here's How to Fix It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhanced-skyrim-experience-unleash-the-ultimate-fps-boost-in-the-special-edition/"><u>Enhanced Skyrim Experience: Unleash the Ultimate FPS Boost in the Special Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-guide-fixing-the-logitech-c922-webcam-for-seamless-video-capture/"><u>Expert Guide: Fixing the Logitech C922 Webcam for Seamless Video Capture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-8-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 8 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-outdoor-entertainment-the-ultimate-ion-audio-tailgater-plus-review-with-bass-boost-feature/"><u>Maximizing Your Outdoor Entertainment: The Ultimate Ion Audio Tailgater Plus Review with Bass Boost Feature</u></a></li>
+</ul></div>
 

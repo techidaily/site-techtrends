@@ -1,7 +1,7 @@
 ---
 title: "Professional Insight: The Allure and Expense of Apple's Latest 5K Monitor, the 27-Inch Studio Display - A ZDNet Exclusive Evaluation"
-date: 2025-01-14T21:39:02.155Z
-updated: 2025-01-19T19:37:46.934Z
+date: 2025-01-24T20:38:53.467Z
+updated: 2025-01-25T18:00:58.081Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -45,10 +45,6 @@ Now, Apple has announced that it's using machine learning to derive a left eye a
 Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+ on the Vision Pro. All the Marvel movies were filmed in 2D and digitally remastered into 3D movies. The 3D effect is pretty underwhelming. Sometimes an object seems to be pulled from the background, but otherwise, it's not much to write home about. 
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Watch those images together using SharePlay in the Photos app
 
@@ -64,6 +60,10 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -72,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -92,6 +92,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -99,6 +103,10 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -110,10 +118,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,22 +171,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis/"><u>[Updated] 2024 Approved Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-webcam-wisdom-for-professional-streaming-enthusiasts/"><u>[Updated] 2024 Approved Webcam Wisdom for Professional Streaming Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-posting-on-instagram/"><u>2024 Approved A Step-by-Step Guide to Posting on Instagram</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/dull-to-delightful-text-that-tumbles-and-twirls/"><u>From Dull to Delightful Text that Tumbles and Twirls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-correct-ui-bug-27711-on-call-of-duty-black-ops-cold-war/"><u>How to Correct UI Bug 27711 on Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-webcam-black-screen-on-windows-1110/"><u>How to Fix Webcam Black Screen on Windows 11/10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-install-fonts-for-windows-10-easily-solved/"><u>How to Install Fonts for Windows 10 Easily [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-retrieve-skype-forgotten-password/"><u>How to Retrieve Skype Forgotten Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-rip-dvds-to-windows-11-easy-steps/"><u>How to Rip DVDs to Windows 11? Easy Steps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-use-a-vpn-on-xbox-one-quickly-and-easily/"><u>How to Use a VPN on Xbox One | Quickly & Easily!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-excellence-in-resolution-macs-favorite-4k-screens/"><u>In 2024, Excellence in Resolution Mac's Favorite 4K Screens</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-printer-software-update-2024-free-downloads/"><u>Latest HP Officejet 4500 Printer Software Update 2024 - Free Downloads</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oppo-reno-11f-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-setup-obtain-the-latest-google-usb-drivers-here/"><u>Quick Setup: Obtain the Latest Google USB Drivers Here</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-windows-n10-login-issues-a-comprehensive-guide/"><u>Resolving Windows N10 Login Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-accessing-the-windows-8-control-panel-with-ease/"><u>Simple Steps: Accessing the Windows 8 Control Panel with Ease</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-cyber-companion-tone-downloads-guide-for-2024/"><u>Ultimate Cyber Companion Tone Downloads Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-12-simple-tricks-to-make-your-youtube-videos-go-viral-for-2024/"><u>[Updated] 12 Simple Tricks to Make Your YouTube Videos Go Viral for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-premium-20-free-to-use-pubg-image-arrays-for-2024/"><u>[Updated] Premium 20 Free-to-Use PUBG Image Arrays for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlined-steps-to-record-on-your-ipad-screen/"><u>2024 Approved Streamlined Steps to Record on Your iPad Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discord-server-hiccups-understanding-whether-its-a-downtime-event-or-personal-connectivity-issue/"><u>Discord Server Hiccups: Understanding Whether It's a Downtime Event or Personal Connectivity Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/external-display-woes-heres-how-to-make-your-mac-acknowledge-it/"><u>External Display Woes? Here's How to Make Your Mac Acknowledge It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-android-text-message-reception-a-step-by-step-guide/"><u>Fixing Android Text Message Reception: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videography-with-top-seo-gadgets/"><u>In 2024, Elevate Your Videography with Top SEO Gadgets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-y100-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo Y100 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-for-virtual-camera-and-software-solutions/"><u>Live Streaming with ManyCam: Top Choice for Virtual Camera and Software Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-realme-c51-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Realme C51.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-prowess-the-best-video-editors-for-your-drone-footage/"><u>Pro-Level Prowess The Best Video Editors for Your Drone Footage</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolving-playback-problems-with-mplayerx-on-macos-el-capitan-a-comprehensive-guide/"><u>Resolving Playback Problems with MPlayerX on macOS El Capitan - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-kernel-paging-issue-step-by-step-guide/"><u>Resolving the Kernel Paging Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-blueprint-for-pairing-a-chromecast-remote-like-a-pro/"><u>The Beginner's Blueprint for Pairing a Chromecast Remote Like a Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-rise-and-fall-of-chat-apps-unveiling-the-story-behind-aol-instant-messenger-aim/"><u>The Rise and Fall of Chat Apps: Unveiling the Story Behind AOL Instant Messenger (AIM)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-tiktok-fame-a-list-of-10-secrets-to-going-viral-on-the-platform/"><u>Unlocking TikTok Fame: A List of 10 Secrets to Going Viral on the Platform</u></a></li>
 </ul></div>
 

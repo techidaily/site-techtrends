@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2025-01-17T18:10:51.401Z
-updated: 2025-01-19T17:13:05.317Z
+date: 2025-01-19T16:46:15.154Z
+updated: 2025-01-25T16:06:55.663Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,6 +94,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,15 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-exploring-alternatives-to-game-bar-for-video-recording/"><u>[New] 2024 Approved Exploring Alternatives to Game Bar for Video Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>[Updated] Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-comprehve-guide-picking-the-best-surge-protector-to-safeguard-your-appliances/"><u>A Comprehve Guide: Picking the Best Surge Protector to Safeguard Your Appliances</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-mobile-experience-with-these-8-premier-multi-number-apps/"><u>Enhance Your Mobile Experience with These 8 Premier Multi-Number Apps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-integrating-a-pinning-feature-on-your-facebook-business-profile/"><u>Guide: Integrating a Pinning Feature on Your Facebook Business Profile</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-mastering-creative-expression-adding-video-filters-in-zoom/"><u>In 2024, Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-potential-in-google-photos-features/"><u>In 2024, Maximizing Potential in Google Photos Features</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-meme-mastery-the-top-10-apps-for-android-and-ios-users/"><u>New 2024 Approved Meme Mastery The Top 10 Apps for Android and iOS Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782571-9781620554708-the-divining-mind/"><u>The Divining Mind | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-clearing-browser-cache-for-enhanced-security-and-privacy/"><u>Ultimate Guide to Clearing Browser Cache for Enhanced Security and Privacy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pathways-to-discovering-elite-filmmakers/"><u>[New] 2024 Approved Pathways to Discovering Elite Filmmakers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-compelling-podcast-intro-videos/"><u>[New] Crafting Compelling Podcast Intro Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmony-in-hues-and-beats-the-top-5-pioneering-professionals-in-visuals-and-audio/"><u>[New] Harmony in Hues and Beats The Top 5 Pioneering Professionals in Visuals & Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-panning-crossfading-in-logic-pro-x/"><u>[New] Perfect Panning Crossfading in Logic Pro X</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-video-capture-test-apowersoft-and-more/"><u>[Updated] 2024 Approved Free Video Capture Test Apowersoft & More</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-key-questions-you-should-ask-before-investing-in-fitness-tracking-technology/"><u>5 Key Questions You Should Ask Before Investing in Fitness Tracking Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-secure-mailbox-services-top-5-reviews-and-comparison/"><u>Advanced Secure Mailbox Services: Top 5 Reviews and Comparison</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-practices-in-choosing-an-effective-surge-protector-for-electronics/"><u>Best Practices in Choosing an Effective Surge Protector for Electronics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-to-address-missing-x3daudiodll-errors-quickly-and-easily/"><u>Comprehensive Tips to Address Missing X3DAudio.dll Errors Quickly and Easily</u></a></li>
+<li><a href="https://techidaily.com/decoding-rundll32exe-its-functions-and-implications-for-your-pc/"><u>Decoding rundll32.exe: Its Functions and Implications for Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-10-alternatives-to-chatgpt-in-ai-conversational-agents/"><u>Discover the Best 10 Alternatives to ChatGPT in AI Conversational Agents</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-exciting-gaming-consoles-dominating-2024/"><u>Discover the Most Exciting Gaming Consoles Dominating 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-panzoid-assembly-resources/"><u>Dynamic Panzoid Assembly Resources</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-typing-classes-for-kids-and-adults-select-the-best-12-of-our-favorites/"><u>Free Typing Classes for Kids and Adults: Select the Best 12 of Our Favorites</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-go-2023-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark Go (2023) Phone that is Locked?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-perfect-pairing-of-tiktok-bio-and-linktree-connection/"><u>In 2024, Perfect Pairing of TikTok Bio & Linktree Connection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-memories-sing-picture-plus-music-videography/"><u>Making Memories Sing Picture + Music Videography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-virality-on-instagram-essential-tricks-and-insights-you-need-to-know/"><u>Mastering the Art of Virality on Instagram: Essential Tricks and Insights You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-line-communication-tool-thorough-application-review/"><u>Unveiling The Line Communication Tool: Thorough Application Review</u></a></li>
 </ul></div>
 
