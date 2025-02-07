@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering the Classics: MSN, GameSpy & Winamp - A Trip Down Memory Lane"
-date: 2024-08-30T15:08:31.778Z
-updated: 2024-08-31T15:08:31.778Z
+date: 2025-02-04T16:06:14.231Z
+updated: 2025-02-07T16:01:38.761Z
 tags:
   - deals
 categories:
@@ -37,9 +37,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  These days you don’t need middleware like GameSpy, with matchmaking integrated into platforms like Xbox Live and Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  MSN, [AIM](https://my.screenname.aol.com/), [ICQ](https://www.icq.com) 
 
 **You might also remember:** iChat, Gaim (Pidgin), Jabber
@@ -50,9 +47,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -74,8 +68,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  While many of these services no longer exist in any capacity, Napster came back to life as a music streaming service that still exists today.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Winamp](http://www.winamp.com) 
 
 ![The official Winamp skin museum.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/winamp_skins.png) 
@@ -102,20 +97,16 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
 ![The mIRC IRC client running in Windows 11 can replace Discord too](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/mirc.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Internet relay chat, or IRC for short, is an internet chat protocol that first appeared in 1988\. It works using a series of servers, on which users chat within channels. It’s not dissimilar to a modern chat solution like Discord (so much so that [we gave it a nod in our Discord alternatives roundup](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6s-without-previous-owner-by-drfone-ios/)). Unlike Discord, chat history isn’t saved to the server and is not retrievable later.
 
 [mIRC](https://www.mirc.com) was the Windows IRC client of choice for many users. Like GameSpy, IRC was an invaluable tool in the early days of online gaming, where users could hang out in channels, organize matches, advertise servers, and follow each other into games. Many server providers would offer support over IRC as it was the fastest way to get issues resolved at the time.
 
  mIRC is still around, as are many of the IRC servers that made the protocol so popular in the first place.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Dial-Up Software: CompuServe, AOL, and More
 
 **You might also remember:** FreeServe, MSN, Prodigy
@@ -125,6 +116,10 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  You probably aren’t yearning for a return to the days of dial-up speeds and random disconnects, but how long has it been since you heard the beeps and boops of a 56K modem? Does anyone else fondly remember counting down the minutes until you could click “Connect” on your free off-peak dial-up provider’s Windows 98 app?
 
  Though dial-up has largely been replaced in the US, [a very small percentage of users still connect to the internet using dial-up](https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Defunct Browsers: Internet Explorer, Netscape Navigator
 
@@ -137,8 +132,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -148,17 +144,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  Amazingly, eJay still exists and you can buy old versions that promise to work on versions of Windows up to Windows 10.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Desktop Pets: Dogz, Catz, Bonzi Buddy
 
 **You might also remember:** GoPets, MOPy fish
@@ -179,8 +167,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +174,18 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-8-strategies-livestreaming-webinars-without-costs/"><u>[New] 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>[New] Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unwind-twitch-feeds-immediately/"><u>[New] Unwind Twitch Feeds Immediately</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-visualstoryteller-for-windows/"><u>[Updated] VisualStoryteller for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024-ogg-to-mp3/"><u>2024年度更新 - オールインワンの高品質Ogg to MP3コンバーター:無料アプリと使用ガイド</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/aprenda-a-integrar-gravacoes-em-um-unico-filme-com-windows-ebrmais-eficientes-na-versao-11/"><u>Aprenda a Integrar Gravações Em Um Único Filme Com Windows Ebrmais Eficientes Na Versão 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effizientes-video-konvertierungsskript-mit-handbrake-fur-die-umwandlung-und-rippung-von-dvds/"><u>Effizientes Video-Konvertierungsskript Mit HandBrake Für Die Umwandlung Und Rippung Von DVDs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/red-dead-redemption-angry-birdies-2-errors-solving-errgfxstate-malfunction-seamlessly/"><u>Red Dead Redemption Angry Birdies 2 Errors, Solving ERR_GFX_STATE Malfunction Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-converting-dvds-to-digital-format-across-pc-mac-and-mobile-devices/"><u>Step-by-Step Guide: Converting DVDs to Digital Format Across PC, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/story-1-the-misunderstanding-of-transmission/"><u>Story 1: The Misunderstanding of Transmission</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oneplus-ace-2-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your OnePlus Ace 2 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Contrasting File Systems in Windows 10 Vs. Windows 11"
-date: 2024-08-30T15:08:11.129Z
-updated: 2024-08-31T15:08:11.129Z
+date: 2025-02-05T16:15:38.021Z
+updated: 2025-02-07T16:15:10.065Z
 tags:
   - deals
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  Do you want to compare the number of files or folders or simply visualize the difference between two folders? If so, you have two graphical and one command line method to do that. We’ll show you how to perform the folder comparison task on your Windows 11 or Windows 10 PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Compare Folders From Properties
 
  To compare the number of files, subfolders, the size, and the creation date of two folders, use the Properties option in Windows File Explorer. This lets you quickly glance at the main attributes of a folder.
@@ -41,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  That gives you a general overview of the differences between your folders.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  Compare Folders Using Command Prompt
 
  If you prefer command line methods over graphical ones, use the robocopy command in Command Prompt to see the differences between the two folders. This command is actually for [copying files from one folder to another](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/), but you can make it show the differences between two specified folders and not copy any files.
@@ -53,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 ![Command Prompt highlighted in Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Command Prompt, type the following command. Replace "Folder1" with the path to your first folder and "Folder2" with the path to your second folder. Ensure both folder paths are enclosed in double quotes.
 
  To copy a folder’s full path along with double quotes around the path, hold down the Shift key on your keyboard, right-click your folder, and choose "Copy as Path."
@@ -62,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 
 ![The 'robocopy' command typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-compare-folders-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll see the differences between your folders.
 
@@ -72,6 +78,10 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 * **NJS**: This flag excludes symbolic links from the process.
 * **NP**: This flag excludes folder timestamps.
 * **NS**: This flag excludes file security information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Compare Folders With WinMerge
 
@@ -88,43 +98,21 @@ robocopy "Folder1" "Folder2" /L /NJH /NJS /NP /NS
 !['Browse' highlighted for the '1st File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-add-first-folder-winmerge.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For the "2nd File or Folder" field, click the "Browse" button and choose the second folder to compare.
 
 !['Browse' highlighted for the '2nd File or Folder' field in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-add-second-folder-winmerge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In both fields, enable the "Read-Only" option. Click the "Folder: Filter" field and type **\*.\*** if it isn’t already there. This ensures the app compares all the files in both the specified folders. Then, at the bottom, click "Compare."
 
 ![Various comparison options highlighted in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-configure-comparison-options-winmerge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the following screen, you’ll see the comparison of the specified folders. You’ll see information like identical files in both folders, files missing from one folder, and so on.
 
 ![The comparison of two folders in WinMerge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-folder-comparison-winmerge.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  And that's how you know what one folder has that another doesn't. This can be really useful if you're trying to quickly compare different versions of the same folder, like you'd have when you[create a backup](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/).
 
 <ins class="adsbygoogle"
@@ -133,8 +121,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +128,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-optimizing-vimeo-playback-speed/"><u>[New] 2024 Approved Optimizing Vimeo Playback Speed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitter-marketing-101-step-by-step-guide/"><u>[New] In 2024, Twitter Marketing 101 Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-fresh-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>[Updated] Fresh Face Finds Budget-Friendly Platforms to Purchase for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-eight-collections-for-graffiti-letters/"><u>[Updated] Top Eight Collections for Graffiti Letters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-moto-g13-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Moto G13 Phone When You Forget the Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/app-tastic-mystery-adventures-for-iphoneipad-explore-games-as-enthralling-as-the-room-and-myst/"><u>App-Tastic Mystery Adventures for iPhone/iPad - Explore Games as Enthralling as The Room and Myst</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-to-link-up-a-shared-network-printer-in-your-home-or-office/"><u>Easy Methods to Link Up a Shared Network Printer in Your Home or Office</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-restoring-connection-with-your-echo-what-to-do-when-alexa-says-its-offline/"><u>Guide to Restoring Connection with Your Echo: What to Do When Alexa Says It's Offline</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-crafting-compelling-youtube-narratives-with-chapters-and-subsections/"><u>In 2024, Crafting Compelling YouTube Narratives with Chapters and Subsections</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolving-corrupted-windows-drivers-a-step-by-step-guide-yl-software-solutions/"><u>Resolving Corrupted Windows Drivers: A Step-by-Step Guide - YL Software Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-connectivity-woes-why-wont-my-samsung-galaxy-watch-ring-for-calls/"><u>Solving Connectivity Woes: Why Won't My Samsung Galaxy Watch Ring for Calls?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolving-inpage-fault-issues-in-the-kernel/"><u>Troubleshooting and Resolving Inpage Fault Issues in the Kernel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-gt-5-240w-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme GT 5 (240W) Device</u></a></li>
+</ul></div>
 

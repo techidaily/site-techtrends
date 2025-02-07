@@ -1,7 +1,7 @@
 ---
 title: "Clearing Windows 11/Windows 10'S Update Cache: A Comprehensive Tutorial"
-date: 2024-08-30T15:07:56.575Z
-updated: 2024-08-31T15:07:56.575Z
+date: 2025-02-04T16:06:04.420Z
+updated: 2025-02-07T16:08:28.698Z
 tags:
   - deals
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  Another reason is to [free up storage space](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/). Update cache files often use a huge chunk of the storage, and you can reclaim that by deleting those cached files. (Windows does delete some update files after installing those updates, but not all.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clear Windows Update Cache Using File Explorer
 
  An easy graphical way to delete the update cache is to use File Explorer. This method deletes all the update cache files.
@@ -47,8 +51,9 @@ services.msc
 !['Stop' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-stop-windows-update-service.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Run again using Windows+R, type the path below in the box, and press Enter. The following is the path to the Windows Update cache folder. It assumes that Windows is installed on your C:\\ drive. However, if that’s not the case, just change the drive letter in the path.
 
 C:\Windows\SoftwareDistribution\
@@ -63,9 +68,6 @@ C:\Windows\SoftwareDistribution\
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This ensures your PC can continue to look for the latest updates.
 
 ##  Clear Windows Update Cache Using Disk Cleanup
@@ -76,16 +78,10 @@ C:\Windows\SoftwareDistribution\
 
 ![Disk Cleanup highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-run-disk-cleanup.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select your Windows installation drive and choose "OK."
 
 ![The Windows installation drive and 'OK' highlighted in Disk Cleanup prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-choose-windows-drive.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Select "Clean Up System Files."
 
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
@@ -97,13 +93,15 @@ C:\Windows\SoftwareDistribution\
 !['Windows Update Cleanup' and 'OK' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-delete-windows-update-cache-disk-cleanup.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The tool will begin cleaning up the update cache files.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Clear Windows Update Cache Using Command Prompt
 
  If you prefer command line methods over graphical ones, use a few commands in Command Prompt (or PowerShell) to remove the update cache.
@@ -113,8 +111,9 @@ C:\Windows\SoftwareDistribution\
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-run-cmd-as-admin.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "User Account Control" (UAC) prompt, select "Yes."
 
  Type the following lines in Command Prompt, and press Enter after each line. The first command disables the Windows Update service and the second command turns off the Background Intelligent Transfer Service service.
@@ -163,8 +162,9 @@ net start bits`
 ![Windows' 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-create-update-cache-removal-batch-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the future, to clear your Windows Update cache using the script, right-click the script file and select "Run as Administrator." In the User Account Control prompt, choose "Yes." The script will stop certain services, deletes the update cache files, and restarts the stopped services.
 
 ---
@@ -177,8 +177,6 @@ net start bits`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +184,18 @@ net start bits`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-vloggers-ultimate-gear-list-17-100/"><u>[New] In 2024, Vloggers' Ultimate Gear List #17-100</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-easy-guide-using-flipbook-apps-on-ipads-and-iphones/"><u>1) Easy Guide: Using FlipBook Apps on iPads and iPhones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-improve-your-channels-meta-description-powerfully/"><u>2024 Approved Improve Your Channel's Meta Description Powerfully</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-hashtags-enhance-your-gaming-youtube-content/"><u>2024 Approved Mastering Hashtags Enhance Your Gaming YouTube Content</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1724312889342-cookiebot-enabled-optimize-your-site-with-advanced-analytics/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Analytics!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/critical-cutting-tools-the-filmmakers-essentials/"><u>Critical Cutting Tools The Filmmaker's Essentials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/gopro-max-360-vs-hero-11-which-takes-the-lead-in-2024/"><u>GoPro Max 360 vs Hero 11 Which Takes the Lead, In 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-facts-about-navigating-lg-product-distribution/"><u>Key Facts About Navigating LG Product Distribution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secrets-to-booking-your-next-genius-bar-visit-with-apple-a-step-by-step-guide/"><u>Secrets to Booking Your Next Genius Bar Visit with Apple: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-deactivate-voice-guidance-functionality-in-samsung-smarttvs/"><u>Steps to Deactivate Voice Guidance Functionality in Samsung SmartTVs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-widgets-disabling-instructions-for-a-simpler-desktop-experience/"><u>Windows 11 Widgets Disabling Instructions for a Simpler Desktop Experience</u></a></li>
+</ul></div>
 

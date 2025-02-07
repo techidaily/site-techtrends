@@ -1,7 +1,7 @@
 ---
 title: Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
-date: 2025-01-24T20:44:13.007Z
-updated: 2025-01-25T20:21:08.130Z
+date: 2025-02-02T16:07:45.881Z
+updated: 2025-02-07T16:22:45.108Z
 categories:
   - BestProducts
 description: This Article Describes Download the New iPhone OS - iOS 18, Absolutely Free with In-Depth Overview of Updates and Industry News
@@ -37,10 +37,14 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Command Prompt Through the Start Menu Folder
 
@@ -55,13 +59,13 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
@@ -87,6 +91,10 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -94,10 +102,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
  To do this, enter**cmd** into the command-line interface. This can be in the Run dialog box (**WIN** +**R** ) or[Task Manager's](https://www.lifewire.com/task-manager-2626025) **Run new task** option (go to**File** \>**Run new task** if you're not using Windows 11).
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Elevated Command Prompts and Old Windows Versions
 
@@ -110,10 +114,6 @@ thumbnail: https://www.lifewire.com/thmb/SYjLI7CepByJjVJZH7OE0mVabL8=/400x300/fi
 * **you must be an administrator**
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
@@ -159,18 +159,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-10-visionary-beauticians-poised-success-for-2024/"><u>[Updated] 10 Visionary Beauticians Poised Success for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-google-pixel-7a-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Google Pixel 7a PC | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bring-the-mobile-experience-to-pc-a-comprehensive-guide-to-launching-android-apps-on-windows-10/"><u>Bring the Mobile Experience to PC: A Comprehensive Guide to Launching Android Apps on Windows 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevating-language-models-the-top-4-improvements-were-eager-for-gpt-n/"><u>Elevating Language Models: The Top 4 Improvements We're Eager For GPT-N</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-in-windows-11-complete-solution/"><u>How to Fix MsMpEng.exe High CPU Usage in Windows 11: Complete Solution</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-chromes-choppy-behavior-on-windows-an-expert-guide-for-a-smooth-surfing-experience/"><u>Mastering Chrome's Choppy Behavior on Windows: An Expert Guide for a Smooth Surfing Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-new-ios-16-feature-a-step-by-step-guide-to-using-photo-cutouts-on-your-iphone/"><u>Mastering the New iOS 16 Feature: A Step-by-Step Guide to Using Photo Cutouts on Your iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-new-sounds-a-comprehensive-introduction-to-home-audio-setups-for-novices/"><u>Navigating New Sounds: A Comprehensive Introduction to Home Audio Setups for Novices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a79-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A79 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-saving-spotify-playlists-in-plain-text-format/"><u>Step-by-Step Guide: Saving Spotify Playlists in Plain Text Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/time-zone-changes-made-easy-managing-settings-on-your-kindle-paperwhite/"><u>Time Zone Changes Made Easy: Managing Settings on Your Kindle Paperwhite</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-when-msvcp60dll-is-absent-error-appears/"><u>Troubleshooting Tips for When msvcp60.dll Is Absent Error Appears</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-augmented-realms-blending-tech-and-entertainment-for-2024/"><u>[New] Augmented Realms Blending Tech & Entertainment for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-amplify-engagement-unique-ig-questions-for-lives/"><u>[Updated] 2024 Approved Amplify Engagement Unique IG Questions for Lives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-strategies-for-enhancing-footage-with-gopro-studio/"><u>2024 Approved Advanced Strategies for Enhancing Footage with GoPro Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-content-propagation-on-vimeo/"><u>2024 Approved Mastering Content Propagation on Vimeo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quintessential-collection-of-anime-intros/"><u>2024 Approved The Quintessential Collection of Anime Intros</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-tp-link-tl-wr902ac-for-on-the-go-wi-fi-connectivity-ideal-for-travellers/"><u>Compact TP-Link TL-WR902AC for On-the-Go Wi-Fi Connectivity - Ideal for Travellers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-install-fubotv-app-on-your-roku-device-or-firestick/"><u>Complete Tutorial: Install FuboTV App on Your Roku Device or Firestick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-telegram-an-in-depth-overview-of-its-features/"><u>Discovering Telegram: An In-Depth Overview of Its Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-2024-guide-12-excellent-free-disk-defragmenter-programs-available-now/"><u>Essential 2024 Guide: 12 Excellent, Free Disk Defragmenter Programs Available Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-verdict-on-lgs-basic-budget-49-inch-4k-um730aster-tv-performance-test-and-value-insights/"><u>The Ultimate Verdict on LG's Basic Budget 49-Inch 4K UM730aster TV - Performance Test & Value Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-strategies-to-address-code-41-errors-a-users-handbook/"><u>Ultimate Strategies to Address Code 41 Errors: A User's Handbook</u></a></li>
 </ul></div>
 

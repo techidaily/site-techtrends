@@ -1,7 +1,7 @@
 ---
 title: "The Next Step in Smartwatch Innovation: Is It Time to Upgrade From Apple Watch Series 8 to the Rumored Series 10 | Insights by ZDNET"
-date: 2025-01-22T17:40:59.851Z
-updated: 2025-01-25T18:26:54.914Z
+date: 2025-01-31T16:02:11.860Z
+updated: 2025-02-07T16:14:04.473Z
 tags:
   - apple
 categories:
@@ -50,10 +50,6 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -69,21 +65,25 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 10 if...
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -94,7 +94,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -119,16 +119,12 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
@@ -138,6 +134,10 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 **Also:** [**Apple Watch Series 9 vs. Series 8: Which model should you buy?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/)
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C374aa0ec-30c1-4aa7-b971-abb67420fc33%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
 
@@ -179,16 +179,16 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-financial-plan-for-crafting-a-song-to-screen/"><u>[New] 2024 Approved Financial Plan for Crafting a Song to Screen</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screen-saving-android-titles-a-curated-list-of-indoor-games/"><u>[Updated] 2024 Approved Screen-Saving Android Titles A Curated List of Indoor Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-full-access-to-itunes-radio-features/"><u>[Updated] Unlocking Full Access to iTunes Radio Features</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-hot-40-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-newest-meta-vr-headset-tech-specs-launch-date-and-price-guide/"><u>Discover the Newest Meta VR Headset: Tech Specs, Launch Date & Price Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode Screen?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/leading-educational-websites-for-flexible-online-studies-for-2024/"><u>Leading Educational Websites for Flexible Online Studies for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lenovo-windows-tabletlaptop-combo-reviewed-by-zdnet-discovering-the-remarkable-potential-of-this-innovative-device/"><u>Lenovo Windows Tablet/Laptop Combo Reviewed by ZDNET: Discovering the Remarkable Potential of This Innovative Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-ssleay32dll-file-missing-comprehensive-guide/"><u>Resolving 'ssLeay32.dll' File Missing - Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-configuring-automatic-user-authentication-on-windows/"><u>Step-by-Step Guide: Configuring Automatic User Authentication on Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-potential-of-a-gmail-alias-a-simple-guide-to-adding-one-to-your-profile/"><u>Unlock the Potential of a Gmail Alias: A Simple Guide to Adding One to Your Profile</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-all-purpose-capture-software-azs-app-critiques-for-2024/"><u>[Updated] All-Purpose Capture Software - AZ's App Critiques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-cropping-settings-in-digital-editors/"><u>[Updated] Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-os-legacy-a-detailed-chronicle-of-ios-from-its-first-release-version-10-to-latest-update-version-180/"><u>Apple's OS Legacy: A Detailed Chronicle of iOS From Its First Release (Version 1.0) to Latest Update (Version 18.0)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ensuring-effective-integration-with-apples-platform/"><u>Ensuring Effective Integration with Apple's Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-home-theater-receivers-differ-from-your-standard-stereo-setup/"><u>How Home Theater Receivers Differ From Your Standard Stereo Setup</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-efficiently-convert-youtube-to-desktop-format/"><u>In 2024, Efficiently Convert YouTube to Desktop Format</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gentle-volume-easing-methods-for-mixers/"><u>In 2024, Gentle Volume Easing Methods for Mixers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-fitness-journal-apps-our-picks-and-reviews/"><u>The Best Fitness Journal Apps : Our Picks and Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-from-your-upgrade-a-look-at-the-third-generation-apple-tv-with-ultra-hd/"><u>What to Expect From Your Upgrade: A Look at the Third Generation Apple TV with Ultra HD</u></a></li>
 </ul></div>
 

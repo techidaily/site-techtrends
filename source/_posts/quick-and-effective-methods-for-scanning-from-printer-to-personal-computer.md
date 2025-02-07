@@ -1,7 +1,7 @@
 ---
 title: Quick & Effective Methods for Scanning From Printer to Personal Computer
-date: 2025-01-19T16:08:53.449Z
-updated: 2025-01-25T18:42:25.207Z
+date: 2025-02-06T16:06:02.980Z
+updated: 2025-02-07T16:03:24.228Z
 categories:
   - BestProducts
 description: This Article Describes Quick & Effective Methods for Scanning From Printer to Personal Computer
@@ -17,7 +17,7 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 ## Master the Art of Transferring Printouts to Computers Without Hassle
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -32,6 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/nn2-fHAPetGpRQDX95u4qeYUPKE=/400x300/fi
 
 lolostock / Getty Images
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Windows PC
 
  Your printer model may come with software including not only its[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) but also a suite of programs to use all the device's functionality. If this is the case, then within those programs there's also likely a scanning program.
@@ -43,16 +47,12 @@ lolostock / Getty Images
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
@@ -64,12 +64,12 @@ lolostock / Getty Images
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
 8. Click**Open scanner** , which will also open the**Scan** Windows app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows 10 Settings App Scanner Configuration Screen with Open Scanner highlighted](https://www.lifewire.com/thmb/JsnzRlGh3OYThkvTZjjRhC3XJtc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-3eaf187241ed41408030d883203845f3.jpg)
 9. Arrange your document's page(s) either on the flatbed or in the feeder, making sure they're aligned correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
@@ -85,12 +85,12 @@ lolostock / Getty Images
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
@@ -104,7 +104,7 @@ lolostock / Getty Images
 19. Click**Scan** to start your scanning job.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -145,24 +145,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-gleaming-graphics-the-art-of-crafting-insta-highlights-3-ways/"><u>[New] 2024 Approved Gleaming Graphics The Art of Crafting Insta Highlights (3 Ways)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio/"><u>[New] 2024 Approved Sculpting Softness A Guide to Quieter Mixes with FL Studio</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-live-techniques-lowering-volume-gradually/"><u>[New] In 2024, Live Techniques Lowering Volume Gradually</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-maximizing-conversations-4-key-tips-for-hangouts-for-2024/"><u>[New] Maximizing Conversations 4 Key Tips for Hangouts for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-visionary-voices-top-10-most-engaged-internet-creators/"><u>[Updated] In 2024, Visionary Voices Top 10 Most Engaged Internet Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-copyright-claims-and-how-to-deal-with-a-strike/"><u>[Updated] YouTube Copyright Claims and How to Deal with a Strike?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1724766151393-macx-dvd-ripper-pro/"><u>「公式」MacX DVD Ripper Proで安くダウンロードする方法</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024-dvddvd5/"><u>【2024年度厳選】本日配信! DVD複製・DVDバッシュ用無料オプションソフト5案内</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converting-interlaced-footage-without-costs-a-step-by-step-guide-using-handbrake-tool/"><u>Converting Interlaced Footage Without Costs: A Step-by-Step Guide Using Handbrake Tool</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nubia-red-magic-8s-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Nubia Red Magic 8S Pro Device SIM</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hd-fitness-training-videos-no-cost-access-for-smartphones-and-tablet-apps-ios-android-ipad/"><u>HD Fitness Training Videos - No Cost Access for Smartphones & Tablet Apps (iOS, Android, iPad)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-stay-on-top-of-deadlines-with-slack-reminders-a-comprehensive-guide/"><u>How to Stay On Top of Deadlines with Slack Reminders - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-aerial-adventure-top-10-best-kids-drones/"><u>In 2024, Beginner's Aerial Adventure Top 10 Best Kids' Drones</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone SE (2022) When You Forget the Passcode?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-tapes-with-these-top-5-brighteners/"><u>In 2024, Transform Your Tapes with These Top 5 Brighteners</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-incorporating-gifs-into-your-insta-commentary/"><u>The Ultimate Tutorial for Incorporating GIFs Into Your Insta-Commentary</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-facebook-discover-the-history-popularity-reasons-and-main-attributes/"><u>Unraveling Facebook: Discover the History, Popularity Reasons, and Main Attributes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-future-of-smart-homes-apples-proposed-home-robot-price-estimates-release-forecasts-and-specs/"><u>Unveiling the Future of Smart Homes: Apple's Proposed Home Robot - Price Estimates, Release Forecasts, and Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/javynow/"><u>さらばっ! Javynow動画ダウンロード講座 - 絶対に使える手順をスッと学んでみた！</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-stardew-enhancements-for-maximum-farming-fun/"><u>[New] Essential Stardew Enhancements for Maximum Farming Fun</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aster-list-of-youtube-templates-for-beginners-for-2024/"><u>[New] Master List of YouTube Templates for Beginners for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-premier-alternatives-to-samsungs-gear-360-cam-for-2024/"><u>2023'S Premier Alternatives to Samsung's Gear 360 Cam for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sail-through-smooth-sharing-with-instagram-troubleshooting/"><u>2024 Approved Sail Through Smooth Sharing with Instagram Troubleshooting</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/como-transferir-informacion-de-una-memoria-usb-a-otra-con-facilidad-y-seguridad/"><u>Cómo Transferir Información De Una Memoria USB a Otra Con Facilidad Y Seguridad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-whats-new-at-samsung-unpacked-2025-release-dates-announcements-and-rumored-gadgets-revealed/"><u>Discover What's New at Samsung Unpacked 2025 - Release Dates, Announcements & Rumored Gadgets Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-next-gen-connectivity-the-promise-of-verizons-5g-network/"><u>Exploring Next-Gen Connectivity: The Promise of Verizon's 5G Network</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlined-search-for-personalized-song-collection-on-youtube-for-2024/"><u>Streamlined Search for Personalized Song Collection on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-for-uninstalling-software-from-a-mac-device/"><u>The Complete Walkthrough for Uninstalling Software From a Mac Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-8-amazing-non-gmail-email-options/"><u>The Ultimate List: 8 Amazing Non-Gmail Email Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformative-tales-discover-the-worlds-most-inspirational-films/"><u>Transformative Tales: Discover the World's Most Inspirational Films</u></a></li>
 </ul></div>
 

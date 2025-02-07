@@ -1,7 +1,7 @@
 ---
 title: "1. Secure Your Online Footprint: Eliminate Tracking Data From Safari on Mac OS | ZDNet"
-date: 2025-01-21T17:58:30.107Z
-updated: 2025-01-25T16:54:44.674Z
+date: 2025-02-03T16:10:14.986Z
+updated: 2025-02-07T16:01:29.201Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,21 +119,20 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expertly-selected-best-9-video-conference-apps-for-cross-platform-use/"><u>[New] In 2024, Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-virtual-frontiers-in-business-technology-and-strategy/"><u>[New] Virtual Frontiers in Business Technology and Strategy</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-tips-for-shooting-profesional-youtube-videos/"><u>[Updated] 2024 Approved 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-zoomview-partition-inspection/"><u>[Updated] In 2024, ZoomView Partition Inspection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1724766646461-makemkv/"><u>「無料トライアルから正式利用へ:MakeMKVキーの申し込み手順と登録コード拡張方法」</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-adapting-to-diverse-candidate-personalities/"><u>2024 Approved Adapting to Diverse Candidate Personalities</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comparing-the-latest-iphones-discover-if-upgrading-to-iphone-15-makes-sense-over-iphone-e/"><u>Comparing the Latest iPhones: Discover If Upgrading to iPhone 15 Makes Sense Over iPhone E</u></a></li>
-<li><a href="https://win-great.techidaily.com/convert-and-transfer-your-favorite-youtube-videos-to-apple-music-library/"><u>Convert and Transfer Your Favorite YouTube Videos to Apple Music Library</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-now-official-macxdvd-ultimate-toolkit-for-dvd-ripping-hd-video-conversion-and-seamless-data-transfer/"><u>Download Now: [OFFICIAL] MacXDVD Ultimate Toolkit for DVD Ripping, HD Video Conversion & Seamless Data Transfer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-top-macx-youtube-downloader-macxdvd-app-delivers-lightning-fast-4k-video-retrieval-from-youtube/"><u>Download Top MacX YouTube Downloader: MacXDVD App Delivers Lightning-Fast 4K Video Retrieval From YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-dvd-ripping-from-mac-to-android-device/"><u>Effortless DVD Ripping From Mac to Android Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/erfolgreiches-konvertieren-von-dvds-mit-macx-dvd-ripper-pro-auf-windows-schritt-fur-schritt-anleitung-zum-umwandeln-in-mp4aviflv-fur-desktop-und-smartphones1/"><u>Erfolgreiches Konvertieren Von DVDs Mit MacX DVD Ripper Pro Auf Windows - Schritt-Für-Schritt Anleitung Zum Umwandeln in MP4/AVI/FLV Für Desktop Und Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exposing-security-flaws-how-anycubics-3d-printers-were-compromised/"><u>Exposing Security Flaws: How Anycubic's 3D Printers Were Compromised</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-revert-from-ios-17-to-ios-934-on-your-iphone-or-ipad-step-by-step-guide/"><u>How to Revert From iOS 17 to iOS 9.3.4 on Your iPhone or iPad - Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/subtle-sound-level-lowering-in-fl-studio-for-2024/"><u>Subtle Sound Level Lowering in FL Studio for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-motion-magic-mixtures/"><u>[New] Motion Magic Mixtures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-capturing-life-with-iphones-dual-function-capability-for-2024/"><u>[Updated] Capturing Life with iPhone’s Dual-Function Capability for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-stand-out-as-an-elite-gamer-on-youtube-for-2024/"><u>[Updated] Stand Out as an Elite Gamer on Youtube for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/downloading-dynamite-a-tiktok-hustle-manual-for-2024/"><u>Downloading Dynamite - A TikTok Hustle Manual for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-harnessing-the-power-of-your-androids-quick-settings-menu/"><u>Expert Advice: Harnessing the Power of Your Android's Quick Settings Menu</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-clean-up-your-visual-content-by-deleting-photos-on-facebook/"><u>How To Clean Up Your Visual Content by Deleting Photos on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-complete-overview-screenflow-v4-for-macos/"><u>In 2024, Complete Overview ScreenFlow v4 for macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/massive-microsoft-excel-online-edition-update-transforms-functionality/"><u>Massive Microsoft Excel Online Edition Update Transforms Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-ways-to-disable-mouse-acceleration-and-improve-precision-in-macos-systems/"><u>Simple Ways to Disable Mouse Acceleration and Improve Precision in macOS Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-on-viewing-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Instructions on Viewing and Sharing 2024 Summer Olympics Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-12-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 12 Pro You Should Try Out</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-and-enjoy-19-effective-solutions-for-netflix-problems-on-lg-tv-screens/"><u>Troubleshoot & Enjoy: 19 Effective Solutions for Netflix Problems on LG TV Screens</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/truckers-choice-in-budget-friendly-audio-gadgets-review-of-the-top-pick/"><u>Truckers’ Choice in Budget-Friendly Audio Gadgets: Review of the Top Pick</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-productivity-on-social-media-discover-five-key-methods-for-better-facebook-usage/"><u>Unlocking Productivity on Social Media: Discover Five Key Methods for Better Facebook Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-we-know-about-the-next-google-pixel-phone-pricing-insights-release-window-and-speculative-details/"><u>What We Know About the Next Google Pixel Phone - Pricing Insights, Release Window & Speculative Details</u></a></li>
 </ul></div>
 

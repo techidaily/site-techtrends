@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad Z16 Gen 2 with AMD Processor - Comprehensive Expert Analysis
-date: 2024-08-30T15:08:01.350Z
-updated: 2024-08-31T15:08:01.350Z
+date: 2025-02-06T16:11:52.062Z
+updated: 2025-02-07T16:03:45.612Z
 tags:
   - deals
 categories:
@@ -145,10 +145,6 @@ Close
 
  When I opened the top lid, I noticed the dual microphone system integrated into the top edge of the lid, while the IR webcam was housed inside the bezel. The up-firing speakers sat on either side of the keyboard, while the glass multi-touch touchpad rested beneath the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ###  Ports: You May Need to Add More
 
  While it's great to have plenty of USB-C ports these days, that's all I got on the ThinkPad Z16, which was problematic when I needed to plug something into a USB-A port. The left side housed two USB4 ports (basically, Thunderbolt 3-comparable USB-C ports) and a full-sized SD card reader. On the right side, I found a USB-C port (3.2 Gen), a headphone/microphone combo jack, a power button, and a Kensington Nano security slot.
@@ -160,28 +156,27 @@ Close
  Still not sure what USB4 is? Read about [how USB4 is different](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/).
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Inputs: Flawless Touch and Typing
 
 ![TrackPoint on the Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/trackpoint-on-the-lenovo-thinkpad-z16-gen-2-amdjpg_53384900620_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  Typing on the ThinkPad Z16 felt as good as any ThinkPad—the keyboard had a pleasant spring and the keys were loose enough to be ultra-responsive without causing me to make a million typos.
 
  Meanwhile, the glass touchpad was one of the better ones I've used in a while, with a smooth texture that feels pleasant to touch and provides delays when clicking, tapping, scrolling, or sliding side-to-side. I also appreciated the buttons at the top of the touchpad—indicated by a line for the left, a line for the right, and some raised bumps for the center button—as these made precision clicking easier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Display and Graphics: OLED at Its Finest
 
 ![The Lenovo ThinkPad Z16 Gen 2 (AMD) laptop playing the movie "The Exorcist: Beliver."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop-graphics-shot-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
  Whether I was watching movies like "The Exorcist: Believer" or streaming some of my go-to shows, the ThinkPad Z16 delivered high-quality graphics every time. The clarity of the 16-inch OLED WQUXGA screen was phenomenal, even when I was streaming movies with dark, shadowy scenes. The color contrast was also incredible (see the photo with the green eye), and it wasn't over-saturated. Its 3,840 x 2,400ppi resolution made details in imagery pop.
@@ -194,6 +189,10 @@ Close
 
  The graphics of games were similarly impressive, with stunning clarity in dark games like "Bramble: The Mountain King" and bright, realistic games like "A Plague Tale: Requiem."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance: Powerful AMD Processing
 
 ![The background screen of the Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-background-screen-of-the-lenovo-thinkpad-z16-gen-2-amd-4jpg_53384774989_o.jpg) 
@@ -205,8 +204,9 @@ Sergio Rodriguez / How-To Geek
  Even with 17 tabs open, YouTube running, and Photoshop and Spotify up, my [Windows Task Manager tabs](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/) showed only a 7% usage of the CPU and 35% of RAM. Streaming in my off time was one of the highlights of the Z16, considering the graphics not only looked great, but the experience was always as smooth as butter.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Gaming Performance: Enjoyable for Casual Entertainment
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD laptop playing the game "Rise of the Tomb Raider."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/game-photo-on-lenovo-thinkpad-z16-gen-2-amd-laptop.jpg) 
@@ -225,6 +225,10 @@ Cianna Garrison / Review Geek
 
 ![Angled view of the open Lenovo ThinkPad Z16 Gen 2 AMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/angled-view-of-the-open-lenovo-thinkpad-z16-gen-2-amd-3jpg_53384775479_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Virtual meetings were no problem with the ThinkPad Z16 Gen 2, as the noise-canceling dual microphone array with Dolby Voice captured my voice sans background noise. I used the laptop to chat with cousins in South Korea, as well as for some professional Zoom meetings and was floored listening back to my Zoom recordings. While I was chatting, I heard my dog walking around in the background, among other noises from pets and loud motorcycles, but none of these picked up on my call records.
@@ -239,28 +243,26 @@ Close
 
 ### 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 
 
 ### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Battery and Charging: Average Energy Expenditure
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-lenovo-thinkpad-z16-gen-2-amd-with-its-charger-2jpg_53384642428_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  While the Rapid Charge capability on the ThinkPad Z16 ensured that I was getting an average charge speed of 1.55% per minute (about 90% per hour), the laptop drained at a fairly average pace. For a professional who doesn't want to have to charge their laptop more than once per day, this could be an issue. I averaged a battery drain of 22.8% per hour, which meant every three hours I needed to plug in again. Still, with the power needed to multitask like the Z16 can, charging more often isn't an unfair trade-off.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Lenovo ThinkPad Z16 Gen 2 (AMD) Laptop?
 
  People who prioritize heavy, multitasking computing will find the [Lenovo ThinkPad Z16 Gen 2 (AMD) laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Flenovo-thinkpad-z16-gen-2-%2816-inch-amd%29%2Flen101t0082) will outshine many other options, especially with premium specs like 64GB of memory and 1TB of storage. The AMD CPU and GPU work fantastically together for programs commonly used by content creators, such as Adobe Photoshop and Premiere Pro, and you can get some casual entertainment out of the Z16, too.
@@ -271,10 +273,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![The Lenovo ThinkPad Z16 Gen 2 AMD Laptop sitting with its screen on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/lenovo-thinkpad-z16-gen-2-amd-laptop.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkPad Z16 Gen 2
 
@@ -292,8 +295,6 @@ The ThinkPad Z16 combines features like powerful AMD processing with a crystal-c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +302,18 @@ The ThinkPad Z16 combines features like powerful AMD processing with a crystal-c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-guide-to-exclusive-youtube-gamers-intros-freepaid/"><u>[New] Ultimate Guide to Exclusive YouTube Gamers' Intros (Free/Paid)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-play-integrating-vr-in-recreation/"><u>2024 Approved Pioneering Play Integrating VR in Recreation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-animators-odyssey-crafting-your-own-fx-realm/"><u>2024 Approved The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-14-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-itel-p55-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Itel P55 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revitalize-your-network-a-macs-path-to-a-fresh-dns-start/"><u>Revitalize Your Network: A Mac's Path to a Fresh DNS Start</u></a></li>
+<li><a href="https://techtrends.techidaily.com/super-bowl-tv-and-home-theater-setup-tips/"><u>Super Bowl TV and Home Theater Setup Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleash-productivity-find-the-5-best-auto-clickers-tailored-for-your-stock-android-smartphone/"><u>Unleash Productivity: Find the 5 Best Auto Clickers Tailored for Your Stock Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-secrets-an-in-depth-exploration-of-netflix-as-a-premium-streaming-provider/"><u>Unlocking Secrets: An In-Depth Exploration of Netflix as a Premium Streaming Provider</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722897791540-unlocking-the-secrets-of-google-pixel-watch-series-e-what-to-expect-in-terms-of-cost-launch-date-specs-and-more-gossip/"><u>Unlocking the Secrets of Google Pixel Watch (Series E): What to Expect in Terms of Cost, Launch Date, Specs & More Gossip</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-gaming-accessories/"><u>Unveiling the Best Gaming Accessories</u></a></li>
+</ul></div>
 

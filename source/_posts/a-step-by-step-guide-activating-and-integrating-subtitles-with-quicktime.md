@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Activating and Integrating Subtitles with QuickTime"
-date: 2024-08-24 13:53:14
-updated: 2024-08-27 10:41:47
+date: 2025-02-02T16:15:26.876Z
+updated: 2025-02-07T16:19:59.851Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4ccec0f85070f5a5f457c917.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Apple resources](https://tools.techidaily.com/macxdvd/products/) \> QuickTime Subtitle
 
 ## How to View & Add Captions/Subtitles in QuickTime
-
-
 
 _Summary: how do you turn on captions in QuickTime? How to add closed captions or subtitles in QuickTime? Does quicktime accept SRT subtitle file? All your doubts can find answers here! Read on..._
 
@@ -44,6 +40,10 @@ Regardless of what type of your video is, you can get helpful workarounds here. 
 * [Part 3\. How to Add Closed Captions (sidecar file) in QuickTime](https://tools.techidaily.com/macxdvd/products/)
 
 ## Part 1\. How to Turn on Captions/Subtitles in QuickTime Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.1 Turn on the Common Captions/Subtitles in QuickTime
 
@@ -93,6 +93,10 @@ Well, where to create your own CEA-608 QT format subtitles or captions? 3Play Me
 
 ![3Player Media](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/3player-media.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: batch uploading is limited to max 8 files at one stroke and your video size is supposed to be smaller than 2GB each.
 
 **Step 2.** Download your soft subtitles or closed captions in .QT format. Click My Files on 3Play Media webpage > pick up the video file you uploaded for captioning > hit Download > select QT. A QT (.txt) file under the Web Captions section. Then your desired subtitles/captions will start to download to your MacBook, iMac or Mac Mini.
@@ -108,6 +112,10 @@ When everything is ready, Head to [3Player Media](https://www.3playmedia.com/) (
 To do this, find your .QT file in Finder > right-click the caption/subtitle file and choose Open with > QuickTime Pro. This will open a separate QuickTime window that shows just your closed captions, no video image. Copy the captions to the clipboard by tapping Edit, selecting All and opting for Edit > Copy.
 
 ![Embed captions to video in QuickTime](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/3player-media-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Click the QT window of your video. Make sure that the play head is at the beginning. This aims to guarantee your video and subtitle playback in sync, no out of sync trouble. 
 
@@ -127,19 +135,29 @@ ABOUT THE AUTHOR
 
 ![author- candice](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/candice.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Candice Liu ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/candice-liu-444483a3/) 
 
 Candice's particularly skilled in writing and sharing video-related contents. Her guides cover from deep-seated video/audio parameters, to media entertainment on different platforms. She also enjoys shooting and processing videos by herself for a more reliable basis of informative info with her articles, which are never at the expense of eliminating an entertaining read.
-
-
 
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Add SRT Subtitles to AVI Video File](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [\[Where and How\] Movie Subtitles SRT Free Download](https://tools.techidaily.com/macxdvd/products/)
 
@@ -148,6 +166,10 @@ Related Articles
 [How to Add Subtitles to iMovie Video Project](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [How to Add SRT Subtitles to Movie Files](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -159,8 +181,6 @@ Related Articles
 
 [Trim QuickTime Video Mac & Solve QuickTime Can’t Trim Video](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
@@ -171,6 +191,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -179,6 +203,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -186,8 +214,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -202,11 +228,26 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-10-affordable-game-recording-solutions/"><u>[New] 2024 Approved Top 10 Affordable Game Recording Solutions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-airborne-warriors-meet-dji-mavic-2-and-hero5-black/"><u>[New] Airborne Warriors Meet DJi Mavic 2 & HERO5 Black</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-backgroundannihilator-professional-erase-software/"><u>[New] BackgroundAnnihilator Professional Erase Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unfollow-trail-on-the-social-giant-instagram/"><u>[New] In 2024, Unfollow Trail on the Social Giant Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290345650-winxvideo-ai/"><u>如何利用 Winxvideo AI 技術提升影片品質達到超凡之作</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cd-pc/"><u>CD情報をスマートフォンに転送する新手法: PC必須なし、アプリ使用可能！</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-conversion-techniques-from-quicktime-to-mp4-for-pcs-websites-and-iphones/"><u>Easy Conversion Techniques From QuickTime to MP4 for PCs, Websites, and iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enregistreur-le-plus-performant-pour-windows-1187-guide-complet-pour-capture-decran-et-enregistrement-video-facile/"><u>Enregistreur Le Plus Performant Pour Windows 11/8/7 - Guide Complet Pour Capture D'écran Et Enregistrement Vidéo Facile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-bing-how-it-compares-to-google/"><u>Exploring the World of Bing - How It Compares to Google</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guia-expertos-para-convertir-codecs-m2ts-de-avchd-a-mp4-sin-perdida-de-fidelidad-visual-y-auditiva/"><u>Guía Expertos Para Convertir Códecs M2TS De AVCHD a MP4 Sin Pérdida De Fidelidad Visual Y Auditiva</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-top-rated-adobe-premiere-title-templates-free-for-your-next-project/"><u>New In 2024, Top-Rated Adobe Premiere Title Templates Free for Your Next Project</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209776240-9781591433637-quantum-science-of-psychedelics/"><u>Quantum Science of Psychedelics | Free Book</u></a></li>
+</ul></div>
+

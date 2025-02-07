@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Secure Your Windows 10 System with These 10 Essential Steps"
-date: 2024-08-30T15:07:45.736Z
-updated: 2024-08-31T15:07:45.736Z
+date: 2025-02-06T16:10:25.221Z
+updated: 2025-02-07T16:07:35.625Z
 tags:
   - desktop
 categories:
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ![Click the Start button, click your username, then click 'Lock.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/click-your-username-then-click-lock.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the Windows Key
 
  Almost every Windows PC has a Windows key on the keyboard. As you've probably guessed, it's the one with the Windows icon. You can press Windows+L to lock your computer.
@@ -46,28 +47,31 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ![Lock from ctrl alt delete shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-from-ctrl-alt-delete-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Lock Your Computer in Task Manager
 
  You can also lock your PC in [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). Pressing Ctrl+Alt+Delete, and then [click "Task Manager."](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) You can also type "Task Manager" in the Windows Search box, and then select it in the search results. 
 
 ![Search 'Task Manager,' then click the result or click 'Open.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-task-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Go to the "Users" tab, select your user account, then click 'Disconnect.'
 
 ![Tap 'Users,' select your user, then click 'Disconnect.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/go-to-users-tab-select-user-click-disconnect.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A popup appears asking if you're sure you want to disconnect; click "Disconnect User" to confirm.
 
 ![Click 'Disconnect User' to lock your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/disconnect-user.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Lock It From the Command Prompt
 
  You can also type "CMD" in the Windows Search box to [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/). Click "Command Prompt" in the search results.
@@ -75,18 +79,20 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ![Search 'Command Prompt,' then click the top result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Type the following command:
 
 Rundll32.exe user32.dll,LockWorkStation
 
 ![The lock command in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once this executes, your PC will be locked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Run Prompt
 
@@ -94,16 +100,21 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Searching for 'Run' in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-the-run-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Run" window, type the following command, and then click "OK":
 
 Rundll32.exe user32.dll,LockWorkStation
 
 ![The command to lock your PC in a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-run-command.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once this executes, your PC will be locked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Desktop Icon to Lock Your Computer
 
@@ -118,19 +129,15 @@ Rundll32.exe user32.dll,LockWorkStation
 **![Create shortcut code](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Create-shortcut-code.png)** 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Give your icon a name, and then click "Finish."
 
 **![Name the shortcut icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Name-the-shortcut-icon.png)** 
 
 Your icon will appear on your desktop—double-click it any time to lock your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ##  Set It Up in the Screen Saver Settings
 
  You can set your PC to lock after the [screen saver](https://some-approaches.techidaily.com/updated-ultimate-guide-to-iphones-video-length-tailoring/) has been on for a certain amount of time. To do so, type "Screen Saver" in the Windows Search box. Click "Change Screen Saver" in the search results.
@@ -141,23 +148,8 @@ The powerful video editing program for your Windows PC</a>
 
 ![Enable 'On Resume, Display Logon Screen,' set the time you want, then click 'Apply.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/on-resume.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We don't recommend this method for security reasons. It's always best to lock your PC before you step away from it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use Dynamic Lock
 
  Dynamic Lock is a feature that automatically locks your PC after you step away from it. It does this by detecting the strength of the Bluetooth signal. When the signal drops, Windows assumes you've left the immediate area of your PC and locks it for you.
@@ -168,9 +160,6 @@ The powerful video editing program for your Windows PC</a>
 
 **![Dynamic Lock Feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Dynamic-Lock-Feature.png)** 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your PC will now lock if you move too far away.
 
 ##  Use the Remote Lock Feature
@@ -199,8 +188,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +195,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/implified-steps-for-cutting-top-sports-videos-for-2024/"><u>[New] Simplified Steps for Cutting Top Sports Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vsdc-screen-recorder-review/"><u>[New] VSDC Screen Recorder Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-art-of-describing-your-podcast-with-flair/"><u>2024 Approved The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://techtrends.techidaily.com/4-handy-house-painting-apps/"><u>4 Handy House Painting Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/experience-next-gen-computing-1080p-screen-and-innovative-ai-on-an-msi-desktop-chassis/"><u>Experience Next-Gen Computing: 1080P Screen & Innovative AI on an MSI Desktop Chassis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-to-blocking-unwanted-emergency-alerts-in-the-google-play-store-for-android-users/"><u>Guide to Blocking Unwanted Emergency Alerts in the Google Play Store for Android Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-defy-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Defy 2 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unbranded-and-unbeatable-the-best-free-online-video-editors-for-2024/"><u>New Unbranded and Unbeatable The Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screenoppo-a78-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo A78)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/save-big-with-exclusive-apple-watch-promotions-for-month/"><u>Save Big with Exclusive Apple Watch Promotions for [Month]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-apple-watch-connection-problems-a-guide-to-6-effective-solutions/"><u>Solve Apple Watch Connection Problems: A Guide to 6 Effective Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-overcoming-the-network-unregistered-error-on-samsung-smartphones/"><u>Step-by-Step Guide: Overcoming the 'Network Unregistered' Error on Samsung Smartphones</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover Fedora 40'S Latest Enhancements: The Most Recent Advancements in This Popular Linux Distribution"
-date: 2024-08-30T15:07:09.721Z
-updated: 2024-08-31T15:07:09.721Z
+date: 2025-02-02T16:11:34.733Z
+updated: 2025-02-07T16:13:43.525Z
 tags:
   - desktop
 categories:
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
  Fedora Linux has hit the big four-oh! With Fedora 40 released, and the first patches available, it’s time to fire up this popular distribution and take it for a test run.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fedora at 40
 
  They say life begins at 40\. Whether that’s true or not, Fedora Linux certainly seems to have found renewed vigor with this milestone release. Fedora was always a fast distribution, and this time round it’s even more noticeable.
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/10904fe0da235375b0e6b719e293bea0266e1856f
 
 ![The Fedora 40 default GNOME desktop with a wallpaper showing a blurred forest scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-9.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Thankfully, you get a selection of bundled desktop wallpapers to choose from because the default one is too muted and drab for my liking. But don’t let that set the tone. Fedora 40 is [anything but boring](https://facebook-video-footage.techidaily.com/updated-smooth-transition-of-short-videos-to-youtube-device-guide/).
@@ -62,9 +60,6 @@ Dave McKay/How-To Geek
 
  But, if you were wondering where the immutable spins have gone, they’re still here, but with a name change.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  Linux Kernel 6.8
 
  We used a post-release version of Fedora, patched up to date. This gave us kernel version 6.8.7\. New kernels bring two categories of benefits. One is bug fixes and security patches, which are vital in helping protect your computer. The other benefits are operational improvements or new features. Kernel 6.8 delivers in both camps.
@@ -78,9 +73,9 @@ Dave McKay/How-To Geek
 ![The output from neofetch in a terminal on a Fedora 40 Linux computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  There’s improved hardware compatibility, laptops benefit from optimized power management, and KVM virtualization now supports up to a staggering 4096 virtual CPUs. Users of the IBM POWER processor ppc64el can nest virtual machines.
@@ -100,8 +95,9 @@ Dave McKay/How-To Geek
 ![Fedora 40 Files browser with the local search icon highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  There’s a new search facility in Preferences, making it easier to find the option you want to change.
@@ -114,14 +110,15 @@ Dave McKay/How-To Geek
 
 ![The file copying indicator in Fedora 40's Files file Browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The Settings application gains a System menu option, grouping together related items like Region & Language and Date & Time.
 
 ![The System option and screen in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -129,9 +126,6 @@ Dave McKay/How-To Geek
 
 ![The Remote Login screen in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  On/Off Shapes is a new feature under Accessibility > Seeing that lets you enable or disable on/off indicators in slider controls.
@@ -149,8 +143,9 @@ Dave McKay/How-To Geek
 ![The Online Accounts screen in the Preferences application with the Microsft 365 option highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Completely ignore the first dialog that pops up, just click the blue "Sign In" button.
@@ -163,6 +158,10 @@ Dave McKay/How-To Geek
 
 ![The second Microsft 365 Account dialog. Click the blue Sign In button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Your web browser opens, prompting you to enter your Microsoft 365 credentials. Once you’re logged in, your OneDrive will appear in the Files browser.
@@ -171,9 +170,6 @@ Dave McKay/How-To Geek
 
 Dave McKay/How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Application Versions
 
  Here are the software versions of some of the major bundled packages, and a few we installed to see what versions we received from the repositories.
@@ -189,6 +185,10 @@ Dave McKay/How-To Geek
 * **GCC**: 14.0.1
 * **glibc**: 2.39
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Roaring Forties
 
  Fedora continues to improve, release after release, and despite hitting 40, it shows no signs of slowing down. In fact, with the speed increases in this release, you could say it has accelerated.
@@ -201,8 +201,6 @@ Dave McKay/How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +208,24 @@ Dave McKay/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-jumpstart-your-snapchat-learn-to-create-top-boomers/"><u>[New] 2024 Approved Jumpstart Your Snapchat Learn to Create Top Boomers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminate-focus-leading-lines-in-iphone-composition/"><u>[Updated] Illuminate Focus Leading Lines in iPhone Composition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-guide-recording-google-meets-securely/"><u>2024 Approved Essential Guide Recording Google Meets Securely</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comparing-copy-xcopy-and-robocopy-best-choice-for-efficient-file-backups/"><u>Comparing Copy, Xcopy & Robocopy – Best Choice for Efficient File Backups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-biometric-systems-an-in-depth-explanation-for-beginners/"><u>Decoding Biometric Systems: An In-Depth Explanation for Beginners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-resolving-code-28-issues-on-your-windows-system/"><u>Effective Solutions for Resolving Code 28 Issues on Your Windows System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-hdcp-problem-insights-into-common-issues-and-efficient-remedies/"><u>Fixing the HDCP Problem: Insights Into Common Issues & Efficient Remedies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/front-seat-recreation-10-non-athletic-delights-for-2024/"><u>Front Seat Recreation 10 Non-Athletic Delights for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Camon 20 Pro 5G Phone?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-update-on-the-google-pixel-tablet-specifications-and-expected-launch-announcement/"><u>Latest Update on the Google Pixel Tablet - Specifications & Expected Launch Announcement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects/"><u>Mastery of Visual Storytelling Advanced Techniques with LUTs in After Effects</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/scan-issues-resolved-discover-why-your-computer-wont-detect-the-scanner-and-how-to-fix-it-with-yl-software-expertise/"><u>Scan Issues Resolved: Discover Why Your Computer Won’t Detect the Scanner and How to Fix It with YL Software Expertise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-boosting-your-iphones-call-audio-level/"><u>Solving the Mystery: Boosting Your iPhone's Call Audio Level</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-discord-is-down-or-your-network/"><u>Troubleshooting Connection Issues: How to Tell if Discord Is Down or Your Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-resolving-mfplatdll-file-not-found-issues/"><u>Troubleshooting Techniques: Resolving mfplat.dll File Not Found Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-finding-vanished-emails-in-gmail-a-comprehensive-recovery-guide/"><u>Unlock the Secrets of Finding Vanished Emails in Gmail – A Comprehensive Recovery Guide</u></a></li>
+</ul></div>
 

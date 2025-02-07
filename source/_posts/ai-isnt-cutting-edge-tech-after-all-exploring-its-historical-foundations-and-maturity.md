@@ -1,7 +1,7 @@
 ---
 title: "AI Isn't Cutting-Edge Tech After All: Exploring Its Historical Foundations and Maturity"
-date: 2024-08-30T15:08:55.524Z
-updated: 2024-08-31T15:08:55.524Z
+date: 2025-02-04T16:09:59.576Z
+updated: 2025-02-07T16:10:44.334Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
 ## AI Isn't Cutting-Edge Tech After All: Exploring Its Historical Foundations and Maturity
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI has existed as an idea since ancient times, with the idea of artificial human-like beings written about by the Ancient Greeks.
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  The use of artificial intelligence has been increasing across most industries over the past decade or so, and this technology has a lot of potential. However, is AI a fairly new development, or did its roots begin in a much earlier time? Here's how old AI really is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Was AI Conceptualized?
 
  The idea of machines gaining consciousness, or at least mimicking human behavior, came about a very long time ago. In its most basic form, the idea of AI first popped up by the Ancient Greeks when the idea of humans creating artificial, human-like beings, was [written about by poet Hesiod in the story of Talos](https://news.stanford.edu/2019/02/28/ancient-myths-reveal-early-fantasies-artificial-life/).
@@ -26,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  In the following centuries, more stories, predictions, and myths of artificial human-like creations were written, such as Paracelsus discussion of the creation of an "artificial man" [in his work 'Of the Nature of Things](https://erenow.org/common/history-philosophy-science-reader/58.php).' It wasn't until the mid-20th century that the idea of artificial intelligence became a reality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Creation of AI
 
  The first system that used artificial intelligence to function was created in 1955 by Herbert Simon, Clifford Shaw, and Allen Newell, and was named Logic Theorist. Simon, a political scientist and sociologist, along with Hewell, a computer scientist, developed Logic Theorist in order to artificially mimic certain human thought processes. The program itself was written by Shaw, a computer programmer who worked for RAND at the time. As Logic Theorist was being developed in 1955, the term "artificial intelligence" hadn't even been coined yet; this was to come a year later from John McCarthy.
@@ -35,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  Logic Theorist was specifically designed to solve mathematical problems using human-attributed skills, therefore simulating a basic version of the human mind in doing so. As stated in a [2006 academic article on the topic of Logic Theorist](https://www.researchgate.net/publication/276216226%5FNewell%5Fand%5FSimon's%5FLogic%5FTheorist%5FHistorical%5FBackground%5Fand%5FImpact%5Fon%5FCognitive%5FModeling), the program was "perhaps the first working program that simulated some aspects of peoples' ability to solve complex problems."
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How AI Has Evolved
 
  The first AI system created and the AI systems we see today differ vastly from one another. As our understanding of technology has grown, we've been able to continuously improve AI's capabilities over time, which has given way to the impressive AI-based tools we see today. But this wasn't an easy journey.
@@ -57,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  Things didn't slow down for AI in the 2010s, with advancements in the mid-to-late period of the decade entirely changing how we can receive and analyze data. So, what happened here?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  AI Today
 
  Today, the global AI market is worth over $2 trillion, according to a [Statista study](https://www.statista.com/statistics/1365145/artificial-intelligence-market-size/). By 2026, the market is expected to exceed $5 trillion, and this number will likely only increase over time.
@@ -77,8 +84,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  But AI also has its uses in a lot of other technologies, such as virtual assistants. Siri, Alexa, Google Assistant, and Cortana all use AI to better understand users' verbal commands. Moreover, the recommendations you'll get on social media, online retailers, and similar platforms are also often powered by AI. You've likely come into contact with AI multiple times without even realizing it.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Future of AI
 
  The future of AI is a topic that has stirred a lot of concern, mainly due to the fact that AI's potential is essentially endless. As technology advances, AI systems can gain greater computing power, more perfected neural networks, and increased capability overall. We'll start with the more realistic future applications of AI, and then get into the more sci-fi aspects.
@@ -91,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
  In the next few years, we may see AI-based chatbots improve in their capabilities and accuracy, and it's likely that AI's presence will increase across almost all industries.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  AI Has Undoubtedly Changed the World
 
  Even though AI still has a long way to go before it can truly mimic the human brain, this technology has already changed the world. There's no knowing how AI will develop in the future, and the question of AI surpassing human intelligence is still up in the air. But there's no doubt that AI has already changed the online landscape, and likely the future of humanity as a whole.
@@ -104,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +116,20 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[New] In 2024, Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-playlist-pivot-the-top-5-spotify-to-youtube-tools/"><u>[New] In 2024, Effortless Playlist Pivot The Top 5 Spotify-to-YouTube Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[New] Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-beginners-roadmap-to-free-youtube-intro-videos/"><u>[New] The Beginner's Roadmap to Free YouTube Intro Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-dvdmac-osdvdmp4/"><u>高效率Mac DVD转码器：从Mac OS下载，解锁并转换加密DVD到MP4、手机或平板电子设备</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-precise-pathway-to-youtube-channel-profitable-management/"><u>In 2024, Precise Pathway to YouTube Channel Profitable Management</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-review-cloud-pricing-trends/"><u>In-Depth Review Cloud Pricing Trends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimal-video-codecs-and-settings-for-smartphones-samsung-vs-apple/"><u>Optimal Video Codecs and Settings for Smartphones: Samsung vs Apple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories-for-2024/"><u>Quick Tips Altering Video Pace in Instagram Stories for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/select-one-of-the-imported-avi-files-as-the-source-video-by-clicking-on-it-within-the-program-interface/"><u>Select One of the Imported AVI Files as the Source Video by Clicking on It Within the Program Interface.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-6-preferidos-convertidores-de-video-libres-para-mp4-como-pasar-a-y-desde-mp4-sin-coste/"><u>Top 6 Preferidos Convertidores De Vídeo Libres Para MP4: Cómo Pasar a Y Desde MP4 Sin Coste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-solving-the-issue-of-non-responsive-netflix-streaming-across-all-your-gadgets/"><u>Troubleshooting Tips: Solving the Issue of Non-Responsive Netflix Streaming Across All Your Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285378512-winx-dvd-ripper/"><u>WinX DVD Ripper 및 비디오 컨버터를 구입하기 위한 금방 - 지역 전국 가장 유용한 판매 중심</u></a></li>
+</ul></div>
 

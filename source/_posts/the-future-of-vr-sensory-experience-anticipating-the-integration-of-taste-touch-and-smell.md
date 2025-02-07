@@ -1,7 +1,7 @@
 ---
 title: "The Future of VR Sensory Experience: Anticipating the Integration of Taste, Touch & Smell"
-date: 2024-08-30T15:09:45.938Z
-updated: 2024-08-31T15:09:45.938Z
+date: 2025-02-04T16:08:16.259Z
+updated: 2025-02-07T16:00:53.581Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 ---
 
 ## The Future of VR Sensory Experience: Anticipating the Integration of Taste, Touch & Smell
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,16 +35,14 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
 
  It's not as if the idea of adding these sensory channels to media is new. Movie theaters have experimented with releasing smells during certain scenes. There have been video games known as "[feelies](https://www.pcgamer.com/boxes-feelies-and-the-good-old-days-of-pc-gaming/)" where you'd get items in the box that you're supposed to touch when instructed. It may have been largely a gimmick in the past, but many people hold that opinion of VR itself as well, so there's certainly a market for more.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Simulated Taste: All Flavor, No Calories
 
 ![Woman in a kitchen wearing a virtual reality headset and eating a bowl of food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-eating-food.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautiful-attractive-young-woman-eating-healthy-696003394)_
 
  You can hop into a VR experience like VRChat, order a virtual hot dog, pick it up, and look at it, but you can't taste it. While it might not be a headline feature on VR users' wishlists, simulating the sense of taste is something that engineers and scientists have been working on for a long time.
@@ -49,12 +51,13 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
 
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
 
@@ -69,15 +72,13 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Smelling the Virtual Roses
 
 ![Woman wearing virtual reality headset and enjoying the smell of a bouquet of flowers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-flower-bouquet.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-vr-glasses-headset-enjoying-1780967699)_
 
  Of all the senses besides sight and sound, smell might be the most important and impactful one. Smell is actually a [strong trigger of memory](https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/), which suggests they're important to memory in general. Most of what we think of as "flavor" is actually smell as well. If you pinch your nose shut, you can still tell basic tastes such as sweet or bitter apart, but complex flavors go away. It's the complex chemical sensors in your nose combined with the tongue that really makes taste what it is.
@@ -91,8 +92,9 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Holy Grail: Direct Brain Stimulation
 
  All of the technologies that are trying to bring more sensations to VR work by fooling our sensory organs, but perhaps one day we'll recreate these sensations by bypassing those organs altogether. Direct brain stimulation through a future [brain implant](https://facebook-record-videos.techidaily.com/new-2024-approved-essential-video-concepts-fueling-creativity-in-youtube-channels/) similar to the current [Neuralink](https://neuralink.com) or [Braingate](https://www.braingate.org) systems might allow a computer system to let you feel anything. Yes, that sounds like The Matrix, but it's still a real possibility if the right breakthroughs are made. However, we'd be very hesitant to put any date on it, since too many factors are in play.
@@ -105,8 +107,6 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +114,23 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-efficiently-expanding-on-stardews-ginger-isle/"><u>[New] Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ree-method-to-record-your-youtube-watching-experience-for-2024/"><u>[New] Free Method to Record Your YouTube Watching Experience for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unveiling-the-artist-within-using-auditions-gradual-volume-increase/"><u>[Updated] 2024 Approved Unveiling the Artist Within Using Audition's Gradual Volume Increase</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-video-edits-ultimate-tutorial-guide/"><u>2024 Approved Mastering Instagram Video Edits Ultimate Tutorial Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-range-of-multimedia-file-types-that-work-on-windows-11-systems/"><u>Exploring the Range of Multimedia File Types That Work on Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-mp4-conversion-software-ranking-quick-guide-for-hd-video-format-changes/"><u>Free MP4 Conversion Software Ranking: Quick Guide for HD Video Format Changes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y100-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y100 5G FRP</u></a></li>
+<li><a href="https://techtrends.techidaily.com/la-scelta-migliore-tra-i-taglierini-video-gratuiti-per-windows-1187-e-mac-eliminare-clip-indesiderate-con-facilita/"><u>La Scelta Migliore Tra I Taglierini Video Gratuiti per Windows 11/8/7 E Mac: Eliminare Clip Indesiderate Con Facilità</u></a></li>
+<li><a href="https://win11.techidaily.com/m4a202c/"><u>M4Aファイル編集プログラム202C最新リリースをお勧めします!音質無傷の維持が可能</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-hd-content-conversion-a-comprehensive-2023-handbrake-tutorial-for-pcmac-users/"><u>Mastering HD Content Conversion: A Comprehensive 2023 HandBrake Tutorial for PC/Mac Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/schnell-freischalten-ihrer-dvd-player-region-eine-schritt-fur-schritt-anleitung/"><u>Schnell Freischalten Ihrer DVD-Player-Region – Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ess-integration-of-youtube-melodies-into-imovie-for-2024/"><u>Seamless Integration of YouTube Melodies Into iMovie for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforming-midi-tracks-into-mp3-audio-without-cost-discover-these-2-simple-solutions/"><u>Transforming MIDI Tracks Into MP3 Audio Without Cost: Discover These 2 Simple Solutions!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-full-power-of-winx-dvd-copy-pro-without-costing-you-a-penny-the-ultimate-complimentary-update/"><u>Unlock the Full Power of WinX DVD Copy Pro Without Costing You a Penny: The Ultimate, Complimentary Update!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-video-ai-faq/"><u>WinX Video AI: 주요 기술에 관한 FAQ와 해결책</u></a></li>
+</ul></div>
 

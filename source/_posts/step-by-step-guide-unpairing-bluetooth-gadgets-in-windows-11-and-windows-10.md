@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Unpairing Bluetooth Gadgets in Windows 11 & Windows 10"
-date: 2024-08-30T15:07:34.690Z
-updated: 2024-08-31T15:07:34.690Z
+date: 2025-02-04T16:00:55.359Z
+updated: 2025-02-07T16:04:12.054Z
 tags:
   - desktop
 categories:
@@ -42,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 !['Remove Device' highlighted for a Bluetooth device in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-bluetooth-device-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Under your device's name, you'll see a "Removing Device" message. This message will disappear once Windows has deleted the device.
 
 ###  On Windows 10
@@ -53,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 !['Devices' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-devices-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the left sidebar, choose "Bluetooth & Other Devices."
 
 !['Bluetooth & Other Devices' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-bluetooth-devices-windows-10.jpg) 
@@ -68,11 +70,13 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 !['Yes' highlighted in the Bluetooth device removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-bluetooth-device-removal-prompt-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Bluetooth Devices with Device Manager
 
  If you can’t remove a device from Settings or you want to remove the device and delete its associated drivers, use this method.
@@ -81,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 !['Device Manager' highlighted in Windows' Power User menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-launch-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the utility window, expand "Bluetooth." Find the device to remove, right-click it, and select "Uninstall Device."
 
 !['Uninstall Device' highlighted for a Bluetooth device in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-uninstall-bluetooth-device.jpg) 
@@ -93,13 +94,11 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 !['Uninstall' highlighted in the 'Uninstall Device' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-confirm-remove-bluetooth-device-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Restart your Windows 11](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) or [Windows 10](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove Bluetooth Devices Using Command Prompt
 
  If you prefer using command line methods over graphical ones, you can use a command in Command Prompt (or PowerShell) to remove the paired Bluetooth devices from your PC. This method achieves the same result as the graphical methods above.
@@ -111,17 +110,15 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 !['Properties' highlighted for a Bluetooth device in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-bluetooth-device-properties.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Properties window, open the "Details" tab. Click the "Property" drop-down menu and select "Device Instance Path." This is the second option in the menu.
 
  Right-click the text displayed in the "Value" field and select "Copy."
 
 !['Details,' 'Property,' and 'Copy' highlighted on the 'Properties' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-copy-bluetooth-device-instance-path.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Close Device Manager. Open the Start Menu, search for "Command Prompt", and select "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-open-cmd-as-admin.jpg) 
@@ -138,6 +135,10 @@ pnputil /remove-device “DEVICE_ID”
 
 ![The command to remove a Bluetooth device typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-remove-bluetooth-device-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Command Prompt will remove the specified Bluetooth device and display a message. If your device isn't removed, ensure the entered device instance path is correct.
 
 ---
@@ -150,8 +151,6 @@ pnputil /remove-device “DEVICE_ID”
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +158,22 @@ pnputil /remove-device “DEVICE_ID”
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-repeated-imagery-in-instagram-videos/"><u>[Updated] In 2024, The Art of Repeated Imagery in Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-rapid-method-converting-images-into-desktop-thumbnails-for-youtube/"><u>[Updated] Rapid Method Converting Images Into Desktop Thumbnails for YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-install-utorrent-on-windows-10-no-cost-option-available-now/"><u>Download and Install uTorrent on Windows 10 - No Cost Option Available Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-of-driving-top-4-manufacturers-dominating-driverless-cars/"><u>Future of Driving: Top 4 Manufacturers Dominating Driverless Cars</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-set-for-ios-navigating-through-its-release-timeline-features-and-news-all-accessible-at-zero-cost/"><u>Get Set for iOS Navigating Through Its Release Timeline, Features & News - All Accessible at Zero Cost</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-zte-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on ZTE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-15-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 15</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-accessibility-features-disabling-or-activating-the-touch-typing-tool-on-windows-11/"><u>Mastering Accessibility Features: Disabling or Activating the Touch Typing Tool on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-package-contents-whats-inside/"><u>Nintendo Switch Package Contents: What's Inside?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-unable-to-open-due-to-unverified-developer-dilemma-in-macos/"><u>Overcoming the 'Unable to Open Due to Unverified Developer' Dilemma in macOS</u></a></li>
+<li><a href="https://win-great.techidaily.com/partisi-pulihan-keperluan-langsungnya-penilaian-untuk-kompatibilitas-windows-11/"><u>Partisi Pulihan: Keperluan Langsungnya Penilaian Untuk Kompatibilitas Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-ace-2-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus Ace 2 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-strategies-for-gratis-transformation-from-vob-to-flv-videos/"><u>Step-by-Step Strategies for Gratis Transformation From VOB to FLV Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-selection-the-11-greatest-inspiring-movie-masterpieces/"><u>Ultimate Selection: The 11 Greatest Inspiring Movie Masterpieces</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-top-virtualdub-replacements-for-video-editing-enthusiasts-and-pros/"><u>Updated In 2024, The Top Virtualdub Replacements for Video Editing Enthusiasts and Pros</u></a></li>
+</ul></div>
 

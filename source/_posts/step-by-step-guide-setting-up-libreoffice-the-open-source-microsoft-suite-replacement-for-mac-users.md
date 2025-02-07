@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up LibreOffice, The Open Source Microsoft Suite Replacement for Mac Users"
-date: 2025-01-23T18:47:40.411Z
-updated: 2025-01-25T18:01:02.422Z
+date: 2025-01-31T16:13:38.978Z
+updated: 2025-02-07T16:05:18.471Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,15 +52,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,18 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-strategies-for-flawless-cricket-livestreams/"><u>[New] 2024 Approved Essential Strategies for Flawless Cricket Livestreams</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mastering-facebook-live-views-roku-edition-for-2024/"><u>[New] Mastering Facebook Live Views Roku Edition for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-explore-exceptional-economically-priced-asmr-gear/"><u>[Updated] 2024 Approved Explore Exceptional, Economically-Priced ASMR Gear</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-skyline-spectacular-the-gopro-karma-edition/"><u>[Updated] In 2024, Skyline Spectacular The GoPro Karma Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/activating-two-step-verification-in-gmail-a-step-by-step-guide/"><u>Activating Two-Step Verification in Gmail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-duckduckgo-understanding-its-features-and-safety/"><u>Exploring DuckDuckGo: Understanding Its Features and Safety</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-game-crashes-in-red-dead-online/"><u>How To Resolve PC Game Crashes in Red Dead Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-messaging-a-comprehensive-guide-to-sending-texts-from-your-ipad/"><u>Mastering Messaging: A Comprehensive Guide to Sending Texts From Your iPad</u></a></li>
-<li><a href="https://win-dash.techidaily.com/run-the-downloaded-installer-files-one-at-acuoonding-usually-in-alphabetical-order-the-installation-process-may-vary-depending-on-the-manufacturers-setup-ho235/"><u>Run the Downloaded Installer Files One at Acuoonding (Usually in Alphabetical Order). The Installation Process May Vary Depending on the Manufacturer's Setup; However, You Typically Need to Restart Your Computer After Completing the Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-the-d3dx926dll-file-cannot-be-found-problem/"><u>Step-by-Step Guide: Correcting the 'd3dx9_26.dll' File Cannot Be Found Problem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-star-wars-marathon-watch-the-saga-back-to-back-on-disneyplus/"><u>The Ultimate Guide to Star Wars Marathon - Watch the Saga Back-to-Back on Disney+</u></a></li>
-<li><a href="https://driver-error.techidaily.com/toms-tech-evaluations-comprehensive-reviews-and-advice-on-electronics/"><u>Tom's Tech Evaluations: Comprehensive Reviews & Advice on Electronics</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/troubleshoot-your-icloud-easily-overcome-the-vcard-export-issue-with-these-three-solutions/"><u>Troubleshoot Your iCloud: Easily Overcome the VCard Export Issue with These Three Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[New] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>[Updated] Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-replacements-for-skype-top-picks-of-2eae-2024/"><u>Affordable Replacements for Skype: Top Picks of 2Eae 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-price-tag-a-deep-dive-into-why-apple-watch-series-9-is-worth-it-over-budget-models-exclusive-review-by-zdnets-senior-gadget-analyst/"><u>Beyond the Price Tag: A Deep Dive Into Why Apple Watch Series 9 Is Worth It Over Budget Models | Exclusive Review by ZDNET's Senior Gadget Analyst</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nubia-z50s-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nubia Z50S Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/editing-instagram-chats-efficiently-what-you-need-to-know/"><u>Editing Instagram Chats Efficiently – What You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-livestream-with-manycam-the-ultimate-software-and-online-camera-guide/"><u>Enhance Your Livestream with ManyCam - The Ultimate Software & Online Camera Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ditor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/julys-complete-list-of-netgear-default-login-details/"><u>July's Complete List of NETGEAR Default Login Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionary-tricks-to-juice-up-your-mobile-device-sans-charger/"><u>Revolutionary Tricks to Juice Up Your Mobile Device Sans Charger</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-must-have-mobile-applications-every-teen-needs-in-high-school/"><u>Top 10 Must-Have Mobile Applications Every Teen Needs in High School</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-mini-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 mini Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unraveling-revenue-how-much-do-creators-make-on-youtube-adverts-for-2024/"><u>Unraveling Revenue How Much Do Creators Make on Youtube Adverts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-from-meta-quest-3-lite-analyzing-future-pricing-release-windows-and-speculative-tech-specs/"><u>What to Expect From Meta Quest 3 Lite? Analyzing Future Pricing, Release Windows & Speculative Tech Specs</u></a></li>
 </ul></div>
 

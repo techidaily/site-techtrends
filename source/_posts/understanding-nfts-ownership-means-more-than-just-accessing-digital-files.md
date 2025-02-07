@@ -1,7 +1,7 @@
 ---
 title: "Understanding NFTs: Ownership Means More Than Just Accessing Digital Files"
-date: 2024-08-30T15:08:50.160Z
-updated: 2024-08-31T15:08:50.160Z
+date: 2025-02-06T16:09:00.292Z
+updated: 2025-02-07T16:12:43.250Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 ---
 
 ## Understanding NFTs: Ownership Means More Than Just Accessing Digital Files
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,8 +36,9 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 Related: [What Is a Bored Ape NFT?](https://program-issues.techidaily.com/step-by-step-solution-for-discord-packet-transmission-problems/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  NFT Art Isn't Stored on the Blockchain
 
  With all the money being paid for NFTs, it might come as a surprise to learn that the artworks represented by NFTs aren't stored on the blockchain themselves. Instead, NFTs simply contain a link that points to a digital art file (photo or video) hosted on a conventional web server.
@@ -53,17 +58,15 @@ Related: [Here's the Problem With NFTs](https://extra-lessons.techidaily.com/tec
 ![Bored Ape #9055 displayed on a smartphone on a pile of cash.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ape-cash.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [mundissima/Shutterstock.com](https://www.shutterstock.com/image-photo/bored-ape-yacht-club-9055-nft-2101462063)
 
  The reason why art isn't stored directly on the Ethereum blockchain is because, at the moment, Ethereum (and other blockchains) are extremely slow and inefficient at storing digital data. Every byte is very expensive -- with [one 2021 calculation estimating](https://erickhun.com/posts/nft-misconception-image-arent-on-blockchains/) $20,000 to store for 500 KB. That makes it impractical to store even small images on the Ethereum blockchain, much less the high-resolution images or videos that NFTs point to.
 
  Even if you were wildly rich and decided to try to store artwork on the Ethereum blockchain (which the EIP-721 standard does not support, by the way), it would take a very long time to load when you viewed it. If you ask an Ethereum developer when we can expect to store images directly on the blockchain, you might get [laughed out of the room](https://stackoverflow.com/questions/52994467/is-it-possible-to-store-images-on-the-ethereum-blockchain). Instead, [off-chain solutions](https://ethereum.stackexchange.com/questions/39279/how-do-you-store-image-in-the-ethereum-blockchain-efficiently) are almost always recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Broken Link Hijacking May Come to NFTs
 
  So what does it all mean? It means NFTs will break. Possibly even most of them, if we go by the [history of link rot](https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking) on the internet. And when [web links break](https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/), malicious things can potentially take their place.
@@ -75,8 +78,9 @@ Related: [What Is a 404 Error?](https://tech-haven.techidaily.com/essential-ai-t
  Imagine if, in ten years, a major host of NFT images went under, and then someone swooped in and bought the domain name, pointing thousands of NFT links to porn images. It would be very easy to do, and there is nothing the NFT owner can do to stop it. The NFT contains an URL pointing to a server out of the NFT owner's control.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  NFTs Might Not Enter the Historical Record, Either
 
  Even if your NFT links break and no one replaces them, you will still be left with NFTs that [404](https://tech-haven.techidaily.com/essential-ai-technologies-every-entrepreneur-must-explore/) when they try to load their artwork, which means that NFT art is not future-proof at all.
@@ -84,18 +88,15 @@ Related: [What Is a 404 Error?](https://tech-haven.techidaily.com/essential-ai-t
 ![NFTs on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nft-avatars.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Rokas Tenys/Shutterstock.com](https://www.shutterstock.com/image-photo/vilnius-lithuania-march-8-2021-nonfungible-1932205373)
 
  For future historians to understand the content of today's NFTs, we'll need a service like the [Internet Archive's Wayback Machine](https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v27-pro-frp-locks-by-drfone-android/) to mirror the NFT artworks and take the place of the broken links when they inevitably show up. Or we might have to rely on [pirates who mass download NFT artwork](https://thenftbay.org/) and make it available in massive dumps (pirates have [saved the day](https://www.technologizer.com/2012/01/23/why-history-needs-software-piracy/) many times before).
 
  Eventually, the design of NFTs might change to a more robust model where the images are stored on a distributed file system like [IPFS](https://en.wikipedia.org/wiki/InterPlanetary%5FFile%5FSystem), but that's not written in the NFT standard people are using now. At the moment, you're usually just buying a very fragile web link (there are some exceptions, such as [generative art](https://medium.com/@datash/an-introduction-to-generative-art-nfts-35e650a0f281)).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should I Buy NFT Art Anyway?
 
  Knowing what you know, whether you still buy an NFT is completely up to you. Right now, the NFT market is completely unregulated, which means it is lacking oversight or quality control standards. As a result, it's [full of scams](https://screen-video-capture.techidaily.com/1715860395616-in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/), and purchasing an art NFT with the hope that it will rise in value (or even maintain its value) is extremely risky. So tread carefully, and know that what you're buying is usually an expensive web link that can break at any time. Stay safe out there!
@@ -108,8 +109,6 @@ Related: [Stop Listening to Celebrity Advice on Crypto (and Everything Else)](ht
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +116,23 @@ Related: [Stop Listening to Celebrity Advice on Crypto (and Everything Else)](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-tiktok-captioning-mastery/"><u>[Updated] 2024 Approved The Ultimate Guide to TikTok Captioning Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-infusing-instagram-reels-with-tunes-and-narration-for-2024/"><u>[Updated] Infusing Instagram Reels with Tunes & Narration for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transforming-the-metaverse-essential-gear-to-consider-top-7-for-2024/"><u>[Updated] Transforming the Metaverse Essential Gear to Consider (Top 7) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winxdvd-by-digiarty/"><u>技術サポート・WinXDVD by Digiarty：亀裂を見つけて修正するチュートリアル</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-ppt-media-rendering-velocity-for-2024/"><u>Boosting PPT Media Rendering Velocity for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/descarga-winx-rip-editor-pro-mejora-tu-experiencia-de-extraccion-digital-a-32x-velocizacion-en-ventanas-10/"><u>Descarga WinX Rip Editor Pro: Mejora Tu Experiencia De Extracción Digital a 32X Velocizacion en Ventanas 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-se-2020-how-to-unlock-a-disabled-apple-iphone-se-2020-by-drfone-ios/"><u>Disabled Apple iPhone SE (2020) How to Unlock a Disabled Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-reactivate-your-mic-in-zoom-a-tutorial-for-windows-1110-users/"><u>Effective Solutions to Reactivate Your Mic in Zoom: A Tutorial for Windows 11/10 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/four-simple-methods-for-adding-logos-and-watermarks-to-videos/"><u>Four Simple Methods for Adding Logos and Watermarks to Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-12-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi 12 5G Phone Screen?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-camcorder-for-wildlife-documenting/"><u>In 2024, Best Camcorder for Wildlife Documenting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-spectrums-impact-applying-color-dynamics/"><u>In 2024, The Spectrum's Impact Applying Color Dynamics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lose-no-data-save-time-how-to-back-up-any-dvd-within-5-mins-without-sacrificing-quality/"><u>Lose No Data, Save Time: How To Back Up Any DVD Within 5 Mins Without Sacrificing Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mkv-avi-konvertierung-mit-winx-hd-video-converter-deluxe-professionelles-wandlungstool-fur-multiformate/"><u>MKV-AVI Konvertierung Mit WinX HD Video Converter Deluxe: Professionelles Wandlungstool Für Multiformate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-winx-mediatrans-mastery-efficient-techniques-for-media-format-switching-and-data-migration/"><u>Step-by-Step WinX MediaTrans Mastery: Efficient Techniques for Media Format Switching and Data Migration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-top-5-software-solutions-for-playing-amr-audio-files/"><u>The Ultimate Top 5 Software Solutions for Playing AMR Audio Files</u></a></li>
+</ul></div>
 

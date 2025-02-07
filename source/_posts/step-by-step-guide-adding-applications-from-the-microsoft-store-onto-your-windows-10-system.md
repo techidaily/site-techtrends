@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Applications From the Microsoft Store Onto Your Windows 10 System"
-date: 2024-08-30T15:07:31.074Z
-updated: 2024-08-31T15:07:31.074Z
+date: 2025-01-31T16:08:52.028Z
+updated: 2025-02-07T16:05:10.572Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ## Step-by-Step Guide: Adding Applications From the Microsoft Store Onto Your Windows 10 System
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Free Apps vs. Paid Apps](https://buynow-tips.techidaily.com/motorola-one-5g-ace-fastest-5g-performance-with-exceptional-battery-longevity/)
 * [How to Install Software Using the Microsoft Store on Windows 10](https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
  Windows 10 includes the Microsoft Store, which lets you download free or paid software from the internet. Here's how to install apps from the Store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ##  Free Apps vs. Paid Apps
 
  Before using the Microsoft Store---or any modern app store---it's important to understand the difference between the two types of software in the store: free and paid.
@@ -35,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
  The second type is "paid" software, which you buy up front before you download and then usually you own the right to use it completely, although there are also paid apps that sell more features later through in-app purchases.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Install Software Using the Microsoft Store on Windows 10
 
  Before we begin, we'll assume that you have already [created a Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and you are logged in. For app purchases, you'll need some form of payment that has already been linked to your Microsoft account.
@@ -50,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![The Microsoft Store advertises all kinds of apps and media.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-the-microsoft-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  If you're looking for a specific type of app, click one of the categories to the left-hand side. Some categories, most notably Movies & TV, also allow you to purchase media, like movies. 
 
 ![The app types listed on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-app-types-on-left.png) 
@@ -61,28 +60,26 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ![Search for an app using the search bar at the top of the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-searching-for-the-hulu-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you locate a program you'd like to install, first check whether it is a free or paid app. If you don't see a price listed, the app is generally free, or requires a separate purchase (as with a Netflix account). Click the "Get" button to add and app to your account and download it for the first time. If you've downloaded an app previously but unistalled it, you'll see an "Install" button instead. 
 
 ![Click the 'Get' button to add an app to your account, then click 'Install' to actually install it to your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-get-app.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the program requires a purchase before downloading, you will see a large "Buy for" button followed by a price. 
 
 ![Buy Microsoft Flight Simulator for 59.99 USD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-buy-for-x-price.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After following the purchase steps, the download will begin. You will see the "Get" or "Install" button change to a small circle that indicates your download's progress. You can also click this button to stop a download in progress if you change your mind, or if it is taking up too much time or bandwidth. 
 
 ![The download is in progress when the 'Get' or 'Install' button changes to a stop button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-download-in-progress.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Once the app is installed, you can launch it by clicking "Launch" or "Play" button located just beside the download progress indicator bar. Or you can open the "Start" menu and browse for the app name in an alphabetical list. Click the app's icon when you find it, and it will launch.
 
 ![Netflix in the Start menu under 'N' in the alphabetical list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-netflix-in-start-menu.png) 
@@ -95,6 +92,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Click the 'Library' button in the bottom-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-click-the-library-button.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will see a list of all the apps you have installed through the Microsoft Store, and you can sort it by install date and other criteria. If you want to [uninstall the app later](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), you'll need to visit Settings > Apps, select the program, then click "Uninstall."
 
  Have fun with your new app!
@@ -105,8 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-average-gain-for-youtubers-per-ad-exposure/"><u>[New] 2024 Approved Average Gain for YouTubers per Ad Exposure?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-camera-roll-sharing-in-just-a-few-steps-for-2024/"><u>[New] Mastering Camera Roll Sharing in Just a Few Steps for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-srt-a-complete-guide-overview/"><u>[New] Mastering SRT A Complete Guide Overview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-iphone-7-screen-a-step-by-step-guide/"><u>[Updated] 2024 Approved Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-clone-yourself-on-tiktok-a-simple-guide/"><u>[Updated] 2024 Approved How to Clone Yourself on TikTok - a Simple Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-foundation-of-a-great-facebook-presence-mastering-covers-for-2024/"><u>[Updated] The Foundation of a Great Facebook Presence Mastering Covers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-roadmap-to-mastering-the-art-of-google-gemini/"><u>A Beginner's Roadmap to Mastering the Art of Google Gemini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-next-gen-audio-gadget-leak-insights-on-pricing-launch-timeline-and-features/"><u>Apple's Next-Gen Audio Gadget Leak: Insights on Pricing, Launch Timeline & Features!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-ipad-pro-and-macbook-air-key-distinctions-you-need-to-know/"><u>Comparing iPad Pro and MacBook Air: Key Distinctions You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-dll-errors-a-guide-on-how-to-find-and-restore-msstfmtdll/"><u>Dealing with DLL Errors: A Guide on How to Find and Restore msstfmt.dll</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-soundscapes-for-your-status-story/"><u>In 2024, Soundscapes for Your Status Story</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138590730-9781452504490-my-encounters-with-the-spirit-world/"><u>My Encounters with the Spirit World | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-internet-to-uncover-email-identities-with-care/"><u>Navigating the Internet to Uncover Email Identities with Care</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quickly-unfriend-many-users-at-once-on-snapchat-step-by-step-tutorial/"><u>Quickly Unfriend Many Users at Once on Snapchat - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-haldll-issues-on-various-versions-of-windows-a-comprehensive-guide/"><u>Resolving Hal.dll Issues on Various Versions of Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-device-fixing-iphoneipad-wi-fi-problems-with-these-8-tips/"><u>Troubleshoot Your Device: Fixing iPhone/iPad Wi-Fi Problems with These 8 Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/updating-your-chromecast-a-step-by-step-guide/"><u>Updating Your Chromecast: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

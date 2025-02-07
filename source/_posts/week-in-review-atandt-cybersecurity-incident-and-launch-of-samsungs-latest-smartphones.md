@@ -1,7 +1,7 @@
 ---
 title: "Week in Review: AT&T Cybersecurity Incident & Launch of Samsung's Latest Smartphones"
-date: 2024-08-30T15:07:48.145Z
-updated: 2024-08-31T15:07:48.145Z
+date: 2025-01-31T16:14:52.022Z
+updated: 2025-02-07T16:04:16.382Z
 tags:
   - desktop
 categories:
@@ -20,22 +20,17 @@ This was a busy week for tech news, with Samsung releasing new phones and access
  Even if you aren't an AT&T customer, this breach probably affects you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Thunderbird's Big "Nebula" Update Is Now Available](https://win-dash.techidaily.com/fresh-release-enhanced-biometric-drivers-for-seamless-windows-integration/) 
 
  Thundebird, the email client from Mozilla, just got its big update for the year with several usability improvements and new features.
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Mozilla
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
@@ -49,8 +44,9 @@ Mozilla
  An updated Start menu, the return of "show desktop," new emoji, and more are rolling out to all Windows 11 PCs after a few months in Insider testing.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Spotify Is Now a Social Media Platform](https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/) 
 
  A new comments system encourages influencer culture on Spotify.
@@ -65,36 +61,40 @@ Mozilla
 
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [T-Mobile Home Internet Reverses Its Recent Price Increase](https://buynow-info.techidaily.com/the-epicurean-pandemonium-of-overcooked-2-demystified-in-our-latest-review/) 
 
  The affordable 5G internet service is back down to $50 a month.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Winamp Music Player Is Now on iPhone and Android](https://facebook.techidaily.com/broaden-your-reach-upload-fb-material-to-popular-app-platforms-now/) 
 
  The classic Winamp desktop music player now has a mobile version, but it might not be what you expect. iCloud integration is especially interesting for iPhone users.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [The Galaxy Watch Ultra is Samsung's Most Expensive Wearable Yet](https://ai-video-apps.techidaily.com/updated-2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/) 
 
  The new Galaxy Watch Ultra takes some inspiration from the Apple Watch Ultra.
 
 ![Person holding the Samsung Galaxy Watch Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-watch-ultra.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
  Samsung’s new regular smartwatch has new internal hardware and the same circular screen.
@@ -113,8 +113,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +120,21 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[New] Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-xs-action-cam-the-polaroid-100-i-unveiled/"><u>[Updated] In 2024, XS Action Cam The Polaroid 100 I Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>2024 Approved Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/arm-vs-intel-for-your-next-surface-pro-purchase-insights-from-an-in-depth-zdnet-analysis/"><u>ARM Vs. Intel for Your Next Surface Pro Purchase - Insights From an In-Depth ZDNet Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/contrasting-features-of-apples-powerhouse-devices-ipad-pro-mini-m4-against-macbook-air-m3/"><u>Contrasting Features of Apple's Powerhouse Devices: IPad Pro Mini (M4) Against MacBook Air (M3)</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-can-you-diagnose-and-fix-network-interface-problems-expert-tips-from-yl-computing/"><u>How Can You Diagnose and Fix Network Interface Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y02t-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y02T Phone Network-Ready</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playstation-network-status-check-is-there-an-actual-downtime-or-just-personal-tech-troubles/"><u>PlayStation Network Status Check - Is There an Actual Downtime or Just Personal Tech Troubles?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revealing-hidden-wi-fi-passwords-in-windows-11-essential-tips-and-tricks/"><u>Revealing Hidden Wi-Fi Passwords in Windows 11 - Essential Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-gsdll32dll-file-absent-a-comprehensive-guide/"><u>Solving the Mystery of gsdll32.dll File Absent: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-players-manual-to-dominating-roller-champions-online-play-pc-focus-year-2024/"><u>The Complete Player's Manual to Dominating Roller Champions Online Play - PC Focus (Year 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-your-d3dx-library-file-woes/"><u>Troubleshooting and Solving Your D3DX Library File Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-missing-mfc42dll-error-message-on-your-pc/"><u>Troubleshooting Tips for Missing MFC42.dll Error Message on Your PC</u></a></li>
+</ul></div>
 

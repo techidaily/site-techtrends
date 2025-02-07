@@ -1,7 +1,7 @@
 ---
 title: Easy Methods to Determine Installed Java Versions in Windows 11 Systems
-date: 2024-08-30T15:08:24.460Z
-updated: 2024-08-31T15:08:24.460Z
+date: 2025-02-04T16:09:28.967Z
+updated: 2025-02-07T16:16:08.792Z
 tags:
   - deals
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Some apps require you to run a certain Java version to properly function. You can check which version of Java you have installed using a graphical tool or via the command line.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check Your Java Version Graphically
 
  If you prefer to avoid the command line, you can use the About Java utility to find the installed Java version.
@@ -33,15 +37,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Searching "About Java" in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-search-about-java.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here, you'll see your current Java version listed in the first line.
 
 ![The Java version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-java-version.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  If you don't see About Java in the Start menu, search for "Configure Java" instead and click it. Then click "About" to see your Java version.
 
  If you don't see either the About Java or Configure Java tools, you likely don't have Java installed. You can [download it](https://www.java.com/en/download/) from Oracle's official website.
@@ -55,8 +57,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'Command Prompt' in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-search-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Command Prompt opens, type the following command at the prompt and press "Enter."
 
 java -version
@@ -66,13 +69,11 @@ java -version
 ![The output of 'java -version' in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-java-version-in-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the Command Prompt says that Java is not recognized as an internal or external command, that's probably because the system variables are not properly set---or perhaps because you don't have Java installed. Reinstall Java on your PC and this should fix the issue for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Check Your Java Version Using PowerShell
 
  Checking your Java version in PowerShell is basically the same as Command Prompt. First, open the Start menu and search "powershell," then click the top result to launch PowerShell. 
@@ -80,8 +81,9 @@ java -version
 ![Search 'PowerShell' in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/powershell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Type **java -version** into the window and hit Enter. Information about your Java version will be dispayed below.
 
 ![5 java version in powershell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-java-version-in-powershell.png) 
@@ -100,8 +102,6 @@ Information about Java displayed in PowerShell.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,16 @@ Information about Java displayed in PowerShell.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-directly-connect-youtube-tunes-to-imovie-seamlessly/"><u>[Updated] 2024 Approved Directly Connect YouTube Tunes to iMovie Seamlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>[Updated] 2024 Approved Grasping the Full Potential of Animoji on iPhone X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enduring-power-played-out-in-asus-tuf-gaming-a14-an-in-depth-review/"><u>Enduring Power Played Out in Asus TUF Gaming A14: An In-Depth Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-autofocus-problem-on-your-iphone-top-solutions-explored/"><u>Fixing the Autofocus Problem on Your iPhone - Top Solutions Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-locations-to-find-rich-text-enhancements/"><u>Prime Locations to Find Rich Text Enhancements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-diy-guide-resolving-device-launch-problems-caused-by-error-code-10/"><u>The Ultimate DIY Guide: Resolving Device Launch Problems Caused by Error Code 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-expert-gadget-reviews-and-tech-insights/"><u>Tom's Hardware - Expert Gadget Reviews & Tech Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-users-handbook-taking-effective-screenshots-using-4-simple-tricks/"><u>Windows 11 User's Handbook: Taking Effective Screenshots Using 4 Simple Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wwdc-2025-highlights-apples-latest-innovations-unveiled/"><u>WWDC 2025 Highlights: Apple's Latest Innovations Unveiled</u></a></li>
+</ul></div>
 

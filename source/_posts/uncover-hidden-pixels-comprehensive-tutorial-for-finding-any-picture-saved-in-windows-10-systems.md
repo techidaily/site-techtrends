@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Pixels: Comprehensive Tutorial for Finding Any Picture Saved in Windows 10 Systems"
-date: 2024-08-30T15:08:36.517Z
-updated: 2024-08-31T15:08:36.517Z
+date: 2025-02-05T16:09:02.430Z
+updated: 2025-02-07T16:14:56.484Z
 tags:
   - deals
 categories:
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
  Have you ever [transferred some pictures to your PC](https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/) and then forget where you stored them? Or, maybe you've got a few storage hard drives and don't want to search them manually? Here's a simple way to get Windows to search for all your photos on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Find All Your Photos Manually
 
  Unfortunately, pictures get stored in different places on your PC depending on the where they come from. Windows itself stores images in your "Pictures" folder. Some syncing services try to respect that, but you'll often find pictures transferred from things like DropBox, iCloud, and OneDrive in their own folders. If you transfer pictures from your camera or another device directly to your PC, those pictures also can end up in different places depending on the transfer method. And if you download pictures from the internet, they'll usually end up in whatever download folder your browser is set to use.
@@ -37,11 +38,9 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  A Better Way: Let Windows Search Find All Your Photos
 
  File Explorer has a quick trick for searching for different types of documents. It's not exactly hidden, but most people never bother with it.
@@ -55,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png) 
@@ -68,8 +68,9 @@ kind:=picture
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As you can see, the results return everything from pictures used by the system to personal pictures contained within the folder and all its subfolders. The search includes images saved in JPG, PNG, GIF, and BMP formats, which are the most common formats used. If you've got pictures stored in another format, like RAW, you'll have to find them another way.
 
  The search I ran on my C: drive came back with 27,494 pictures.
@@ -80,15 +81,16 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
  The asterisk (\*) is used as a wildcard character. In our case, it tells WizTree: "Look for a file with _any_ name that ends in a specific file format."
@@ -118,8 +120,6 @@ kind:=picture
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,20 @@ kind:=picture
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-live-video-showdown-which-is-superior-obs-or-twitch-studio-for-2024/"><u>[Updated] Live Video Showdown Which Is Superior, OBS or Twitch Studio for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728478929077-aomei-image-deploy/"><u>「セキュリティブートのためにAOMEI Image Deployで安全な画像展開手順」</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-claritycleanseapp-top-tier-background-eraser/"><u>2024 Approved ClarityCleanseApp Top-Tier Background Eraser</u></a></li>
+<li><a href="https://techtrends.techidaily.com/asistencia-online-de-ventas-para-el-programa-winx-extractor-y-convertidor-de-videos/"><u>Asistencia Online De Ventas Para El Programa WinX: Extractor Y Convertidor De Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-cualquier-dvd-a-formato-mp4-para-iphoneipad-usando-winx-dvd-ripper-para-mac-guia-completa/"><u>Cómo Convertir Cualquier DVD a Formato MP4 Para iPhone/iPad Usando WinX DVD Ripper Para Mac: Guía Completa</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-in-windows-10-tv/"><u>DVD をファイナライズする手順 in Windows 10 - TV, 他プレーヤーでの再生可能</u></a></li>
+<li><a href="https://techtrends.techidaily.com/install-handbrake-with-libdvdcss-on-windows-and-macos-catalinabig-sur-a-guide-for-legal-rip-and-convert-dvds/"><u>Install Handbrake with Libdvdcss on Windows & macOS Catalina/Big Sur: A Guide for Legal Rip and Convert DVDs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pc-and-macs-finest-in-screencasting-tech/"><u>PC & Mac's Finest in Screencasting Tech</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210500803-9781644115343-the-dharma-of-direct-experience/"><u>The Dharma of Direct Experience | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-empfohlene-screen-recorder-fur-windows-11-8-and-7-vollstandige-und-selektive-aufnahme-auf-dem-computer/"><u>Top-Empfohlene Screen Recorder Für Windows 11, 8 & 7: Vollständige Und Selektive Aufnahme Auf Dem Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>Transform Your Snapchat Storytelling Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-adobe-premiere-2023-a-step-by-step-guide-to-importing-and-exporting-videos-for-2024/"><u>Updated Adobe Premiere 2023 A Step-by-Step Guide to Importing and Exporting Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-mediatrans-ihr-alleskonner-fur-den-transfer-von-medien-auf-ihrem-iphone-und-ipad/"><u>WinX MediaTrans™ - Ihr Alleskönner Für Den Transfer Von Medien Auf Ihrem iPhone Und iPad</u></a></li>
+</ul></div>
 

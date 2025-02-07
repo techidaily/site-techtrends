@@ -1,7 +1,7 @@
 ---
 title: Discover If Your Apple Device Harbors an Ingenious Smart Speaker Core - The Elusive Mac and iPad Smart Home Receiver
-date: 2025-01-18T19:27:33.693Z
-updated: 2025-01-25T17:10:21.732Z
+date: 2025-02-05T16:13:15.830Z
+updated: 2025-02-07T16:14:58.713Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -71,7 +71,7 @@ It only weighs 6.9 ounces, so it won't weigh your work bag or suitcase down, and
 In addition to the charging station, the only other thing you need to bring with you is a high-output USB-C cable and adapter, both of which are included in the box. The Anker adapter maxes out at 40W, so anything that's the same or higher would be ideal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,19 +108,22 @@ If you consider yourself an Apple aficionado -- or just a big fan of wireless ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-business-idea-to-boardroom-on-instagram/"><u>[New] From Business Idea to Boardroom on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-explore-online-communities-with-youtube-monetization-opportunities/"><u>[New] In 2024, Explore Online Communities with YouTube Monetization Opportunities</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>[New] In 2024, Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-mastering-pinterest-content-top-5-free-download-apps-for-2024/"><u>[Updated] Mastering Pinterest Content Top 5 FREE Download Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unleashing-the-power-of-your-instagram-vids-appeal/"><u>2024 Approved Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/diving-deep-into-the-features-of-the-dell-p2715q-monitor/"><u>Diving Deep Into the Features of the Dell P2715Q Monitor</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-for-when-you-cant-find-physxloaderdll-errors/"><u>Easy Fixes for When You Can't Find PhysXLoader.dll Errors</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-microsoft-surface-duo-analysis-pricey-glitch-ridden-device-with-rough-handling/"><u>In-Depth Microsoft Surface Duo Analysis: Pricey, Glitch-Ridden Device with Rough Handling</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-savings-on-hot-deals-pre-prime-day-2ebr-2024-expert-tips/"><u>Maximize Savings on Hot Deals Pre-Prime Day 2Ebr 2024 | Expert Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revitalize-your-pet-photography-with-expert-eye-correction-tricks/"><u>Revitalize Your Pet Photography with Expert Eye Correction Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-libcurldll-error-solutions-for-users/"><u>Troubleshooting The Missing Libcurl.dll Error – Solutions for Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-popular-samsung-smart-tv-apps-of-2024/"><u>Ultimate Guide to Popular Samsung Smart TV Apps of 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-most-significant-technological-breakthroughs-since-1844/"><u>Unveiling the Most Significant Technological Breakthroughs Since 1844</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/x-factors-in-crypto-queries-with-chatgpt/"><u>X-Factors in Crypto Queries with ChatGPT</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arness-the-power-of-engagement-boosting-youtube-traffic/"><u>[New] Harness the Power of Engagement Boosting YouTube Traffic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-instagram-videographers-manual-enhancing-quality-and-creativity/"><u>[New] In 2024, The Instagram Videographer's Manual Enhancing Quality and Creativity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-master-the-algorithm-top-youtube-seo-tips-and-techniques/"><u>[Updated] In 2024, Master the Algorithm Top YouTube SEO Tips and Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-capture-and-convert-fb-videos-immediitsly-to-mp3/"><u>2024 Approved Capture and Convert FB Videos Immediitsly to MP3</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y100-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y100 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-a-firestick-with-your-projector-a-comprehensive-guide/"><u>Connecting a Firestick with Your Projector: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-viewing-contents-of-rar-files-using-macos-tools/"><u>Easy Methods for Viewing Contents of RAR Files Using macOS Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-remedies-when-your-dvdbdcd-drive-stops-working-properly/"><u>Effective Remedies When Your DVD/BD/CD Drive Stops Working Properly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/effortless-visual-content-creation-for-instagram-users/"><u>Effortless Visual Content Creation for Instagram Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-i-manage-multiple-youtube-accounts-effectively/"><u>How Do I Manage Multiple YouTube Accounts Effectively?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-identify-premium-hassle-free-free-srt-translator-services/"><u>How to Identify Premium, Hassle-Free Free SRT Translator Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pick-a-winning-gaming-pc-a-buyers-guide-to-key-specifications-and-features/"><u>How to Pick a Winning Gaming PC – A Buyer’s Guide to Key Specifications and Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-content-essential-youtube-studio-editing-skills/"><u>In 2024, Transform Your Content Essential YouTube Studio Editing Skills</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-macbook-thermal-management-tips-for-monitoring-your-laptops-heat-levels/"><u>Mastering MacBook Thermal Management: Tips for Monitoring Your Laptop's Heat Levels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-ios-16-a-guide-to-using-iphones-new-photo-cutouts/"><u>Mastering the Art of iOS 16: A Guide to Using iPhone's New Photo Cutouts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-5-key-questions-to-ask-when-shopping-for-the-perfect-smartwatch/"><u>The 5 Key Questions to Ask When Shopping for the Perfect Smartwatch</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-leveraging-buysellads-for-successful-blogging-monetization/"><u>The Ultimate Guide to Leveraging BuySellAds for Successful Blogging Monetization</u></a></li>
 </ul></div>
 

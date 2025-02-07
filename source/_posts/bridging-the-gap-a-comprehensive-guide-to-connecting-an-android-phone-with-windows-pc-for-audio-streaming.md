@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: A Comprehensive Guide to Connecting an Android Phone with Windows PC for Audio Streaming"
-date: 2024-08-30T15:07:55.381Z
-updated: 2024-08-31T15:07:55.381Z
+date: 2025-02-04T16:04:27.694Z
+updated: 2025-02-07T16:12:54.077Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 * [Use Your Phone as a Speaker Via USB Tethering](https://tech-hub.techidaily.com/overcoming-data-management-hurdles-excel-plus-chatgpt/)
 * [Stop Using Your Phone as a Speaker](https://digital-screen-recording.techidaily.com/new-google-meet-unlocked-a-free-in-depth-user-manual-for-2024/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows doesn't have a built-in feature that lets you use your Android smartphone as an audio output device for your computer, but you can use the third-party app, AudioRelay, for this purpose.
@@ -26,34 +30,22 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
  Experiencing issues with the speakers on your computer? Want to use your Android phone as an audio output device? Windows currently does not have a built-in feature to allow this, but you can use a third-party app, AudioRelay. Here's how to turn your Android phone into a speaker.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  Download AudioRelay on Your Phone and Computer
 
  To get started, download the AudioRelay app on your phone and computer. To install the app on your computer, visit the [official AudioRelay website](https://audiorelay.net/downloads), download AudioRelay for Windows, and run the setup file to install it. AudioRelay automatically downloads the necessary drivers, so no manual installation is needed.
 
  Next, open the Google Play Store on your phone, find the [AudioRelay app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001556/https://play.google.com/store/apps/details?id=com.azefsw.audioconnect), and install it. Once that's done, you can use your phone as a speaker through the app in two ways: Wi-Fi or USB tethering. Choose the method that suits you best.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Your Phone as a Speaker Via Wi-Fi
 
  This method requires your phone and computer to be connected to the same Wi-Fi network. If they share the same connection, open the AudioRelay app on your computer and [locate your computer's IP address](https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/) in the app's top-right corner.
 
 ![Checking the IP Address of a Computer From the Audio Relay App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-checking-the-ip-address-of-a-computer-from-the-audio-relay-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Then, launch the app on your phone, enter your computer's IP address in the field under "Connect by Address," and tap "Connect."
 
 ![Entering the IP Address of a laptop in the AudioRelay Android App.-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/entering-the-ip-address-of-a-laptop-in-the-audiorelay-android-app-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  After that, navigate to the desktop app, expand the Audio Device menu, and select "Virtual Speakers" from the available audio output devices list.
 
 ![Selecting the virtual speakers as the audio output device in the AudioRelay desktop app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-selecting-the-virtual-speakers-as-the-audio-output-device-in-the-audiorelay-desktop-app.jpg) 
@@ -68,18 +60,21 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![Enabling the USB Tethering in the AudioRelay Android App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/enabling-the-usb-tethering-in-the-audiorelay-android-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  To activate USB tethering on your phone, open the "Settings" app, go to Connections > Mobile Hotspot and Tethering, and toggle on the switch next to USB Tethering.
 
 ![Enabling USB Tethering in the Settings of an Android Phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/usb-tethering.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once USB tethering is activated, launch the app on your phone. It should automatically detect your computer and display it in the Servers section. If it doesn't detect it automatically, open the desktop app and note the IP address in the top-right corner. Then, open the app on your phone, input this address into the "Connect by Address" field, and tap "Connect."
 
  That's it! Stream any audio on your PC and begin listening through your Android speakers!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Stop Using Your Phone as a Speaker
 
@@ -87,13 +82,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Stopping the Connection in the AudioRelay Android App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/stopping-the-connection-in-the-audiorelay-android-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Afterward, choose your system drivers from the Audio Device menu on your desktop app.
 
 ![Selecting the system speakers as default in the AudioRelay app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/selecting-the-system-speakers-as-default-in-the-audiorelay-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the above steps don't activate your computer's built-in (or external) speakers, you may need to [manually change the default speakers from the sound settings](https://youtube-stream.techidaily.com/learn-the-process-of-capturing-your-watched-youtube-content-without-spending-for-2024/). Search for "Change System Sounds" in Windows Search and click "Open" to open the sound settings.
 
 ![Opening the sound settings from Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/opening-the-sound-settings-from-windows-search-1.jpg) 
@@ -112,8 +112,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +119,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-minecraft-sustainable-house-projects-6-10/"><u>[New] 2024 Approved Minecraft Sustainable House Projects #6-10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-5-easy-free-methods-to-master-youtube-video-frames-for-2024/"><u>[New] 5 Easy, Free Methods to Master YouTube Video Frames for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-access-to-expert-tech-insights/"><u>[Updated] 2024 Approved Easy Access to Expert Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-tech-setup-transformed/"><u>A Week with an Ergonomic Split Keyboard: How My Entire Tech Setup Transformed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stop-receiving-amber-alert-messages-on-your-iphone/"><u>How To Stop Receiving Amber Alert Messages On Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-for-handling-mass-email-selection-on-googles-mail-service/"><u>How-To for Handling Mass Email Selection on Google's Mail Service</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-asus-rog-phone-7-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Asus ROG Phone 7 Location | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-driver-download-guide-how-to-keep-your-graphics-updated/"><u>NVIDIA Driver Download Guide - How To Keep Your Graphics Updated</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-how-to-for-inserting-lines-in-word-processor-applications/"><u>The Complete How-To for Inserting Lines in Word Processor Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/three-essential-strategies-for-revitalizing-apples-vision-pro-success/"><u>Three Essential Strategies for Revitalizing Apple's Vision Pro Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tiktok-not-responding-heres-how-you-can-fix-it/"><u>TikTok Not Responding? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-water-resistance-of-iphone-15-how-much-protection-does-it-offer/"><u>Understanding the Water Resistance of iPhone 15: How Much Protection Does It Offer?</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+</ul></div>
 

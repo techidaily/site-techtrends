@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's AI Integration: Upcoming AI Features for iPhone, Mac, & iPad Revealed"
-date: 2025-01-18T18:35:22.288Z
-updated: 2025-01-25T16:22:18.699Z
+date: 2025-02-03T16:03:40.491Z
+updated: 2025-02-07T16:12:41.357Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -112,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,17 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/outube-videos-making-a-statement-on-instagram/"><u>[New] YouTube Videos Making a Statement on Instagram</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-successful-steam-game-returns-and-refunds-process/"><u>Complete Guide: Successful Steam Game Returns and Refunds Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-how-you-can-master-asl-with-these-16-gratuitous-learning-aids/"><u>Discover How You Can Master ASL with These 16 Gratuitous Learning Aids</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-soundcloud-reader-seamless-offline-access-to-your-favorite-tunes/"><u>Free SoundCloud Reader – Seamless Offline Access to Your Favorite Tunes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70efrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70EFRP Lock</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/mastering-the-fix-for-ralink-rt3290-connectivity-issues-on-windows-1187-systems/"><u>Mastering the Fix for Ralink RT3290 Connectivity Issues on Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/new-macbook-with-touch-display-the-lowdown-on-pricing-launch-timeline-and-tech-specs/"><u>New MacBook with Touch Display - The Lowdown on Pricing, Launch Timeline, and Tech Specs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-quietness-expert-tips-for-restoring-sound-in-your-audio-unit/"><u>Reviving Quietness: Expert Tips for Restoring Sound in Your Audio Unit</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-next-leap-in-gaming-inside-look-at-apples-rumored-revolutionary-game-mode-what-you-need-to-know-now/"><u>The Next Leap in Gaming? Inside Look at Apple's Rumored Revolutionary Game Mode - What You Need to Know Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-perfect-selection-of-80s-movies-to-stream-now/"><u>The Perfect Selection of '80S Movies to Stream Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-boost-your-snaps-to-new-heights-with-expert-snapchat-tips/"><u>[New] Boost Your Snaps to New Heights with Expert Snapchat Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-essentials-of-uploading-and-broadcasting-old-footage-on-fb/"><u>[Updated] 2024 Approved The Essentials of Uploading and Broadcasting Old Footage on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips-for-2024/"><u>[Updated] Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-revolution-how-artificial-intelligence-is-transforming-the-future/"><u>AI Revolution: How Artificial Intelligence Is Transforming the Future</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-new-google-pixel-10-pricing-predictions-release-dates-and-speculative-features/"><u>All You Need to Know About the New Google Pixel 10 - Pricing Predictions, Release Dates, and Speculative Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-in-house-digital-tv-quality-the-power-of-an-indoor-antenna-guide/"><u>Boosting In-House Digital TV Quality: The Power of an Indoor Antenna Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-the-popularity-ladder-essential-youtube-seo-practices-uncovered/"><u>Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-approaches-to-solve-the-problem-of-binkw32dll-being-unavailable/"><u>DIY Approaches to Solve the Problem of binkW32.dll Being Unavailable</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhance-your-language-learning-via-mondly/"><u>Enhance Your Language Learning via Mondly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-silence-to-symphony-how-to-set-up-unique-ringtones-and-sounds-for-android-for-2024/"><u>From Silence to Symphony How to Set Up Unique Ringtones & Sounds for Android for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/home-tech-support-quick-solutions-to-resolve-your-tvs-prevalent-problems/"><u>Home Tech Support: Quick Solutions to Resolve Your TV's Prevalent Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-enabling-two-step-verification-in-your-gmail-account/"><u>Step-by-Step Guide: Enabling Two-Step Verification in Your Gmail Account</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-firestick-remote-from-complete-disarray/"><u>Step-by-Step Guide: Reviving Your Firestick Remote From Complete Disarray</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unleashing-the-power-of-whiteboards-in-google-meet-on-diverse-devices-for-seamless-engagement/"><u>Unleashing the Power of Whiteboards in Google Meet on Diverse Devices for Seamless Engagement</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-itel-a70-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel A70 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-awkward-potion-crafting-in-minecraft-for-ultimate-gameplay-enhancement/"><u>Unlock the Secrets of Awkward Potion Crafting in Minecraft for Ultimate Gameplay Enhancement</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-spark-10-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Spark 10 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-strategies-to-fix-discords-setup-errors/"><u>Winning Strategies to Fix Discord's Setup Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-techniques-for-newbies-in-pokemn-unite-arena/"><u>Winning Techniques for Newbies in Pokémn Unite Arena</u></a></li>
 </ul></div>
 

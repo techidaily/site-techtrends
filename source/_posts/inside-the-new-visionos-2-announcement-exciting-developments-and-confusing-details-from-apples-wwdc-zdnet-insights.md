@@ -1,7 +1,7 @@
 ---
 title: "Inside the New VisionOS 2 Announcement: Exciting Developments & Confusing Details From Apple's WWDC | ZDNET Insights"
-date: 2025-01-18T17:07:00.285Z
-updated: 2025-01-25T18:27:47.594Z
+date: 2025-02-05T16:05:59.531Z
+updated: 2025-02-07T16:16:50.001Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -42,15 +46,15 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -59,10 +63,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -78,6 +78,10 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. New developer APIs
 
 There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, Apple is showcasing three new APIs developers can use to gain access to Apple technology. 
@@ -89,7 +93,7 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
@@ -101,7 +105,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -113,10 +117,6 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,18 +171,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-image-browsing-the-ultimate-guide-to-pexels-wonders/"><u>[New] 2024 Approved Mastering Image Browsing The Ultimate Guide to Pexels Wonders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[New] 2024 Approved The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-mc-stronghold-constructions-for-2024/"><u>[New] Essential MC Stronghold Constructions for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/abbyy-leads-the-pack-in-idcs-innovative-software-solutions-landscape/"><u>Abbyy Leads the Pack in IDC's Innovative Software Solutions Landscape</u></a></li>
-<li><a href="https://techtrends.techidaily.com/abbyys-top-tier-talent-scout-paula-dam-master-of-senior-acquisition-roles-and-techniques/"><u>ABBYY's Top-Tier Talent Scout, Paula Dam: Master of Senior Acquisition Roles and Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-engage-your-audience-in-live-discord-streams-easily/"><u>How to Engage Your Audience in Live Discord Streams Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-phone-without-pin-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Phone without PIN</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-elevate-your-iphone-x-experience-with-pro-animoji-use/"><u>In 2024, Elevate Your iPhone X Experience with Pro Animoji Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-intel-hduhd-drivers-on-windows-11/"><u>Step-by-Step Guide to Downloading and Installing Intel HD/UHD Drivers on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-savings-with-promo-codes-insights-from-the-abbeyy-blog/"><u>Unlocking Savings with Promo Codes: Insights From the ABBEYY Blog</u></a></li>
-<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-personalized-visitor-analytics-and-seo-boost/"><u>Utilizing Cookiebot Technology for Personalized Visitor Analytics & SEO Boost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/utilizing-cookiebot-technology-for-superior-user-experience-management-on-websites/"><u>Utilizing Cookiebot Technology for Superior User Experience Management on Websites</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-initiating-engagement-start-your-live-on-instagram-for-2024/"><u>[New] Initiating Engagement Start Your Live on Instagram for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-get-smart-capturing-your-screen-in-minutes/"><u>[Updated] 2024 Approved Get Smart Capturing Your Screen in Minutes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-jest-and-jibe-constructing-parody-videos-for-2024/"><u>[Updated] Jest and Jibe Constructing Parody Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/are-ps5-consoles-backwards-compatible-with-ps4-titles/"><u>Are PS5 Consoles Backwards Compatible with PS4 Titles?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-dig-up-previous-notifications-and-uncover-old-messages-on-an-iphone/"><u>How to Dig Up Previous Notifications and Uncover Old Messages on an iPhone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-the-glamour-swipes-masterful-tinder-profile-secrets-revealed/"><u>In 2024, Get the Glamour Swipes - Masterful Tinder Profile Secrets Revealed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/integrating-google-chromecast-into-your-firestick-smart-streaming-setup/"><u>Integrating Google Chromecast Into Your Firestick Smart Streaming Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-macbook-model-whats-new/"><u>Latest MacBook Model: What's New?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-media-importer-strategies-in-windows-10/"><u>Mastering Media Importer Strategies in Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/stop-video-buffering-during-streaming/"><u>Stop Video Buffering During Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-using-8-effective-tools-for-person-tracking-online/"><u>The Ultimate Guide to Using 8 Effective Tools for Person-Tracking Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-free-replacements-for-skype/"><u>Top 5 Free Replacements for Skype</u></a></li>
 </ul></div>
 

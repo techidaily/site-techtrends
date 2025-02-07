@@ -1,7 +1,7 @@
 ---
 title: Exploring the Appeal of Neighborhood-Centric Data Protection Strategies
-date: 2024-08-30T15:07:16.911Z
-updated: 2024-08-31T15:07:16.911Z
+date: 2025-02-01T16:11:11.306Z
+updated: 2025-02-07T16:05:54.384Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Exploring the Appeal of Neighborhood-Centric Data Protection Strategies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,9 +39,6 @@ Lucas Gouveia / Justin Duino / How-To Geek | [FellowNeko](https://www.shuttersto
 
  Then there is the small matter of the eye-watering subscription prices. Google Drive charges more than $100 a year for the 2TB plan. iCloud is even more expensive at $130 a year. You can buy a 2TB SSD for less (more on that later.) If you cancel the plan or stop paying, they’ll just wipe your storage.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Local Backups Can Be More Convenient Than You Think
 
  Now consider the humble local backups. Storage devices are cheaper, have no recurring fees, give you actual unlimited storage, and are so much faster. With a local backup, you have absolute control over your data. You’ll have the peace of mind that no one can snoop around on your data.
@@ -45,22 +46,15 @@ Lucas Gouveia / Justin Duino / How-To Geek | [FellowNeko](https://www.shuttersto
 ![Multiple kinds of storage drives.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/ssd-hdd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Corbin Davenport/How-to Geek
 
  You can migrate files from one backup solution to another with ease. You can even create multiple fail safes by storing your files on multiple drives and storing them in different locations (say in your office and at home.)
 
  It all sounds awesome. But you might be thinking that local backups are too much of a hassle. You have to manually move files back and forth. Pretty soon it just becomes another chore that you have to deal with. Happily, local backups can also be quick and convenient with the right tools—that's the beauty of local backups.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ###  NAS
 
  There are Network-Attached Storage (NAS) devices that basically act as a private cloud for your home. They have built-in layers of redundancy to keep your data safe. You can access them through your local network or get remote access when you’re out and about.
@@ -72,6 +66,10 @@ Corbin Davenport/How-to Geek
  If you only want to back up files from a single computer (say your workstation), try Direct-Attached Storage (DAS). All you need is an external hard drive and software like FreeFileSync, urBackup, or SyncThing. These apps make local backups a breeze.
 
  They’re designed to “mirror” folders. So if you have a folder called “Work” on your desktop. You’d connect an external drive to the computer and run one of these apps to mirror that onto the drive. So if the “Work” folder has 10 items, it’ll copy them all to the drive. When you add another item, it’ll only copy that eleventh file. You can also set the apps to sync and back up automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Effortlessly Create Local Backups
 
@@ -88,22 +86,21 @@ Close
 ![Selecting source and backup directories on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-012807.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To mirror the folder onto the external drive, click the arrow button next to the green gear icon and select “Mirror," then click “Synchronize.” Confirm by pressing “Start.”
 
 ![Starting the synchronization on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013145.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait for the sync to finish and press “Close.”
 
 ![Files synced successfully using FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013417.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Whenever you make changes to the folder being backed up, you can sync again to update the backup.
 
  If a folder has a lot of items, and you want to compare the backup and original versions, you don’t have to do that manually. You just press the “Compare” button, and it’ll show you a list of files that need to be synced.
@@ -140,8 +137,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +144,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-content-visibility-on-youtube-your-guide-to-effective-featured-channels/"><u>[New] In 2024, Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-flip-techniques-rotate-videos-for-max-impact-for-2024/"><u>[New] Insta-Flip Techniques Rotate Videos for Max Impact for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-maximize-engagement-with-these-9-youtube-thumbnail-creators/"><u>[Updated] 2024 Approved Maximize Engagement with These 9 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-winter-olympics-2022-precision-snowriders-in-the-spotlight/"><u>2024 Approved Winter Olympics 2022 - Precision Snowriders in the Spotlight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/changing-your-samsung-tvs-default-browser-a-complete-guide/"><u>Changing Your Samsung TV's Default Browser - A Complete Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-techniques-for-effective-dual-monitor-setup-on-apple-laptops/"><u>Essential Techniques for Effective Dual Monitor Setup on Apple Laptops</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-connect-multiple-bluetooth-speakers-to-one-device/"><u>How to Connect Multiple Bluetooth Speakers to One Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-participate-in-an-xtwitter-chat/"><u>How to Participate in an X/Twitter Chat</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-nord-ce-3-lite-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Nord CE 3 Lite 5G Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-phantom-a-guide-to-backward-video-capture-techniques/"><u>In 2024, Phantom A Guide to Backward Video Capture Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Mastering Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-androids-wireless-authentication-woes/"><u>Troubleshooting Android's Wireless Authentication Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unfreeze-your-chromebook-discover-8-easy-ways-to-restore-functionality/"><u>Unfreeze Your Chromebook: Discover 8 Easy Ways to Restore Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unstuck-your-iphones-focus-feature-handy-fixes-and-advice/"><u>Unstuck Your iPhone's Focus Feature: Handy Fixes & Advice</u></a></li>
+</ul></div>
 

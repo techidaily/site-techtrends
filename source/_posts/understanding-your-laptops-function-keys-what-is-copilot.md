@@ -1,7 +1,7 @@
 ---
 title: "Understanding Your Laptop's Function Keys: What Is Copilot?"
-date: 2024-08-30T15:07:46.923Z
-updated: 2024-08-31T15:07:46.923Z
+date: 2025-02-05T16:01:33.200Z
+updated: 2025-02-07T16:14:46.293Z
 tags:
   - desktop
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 ## Understanding Your Laptop's Function Keys: What Is Copilot?
 
 Some Windows laptops now have a dedicated Copilot keyboard key, as part of Microsoft’s big push for AI features. Here’s how it works, and how you can remap it if you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What's Copilot and the Copilot Key?
 
@@ -27,9 +31,6 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
 
  The Copilot key is present on all [“Copilot+ PC” computers](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/), as well as some other computers that don’t fit that criteria, such as the [2024 Dell XPS 13, XPS 14, and XPS 15 laptops](https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ##  Can You Remap the Copilot Key?
 
  You can use applications like [AutoHotkey](https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-12-drfone-by-drfone-virtual-android/) or [Microsoft PowerToys](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) to remap the Copilot key to perform a different action. PowerToys is the easiest solution if you have never used keyboard remapping software, but PowerToys also has other functionality. You can turn off the other features if you don’t want them.
@@ -39,29 +40,29 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
 ![Remaping a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, click the “Add key remapping” button, then click the first Select button on the left side of the window.
 
 ![Remapping a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You will be prompted for a key. Press the Copilot key, then click OK to save your setting.
 
 ![Selecting a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  PowerToys gives you a few different options for remapping the key. You can select another key or action from the dropdown menu, or you can click the Select button on the right side to type a keyboard shortcut. For example, if you wanted the Copilot key to copy your selected text to the clipboard, you could click the Select button and press Ctrl+C.
 
 ![Changing a shortcut action in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you’re done, press the OK button. If you see an alert about a key not having an assignment, you can ignore it.
 
 ![Keyboard Manager in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-6.png) 
@@ -69,8 +70,9 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
  Pressing the Copilot key should now perform the action you configured, instead of opening the Copilot web app. You can change or delete the mapped key by opening PowerToys and clicking "Remap a key" again in the Keyboard Manager section.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using the Copilot Key Without Windows
 
  The Copilot key simulates the F23 key, as confirmed by our own testing with a Lenovo Copilot+ PC. That’s a function key that isn’t used by most modern operating systems and software, so if you boot into desktop Linux or another operating system, pressing it usually won’t do anything.
@@ -83,8 +85,6 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +92,24 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>[New] Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-camstudio-screen-capturing-a-comprehensive-analysis-users/"><u>[Updated] 2024 Approved CamStudio Screen Capturing A Comprehensive Analysis Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[Updated] Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] In 2024, Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-your-next-tablet-a-closer-look-at-ipad-mini-versus-ipad-air-differences/"><u>Choosing Your Next Tablet: A Closer Look at iPad Mini versus iPad Air Differences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-correcting-the-d3dx928dll-is-absent-problem/"><u>Comprehensive Tips for Correcting the 'd3dx9_28.dll Is Absent' Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-maintain-an-awake-state-for-your-macbook-despite-lid-closure/"><u>How To Maintain an Awake State for Your MacBook Despite Lid Closure</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 14 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unveiling-the-apple-podcast-submission-process/"><u>In 2024, Unveiling the Apple Podcast Submission Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-the-world-of-small-wheels-milestones-media-buzz-hearsay-and-all-you-need-to-know/"><u>Inside the World of Small Wheels: Milestones, Media Buzz, Hearsay & All You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-studies-with-these-8-premier-learning-platforms-of-2024/"><u>Mastering Studies with These 8 Premier Learning Platforms of 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-microsoft-outlook-connection-issues-a-comprehensive-guide/"><u>Resolving Microsoft Outlook Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/say-no-to-autoplay-on-instagram-and-fb/"><u>Say 'No' To Autoplay on Instagram and FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-correcting-the-motherboards-cmos-checksum-failure/"><u>Step-by-Step Tutorial: Correcting the Motherboard's CMOS Checksum Failure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-refresh-your-lenovo-laptops-factory-defaults/"><u>The Complete Guide to Refresh Your Lenovo Laptop's Factory Defaults</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-x6-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco X6 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-online-is-not-working-heres-how-to-figure-out-if-its-an-actual-crash-or-just-a-local-issue/"><u>Xbox Online Is Not Working? Here's How to Figure Out If It’s an Actual Crash or Just a Local Issue</u></a></li>
+</ul></div>
 

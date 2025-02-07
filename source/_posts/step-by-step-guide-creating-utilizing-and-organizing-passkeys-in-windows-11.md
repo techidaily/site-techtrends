@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating, Utilizing & Organizing Passkeys in Windows 11"
-date: 2024-08-30T15:07:33.595Z
-updated: 2024-08-31T15:07:33.595Z
+date: 2025-02-02T16:02:10.173Z
+updated: 2025-02-07T16:01:33.210Z
 tags:
   - desktop
 categories:
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
 
  Passkeys have multiple advantages over passwords. The main one is that, unlike passwords, it is borderline impossible to steal passkeys. Another advantage is that passkeys are almost completely impervious to phishing. It is relatively easy to trick a human into entering a password on a fake website, but passkeys aren't so easily fooled. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Platforms Support Passkeys?
 
  Many popular sites and apps support passkeys, as this is a quick and convenient way to log in. Some services that support this feature are:
@@ -64,18 +61,15 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
 !['Security' and 'Passkeys and Security Keys' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-google-passkey-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google will likely prompt you to enter your account password. Do so and continue.
 
  When the following page opens, at the top, click "Create a Passkey."
 
 !['Create a Passkey' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-google-create-passkey.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  You’ll see a "Windows Security" prompt. Authenticate yourself using your PIN, facial recognition, or fingerprint scanning.
 
 ![A 'Windows Security' prompt for creating a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/3-windows-11-passkey-authentication1.jpg) 
@@ -84,14 +78,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 !['OK' highlighted in the 'Windows Security' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/4-google-passkey-created1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that’s it. You’ve successfully created a replacement for your Google account password.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use a Passkey to Sign In to a Site or App
 
  To use a passkey to sign in to a site or app, access that item’s login page and choose passkey instead of password. Here’s how to do that for a Google account.
@@ -103,6 +91,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Enter your Google account username and click "Next."
 
 ![The 'Email or Phone' field and the 'Next' button highlighted on Google's login page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/6-enter-google-username1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the password page, click "Try Another Way" to see alternate options.
 
@@ -116,6 +108,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 !['Continue' highlighted on Google's passkey usage page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9-google-continue-passkey1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Windows Security" prompt, select the PIN, facial recognition, or fingerprint scanning authentication method.
 
 ![A 'Windows Security' prompt for signing in to Google with a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10-verify-identity1.jpg) 
@@ -123,8 +119,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  After you’ve authenticated yourself, you’ll be signed in to your account.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to View and Delete Passkeys on Windows 11
 
  If you want to see what passkeys you’ve saved, or you want to delete a specific passkey, use the Settings app.
@@ -133,28 +130,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 !['Accounts' and 'Passkey Settings' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-windows-11-passkey-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the "Passkeys" page, you’ll find a list of saved passkeys. To retrieve a specific passkey, use the search box at the top.
 
 ![The search box and the saved passkeys highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-view-search-saved-passkeys-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To remove a specific passkey, click the three dots next to that item and choose "Delete Passkey."
 
 !['Delete Passkey' highlighted for a passkey in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/13-delete-passkey-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the open prompt, confirm your action by selecting "Delete."
 
 !['Delete' highlighted in the passkey removal prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/14-passkey-deletion-prompt-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Windows 11 has removed the chosen passkey from the database. You can’t log in to that site or app using your PC’s authentication method any more (but you can always re-create any required passkeys).
 
 ---
@@ -167,8 +166,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +173,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-professional-panoramas-and-cinematography-with-hero5-black/"><u>[New] Professional Panoramas & Cinematography with Hero5 Black</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-samsung-m2070-driver-quickly-and-easily/"><u>[UPDATE] Samsung M2070 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-practices-to-personalize-snapchat-video-playback/"><u>2024 Approved Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-the-d3dx924dll-missing-system-error/"><u>How to Correctly Address the d3dx9_24.dll Missing System Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-bluetooth-keyboard-that-wont-connect-to-your-computer/"><u>How to Fix a Bluetooth Keyboard That Won't Connect to Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-complexities-of-level-1-2-and-3-electric-vehicle-charging/"><u>Navigating the Complexities of Level 1, 2 & 3 Electric Vehicle Charging</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-adventure-a-comprehensive-guide-to-the-harry-potter-movie-marathon/"><u>Ordered Adventure: A Comprehensive Guide to the Harry Potter Movie Marathon</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premium-yet-economical-initiator-packages-for-aspiring-home-cinema-enthusiasts/"><u>Premium Yet Economical Initiator Packages for Aspiring Home Cinema Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-a-z-of-modern-hardware-features-by-toms-technology-spotlight/"><u>The A-Z of Modern Hardware Features by Tom's Technology Spotlight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-formats-de-compression-video-pour-diminuer-la-taille-des-fichiers-en-optimisant-lespace-disque/"><u>Top Formats De Compression Vidéo Pour Diminuer La Taille Des Fichiers en Optimisant L'Espace Disque</u></a></li>
+</ul></div>
 

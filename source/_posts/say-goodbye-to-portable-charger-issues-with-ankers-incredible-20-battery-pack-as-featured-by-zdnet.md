@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Portable Charger Issues with Anker's Incredible $20 Battery Pack, as Featured by ZDNet
-date: 2025-01-20T19:52:27.921Z
-updated: 2025-01-25T19:04:47.517Z
+date: 2025-02-01T16:00:31.613Z
+updated: 2025-02-07T16:13:04.737Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Sabrina Ortiz/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
@@ -41,10 +41,6 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 **Also:** [**I tested a 9,000,000mAh battery pack from eBay - here's my buying advice**](https://www.zdnet.com/article/i-tested-a-9000000mah-battery-pack-from-ebay-heres-my-buying-advice/)
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 Lipstick-sized charger
@@ -72,7 +68,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -84,7 +80,7 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -99,12 +95,16 @@ Sabrina Ortiz/ZDNET
 
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfdc9ef05-43fd-4fe9-9779-fb1c208791b1%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -141,19 +141,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-effortless-passport-photo-creation-get-10-free-images-instantly/"><u>[New] Effortless Passport Photo Creation – Get 10 FREE Images Instantly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-no-delay-scrutinized-top-8-capture-tools/"><u>[Updated] In 2024, No Delay Scrutinized Top 8 Capture Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-most-captivating-lgbt-cinema-on-netflix-in-july-2024/"><u>Discover the Most Captivating LGBT Cinema on Netflix in July 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-file-transfer-sending-images-and-texts-from-print-device-to-desktop/"><u>Effortless File Transfer: Sending Images and Texts From Print Device to Desktop</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-12-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 12 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100A to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analyzing-lgs-4k-wuhd-hdr-performance-for-2024/"><u>In Depth Analyzing LG's 4K WUHD HDR Performance for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-the-latest-iphone-15-pro-max-built-to-survive-underwater-find-out-here/"><u>Is The Latest iPhone 15 Pro Max Built to Survive Underwater? Find Out Here!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-your-dolby-atmos-experience-authentic/"><u>Is Your Dolby Atmos Experience Authentic?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-fixes-avoid-crashes-of-hogwarts-legacy-on-initial-pc-boot-using-this-easy-guide-8-methods/"><u>Master the Fixes: Avoid Crashes of Hogwarts Legacy on Initial PC Boot Using This Easy Guide (8 Methods)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-crucial-solutions-for-every-model/"><u>Mastering iPhone Maintenance: 15 Crucial Solutions for Every Model</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-problems-with-your-gmail-sync-process/"><u>Overcoming Problems With Your Gmail Sync Process</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-selecting-the-ideal-projector-what-matters-most/"><u>The Ultimate Guide to Selecting the Ideal Projector - What Matters Most?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a1-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A1 5G Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-learn-to-film-great-content-on-your-mac-for-youtube-beginners/"><u>[New] Learn to Film Great Content on Your Mac for YouTube Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>[Updated] 2024 Approved Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-insiders-guide-adding-borders-in-instagram-footage/"><u>2024 Approved The Insider's Guide Adding Borders in Instagram Footage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-an-irreparable-bios-error-in-windows-1011/"><u>How to Address and Fix an Irreparable BIOS Error in Windows 10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamselect-an-alternative-to-dacast/"><u>In 2024, StreamSelect An Alternative to DaCast</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-zte-axon-40-lite-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-spot-at-the-apple-store-expert-tips-for-making-a-genius-bar-appointment/"><u>Secure Your Spot at the Apple Store: Expert Tips for Making a Genius Bar Appointment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pace-predicament-why-is-chatgpt-4-not-as-swift/"><u>The Pace Predicament: Why Is ChatGPT-4 Not as Swift?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-finding-model-identifiers-on-a-macbook/"><u>The Ultimate Tutorial for Finding Model Identifiers on a MacBook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-openal32dll-errors-on-your-computer/"><u>Troubleshooting Missing OpenAL32.dll Errors on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-apples-new-wearable-with-built-in-microphone-price-predictions-and-specs-inside/"><u>Unlocking the Secrets: Apple's New Wearable with Built-In Microphone – Price Predictions and Specs Inside</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-flaws-of-microsofts-surface-duo-high-cost-meets-inconsistent-performance/"><u>Unveiling the Flaws of Microsoft's Surface Duo: High Cost Meets Inconsistent Performance</u></a></li>
 </ul></div>
 

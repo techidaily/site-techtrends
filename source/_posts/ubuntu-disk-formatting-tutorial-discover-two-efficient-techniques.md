@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Disk Formatting Tutorial: Discover Two Efficient Techniques"
-date: 2024-08-30T15:07:43.364Z
-updated: 2024-08-31T15:07:43.364Z
+date: 2025-02-02T16:00:57.541Z
+updated: 2025-02-07T16:13:30.923Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
 ---
 
 ## Ubuntu Disk Formatting Tutorial: Discover Two Efficient Techniques
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,40 +40,43 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
  However, since GParted doesn't come installed by default, you need to install it first to do any disk formatting. If that's not an issue, use GParted. Otherwise, Disks will also do the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Method 1: Formatting a Disk on Ubuntu Using the Disks App
 
  First, open the applications menu by pressing the "Show Applications" button.
 
 ![Ubuntu 22.04 version homescreen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the applications grid, click the "Utilities" app group.
 
 ![All applications displayed in a grid layout on the Ubuntu applications menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It should display all the utility software on your system. From there, click "Disks" to launch it.
 
 ![The utility app group displaying all the available utility software on Ubuntu including 'Disks'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the application opens, you will find your system storage, both internal and external, listed on the left sidebar. Select the disk that you want to format. Ideally, you're supposed to have multiple disks from which you will format one or more. In my case, since I'm on a virtual machine, there's only one disk. After selecting the disk, click the settings icon.
 
 ![An example of the Disks utility app on Ubuntu where a disk is selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  That should open a context menu. Click the "Format Partition" button to continue.
 
 ![A context menu displaying different operations that can be performed on the selected hard disk on the Disks app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  You should see a new menu about the selected volume. There are many options here. Let's go through them one by one.
 
 1. First, you can give a name to the new volume. Insert the name in the "Volume Name" field. I named it "Test".
@@ -80,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
 
 ![The 'Format Volume' window on the Disks utility containing several options about disk formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A new window with confirmation details will appear. You can double-check the details here just to be sure. If all looks good, click "Format" to begin the formatting. On the other hand, click the "Previous" button to navigate to the previous window.
 
 ![The final confirmation window in Ubuntu's Disks utility prompting the user to confirm formatting details before proceeding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-4.png) 
@@ -92,17 +96,15 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
 ![The Ubuntu authentication window asking for user password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, you will be brought back to the initial Disks window. This time, you will notice a triangle-shaped play button beside the settings button. Click it to mount the partition.
 
 ![Disks utility window after you formatted a drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-2.png) 
 
  And that successfully formatted your desired disk. There is only one catch. It didn't create a partition table by default. You can do that using GParted, which I'll show you now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Method 2: Formatting a Disk on Ubuntu Using GParted
 
 [GParted](https://gparted.org/) is a graphical partition editing application. Since it's not installed by default on your system, you need to install it first.
@@ -125,9 +127,6 @@ gparted
 
 ![An example of GParted interface while selecting a drive from the dropdown menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Once selected, you can create a partition table in case you don't have it already. For that, click "Device" from the top menu bar. Then, select the "Create Partition Table" button.
 
 ![GParted interface showcasing the process of creating a partition table on a disk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-2.png) 
@@ -138,16 +137,10 @@ gparted
 
 ![The process of unmounting a partition from a disk using GParted on ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Now you can delete that partition and convert it into unallocated space. To do that, again right-click on the partition and click "Delete".
 
 ![The GParted application showing the process of deleting an unmounted partition on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After that, right-click on the partition, and this time, click "New".
 
 ![The GParted interface displaying the process of creating a new partition from an unallocated space on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-1.png) 
@@ -160,11 +153,19 @@ gparted
 
 ![The GParted interface listing some pending operations to be confirmed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will receive a warning about data loss. If you're sure about the operations, click "Apply". Once the operations are done, you'll get a message about it. Hit the "Close" button to exit the window.
 
 ![A window on GParted confirming that all the operations have been completed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/18.png) 
 
  And now you will find the formatted disk listed in GParted with the settings you specified earlier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Disk Formatting on Ubuntu Made Easy!
 
@@ -176,8 +177,6 @@ gparted
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +184,24 @@ gparted
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-playback-operation-for-srt-across-operating-systems-for-2024/"><u>[New] Playback Operation for SRT Across Operating Systems for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-legitimate-tiktok-growth-where-to-find-trustworthy-leads/"><u>[Updated] In 2024, Legitimate TikTok Growth Where to Find Trustworthy Leads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pinnacle-pathfinders-the-ultimate-10-game-guide-for-2024/"><u>[Updated] Pinnacle Pathfinders The Ultimate 10 Game Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>2024 Approved Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-top-cable-modem-and-wireless-routers-for-enhanced-connectivity-best-picks-2024/"><u>Comprehensive Review: Top Cable Modem & Wireless Routers for Enhanced Connectivity (Best Picks, 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cost-effective-home-theaters-must-have-gear-for-budget-movie-enthusiasts/"><u>Cost-Effective Home Theaters: Must-Have Gear for Budget Movie Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722853148396-discover-the-ultimate-selection-of-gratis-html-editors-on-windows-ranked/"><u>Discover the Ultimate Selection of Gratis HTML Editors on Windows - Ranked</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-the-ipad-pro-m4-stack-up-against-the-macbook-air-m3-an-in-depth-analysis-of-capabilities/"><u>How Does the IPad Pro M4 Stack Up Against the MacBook Air M3? An In-Depth Analysis of Capabilities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-fly-for-just-25ticket-with-an-amazon-prime-benefit-card-zdnet-exclusive-deal/"><u>How to Fly for Just $25/Ticket With an Amazon Prime Benefit Card – ZDNET Exclusive Deal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-use-split-screen-functionality-on-your-macbook-air/"><u>How To Seamlessly Use Split Screen Functionality On Your MacBook Air</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-using-b-roll-to-enhance-cinematic-quality/"><u>In 2024, Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-idevice-keyboards-resolve-these-6-frequent-problems-now/"><u>Mastering the Art of iDevice Keyboards: Resolve These 6 Frequent Problems Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/messenger-access-tutorial-connecting-without-a-facebook-profile/"><u>Messenger Access Tutorial: Connecting without a Facebook Profile</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-powerline-network-converters-the-ultimate-selection-for-2nd4/"><u>Top-Rated Powerline Network Converters: The Ultimate Selection for 2nD4</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide-to-identifying-and-resolving-the-issue/"><u>Understanding Error Code 0xC0000185: A Comprehensive Guide to Identifying & Resolving the Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-isnt-my-apple-watch-recording-steps-a-comprehensive-fix/"><u>Why Isn’t My Apple Watch Recording Steps? A Comprehensive Fix</u></a></li>
+</ul></div>
 

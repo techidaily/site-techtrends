@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Setting Up Global Color Selection Tools in Windows 11 Environments"
-date: 2024-08-30T15:07:38.149Z
-updated: 2024-08-31T15:07:38.149Z
+date: 2025-02-05T16:09:15.985Z
+updated: 2025-02-07T16:11:23.456Z
 tags:
   - desktop
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb
 
 * [Install PowerToys and Enable Color Picker](https://fox-that.techidaily.com/troubleshooting-gps-issues-how-to-restore-location-services-on-an-iphone/)
 * [Activate Color Picker With a Keyboard Shortcut](https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-universal-compatibility-windows-1011-81-and-7-supported/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb
 
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
 
 ![Right-click the PowerToys icon on the taskbar and select 'Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/launch-powertoy-settings.png) 
@@ -50,25 +47,23 @@ No advertising on the website.
  Next, close PowerToys and get ready to grab some colors. The PowerToys Settings app does not need to be running for Color Picker to work.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Activate Color Picker With a Keyboard Shortcut
 
  Once Color Picker is enabled, you can use it at any time by pressing Windows+Shift+C (or whatever keyboard shortcut you chose) on your keyboard. After pressing the shortcut, you'll see a small pop-up box beside your mouse cursor that shows a square preview of the color you're pointing to and the [hexadecimal code](https://tech-hub.techidaily.com/discover-the-best-no-cost-audiobook-sites-for-young-readers-and-adolescents/) (often called "hex" for short) for that color.
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This window displays the hex color code, the RGB (red, green, blue) value, and the HSL (hue, saturation, lightness) value of the color you just selected. If you'd like to copy one of those values (as a text string) to the clipboard, hover over it and click the "copy" icon that appears.
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
@@ -77,13 +72,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
 
 ![The Color Picker color adjustment window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_adjust_window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you're done, click "OK," and then the color will be added to your saved color palette, which is the vertical column of boxes along the left side of the window. If you need to remove a color from the palette on the side of the window, right-click the color square and select "Remove."
 
  If you'd like to leave this window and pick another color, click the eyedropper icon in the upper-left corner of the window.
@@ -91,9 +87,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![In Color Picker, click the eyedropper button to pick another color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/pick_color_again.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The detail window will close and you can repeat the process again, selecting any color you'd like.
 
  To leave Color Picker at any time, press Escape on your keyboard or click somewhere to call up the detail window again and click the "X" button in the upper-right corner to close the window. Whenever you need Color Picker again, just hit Windows+Shift+C from anywhere and you'll be back to picking colors in no time.
@@ -106,8 +102,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +109,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-crafting-conversations-that-captivate-google-meet-edition/"><u>[New] Crafting Conversations that Captivate Google Meet Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-growth-secrets-masterful-narration-techniques-for-2024/"><u>[New] YouTube Growth Secrets Masterful Narration Techniques for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-mini-millionaire-how-a-kid-earned-big-bucks-daily/"><u>[Updated] YouTube's Mini Millionaire How a Kid Earned Big Bucks Daily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-offline-auto-race-game-applications-your-guide-to-the-classics/"><u>Best Offline Auto Race Game Applications – Your Guide to the Classics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003202198-enjoy-uninterrupted-playtime-with-the-updated-stable-age-of-ashes-for-windows-and-mac/"><u>Enjoy Uninterrupted Playtime with the Updated, Stable 'Age of Ashes' For Windows and Mac!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-free-pc-restart-tips-for-overcoming-the-pc-reset-problem/"><u>Error-Free PC Restart: Tips for Overcoming the 'PC Reset Problem'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-insights-understanding-samsungs-smart-tv-applications/"><u>Essential Insights: Understanding Samsung's Smart TV Applications</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722872847820-how-to-correctly-address-dnssddll-not-found-and-dnssddll-is-missing-issues/"><u>How To Correctly Address dnssd.dll Not Found and dnssd.dll Is Missing Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20c-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20C Phone without Any Data Loss</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/initiate-your-amazon-echo-dot-into-setup-mode-a-comprehensive-walkthrough/"><u>Initiate Your Amazon Echo Dot Into Setup Mode - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sifting-through-disks-what-separates-c-and-d/"><u>Sifting Through Disks: What Separates C: & D?</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tactics-for-measuring-monthly-mobile-data-expenditure/"><u>Tactics for Measuring Monthly Mobile Data Expenditure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-solution-when-you-need-to-retract-your-tiktok-repost-step-by-step-instructions/"><u>The Perfect Solution When You Need to Retract Your TikTok Repost - Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-components-t17238628804612/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Components</u></a></li>
+</ul></div>
 

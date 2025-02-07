@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide"
-date: 2025-01-23T17:56:18.189Z
-updated: 2025-01-25T18:07:00.749Z
+date: 2025-02-03T16:14:17.089Z
+updated: 2025-02-07T16:11:32.658Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,19 +52,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -73,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -84,11 +76,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-deciphering-the-maximum-duration-for-instagram-videos/"><u>[New] 2024 Approved Deciphering the Maximum Duration for Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-craft-an-attractive-animation-from-any-video-a-comprehensive-youtube-to-gif-guide/"><u>[Updated] In 2024, Craft an Attractive Animation From Any Video - A Comprehensive Youtube-to-GIF Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[Updated] In 2024, Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-free-web-based-heic-to-jpeg-transformer-reviews-and-ratings/"><u>Best FREE Web-Based HEIC to JPEG Transformer - Reviews & Ratings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-and-simple-guide-swift-video-trimming-techniques-for-mac-users/"><u>Free & Simple Guide: Swift Video Trimming Techniques for Mac Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-resolve-playback-problems-when-using-a-beachbody-exercise-dvd-for-perfect-workouts/"><u>How to Resolve Playback Problems When Using a Beachbody Exercise DVD for Perfect Workouts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Passcode without a Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-10macx-mediatransiphoneitunes/"><u>IOS 10対応版のMacX MediaTransでiPhoneを正常に同期：iTunes認識不能？</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-capture-to-share-mastering-gopro-quik-video-editing-on-macbook/"><u>New 2024 Approved From Capture to Share Mastering GoPro Quik Video Editing on MacBook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-into-computer-hardware/"><u>Tom's Tech Review: Expert Insights Into Computer Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-watch-christmas-movies-on-dvd-purchase-or-rental-options/"><u>Top 10 Must-Watch Christmas Movies on DVD - Purchase or Rental Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-amazon-discounts-available-in-september-2024-find-the-hottest-offers/"><u>Top Amazon Discounts Available in September 2024 - Find the Hottest Offers</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-pdf-printers-discover-swift-solutions/"><u>Trouble With PDF Printers? Discover Swift Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-all-access-pass-to-the-enhanced-macxdvd-tool-suite-complimentary-update-opportunity/"><u>Unlock All-Access Pass to the Enhanced MacXDVD Tool Suite – Complimentary Update Opportunity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-full-features-of-macdvd-suite-with-complimentary-full-license-the-ultimate-deal/"><u>Unlock Full Features of MacDVD Suite with Complimentary Full License – The Ultimate Deal!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[New] 2024 Approved Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>[New] 2024 Approved From Mediocre to Marvelous An Exhaustive Facetune Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-professional-edits-using-youtube-studio-editor/"><u>[Updated] 2024 Approved Creating Professional Edits Using YouTube Studio Editor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-behind-the-lens-nikon-d500s-4k-innovation/"><u>[Updated] Behind the Lens Nikon D500's 4K Innovation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-game-of-royal-match-tips-for-new-players/"><u>Conquering the Game of Royal Match – Tips for New Players</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882370010-grand-unveiling-of-the-latest-galaxy-smartphone-live-stream-now/"><u>Grand Unveiling of the Latest Galaxy Smartphone - Live Stream Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-pin-a-chat-in-instagram/"><u>How to Pin a Chat in Instagram</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-digital-destinations-where-to-direct-your-videos/"><u>In 2024, Digital Destinations Where to Direct Your Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-12-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus 12 Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-digital-landscapes-ios-app-store-versus-google-play-store-explored/"><u>Navigating the Digital Landscapes: IOS App Store Versus Google Play Store Explored</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reaching-sonic-waters-the-incredible-speed-captured-in-a-canisters-stream/"><u>Reaching Sonic Waters: The Incredible Speed Captured in a Canister's Stream</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-affordable-home-theater-setup-guides/"><u>Top-Rated Affordable Home Theater Setup Guides</u></a></li>
 </ul></div>
 

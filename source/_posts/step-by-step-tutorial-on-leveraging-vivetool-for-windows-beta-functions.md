@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Leveraging ViVeTool for Windows Beta Functions
-date: 2024-08-30T15:08:13.229Z
-updated: 2024-08-31T15:08:13.229Z
+date: 2025-02-04T16:13:17.107Z
+updated: 2025-02-07T16:09:09.039Z
 tags:
   - deals
 categories:
@@ -30,8 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  ViVeTool is a third-party tool that allows you to enable experimental Windows features on your computer. But how does this tool work, and is it safe to use? Let's find out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is ViVeTool, and How Does It Work?
 
  Before knowing about ViVeTool, it's essential to understand the Windows Feature Store. It is a system component that manages Windows features. These features can be anything from updating the navigation pane to [adding a new Task Manager](https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/) to [introducing tabs in File Explorer](https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-without-passcode-4-easy-methods-by-drfone-ios/).
@@ -43,8 +44,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  ViVeTool interacts with the Windows Feature Store by using feature IDs. Each feature in the Windows Feature Store possesses a unique ID, which ViVeTool uses to toggle the feature's state. By default, feature IDs are set to state 0, indicating the feature's normal behavior. To disable a feature, you'll need to change its state to 1\. Conversely, to forcibly enable a feature, you'll need to set its state to 2.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Is ViVeTool Safe to Use?
 
  You might be wondering whether ViVeTool is safe to use, especially since it modifies the state of Windows features. The answer is that ViVeTool itself is safe to use, but the features you enable using it might not be safe for your computer.
@@ -55,6 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  However, if you're eager to try out new features before anyone else, make sure to [back up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) and [create a restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) first. Additionally, it is recommended to use a [virtual machine](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) rather than your main system to test experimental features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Use the GUI or Command-Line Version of ViVeTool?
 
  ViVeTool offers two versions: a GUI (graphical user interface) and a command-line version. Both versions function equally well, but the primary distinction lies in their user-friendliness.
@@ -63,28 +69,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  In summary, if you are comfortable with command-line tools like [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and want more flexibility, the command-line version of ViVeTool is the better choice. However, if you prefer a simpler interface and don't have much expertise in executing commands, the GUI version is a more suitable option.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use ViVeTool (GUI) to Activate Windows Features
 
  It's very easy to use ViVeTool's GUI version to activate features on your computer. Begin by visiting the [ViVeTool GUI GitHub page](https://github.com/PeterStrick/ViVeTool-GUI/releases/), and download the latest version of the setup.exe file. You might have to expand the "Assets" dropdown to find the ViVeTool.GUI.Setup.exe file.
 
 ![Setup file in ViVeTool GUI page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/setup-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Open the downloaded file and follow the on-screen instructions to complete the installation.
 
 ![Install option in ViVeTool installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/install-option.jpg) 
@@ -93,10 +83,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Selecting features in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-features-in-vivetool.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Choose the feature you want to enable, click the "Perform Action" drop-down menu, and choose "Activate Feature." Alternatively, you can click the "Manually Change a Feature" field, enter the ID of the feature you want to enable, and choose "Activate Feature" from the menu.
 
 ![Activate Feature option in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/activate-feature-option.jpg) 
@@ -115,16 +101,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Zip file on the ViVeTool Downloads page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/zip-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the downloaded zip file and choose "Extract All" from the menu that appears.
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose a location where you want to [extract the file](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) and then click the "Extract" button.
 
 ![Extract option to Extract ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, open Command Prompt as an administrator (check out [ways to open Command Prompt with elevated rights](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/)) and [change the directory to the extracted folder](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). To do this, type the following command and press Enter:
 
@@ -145,8 +136,9 @@ ViVeTool.exe /enable /id:44788892
 ![ViVoTool Enable command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enable-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the command executes successfully, close Command Prompt and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/); the changes will take effect upon restart.
 
  In the future, if you wish to disable the feature, open Command Prompt as administrator, type the following and press Enter:
@@ -163,8 +155,6 @@ ViVeTool.exe /disable /id:44788892
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +162,24 @@ ViVeTool.exe /disable /id:44788892
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor-for-2024/"><u>[Updated] A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>[Updated] Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-success-optimize-your-site-with-advanced-tracking/"><u>Cookiebot-Driven Success: Optimize Your Site with Advanced Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-review-of-line-application-is-it-worth-your-time/"><u>Detailed Review of Line Application - Is It Worth Your Time?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-kirk-to-picard-a-fans-guide-to-watching-every-star-trek-movie-chronologically/"><u>From Kirk to Picard: A Fan's Guide to Watching Every Star Trek Movie Chronologically</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-navigate-gpt-4-all-and-unveil-its-working-principles/"><u>How to Navigate GPT-4 All and Unveil Its Working Principles?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 SIM Lock?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-live-photos-iphone-usage-tips/"><u>In 2024, Mastering Live Photos IPhone Usage Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y200-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y200 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-keeping-your-mac-from-going-into-sleep-mode/"><u>Mastering the Art of Keeping Your Mac From Going Into Sleep Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-stop-0x0000003d-bsod-a-comprehensive-fix-manual/"><u>Solutions for STOP 0X0000003D BSOD – A Comprehensive Fix Manual</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-your-wi-fi-connection-issues-a-step-by-step-guide-to-restoring-internet-on-your-ipad/"><u>Solving Your Wi-Fi Connection Issues: A Step-by-Step Guide to Restoring Internet on Your iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-science-behind-oleds-working-principle-explained/"><u>The Science Behind OLEDs: Working Principle Explained</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tips-and-tricks-broadcasting-high-quality-360-videos-on-fb-for-2024/"><u>Tips and Tricks Broadcasting High-Quality 360 Videos on FB for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-for-overcoming-the-netflix-error-nw-1-19/"><u>Troubleshooting Tips for Overcoming the Netflix Error NW-1-19</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-the-secrets-to-restoring-visibility-of-your-wi-fi-network-on-all-devices/"><u>Uncover the Secrets to Restoring Visibility of Your Wi-Fi Network on All Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-average-earnings-in-podcasting-for-2024/"><u>Uncovering Average Earnings in Podcasting for 2024</u></a></li>
+</ul></div>
 

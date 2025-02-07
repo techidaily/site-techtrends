@@ -1,7 +1,7 @@
 ---
 title: "Apple Vs. Tech Giants: A Comparative Analysis of Necessary Innovations in Artificial Intelligence to Challenge OpenAI & Google, as Determined by ZDNet Experts"
-date: 2025-01-19T16:46:15.154Z
-updated: 2025-01-25T16:06:55.663Z
+date: 2025-02-06T16:10:17.167Z
+updated: 2025-02-07T16:20:16.033Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pathways-to-discovering-elite-filmmakers/"><u>[New] 2024 Approved Pathways to Discovering Elite Filmmakers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-crafting-compelling-podcast-intro-videos/"><u>[New] Crafting Compelling Podcast Intro Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-in-hues-and-beats-the-top-5-pioneering-professionals-in-visuals-and-audio/"><u>[New] Harmony in Hues and Beats The Top 5 Pioneering Professionals in Visuals & Audio</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-panning-crossfading-in-logic-pro-x/"><u>[New] Perfect Panning Crossfading in Logic Pro X</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-video-capture-test-apowersoft-and-more/"><u>[Updated] 2024 Approved Free Video Capture Test Apowersoft & More</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-key-questions-you-should-ask-before-investing-in-fitness-tracking-technology/"><u>5 Key Questions You Should Ask Before Investing in Fitness Tracking Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/advanced-secure-mailbox-services-top-5-reviews-and-comparison/"><u>Advanced Secure Mailbox Services: Top 5 Reviews and Comparison</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-practices-in-choosing-an-effective-surge-protector-for-electronics/"><u>Best Practices in Choosing an Effective Surge Protector for Electronics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-tips-to-address-missing-x3daudiodll-errors-quickly-and-easily/"><u>Comprehensive Tips to Address Missing X3DAudio.dll Errors Quickly and Easily</u></a></li>
-<li><a href="https://techidaily.com/decoding-rundll32exe-its-functions-and-implications-for-your-pc/"><u>Decoding rundll32.exe: Its Functions and Implications for Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-10-alternatives-to-chatgpt-in-ai-conversational-agents/"><u>Discover the Best 10 Alternatives to ChatGPT in AI Conversational Agents</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-most-exciting-gaming-consoles-dominating-2024/"><u>Discover the Most Exciting Gaming Consoles Dominating 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dynamic-panzoid-assembly-resources/"><u>Dynamic Panzoid Assembly Resources</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-typing-classes-for-kids-and-adults-select-the-best-12-of-our-favorites/"><u>Free Typing Classes for Kids and Adults: Select the Best 12 of Our Favorites</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-go-2023-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark Go (2023) Phone that is Locked?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-perfect-pairing-of-tiktok-bio-and-linktree-connection/"><u>In 2024, Perfect Pairing of TikTok Bio & Linktree Connection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/making-memories-sing-picture-plus-music-videography/"><u>Making Memories Sing Picture + Music Videography</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-virality-on-instagram-essential-tricks-and-insights-you-need-to-know/"><u>Mastering the Art of Virality on Instagram: Essential Tricks and Insights You Need to Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-line-communication-tool-thorough-application-review/"><u>Unveiling The Line Communication Tool: Thorough Application Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[New] 2024 Approved Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>[New] 2024 Approved Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>[New] 2024 Approved Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dial-up-your-digital-influence-nine-simple-steps-on-instagram/"><u>[New] Dial Up Your Digital Influence Nine Simple Steps on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/compare-the-leading-manycam-substitutes-advanced-video-software-with-digital-webcams/"><u>Compare the Leading ManyCam Substitutes: Advanced Video Software with Digital Webcams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-live-broadcast-tools-compete-with-manycam-using-advanced-virtual-webcams/"><u>Discover the Ultimate Live Broadcast Tools: Compete with ManyCam Using Advanced Virtual Webcams</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-online-presence-the-ultimate-guide-to-using-manycam-for-remote-webcams-and-livestreaming-solutions/"><u>Enhance Online Presence: The Ultimate Guide to Using ManyCam for Remote Webcams and Livestreaming Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycam-top-tier-video-editing-and-virtual-webcam-solutions/"><u>Enhance Your Broadcasts Using ManyCam - Top-Tier Video Editing and Virtual Webcam Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestream-with-manycam-top-rated-online-video-editor-and-simulated-webcam/"><u>Enhance Your Livestream with ManyCam: Top-Rated Online Video Editor & Simulated Webcam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-with-manycam-a-revolutionary-video-conferencing-and-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam: A Revolutionary Video Conferencing and Virtual Webcam Solution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-virtual-webcams-with-manycam-best-live-video-editing-software-solutions/"><u>Explore Virtual Webcams with ManyCam – Best Live Video Editing Software Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-streamer-capture-and-save-videos-for-2024/"><u>FB-Streamer Capture and Save Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/from-false-assumptions-to-facts-how-these-7-common-beliefs-about-linux-are-no-longer-true-for-windows-users/"><u>From False Assumptions to Facts: How These 7 Common Beliefs About Linux Are No Longer True for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-updating-and-downloading-canon-printer-drivers-for-windows-computers/"><u>Hassle-Free Guide to Updating and Downloading Canon Printer Drivers for Windows Computers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mc-homestead-plans-the-top-6/"><u>In 2024, MC Homestead Plans The Top 6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-discover-the-power-of-manycam-ultimate-virtual-webcam-and-recording-tool/"><u>Live Streaming Mastery: Discover the Power of ManyCam – Ultimate Virtual Webcam and Recording Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
-date: 2025-01-21T17:25:43.118Z
-updated: 2025-01-25T20:14:57.821Z
+date: 2025-02-02T16:01:44.099Z
+updated: 2025-02-07T16:24:14.507Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Automatically Signing In on Windows - A Comprehensive Guide"
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![Screenshot of the User Accounts window and Run box in Windows 10](https://www.lifewire.com/thmb/BICxKgXAn96fZ7yE5iZL8AgdlQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/user-accounts-auto-login-windows-10-5ae0f7b1a474be00365cc57e.PNG)  
  Advanced User Accounts Window (Windows 10).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A different command is used in Windows XP:  
  `control userpasswords2`  
  Technically, this program is called the_Advanced User Accounts Control Panel_ , but it's not really a Control Panel applet and you won't find it in Control Panel. To make it more confusing, the title of the windows says just_User Accounts_ .
@@ -40,14 +44,26 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![Checkbox next to Users must enter a user name and password to use this computer in User Accounts window, Windows 10](https://www.lifewire.com/thmb/T5n8YqosSlQDqoBzckQUD2kqKh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-do-i-auto-login-to-windows-2626066-5bd105c746e0fb0051d587a9.jpg)  
  Don't see that option? Skip to the next section below these steps to learn how a small tweak to the Windows Registry can reveal this checkbox.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select**OK** at the bottom of the window.  
 ![OK button after Users must enter a user name and password to use this computer checkbox is unchecked](https://www.lifewire.com/thmb/Jid5rcDhN0RyGcKE4dmqgIVLB3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-do-i-auto-login-to-windows-2626066-5bd105e9c9e77c005114a69c.jpg)
 4. When the password prompt appears, enter the username you wish to use for your automatic login, followed by the password in the next two boxes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Windows 11, 10, and 8, if you're using a Microsoft account, be sure to enter the entire email address that you use to sign in to Windows, in the**User name** field. The defaults there might instead be the name associated with your account, not your actual username.
 5. Select**OK** to save and close the open windows.  
 ![OK button in Automatically sign in window appears in Windows 10 User Accounts panel](https://www.lifewire.com/thmb/NbSrcUiWhOzBqCWlhrmtJvXMDdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-do-i-auto-login-to-windows-2626066-5bd1061646e0fb00264cb246.jpg)
 6. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) and make sure that Windows automatically logs you in. You may catch a glimpse of the sign-in screen, but only long enough to see it log you in without you having to type anything!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Are you a Desktop lover looking to speed up your Windows 8 boot process even more? In Windows 8.1 or later, you can make Windows start directly to the Desktop, skipping the Start screen. See[How to Boot to the Desktop in Windows 8.1](https://www.lifewire.com/how-to-boot-to-the-desktop-in-windows-8-1-2626240) for instructions.
 
@@ -59,18 +75,10 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![regedit command in Windows 10](https://www.lifewire.com/thmb/S5plzssdJfj5F_g0EWjnrY3y0y0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/regedit-command-windows-10-a994eadfb12045c0bf2f41b22e2d65b0.png)  
  While following the steps below_exactly_ should be perfectly safe, we always recommend that you[back up the registry](https://www.lifewire.com/how-to-back-up-the-windows-registry-2625146) before making changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Paste this path into the navigation bar at the top of the editor:  
  `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
 3. Right-click the value called**DevicePasswordLessBuildVersion** , then choose**Delete** and confirm by pressing**Yes** . You can now repeat the above steps.  
 ![The DevicePasswordLessBuildVersion value highlighted in the Windows 11 registry editor](https://www.lifewire.com/thmb/-YZozQpXtRzfIaJbTZKstaiJLNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-passwordless-66acf1099df541fba128680eb6c4af06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Up Auto Log in for Domain Scenarios
 
@@ -83,20 +91,12 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![HKEY LOCAL MACHINE SOFTWARE registry editor path](https://www.lifewire.com/thmb/irNYI_pfuwf67jcRwZzYP_u5_WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/registry-editor-local-machine-software-92ed659b15ae4364ae031f0464b627b4.png)  
  If you're in an entirely separate location in the Windows Registry when you open it, just scroll to the very top on the left side until you see _Computer_ , and then collapse each hive until you reach HKEY\_LOCAL\_MACHINE.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Continue drilling down through the nested[registry keys](https://www.lifewire.com/what-is-a-registry-key-2625999) , first to**Microsoft** , then**Windows NT** , then**CurrentVersion** , and then finally**Winlogon** .
 4. With**Winlogon** selected on the left, locate the[registry value](https://www.lifewire.com/what-is-a-registry-value-2626042) of**AutoAdminLogon** on the right.
 5. Double-click_AutoAdminLogon_ and change the_Value data_ to**1** from 0.
 6. Select**OK** .  
 ![AutoAdminLogon Value data 0 in Registry Editor - OK button highlighted](https://www.lifewire.com/thmb/6WXdAG90hh6wKhr228JbWYMRqtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-do-i-auto-login-to-windows-2626066-5bd1118ec9e77c0051169fb2.jpg)
 7. Restart your computer and then follow the standard Windows auto-login procedure outlined above.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That_should_ work, but if not, you may have to manually add a few additional registry values yourself. It's not too difficult.
 
@@ -109,13 +109,13 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 ![Screenshot of the Windows 10 registry with DefaultDomainName, DefaultUserName, and DefaultPassword highlighted](https://www.lifewire.com/thmb/_9Nkxmld9oRfhRYMTPwUn6KbJoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/default-autologin-registry-5ae0f5dfa9d4f900370a9b5b.png)
 4. Restart your computer and test to see that you can use the auto login without entering your normal Windows credentials.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is It Safe to Auto Log In to Windows?
 
  As great as it sounds to be able to skip over that sometimes annoying login process when Windows starts, it's not always a good idea. In fact, it may even be a bad idea, and here's why:_computers are less and less physically secure_ .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Security Risks and Auto Log In
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
  The login screen is the first defense your computer has from a user who shouldn't have access. If your computer is stolen and you've configured it to skip right over that basic protection, the thief will have access to everything you have on it—email, social networks, other passwords, bank accounts, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Multiple User Accounts and Auto Log In
@@ -173,24 +173,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quick-tips-simplified-techniques-for-capturing-google-meets/"><u>[New] 2024 Approved Quick Tips Simplified Techniques for Capturing Google Meets</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-professional-photography-with-canons-complimentary-luts/"><u>[Updated] 2024 Approved Professional Photography with Canon's Complimentary LUTs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-bumper-bliss-kids-car-games-galore-for-2024/"><u>[Updated] Bumper Bliss Kids Car Games Galore for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-pioneering-cross-social-content-share-youtube-videos-on-facebook/"><u>2024 Approved Pioneering Cross-Social Content Share YouTube Videos on Facebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/5-steps-to-resolve-issues-with-a-malfunctioning-tiktok-app/"><u>5 Steps to Resolve Issues with a Malfunctioning TikTok App</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722876036876-before-investing-in-a-smartwatch-read-this-the-crucial-factors-for-an-informed-decision/"><u>Before Investing in a Smartwatch? Read This - The Crucial Factors for an Informed Decision</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-iris-plus-gpgpu-655-drivers-windows-1011-compatible/"><u>Download Intel Iris Plus GPGPU 655 Drivers: Windows 10/11 Compatible</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-tutorial-turning-on-cookie-settings-for-optimal-web-experience/"><u>Easy Tutorial: Turning on Cookie Settings for Optimal Web Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>In 2024, Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-examining-realities-intertwined-what-is-mixed-reality/"><u>In 2024, Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/professional-cine-tools-discover-the-top-15-luts-for-action-cams/"><u>Professional Cine Tools Discover the Top 15 LUTs for Action Cams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-resolve-safari-cant-load-webpage-issues/"><u>Quick Solutions: How to Resolve 'Safari Can't Load Webpage' Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resetting-iphone-solo-a-step-by-step-process-absent-of-itunes/"><u>Resetting iPhone Solo: A Step-by-Step Process Absent of iTunes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stop-unwanted-emergency-notifications-disable-amber-alerts-on-android/"><u>Stop Unwanted Emergency Notifications: Disable AMBER Alerts on Android</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-leading-internet-sites-the-worlds-favorites-unveiled/"><u>Top 10 Leading Internet Sites: The World's Favorites Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-essential-pinterest-automation-apps-you-cant-miss/"><u>Top 5 Essential Pinterest Automation Apps You Can't Miss</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-and-solving-the-infamous-code-28error-on-your-pc/"><u>Troubleshooting and Solving the Infamous Code ^[[2][8]Error on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-cygwin1dll-files-on-your-computer/"><u>Troubleshooting Missing cygwin1.dll Files on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winning-strategies-for-a-fantastic-super-bowl-screen-experience-setup-and-home-theater-tips/"><u>Winning Strategies for a Fantastic Super Bowl Screen Experience – Setup and Home Theater Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-joyful-journeys-the-ultimate-list-of-familial-classics/"><u>[New] 2024 Approved Joyful Journeys The Ultimate List of Familial Classics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-scripting-quantum-leap-cinematography/"><u>[New] Scripting Quantum Leap Cinematography</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-using-manycam-advanced-webcam-overlay-features-for-content-creators/"><u>Enhance Your Livestreams Using ManyCam: Advanced Webcam Overlay Features for Content Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-using-manycam-top-tier-virtual-camera-technology-for-content-creators/"><u>Enhance Your Livestreams Using ManyCam: Top-Tier Virtual Camera Technology for Content Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-livestreams-using-manycams-powerful-features-and-webcam-emulation/"><u>Enhance Your Livestreams Using ManyCam's Powerful Features and Webcam Emulation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-innovative-live-video-tech/"><u>Enhance Your Online Presence Using ManyCam's Innovative Live Video Tech</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-powerful-video-editing-and-virtual-cam-tech/"><u>Enhance Your Online Presence Using ManyCam's Powerful Video Editing and Virtual Cam Tech</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-with-manycam-advanced-live-video-broadcasting-and-remote-webcams/"><u>Enhance Your Online Presence with ManyCam - Advanced Live Video Broadcasting and Remote Webcams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-gap-in-intel-extended-cpu-warranty-coverage-among-leading-pc-companaders-survey-findings/"><u>Exploring the Gap in Intel Extended CPU Warranty Coverage Among Leading PC Companaders - Survey Findings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-claude-3-learn-how-to-utilize-this-advanced-tool-effectively/"><u>Mastering Claude 3: Learn How To Utilize This Advanced Tool Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-screenshots-and-recordings-on-apple-vision-pro-expert-strategies-to-prevent-glitches-and-achieve-crystal-clear-quality-gadgetgenius/"><u>Mastering Screenshots & Recordings on Apple Vision Pro: Expert Strategies to Prevent Glitches and Achieve Crystal-Clear Quality | GadgetGenius</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-master-deepface-live-download-and-train-your-live-model/"><u>New In 2024, Master Deepface Live Download and Train Your Live Model</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1094669-9781742757728-poems-of-love-and-life-for-aquarius/"><u>Poems of Love and Life for Aquarius | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-reinitiate-network-settings-on-macos-devices/"><u>Step-by-Step Tutorial: Reinitiate Network Settings on macOS Devices 🖥️🔄</u></a></li>
 </ul></div>
 

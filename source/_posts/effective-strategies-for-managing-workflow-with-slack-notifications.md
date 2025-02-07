@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Workflow with Slack Notifications
-date: 2025-01-23T20:58:47.537Z
-updated: 2025-01-25T16:24:54.238Z
+date: 2025-01-31T16:09:26.695Z
+updated: 2025-02-07T16:07:52.594Z
 categories:
   - BestProducts
 description: This Article Describes Effective Strategies for Managing Workflow with Slack Notifications
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 
 ## Effective Strategies for Managing Workflow with Slack Notifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * In the comment field, type**/remind** followed by the person you want to remind, the reminder, and the date for the reminder.
@@ -27,6 +23,10 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 * To edit reminders, go to your own Slack channel and type**/remind list** .
 
  If you work with remote team members, you're probably familiar with Slack as a collaboration tool. But did you know that Slack also has a powerful, built-in task reminder system? Slack reminders are a great way to remember things like work tasks, personal appointments, or birthdays. Here's how it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Reminder in Slack
 
@@ -36,16 +36,12 @@ thumbnail: https://www.lifewire.com/thmb/rfs0gyIzgnsNAdZLd6uoEGVfoJ0=/300x200/fi
 ![/remind in comment field](https://www.lifewire.com/thmb/JfagLg56YIHsOoAPjrF9H7yGFrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackremind-5f0ca162e03b45e4aaf16a79ff623134.jpg)
 2. Always precede the name of the person with the**@** symbol or the name of the channel with the**#** symbol. If you're reminding yourself, just use**me** without the @ symbol. Follow the /remind command with the person you want to set the reminder for, the reminder, and the date for the reminder. Like this:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _/remind me "reminder" 4/29/2020 9:15 PM_  
 ![Reminder in Slack comment field](https://www.lifewire.com/thmb/Y_JaemDUyAZIyqIKuDZj3PtsRqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslackcommentfield-65f035cb01d248c89a768e5c87c5f919.jpg)  
  You can use a number of formats to define the time. Specify only the time for today, state the date in most formats, or write any day of the week. You can also use recurring terms like "every Monday and Friday" or "every weekday". If you don't specify time, it'll default to 9:00 AM on the day you specify.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. When you press**Enter** , you'll see a message confirming that Slack will remind you at the date and time you specified. You'll also see buttons to**Delete** the reminder or**View Reminders** that you've already set.  
@@ -53,11 +49,19 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 4. Reminders appear in the Slackbot channel. You'll see a notification icon appear there when the reminder is active. If you select the channel, you'll see the most recent reminders. You can select**Mark as Complete** ,**Delete** to remove the reminder, or**Snooze** the reminder to receive the reminder notification again later.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Reminder notification in Slack](https://www.lifewire.com/thmb/6JFJhr_cDYgnaEf8F5I2dSsuBYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reminderinslack-6e795fc0dd214366aba040316028dd2a.jpg)
 5. If you assign a reminder to someone else using the**@** symbol, it'll appear in their Slackbot channel at the date and time that you specify. Using Slack to remind others of tasks is a great way to stay productive in the collaboration tool your team uses anyway.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Edit a Reminder in Slack
 
@@ -66,10 +70,6 @@ _/remind me "reminder" 4/29/2020 9:15 PM_
 1. Recall your list of reminders. To do this, select your own slack channel (select your name) and type**/remind list** . This will display a list of all of your currently set reminders.  
 ![List of reminders](https://www.lifewire.com/thmb/93fmPOaAUZSyg_r2w9V_Eko55e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-78e950d238934f26bea0fad0dc6c6106.jpg)
 2. Select**Delete** next to the task you want to remove.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Deleting a reminder](https://www.lifewire.com/thmb/Pq5v7Nm_LEmaz5iBf8mRsXpQgR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/slackupcomingreminders-5cbd1541047b414daed53b54cea3e790.jpg)
 3. Add the reminder again using the procedure above, with the new details.  
@@ -118,21 +118,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps/"><u>[Updated] 2024 Approved Light's Spectrum in Focus Pro HDR Creation Tips for PS</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-streamline-your-viewing-turn-onoff-picture-in-picture-on-iphones/"><u>[Updated] 2024 Approved Streamline Your Viewing Turn On/Off Picture in Picture on iPhones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-virtuverse-video-vault/"><u>[Updated] In 2024, VirtuVerse Video Vault</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-comedy-and-emotions-the-cutest-instagram-meme-groups/"><u>2024 Approved Comedy & Emotions The Cutest Instagram Meme Groups</u></a></li>
-<li><a href="https://techtrends.techidaily.com/download-the-latest-ios-version-for-free-discover-whats-new-in-ios-18-price-insights-and-exciting-news/"><u>Download the Latest iOS Version for Free! Discover What's New in iOS 18, Price Insights & Exciting News</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-techniques-for-effective-data-backup-and-safety-measures/"><u>Essential Techniques for Effective Data Backup and Safety Measures</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-7-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 7 Plus/iPad/iPod</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-enterprise-cloud-solutions/"><u>In 2024, Ultimate Enterprise Cloud Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/installing-new-wi-fi-card-on-pcs-a-step-by-step-guide/"><u>Installing New Wi-Fi Card on PCs: A Step by Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-repair-update-apple-authorizes-second-hand-components-for-certain-fixes-tech-news/"><u>IPhone Repair Update: Apple Authorizes Second-Hand Components for Certain Fixes - Tech News</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/making-movies-magical-the-use-of-youtube-music-in-videos/"><u>Making Movies Magical The Use of YouTube Music in Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-micromobility-timelines-media-coverage-speculations-and-all-critical-details/"><u>Navigating the World of Micromobility: Timelines, Media Coverage, Speculations & All Critical Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-tv-update-mastery-how-to-keep-your-set-current-and-running-smoothly/"><u>Samsung TV Update Mastery: How to Keep Your Set Current and Running Smoothly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-resolving-errors-in-computer-bootup-process-post/"><u>Step-by-Step Guide: Resolving Errors in Computer Bootup Process (POST)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-transfer-steam-gift-codes-securely/"><u>Step-by-Step Instructions: How to Transfer Steam Gift Codes Securely</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streaming-tech-simplified-an-in-depth-look-at-your-ultimate-guide-to-streaming-hardware/"><u>Streaming Tech Simplified: An In-Depth Look at Your Ultimate Guide to Streaming Hardware.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-saving-a-look-at-your-window/"><u>[Updated] Saving a Look at Your Window</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-comprehensive-overview-where-does-verizon-stand-in-todays-5g-ecosystem/"><u>A Comprehensive Overview: Where Does Verizon Stand in Today's 5G Ecosystem?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-analysis-and-evaluation-of-recuva-the-top-ranking-data-restoration-software/"><u>Comprehensive Analysis and Evaluation of Recuva: The Top-Ranking Data Restoration Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-electric-car-charging-stages-a-comparison-of-level-1-to-3/"><u>Demystifying Electric Car Charging Stages: A Comparison of Level 1 to 3</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-reviews-top-5-high-performance-video-devices/"><u>Expert Reviews Top 5 High-Performance Video Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolving-windows-10-crashes-during-launch-and-booting/"><u>Fixing the Issue: Resolving Windows 10 Crashes During Launch & Booting</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-xs-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone XS - 4 Easy Ways</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ultimate-mp4-record-and-assess-guide/"><u>In 2024, Ultimate MP4 Record & Assess Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-multi-monitor-configuration-in-depth-tips-on-joining-three-screens-with-your-laptop-or-desktop/"><u>Master Multi-Monitor Configuration: In-Depth Tips on Joining Three Screens with Your Laptop or Desktop</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/nouveaux-formats-et-volumes-facilement-convertibles-avec-movavi-service-gratuit-en-ligne/"><u>Nouveaux Formats Et Volumes Facilement Convertibles Avec Movavi - Service Gratuit en Ligne</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-relief-starfields-upgraded-version-eliminates-crashing-glitches/"><u>PC Gaming Relief: Starfield's Upgraded Version Eliminates Crashing Glitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rectifying-the-coredll-cannot-be-found-issue-expert-strategies/"><u>Rectifying the 'core.dll Cannot Be Found' Issue: Expert Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-correct-the-error-message-missing-or-corrupted-libcurldll/"><u>Steps to Correct the Error Message Missing or Corrupted libcurl.dll</u></a></li>
 </ul></div>
 

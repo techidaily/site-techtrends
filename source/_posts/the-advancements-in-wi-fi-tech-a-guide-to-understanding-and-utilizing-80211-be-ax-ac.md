@@ -1,7 +1,7 @@
 ---
 title: "The Advancements in Wi-Fi Tech: A Guide to Understanding and Utilizing 802.11 Be, Ax, Ac"
-date: 2025-01-23T19:18:20.839Z
-updated: 2025-01-25T16:17:58.547Z
+date: 2025-02-05T16:03:41.851Z
+updated: 2025-02-07T16:01:08.746Z
 categories:
   - BestProducts
 description: "This Article Describes The Advancements in Wi-Fi Tech: A Guide to Understanding and Utilizing 802.11 Be, Ax, Ac"
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is 802.11?
 
  In 1997, the Institute of Electrical and Electronics Engineers created the first WLAN standard. They called it_802.11_ after the name of the group formed to oversee its development. Unfortunately, 802.11 only supported a maximum[network bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) of 2 Mbps—too slow for most applications. For this reason, ordinary 802.11 wireless products are no longer manufactured. However, an entire family has sprung up from this initial standard.
@@ -35,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11be (Wi-Fi 7)
 
@@ -50,10 +46,6 @@ Lifewire
 ## 802.11ax (Wi-Fi 6)
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 802.11aj
 
@@ -71,6 +63,10 @@ Lifewire
 
  Keep in mind when distances are mentioned that ranges can be greatly impacted by obstacles that block the signal, so the range mentioned refers to situations where there is absolutely no interference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 802.11ac (Wi-Fi 5)
 
  The generation of Wi-Fi that first signaled popular use,[802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , uses[dual-band wireless](https://www.lifewire.com/dual-band-wireless-networking-explained-818279) technology, supporting simultaneous connections on both 2.4 GHz and 5 GHz Wi-Fi devices. 802.11ac offers backward compatibility to 802.11a/b/g/n and bandwidth rated up to 1300 Mbps on the 5 GHz band plus up to 450 Mbps on 2.4 GHz. Most home wireless routers are compliant with this standard.
@@ -80,7 +76,7 @@ Lifewire
  802.11ac is also referred to as Wi-Fi 5.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 802.11n (Wi-Fi 4)
@@ -107,6 +103,10 @@ Lifewire
 
  802.11a is also unofficially referred to as_Wi-Fi 2_ .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 802.11b (Wi-Fi 1)
 
  IEEE expanded on the original 802.11 standard in July 1999, creating the_802.11b_ specification. 802.11b supports a theoretical speed of up to 11 Mbps. A more realistic bandwidth of 2 Mbps (TCP) and 3 Mbps (UDP) should be expected.
@@ -116,7 +116,7 @@ Lifewire
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What About Bluetooth and the Rest?
@@ -198,18 +198,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] How to Transcribe a YouTube Video for FREE</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailored-viewing-experience-constructing-a-personalized-watch-later-list/"><u>[Updated] In 2024, Tailored Viewing Experience Constructing a Personalized 'Watch Later' List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-surge-in-youtubers-popularity/"><u>2024 Approved The Blueprint to Surge in Youtubers' Popularity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-website-traffic-with-cookiebot-driven-analytics/"><u>Boost Your Website Traffic with Cookiebot-Driven Analytics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-websites-performance-using-cookiebot-solutions/"><u>Boost Your Website's Performance Using Cookiebot Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-driven-analytics-and-personalization-solutions/"><u>Cookiebot-Driven Analytics and Personalization Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cookiebot-boosting-your-site-with-automated-data-analysis/"><u>Cookiebot: Boosting Your Site with Automated Data Analysis</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-tips-for-effortless-screen-recording-on-android/"><u>In 2024, Expert Tips for Effortless Screen Recording on Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instantaneous-conversion-mastery-from-srt-to-txt-with-precision/"><u>Instantaneous Conversion Mastery From SRT to TXT with Precision</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x800700e1-in-windows-11-systems/"><u>Mastering the Resolution of Error 0X800700E1 in Windows 11 Systems</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-add-musicaudio-to-a-gif-on-mac-in-2024/"><u>New How to Add Music/Audio to a GIF on Mac, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-crucial-role-of-cloud-security-insights-and-reasons-you-shouldnt-overlook-zdnet/"><u>The Crucial Role of Cloud Security: Insights & Reasons You Shouldn't Overlook (ZDNet)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-success-with-freefire-hashtag-tips/"><u>[New] 2024 Approved Harnessing Success with FreeFire Hashtag Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-inverting-instagram-videos-step-by-step-guide/"><u>[New] Inverting Instagram Videos Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-the-social-media-game-the-best-30-nicknames-for-tiktok-for-2024/"><u>[New] Mastering the Social Media Game The Best 30 Nicknames for TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unraveling-image-mysteries-the-triple-tactic-fb-backward-search/"><u>[Updated] 2024 Approved Unraveling Image Mysteries The Triple-Tactic FB Backward Search</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ace-your-films-with-these-top-15-gopro-video-luts/"><u>2024 Approved Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-skys-dynamic-range-wonders-top-10-sites-guide/"><u>2024 Approved Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-the-best-phone-protector-a-comprehensive-guide/"><u>Choosing the Best Phone Protector: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-for-the-problem-of-mozilla-thunderbird-not-starting-up-properly/"><u>Easy Fixes for the Problem of Mozilla Thunderbird Not Starting Up Properly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-connect-samsung-in-ear-headphones-with-a-laptop/"><u>How To Effortlessly Connect Samsung In-Ear Headphones With a Laptop</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-a-step-by-step-fix-for-d3dx928dll-not-found-issues/"><u>Navigating Through: A Step-by-Step Fix for d3dx9_28.dll Not Found Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/nikon-km-170-vs-gopro-for-flexible-filmmaking-in-2024/"><u>Nikon KM-170 Vs GoPro for Flexible Filmmaking, In 2024</u></a></li>
 </ul></div>
 

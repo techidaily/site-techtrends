@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to iPhone 16/Pro Cases for 2 Groovy Geniuses! - Our Picks & Tests | ZDNET
-date: 2025-01-24T17:42:46.110Z
-updated: 2025-01-25T18:31:54.653Z
+date: 2025-01-31T16:22:43.540Z
+updated: 2025-02-07T16:04:15.316Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -37,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -48,13 +44,13 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -62,25 +58,25 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -89,6 +85,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -161,21 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-calm-cursor-3-pathways-to-mellow-watching-videos-on-youtube-57-chars/"><u>[New] In 2024, Calm Cursor 3 Pathways to Mellow Watching Videos on YouTube (57 Chars)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-combatting-loss-of-detail-on-online-video/"><u>[Updated] Combatting Loss of Detail on Online Video</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-easily-disableremove-youtube-shorts-permanently-in-2024/"><u>[Updated] How to Easily Disable/Remove YouTube Shorts Permanently, In 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/begin-your-journey-in-ai-access-to-15-premium-free-online-lessons-curated-by-lifewire/"><u>Begin Your Journey in AI - Access to 15 Premium Free Online Lessons Curated by Lifewire</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-permanently-erase-your-yahoo-email/"><u>Complete Guide: Steps to Permanently Erase Your Yahoo! Email</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solution-for-shelldll-not-found-system-issue/"><u>Comprehensive Solution for 'Shell.dll Not Found' System Issue</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-on-getting-your-samsung-blu-ray-player-back-online/"><u>Expert Tips on Getting Your Samsung Blu-Ray Player Back Online</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-how-can-i-use-imessage-on-an-android-device/"><u>Guide: How Can I Use iMessage on an Android Device?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-apple-addressed-the-top-challenge-of-fixing-electronics-yourself/"><u>How Apple Addressed the Top Challenge of Fixing Electronics Yourself</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-huawei-nova-y71-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Huawei Nova Y71 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715860370118-in-2024-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>In 2024, Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>In 2024, Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-your-pc-effective-fixes-for-windows-11s-persistent-black-screen-issue/"><u>Reviving Your PC: Effective Fixes for Windows 11'S Persistent Black Screen Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-2024-learning-apps-our-ultimate-picks-for-knowledge-enthusiasts/"><u>The Best 2024 Learning Apps: Our Ultimate Picks for Knowledge Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-essentials-for-your-ultimate-summer-everyday-carry-list/"><u>Top 7 Essentials for Your Ultimate Summer Everyday Carry List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-seamless-integration-of-snapchat-on-apples-laptops/"><u>[New] 2024 Approved Seamless Integration of Snapchat on Apple's Laptops</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-breaking-into-twitter-live-your-strategy/"><u>[New] Breaking Into Twitter Live Your Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-innovations-the-distinct-worlds-of-mr-ar-and-vr/"><u>2024 Approved Immersive Innovations The Distinct Worlds of MR, AR, & VR</u></a></li>
+<li><a href="https://facebook.techidaily.com/guide-to-gone-but-not-forgotten-archiving-and-eventually-removing-your-fb-page/"><u>Guide to Gone But Not Forgotten: Archiving and Eventually Removing Your FB Page</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-phantom-v-flip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Phantom V Flip Safely | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-logitech-mouse-reception-with-alternative-methods/"><u>Master the Art of Logitech Mouse Reception with Alternative Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-jvm-dll-errors-a-comprehensive-guide/"><u>Solving JVM DLL Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-fixing-stop-error-0x00000078-phase0exception/"><u>Step-by-Step Solution for Fixing STOP Error 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-viewing-guide-watch-the-matrix-trilogy-sequentially/"><u>The Ultimate Viewing Guide: Watch The Matrix Trilogy Sequentially</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-android-collage-apps-creativity-unleashed/"><u>Top 10 Android Collage Apps - Creativity Unleashed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-dsounddll-not-found-problem-on-your-pc/"><u>Troubleshooting the 'dsound.dll Not Found' Problem on Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-rated-free-3gp-video-orientation-changers/"><u>Updated 2024 Approved Top-Rated Free 3GP Video Orientation Changers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722883962064-watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order</u></a></li>
 </ul></div>
 

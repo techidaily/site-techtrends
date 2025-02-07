@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time-Saving Techniques on macOS: Explore How Finder Quick Actions Revolutionize Efficiency, According to ZDNet"
-date: 2025-01-19T16:03:40.110Z
-updated: 2025-01-25T20:55:43.173Z
+date: 2025-02-04T16:12:59.906Z
+updated: 2025-02-07T16:18:16.404Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -31,6 +35,10 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -45,7 +53,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -58,17 +66,9 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -95,10 +95,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -188,10 +184,6 @@ By the way, this is also a great way to think about users, which I initially was
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## To-doing my to-do list
 
 By this point, I'm usually most of the way through the morning. My email has been processed and actions have been moved to my to-do list and schedule items to my calendar. I've done a considerable amount of reading, and I'm up to speed on the various issues I'm responsible for following. I've graded students and supported users (and added any bugs or key follow-up items to my to-do list). 
@@ -222,11 +214,19 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -243,7 +243,7 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rethinking your flow
@@ -275,17 +275,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-mp4-software-elevate-your-mac-productions/"><u>[New] 2024 Approved Essential MP4 Software Elevate Your Mac Productions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-srgb-and-rgb/"><u>[New] Comprehensive Guide to Srgb & Rgb</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-integrated-capture-camera-and-desktop-together/"><u>[New] Integrated Capture Camera and Desktop Together</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-sound-freedom-with-pazera-tools-an-up-to-date-review/"><u>[Updated] Explore Sound Freedom with Pazera Tools - An Up-to-Date Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-innovators-intertwining-video-with-melodious-images/"><u>[Updated] In 2024, Innovators Intertwining Video with Melodious Images</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-younow-review-and-alternative-for-2024/"><u>[Updated] Younow Review and Alternative for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-disconnecting-gadgets-from-the-google-home-interface/"><u>Comprehensive Guide: Disconnecting Gadgets From the Google Home Interface</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-common-headset-problems-in-the-xbox-series-xs-console-setup/"><u>Diagnosing and Repairing Common Headset Problems in the Xbox Series X/S Console Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-security-alerts-managing-developer-verification-errors-on-apple-computers/"><u>Fixing Security Alerts: Managing Developer Verification Errors on Apple Computers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-make-a-ken-burns-effect-in-camtasia-9/"><u>In 2024, How to Make a Ken Burns Effect in Camtasia 9?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-guide-securely-integrating-tiktok-profile-links/"><u>In 2024, Ultimate Guide Securely Integrating TikTok Profile Links</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unexpectedly-missing-helperdll-heres-how-to-restore-it/"><u>Unexpectedly Missing Helper.dll? Here's How to Restore It!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/professional-guide-essential-fixes-for-dull-iphone-hdr-videos-in-adobe/"><u>[Professional Guide] Essential Fixes for Dull iPhone HDR Videos in Adobe</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-vectors-alternatives-to-the-classic-acid-pro/"><u>[Updated] Top Vectors Alternatives to the Classic ACID Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-visionary-video-snatcher-tools-guide/"><u>2024 Approved Visionary Video Snatcher Tools Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/blueprint-for-seamless-integration-of-instagram-and-tiktok-for-2024/"><u>Blueprint for Seamless Integration of Instagram and TikTok for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-watching-tiktok-on-tv-without-hiccups/"><u>Easy Steps: Watching TikTok on TV Without Hiccups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-pope-francis-communicate-in-the-digital-age-is-email-part-of-his-routine/"><u>How Does Pope Francis Communicate in the Digital Age: Is Email Part of His Routine?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-accept-a-shared-album-invite-on-iphone/"><u>How to Accept a Shared Album Invite on iPhone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-xstudio-complete-video-setup-analysis/"><u>In 2024, Mastering XStudio Complete Video Setup Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-premiere-visionary-film-glimpses/"><u>In 2024, Premiere Visionary Film Glimpses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insertion-techniques-for-displaying-source-code-in-word-processors/"><u>Insertion Techniques for Displaying Source Code in Word Processors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-guide-to-professional-xbox-gameplay-capture/"><u>Step-by-Step Guide to Professional Xbox Gameplay Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-how-to-restart-your-airpods-when-they-freeze-up/"><u>Troubleshooting Tips: How to Restart Your AirPods When They Freeze Up</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-summer-edc-discover-these-7-unmissable-products/"><u>Ultimate Summer EDC: Discover These 7 Unmissable Products</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-poco-c55-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Poco C55? | Dr.fone</u></a></li>
 </ul></div>
 

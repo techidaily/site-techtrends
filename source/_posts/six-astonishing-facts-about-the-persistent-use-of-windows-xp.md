@@ -1,7 +1,7 @@
 ---
 title: Six Astonishing Facts About the Persistent Use of Windows XP
-date: 2024-08-30T15:07:27.645Z
-updated: 2024-08-31T15:07:27.645Z
+date: 2025-02-02T16:07:00.199Z
+updated: 2025-02-07T16:12:41.135Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Six Astonishing Facts About the Persistent Use of Windows XP
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,22 +31,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In many parts of the world, cash itself is starting to feel a little outdated, so depending on where you live, you may not have much interaction with ATMs. However, in 2020 a study found that [most ATMs were still running WIndows XP](https://www.techradar.com/news/atm-security-still-running-windows-xp). You'd think that in the years since this would no longer be the case, but you can bet there are still some ATMs running this now-ancient code.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2  Medical Equipment 
 
 ![A girl lies on an MRI machine before examining her body and the radiologist gives command to her to prepare for a diagnosis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-girl-lies-on-an-mri-machine-before-examining-her-body-and-the-radiologist-gives-command-to-her-to-prepare-for-a-diagnosis.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 [guys\_who\_shoot / Shutterstock.com](https://www.shutterstock.com/image-photo/girl-lies-on-mri-machine-before-2386190239)
 
  While plenty of medical lab and diagnostic equipment runs [some flavor of Linux](https://extra-tips.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography/), lots of gadgets in your hospital are likely [still running Windows XP](https://www.cnet.com/health/medical/hospital-devices-exposed-to-hacking-with-unsupported-operating-systems/). Most of these are probably not networked, and just spit out prints of some sort for a specialist to look at, but it does raise some questions about personal data safety, since someone getting direct access to these systems could compromise them.
 
  Like other large bureaucracies, hospitals take a long time to upgrade or replace equipment. Budgets are tight, and there's always some sort of emergency, so I can totally understand why a perfectly working MRI machine or blood testing system in the lab would be far down the list of things to spend money on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  POS Systems 
 
 ![Stylish bearded smiling waiter dressed black uniform processing customer orders using point of sale order terminal system touch screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/stylish-bearded-smiling-waiter-dressed-black-uniform-processing-customer-orders-using-point-of-sale-order-terminal-system-touch-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Soloviova Liudmyla / Shutterstock.com](https://www.shutterstock.com/image-photo/stylish-bearded-smiling-waiter-dressed-black-2389207939)
 
@@ -50,16 +63,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's more likely to be the case in a small business, where there's no reason to upgrade and the cost of a new POS system is a big deal, but don't be surprised if some larger outlets are still stuck using this older OS, since the cost and complexity of replacing something that still works is hard to justify in many cases.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 4  Industrial Control Systems 
 
 ![car production plant. People work on assembling line. Young woman in focus only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/car-production-plant-people-work-on-assembling-line-young-woman-in-focus-only.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Alexey\_Rezvykh / Shutterstock.com](https://www.shutterstock.com/image-photo/nizhny-novgorod-russia-november-21-2020-2297245391)
 
  Industrial control systems operate and monitor large systems like nuclear power plants, automated production lines, water purification plants, and so on. Windows XP might still be used in some of these large systems for a few reasons. For one, many of these systems can't be taken offline for long, since they provide critical services or goods. There may also be a massive loss of income if they go offline to be updated. Especially given how there are likely to be bugs in new software and operating systems. It might also be necessary to replace perfectly working hardware to work with new software.
@@ -73,22 +80,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Young smiling woman holding onto a handle while traveling by public bus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/young-smiling-woman-holding-onto-a-handle-while-traveling-by-public-bus.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Drazen Zigic / Shutterstock.com
 
  You've probably spotted a trend here, but public transport is another massive, entrenched system that's hard to upgrade or halt. In 2019, for example, the fare kiosks in Boston were [still running on Windows XP](https://patch.com/massachusetts/salem/mbta-fare-kiosks-are-hackable-report) and I can't find any subsequent announcements that this has changed. At the time, a spokesperson for the transport authority explained that there was no security issue in their eyes simply because the kiosks run on a closed network, but, of course, that still leaves physical access as one avenue for hackers.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 6  Military Systems 
 
 ![Naval submarine submerge underwater during a mission](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/naval-submarine-submerge-underwater-during-a-mission.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 [noraismail / Shutterstock.com](https://www.shutterstock.com/image-photo/naval-submarine-submerge-underwater-during-mission-1531264853)
 
  I'll preface this last one by saying that militaries across the world don't generally blab about the exact details of their IT systems. So getting very recent reports on whether Windows XP still has a strong hold on any military computers is hard. However, in 2016, the US military was still [struggling to move away from XP](https://cyberscoop.com/windows-xp-us-government-duo-security-october-2016). So I would not be surprised that some parts of this massive organization still have Windows XP in use. In 2018, the military was still [wrangling with getting rid of XP](https://slate.com/technology/2018/06/why-the-military-cant-quit-windows-xp.html) because some mission-critical systems can't just be updated overnight, like an iPad.
@@ -103,8 +105,6 @@ Drazen Zigic / Shutterstock.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,17 @@ Drazen Zigic / Shutterstock.com
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-youtube-posters-at-zero-price-top-free-downloading-tool-for-2024/"><u>[New] Get YouTube Posters at Zero Price - Top Free Downloading Tool for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-blending-music-into-your-ig-visuals/"><u>[New] The Art of Blending Music Into Your IG Visuals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-your-youtube-with-partner-videos-for-2024/"><u>[Updated] Boosting Your YouTube with Partner Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-solutions-to-the-not-registered-network-error-on-your-samsung-phone/"><u>DIY Solutions to the 'Not Registered' Network Error on Your Samsung Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-how-to-effectively-clean-a-mechanical-keyboard/"><u>Expert Tips on How to Effectively Clean a Mechanical Keyboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-the-not-found-issue-with-d3dxn26dll-error/"><u>How to Address the Not Found Issue with d3dxn_26.dll Error</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-s17-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo S17 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-5-ios-platforms-mimicking-ps2/"><u>In 2024, Top 5 iOS Platforms Mimicking PS2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/major-tech-faults-as-a-call-to-action-for-government-diversification-strategies-microsoft-case-study/"><u>Major Tech Faults as a Call to Action for Government Diversification Strategies: Microsoft Case Study</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/revolutionizing-play-leading-vr-handwear-selections-for-2024/"><u>Revolutionizing Play Leading VR Handwear Selections for 2024</u></a></li>
+</ul></div>
 

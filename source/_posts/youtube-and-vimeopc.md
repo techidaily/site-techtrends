@@ -1,7 +1,7 @@
 ---
 title: 最適な動画表示設定 - YouTube & VimeoでPC画面方向をフリーマネジメントツール
-date: 2024-08-24 11:11:56
-updated: 2024-08-27 11:56:55
+date: 2025-02-05T16:15:23.894Z
+updated: 2025-02-07T16:18:35.416Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb812ed418ac2e91f37424af9f.jpg
@@ -21,15 +21,11 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 今回は、初心者でも使え、日本語対応、PCで動画向きを変更させる方法をまとめてご紹介する。
 
-
-
 ## 動画回転フリーソフトおすすめ｜PCで動画向き（縦向き・横向き）を変える方法
 
 動画を無料で回転させて見やすいようにするために、PC（Mac＆Windows）などを利用する必要がある。
 
 ネットで「動画回転フリーソフト」を検索してみると、たくさんある。自分にあったものを探すためには、ソフトごとの機能を比較してみると良いだろう。だから、自分の使用用途を考え、操作性（初心者でも使え）、性能（動画回転など）、速度、出力品質、対応OS、日本語対応を比較しながら、最適なものを選んでください。
-
-
 
 ## 動画回転フリーソフトおすすめ：MacX Video Converter Pro
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 100%安全
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 動画回転フリーソフトおすすめ：Any Video Converter
 
 ![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062502.jpg) 
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062503.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **【対応OS】**：Windows Vista以降、macOS10.7以降（64ビット）、Linux
 
 **【日本語】**：対応
@@ -109,6 +113,237 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ## 動画回転フリーソフトおすすめ：ffmpeg
 
 ![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062504.jpg) 
+
+**【対応OS】**：クロスプラットフォーム
+
+**【日本語】**：対応
+
+**【開発者】**：FFmpegチーム
+
+**【公式サイト】**：<https://ffmpeg.org/>
+
+**【主な機能】**：
+
+（1）ffmpegは動画向きを変える無料ソフトで、上下反転、左右回転、反時計回りに90°回転＋上下回転、時計回りに90°回転、反時計回りに90°、時計回りに90°＋上下反転などといったオプションがあり、自由にPCで動画向きを変更できる。更に、rotateオプションがあり、tを使って、時間ごと（10秒など）に時計回りに一回転する動画作成される。
+
+（2）特定の時間帯（範囲）を切り出したり、ビデオフィルターをかけたり、動画に文字を入れたり、映像と音声を結合したり、音声部分だけを取り出すことが可能。
+
+（3）動画編集機能はもちろん、動画変換機能も備える。例えば、動画から音声を抽出、音声ファイルを無劣化で作成、コンテナを変え、H.264でmp4形式に変換など。
+
+  
+**■ デメリット**：出力画質はやや劣る。
+
+## 動画回転フリーソフトおすすめ：Windowsムービーメーカー
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062505.jpg) 
+
+**【対応OS】**：Windows11及びそれ以降
+
+**【日本語】**：対応
+
+**【開発者】**：マイクロソフト
+
+**【公式サイト】**：<https://www.microsoft.com/ja-jp/windows>
+
+**【主な機能】**：
+
+（1）動画や画像を再生中に90°、180°、270°、360°回転させる。
+
+（2）動画向きを変える無料ソフトでありながら、文字/テロップ追加、BGM入れ、アニメーション付け、切り替え効果付け、白黒などの特殊効果付け、結婚式のプロファイルムービー作りといった機能を持ち、素晴らしい動画編集ソフト。
+
+  
+**■ デメリット**：2017年1月10日より、マイクロソフトはムービーメーカーのダウンロード提供を終了させる。パソコンを新しくした後、Windows ムービーメーカーをインストールできないと注意する。
+
+## 動画回転フリーソフトおすすめ：Freemake Video Converter
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062506.jpg) 
+
+**【対応OS】**：Windows11及びそれ以降
+
+**【日本語】**：対応
+
+**【開発者】**：DigitalWave Ltd
+
+**【公式サイト】**：<http://www.freemake.com/jp/free%5Fvideo%5Fconverter/>
+
+**【主な機能】**：
+
+（1）日本語に対応し、動画向きを変える無料ソフトで、iPhone/Android端末で撮った横向き/縦向きの動画を回転させたり、90°/180°/上下/左右回転が可能だったり、自由に変更できる。
+
+（2）PCで動画向きを変更できるだけではなく、動画変換を行える。例えば、MP3、MP4、AVI、MKV、WMV、3GP、SWF、FLV、HD、MOV、DVD、RM、QT、TS、MTS、Frapsといったフォーマットを変換できる。
+
+（3）ニコニコ動画、Dailymotionといった動画共有サイトにサポートし、お気に入りの動画を保存できる。
+
+（4）総合的なソフトウェアで、カット/トリム/結合/反転/字幕ファイルの追加、[DVDコピー](https://tools.techidaily.com/macxdvd/products/)、ブルーレイ＆DVD書き込み、埋め込みコードの作成、YouTubeに動画をアップロードすることが可能。
+
+  
+**■ デメリット**：機能によって使用期限がある。例えば、動画をダウンロードするには有料登録しなければならない。安定性には問題がある。
+
+## 動画回転フリーソフトおすすめ：iMovie
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062507.jpg) 
+
+**【対応OS】**：iOS＆macOS
+
+**【日本語】**：対応
+
+**【開発者】**：Apple
+
+**【公式サイト】**：<https://www.apple.com/jp/imovie/>
+
+**【主な機能】**：
+
+（1）手軽に動画を無料で回転できる。縦向きの動画を横向きに直したり、撮影した天地逆の動画を回転したり、上下逆の動画の向きを変更したり、動画を反転することが可能。
+
+（2）新しくムービーを作成、ムービー素材の選択範囲を挿入、カット、分割、長さを変え、ムービー素材を微調整、ムービー素材をコピー、動画を編集してタイムラインに挿入できる。
+
+（3）トランジション入れ、タイトル（文字）入れ、BGM・オーディオ入れ、効果音、ナレーション録音、音量調整、オーディオのフェードイン・アウトなどといった編集機能を持つ。
+
+  
+**■ デメリット**：字幕（タイトル）位置を自由に変更できない、キーフレーム使えない所が残念。
+
+## 動画回転フリーソフトおすすめ：VLCメディアプレイヤー
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062508.jpg) 
+
+**【対応OS】**：macOS/Windows/iOS/Linux/GNU/OpenBSDなど
+
+**【日本語】**：対応
+
+**【開発者】**：VideoLAN
+
+**【公式サイト】**：<https://www.videolan.org/vlc/index.ja.html>
+
+**【主な機能】**：
+
+（1）VLCメディアプレーヤーは動画を90°回転（縦横変更）できる。
+
+（2）多くのメディア形式やストリーミングプロトコルに対応し、ほとんどすべてのビデオ・オーディオフォーマットを再生できる。
+
+（3）インタレースの解除、アスペクト比の変更、明るさやコントラストの調整などといった編集機能を持つ。
+
+（4）GPUによるハードウェアアクセラレーションを利用することが可能。
+
+  
+**■ デメリット**：動画を90°しか回転できない。専門的な動画向きを変える無料ソフトではない。
+
+## 動画回転フリーソフトおすすめ：KMPlayer
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062509.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**【対応OS】**：Unix系
+
+**【日本語】**：対応
+
+**【開発者】**：Koos Vriezen
+
+**【公式サイト】**：<https://kmplayer.kde.org/>
+
+**【主な機能】**：
+
+（1）マルチメディアプレーヤーであっても、多彩な編集機能を持ち、上下左右反転、画面回転、色調補正、画質補正、各種映像 / 音声フィルタ、イコライザー、ボーカル除去 / 強調、音量正規化、字幕の再同期、指定した場面の静止画 / 音声 / 動画キャプチャなど。
+
+（2）対応しているビデオ・オーディオフォーマットが多く、ほとんどすべてのコーデックを内蔵し、手軽に動画ファイルを再生できる。
+
+（3）スキン機能を持っていなく、表示する背景色、前景色やフォントを設定することはできる。
+
+  
+**■ デメリット**：動作が少し重く、特にH.264デコードが重く内蔵のコーデックではBluRayをリッピングし10GぐらいのHDを作った場合 1080pでは音声が飛んだり、画像がカクカクする。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 動画回転フリーソフトおすすめ：Video Rotator
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062510.jpg) 
+
+**【対応OS】**：Windows XP/Vista/7/8/8.1/10
+
+**【日本語】**：対応
+
+**【開発者】**：PDF To WORD Converter
+
+**【公式サイト】**：http://www.videorotator.com/
+
+**【主な機能】**：
+
+（1）製品名の通り、Video RotatorはPCで動画向きを変更できる無料ソフト。iPhone/Android/ビデオカメラで撮った動画を90°以上回転させる。例えば、時計回り、反時計回り、左右反転、上下反転。
+
+（2）回転された動画ファイルをMP4/AVI/MPG/FLV/MOVに変換できる。
+
+（3）複数の種類のファイルを回転することが可能で、撮りためた動画を一括で処理できる。
+
+  
+**■ デメリット**：AVI/MPG/FLV/MP4/WMV/MOV/3GPなど15種類の動画しか対応できない。この動画回転フリーソフトを使う前、手元の動画ファイルのフォーマットをチェックしておく。
+
+## 【最後に、今回のまとめ】
+
+iPhone/Android/デジタルカメラで撮った動画を無料で回転できるソフトを紹介した。
+
+動画向きを変える無料ソフトを選ぶ時に、大事なのは自分の使い方に合う所。動作環境（OS）、性能、出力品質、操作性、速度などといったポイントをよく考えて選ぶといいと思う。
+
+PCで動画向きを変更して、今流行っているメディアプレーヤーで再生できる。
+
+## 動画回転フリーソフトおすすめ：Any Video Converter
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062502.jpg) 
+
+**【対応OS】**：macOS10.10&Windows11
+
+**【日本語】**：対応
+
+**【開発者】**：Anvsoft
+
+**【公式サイト】**：<http://www.anvsoft.jp/any-video-converter-free-mac.html>
+
+**【主な機能】**：
+
+（1）簡単な動画編集機能を持つため、PCで動画向きを変更（回転・反転）できるほか、クリップ、クロップ、動画分割・結合、画像・字幕挿入、エフェクト追加、音声抽出、明るさ調整、音無、パラメーター設定を手軽に行える。
+
+（2）動画変換機能があり、動画をMPG、AVI、WMV、MP4、3G2、3GP、MPEG-1、MPEG-2に変換したり、iPhone5s、iPad、iPod、PSP、ウォークマン、携帯、タブレットに取り込んだり、動画から音声を抽出したり、DVDに書き込んだり、ニコニコ動画/Vemeoから動画をダウンロードすることが可能。
+
+  
+**■ デメリット**：出力品質に重視する方は、このソフトウェアを使わないでください。音ズレが起こったり、動画編集に失敗したり、動画ダウンロードを行う時に分析失敗してウィルス報告される。
+
+## 動画回転フリーソフトおすすめ：Handbrake
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062503.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**【対応OS】**：Windows Vista以降、macOS10.7以降（64ビット）、Linux
+
+**【日本語】**：対応
+
+**【開発者】**：HandBrake
+
+**【公式サイト】**：<http://handbrake.fr/>
+
+**【主な機能】**：
+
+（1）動画自体を回転したい時、この動画向きを変える無料ソフトは役に立てる。動画をHandbrakeでエンコードして好きな方向に回転することが可能。回転方向に関しては、90°、180°回転、上下反転、左右反転などといった選択肢がある。
+
+（2）動画を無料で回転できるほか、動画変換機能もある。DVD-Videoフォーマット、BDMVフォーマット、MPEG-4フォーマット、MKVフォーマット、AVIフォーマット、OGMフォーマットに対応し、手軽に変換（圧縮）できる。
+
+（3）チャプター、字幕トラック、ビデオフィルター（ノイズ除去/デブロッキング/モノクロ化/逆テレシネ化など）、固定フレームレート、ビデオクロップ、ビットレート、パッチ処理などといった編集機能を持ち、自由に動画をカスタマイズできる。
+
+  
+**■ デメリット**：作業終了後にPCの電源をオフにする機能を持っていない点。
+
+## 動画回転フリーソフトおすすめ：ffmpeg
+
+![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062504.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **【対応OS】**：クロスプラットフォーム
 
@@ -269,240 +504,9 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
   
 **■ デメリット**：AVI/MPG/FLV/MP4/WMV/MOV/3GPなど15種類の動画しか対応できない。この動画回転フリーソフトを使う前、手元の動画ファイルのフォーマットをチェックしておく。
 
-## 【最後に、今回のまとめ】
-
-iPhone/Android/デジタルカメラで撮った動画を無料で回転できるソフトを紹介した。
-
-動画向きを変える無料ソフトを選ぶ時に、大事なのは自分の使い方に合う所。動作環境（OS）、性能、出力品質、操作性、速度などといったポイントをよく考えて選ぶといいと思う。
-
-PCで動画向きを変更して、今流行っているメディアプレーヤーで再生できる。
-
-
-
-## 動画回転フリーソフトおすすめ：Any Video Converter
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062502.jpg) 
-
-**【対応OS】**：macOS10.10&Windows11
-
-**【日本語】**：対応
-
-**【開発者】**：Anvsoft
-
-**【公式サイト】**：<http://www.anvsoft.jp/any-video-converter-free-mac.html>
-
-**【主な機能】**：
-
-（1）簡単な動画編集機能を持つため、PCで動画向きを変更（回転・反転）できるほか、クリップ、クロップ、動画分割・結合、画像・字幕挿入、エフェクト追加、音声抽出、明るさ調整、音無、パラメーター設定を手軽に行える。
-
-（2）動画変換機能があり、動画をMPG、AVI、WMV、MP4、3G2、3GP、MPEG-1、MPEG-2に変換したり、iPhone5s、iPad、iPod、PSP、ウォークマン、携帯、タブレットに取り込んだり、動画から音声を抽出したり、DVDに書き込んだり、ニコニコ動画/Vemeoから動画をダウンロードすることが可能。
-
-  
-**■ デメリット**：出力品質に重視する方は、このソフトウェアを使わないでください。音ズレが起こったり、動画編集に失敗したり、動画ダウンロードを行う時に分析失敗してウィルス報告される。
-
-
-
-## 動画回転フリーソフトおすすめ：Handbrake
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062503.jpg) 
-
-**【対応OS】**：Windows Vista以降、macOS10.7以降（64ビット）、Linux
-
-**【日本語】**：対応
-
-**【開発者】**：HandBrake
-
-**【公式サイト】**：<http://handbrake.fr/>
-
-**【主な機能】**：
-
-（1）動画自体を回転したい時、この動画向きを変える無料ソフトは役に立てる。動画をHandbrakeでエンコードして好きな方向に回転することが可能。回転方向に関しては、90°、180°回転、上下反転、左右反転などといった選択肢がある。
-
-（2）動画を無料で回転できるほか、動画変換機能もある。DVD-Videoフォーマット、BDMVフォーマット、MPEG-4フォーマット、MKVフォーマット、AVIフォーマット、OGMフォーマットに対応し、手軽に変換（圧縮）できる。
-
-（3）チャプター、字幕トラック、ビデオフィルター（ノイズ除去/デブロッキング/モノクロ化/逆テレシネ化など）、固定フレームレート、ビデオクロップ、ビットレート、パッチ処理などといった編集機能を持ち、自由に動画をカスタマイズできる。
-
-  
-**■ デメリット**：作業終了後にPCの電源をオフにする機能を持っていない点。
-
-
-
-## 動画回転フリーソフトおすすめ：ffmpeg
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062504.jpg) 
-
-**【対応OS】**：クロスプラットフォーム
-
-**【日本語】**：対応
-
-**【開発者】**：FFmpegチーム
-
-**【公式サイト】**：<https://ffmpeg.org/>
-
-**【主な機能】**：
-
-（1）ffmpegは動画向きを変える無料ソフトで、上下反転、左右回転、反時計回りに90°回転＋上下回転、時計回りに90°回転、反時計回りに90°、時計回りに90°＋上下反転などといったオプションがあり、自由にPCで動画向きを変更できる。更に、rotateオプションがあり、tを使って、時間ごと（10秒など）に時計回りに一回転する動画作成される。
-
-（2）特定の時間帯（範囲）を切り出したり、ビデオフィルターをかけたり、動画に文字を入れたり、映像と音声を結合したり、音声部分だけを取り出すことが可能。
-
-（3）動画編集機能はもちろん、動画変換機能も備える。例えば、動画から音声を抽出、音声ファイルを無劣化で作成、コンテナを変え、H.264でmp4形式に変換など。
-
-  
-**■ デメリット**：出力画質はやや劣る。
-
-
-
-## 動画回転フリーソフトおすすめ：Windowsムービーメーカー
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062505.jpg) 
-
-**【対応OS】**：Windows11及びそれ以降
-
-**【日本語】**：対応
-
-**【開発者】**：マイクロソフト
-
-**【公式サイト】**：<https://www.microsoft.com/ja-jp/windows>
-
-**【主な機能】**：
-
-（1）動画や画像を再生中に90°、180°、270°、360°回転させる。
-
-（2）動画向きを変える無料ソフトでありながら、文字/テロップ追加、BGM入れ、アニメーション付け、切り替え効果付け、白黒などの特殊効果付け、結婚式のプロファイルムービー作りといった機能を持ち、素晴らしい動画編集ソフト。
-
-  
-**■ デメリット**：2017年1月10日より、マイクロソフトはムービーメーカーのダウンロード提供を終了させる。パソコンを新しくした後、Windows ムービーメーカーをインストールできないと注意する。
-
-
-
-## 動画回転フリーソフトおすすめ：Freemake Video Converter
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062506.jpg) 
-
-**【対応OS】**：Windows11及びそれ以降
-
-**【日本語】**：対応
-
-**【開発者】**：DigitalWave Ltd
-
-**【公式サイト】**：<http://www.freemake.com/jp/free%5Fvideo%5Fconverter/>
-
-**【主な機能】**：
-
-（1）日本語に対応し、動画向きを変える無料ソフトで、iPhone/Android端末で撮った横向き/縦向きの動画を回転させたり、90°/180°/上下/左右回転が可能だったり、自由に変更できる。
-
-（2）PCで動画向きを変更できるだけではなく、動画変換を行える。例えば、MP3、MP4、AVI、MKV、WMV、3GP、SWF、FLV、HD、MOV、DVD、RM、QT、TS、MTS、Frapsといったフォーマットを変換できる。
-
-（3）ニコニコ動画、Dailymotionといった動画共有サイトにサポートし、お気に入りの動画を保存できる。
-
-（4）総合的なソフトウェアで、カット/トリム/結合/反転/字幕ファイルの追加、[DVDコピー](https://tools.techidaily.com/macxdvd/products/)、ブルーレイ＆DVD書き込み、埋め込みコードの作成、YouTubeに動画をアップロードすることが可能。
-
-  
-**■ デメリット**：機能によって使用期限がある。例えば、動画をダウンロードするには有料登録しなければならない。安定性には問題がある。
-
-
-
-## 動画回転フリーソフトおすすめ：iMovie
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062507.jpg) 
-
-**【対応OS】**：iOS＆macOS
-
-**【日本語】**：対応
-
-**【開発者】**：Apple
-
-**【公式サイト】**：<https://www.apple.com/jp/imovie/>
-
-**【主な機能】**：
-
-（1）手軽に動画を無料で回転できる。縦向きの動画を横向きに直したり、撮影した天地逆の動画を回転したり、上下逆の動画の向きを変更したり、動画を反転することが可能。
-
-（2）新しくムービーを作成、ムービー素材の選択範囲を挿入、カット、分割、長さを変え、ムービー素材を微調整、ムービー素材をコピー、動画を編集してタイムラインに挿入できる。
-
-（3）トランジション入れ、タイトル（文字）入れ、BGM・オーディオ入れ、効果音、ナレーション録音、音量調整、オーディオのフェードイン・アウトなどといった編集機能を持つ。
-
-  
-**■ デメリット**：字幕（タイトル）位置を自由に変更できない、キーフレーム使えない所が残念。
-
-
-
-## 動画回転フリーソフトおすすめ：VLCメディアプレイヤー
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062508.jpg) 
-
-**【対応OS】**：macOS/Windows/iOS/Linux/GNU/OpenBSDなど
-
-**【日本語】**：対応
-
-**【開発者】**：VideoLAN
-
-**【公式サイト】**：<https://www.videolan.org/vlc/index.ja.html>
-
-**【主な機能】**：
-
-（1）VLCメディアプレーヤーは動画を90°回転（縦横変更）できる。
-
-（2）多くのメディア形式やストリーミングプロトコルに対応し、ほとんどすべてのビデオ・オーディオフォーマットを再生できる。
-
-（3）インタレースの解除、アスペクト比の変更、明るさやコントラストの調整などといった編集機能を持つ。
-
-（4）GPUによるハードウェアアクセラレーションを利用することが可能。
-
-  
-**■ デメリット**：動画を90°しか回転できない。専門的な動画向きを変える無料ソフトではない。
-
-
-
-## 動画回転フリーソフトおすすめ：KMPlayer
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062509.jpg) 
-
-**【対応OS】**：Unix系
-
-**【日本語】**：対応
-
-**【開発者】**：Koos Vriezen
-
-**【公式サイト】**：<https://kmplayer.kde.org/>
-
-**【主な機能】**：
-
-（1）マルチメディアプレーヤーであっても、多彩な編集機能を持ち、上下左右反転、画面回転、色調補正、画質補正、各種映像 / 音声フィルタ、イコライザー、ボーカル除去 / 強調、音量正規化、字幕の再同期、指定した場面の静止画 / 音声 / 動画キャプチャなど。
-
-（2）対応しているビデオ・オーディオフォーマットが多く、ほとんどすべてのコーデックを内蔵し、手軽に動画ファイルを再生できる。
-
-（3）スキン機能を持っていなく、表示する背景色、前景色やフォントを設定することはできる。
-
-  
-**■ デメリット**：動作が少し重く、特にH.264デコードが重く内蔵のコーデックではBluRayをリッピングし10GぐらいのHDを作った場合 1080pでは音声が飛んだり、画像がカクカクする。
-
-
-
-## 動画回転フリーソフトおすすめ：Video Rotator
-
-![動画回転フリーソフト](https://www.macxdvd.com/blog/img/video-rotation-free-software-yrq-062510.jpg) 
-
-**【対応OS】**：Windows XP/Vista/7/8/8.1/10
-
-**【日本語】**：対応
-
-**【開発者】**：PDF To WORD Converter
-
-**【公式サイト】**：http://www.videorotator.com/
-
-**【主な機能】**：
-
-（1）製品名の通り、Video RotatorはPCで動画向きを変更できる無料ソフト。iPhone/Android/ビデオカメラで撮った動画を90°以上回転させる。例えば、時計回り、反時計回り、左右反転、上下反転。
-
-（2）回転された動画ファイルをMP4/AVI/MPG/FLV/MOVに変換できる。
-
-（3）複数の種類のファイルを回転することが可能で、撮りためた動画を一括で処理できる。
-
-  
-**■ デメリット**：AVI/MPG/FLV/MP4/WMV/MOV/3GPなど15種類の動画しか対応できない。この動画回転フリーソフトを使う前、手元の動画ファイルのフォーマットをチェックしておく。
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 【最後に、今回のまとめ】
 
@@ -511,10 +515,12 @@ iPhone/Android/デジタルカメラで撮った動画を無料で回転でき�
 動画向きを変える無料ソフトを選ぶ時に、大事なのは自分の使い方に合う所。動作環境（OS）、性能、出力品質、操作性、速度などといったポイントをよく考えて選ぶといいと思う。
 
 PCで動画向きを変更して、今流行っているメディアプレーヤーで再生できる。
-
-
 
 ![](https://www.macxdvd.com/blog/../seoimage/video-converterru.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### PCで動画向き（縦向き・横向き）を変えるソフト～100％無料
 
@@ -522,7 +528,13 @@ PCで動画向きを変更して、今流行っているメディアプレーヤ
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## あなたへのおすすめ
 
@@ -542,8 +554,6 @@ PCで動画向きを変更して、今流行っているメディアプレーヤ
 
 [無料な動画変換ソフトおすすめ！無劣化で動画を変換しよう](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \> 動画回転フリーソフトオススメ
 
 <ins class="adsbygoogle"
@@ -552,11 +562,29 @@ PCで動画向きを変更して、今流行っているメディアプレーヤ
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-instant-access-to-12-high-quality-livestreams/"><u>[New] Instant Access to 12 High-Quality Livestreams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-xbox-live-streaming/"><u>[Updated] In 2024, The Ultimate Guide to Xbox Live Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-dvd-dvdav/"><u>高解像度音質を実現するWinX DVD再生機能 - DVD再生・AVコントロールの最新テクノロジ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4windows-11-2024/"><u>最新MP4再生技術：Windows 11におけるファイル再生方法と解析コツ - 2024年の応用</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/all-encompassing-az-screenshot-tool-app-evaluations-for-2024/"><u>All-Encompassing AZ Screenshot Tool App Evaluations for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/assessing-zamzars-compliance-understanding-its-legality-and-privacy-measures/"><u>Assessing Zamzar's Compliance - Understanding Its Legality & Privacy Measures</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/browser-helper-alert-unveiling-whether-its-a-viral-risk-and-how-to-effectively-dispose-of-it/"><u>Browser Helper Alert: Unveiling Whether It's a Viral Risk & How to Effectively Dispose of It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-hevc-video-compression-toolkit-now-available-in-vlc-media-player-get-yours-today/"><u>Free HEVC Video Compression Toolkit Now Available in VLC Media Player - Get Yours Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guida-passo-passo-per-aumentare-la-qualita-video-hd4k-su-sistemi-windows-e-mac/"><u>Guida Passo-Passo per Aumentare La Qualità Video HD/4K Su Sistemi Windows E Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-k11-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo K11 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 14 Pro?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-circuitry-unveiling-tech-secrets-at-toms-gadget-corner/"><u>Inside the Circuitry: Unveiling Tech Secrets at Tom's Gadget Corner</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preserving-pixel-perfection-uploading-copyright-safeguarded-dvds-onto-dropbox-effortlessly/"><u>Preserving Pixel Perfection: Uploading Copyright-Safeguarded DVDs Onto Dropbox Effortlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-shrinking-down-videos-before-uploading-to-whatsapp/"><u>The Ultimate Guide to Shrinking Down Videos Before Uploading to WhatsApp</u></a></li>
+</ul></div>
+

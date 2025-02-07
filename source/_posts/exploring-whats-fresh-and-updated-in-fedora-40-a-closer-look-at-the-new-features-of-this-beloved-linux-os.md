@@ -1,7 +1,7 @@
 ---
 title: Exploring What's Fresh and Updated in Fedora 40 - A Closer Look at the New Features of This Beloved Linux OS
-date: 2024-08-30T15:07:18.081Z
-updated: 2024-08-31T15:07:18.081Z
+date: 2025-02-06T16:10:08.569Z
+updated: 2025-02-07T16:08:29.442Z
 tags:
   - desktop
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Fedora Linux has hit the big four-oh! With Fedora 40 released, and the first patches available, it’s time to fire up this popular distribution and take it for a test run.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Fedora at 40
 
  They say life begins at 40\. Whether that’s true or not, Fedora Linux certainly seems to have found renewed vigor with this milestone release. Fedora was always a fast distribution, and this time round it’s even more noticeable.
@@ -40,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Fedora’s official desktop is GNOME, and that’s the version we checked out. There are 10 other variants, or “spins” of Fedora 40 available, each with a different desktop environment, so you’ve got plenty of choice.
 
 ![The Fedora 40 default GNOME desktop with a wallpaper showing a blurred forest scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -81,6 +82,10 @@ Dave McKay/How-To Geek
 
  Still on the topic of security, although not specifically kernel related, many of the systemd services have security settings enabled by default to better protect them and isolate them from other processes. This means if they are compromised, the threat is more effectively contained.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The GNOME 46 Desktop
 
  We’ve got a detailed roundup of the new [GNOME 46 desktop environment](https://vimeo-videos.techidaily.com/new-the-ultimate-video-editing-experience-for-vimeo-enthusiasts-for-2024/), but it’s worth pointing out a few of the notable items.
@@ -89,24 +94,22 @@ Dave McKay/How-To Geek
 
 ![Fedora 40 Files browser with the local search icon highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  There’s a new search facility in Preferences, making it easier to find the option you want to change.
 
 ![The Fedora 40 Files browser showing the search function in Preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The copying and moving progress indicator has been relocated to the lower-left corner of the Files window. Clicking it shows further details.
 
 ![The file copying indicator in Fedora 40's Files file Browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  The Settings application gains a System menu option, grouping together related items like Region & Language and Date & Time.
@@ -114,9 +117,9 @@ Dave McKay/How-To Geek
 ![The System option and screen in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  You’ll also find a new feature under System > Remote Desktop > Remote Login. With desktop sharing enabled, this option allows you to remotely connect to your computer from an RDP client on another computer.
@@ -124,8 +127,9 @@ Dave McKay/How-To Geek
 ![The Remote Login screen in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  On/Off Shapes is a new feature under Accessibility > Seeing that lets you enable or disable on/off indicators in slider controls.
@@ -133,8 +137,9 @@ Dave McKay/How-To Geek
 ![The On/Off Symbols option in the Settings application](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  One of the best new additions is the ability to connect to Microsoft OneDrive personal storage, and access your remote files and directories from right inside the Files browser.
@@ -151,14 +156,15 @@ Dave McKay/How-To Geek
 
 ![The Microsoft 365 Account dialog. Ignore all fields, and click the blue Sign In button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/9-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
  Click the blue "Sign In" button on the next dialog that appears.
 
 ![The second Microsft 365 Account dialog. Click the blue Sign In button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -166,9 +172,6 @@ Dave McKay/How-To Geek
 
 ![The Fedora 40 Files borwser with a mounted connection to a OneDrive account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/11-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 Dave McKay/How-To Geek
 
 ##  Application Versions
@@ -186,9 +189,6 @@ Dave McKay/How-To Geek
 * **GCC**: 14.0.1
 * **glibc**: 2.39
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ##  The Roaring Forties
 
  Fedora continues to improve, release after release, and despite hitting 40, it shows no signs of slowing down. In fact, with the speed increases in this release, you could say it has accelerated.
@@ -201,8 +201,6 @@ Dave McKay/How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +208,18 @@ Dave McKay/How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-cant-open-acpi-atk0100-kernel-mode-driver/"><u>[Solved] Can’t Open ACPI ATK0100 Kernel Mode Driver</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-stills-to-motion-creating-engaging-timelapse-videos-on-ipad/"><u>[Updated] From Stills to Motion Creating Engaging Timelapse Videos on iPad</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-essential-steps-to-compress-youtube-video-spaces/"><u>2024 Approved The Essential Steps to Compress YouTube Video Spaces</u></a></li>
+<li><a href="https://techtrends.techidaily.com/android-users-handbook-for-making-the-most-out-of-the-measuring-tool-app/"><u>Android Users' Handbook for Making the Most Out of The Measuring Tool App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/finding-missed-notifications-tips-for-iphone-users/"><u>Finding Missed Notifications: Tips for iPhone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-rpcrt4dll-not-detected-problems-efficiently-and-quickly/"><u>Fix Rpcrt4.dll Not Detected Problems Efficiently and Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unsupported-platform-detected-error-while-installing-your-intel-serial-io-driver/"><u>Fixing the 'Unsupported Platform Detected' Error While Installing Your Intel Serial IO Driver</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-turn-off-amber-alerts-on-android/"><u>How to Turn Off AMBER Alerts on Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-15-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 15 Plus? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/screen-partnership-contracts-downloadable-for-2024/"><u>Screen Partnership Contracts, Downloadable for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-how-to-disable-cortanas-copilot-feature-in-windows-11/"><u>Step-by-Step Instructions on How to Disable Cortana's Copilot Feature in Windows 11</u></a></li>
+</ul></div>
 

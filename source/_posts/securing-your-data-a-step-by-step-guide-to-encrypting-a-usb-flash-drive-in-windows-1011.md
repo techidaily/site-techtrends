@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Data: A Step-by-Step Guide to Encrypting a USB Flash Drive in Windows 10/11"
-date: 2024-08-30T15:08:32.972Z
-updated: 2024-08-31T15:08:32.972Z
+date: 2025-02-06T16:08:10.695Z
+updated: 2025-02-07T16:16:42.934Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ---
 
 ## Securing Your Data: A Step-by-Step Guide to Encrypting a USB Flash Drive in Windows 10/11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
  Full disk encryption isn't something everyone needs to do, but if your computer has sensitive information on it that could harm you if the drive were stolen, BitLocker is a good way to protect yourself. It's particularly useful for portable computers, since these have a much higher chance of being lost or stolen than a desktop system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Encrypt a USB Flash Drive in Windows 10 or 11
 
  If you've decided that BitLocker is the right solution for your removable drive, here's how to set it up:
@@ -53,24 +54,26 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. Choose a password.
 
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
 ![Bitlocker asking the user whether they want to encrypt the entire disk or only part of it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  8\. Choose the encryption type, which in almost all cases should be "Compatibility Mode." This ensures that older versions of Windows can read the drive. Since we're encrypting a portable drive, this is presumably something you want. However, if you're only going to use this drive with one computer, feel free to select the newer encryption option instead.
 
 ![Bitlocker offering either the new encryption mode or the older compatible mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7.jpg) 
@@ -80,9 +83,14 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 ![The BitLocker Ready screen with a 'Start Encrypting' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Decrypt a USB Flash Drive in Windows 10 or 11
 
@@ -98,14 +106,8 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then simply confirm as you did when first encrypting the drive.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Third-Party Encryption Options
 
  As mentioned earlier, BitLocker isn't included in Home versions of Windows. That doesn't mean you have to be left in the lurch when it comes to keeping your data safe.
@@ -124,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +133,20 @@ thumbnail: https://thmb.techidaily.com/8605278b5d648a8e727674b42f156215fdccc4c56
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastery-in-converting-classic-vhs-into-high-quality-pictures/"><u>[Updated] Mastery in Converting Classic VHS Into High-Quality Pictures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd7/"><u>「マルチメディアプレイバックガイド：動画・音声・DVDの総合方法パート7」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-your-ps4-how-to-enable-mp4-file-playback-from-usb-devices-and-computers/"><u>Fix Your PS4: How To Enable MP4 File Playback From USB Devices and Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-converter-change-wmv-files-into-mp4-format-on-macos-and-windows-11/"><u>Free Online Converter: Change WMV Files Into MP4 Format on macOS and Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-video-compression-service-reduce-files-over-1gb-down-to-mb/"><u>Free Video Compression Service: Reduce Files Over 1GB Down to MB</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-play-8t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor Play 8T Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-a18-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo A18? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-evaluation-of-clipcreator-editor-updated-for-2024/"><u>In-Depth Evaluation of ClipCreator Editor - Updated for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211151758-9781685681104-la-intuicion/"><u>La intuición | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stabile-videos-erstellen-tipps-fur-die-aufnahme-auf-windows-mac-android-und-iphone/"><u>Stabile Videos Erstellen: Tipps Für Die Aufnahme Auf Windows, Mac, Android Und iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tiny-tech-mighty-performance-the-revolutionary-hp-stream-11/"><u>Tiny Tech, Mighty Performance: The Revolutionary HP Stream 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-features-and-performance-in-our-viber-out-appraisal/"><u>Unpacking the Features & Performance in Our Viber Out Appraisal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gear-a-deep-dive-into-technology-and-hardware/"><u>Unveiling Tom's Gear: A Deep Dive Into Technology and Hardware</u></a></li>
+</ul></div>
 

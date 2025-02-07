@@ -1,7 +1,7 @@
 ---
 title: "Hidden Capabilities: Discovering 8 Unknown Functions of ChatGPT"
-date: 2024-08-30T15:09:09.353Z
-updated: 2024-08-31T15:09:09.353Z
+date: 2025-02-06T16:16:10.712Z
+updated: 2025-02-07T16:12:40.673Z
 tags:
   - cutting-edge
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  ChatGPT is a great resource for obtaining information, but there's a lot more you can do with this tool to make your life easier. Here are a few nifty ChatGPT features that you may not know about but are easy to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Share and Export Your Chats
 
  If you want to save your ChatGPT conversations locally or share them with someone else, you can do so in seconds.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
  To share a chat with someone else, click on the share icon (it looks like an upwards-facing arrow above a box) on the top-right of the chat page. Here, you'll be provided with a link which you can send to others to share your chat.
 
 ![The ChatGPT chat share window on the desktop browser interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-share-chat.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To export chat data, click on your account name at the bottom-left of the chat page, and head to "Settings & Beta." In the "Data controls" section, you'll see the option to export your data.
 
@@ -45,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  Check out our guide on [how to ensure ChatGPT is saving conversations](https://instagram-video-files.techidaily.com/in-2024-mastering-instagram-incorporating-music-in-videos-and-stories/) to keep your data safe.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Customize Your Responses
 
  ChatGPT can provide some fantastic responses, but can also provide some shoddy ones. To increase the chance of receiving the response you're looking for, consider customizing ChatGPT's responses.
@@ -57,9 +61,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![ChatGPT custom instructions setup window on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-custom-instructions.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, you'll be able to give ChatGPT a little more information on yourself, as well as some pointers on how you'd like responses to be structured and worded. This doesn't mean you can ask ChatGPT to give you false, harmful, or illegal information, but allows you to personalize the angle, structure, or length of responses to better suit your preferences.
 
  You can alter these instructions at any time if your preferences change, and have the option to disable customization for new chats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Converse In Different Languages
 
@@ -67,18 +79,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![ChatGPT conversing in Spanish on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-spanish-chat.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that, even if you don't request the change of language for a single chat, your next conversation will still be in English.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use ChatGPT's Plugins
 
  Along with its basic version, GPT-4, ChatGPT's newer, premium model, offers [various plugins](https://games-able.techidaily.com/deleting-games-from-steam-efficient-tips-and-tricks/) that you can use in chat. Let's take a look at these additional tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ###  DALL-E
 
  DALL-E is OpenAI's AI-powered image generation tool, with its [latest version being DALL-E 3](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/). While you can access DALL-E through its dedicated website, GPT-4 offers DALL-E integration within your chats.
@@ -87,14 +97,8 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![ChatGPT DALL-E image generation on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  You can add to your prompt upon each image generation until you get exactly what you're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Web Search
 
  While ChatGPT was only trained on data up to April 2023, you can use its web search feature to access recent information. ChatGPT uses Bing to make web searches on your behalf, but note this usually takes a little longer than a prompt that doesn't require a web search.
@@ -103,27 +107,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![ChatGPT Bing search results on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-nasdaq-ftse-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT will provide a source for the information provided at the end of each pointer, displayed as \["\]. You can always re-request the search or refine your search prompt to get better results.
 
  If you're [using ChatGPT to make web searches](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/), it's always wise to fact-check the information provided, as it may not be exact or up-to-date.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ###  Python Tool
 
  If you're a Python coder or are looking to familiarize yourself with this coding language, ChatGPT's Python tool may be of use.
@@ -138,16 +129,10 @@ Key features:
 
  Note that ChatGPT can make mistakes when analyzing and providing code, so it's always worth sending the code through a simulation tool or asking a more experienced individual before using it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ##  Play Games
 
  ChatGPT doesn't have to be for serious use only. You can play a number of games with the AI chatbot, be it to test out its abilities or simply pass the time. Let's try out some examples.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Tic-Tac-Toe
 
 ![ChatGPT playing tic tac toe on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-tictactoe.jpg) 
@@ -160,7 +145,15 @@ Key features:
 
 ![ChatGPT playing hangman game on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-hangman-game.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Similarly to tic-tac-toe, ChatGPT sets up a template for the unknown word and the hangman illustration. Simply type the letter you want to guess, and the bot will either add it to the word or begin illustrating the hangman drawing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Twenty Questions
 
@@ -168,10 +161,11 @@ Key features:
 
 ![ChatGPT playing 20 questions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-twenty-questions.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  ChatGPT will think of the word, and it's then down to you to ask the questions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Opt Out of Having Your Chat Data Used
 
@@ -181,10 +175,11 @@ Key features:
 
 ![ChatGPT settings on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-datacontrols-history.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, your data will no longer be used in ChatGPT's training. However, this comes with a caveat: your chat history will also be disabled. So, if you're happy to not have access to previous chats, go ahead and disable this feature. If not, you may have to surrender to OpenAI's chat data usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Grade Essays
 
@@ -194,16 +189,10 @@ Key features:
 
 ![ChatGPT analyzing an essay prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-essay-grade.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, ChatGPT responded to the essay sample with a useful analysis of the text. Of course, it's wise to do your own read-through of work, too, but using ChatGPT can expedite the process a little.
 
  Note that you can also provide ChatGPT with the grading rubric being used on your essay before you send it over. This allows ChatGPT to provide grading within your specific parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use ChatGPT In Your Own Software
 
  ChatGPT offers API keys for premium users so that the GPT interface can be integrated into other software programs.
@@ -226,8 +215,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +222,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ideal-video-snapper-for-your-chromebook/"><u>[Updated] Ideal Video Snapper For Your Chromebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cbrmcprm/"><u>【ベストプラクティス無料】CBRM対応地デジフリーソフトを活用した正確なCPRM解除手順</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-best-fps-optimization-tools-for-lag-free-pc-gaming-and-streaming-boost-gameplay-performance-now/"><u>5 Best FPS Optimization Tools for Lag-Free PC Gaming and Streaming - Boost Gameplay Performance Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/15-4k-1080p/"><u>免費提供，15 部 4K 或者 1080P 電影轉檔平台解決方案</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-infinix-smart-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Smart 8 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/friends-in-fandoms-forums/"><u>Find Friends in Fandom's Forums</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-yuva-2-pro-lock-screen-password-by-drfone-android/"><u>How To Change Lava Yuva 2 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-make-and-upload-360-video-to-facebook/"><u>How to Make and Upload 360 Video to Facebook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-to-pick-the-most-game-ready-iphone-expert-picks-and-reviews/"><u>How to Pick the Most Game-Ready iPhone: Expert Picks and Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-3gp-video-rotation-software-top-picks/"><u>In 2024, Free 3GP Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4mov/"><u>MP4形式からMOVへ効果的に変換するための最適化方法</u></a></li>
+<li><a href="https://techtrends.techidaily.com/power2go-u/"><u>Power2Go操作マニュアル: U盤書き込み・コピー手法の実施</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-dvd-copying-with-winxdvd-convert-videos-and-effortlessly-move-to-ios-devices/"><u>Seamless DVD Copying with WinXDVD – Convert Videos & Effortlessly Move to iOS Devices</u></a></li>
+</ul></div>
 

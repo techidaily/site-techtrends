@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Locate All Photographs in Your Windows 11 System
-date: 2024-08-30T15:07:35.702Z
-updated: 2024-08-31T15:07:35.702Z
+date: 2025-02-02T16:04:45.111Z
+updated: 2025-02-07T16:02:02.959Z
 tags:
   - desktop
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Have you ever [transferred some pictures to your PC](https://hardware-tips.techidaily.com/master-your-gadgets-with-innovative-solutions-from-toms-hardware-experts/) and then forget where you stored them? Or, maybe you've got a few storage hard drives and don't want to search them manually? Here's a simple way to get Windows to search for all your photos on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Find All Your Photos Manually
 
  Unfortunately, pictures get stored in different places on your PC depending on the where they come from. Windows itself stores images in your "Pictures" folder. Some syncing services try to respect that, but you'll often find pictures transferred from things like DropBox, iCloud, and OneDrive in their own folders. If you transfer pictures from your camera or another device directly to your PC, those pictures also can end up in different places depending on the transfer method. And if you download pictures from the internet, they'll usually end up in whatever download folder your browser is set to use.
@@ -36,9 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  A Better Way: Let Windows Search Find All Your Photos
 
  File Explorer has a quick trick for searching for different types of documents. It's not exactly hidden, but most people never bother with it.
@@ -47,16 +41,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h12_46.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also search a particular hard drive or folder. For this example, we're going to search our C: drive.
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h14_41.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Next, click the search box at the top right of the window. Doing so will display the otherwise hidden "Search" tab at the top. Switch to that tap, click the "Kind" button, and then select "Pictures" from the drop-down menu.
 
 ![/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-10-31_20h01_57.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That inserts the following operator into the search box. If you prefer, you can also type it there yourself to get the same results.
 
@@ -75,13 +74,18 @@ kind:=picture
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
 
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
@@ -90,16 +94,13 @@ kind:=picture
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
 
 * JPEG (.jpeg)
@@ -119,8 +120,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/businesses-can-now-personalize-googles-vector-ai-for-internal-use-thanks-to-recent-updates/"><u>Businesses Can Now Personalize Google's Vector AI for Internal Use, Thanks to Recent Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-my-laptop-have-bluetooth-two-ways-to-check/"><u>Does My Laptop Have Bluetooth? [Two Ways to Check]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-see-who-has-viewed-a-google-doc/"><u>How to See Who Has Viewed a Google Doc</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/practical-tips-for-programming-time-specific-sms-from-ios-phones/"><u>Practical Tips for Programming Time-Specific SMS From iOS Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/sniping-in-windows-10-prtsc-vs-snip-and-sketch-showdown/"><u>Sniping in Windows 10: PrtSc Vs. Snip & Sketch Showdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-creating-multi-device-remote-software/"><u>Step-by-Step Tutorial on Creating Multi-Device Remote Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-syncing-multiple-bose-soundlink-speakers/"><u>Step-By-Step Tutorial on Syncing Multiple Bose SoundLink Speakers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-your-digital-world-how-to-establish-a-youtube-channel-for-2024/"><u>Unveiling Your Digital World How to Establish a YouTube Channel for 2024</u></a></li>
+</ul></div>
 

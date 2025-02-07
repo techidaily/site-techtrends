@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Photos on Linux Systems: A Step-by-Step Guide to Deleting Metadata with Exiftool"
-date: 2024-08-30T15:07:25.259Z
-updated: 2024-08-31T15:07:25.259Z
+date: 2025-02-02T16:05:48.524Z
+updated: 2025-02-07T16:04:48.830Z
 tags:
   - desktop
 categories:
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a5
 
  So, with this knowledge, we'll move forward to protect ourselves with Linux and exiftool!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Installing Required Packages
 
  Exiftool is a platform-independent library and command line application, written in Perl, by Phil Harvey. It's available from [the official exiftool website](https://exiftool.org/), which also has a wealth of information, a FAQ and message forum for user questions.
@@ -62,22 +59,24 @@ sudo dnf install perl-Image-ExifTool
 
 ![Terminal window showing command to install exiftool on Fedora](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-19.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For Arch distros like Manjaro, you'll install the perl-image-exiftool package with pacman:
 
 sudo pacman -S perl-image-exiftool
 
 ![Terminal window showing command to install exiftool on Arch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Viewing Metadata on an Existing Image
 
 ![An old, red telephone booth](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/donor-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jordan Erickson / How-To Geek
 
  Here's a nice picture I took last year of a phone booth. Innocent enough, right? Well, now that we've got exiftool in our arsenal, let's take a look what metadata it's stowing:
@@ -88,6 +87,10 @@ exiftool donor.jpg
 
  Compared to what could be recorded by other smartphones, this is pretty tame. You'll notice that I didn't have GPS enabled on my phone when snapping this photo since it was not recorded in the EXIF metadata. Even so, there's still other info I'd rather not share with just anyone. So let's just strip it _all_ from the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Stripping It All Out
 
  Removing all EXIF metadata is pretty simple:
@@ -97,17 +100,15 @@ exiftool -all= donor.jpg
 ![Terminal window showing command to remove EXIF metadata on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exiftool-4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The command above will create a backup of the original, appending "\_original" to the end of the filename. If you don't want this behavior, you can use:
 
 exiftool -all= -overwrite_original donor.jpg
 
 ![Terminal window showing the command to remove all metadata and overwrite original file, not creating a backup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exiftool-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Verifying It's Removed Before Sharing
 
  Let's ensure we've gotten rid of everything before posting it online, shall we? We'll use the same command we used above to re-examine the file:
@@ -117,8 +118,9 @@ exiftool donor.jpg
 ![Terminal window showing command to view the nonexistent EXIF metadata on Debian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exiftool-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Much better! There's not much here now, besides what's mandatory as per the EXIF spec.
 
  Posting pictures online has become ubiquitous. Of course, that doesn't mean you have to share more than you intended to. With exiftool in your arsenal, you can protect yourself and others a bit better. Additionally, along with the power of [scripting](https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/), you can do much more to manipulate the existing metadata in your image library than what's described in this tutorial.
@@ -129,8 +131,6 @@ exiftool donor.jpg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,20 @@ exiftool donor.jpg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-smooth-transition-synchronizing-your-iphones-albums-with-icloud-backup-for-2024/"><u>[New] Smooth Transition Synchronizing Your iPhone's Albums with iCloud Backup for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-upload-without-rt-video-tweets/"><u>[Updated] 2024 Approved How to Upload Without RT Video Tweets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-pixelpilot-photovideo-slide-show-for-macos/"><u>[Updated] PixelPilot Photovideo Slide Show for macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-easily-hosting-a-zoom-conference/"><u>2024 Approved Easily Hosting a Zoom Conference</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/annual-compilation-of-premium-free-lut-choices-for-2024/"><u>Annual Compilation of Premium Free LUT Choices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-how-to-access-and-view-the-samsung-unpacked-presentation/"><u>Guide: How to Access and View the Samsung Unpacked Presentation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stream-your-laptop-display-on-tv-through-hdmi-connection/"><u>How to Stream Your Laptop Display on TV Through HDMI Connection?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-microsoft-edge-exe-crashes-a-comprehensive-guide/"><u>Resolving Microsoft Edge Exe Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-tiktok-hiccups-getting-back-in-sync-with-the-app/"><u>The Ultimate Fixes for TikTok Hiccups: Getting Back in Sync with the App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-your-surface-pros-wi-fi-connection-issues/"><u>Troubleshooting Steps for Your Surface Pro's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/using-household-items-a-guide-to-opening-your-iphone-sim-tray-without-a-tool/"><u>Using Household Items: A Guide to Opening Your iPhone SIM Tray without a Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pova-5-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pova 5 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-know-about-the-upcoming-apple-watch-ultra-projections-on-price-release-schedule-specs-and-insider-rumors/"><u>What to Know About the Upcoming Apple Watch Ultra: Projections on Price, Release Schedule, Specs and Insider Rumors</u></a></li>
+</ul></div>
 

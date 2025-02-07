@@ -1,7 +1,7 @@
 ---
 title: Solutions to Restore Text Input Functionality When Cursor Goes White on Windows PC
-date: 2024-08-30T15:07:28.838Z
-updated: 2024-08-31T15:07:28.838Z
+date: 2025-02-05T16:09:26.237Z
+updated: 2025-02-07T16:01:42.591Z
 tags:
   - desktop
 categories:
@@ -45,8 +45,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If the white cursor strikes in other applications like Microsoft Office, follow the same steps to identify the offending add-in. Once you've identified the problematic extension or add-in, you can either update it (if available) or simply remove it from the application.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. Change the Mouse Pointer Settings
 
  The default text select setting for your mouse pointer is white, which works well in most of cases, but it can sometimes blend into the background and disappear, causing the problem at hand. In this case, the solution is to customize the text select setting of your mouse pointer.
@@ -56,33 +57,37 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Mouse option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/mouse-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the "Additional Mouse Settings" option.
 
 ![Additional mouse settings option in Mouse Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/additional-mouse-settings-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Switch to the "Pointers" tab, select the "Text Select" option, and then click "Browse".
 
 ![Browse option in Mouse Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/browse-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "beam\_r" from the list and then click the "Open" button.
 
 ![beam_r option in Mouse Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/beam_r-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Apply" and then "OK" to save the changes.
 
 ![Apply option in Mouse settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/apply-option.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/). Upon restart, you should no longer be facing the issue.
 
 ##  4\. Enable the Option to Display the Mouse Pointer Location
@@ -93,14 +98,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Show location of pointer when I press the CTRL key option in Mouse Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/show-location-of-pointer-when-i-press-the-ctrl-key-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, you can simply press your keyboard's Ctrl key to instantly locate the mouse cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  5\. Change the Mouse Pointer Scheme Settings
 
  The default white cursor scheme can sometimes cause the mouse cursor to disappear on a white background. To avoid this situation, you must choose a different pointer scheme.
@@ -111,9 +110,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Windows Black scheme in Mouse Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-black-scheme.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click Apply > OK to save the changes.
 
  Now, check if you're still facing the problem. If yes, follow the next solution.
@@ -130,10 +126,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![regedit command in the Run tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/regedit.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  In the Registry Editor, navigate to the following location:
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm
@@ -142,9 +134,17 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm
 
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/dword-32-bit-value.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Name the value "OverlayTestMode" and then hit Enter.
 
 ![OverlayTestMode value in the Registry Editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/overlaytestmode.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Double-click the "OverlayTestMode" value, type "00000005" in the Value data field, and click the "OK" button to save the changes.
 
@@ -162,8 +162,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +169,22 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-discord-live-stream-recording-guide/"><u>[New] In 2024, Discord Live Stream Recording Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-to-cheap-video-conferencing-tools-for-computers/"><u>[New] In 2024, Essential Guide to Cheap Video Conferencing Tools for Computers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-navigating-the-nuances-of-color-grading-for-gopro-editors/"><u>[New] Navigating the Nuances of Color Grading for GoPro Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-leading-edge-technology-selecting-15-ultimate-cameras/"><u>2024 Approved Leading Edge Technology Selecting 15 Ultimate Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solution-for-repairing-msvbvm50dll-is-missing-or-cannot-be-located/"><u>Comprehensive Solution for Repairing 'MSVBVM50.dll Is Missing or Cannot Be Located'</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/desde-audios-en-caf-a-m4a-sin-gastos-conversion-de-sonido-gratis-y-facil-con-movavi/"><u>Desde Audios en CAF a M4A Sin Gastos: Conversión De Sonido Gratis Y Fácil Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-transportation-tips-utilizing-minecrafts-teleport-command-effectively/"><u>Easy Transportation Tips: Utilizing Minecraft's Teleport Command Effectively</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-to-tackle-coredll-cannot-be-located-warnings/"><u>Effective Strategies to Tackle Core.dll Cannot Be Located Warnings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elgato-stream-deck-neo-review-initial-thoughts-and-features/"><u>Elgato Stream Deck Neo Review: Initial Thoughts and Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mirthful-melodies-top-downloads-for-tones/"><u>In 2024, Mirthful Melodies Top Downloads for Tones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-navigating-through-virtual-realms-with-headgear/"><u>In 2024, Navigating Through Virtual Realms with Headgear</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-process-sending-electronic-steam-gift-cards-with-confidence/"><u>Navigating the Process: Sending Electronic Steam Gift Cards with Confidence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722845451646-solutions-for-restoring-your-invisible-wi-fi-connection/"><u>Solutions for Restoring Your Invisible Wi-Fi Connection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-simple-strategies-to-boost-your-productivity-on-facebook/"><u>Top 5 Simple Strategies to Boost Your Productivity on Facebook</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy Seamless Zoom Meetings on Your Sofa with the Latest Apple TV App - ZDNet
-date: 2025-01-19T20:46:20.365Z
-updated: 2025-01-25T18:39:19.142Z
+date: 2025-01-31T16:24:44.179Z
+updated: 2025-02-07T16:16:45.208Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
@@ -43,6 +43,10 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -67,7 +71,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -77,7 +81,7 @@ When the timer is up to indicate that you should have reached your destination, 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
@@ -97,7 +101,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -107,10 +111,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -154,20 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rafting-the-perfect-schedule-for-jobs-and-youtube-for-2024/"><u>[New] Crafting the Perfect Schedule for Jobs & YouTube for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlined-teaching-mastering-lecture-capture-on-mac-systems/"><u>[Updated] 2024 Approved Streamlined Teaching Mastering Lecture Capture on Mac Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/access-high-definition-hollywood-films-free-bilingual-english-and-hindi-downloads/"><u>Access High-Definition Hollywood Films Free: Bilingual (English & Hindi) Downloads</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/battle-in-the-desk-space-how-huaweis-matestation-x-goes-head-to-head-with-apple-imac-a-comprehveive-review-and-buyers-guide-gadgetgeeks/"><u>Battle in the Desk Space: How Huawei's MateStation X Goes Head-to-Head with Apple iMac - A Comprehveive Review and Buyer's Guide | GadgetGeeks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/convert-your-videos-flawlessly-with-the-top-free-avi-to-mkv-converter-for-macos-and-windows-10/"><u>Convert Your Videos Flawlessly with the Top Free AVI to MKV Converter for macOS & Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-effortless-steps-to-get-and-set-up-virtualdub-on-your-mac/"><u>Guide: Effortless Steps to Get and Set Up VirtualDub on Your Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-hardware-detection-errors-in-win/"><u>How To Correct Hardware Detection Errors in Win</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-leap-by-openai-with-the-new-gpt-4-generative-ai-model/"><u>Innovative Leap by OpenAI with the New GPT-ˈ4 Generative AI Model</u></a></li>
-<li><a href="https://win-guides.techidaily.com/quick-fixes-for-resolving-hulu-error-code-137-instantly/"><u>Quick Fixes for Resolving Hulu Error Code 137 Instantly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-for-fixing-whatsapp-malfunction-on-ios-devices-xsxrx87/"><u>Troubleshooting Guide for Fixing WhatsApp Malfunction on iOS Devices (XS/XR/X/8/7)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-finding-the-perfect-region-free-dvd-player-for-your-mac/"><u>Ultimate Guide to Finding the Perfect Region-Free DVD Player for Your Mac</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-how-to-take-professional-screenshots-and-record-your-mac-display-with-crystal-clarity/"><u>Ultimate Guide: How to Take Professional Screenshots and Record Your Mac Display with Crystal Clarity</u></a></li>
-<li><a href="https://win-web3.techidaily.com/weekly-music-blast-elvis-and-more-on-karaoke-cloud-pro-join-our-fifty-song-journey/"><u>Weekly Music Blast! Elvis & More on Karaoke Cloud Pro - Join Our 'Fifty-Song' Journey</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1724765947878-xmedia-recode/"><u>XMedia Recode チュートリアル：ダウンロード方法と使用ガイド - 日本版</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-digital-screens-for-up-close-focus/"><u>[New] 2024 Approved Enhancing Digital Screens for Up-Close Focus</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-revolutionize-your-video-content-with-free-intro-designers/"><u>[New] 2024 Approved Revolutionize Your Video Content with Free Intro Designers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-channels-discovering-gpodc-gold/"><u>[New] Best Channels Discovering GPodC Gold</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamline-and-slim-vids-instagram-tips-using-macos/"><u>[New] In 2024, Streamline and Slim Vids Instagram Tips Using macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-evolution-of-drones-present-impact-and-future-prospects/"><u>[New] The Evolution of Drones Present Impact and Future Prospects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-audio-mastery-in-visual-storytelling-vimeo-edition/"><u>[Updated] 2024 Approved Audio Mastery in Visual Storytelling Vimeo Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensively-understanding-wm6-setup/"><u>2024 Approved Comprehensively Understanding WM6 Setup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/book-an-expert-consultation-a-comprehensive-tutorial-on-scheduling-your-apple-genius-bar-time/"><u>Book an Expert Consultation: A Comprehensive Tutorial on Scheduling Your Apple Genius Bar Time</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparison-playstation-5-slim-vs-original-ps5-console/"><u>Comparison: PlayStation 5 Slim vs Original PS5 Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/determining-discords-status-service-interruption-or-individual-user-troubleshooting-steps/"><u>Determining Discord's Status: Service Interruption or Individual User Troubleshooting Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722893950035-discover-the-best-8-no-cost-music-apps-on-your-iphone-today/"><u>Discover the Best 8 No-Cost Music Apps on Your iPhone Today!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23with/without a PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-to-deactivate-your-facebook-on-android-what-you-need-to-know/"><u>Step-by-Step Instructions to Deactivate Your Facebook on Android: What You Need To Know</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-the-locked-issue-in-steam-games/"><u>Troubleshooting the Locked Issue in Steam Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-youtube-stardom-8-key-techniques-that-make-videos-go-viral/"><u>Unlocking YouTube Stardom: 8 Key Techniques That Make Videos Go Viral</u></a></li>
 </ul></div>
 
